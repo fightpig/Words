@@ -7,11 +7,11 @@ from typing import List
 
 import requests
 from bs4 import BeautifulSoup
+from dotenv import load_dotenv
 from icecream import ic
 
 from src.book import MyWord
 from src.utils import download_file
-from dotenv import load_dotenv
 
 load_dotenv('../conf/.env')
 
@@ -33,7 +33,9 @@ class Oxford:
             save_path = f'{p}/{kind}/{word[0].lower()}/{word}.mp3'
 
             if override or not os.path.exists(save_path):
+
                 re, *_ = download_file(save_path=save_path, url=cls.mp3_uri + '/' + mp3_path, headers=HEADERS)
+
                 if re is False:
                     with open(f'{p}/{kind}-fail.txt', "a+") as f:
                         f.write(word + '\n')
@@ -276,8 +278,8 @@ def test_baidu():
 
 if __name__ == '__main__':
     # test_oxford_5000()
-    test_sogou()
-    test_bing()
+    # test_sogou()
+    # test_bing()
     # test_baidu()
 
     ...
