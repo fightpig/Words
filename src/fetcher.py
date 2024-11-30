@@ -11,6 +11,9 @@ from icecream import ic
 
 from src.book import MyWord
 from src.utils import download_file
+from dotenv import load_dotenv
+
+load_dotenv('../conf/.env')
 
 HEADERS: dict = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) '
@@ -19,8 +22,8 @@ HEADERS: dict = {
 
 
 class Oxford:
-    url: str = 'https://www.oxfordlearnersdictionaries.com/wordlists/oxford3000-5000'
-    mp3_uri: str = 'https://www.oxfordlearnersdictionaries.com/'
+    url: str = os.environ.get('oxford5000-url')
+    mp3_uri: str = os.environ.get('oxford5000-mp3-uri')
 
     @classmethod
     def download_5000_word_and_audio(cls, save_dir_path='oxford5000', override=False):
@@ -30,7 +33,7 @@ class Oxford:
             save_path = f'{p}/{kind}/{word[0].lower()}/{word}.mp3'
 
             if override or not os.path.exists(save_path):
-                re, *_ = download_file(save_path=save_path, url=cls.mp3_uri + mp3_path, headers=HEADERS)
+                re, *_ = download_file(save_path=save_path, url=cls.mp3_uri + '/' + mp3_path, headers=HEADERS)
                 if re is False:
                     with open(f'{p}/{kind}-fail.txt', "a+") as f:
                         f.write(word + '\n')
@@ -77,7 +80,7 @@ class Base:
 
 
 class Sogou(Base):
-    url: str = 'https://fanyi.sogou.com/?keyword={word}&transfrom=auto&transto=zh-CHS&model=general&errcode=s10'  # noqa
+    url: str = os.environ.get('sogou-url')
 
     @classmethod
     def fetch(cls, word, to_my_word=False, save_json_path=None) -> dict | MyWord | None:
@@ -125,7 +128,7 @@ class Sogou(Base):
 
 
 class Bing(Base):
-    url: str = 'https://cn.bing.com/dict/search?q={word}'
+    url: str = os.environ.get('bing-url')
     headers: dict = {
         'authority': 'cn.bing.com',
         'method': 'GET',
@@ -228,8 +231,8 @@ class Bing(Base):
 
 
 class Baidu:
-    us_audio_url: str = 'https://fanyi.baidu.com/gettts?lan=en&text={text}&spd=3'
-    uk_audio_url: str = 'https://fanyi.baidu.com/gettts?lan=uk&text={text}&spd=3'
+    us_audio_url: str = os.environ.get('baidu-us-audio-url')
+    uk_audio_url: str = os.environ.get('baidu-uk-audio-url')
 
     @classmethod
     def download_audio(cls, text: str, save_dir_path: str | Path, lan: str | None = None) -> List[bool]:
@@ -273,7 +276,8 @@ def test_baidu():
 
 if __name__ == '__main__':
     # test_oxford_5000()
-    # test_sogou()
-    # test_bing()
+    test_sogou()
+    test_bing()
     # test_baidu()
+
     ...
