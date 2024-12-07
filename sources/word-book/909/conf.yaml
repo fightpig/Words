@@ -1,0 +1,35 @@
+name: 909
+path: 909-without-meaning.txt
+priority:
+    # 音频优先读取顺序
+    word-audio-libs:
+        path:
+            nce:
+                - us
+                - uk
+            oxford5000:
+                - us
+                - uk
+            韦氏142000:
+                - us
+            sogou:
+                - us
+                - uk
+            bing:
+                - us
+                - uk
+            baidu:
+                - us
+                - uk
+            local-tts:
+                - us
+                - uk
+        url:
+            baidu: ''
+    # 含义优先读取顺序
+    word-info-libs:
+        - nce
+        - bing
+        - sogou
+        - cet4
+        - cet6
