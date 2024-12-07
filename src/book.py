@@ -277,18 +277,17 @@ class Book:
     def __init__(
         self,
         book_dir_path="../sources/word-book",
-        word_audio_libs_path="../sources/word-audio-libs",
-        word_info_libs_path="../sources/word-info-libs",
-        sogou_word_info_libs_path="../sources/sogou-word-info-libs",
+        word_audio_libs_dir_path="../sources/word-audio-libs",
+        word_info_libs_dir_path="../sources/word-info-libs",
+        sogou_word_info_libs_dir_path="../sources/sogou-word-info-libs",
         config: Config | None = None,
         showerror_by_messagebox=True,
     ):
-        self.sogou_word_info_libs_path = None
         self.showerror_by_messagebox = showerror_by_messagebox
         self.book_dir_path = Path(book_dir_path)
-        self.word_audio_libs_path = Path(word_audio_libs_path)
-        self.word_info_libs_path = Path(word_info_libs_path)
-        self.sogou_word_info_libs_path = Path(sogou_word_info_libs_path)
+        self.word_audio_libs_dir_path = Path(word_audio_libs_dir_path)
+        self.word_info_libs_dir_path = Path(word_info_libs_dir_path)
+        self.sogou_word_info_libs_dir_path = Path(sogou_word_info_libs_dir_path)
         self.config = config if config else Config()
 
         # {909: 909}
@@ -326,7 +325,7 @@ class Book:
                     word_name = audio_path.name.split(f".{suffix}")[0]
                     result[word_name][kind_name][source_name] = str(audio_path)
 
-        for source_path in self.word_audio_libs_path.iterdir():
+        for source_path in self.word_audio_libs_dir_path.iterdir():
             kind_names: List[Path] = [
                 kind_name
                 for kind_name in source_path.iterdir()
@@ -358,9 +357,9 @@ class Book:
     def load_info_libs(self):
         """加载所有单词信息的json路径"""
         for liter in list(string.ascii_lowercase):
-            if not (self.word_info_libs_path / liter).exists():
+            if not (self.word_info_libs_dir_path / liter).exists():
                 continue
-            for p in (self.word_info_libs_path / liter).glob("*.json"):
+            for p in (self.word_info_libs_dir_path / liter).glob("*.json"):
                 if not p.exists():
                     continue
                 self.word_info_path_dict[p.name.replace(".json", "")] = p
@@ -449,7 +448,7 @@ class Book:
                 word_obj = MyWord.update_my_word(word_obj, sogou_word_obj)
                 if content:
                     with open(
-                        self.sogou_word_info_libs_path / f"{word}.json",
+                            self.sogou_word_info_libs_dir_path / f"{word}.json",
                         "w",
                         encoding="utf-8",
                     ) as f:
@@ -463,14 +462,14 @@ class Book:
 
         if need_save:
             self.load_all_audio_paths(word_obj)
-            word_obj.save_to_json(self.word_info_libs_path / f"{word[0].lower()}")
+            word_obj.save_to_json(self.word_info_libs_dir_path / f"{word[0].lower()}")
 
         # 下载音频
         word_audio_path = self.get_word_audio_path(word_obj)
         if not word_audio_path and auto_download_audio:
             for source, url in word_obj.us_audio_url_dict.items():
                 download_audio_file(
-                    self.word_audio_libs_path,
+                    self.word_audio_libs_dir_path,
                     source,
                     "us",
                     word,
@@ -479,7 +478,7 @@ class Book:
                 )
             for source, url in word_obj.uk_audio_url_dict.items():
                 download_audio_file(
-                    self.word_audio_libs_path,
+                    self.word_audio_libs_dir_path,
                     source,
                     "uk",
                     word,
@@ -709,7 +708,7 @@ def update_book(book_name: str):
             if mp3 and Path(mp3).exists():
                 word_obj.uk_audio_path_dict["oxford5000"] = mp3
 
-        word_obj.save_to_json(f"{book.word_info_libs_path}/{word[0].lower()}")
+        word_obj.save_to_json(f"{book.word_info_libs_dir_path}/{word[0].lower()}")
         print(f"idx: {idx}, word: {word}")
 
 
