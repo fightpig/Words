@@ -13,56 +13,63 @@ from icecream import ic
 from src.book import MyWord
 from src.utils import download_file
 
-load_dotenv('../conf/.env')
+load_dotenv("../conf/.env")
 
 HEADERS: dict = {
-    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) '
-                  'AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0'  # noqa
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+    "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0"  # noqa
 }
 
 
 class Oxford:
-    url: str = os.environ.get('oxford5000-url')
-    mp3_uri: str = os.environ.get('oxford5000-mp3-uri')
+    url: str = os.environ.get("oxford5000-url")
+    mp3_uri: str = os.environ.get("oxford5000-mp3-uri")
 
     @classmethod
-    def download_5000_word_and_audio(cls, save_dir_path='oxford5000', override=False):
+    def download_5000_word_and_audio(cls, save_dir_path="oxford5000", override=False):
         def _f(p, kind):
-            mp3_path = li.find('div', {'class': f'sound audio_play_button icon-audio pron-{kind}'})['data-src-mp3']
-            os.makedirs(f'{p}/{kind}/{word[0].lower()}', exist_ok=True)
-            save_path = f'{p}/{kind}/{word[0].lower()}/{word}.mp3'
+            mp3_path = li.find(
+                "div", {"class": f"sound audio_play_button icon-audio pron-{kind}"}
+            )["data-src-mp3"]
+            os.makedirs(f"{p}/{kind}/{word[0].lower()}", exist_ok=True)
+            save_path = f"{p}/{kind}/{word[0].lower()}/{word}.mp3"
 
             if override or not os.path.exists(save_path):
 
-                re, *_ = download_file(save_path=save_path, url=cls.mp3_uri + '/' + mp3_path, headers=HEADERS)
+                re, *_ = download_file(
+                    save_path=save_path,
+                    url=cls.mp3_uri + "/" + mp3_path,
+                    headers=HEADERS,
+                )
 
                 if re is False:
-                    with open(f'{p}/{kind}-fail.txt', "a+") as f:
-                        f.write(word + '\n')
+                    with open(f"{p}/{kind}-fail.txt", "a+") as f:
+                        f.write(word + "\n")
                 else:
-                    ic(f'Finish {word} {kind.upper()} MP3')
+                    ic(f"Finish {word} {kind.upper()} MP3")
 
         response = requests.get(cls.url, headers=HEADERS)
         li_list = (
-            BeautifulSoup(response.text, 'html.parser')
-            .find('div', {'id': 'informational-content'})
-            .find('div', {'id': 'wordlistsContentPanel'})
-            .find('ul', {'class': 'top-g'}).findAll('li')
+            BeautifulSoup(response.text, "html.parser")
+            .find("div", {"id": "informational-content"})
+            .find("div", {"id": "wordlistsContentPanel"})
+            .find("ul", {"class": "top-g"})
+            .findAll("li")
         )
-        ic(f'total {len(li_list)} words')
+        ic(f"total {len(li_list)} words")
         time.sleep(3)
 
         words = list()
         for idx, li in enumerate(li_list, 1):
             word = li.a.text
             words.append(word)
-            ic(f'--------------> {idx} {word}')
-            _f(save_dir_path, 'us')
-            _f(save_dir_path, 'uk')
-            ic('')
+            ic(f"--------------> {idx} {word}")
+            _f(save_dir_path, "us")
+            _f(save_dir_path, "uk")
+            ic("")
 
-        with open(f'{save_dir_path}/oxford5000.txt', 'w') as f:
-            [f.write(word + '\n') for word in words]
+        with open(f"{save_dir_path}/oxford5000.txt", "w") as f:
+            [f.write(word + "\n") for word in words]
 
 
 class Base:
@@ -74,7 +81,7 @@ class Base:
         url = cls.url.format(word=word)
         response = requests.get(url, headers=cls.headers)
         response.raise_for_status()
-        return BeautifulSoup(response.text, 'html.parser')
+        return BeautifulSoup(response.text, "html.parser")
 
     @classmethod
     def fetch(cls, word, **kwargs) -> dict | MyWord | None:
@@ -82,16 +89,16 @@ class Base:
 
 
 class Sogou(Base):
-    url: str = os.environ.get('sogou-url')
+    url: str = os.environ.get("sogou-url")
 
     @classmethod
     def fetch(cls, word, to_my_word=False, save_json_path=None) -> dict | MyWord | None:
         try:
             soup = cls._request(word)
-            content = soup.findAll('script')[0].text
+            content = soup.findAll("script")[0].text
             content = content.replace("\\u002F", "/")
-            content = content.split(';(function')[0]
-            content = content.replace('window.__INITIAL_STATE__=', '')
+            content = content.split(";(function")[0]
+            content = content.replace("window.__INITIAL_STATE__=", "")
             json_data = json.loads(content)
             return cls.to_my_word(word, json_data) if to_my_word else json_data
         except Exception as e:
@@ -101,51 +108,67 @@ class Sogou(Base):
     def to_my_word(word, word_json_data: dict) -> MyWord:
         word_obj = MyWord(word=word)
 
-        for item in word_json_data.get('textTranslate').get('translateData').get('wordCard').get('usualDict'):
-            meaning = item.get('values')[0]
-            pos = item.get('pos')
-            word_obj.meaning_dict['sogou'][pos] = meaning
+        for item in (
+            word_json_data.get("textTranslate")
+            .get("translateData")
+            .get("wordCard")
+            .get("usualDict")
+        ):
+            meaning = item.get("values")[0]
+            pos = item.get("pos")
+            word_obj.meaning_dict["sogou"][pos] = meaning
 
-        for item in word_json_data.get('textTranslate').get('translateData').get('voice').get('phonetic'):
-            phonetic = item.get('text')
-            audio_url = item.get('filename')
+        for item in (
+            word_json_data.get("textTranslate")
+            .get("translateData")
+            .get("voice")
+            .get("phonetic")
+        ):
+            phonetic = item.get("text")
+            audio_url = item.get("filename")
 
-            if item.get('type') == 'uk':
+            if item.get("type") == "uk":
                 word_obj.uk_phonetic = phonetic
-                word_obj.uk_audio_url_dict['sogou'] = audio_url
+                word_obj.uk_audio_url_dict["sogou"] = audio_url
             else:
                 word_obj.us_phonetic = phonetic
-                word_obj.us_audio_url_dict['sogou'] = audio_url
+                word_obj.us_audio_url_dict["sogou"] = audio_url
 
         for idx, item in enumerate(
-                word_json_data.get('textTranslate').get('translateData').get('book').get('yingyinNormal')):
-            audio_url = item.get('audioUrl')
-            en = item.get('en')
-            zh = item.get('zh')
-            word_obj.sentence_dict['sogou'][idx]['en'] = en
-            word_obj.sentence_dict['sogou'][idx]['cn'] = zh
-            word_obj.sentence_audio_url_dict['sogou'][idx] = audio_url
+            word_json_data.get("textTranslate")
+            .get("translateData")
+            .get("book")
+            .get("yingyinNormal")
+        ):
+            audio_url = item.get("audioUrl")
+            en = item.get("en")
+            zh = item.get("zh")
+            word_obj.sentence_dict["sogou"][idx]["en"] = en
+            word_obj.sentence_dict["sogou"][idx]["cn"] = zh
+            word_obj.sentence_audio_url_dict["sogou"][idx] = audio_url
 
         return word_obj
 
 
 class Bing(Base):
-    url: str = os.environ.get('bing-url')
+    url: str = os.environ.get("bing-url")
     headers: dict = {
-        'authority': 'cn.bing.com',
-        'method': 'GET',
-        'scheme': 'https',
-        **HEADERS
+        "authority": "cn.bing.com",
+        "method": "GET",
+        "scheme": "https",
+        **HEADERS,
     }
 
     @staticmethod
     def parse_phonetic(content, uk: bool = True) -> str | None:
         try:
-            div_class = 'hd_pr' if uk else 'hd_prUS'
-            replace_word = '英' if uk else '美'
+            div_class = "hd_pr" if uk else "hd_prUS"
+            replace_word = "英" if uk else "美"
             return (
-                content.find('div', {'class': div_class}).text.replace(' ', ' ')
-                .replace(replace_word, '').strip()
+                content.find("div", {"class": div_class})
+                .text.replace(" ", " ")
+                .replace(replace_word, "")
+                .strip()
             )
         except Exception:
             return None
@@ -155,25 +178,31 @@ class Bing(Base):
         try:
             soup = cls._request(word)
             # 从word_div中提取相关内容
-            word_div = soup.find("div", class_='lf_area')
+            word_div = soup.find("div", class_="lf_area")
 
             # 音标、发音、含义、图例
-            word_def = word_div.find('div', {'class': 'qdef'})  # noqa
+            word_def = word_div.find("div", {"class": "qdef"})  # noqa
 
             # 提取音标
             us_phonetic = cls.parse_phonetic(word_def, uk=False)
             uk_phonetic = cls.parse_phonetic(word_def, uk=True)
 
             # 提取发音链接
-            us_audio_url = word_def.find("a", {"id": "bigaud_us"})["data-mp3link"]  # noqa
-            uk_audio_url = word_def.find("a", {"id": "bigaud_uk"})["data-mp3link"]  # noqa
+            us_audio_url = word_def.find("a", {"id": "bigaud_us"})[
+                "data-mp3link"
+            ]  # noqa
+            uk_audio_url = word_def.find("a", {"id": "bigaud_uk"})[
+                "data-mp3link"
+            ]  # noqa
 
             # 含义
             try:
-                speeches = word_def.find('ul').findAll('span', {'class', 'pos'})
-                definition = word_def.find('ul').findAll('span', {'class': 'def b_regtxt'})  # noqa
+                speeches = word_def.find("ul").findAll("span", {"class", "pos"})
+                definition = word_def.find("ul").findAll(
+                    "span", {"class": "def b_regtxt"}
+                )  # noqa
                 meaning_dict = {
-                    s.text if s.text.endswith('.') else s.text + '.': d.text
+                    s.text if s.text.endswith(".") else s.text + ".": d.text
                     for s, d in zip(speeches, definition)
                 }
             except Exception:
@@ -183,12 +212,28 @@ class Bing(Base):
             sentence_dict = defaultdict(dict)
             sentence_audio_url_dict = dict()
             try:
-                se_div = word_div.find('div', {'class': 'se_div'}).find('div', {'id': 'sentenceSeg'})
+                se_div = word_div.find("div", {"class": "se_div"}).find(
+                    "div", {"id": "sentenceSeg"}
+                )
 
-                for idx, se in enumerate(se_div.findAll('div', {'class': 'se_li1'}), 1):
-                    en = ''.join([w.text for w in se.find('div', {'class': 'sen_en b_regtxt'}).find_all()])  # noqa
-                    cn = ''.join([w.text for w in se.find('div', {'class': 'sen_cn b_regtxt'}).find_all()])  # noqa
-                    mp3 = se.find('div', {'class': 'mm_div'}).find('a')["data-mp3link"]
+                for idx, se in enumerate(se_div.findAll("div", {"class": "se_li1"}), 1):
+                    en = "".join(
+                        [
+                            w.text
+                            for w in se.find(
+                                "div", {"class": "sen_en b_regtxt"}
+                            ).find_all()
+                        ]
+                    )  # noqa
+                    cn = "".join(
+                        [
+                            w.text
+                            for w in se.find(
+                                "div", {"class": "sen_cn b_regtxt"}
+                            ).find_all()
+                        ]
+                    )  # noqa
+                    mp3 = se.find("div", {"class": "mm_div"}).find("a")["data-mp3link"]
                     sentence_dict[idx] = dict(en=en, cn=cn)
                     sentence_audio_url_dict[idx] = mp3
                     if idx == sentence_num:
@@ -200,16 +245,18 @@ class Bing(Base):
             try:
                 pictures = word_div.find("div", {"class": "img_area"}).find_all("img")
                 picture_url_ls = [image["src"] for image in pictures]
-                picture_url_ls = [f'{link.rsplit("&", maxsplit=2)[0]}' for link in picture_url_ls]
+                picture_url_ls = [
+                    f'{link.rsplit("&", maxsplit=2)[0]}' for link in picture_url_ls
+                ]
             except AttributeError:
                 picture_url_ls = list()
 
-            meaning_str = ''
+            meaning_str = ""
             meaning_ls = list()
             for k, v in meaning_dict.items():
-                if not k.endswith('.'):
-                    k = k + '.'  # '网络' -> '网络.'
-                kv = k + ' ' + v + '\n'
+                if not k.endswith("."):
+                    k = k + "."  # '网络' -> '网络.'
+                kv = k + " " + v + "\n"
                 meaning_str += kv
                 meaning_ls.append(kv)
             meaning_str = meaning_str[:-1]
@@ -226,57 +273,62 @@ class Bing(Base):
                 sentence_dict=dict(bing=sentence_dict),
                 sentence_audio_url_dict=dict(bing=sentence_audio_url_dict),
                 picture_num=len(picture_url_ls),
-                picture_url_dict=dict(bing=picture_url_ls)
+                picture_url_dict=dict(bing=picture_url_ls),
             )
         except Exception as e:
             ic(e)
 
 
 class Baidu:
-    us_audio_url: str = os.environ.get('baidu-us-audio-url')
-    uk_audio_url: str = os.environ.get('baidu-uk-audio-url')
+    us_audio_url: str = os.environ.get("baidu-us-audio-url")
+    uk_audio_url: str = os.environ.get("baidu-uk-audio-url")
 
     @classmethod
-    def download_audio(cls, text: str, save_dir_path: str | Path, lan: str | None = None) -> List[bool]:
+    def download_audio(
+        cls, text: str, save_dir_path: str | Path, lan: str | None = None
+    ) -> List[bool]:
         """
         :param text:
         :param lan: None | us | uk
         :param save_dir_path
         :return:
         """
-        urls = {'us': cls.us_audio_url.format(text=text), 'uk': cls.uk_audio_url.format(text=text)}
+        urls = {
+            "us": cls.us_audio_url.format(text=text),
+            "uk": cls.uk_audio_url.format(text=text),
+        }
 
-        if lan == 'uk':
-            urls.pop('us')
-        if lan == 'us':
-            urls.pop('uk')
+        if lan == "uk":
+            urls.pop("us")
+        if lan == "us":
+            urls.pop("uk")
 
         res = list()
         for lan, url in urls.items():
-            re, *_ = download_file(f'{save_dir_path}/{lan}-{text}.mp3', url, HEADERS)
+            re, *_ = download_file(f"{save_dir_path}/{lan}-{text}.mp3", url, HEADERS)
             res.append(re)
         return res
 
 
 def test_oxford_5000():
-    Oxford.download_5000_word_and_audio('oxford5000', override=False)
+    Oxford.download_5000_word_and_audio("oxford5000", override=False)
 
 
 def test_sogou():
-    my_word = Sogou.fetch('hero', to_my_word=True)
+    my_word = Sogou.fetch("hero", to_my_word=True)
     ic(my_word)
 
 
 def test_bing():
-    my_word = Bing.fetch('hero')
+    my_word = Bing.fetch("hero")
     ic(my_word)
 
 
 def test_baidu():
-    Baidu.download_audio('Need to word hard', '../test', lan=None)
+    Baidu.download_audio("Need to word hard", "../test", lan=None)
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     # test_oxford_5000()
     # test_sogou()
     # test_bing()
