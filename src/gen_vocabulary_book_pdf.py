@@ -11,7 +11,7 @@ from src.book import MyWord
 from src.utils import get_my_words
 
 # 注册新的字体（确保字体文件在您的文件系统中可用）
-pdfmetrics.registerFont(TTFont("ArialUnicodeMS", "../sources/Arial Unicode MS.ttf"))
+pdfmetrics.registerFont(TTFont("ArialUnicodeMS", "../sources/fonts/Arial Unicode MS.ttf"))
 
 
 class PDF:
