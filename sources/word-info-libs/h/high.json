@@ -7,9 +7,11 @@
     "uk_phonetic": "haɪ",
     "default_audio_url_dict": {},
     "us_audio_url_dict": {
+        "bing": "https://dictionary.blob.core.chinacloudapi.cn/media/audio/tom/cc/c6/CCC638D7D7C7EB3A80872ADB6B59EF52.mp3",
         "sogou": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/120_high_usa.mp3"
     },
     "uk_audio_url_dict": {
+        "bing": "https://dictionary.blob.core.chinacloudapi.cn/media/audio/george/cc/c6/CCC638D7D7C7EB3A80872ADB6B59EF52.mp3",
         "sogou": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/120_high_uk.mp3"
     },
     "ai_audio_url_dict": {},
@@ -17,8 +19,16 @@
     "us_audio_path_dict": {},
     "uk_audio_path_dict": {},
     "ai_audio_path_dict": {},
-    "meaning_str": {},
+    "meaning_str": {
+        "bing": "adj. 高的；有某高度的；（离地面）很高的；海拔很高的\nadv. 在高处；向高处；（成本、价值）高；（数量）大\nn. 最高水平；最大数量；高气压区；反气旋\n网络. 最高价；高级；高位"
+    },
     "meaning_dict": {
+        "bing": {
+            "adj.": "高的；有某高度的；（离地面）很高的；海拔很高的",
+            "adv.": "在高处；向高处；（成本、价值）高；（数量）大",
+            "n.": "最高水平；最大数量；高气压区；反气旋",
+            "网络.": "最高价；高级；高位"
+        },
         "sogou": {
             "adj.": "高的；（离地面）很高的；上层的；价值高的；海拔很高的；高音的；高尚的；有某高度的；超乎寻常的；十分赞同的；开始变质的；含某物多；有醉意的",
             "n.": "高度；高点；最高水平；高水平；高位；顶点；高潮；兴奋感；（毒品引致的）快感；快感；极度愉悦；极大欢乐 ；高音部；高挡；最高档位；高气压区；高压区；高气压；反气旋；中学（尤指私立中学）；最大数量",
@@ -54,8 +64,22 @@
     "w_ing": null,
     "w_done": null,
     "w_past": null,
-    "sentence_num": null,
+    "sentence_num": 3,
     "sentence_dict": {
+        "bing": {
+            "1": {
+                "en": "As high resolution for photos might be limited, so we might have to use smaller pics like we did for the calender.",
+                "cn": "高分辨率的照片可能有限，所以我们可能要使用较小的照片一样，我们为日历。"
+            },
+            "2": {
+                "en": "The results have shown that this digital control system has advantage of simplicity, reliability, easy operation and high interference etc.",
+                "cn": "使用结果表明该数控系统具有简单、可靠、易操作、抗干扰性强等优点。"
+            },
+            "3": {
+                "en": "The next day, Toby walked on the street with his head held high and his tail up.",
+                "cn": "第二天，托比头抬得高高的翘着尾巴走在街上。"
+            }
+        },
         "sogou": {
             "0": {
                 "en": "And so we have <em>high</em> hopes for 2015 that that's going to happen.",
@@ -140,6 +164,11 @@
         }
     },
     "sentence_audio_url_dict": {
+        "bing": {
+            "1": "https://dictionary.blob.core.chinacloudapi.cn/media/audio/tom/10/1b/101B06BFBAEC28F5AD9A241B9F85F7DB.mp3",
+            "2": "https://dictionary.blob.core.chinacloudapi.cn/media/audio/tom/c4/80/C48090B513C73C96DEDD1A1A9DF8AA41.mp3",
+            "3": "https://dictionary.blob.core.chinacloudapi.cn/media/audio/tom/ab/c0/ABC02CE001B46CFC11F3C38A325FD06B.mp3"
+        },
         "sogou": {
             "0": "http://pic01.sogoucdn.com/s3/a/201051/72dca51ff14517fb0a9db151d548a0c0_5770.mp3",
             "1": "http://pic03.sogoucdn.com/s3/a/201051/c1d28a267f78e8007385bd1fd2f1a81d_3015.mp3",
@@ -164,8 +193,16 @@
         }
     },
     "sentence_audio_path_dict": {},
-    "picture_num": null,
-    "picture_url_dict": {},
+    "picture_num": 5,
+    "picture_url_dict": {
+        "bing": [
+            "http://ts3.mm.bing.net/th?id=OIP.6WXRMynP0KGkSLhazQV13AHaEK&pid=15.1",
+            "http://ts3.mm.bing.net/th?id=OIP.A7xn7Qa0SWkg-1p46XNBFAHaHa&pid=15.1",
+            "http://ts4.mm.bing.net/th?id=OIP.xHFfUW7LClZzOi8bqkAV8AHaHa&pid=15.1",
+            "http://ts3.mm.bing.net/th?id=OIP.iY5JRFTIY1zGiKGPdYt55QHaNr&pid=15.1",
+            "http://ts4.mm.bing.net/th?id=OIP.7Eot1WeDxbpOXwu6TU8N9gHaE8&pid=15.1"
+        ]
+    },
     "picture_path_dict": {},
     "level": null,
     "oxford_level": null

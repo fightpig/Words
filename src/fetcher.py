@@ -11,7 +11,14 @@ from dotenv import load_dotenv
 from icecream import ic
 
 from src.book import MyWord
-from src.utils import download_file, save_to_json, HEADERS, my_logger
+from src.utils import (
+    download_file,
+    save_to_json,
+    HEADERS,
+    my_logger,
+    read_file,
+    read_from_json,
+)
 
 load_dotenv("../conf/.env")
 
@@ -87,15 +94,21 @@ class Sogou(Base):
     url: str = os.environ.get("sogou-url")
 
     @classmethod
-    def fetch(cls, word, to_my_word=False, save_json_path=None) -> dict | MyWord | None:
+    def fetch(
+        cls, word, to_my_word=False, save_json_path=None, override=False
+    ) -> dict | MyWord | None:
         try:
-            soup = cls._request(word)
-            content = soup.findAll("script")[0].text
-            content = content.replace("\\u002F", "/")
-            content = content.split(";(function")[0]
-            content = content.replace("window.__INITIAL_STATE__=", "")
-            json_data = json.loads(content)
-            save_to_json(json_data, save_json_path) if save_json_path else None
+            if override is False and Path(save_json_path).exists():
+                json_data = read_from_json(save_json_path)
+                my_logger.info(f"{word}.json已存在")
+            else:
+                soup = cls._request(word)
+                content = soup.findAll("script")[0].text
+                content = content.replace("\\u002F", "/")
+                content = content.split(";(function")[0]
+                content = content.replace("window.__INITIAL_STATE__=", "")
+                json_data = json.loads(content)
+                save_to_json(json_data, save_json_path) if save_json_path else None
             return cls.to_my_word(word, json_data) if to_my_word else json_data
         except Exception as e:
             my_logger.exception(e)
@@ -330,8 +343,20 @@ def test_oxford_5000():
 
 
 def test_sogou():
-    my_word = Sogou.fetch("hero", to_my_word=True)
-    ic(my_word)
+    cn = 0
+    for line in read_file("../sources/word-book/oxford3000/words-3000.txt"):
+        if line.strip().startswith("#"):
+            continue
+        word = line.strip()
+        if len(word) == 0:
+            continue
+        cn += 1
+        my_word = Sogou.fetch(
+            word,
+            to_my_word=True,
+            save_json_path=f"../sources/sogou-word-info-libs/{word[0]}/{word}.json",
+        )
+        ic(cn, my_word)
 
 
 def test_bing():
@@ -345,7 +370,7 @@ def test_baidu():
 
 if __name__ == "__main__":
     # test_oxford_5000()
-    # test_sogou()
+    test_sogou()
     # test_bing()
     # test_baidu()
 
