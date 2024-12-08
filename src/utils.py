@@ -1,18 +1,35 @@
 import json
+import logging.config
 import os
 from pathlib import Path
-from typing import List, Tuple
+from typing import List, Tuple, Any
 
 import requests
 import yaml
-from icecream import ic
+
+HEADERS: dict = {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+    "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0"  # noqa
+}
+
+# 读取YAML配置文件
+with open("../conf/logging.yaml", "r") as f:
+    config = yaml.safe_load(f.read())
+    logging.config.dictConfig(config)
+
+# 获取配置好的logger
+my_logger = logging.getLogger("my_logger")
+
+
+def my_print(msg: Any, to_print: bool = True):
+    my_logger.info(msg) if to_print else None
 
 
 def download_file(
     save_path: str | Path, url: str, headers: dict = None
 ) -> Tuple[bool, int, Exception]:
     ex = None
-    re = False
+    ret = False
     status_code = 200
 
     try:
@@ -21,11 +38,68 @@ def download_file(
             os.makedirs(Path(save_path).parent, exist_ok=True)
             with open(save_path, "wb") as f:
                 f.write(response.content)
-            re = True
+            ret = True
     except Exception as e:
         ex = e
 
-    return re, status_code, ex
+    return ret, status_code, ex
+
+
+def download_audio_file(
+    save_dir_path: str | Path,
+    source: str,
+    kind: str,
+    word: str,
+    url: str | None = None,
+    using_baidu_when_fail: bool = True,
+    to_print=False,
+    refetch_audio=False,
+) -> Tuple[bool, str]:
+    """
+    save_dir_path: 音频库根目录
+    source: bing | sogou | baidu
+    kind: us | uk
+    """
+
+    def _f(source_, url_, save_path_: str):
+
+        ret_, status_code, ex = download_file(save_path, url_, headers=HEADERS)
+        if ret_:
+            my_print(f"{Path(save_path_).name} 已保存, source: {source_}", to_print)
+            return True
+        else:
+            my_print(
+                f"Fail to download {word}'s audio: {url_}, source: {source_}, status code: {status_code}, ex: {ex}",
+                to_print,
+            )
+            return False
+
+    save_path = f"{save_dir_path}/{source}/{kind}/{word[0].lower()}/{word}.mp3"
+    if refetch_audio is False:
+        if Path(save_path).exists():  # TODO
+            print(f"{save_path}已存在")
+            return True, save_path
+    if url:
+        ret = _f(source, url, save_path)
+        if ret:
+            return True, save_path
+
+    if using_baidu_when_fail:
+        save_path = f"{save_dir_path}/baidu/{kind}/{word[0].lower()}/{word}.mp3"
+        if refetch_audio is False:
+            if Path(save_path).exists():  # TODO
+                my_logger.info(f"{save_path}已存在")
+                return True, save_path
+        my_logger.info("Using baidu to download audio")
+        url = (
+            os.environ.get("baidu-us-audio-url")
+            if kind == "us"
+            else os.environ.get("baidu-uk-audio-url")
+        ).format(text=word)
+        ret = _f("baidu", url, save_path)
+        if ret:
+            return True, save_path
+    return False, ""
 
 
 def save_to_json_or_yaml(
@@ -64,27 +138,6 @@ def read_from_yaml(file_path: str | Path) -> dict:  # noqa
     return read_from_json_or_yaml(file_path, from_json=False)
 
 
-def get_my_words(book_path: str, word_info_dir_path: str) -> List["MyWord"]:  # noqa
-    from src.book import MyWord
-
-    with open(book_path, "r", encoding="utf-8") as f:
-        lines = f.readlines()
-        words = [
-            line.strip()
-            for line in lines
-            if not line.startswith("#") and len(line.strip()) > 0
-        ]
-
-    my_words: List[MyWord] = list()
-    for word in words:
-        word_info_path = f"{word_info_dir_path}/{word[0].lower()}/{word}.json"
-        if not Path(word_info_path).exists():
-            ic(word)
-            continue
-        try:
-            my_word = MyWord.read_from_json(word_info_path)
-            my_words.append(my_word)
-        except Exception as e:
-            ic(word)
-            raise e
-    return my_words
+def read_file(file_path: str | Path) -> List[str]:
+    with open(file_path, "r", encoding="utf-8") as f:
+        return f.readlines()

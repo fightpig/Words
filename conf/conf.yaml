@@ -1,13 +1,11 @@
-name: oxford3000
-path: words-3000.txt
 priority:
     # 音频优先读取顺序
     word-audio-libs:
         path:
-            oxford5000:
+            nce:
                 - us
                 - uk
-            nce:
+            oxford5000:
                 - us
                 - uk
             sogou:
@@ -24,10 +22,15 @@ priority:
             local-tts:
                 - us
                 - uk
+        url:
+            baidu: ''
     # 含义优先读取顺序
     word-info-libs:
-        - bing  # bing-网络.
         - nce
+        - bing
         - sogou
         - cet4
         - cet6
+
+
+

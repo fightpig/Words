@@ -11,14 +11,9 @@ from dotenv import load_dotenv
 from icecream import ic
 
 from src.book import MyWord
-from src.utils import download_file
+from src.utils import download_file, save_to_json, HEADERS, my_logger
 
 load_dotenv("../conf/.env")
-
-HEADERS: dict = {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
-    "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0"  # noqa
-}
 
 
 class Oxford:
@@ -100,9 +95,11 @@ class Sogou(Base):
             content = content.split(";(function")[0]
             content = content.replace("window.__INITIAL_STATE__=", "")
             json_data = json.loads(content)
+            save_to_json(json_data, save_json_path) if save_json_path else None
             return cls.to_my_word(word, json_data) if to_my_word else json_data
         except Exception as e:
-            ic(e)
+            my_logger.exception(e)
+            my_logger.error(f"Fail to fetch {word}")
 
     @staticmethod
     def to_my_word(word, word_json_data: dict) -> MyWord:
@@ -117,6 +114,24 @@ class Sogou(Base):
             meaning = item.get("values")[0]
             pos = item.get("pos")
             word_obj.meaning_dict["sogou"][pos] = meaning
+
+        for level in ["kaoyan", "CET6", "CET4", "gaokao", "zhongkao"]:
+            pos_meanings = defaultdict(list)
+            for sub_item in (
+                word_json_data.get("textTranslate")
+                .get("translateData")
+                .get(level, dict())
+                .get("exam_freq_info", list())
+            ):
+                pos = sub_item.get("pos")
+                meaning = (
+                    sub_item.get("chinese") + f'[出现{sub_item.get("sense_tier")}次)]'
+                )
+                pos_meanings[pos].append(meaning)
+
+            if pos_meanings:
+                for pos, meanings in pos_meanings.items():
+                    word_obj.meaning_dict[f"sogou-{level}"][pos] = ";".join(meanings)
 
         for item in (
             word_json_data.get("textTranslate")
@@ -276,7 +291,7 @@ class Bing(Base):
                 picture_url_dict=dict(bing=picture_url_ls),
             )
         except Exception as e:
-            ic(e)
+            my_logger.exception(e)
 
 
 class Baidu:
