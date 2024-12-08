@@ -1,0 +1,761 @@
+{
+    "route": {
+        "name": "text",
+        "path": "/text",
+        "hash": "",
+        "query": {
+            "keyword": "racism",
+            "transfrom": "auto",
+            "transto": "zh-CHS",
+            "model": "general",
+            "errcode": "s10"
+        },
+        "params": {},
+        "fullPath": "/text?keyword=racism&transfrom=auto&transto=zh-CHS&model=general&errcode=s10",
+        "meta": {
+            "mtype": [
+                "textTranslate",
+                "language",
+                "voice"
+            ]
+        },
+        "from": {
+            "name": null,
+            "path": "/",
+            "hash": "",
+            "query": {},
+            "params": {},
+            "fullPath": "/",
+            "meta": {}
+        }
+    },
+    "common": {
+        "CONFIG": {
+            "wuid": 1733661559868,
+            "loginInfo": {},
+            "isIE": 0,
+            "isHitSsrSwitch": true,
+            "isHitWritebookSwitch": false,
+            "isHitAmsSwitch": true,
+            "promotionList": "{\n    \"pc_bottom\":{\n        \"imgsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\",\n        \"qcsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\"\n    },\n    \"pc_middle\":[\n        {\n            \"src\":\"//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c\",\n            \"bgColor\":\"#ffffff\",\n            \"link\":\"\"\n        }\n    ],\n    \"pc_survey\":{\n        \"icon\":\"//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750\",\n        \"link\":\"https://wj.qq.com/s2/8193148/806d/\"\n    }\n}",
+            "bannerData": [],
+            "isHitAsideSurvey": false,
+            "secretCode": 109984457,
+            "uuid": "56ebfdc3-92c2-4761-a215-8c38461dcfdb",
+            "referer": "",
+            "approveToken": "659E5377C80964CEC6C0EE044CA900BDC6632E0567559377",
+            "loadTime": 1733661559870,
+            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0",
+            "fcp": "159.65.124.238",
+            "temporaryId": "",
+            "fileId": ""
+        },
+        "hotWords": [],
+        "isFromCollect": false,
+        "psdModify": {
+            "currentStep": 1,
+            "scode": "",
+            "username": ""
+        },
+        "loginStatus": true,
+        "feedBackModule": false,
+        "showPromotionPopup": {
+            "show": false,
+            "type": ""
+        },
+        "showPromotionPCDownload": false,
+        "showShareBomb": false,
+        "shareData": null,
+        "showAppDownLoad": false,
+        "showLoginDialog": false,
+        "showLoading": {
+            "show": false
+        },
+        "toast": {
+            "show": false,
+            "text": "",
+            "loading": false
+        },
+        "modelToast": {
+            "show": false,
+            "text": ""
+        },
+        "selectionGlobalShow": true,
+        "selectionInfo": {
+            "left": 0,
+            "top": 0,
+            "show": false,
+            "from": "",
+            "to": "",
+            "val": "",
+            "area": ""
+        },
+        "showConfirmDialog": false,
+        "promotionList": {
+            "pc_bottom": {
+                "imgsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png",
+                "qcsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png"
+            },
+            "pc_middle": [
+                {
+                    "src": "//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c",
+                    "bgColor": "#ffffff",
+                    "link": ""
+                }
+            ],
+            "pc_survey": {
+                "icon": "//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750",
+                "link": "https://wj.qq.com/s2/8193148/806d/"
+            }
+        },
+        "transTypeTxt": "text",
+        "fixedTabStatus": 0,
+        "bodyTop": 0,
+        "ifHideUserOperation": false
+    },
+    "textTranslate": {
+        "prevTransQuery": "",
+        "translateData": {
+            "translate": {
+                "zly": "zly",
+                "errorCode": "0",
+                "qc_type": "1",
+                "index": "content0",
+                "from": "en",
+                "source": "sogou",
+                "text": "racism",
+                "to": "zh-CHS",
+                "id": "56ebfdc3-92c2-4761-a215-8c38461dcfdb",
+                "dit": "种族主义",
+                "orig_text": "racism",
+                "md5": ""
+            },
+            "detect": {
+                "zly": "zly",
+                "detect": "en",
+                "errorCode": "0",
+                "language": "英语",
+                "id": "71e01220-b561-11ef-b0a8-b557de159b5d",
+                "text": "racism"
+            },
+            "sgtkn": "659E5381C80964CEC6C0EE044CA900BDC6632E0567559377",
+            "wordCard": {
+                "title": "racism",
+                "show": true,
+                "usualDict": [
+                    {
+                        "values": [
+                            "种族歧视；种族主义；种族偏见；种族迫害"
+                        ],
+                        "pos": "n."
+                    }
+                ],
+                "secondQuery": "",
+                "exchange": {},
+                "levelList": [
+                    "高中",
+                    "四级",
+                    "六级",
+                    "考博",
+                    "雅思"
+                ]
+            },
+            "detail": {
+                "synonym": [
+                    {
+                        "word_list": [
+                            "racial discrimination",
+                            "the colour bar"
+                        ],
+                        "pos": "n.",
+                        "mean": "种族主义，种族歧视；人种偏见"
+                    }
+                ],
+                "wordRootInfo": {
+                    "word_info_list": [
+                        {
+                            "word": "racial",
+                            "pos_mean_info_list": [
+                                {
+                                    "pos": "adj.",
+                                    "mean": "种族的；人种的"
+                                }
+                            ]
+                        },
+                        {
+                            "word": "racially",
+                            "pos_mean_info_list": [
+                                {
+                                    "pos": "adv.",
+                                    "mean": "人种上；按人种"
+                                }
+                            ]
+                        },
+                        {
+                            "word": "race",
+                            "pos_mean_info_list": [
+                                {
+                                    "pos": "n.",
+                                    "mean": "属，种；种族，人种；家庭，门弟"
+                                },
+                                {
+                                    "pos": "vi.",
+                                    "mean": "比速度，参加竞赛；全速行进"
+                                },
+                                {
+                                    "pos": "vt.",
+                                    "mean": "使参加比赛；和…竞赛；使急走，使全速行进"
+                                }
+                            ]
+                        },
+                        {
+                            "word": "racist",
+                            "pos_mean_info_list": [
+                                {
+                                    "pos": "n.",
+                                    "mean": "种族主义者"
+                                }
+                            ]
+                        },
+                        {
+                            "word": "racialism",
+                            "pos_mean_info_list": [
+                                {
+                                    "pos": "n.",
+                                    "mean": "种族主义；种族歧视；人种偏见"
+                                }
+                            ]
+                        },
+                        {
+                            "word": "racialist",
+                            "pos_mean_info_list": [
+                                {
+                                    "pos": "n.",
+                                    "mean": "种族主义者"
+                                }
+                            ]
+                        }
+                    ],
+                    "root_word": "race"
+                },
+                "word_group": [
+                    {
+                        "brief_definition": "反对种族歧视",
+                        "phrase": "combat racism",
+                        "pos": ""
+                    }
+                ],
+                "bilingual": [
+                    {
+                        "source": "<em>Racism</em> leads to social injustice.",
+                        "target": "种族主义会导致社会的不公正。",
+                        "url": ""
+                    },
+                    {
+                        "source": "<em>Racism</em> in any form is abhorrent.",
+                        "target": "任何形式的种族主义都是令人厌恶的。",
+                        "url": ""
+                    },
+                    {
+                        "source": "<em>Racism</em> is a serious issue in society.",
+                        "target": "种族主义是社会中的一个严重问题。",
+                        "url": ""
+                    },
+                    {
+                        "source": "He strongly opposes any form of <em>racism</em>.",
+                        "target": "他坚决反对任何形式的种族主义。",
+                        "url": ""
+                    },
+                    {
+                        "source": "We should work together to eliminate <em>racism</em>.",
+                        "target": "我们应该共同努力消除种族主义。",
+                        "url": ""
+                    },
+                    {
+                        "source": "<em>Racism</em> can lead to discrimination and violence.",
+                        "target": "种族主义可能导致歧视和暴力。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Education can help reduce the impact of <em>racism</em>.",
+                        "target": "教育可以帮助减少种族主义的影响。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Education is an important tool in combating white <em>racism</em>.",
+                        "target": "教育是对抗白人种族主义的重要工具。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Schools should educate students about the dangers of <em>racism</em>.",
+                        "target": "学校应该教育学生了解种族主义的危险。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Many people have suffered from white <em>racism</em> in their lives.",
+                        "target": "许多人在生活中遭受了白人种族主义的伤害。",
+                        "url": ""
+                    }
+                ]
+            },
+            "book": {
+                "yingyinNormal": [
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/0a13ccf38dbac0df5a5c6a86f5d3355c_59759.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/dffdb9583c22db3ce00411b3ada02fc3_17530.mp3",
+                        "isLavafox": true,
+                        "en": "<em>Racism</em> hurts Whites along with Minorities.",
+                        "zh": "种族主义对白人和少数族裔都是伤害。",
+                        "videoNameZh": "《Facebook COO谢丽尔·桑德伯格哈佛演讲》",
+                        "videoNameEn": "《Sheryl Speech at Harvard》",
+                        "url": "http://bisentence_movie.sogou.com/25b10f7b0f4c4019afbf613566e1c922_f4a6ab54a6687e3a31b617b14c51e290e2c41a19"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/0a13ccf38dbac0df5a5c6a86f5d3355c_59759.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/a066177acd79024d3d93cbbb01882fab_56124.mp3",
+                        "isLavafox": true,
+                        "en": "Yes we elected an African-American president, but <em>racism</em> is pervasive still.",
+                        "zh": "没错，我们选举了一位非裔美国人总统，但种族主义仍然无处不在。",
+                        "videoNameZh": "《Facebook COO谢丽尔·桑德伯格哈佛演讲》",
+                        "videoNameEn": "《Sheryl Speech at Harvard》",
+                        "url": "http://bisentence_movie.sogou.com/b599eb9234ffd6c9f0cabbc6f1171c51_07aa917a43b7d2c260a38f0add4fb4fed6fd3a74"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/c147f8d54a969778fef4aa74fdb25c24_34800.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/94b6d33145cc3e750aa0902f0ea27d90_53252.mp3",
+                        "isLavafox": true,
+                        "en": "We're still struggling with poverty, and <em>racism</em> is still something we have to fight against.",
+                        "zh": "我们还在和贫穷斗争，我们仍然需要和种族歧视斗争。",
+                        "videoNameZh": "《纸牌屋 第四季》",
+                        "videoNameEn": "《House of Cards Season 4》",
+                        "url": "http://bisentence_movie.sogou.com/94907b94223149cf860198f1069c2beb_b343d27a37e5266664cd799e61847a26dcfd52c6"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/c147f8d54a969778fef4aa74fdb25c24_34800.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/847fddc8c753734165490ff7760cb1dc_28625.mp3",
+                        "isLavafox": true,
+                        "en": "And as poor as my family was, we still were a lot better off than a lot of your families, who not only had to struggle through poverty but had to fight <em>racism</em> as well.",
+                        "zh": "虽然我家挺穷的，但还是比在座的许多家庭宽裕不少，你们不仅要和贫穷斗争，还得和种族歧视斗争。",
+                        "videoNameZh": "《纸牌屋 第四季》",
+                        "videoNameEn": "《House of Cards Season 4》",
+                        "url": "http://bisentence_movie.sogou.com/3ff4c874efd407e0665bd722d3a7cc45_d081363ccbc860a95000dc29507c9914067baa39"
+                    }
+                ]
+            },
+            "pic": "",
+            "voice": {
+                "phonetic": [
+                    {
+                        "text": "ˈreɪsɪzəm",
+                        "type": "uk",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/2755_racism_uk.mp3"
+                    },
+                    {
+                        "text": "ˈreɪsɪzəm",
+                        "type": "usa",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/2755_racism_usa.mp3"
+                    }
+                ]
+            },
+            "dictType": "oxford_buchong",
+            "CET6": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 2,
+                        "pos": "n",
+                        "chinese": "种族歧视; 种族主义",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "racism",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2016.6-2023.6年8年间全六级试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight>考纲释义</highlight>\n精选实考、考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2016-2023年51套试卷，包括阅读、听力、翻译等所有题型。\n\n<highlight>真题例句</highlight>\n精选2016-2023年8年间全六级试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 1,
+                "word_family": {
+                    "derivative_info_list": [
+                        {
+                            "derivative_info_list": [],
+                            "word": "racism",
+                            "mean": "n. 种族主义；人种优劣论；种族歧视；种族偏见；种族对抗"
+                        },
+                        {
+                            "derivative_info_list": [],
+                            "word": "racist",
+                            "mean": "n. 种族主义者"
+                        },
+                        {
+                            "derivative_info_list": [],
+                            "word": "racial",
+                            "mean": "adj. 人种的；种族的；民族的；种族差异引起的；与种族差异有关的"
+                        }
+                    ],
+                    "word": "race",
+                    "mean": "n. 速度比赛；竞赛；急流；沟槽；管道；通道；人种；种族；民族；姜根"
+                },
+                "total_exam_freq": 2,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "种族歧视; 种族主义",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "Clinging to <highlight>racism</highlight> prolongs inequity and discrimination.",
+                                    "month": 12,
+                                    "source": "CET6",
+                                    "coll": "",
+                                    "sentence_trans": "执着于种族主义会延长不平等和歧视。",
+                                    "year": 2016,
+                                    "type": "阅读理解C",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "We also acknowledge that using race as a political or social category to study <highlight>racism</highlight> remains necessary.",
+                                    "month": 12,
+                                    "source": "CET6",
+                                    "coll": "",
+                                    "sentence_trans": "我们也承认，将种族作为一个政治或社会范畴来研究种族主义仍然是必要的。",
+                                    "year": 2016,
+                                    "type": "阅读理解C",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            "CET4": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 1,
+                        "pos": "n",
+                        "chinese": "种族歧视",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "racism",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2016.6-2023.6年8年间全四级试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight>考纲释义</highlight>\n精选实考、考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2016-2023年51套试卷，包括阅读、听力、翻译等所有题型。\n\n<highlight>真题例句</highlight>\n精选2016-2023年8年间试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 1,
+                "word_family": {
+                    "derivative_info_list": [
+                        {
+                            "derivative_info_list": [],
+                            "word": "racer",
+                            "mean": "n. 参赛者；赛车；赛艇；遊蛇；转台；参赛选手；T背的"
+                        },
+                        {
+                            "derivative_info_list": [],
+                            "word": "racism",
+                            "mean": "n. 种族主义；人种优劣论；种族歧视；种族偏见；种族对抗"
+                        },
+                        {
+                            "derivative_info_list": [],
+                            "word": "racial",
+                            "mean": "adj. 人种的；种族的；民族的；种族差异引起的；与种族差异有关的"
+                        },
+                        {
+                            "derivative_info_list": [],
+                            "word": "racing",
+                            "mean": "n. 赛马；速度比赛"
+                        }
+                    ],
+                    "word": "race",
+                    "mean": "n. 速度比赛；竞赛；急流；沟槽；管道；通道；人种；种族；民族；姜根"
+                },
+                "total_exam_freq": 1,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "种族歧视",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "For decades, activists have called for schools to offer anti-<highlight>racism</highlight> or multicultural curricula.",
+                                    "month": 9,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "几十年来，积极分子一直呼吁学校提供反种族主义或多元文化课程。",
+                                    "year": 2020,
+                                    "type": "阅读理解B",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            "sentencesData": {
+                "status": 1,
+                "info": "notZh2En",
+                "data": {}
+            },
+            "isAutoMatch": false,
+            "Zh2En": false
+        },
+        "query": "racism",
+        "result": "种族主义",
+        "tabSelect": "detail",
+        "dictionaryType": "oxford_buchong",
+        "notFound_show": false,
+        "phoneticShow": "",
+        "globalShowTranslateRecord": "",
+        "pronPrefer": {
+            "type": "usa_1",
+            "speaker": "male",
+            "speed": "standard"
+        },
+        "ServerRecord": "",
+        "ServerUIGS": {
+            "version": "new",
+            "type": "all",
+            "stype": "success",
+            "terminal": "web",
+            "fr": "default",
+            "direction": "etoz",
+            "from": "en",
+            "to": "zh-CHS",
+            "len": 6,
+            "qtype": "text",
+            "qctype": "qc_1",
+            "dict_cover": 1,
+            "detail": 1,
+            "wordCardCover": 1,
+            "wordCardEn": 1,
+            "wordCardCh": 0,
+            "wordCardMinor": 0,
+            "wordCardNetmean": 0,
+            "wordDeform": 0,
+            "keyword": 0,
+            "bilingual": 1,
+            "simple": 0,
+            "levelList": 1,
+            "synonym": 1,
+            "antonym": 0,
+            "conjugate": 1,
+            "rootaffix": 0,
+            "baike_sogou": 0,
+            "baike_wiki": 0,
+            "wordDifference": 0,
+            "word_phrase": 1,
+            "secondQuery": 0,
+            "dict_oxford": 0,
+            "dict_newcentury": 0,
+            "zhongkaotab": 0,
+            "gaokaotab": 0,
+            "CET4tab": 1,
+            "CET6tab": 1,
+            "kaoyantab": 0,
+            "network_tab": 0,
+            "yinying_tab": 1,
+            "tuozhan_tab": 0,
+            "one_pic": 0,
+            "more_pic": 0,
+            "no_pic": 0,
+            "uuid": "56ebfdc3-92c2-4761-a215-8c38461dcfdb",
+            "from_type": 0,
+            "t_trans_ssr": 154
+        },
+        "ServerModelUIGS": {
+            "terminal": "web",
+            "type": "trans_model",
+            "pbtype": "pv",
+            "model_general": 1,
+            "model_medical": 1,
+            "model_finance": 1
+        },
+        "ServerSgtkn": "659E5381C80964CEC6C0EE044CA900BDC6632E0567559377",
+        "suggShow": false,
+        "suggestion": "",
+        "suggDirection": "",
+        "usualTop": "",
+        "baseDict": "",
+        "wordCardClick": false,
+        "isFrInput": false,
+        "kanaTips": {
+            "show": false,
+            "left": "",
+            "top": "",
+            "type": "",
+            "arrowLeft": ""
+        },
+        "currSentenceIndex": -1,
+        "prefixStrObj": {
+            "prefixStr": "",
+            "oriPrefixStr": ""
+        },
+        "selectTransBox": {
+            "show": false,
+            "right": 0,
+            "top": 0,
+            "paraphraseInfo": {
+                "word": "",
+                "from": "",
+                "to": "",
+                "area": ""
+            }
+        },
+        "sentenceLoading": false,
+        "newSentenceInfo": {
+            "sentence": "",
+            "candidateIndex": 0
+        },
+        "moreTipInfo": {
+            "opacity": 0,
+            "zIndex": -1
+        },
+        "paraphraseShowInfo": {
+            "card": 0,
+            "query": "",
+            "card_dict": 0
+        },
+        "selectType": "",
+        "wordPos": 0,
+        "candidateWord": "",
+        "syntaxVisible": false,
+        "syntaxStatus": 0
+    },
+    "language": {
+        "from": "auto",
+        "to": "zh-CHS",
+        "detect": "en",
+        "model": "general",
+        "detectShow": false,
+        "langMap": {
+            "current": ""
+        },
+        "zh2en": false,
+        "fromItemList": [
+            {
+                "lang": "auto",
+                "text": "自动检测",
+                "play": false
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "tr",
+                "text": "土耳其语",
+                "play": false,
+                "abbr": "土"
+            },
+            {
+                "lang": "fr",
+                "text": "法语",
+                "play": true,
+                "abbr": "法"
+            },
+            {
+                "lang": "de",
+                "text": "德语",
+                "play": true,
+                "abbr": "德"
+            }
+        ],
+        "toItemList": [
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "vi",
+                "text": "越南语",
+                "play": true,
+                "abbr": "越"
+            },
+            {
+                "lang": "pt",
+                "text": "葡萄牙语",
+                "play": true,
+                "abbr": "葡"
+            },
+            {
+                "lang": "tr",
+                "text": "土耳其语",
+                "play": false,
+                "abbr": "土"
+            }
+        ]
+    },
+    "voice": {
+        "from": {
+            "lang": "en",
+            "type": "from",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22racism%22%2C%22spokenDialect%22%3A%22en%22%2C%22rate%22%3A%220.8%22%7D",
+            "list": [
+                {
+                    "type": "uk_0",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "ˈreɪsɪzəm",
+                    "abbr": "英",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/2755_racism_uk.mp3"
+                },
+                {
+                    "type": "usa_1",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "ˈreɪsɪzəm",
+                    "abbr": "美",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/2755_racism_usa.mp3"
+                }
+            ],
+            "stype": "phonetic",
+            "phoneticShow": [
+                {
+                    "text": "ˈreɪsɪzəm",
+                    "type": "uk",
+                    "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/2755_racism_uk.mp3"
+                }
+            ]
+        },
+        "to": {
+            "lang": "zh",
+            "type": "to",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22%E7%A7%8D%E6%97%8F%E4%B8%BB%E4%B9%89%22%2C%22spokenDialect%22%3A%22zh-CHS%22%2C%22rate%22%3A%220.8%22%7D",
+            "stype": "normal"
+        }
+    }
+}

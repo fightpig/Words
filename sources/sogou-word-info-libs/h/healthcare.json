@@ -1,0 +1,992 @@
+{
+    "route": {
+        "name": "text",
+        "path": "/text",
+        "hash": "",
+        "query": {
+            "keyword": "healthcare",
+            "transfrom": "auto",
+            "transto": "zh-CHS",
+            "model": "general",
+            "errcode": "s10"
+        },
+        "params": {},
+        "fullPath": "/text?keyword=healthcare&transfrom=auto&transto=zh-CHS&model=general&errcode=s10",
+        "meta": {
+            "mtype": [
+                "textTranslate",
+                "language",
+                "voice"
+            ]
+        },
+        "from": {
+            "name": null,
+            "path": "/",
+            "hash": "",
+            "query": {},
+            "params": {},
+            "fullPath": "/",
+            "meta": {}
+        }
+    },
+    "common": {
+        "CONFIG": {
+            "wuid": 1733660136443,
+            "loginInfo": {},
+            "isIE": 0,
+            "isHitSsrSwitch": true,
+            "isHitWritebookSwitch": false,
+            "isHitAmsSwitch": true,
+            "promotionList": "{\n    \"pc_bottom\":{\n        \"imgsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\",\n        \"qcsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\"\n    },\n    \"pc_middle\":[\n        {\n            \"src\":\"//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c\",\n            \"bgColor\":\"#ffffff\",\n            \"link\":\"\"\n        }\n    ],\n    \"pc_survey\":{\n        \"icon\":\"//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750\",\n        \"link\":\"https://wj.qq.com/s2/8193148/806d/\"\n    }\n}",
+            "bannerData": [],
+            "isHitAsideSurvey": false,
+            "secretCode": 109984457,
+            "uuid": "d87354fe-22ea-4c41-91c0-0c8f105b005d",
+            "referer": "",
+            "approveToken": "658FFDCDB97E13B9B1B79A708629BEC9B2A8525667558DE8",
+            "loadTime": 1733660136445,
+            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0",
+            "fcp": "159.65.124.238",
+            "temporaryId": "",
+            "fileId": ""
+        },
+        "hotWords": [],
+        "isFromCollect": false,
+        "psdModify": {
+            "currentStep": 1,
+            "scode": "",
+            "username": ""
+        },
+        "loginStatus": true,
+        "feedBackModule": false,
+        "showPromotionPopup": {
+            "show": false,
+            "type": ""
+        },
+        "showPromotionPCDownload": false,
+        "showShareBomb": false,
+        "shareData": null,
+        "showAppDownLoad": false,
+        "showLoginDialog": false,
+        "showLoading": {
+            "show": false
+        },
+        "toast": {
+            "show": false,
+            "text": "",
+            "loading": false
+        },
+        "modelToast": {
+            "show": false,
+            "text": ""
+        },
+        "selectionGlobalShow": true,
+        "selectionInfo": {
+            "left": 0,
+            "top": 0,
+            "show": false,
+            "from": "",
+            "to": "",
+            "val": "",
+            "area": ""
+        },
+        "showConfirmDialog": false,
+        "promotionList": {
+            "pc_bottom": {
+                "imgsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png",
+                "qcsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png"
+            },
+            "pc_middle": [
+                {
+                    "src": "//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c",
+                    "bgColor": "#ffffff",
+                    "link": ""
+                }
+            ],
+            "pc_survey": {
+                "icon": "//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750",
+                "link": "https://wj.qq.com/s2/8193148/806d/"
+            }
+        },
+        "transTypeTxt": "text",
+        "fixedTabStatus": 0,
+        "bodyTop": 0,
+        "ifHideUserOperation": false
+    },
+    "textTranslate": {
+        "prevTransQuery": "",
+        "translateData": {
+            "translate": {
+                "zly": "zly",
+                "errorCode": "0",
+                "qc_type": "1",
+                "index": "content0",
+                "from": "en",
+                "source": "sogou",
+                "text": "healthcare",
+                "to": "zh-CHS",
+                "id": "d87354fe-22ea-4c41-91c0-0c8f105b005d",
+                "dit": "卫生保健",
+                "orig_text": "healthcare",
+                "md5": ""
+            },
+            "detect": {
+                "zly": "zly",
+                "detect": "en",
+                "errorCode": "0",
+                "language": "英语",
+                "id": "21728000-b55e-11ef-aa92-a5da44b4ee4f",
+                "text": "healthcare"
+            },
+            "sgtkn": "658FFDD3B97E13B9B1B79A708629BEC9B2A8525667558DE8",
+            "wordCard": {
+                "title": "healthcare",
+                "show": true,
+                "usualDict": [
+                    {
+                        "values": [
+                            "医疗保健；健康护理，健康服务；卫生保健"
+                        ],
+                        "pos": "n."
+                    }
+                ],
+                "secondQuery": "",
+                "exchange": {},
+                "levelList": [
+                    "高中",
+                    "四级",
+                    "六级"
+                ]
+            },
+            "detail": {
+                "synonym": [
+                    {
+                        "word_list": [
+                            "health services"
+                        ],
+                        "pos": "n.",
+                        "mean": "医疗保健；健康护理，健康服务；卫生保健"
+                    }
+                ],
+                "affix": {
+                    "word": "healthcare",
+                    "sub_affix_info_list": [
+                        {
+                            "affix": "health",
+                            "affix_mean": "n. 健康",
+                            "sub": {
+                                "word": "health",
+                                "sub_affix_info_list": [
+                                    {
+                                        "affix_sense_info": [
+                                            {
+                                                "sample": [],
+                                                "derivatives": "",
+                                                "affix_sense_chinese": "痊愈",
+                                                "affix_type": "stem"
+                                            }
+                                        ],
+                                        "affix": "heal",
+                                        "affix_mean": "痊愈"
+                                    },
+                                    {
+                                        "affix_sense_info": [
+                                            {
+                                                "sample": [
+                                                    {
+                                                        "word": "breadth",
+                                                        "mean": "n. 幅度；宽度；广度；广泛性；宽宏；宽容；门幅；幅面；一幅；整体效果"
+                                                    },
+                                                    {
+                                                        "word": "growth",
+                                                        "mean": "n. 生长；成长；增大；发展；生长物；一熟；某葡萄园所产的葡萄；由这些葡萄酿造的葡萄酒；赘生物；发育"
+                                                    },
+                                                    {
+                                                        "word": "length",
+                                                        "mean": "n. 长度；长；一段；一片；程度；球距；时间长度；身高"
+                                                    },
+                                                    {
+                                                        "word": "mirth",
+                                                        "mean": "n. 欢乐；欢笑"
+                                                    },
+                                                    {
+                                                        "word": "stealth",
+                                                        "mean": "n. 秘密行动；背人的活动；隐形"
+                                                    },
+                                                    {
+                                                        "word": "warmth",
+                                                        "mean": "n. 暖和；温暖；暖热；热情；热心；激动；仁慈"
+                                                    },
+                                                    {
+                                                        "word": "truth",
+                                                        "mean": "n. 事实；真相；真实性；（Truth）人名：特鲁思"
+                                                    }
+                                                ],
+                                                "derivatives": "",
+                                                "affix_sense_chinese": "名词后缀, 通常指抽象名词",
+                                                "affix_type": "suffix"
+                                            }
+                                        ],
+                                        "affix": "-th",
+                                        "affix_mean": "名词后缀"
+                                    }
+                                ],
+                                "word_mean": "n. 健康"
+                            }
+                        },
+                        {
+                            "affix": "care",
+                            "affix_mean": "n. 照顾"
+                        }
+                    ],
+                    "word_mean": "n. 医疗保健"
+                },
+                "wordRootInfo": {
+                    "word_info_list": [
+                        {
+                            "word": "healthfulness",
+                            "pos_mean_info_list": [
+                                {
+                                    "pos": "[n.",
+                                    "mean": "于健康有益；卫生"
+                                }
+                            ]
+                        },
+                        {
+                            "word": "healthy",
+                            "pos_mean_info_list": [
+                                {
+                                    "pos": "adj.",
+                                    "mean": "健康的，健全的；有益于健康的"
+                                }
+                            ]
+                        },
+                        {
+                            "word": "healthful",
+                            "pos_mean_info_list": [
+                                {
+                                    "pos": "adj.",
+                                    "mean": "健康的；有益健康的；卫生的"
+                                }
+                            ]
+                        },
+                        {
+                            "word": "healthily",
+                            "pos_mean_info_list": [
+                                {
+                                    "pos": "adv.",
+                                    "mean": "健康地"
+                                }
+                            ]
+                        },
+                        {
+                            "word": "health",
+                            "pos_mean_info_list": [
+                                {
+                                    "pos": "n.",
+                                    "mean": "健康；卫生；保健；兴旺"
+                                }
+                            ]
+                        },
+                        {
+                            "word": "healthiness",
+                            "pos_mean_info_list": [
+                                {
+                                    "pos": "n.",
+                                    "mean": "健康；健全"
+                                }
+                            ]
+                        }
+                    ],
+                    "root_word": "health"
+                },
+                "bilingual": [
+                    {
+                        "source": "She decided to pursue a career in <em>healthcare</em>.",
+                        "target": "她决定从事医疗保健事业。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Jobs in <em>healthcare</em> are in high demand.",
+                        "target": "医疗保健领域的工作需求量很大。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Advances in technology are transforming <em>healthcare</em>.",
+                        "target": "技术的进步正在改变医疗保健。",
+                        "url": ""
+                    },
+                    {
+                        "source": "The government budgeted more money for <em>healthcare</em>.",
+                        "target": "政府为医疗保健预算了更多资金。",
+                        "url": ""
+                    },
+                    {
+                        "source": "She decided to pursue a vocational career in <em>healthcare</em>.",
+                        "target": "她决定从事医疗保健方面的职业。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Pharmacists play a crucial role in <em>healthcare</em>.",
+                        "target": "药剂师在医疗保健中起着至关重要的作用。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Advances in physiology have improved <em>healthcare</em> significantly.",
+                        "target": "生理学的进步显著改善了医疗保健。",
+                        "url": ""
+                    },
+                    {
+                        "source": "The government is facing pressing challenges in <em>healthcare</em>.",
+                        "target": "政府在医疗保健方面面临紧迫的挑战。",
+                        "url": ""
+                    },
+                    {
+                        "source": "The new policies introduced by Biden aim to improve <em>healthcare</em>.",
+                        "target": "拜登推出的新政策旨在改善医疗保健。",
+                        "url": ""
+                    },
+                    {
+                        "source": "The new law grants entitlements to <em>healthcare</em> for all citizens.",
+                        "target": "新法律赋予所有公民医疗保健的权利。",
+                        "url": ""
+                    }
+                ]
+            },
+            "book": {
+                "yingyinNormal": [
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/cf2616af116b548887696dabfcc2fd97_68323.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/ecff8aa6d4a7d03090b87020316a4722_70998.mp3",
+                        "isLavafox": true,
+                        "en": "Then they checked out <em>HealthCare</em>.gov.",
+                        "zh": "之后,他们访问了<em>HealthCare</em>.gov网站。",
+                        "videoNameZh": "《奥巴马每周电视讲话》",
+                        "videoNameEn": "《Your Weekly Address》",
+                        "url": "http://bisentence_movie.sogou.com/ffd668e744e43812f5803e876fcf488f_ba17e59bce45c302a7481786d30877f7e73eb5de"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/cf2616af116b548887696dabfcc2fd97_68323.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/7dd88e447a7b5ed6795b4f55a2ee3fd2_3557.mp3",
+                        "isLavafox": true,
+                        "en": "And all five have been treated safely without infecting <em>healthcare</em> workers.",
+                        "zh": "所有五个人都被安全地治疗着并没有感染医疗工作者。",
+                        "videoNameZh": "《奥巴马每周电视讲话》",
+                        "videoNameEn": "《Your Weekly Address》",
+                        "url": "http://bisentence_movie.sogou.com/e945b6b1eefeb201edff908db8016a7a_50f01cd7ce443d52e5ed485257716feb37920b67"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/ce4704185ed874d2da0aa0211b7c5d4d_3508.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/bdf619bce3b2242be9623fe32f74bf3c_831.mp3",
+                        "isLavafox": true,
+                        "en": "To pay for it, we'll need to rethink Social Security, <em>healthcare</em> and benefits from the ground up.",
+                        "zh": "为了这笔钱，我们得完全重新思考社保，医保和福利政策。",
+                        "videoNameZh": "《纸牌屋 第三季》",
+                        "videoNameEn": "《House of Cards Season 3》",
+                        "url": "http://bisentence_movie.sogou.com/67fae4f5ad70b583180fd7423636ee16_bdda6982d8afd48a58c56c08b3c40490b018c845"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/cf2616af116b548887696dabfcc2fd97_68323.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/993887ea0d32529e35dca32e4fa9c4a2_70497.mp3",
+                        "isLavafox": true,
+                        "en": "And we've spent the last year improving and upgrading <em>HealthCare</em>.gov to make it faster and easier to use.",
+                        "zh": "我们花了过去一年改善和升级<em>HealthCare</em>.gov网站，让它使用起来可以更加快捷和方便。",
+                        "videoNameZh": "《奥巴马每周电视讲话》",
+                        "videoNameEn": "《Your Weekly Address》",
+                        "url": "http://bisentence_movie.sogou.com/ce2ce3c95cb89ec4415822d44df36078_ff508e2c43fa51baa380f2fc930efddf7287bc14"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/cf2616af116b548887696dabfcc2fd97_68323.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/809975784a67deacd29ee5bfb660f124_72651.mp3",
+                        "isLavafox": true,
+                        "en": "More than seven million people enrolled in affordable coverage by visiting <em>HealthCare</em>.gov or going to the marketplace in their state.",
+                        "zh": "700多万人通过访问<em>HealthCare</em>.gov，或者到他们自己州的市场上获得了平价医疗的覆盖。",
+                        "videoNameZh": "《奥巴马每周电视讲话》",
+                        "videoNameEn": "《Your Weekly Address》",
+                        "url": "http://bisentence_movie.sogou.com/18251261e48093677e306decad898ee5_599609a668b811116ea6bd4ada5d413bf4edb749"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/cf2616af116b548887696dabfcc2fd97_68323.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/50aade31586f6bf9a306db2104731b43_75632.mp3",
+                        "isLavafox": true,
+                        "en": "Tell them to take a few minutes to check out <em>Healthcare</em>.gov, or CuidadoDeSalud.gov or call 1-800-318-2596 it can make a big difference in their lives.",
+                        "zh": "告诉他们花几分钟时间访问<em>Healthcare</em>.gov或者CuidadoDeSalud.gov也可以拨打1-800-318-2596这将给你的生活带来巨大改变。",
+                        "videoNameZh": "《奥巴马每周电视讲话》",
+                        "videoNameEn": "《Your Weekly Address》",
+                        "url": "http://bisentence_movie.sogou.com/dfdc132982a35b9818e4b645fdf6617d_dcf005394f1bcb502eb9716185a849f832bd52f4"
+                    }
+                ]
+            },
+            "pic": "",
+            "voice": {
+                "phonetic": [
+                    {
+                        "text": "ˈhelθkeə",
+                        "type": "uk",
+                        "filename": "http://pic01.sogoucdn.com/s3/a/201051/healthcare_uk_20231207.mp3"
+                    },
+                    {
+                        "text": "ˈhelθker",
+                        "type": "usa",
+                        "filename": "http://pic03.sogoucdn.com/s3/a/201051/healthcare_usa_20231207.mp3"
+                    }
+                ]
+            },
+            "dictType": "oxford_buchong",
+            "CET6": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 2,
+                        "pos": "n",
+                        "chinese": "医疗保健服务",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "healthcare",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2016.6-2023.6年8年间全六级试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight>考纲释义</highlight>\n精选实考、考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2016-2023年51套试卷，包括阅读、听力、翻译等所有题型。\n\n<highlight>真题例句</highlight>\n精选2016-2023年8年间全六级试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 1,
+                "word_family": {
+                    "derivative_info_list": [
+                        {
+                            "derivative_info_list": [],
+                            "word": "healthcare",
+                            "mean": "n. 医疗保健；健康护理，健康服务；卫生保健"
+                        },
+                        {
+                            "derivative_info_list": [],
+                            "word": "healthful",
+                            "mean": "adj. 健康的；有益健康的"
+                        },
+                        {
+                            "derivative_info_list": [
+                                {
+                                    "derivative_info_list": [],
+                                    "word": "unhealthy",
+                                    "mean": "adj. 有害健康的；不卫生的；不健康的；显出病态的；不健全的；不正常的；有害的"
+                                }
+                            ],
+                            "word": "healthy",
+                            "mean": "adj. 健康的；良好的；健全的；有益的；正常无病的；明智的；无成见的；合意的"
+                        }
+                    ],
+                    "word": "health",
+                    "mean": "n. 健康；健康状况；祝你健康；为你的健康干杯"
+                },
+                "total_exam_freq": 2,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "synonyms": "",
+                            "en": "the maintenance and improvement of physical and mental health, especially through the provision of medical services",
+                            "zh": "医疗保健服务",
+                            "pos": "n",
+                            "antonyms": ""
+                        }
+                    ]
+                },
+                "word_affix": {
+                    "word": "healthcare",
+                    "sub_affix_info_list": [
+                        {
+                            "affix": "health",
+                            "affix_mean": "n. 健康",
+                            "sub": {
+                                "word": "health",
+                                "sub_affix_info_list": [
+                                    {
+                                        "affix_sense_info": [
+                                            {
+                                                "sample": [],
+                                                "derivatives": "",
+                                                "affix_sense_chinese": "痊愈",
+                                                "affix_type": "stem"
+                                            }
+                                        ],
+                                        "affix": "heal",
+                                        "affix_mean": "痊愈"
+                                    },
+                                    {
+                                        "affix_sense_info": [
+                                            {
+                                                "sample": [
+                                                    {
+                                                        "word": "breadth",
+                                                        "mean": "n. 幅度；宽度；广度；广泛性；宽宏；宽容；门幅；幅面；一幅；整体效果"
+                                                    },
+                                                    {
+                                                        "word": "growth",
+                                                        "mean": "n. 生长；成长；增大；发展；生长物；一熟；某葡萄园所产的葡萄；由这些葡萄酿造的葡萄酒；赘生物；发育"
+                                                    },
+                                                    {
+                                                        "word": "length",
+                                                        "mean": "n. 长度；长；一段；一片；程度；球距；时间长度；身高"
+                                                    },
+                                                    {
+                                                        "word": "mirth",
+                                                        "mean": "n. 欢乐；欢笑"
+                                                    },
+                                                    {
+                                                        "word": "stealth",
+                                                        "mean": "n. 秘密行动；背人的活动；隐形"
+                                                    },
+                                                    {
+                                                        "word": "warmth",
+                                                        "mean": "n. 暖和；温暖；暖热；热情；热心；激动；仁慈"
+                                                    },
+                                                    {
+                                                        "word": "truth",
+                                                        "mean": "n. 事实；真相；真实性；（Truth）人名：特鲁思"
+                                                    }
+                                                ],
+                                                "derivatives": "",
+                                                "affix_sense_chinese": "名词后缀, 通常指抽象名词",
+                                                "affix_type": "suffix"
+                                            }
+                                        ],
+                                        "affix": "-th",
+                                        "affix_mean": "名词后缀"
+                                    }
+                                ],
+                                "word_mean": "n. 健康"
+                            }
+                        },
+                        {
+                            "affix": "care",
+                            "affix_mean": "n. 照顾"
+                        }
+                    ],
+                    "word_mean": "n. 医疗保健"
+                }
+            },
+            "CET4": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 3,
+                        "pos": "n",
+                        "chinese": "医疗保健服务",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "healthcare",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2016.6-2023.6年8年间全四级试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight>考纲释义</highlight>\n精选实考、考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2016-2023年51套试卷，包括阅读、听力、翻译等所有题型。\n\n<highlight>真题例句</highlight>\n精选2016-2023年8年间试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 1,
+                "word_family": {
+                    "derivative_info_list": [
+                        {
+                            "derivative_info_list": [],
+                            "word": "healthcare",
+                            "mean": "n. 医疗保健；健康护理，健康服务；卫生保健"
+                        },
+                        {
+                            "derivative_info_list": [
+                                {
+                                    "derivative_info_list": [],
+                                    "word": "unhealthy",
+                                    "mean": "adj. 有害健康的；不卫生的；不健康的；显出病态的；不健全的；不正常的；有害的"
+                                }
+                            ],
+                            "word": "healthy",
+                            "mean": "adj. 健康的；良好的；健全的；有益的；正常无病的；明智的；无成见的；合意的"
+                        },
+                        {
+                            "derivative_info_list": [],
+                            "word": "healthily",
+                            "mean": "adv. 健康地"
+                        }
+                    ],
+                    "word": "health",
+                    "mean": "n. 健康；健康状况；祝你健康；为你的健康干杯"
+                },
+                "total_exam_freq": 3,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "the maintenance and improvement of physical and mental health; especially through the provision of medical services",
+                            "zh": "医疗保健服务",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "What's more, making obesity a disease \"may not benefit patients, but it will benefit <highlight>healthcare</highlight> providers and the pharmaceutical (制药的) industry\".",
+                                    "month": 12,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "此外，让肥胖成为一种疾病“可能不会让患者受益，但会让医疗服务提供者和制药行业受益”。",
+                                    "year": 2021,
+                                    "type": "阅读理解C",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "It outweighs nutrition and <highlight>healthcare</highlight>.",
+                                    "month": 6,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "它比营养和医疗保健更重要。",
+                                    "year": 2019,
+                                    "type": "阅读理解C",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "James Bentham says the global trend is likely to be due primarily to improvements in nutrition and <highlight>healthcare</highlight>.",
+                                    "month": 6,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "詹姆斯·边沁说，这种全球趋势可能主要是由于营养和医疗保健服务的改善。",
+                                    "year": 2019,
+                                    "type": "阅读理解C",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "word_affix": {
+                    "word": "healthcare",
+                    "sub_affix_info_list": [
+                        {
+                            "affix": "health",
+                            "affix_mean": "n. 健康",
+                            "sub": {
+                                "word": "health",
+                                "sub_affix_info_list": [
+                                    {
+                                        "affix_sense_info": [
+                                            {
+                                                "sample": [],
+                                                "derivatives": "",
+                                                "affix_sense_chinese": "痊愈",
+                                                "affix_type": "stem"
+                                            }
+                                        ],
+                                        "affix": "heal",
+                                        "affix_mean": "痊愈"
+                                    },
+                                    {
+                                        "affix_sense_info": [
+                                            {
+                                                "sample": [
+                                                    {
+                                                        "word": "breadth",
+                                                        "mean": "n. 幅度；宽度；广度；广泛性；宽宏；宽容；门幅；幅面；一幅；整体效果"
+                                                    },
+                                                    {
+                                                        "word": "growth",
+                                                        "mean": "n. 生长；成长；增大；发展；生长物；一熟；某葡萄园所产的葡萄；由这些葡萄酿造的葡萄酒；赘生物；发育"
+                                                    },
+                                                    {
+                                                        "word": "length",
+                                                        "mean": "n. 长度；长；一段；一片；程度；球距；时间长度；身高"
+                                                    },
+                                                    {
+                                                        "word": "mirth",
+                                                        "mean": "n. 欢乐；欢笑"
+                                                    },
+                                                    {
+                                                        "word": "stealth",
+                                                        "mean": "n. 秘密行动；背人的活动；隐形"
+                                                    },
+                                                    {
+                                                        "word": "warmth",
+                                                        "mean": "n. 暖和；温暖；暖热；热情；热心；激动；仁慈"
+                                                    },
+                                                    {
+                                                        "word": "truth",
+                                                        "mean": "n. 事实；真相；真实性；（Truth）人名：特鲁思"
+                                                    }
+                                                ],
+                                                "derivatives": "",
+                                                "affix_sense_chinese": "名词后缀, 通常指抽象名词",
+                                                "affix_type": "suffix"
+                                            }
+                                        ],
+                                        "affix": "-th",
+                                        "affix_mean": "名词后缀"
+                                    }
+                                ],
+                                "word_mean": "n. 健康"
+                            }
+                        },
+                        {
+                            "affix": "care",
+                            "affix_mean": "n. 照顾"
+                        }
+                    ],
+                    "word_mean": "n. 医疗保健"
+                }
+            },
+            "sentencesData": {
+                "status": 1,
+                "info": "notZh2En",
+                "data": {}
+            },
+            "isAutoMatch": false,
+            "Zh2En": false
+        },
+        "query": "healthcare",
+        "result": "卫生保健",
+        "tabSelect": "detail",
+        "dictionaryType": "oxford_buchong",
+        "notFound_show": false,
+        "phoneticShow": "",
+        "globalShowTranslateRecord": "",
+        "pronPrefer": {
+            "type": "usa_1",
+            "speaker": "male",
+            "speed": "standard"
+        },
+        "ServerRecord": "",
+        "ServerUIGS": {
+            "version": "new",
+            "type": "all",
+            "stype": "success",
+            "terminal": "web",
+            "fr": "default",
+            "direction": "etoz",
+            "from": "en",
+            "to": "zh-CHS",
+            "len": 10,
+            "qtype": "text",
+            "qctype": "qc_1",
+            "dict_cover": 1,
+            "detail": 1,
+            "wordCardCover": 1,
+            "wordCardEn": 1,
+            "wordCardCh": 0,
+            "wordCardMinor": 0,
+            "wordCardNetmean": 0,
+            "wordDeform": 0,
+            "keyword": 0,
+            "bilingual": 1,
+            "simple": 0,
+            "levelList": 1,
+            "synonym": 1,
+            "antonym": 0,
+            "conjugate": 1,
+            "rootaffix": 1,
+            "baike_sogou": 0,
+            "baike_wiki": 0,
+            "wordDifference": 0,
+            "word_phrase": 0,
+            "secondQuery": 0,
+            "dict_oxford": 0,
+            "dict_newcentury": 0,
+            "zhongkaotab": 0,
+            "gaokaotab": 0,
+            "CET4tab": 1,
+            "CET6tab": 1,
+            "kaoyantab": 0,
+            "network_tab": 0,
+            "yinying_tab": 1,
+            "tuozhan_tab": 0,
+            "one_pic": 0,
+            "more_pic": 0,
+            "no_pic": 0,
+            "uuid": "d87354fe-22ea-4c41-91c0-0c8f105b005d",
+            "from_type": 0,
+            "t_trans_ssr": 149
+        },
+        "ServerModelUIGS": {
+            "terminal": "web",
+            "type": "trans_model",
+            "pbtype": "pv",
+            "model_general": 1,
+            "model_medical": 1,
+            "model_finance": 1
+        },
+        "ServerSgtkn": "658FFDD3B97E13B9B1B79A708629BEC9B2A8525667558DE8",
+        "suggShow": false,
+        "suggestion": "",
+        "suggDirection": "",
+        "usualTop": "",
+        "baseDict": "",
+        "wordCardClick": false,
+        "isFrInput": false,
+        "kanaTips": {
+            "show": false,
+            "left": "",
+            "top": "",
+            "type": "",
+            "arrowLeft": ""
+        },
+        "currSentenceIndex": -1,
+        "prefixStrObj": {
+            "prefixStr": "",
+            "oriPrefixStr": ""
+        },
+        "selectTransBox": {
+            "show": false,
+            "right": 0,
+            "top": 0,
+            "paraphraseInfo": {
+                "word": "",
+                "from": "",
+                "to": "",
+                "area": ""
+            }
+        },
+        "sentenceLoading": false,
+        "newSentenceInfo": {
+            "sentence": "",
+            "candidateIndex": 0
+        },
+        "moreTipInfo": {
+            "opacity": 0,
+            "zIndex": -1
+        },
+        "paraphraseShowInfo": {
+            "card": 0,
+            "query": "",
+            "card_dict": 0
+        },
+        "selectType": "",
+        "wordPos": 0,
+        "candidateWord": "",
+        "syntaxVisible": false,
+        "syntaxStatus": 0
+    },
+    "language": {
+        "from": "auto",
+        "to": "zh-CHS",
+        "detect": "en",
+        "model": "general",
+        "detectShow": false,
+        "langMap": {
+            "current": ""
+        },
+        "zh2en": false,
+        "fromItemList": [
+            {
+                "lang": "auto",
+                "text": "自动检测",
+                "play": false
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "vi",
+                "text": "越南语",
+                "play": true,
+                "abbr": "越"
+            },
+            {
+                "lang": "de",
+                "text": "德语",
+                "play": true,
+                "abbr": "德"
+            },
+            {
+                "lang": "th",
+                "text": "泰语",
+                "play": true,
+                "abbr": "泰"
+            }
+        ],
+        "toItemList": [
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "vi",
+                "text": "越南语",
+                "play": true,
+                "abbr": "越"
+            },
+            {
+                "lang": "de",
+                "text": "德语",
+                "play": true,
+                "abbr": "德"
+            },
+            {
+                "lang": "ru",
+                "text": "俄语",
+                "play": true,
+                "abbr": "俄"
+            }
+        ]
+    },
+    "voice": {
+        "from": {
+            "lang": "en",
+            "type": "from",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22healthcare%22%2C%22spokenDialect%22%3A%22en%22%2C%22rate%22%3A%220.8%22%7D",
+            "list": [
+                {
+                    "type": "uk_0",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "ˈhelθkeə",
+                    "abbr": "英",
+                    "src": "http://pic01.sogoucdn.com/s3/a/201051/healthcare_uk_20231207.mp3"
+                },
+                {
+                    "type": "usa_1",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "ˈhelθker",
+                    "abbr": "美",
+                    "src": "http://pic03.sogoucdn.com/s3/a/201051/healthcare_usa_20231207.mp3"
+                }
+            ],
+            "stype": "phonetic",
+            "phoneticShow": [
+                {
+                    "text": "ˈhelθkeə",
+                    "type": "uk",
+                    "filename": "http://pic01.sogoucdn.com/s3/a/201051/healthcare_uk_20231207.mp3"
+                },
+                {
+                    "text": "ˈhelθker",
+                    "type": "usa",
+                    "filename": "http://pic03.sogoucdn.com/s3/a/201051/healthcare_usa_20231207.mp3"
+                }
+            ]
+        },
+        "to": {
+            "lang": "zh",
+            "type": "to",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22%E5%8D%AB%E7%94%9F%E4%BF%9D%E5%81%A5%22%2C%22spokenDialect%22%3A%22zh-CHS%22%2C%22rate%22%3A%220.8%22%7D",
+            "stype": "normal"
+        }
+    }
+}

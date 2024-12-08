@@ -1,0 +1,981 @@
+{
+    "route": {
+        "name": "text",
+        "path": "/text",
+        "hash": "",
+        "query": {
+            "keyword": "fraud",
+            "transfrom": "auto",
+            "transto": "zh-CHS",
+            "model": "general",
+            "errcode": "s10"
+        },
+        "params": {},
+        "fullPath": "/text?keyword=fraud&transfrom=auto&transto=zh-CHS&model=general&errcode=s10",
+        "meta": {
+            "mtype": [
+                "textTranslate",
+                "language",
+                "voice"
+            ]
+        },
+        "from": {
+            "name": null,
+            "path": "/",
+            "hash": "",
+            "query": {},
+            "params": {},
+            "fullPath": "/",
+            "meta": {}
+        }
+    },
+    "common": {
+        "CONFIG": {
+            "wuid": 1733659988331,
+            "loginInfo": {},
+            "isIE": 0,
+            "isHitSsrSwitch": true,
+            "isHitWritebookSwitch": false,
+            "isHitAmsSwitch": true,
+            "promotionList": "{\n    \"pc_bottom\":{\n        \"imgsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\",\n        \"qcsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\"\n    },\n    \"pc_middle\":[\n        {\n            \"src\":\"//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c\",\n            \"bgColor\":\"#ffffff\",\n            \"link\":\"\"\n        }\n    ],\n    \"pc_survey\":{\n        \"icon\":\"//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750\",\n        \"link\":\"https://wj.qq.com/s2/8193148/806d/\"\n    }\n}",
+            "bannerData": [],
+            "isHitAsideSurvey": false,
+            "secretCode": 109984457,
+            "uuid": "f449e99f-c8ce-4fdb-a27f-1939d58425e7",
+            "referer": "",
+            "approveToken": "658E911BAC6E00A8A2A58B638967A4B3A35E96F467558D54",
+            "loadTime": 1733659988336,
+            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0",
+            "fcp": "159.65.124.238",
+            "temporaryId": "",
+            "fileId": ""
+        },
+        "hotWords": [],
+        "isFromCollect": false,
+        "psdModify": {
+            "currentStep": 1,
+            "scode": "",
+            "username": ""
+        },
+        "loginStatus": true,
+        "feedBackModule": false,
+        "showPromotionPopup": {
+            "show": false,
+            "type": ""
+        },
+        "showPromotionPCDownload": false,
+        "showShareBomb": false,
+        "shareData": null,
+        "showAppDownLoad": false,
+        "showLoginDialog": false,
+        "showLoading": {
+            "show": false
+        },
+        "toast": {
+            "show": false,
+            "text": "",
+            "loading": false
+        },
+        "modelToast": {
+            "show": false,
+            "text": ""
+        },
+        "selectionGlobalShow": true,
+        "selectionInfo": {
+            "left": 0,
+            "top": 0,
+            "show": false,
+            "from": "",
+            "to": "",
+            "val": "",
+            "area": ""
+        },
+        "showConfirmDialog": false,
+        "promotionList": {
+            "pc_bottom": {
+                "imgsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png",
+                "qcsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png"
+            },
+            "pc_middle": [
+                {
+                    "src": "//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c",
+                    "bgColor": "#ffffff",
+                    "link": ""
+                }
+            ],
+            "pc_survey": {
+                "icon": "//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750",
+                "link": "https://wj.qq.com/s2/8193148/806d/"
+            }
+        },
+        "transTypeTxt": "text",
+        "fixedTabStatus": 0,
+        "bodyTop": 0,
+        "ifHideUserOperation": false
+    },
+    "textTranslate": {
+        "prevTransQuery": "",
+        "translateData": {
+            "translate": {
+                "zly": "zly",
+                "errorCode": "0",
+                "qc_type": "1",
+                "index": "content0",
+                "from": "en",
+                "source": "sogou",
+                "text": "fraud",
+                "to": "zh-CHS",
+                "id": "f449e99f-c8ce-4fdb-a27f-1939d58425e7",
+                "dit": "欺骗",
+                "orig_text": "fraud",
+                "md5": ""
+            },
+            "detect": {
+                "zly": "zly",
+                "detect": "en",
+                "errorCode": "0",
+                "language": "英语",
+                "id": "c92adc30-b55d-11ef-8acb-a3974c24e531",
+                "text": "fraud"
+            },
+            "sgtkn": "658E9127AC6E00A8A2A58B638967A4B3A35E96F467558D54",
+            "wordCard": {
+                "title": "fraud",
+                "show": true,
+                "usualDict": [
+                    {
+                        "values": [
+                            "欺诈；诈骗；骗局；欺骗行为；不诚实；骗子；冒名顶替者；行骗的人；伪造物；赝品；假冒品；欺诈罪；冒牌货；伪劣品"
+                        ],
+                        "pos": "n."
+                    }
+                ],
+                "secondQuery": "",
+                "exchange": {
+                    "word_pl": [
+                        "frauds"
+                    ]
+                },
+                "levelList": [
+                    "六级",
+                    "考研",
+                    "考博",
+                    "雅思",
+                    "GRE"
+                ]
+            },
+            "detail": {
+                "synonym": [
+                    {
+                        "word_list": [
+                            "scheme",
+                            "sharp",
+                            "deception"
+                        ],
+                        "pos": "n.",
+                        "mean": "欺骗；骗子；诡计"
+                    }
+                ],
+                "wordRootInfo": {
+                    "word_info_list": [
+                        {
+                            "word": "fraudulent",
+                            "pos_mean_info_list": [
+                                {
+                                    "pos": "adj.",
+                                    "mean": "欺骗性的；不正的"
+                                }
+                            ]
+                        },
+                        {
+                            "word": "fraudulence",
+                            "pos_mean_info_list": [
+                                {
+                                    "pos": "n.",
+                                    "mean": "欺诈；欺骗性"
+                                }
+                            ]
+                        }
+                    ],
+                    "root_word": "fraud"
+                },
+                "word_difference_info": [
+                    {
+                        "common_mean": "欺骗",
+                        "word_list": [
+                            "deception",
+                            " fraud",
+                            " deceit"
+                        ],
+                        "word_mean_info__list": [
+                            {
+                                "difference": "语气较弱，一般用词，侧重于具体的骗人行为。但有时并无欺骗行为，只是玩弄把戏，故弄玄虚而已。",
+                                "word": "deception"
+                            },
+                            {
+                                "difference": "一般用于犯罪行为的欺骗，通常指政治或经济活动中的舞弊行为。",
+                                "word": "fraud"
+                            },
+                            {
+                                "difference": "指歪曲实情，惯于说谎或蓄意欺骗。",
+                                "word": "deceit"
+                            }
+                        ]
+                    }
+                ],
+                "word_group": [
+                    {
+                        "brief_definition": "电子金融诈骗",
+                        "phrase": "wire fraud",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "诈骗罪调查科",
+                        "phrase": "fraud squad",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "善意的欺骗；虔诚的欺骗",
+                        "phrase": "pious fraud",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "舞弊和腐败；欺诈和贪污；欺诈腐败",
+                        "phrase": "fraud and corruption",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "防止欺诈；防骗",
+                        "phrase": "prevent fraud",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "税收欺诈；税务诈骗；骗税",
+                        "phrase": "tax fraud",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "选举舞弊；选举操控",
+                        "phrase": "electoral fraud",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "犯欺诈罪",
+                        "phrase": "commit fraud",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "检测欺诈行为",
+                        "phrase": "detect fraud",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "电话推销诈骗",
+                        "phrase": "telemarketing fraud",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "暴露欺诈",
+                        "phrase": "expose fraud",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "房屋修理诈骗；家庭维修诈骗",
+                        "phrase": "home-repair fraud",
+                        "pos": ""
+                    }
+                ],
+                "bilingual": [
+                    {
+                        "source": "She is charged with <em>fraud</em>.",
+                        "target": "她被控告欺诈。",
+                        "url": ""
+                    },
+                    {
+                        "source": "She was prosecuted for <em>fraud</em>.",
+                        "target": "她因欺诈被起诉。",
+                        "url": ""
+                    },
+                    {
+                        "source": "They accused the company of <em>fraud</em>.",
+                        "target": "他们指控公司欺诈。",
+                        "url": ""
+                    },
+                    {
+                        "source": "The businessman was indicted for <em>fraud</em>.",
+                        "target": "那名商人因欺诈被起诉。",
+                        "url": ""
+                    },
+                    {
+                        "source": "He went to prison for forgery and <em>fraud</em>.",
+                        "target": "他因伪造和欺诈而入狱。",
+                        "url": ""
+                    },
+                    {
+                        "source": "She was a victim of credit card <em>fraud</em>.",
+                        "target": "她是信用卡欺诈的受害者。",
+                        "url": ""
+                    },
+                    {
+                        "source": "The company denied the allegation of <em>fraud</em>.",
+                        "target": "公司否认了欺诈的指控。",
+                        "url": ""
+                    },
+                    {
+                        "source": "The company denies all allegations of <em>fraud</em>.",
+                        "target": "公司否认所有欺诈指控。",
+                        "url": ""
+                    },
+                    {
+                        "source": "The company's actions were tantamount to <em>fraud</em>.",
+                        "target": "公司的行为等同于欺诈。",
+                        "url": ""
+                    },
+                    {
+                        "source": "The company denied the allegations of <em>fraud</em>.",
+                        "target": "公司否认了关于欺诈的指控。",
+                        "url": ""
+                    }
+                ],
+                "baike": {
+                    "showMore": false,
+                    "list": [
+                        {
+                            "lemmaTitle": "Fraud",
+                            "link": "https://baike.sogou.com/v122113079.htm?ch=sogou.fanyi",
+                            "abstract": "fraud，英语单词，主要用作名词，作名词时意为“欺骗；骗子；诡计；人名；(法)弗罗”。",
+                            "wapPic": "",
+                            "pcPic": ""
+                        }
+                    ]
+                }
+            },
+            "book": {
+                "yingyinNormal": [
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/ab33377d84b5796f50bb8f1f447070e8_26275.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/704ff111e7246e1afdd635964ae93569_17281.mp3",
+                        "isLavafox": true,
+                        "en": "What bothers me isn't that <em>fraud</em> is not nice or that <em>fraud</em> is mean.",
+                        "zh": "困扰我的并不是欺诈不好或者欺诈很坏。",
+                        "videoNameZh": "《大空头》",
+                        "videoNameEn": "《The Big Short》",
+                        "url": "http://bisentence_movie.sogou.com/5f5357e4e130c0f88bf226f3a6853b2b_2a22cd6f731e32f88cd818a1305a1bf595885dbb"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/3cc7f04bc4e6bde5cc691b286df1a676_37630.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/b6bece82d6a1d6578a2d2e2ac8e193c1_5474.mp3",
+                        "isLavafox": true,
+                        "en": "That's insurance <em>fraud</em>. Well, all right then, forget it. Why don't we just go home.",
+                        "zh": "这是保险欺诈。好吧，算了，我回家。",
+                        "videoNameZh": "《老友记第一季》",
+                        "videoNameEn": "《Friends Season 1》",
+                        "url": "http://bisentence_movie.sogou.com/d3471cda512ec3fa99a16c387ef1ef36_165e6510f59537fa31b38b59c5214edf22bec14a"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/f012eb5fd120cc2d5b68f18e3d0e7c8c_67362.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/dd9ad1fa2ac0c4b564c482dcad1f705e_73308.mp3",
+                        "isLavafox": true,
+                        "en": "This is the problem. The Feds were looking for Tomas I. Ruiz. He's a con man, Insurance <em>fraud</em>, airbag theft.",
+                        "zh": "问题就在这儿，联邦政府要找的是托马斯·I·鲁伊兹是个欺诈犯，保险欺诈，偷盗汽车，安全气囊。",
+                        "videoNameZh": "《傲骨贤妻 第五季》",
+                        "videoNameEn": "《The Good Wife Season 5》",
+                        "url": "http://bisentence_movie.sogou.com/a9a8eb01ba08065b5a2e81679df16306_820dc9cb24e2657ed4a3fd1d84d797688f158d8b"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/39e50807a5a1191398262e04787ff184_62485.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/280e31247a8b2c07f405b0b658454e52_3965.mp3",
+                        "isLavafox": true,
+                        "en": "No. We are committing genetic <em>fraud</em>. There's no guarantee that our sperm is going to generate high-IQ offspring.",
+                        "zh": "不是的，我们这是在犯基因欺诈罪，我们的精子并不能保证将来就能生出高智商的后代。",
+                        "videoNameZh": "《生活大爆炸 第一季》",
+                        "videoNameEn": "《The Big Bang Theory Season 1》",
+                        "url": "http://bisentence_movie.sogou.com/651994b0088830998d8994cdb931067e_6a01cea289bfb9f3a7ea7a78f19b062081c4354a"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/f012eb5fd120cc2d5b68f18e3d0e7c8c_67362.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/1a57d50bda5c25249cc510932a7df65f_29611.mp3",
+                        "isLavafox": true,
+                        "en": "You mean Eli Gold? No. Why? Voter <em>fraud</em>.",
+                        "zh": "你指的是伊莱·戈德吗？不。原因？贿选。",
+                        "videoNameZh": "《傲骨贤妻 第五季》",
+                        "videoNameEn": "《The Good Wife Season 5》",
+                        "url": "http://bisentence_movie.sogou.com/c437ede755101fd1ff7abb04bca54a80_35516de48e9d63e366ab229be9a802be5cee1ec9"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/a86e6e98cc64448e528c65f2085efa0f_30194.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/81a41dcfacb4625992a70d6b54eca96a_75263.mp3",
+                        "isLavafox": true,
+                        "en": "Oh, great. Now I'm worse than a <em>fraud</em>. I'm practically a biologist.",
+                        "zh": "好极了，现在我还不如个骗子了，我快成个生物学家了。",
+                        "videoNameZh": "《生活大爆炸 第7季》",
+                        "videoNameEn": "《The Big Bang Theory Season 7》",
+                        "url": "http://bisentence_movie.sogou.com/969143075c58a76944c0acd5743444a6_80685dbaf37abcd08bf86a41d314118ca10c0573"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/ab33377d84b5796f50bb8f1f447070e8_26275.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/9a65d4cd9b8fdf78a2d51bc7e7ca3d74_19423.mp3",
+                        "isLavafox": true,
+                        "en": "It's that for 15,000 years <em>fraud</em> and short-sighted thinking have never, ever worked.",
+                        "zh": "而是150世纪以来行骗和短视从来没有成功过。",
+                        "videoNameZh": "《大空头》",
+                        "videoNameEn": "《The Big Short》",
+                        "url": "http://bisentence_movie.sogou.com/4c5e0e121f402317f0977dbe4eeaf56a_d247284c1bda4fb0926e252eebf66af5db298b20"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/69e52acd9e09b6a2ed378507a165e971_14638.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/42bd09dfd3ae5cc6257bb2de71c5e716_4414.mp3",
+                        "isLavafox": true,
+                        "en": "Since never. The captain is being charged with embezzlement and <em>fraud</em>. This is an absolute disaster.",
+                        "zh": "一直都没有，直到上校因挪用公款和诈骗被起诉了，这完全是个灾难。",
+                        "videoNameZh": "《绯闻女孩 第一季》",
+                        "videoNameEn": "《Gossip Girl Season 1》",
+                        "url": "http://bisentence_movie.sogou.com/657be570254e9b64d761e5f678c39583_4e3dbe723fa769b38b5729866c88857044e12b74"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/86481e30713cfdd22b2b4267934c713a_30257.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/87900367be917534c020814cf09bdc34_44018.mp3",
+                        "isLavafox": true,
+                        "en": "And neither can you be. They need to see the <em>fraud</em> you are. With their eyes. The blood on your hands.",
+                        "zh": "而你两者都不是，他们得看清你是个骗子，让他们亲眼见证，你手上的血债。",
+                        "videoNameZh": "《蝙蝠侠大战超人：正义黎明》",
+                        "videoNameEn": "《Batman v Superman: Dawn of Justice》",
+                        "url": "http://bisentence_movie.sogou.com/733e106b338332bb2518a6716b654b70_1d2d46fe8d6343e551db9594b90f07c248f248d2"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/01c17509086ef8842dc81dd84a41285d_68420.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/f76ddc722143123b6ab6c70e6f49c5d9_55950.mp3",
+                        "isLavafox": true,
+                        "en": "Guilt! That's all this is. You pushed us all into thinking that Sherlock that was a <em>fraud</em>, you and Donovan.",
+                        "zh": "负罪感，负罪感作祟。是你和多诺万，你们俩逼我们把夏洛克当成骗子。",
+                        "videoNameZh": "《神探夏洛克 第三季》",
+                        "videoNameEn": "《Sherlock Season 3》",
+                        "url": "http://bisentence_movie.sogou.com/a87e54db3c832d12e5f0a4859dcb311e_299e673ae521e81f3c3382c043191feca45e8e45"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/ab33377d84b5796f50bb8f1f447070e8_26275.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/aea1adcb9caa1260b3428cad4197c7f6_20551.mp3",
+                        "isLavafox": true,
+                        "en": "Bear Stearns is denying rumors of liquidity problems. Holy fuck, it's 39 now! We live in an era of <em>fraud</em> in America.",
+                        "zh": "贝尔斯登否认流动性问题的传闻。天哪，39了！美国生活在一个诈骗时代。",
+                        "videoNameZh": "《大空头》",
+                        "videoNameEn": "《The Big Short》",
+                        "url": "http://bisentence_movie.sogou.com/d5e1b69ed5cdec8f545b41b3e6286476_16d647d1e969c5d2158267c3e039888d4cb4323d"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/a86e6e98cc64448e528c65f2085efa0f_30194.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/5db622f805e460b082db2e61b5f73f07_74708.mp3",
+                        "isLavafox": true,
+                        "en": "Yeah. What matters is the greatest scientific achievement of my life is based on a blunder. I'm not a genius, I'm a <em>fraud</em>.",
+                        "zh": "问题是我这辈子最伟大的科学成就是一次犯蠢造就的，我不是个天才，我是个骗子。",
+                        "videoNameZh": "《生活大爆炸 第7季》",
+                        "videoNameEn": "《The Big Bang Theory Season 7》",
+                        "url": "http://bisentence_movie.sogou.com/213bec2444e6f836a051006d681dde90_6fd7f6919e2fe20bd576f1e506793b45d9c4b74e"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/b630caafa2606557856da7a333933a5d_54182.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/c530d05a32500f1b66254c2edb63a417_47330.mp3",
+                        "isLavafox": true,
+                        "en": "I am the William Shatner of theoretical physics. All right, I'll play. What self important, preening <em>fraud</em> are they honoring this year?",
+                        "zh": "我就是理论物理界的威廉·夏特纳。好吧，我配合你。他们今年选了哪个自以为是，狂妄自大的骗子？",
+                        "videoNameZh": "《生活大爆炸 第三季》",
+                        "videoNameEn": "《The Big Bang Theory Season 3》",
+                        "url": "http://bisentence_movie.sogou.com/092d668bb15e231f0c311f00842ec1a9_3d1b107e4621ae931b69dfc8c49bbe3d18734544"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/882c4a955031459b92686f70d94deed1_14165.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/ba3a606aeeb7c180f79b5f24fd67e1fc_12534.mp3",
+                        "isLavafox": true,
+                        "en": "At the time, I felt as if I was unworthy, that a mistake had surely been made and at a moment's notice someone would unveil me as a <em>fraud</em>.",
+                        "zh": "那时候，我觉得自己什么都不是，也犯过糊涂，有时会担心有人说我是骗子。",
+                        "videoNameZh": "《马可波罗 第一季》",
+                        "videoNameEn": "《Marco Polo Season 1》",
+                        "url": "http://bisentence_movie.sogou.com/3379357fc66096d77c7a8c9757620648_3d2c1b104107640aad30fcbf750f6892214db43c"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/ab33377d84b5796f50bb8f1f447070e8_26275.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/85b95358692f9ecd4c9d7bf3d0e68280_48011.mp3",
+                        "isLavafox": true,
+                        "en": "Wall Street took a good idea, Lewis Ranieri's mortgage bond, and turned it into an atomic bomb of <em>fraud</em> and stupidity that's on its way to decimating the world economy.",
+                        "zh": "华尔街把一个好主意，路易斯·拉涅利的房贷债券变成了一颗骗局与愚蠢交织的原子弹，并且正要炸毁世界经济。",
+                        "videoNameZh": "《大空头》",
+                        "videoNameEn": "《The Big Short》",
+                        "url": "http://bisentence_movie.sogou.com/191a3b3278eb81c471af89199fc21c5e_29cf4414e46a26c1d6d919bd7f316a60ac9c780a"
+                    }
+                ]
+            },
+            "pic": "",
+            "voice": {
+                "phonetic": [
+                    {
+                        "text": "frɔːd",
+                        "type": "uk",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/3915_fraud_uk.mp3"
+                    },
+                    {
+                        "text": "frɔːd",
+                        "type": "usa",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/3915_fraud_usa.mp3"
+                    }
+                ]
+            },
+            "dictType": "oxford_buchong",
+            "kaoyan": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 1,
+                        "pos": "n",
+                        "chinese": "欺骗; 诈骗",
+                        "sense_tier_ratio": 100
+                    },
+                    {
+                        "sense_tier": 0,
+                        "pos": "n",
+                        "chinese": "骗子; 冒名顶替者",
+                        "sense_tier_ratio": 0
+                    }
+                ],
+                "word": "fraud",
+                "direction_info": {
+                    "ranges": 12,
+                    "description": "数据源自2012-2023年12年间全国考研试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2012-2023年全国考研英语一和考研英语二共24套考研试卷，包括阅读、完型填空、翻译、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选全国考研考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2012-2023年12年间全国考研英语一和考研英语二试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 1,
+                "total_exam_freq": 1,
+                "sense": {
+                    "sense_num": 2,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "欺骗; 诈骗",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "The prevention of this type of <highlight>fraud</highlight> is no easy task.",
+                                    "month": -1,
+                                    "source": "英语二",
+                                    "coll": "",
+                                    "sentence_trans": "防止这类欺诈绝非易事。",
+                                    "year": 2013,
+                                    "type": "完型填空",
+                                    "day": -1
+                                }
+                            ]
+                        },
+                        {
+                            "synonyms": "",
+                            "en": "",
+                            "zh": "骗子; 冒名顶替者",
+                            "pos": "n",
+                            "antonyms": ""
+                        }
+                    ]
+                }
+            },
+            "CET6": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 1,
+                        "pos": "n",
+                        "chinese": "欺诈; 诈骗",
+                        "sense_tier_ratio": 100
+                    },
+                    {
+                        "sense_tier": 0,
+                        "pos": "n",
+                        "chinese": "骗子",
+                        "sense_tier_ratio": 0
+                    }
+                ],
+                "word": "fraud",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2016.6-2023.6年8年间全六级试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight>考纲释义</highlight>\n精选实考、考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2016-2023年51套试卷，包括阅读、听力、翻译等所有题型。\n\n<highlight>真题例句</highlight>\n精选2016-2023年8年间全六级试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 1,
+                "word_family": {
+                    "derivative_info_list": [
+                        {
+                            "derivative_info_list": [],
+                            "word": "fraudulent",
+                            "mean": "adj. 诈骗的；欺诈的；骗得的；欺骗性的；伪称（或被不合理地当作）有某种成就（或品质）的"
+                        }
+                    ],
+                    "word": "fraud",
+                    "mean": "n. 欺骗；骗局；诡计；骗子；伪品"
+                },
+                "total_exam_freq": 1,
+                "sense": {
+                    "sense_num": 2,
+                    "sense_info_list": [
+                        {
+                            "synonyms": "",
+                            "en": "",
+                            "zh": "欺诈; 诈骗",
+                            "pos": "n",
+                            "antonyms": ""
+                        },
+                        {
+                            "synonyms": "",
+                            "en": "",
+                            "zh": "骗子",
+                            "pos": "n",
+                            "antonyms": ""
+                        }
+                    ]
+                }
+            },
+            "CET4": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 9,
+                        "pos": "n",
+                        "chinese": "欺诈; 诈骗",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "fraud",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2016.6-2023.6年8年间全四级试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight>考纲释义</highlight>\n精选实考、考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2016-2023年51套试卷，包括阅读、听力、翻译等所有题型。\n\n<highlight>真题例句</highlight>\n精选2016-2023年8年间试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 2,
+                "total_exam_freq": 9,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "欺诈; 诈骗",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "Holidaymakers have been alerted to the frequent occurrence of online villa-booking <highlight>frauds</highlight>.",
+                                    "month": 6,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "度假者们已经意识到，网上预订别墅的欺诈行为时有发生。",
+                                    "year": 2022,
+                                    "type": "阅读理解B",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "It is holidaymakers that can protect themselves from falling victim to <highlight>frauds</highlight>.",
+                                    "month": 6,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "度假者可以保护自己，避免成为欺诈行为的受害者。",
+                                    "year": 2022,
+                                    "type": "阅读理解B",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "It is suggested that people not going on the holiday might help detect website <highlight>frauds</highlight>.",
+                                    "month": 6,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "建议不去度假的人可以帮助发现网站欺诈行为。",
+                                    "year": 2022,
+                                    "type": "阅读理解B",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            "gaokao": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 0,
+                        "pos": "n",
+                        "chinese": "欺骗罪; 骗子",
+                        "sense_tier_ratio": 0
+                    }
+                ],
+                "word": "fraud",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2015-2022年8年间全国卷和自主命题省市高考卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2015-2022年全国卷高考试卷，包括阅读、完形、单选、填空、听力、改错、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选各省市考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2015-2022年8年间全国卷和自主命题省市高考卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 1,
+                "total_exam_freq": 0,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "synonyms": "",
+                            "en": "",
+                            "zh": "欺骗罪; 骗子",
+                            "pos": "n",
+                            "antonyms": ""
+                        }
+                    ]
+                }
+            },
+            "sentencesData": {
+                "status": 1,
+                "info": "notZh2En",
+                "data": {}
+            },
+            "isAutoMatch": false,
+            "Zh2En": false
+        },
+        "query": "fraud",
+        "result": "欺骗",
+        "tabSelect": "detail",
+        "dictionaryType": "oxford_buchong",
+        "notFound_show": false,
+        "phoneticShow": "",
+        "globalShowTranslateRecord": "",
+        "pronPrefer": {
+            "type": "usa_1",
+            "speaker": "male",
+            "speed": "standard"
+        },
+        "ServerRecord": "",
+        "ServerUIGS": {
+            "version": "new",
+            "type": "all",
+            "stype": "success",
+            "terminal": "web",
+            "fr": "default",
+            "direction": "etoz",
+            "from": "en",
+            "to": "zh-CHS",
+            "len": 5,
+            "qtype": "text",
+            "qctype": "qc_1",
+            "dict_cover": 1,
+            "detail": 1,
+            "wordCardCover": 1,
+            "wordCardEn": 1,
+            "wordCardCh": 0,
+            "wordCardMinor": 0,
+            "wordCardNetmean": 0,
+            "wordDeform": 1,
+            "keyword": 0,
+            "bilingual": 1,
+            "simple": 0,
+            "levelList": 1,
+            "synonym": 1,
+            "antonym": 0,
+            "conjugate": 1,
+            "rootaffix": 0,
+            "baike_sogou": 1,
+            "baike_wiki": 0,
+            "wordDifference": 1,
+            "word_phrase": 1,
+            "secondQuery": 0,
+            "dict_oxford": 0,
+            "dict_newcentury": 0,
+            "zhongkaotab": 0,
+            "gaokaotab": 1,
+            "CET4tab": 1,
+            "CET6tab": 1,
+            "kaoyantab": 1,
+            "network_tab": 0,
+            "yinying_tab": 1,
+            "tuozhan_tab": 0,
+            "one_pic": 0,
+            "more_pic": 0,
+            "no_pic": 0,
+            "uuid": "f449e99f-c8ce-4fdb-a27f-1939d58425e7",
+            "from_type": 0,
+            "t_trans_ssr": 138
+        },
+        "ServerModelUIGS": {
+            "terminal": "web",
+            "type": "trans_model",
+            "pbtype": "pv",
+            "model_general": 1,
+            "model_medical": 1,
+            "model_finance": 1
+        },
+        "ServerSgtkn": "658E9127AC6E00A8A2A58B638967A4B3A35E96F467558D54",
+        "suggShow": false,
+        "suggestion": "",
+        "suggDirection": "",
+        "usualTop": "",
+        "baseDict": "",
+        "wordCardClick": false,
+        "isFrInput": false,
+        "kanaTips": {
+            "show": false,
+            "left": "",
+            "top": "",
+            "type": "",
+            "arrowLeft": ""
+        },
+        "currSentenceIndex": -1,
+        "prefixStrObj": {
+            "prefixStr": "",
+            "oriPrefixStr": ""
+        },
+        "selectTransBox": {
+            "show": false,
+            "right": 0,
+            "top": 0,
+            "paraphraseInfo": {
+                "word": "",
+                "from": "",
+                "to": "",
+                "area": ""
+            }
+        },
+        "sentenceLoading": false,
+        "newSentenceInfo": {
+            "sentence": "",
+            "candidateIndex": 0
+        },
+        "moreTipInfo": {
+            "opacity": 0,
+            "zIndex": -1
+        },
+        "paraphraseShowInfo": {
+            "card": 0,
+            "query": "",
+            "card_dict": 0
+        },
+        "selectType": "",
+        "wordPos": 0,
+        "candidateWord": "",
+        "syntaxVisible": false,
+        "syntaxStatus": 0
+    },
+    "language": {
+        "from": "auto",
+        "to": "zh-CHS",
+        "detect": "en",
+        "model": "general",
+        "detectShow": false,
+        "langMap": {
+            "current": ""
+        },
+        "zh2en": false,
+        "fromItemList": [
+            {
+                "lang": "auto",
+                "text": "自动检测",
+                "play": false
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "fr",
+                "text": "法语",
+                "play": true,
+                "abbr": "法"
+            },
+            {
+                "lang": "th",
+                "text": "泰语",
+                "play": true,
+                "abbr": "泰"
+            },
+            {
+                "lang": "tr",
+                "text": "土耳其语",
+                "play": false,
+                "abbr": "土"
+            }
+        ],
+        "toItemList": [
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "vi",
+                "text": "越南语",
+                "play": true,
+                "abbr": "越"
+            },
+            {
+                "lang": "it",
+                "text": "意大利语",
+                "play": true,
+                "abbr": "意"
+            },
+            {
+                "lang": "fr",
+                "text": "法语",
+                "play": true,
+                "abbr": "法"
+            }
+        ]
+    },
+    "voice": {
+        "from": {
+            "lang": "en",
+            "type": "from",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22fraud%22%2C%22spokenDialect%22%3A%22en%22%2C%22rate%22%3A%220.8%22%7D",
+            "list": [
+                {
+                    "type": "uk_0",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "frɔːd",
+                    "abbr": "英",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/3915_fraud_uk.mp3"
+                },
+                {
+                    "type": "usa_1",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "frɔːd",
+                    "abbr": "美",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/3915_fraud_usa.mp3"
+                }
+            ],
+            "stype": "phonetic",
+            "phoneticShow": [
+                {
+                    "text": "frɔːd",
+                    "type": "uk",
+                    "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/3915_fraud_uk.mp3"
+                }
+            ]
+        },
+        "to": {
+            "lang": "zh",
+            "type": "to",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22%E6%AC%BA%E9%AA%97%22%2C%22spokenDialect%22%3A%22zh-CHS%22%2C%22rate%22%3A%220.8%22%7D",
+            "stype": "normal"
+        }
+    }
+}

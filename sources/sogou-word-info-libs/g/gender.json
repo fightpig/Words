@@ -1,0 +1,1443 @@
+{
+    "route": {
+        "name": "text",
+        "path": "/text",
+        "hash": "",
+        "query": {
+            "keyword": "gender",
+            "transfrom": "auto",
+            "transto": "zh-CHS",
+            "model": "general",
+            "errcode": "s10"
+        },
+        "params": {},
+        "fullPath": "/text?keyword=gender&transfrom=auto&transto=zh-CHS&model=general&errcode=s10",
+        "meta": {
+            "mtype": [
+                "textTranslate",
+                "language",
+                "voice"
+            ]
+        },
+        "from": {
+            "name": null,
+            "path": "/",
+            "hash": "",
+            "query": {},
+            "params": {},
+            "fullPath": "/",
+            "meta": {}
+        }
+    },
+    "common": {
+        "CONFIG": {
+            "wuid": 1733660029521,
+            "loginInfo": {},
+            "isIE": 0,
+            "isHitSsrSwitch": true,
+            "isHitWritebookSwitch": false,
+            "isHitAmsSwitch": true,
+            "promotionList": "{\n    \"pc_bottom\":{\n        \"imgsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\",\n        \"qcsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\"\n    },\n    \"pc_middle\":[\n        {\n            \"src\":\"//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c\",\n            \"bgColor\":\"#ffffff\",\n            \"link\":\"\"\n        }\n    ],\n    \"pc_survey\":{\n        \"icon\":\"//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750\",\n        \"link\":\"https://wj.qq.com/s2/8193148/806d/\"\n    }\n}",
+            "bannerData": [],
+            "isHitAsideSurvey": false,
+            "secretCode": 109984457,
+            "uuid": "0340dd15-30a6-4363-9ed5-b5fef42c2e74",
+            "referer": "",
+            "approveToken": "658EF79FDC3B55F3F7F1D039D6CF7077F8A4933E67558D7D",
+            "loadTime": 1733660029522,
+            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0",
+            "fcp": "159.65.124.238",
+            "temporaryId": "",
+            "fileId": ""
+        },
+        "hotWords": [],
+        "isFromCollect": false,
+        "psdModify": {
+            "currentStep": 1,
+            "scode": "",
+            "username": ""
+        },
+        "loginStatus": true,
+        "feedBackModule": false,
+        "showPromotionPopup": {
+            "show": false,
+            "type": ""
+        },
+        "showPromotionPCDownload": false,
+        "showShareBomb": false,
+        "shareData": null,
+        "showAppDownLoad": false,
+        "showLoginDialog": false,
+        "showLoading": {
+            "show": false
+        },
+        "toast": {
+            "show": false,
+            "text": "",
+            "loading": false
+        },
+        "modelToast": {
+            "show": false,
+            "text": ""
+        },
+        "selectionGlobalShow": true,
+        "selectionInfo": {
+            "left": 0,
+            "top": 0,
+            "show": false,
+            "from": "",
+            "to": "",
+            "val": "",
+            "area": ""
+        },
+        "showConfirmDialog": false,
+        "promotionList": {
+            "pc_bottom": {
+                "imgsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png",
+                "qcsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png"
+            },
+            "pc_middle": [
+                {
+                    "src": "//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c",
+                    "bgColor": "#ffffff",
+                    "link": ""
+                }
+            ],
+            "pc_survey": {
+                "icon": "//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750",
+                "link": "https://wj.qq.com/s2/8193148/806d/"
+            }
+        },
+        "transTypeTxt": "text",
+        "fixedTabStatus": 0,
+        "bodyTop": 0,
+        "ifHideUserOperation": false
+    },
+    "textTranslate": {
+        "prevTransQuery": "",
+        "translateData": {
+            "translate": {
+                "zly": "zly",
+                "errorCode": "0",
+                "qc_type": "1",
+                "index": "content0",
+                "from": "en",
+                "source": "sogou",
+                "text": "gender",
+                "to": "zh-CHS",
+                "id": "0340dd15-30a6-4363-9ed5-b5fef42c2e74",
+                "dit": "性别",
+                "orig_text": "gender",
+                "md5": ""
+            },
+            "detect": {
+                "zly": "zly",
+                "detect": "en",
+                "errorCode": "0",
+                "language": "英语",
+                "id": "e1b75850-b55d-11ef-9e7a-67fc87b1721a",
+                "text": "gender"
+            },
+            "sgtkn": "658EF7A5DC3B55F3F7F1D039D6CF7077F8A4933E67558D7D",
+            "wordCard": {
+                "title": "gender",
+                "show": true,
+                "usualDict": [
+                    {
+                        "values": [
+                            "性别；（语法中的）性；（总称）男性；女性"
+                        ],
+                        "pos": "n."
+                    }
+                ],
+                "secondQuery": "",
+                "exchange": {
+                    "word_pl": [
+                        "genders"
+                    ]
+                },
+                "levelList": [
+                    "高中",
+                    "四级",
+                    "六级",
+                    "考研",
+                    "雅思"
+                ]
+            },
+            "detail": {
+                "synonym": [
+                    {
+                        "word_list": [
+                            "sexuality",
+                            "sexual intercourse"
+                        ],
+                        "pos": "n.",
+                        "mean": "性；性别；性交"
+                    }
+                ],
+                "affix": {
+                    "word": "gender",
+                    "sub_affix_info_list": [
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "congenial",
+                                            "mean": "adj. 志趣相投的；情投意合的；适意的；合意的；相宜的"
+                                        },
+                                        {
+                                            "word": "genetic",
+                                            "mean": "adj. 基因的；遗传的；起源的；有共同起源的；遗传学的"
+                                        },
+                                        {
+                                            "word": "genuine",
+                                            "mean": "adj. 真的；非伪造的；真诚的；真心的"
+                                        },
+                                        {
+                                            "word": "hydrogen",
+                                            "mean": "n. 氢"
+                                        }
+                                    ],
+                                    "derivatives": "gener",
+                                    "affix_sense_chinese": "出生(=birth)",
+                                    "affix_type": "stem"
+                                },
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "homogeneous",
+                                            "mean": "adj. 同种的；相似的；同形态的"
+                                        },
+                                        {
+                                            "word": "homogenize",
+                                            "mean": "v. 对…作均质处理；使同样；使相似；搅匀"
+                                        },
+                                        {
+                                            "word": "heterogeneous",
+                                            "mean": "adj. 不同的；不同种类的；各种各样的；不均一的；多相的；不纯一的；参差的"
+                                        },
+                                        {
+                                            "word": "progeny",
+                                            "mean": "n. 后代；后裔"
+                                        },
+                                        {
+                                            "word": "primogeniture",
+                                            "mean": "n. 长嗣身份；长嗣继承权"
+                                        },
+                                        {
+                                            "word": "genealogy",
+                                            "mean": "n. 系谱；家谱；宗谱；系谱学；家谱学；宗谱学；系；系统"
+                                        }
+                                    ],
+                                    "derivatives": "gener",
+                                    "affix_sense_chinese": "种族(=race)",
+                                    "affix_type": "stem"
+                                }
+                            ],
+                            "affix": "gen-",
+                            "affix_mean": "出生"
+                        },
+                        {
+                            "affix": "der",
+                            "affix_mean": "abbr. 引伸出（derive的缩写）"
+                        }
+                    ],
+                    "word_mean": "n. 性"
+                },
+                "word_group": [
+                    {
+                        "brief_definition": "性别平等",
+                        "phrase": "gender equality",
+                        "pos": "phr."
+                    },
+                    {
+                        "brief_definition": "性别歧视",
+                        "phrase": "gender discrimination",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "性别平等",
+                        "phrase": "gender equity",
+                        "pos": "phr."
+                    },
+                    {
+                        "brief_definition": "性别差异；两性差异；性别差别",
+                        "phrase": "gender difference",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "性别偏见；性别偏差；性别偏向",
+                        "phrase": "gender bias",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "性别偏见",
+                        "phrase": "gender prejudice",
+                        "pos": "phr."
+                    },
+                    {
+                        "brief_definition": "性别均等",
+                        "phrase": "gender parity",
+                        "pos": "phr."
+                    },
+                    {
+                        "brief_definition": "性别错位",
+                        "phrase": "gender dysphoria",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "像异性的人",
+                        "phrase": "gender bender",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "阴阳转接器",
+                        "phrase": "gender changer",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "性别认同；性别身份；性别同一性",
+                        "phrase": "gender identity",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "性别差距；性别鸿沟",
+                        "phrase": "gender gap",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "性别关系；两性关系；两性关系问题",
+                        "phrase": "gender relations",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "性别角色；性别作用",
+                        "phrase": "gender role",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "性别失衡；性别失调；性别不平衡",
+                        "phrase": "gender imbalance",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "相同的性别；相同性别；同性",
+                        "phrase": "same gender",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "性别识别；性别承认；性别认同",
+                        "phrase": "gender recognition",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "性别刻板印象；性别定型",
+                        "phrase": "gender stereotype",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "通性；通性名词；共性",
+                        "phrase": "common gender",
+                        "pos": ""
+                    }
+                ],
+                "bilingual": [
+                    {
+                        "source": "Do you know his <em>gender</em>?",
+                        "target": "你知道他的性别吗？",
+                        "url": ""
+                    },
+                    {
+                        "source": "They are discussing <em>gender</em> differences.",
+                        "target": "他们在讨论性别差异。",
+                        "url": ""
+                    },
+                    {
+                        "source": "The school was segregated by <em>gender</em>.",
+                        "target": "这所学校是按性别分离的。",
+                        "url": ""
+                    },
+                    {
+                        "source": "We should break <em>gender</em> stereotypes.",
+                        "target": "我们应该打破性别刻板印象。",
+                        "url": ""
+                    },
+                    {
+                        "source": "The organization fights for <em>gender</em> equality.",
+                        "target": "该组织为性别平等而奋斗。",
+                        "url": ""
+                    },
+                    {
+                        "source": "We should strive to achieve <em>gender</em> equality.",
+                        "target": "我们应该努力实现性别平等。",
+                        "url": ""
+                    },
+                    {
+                        "source": "She prefers to use <em>gender</em>-neutral pronouns.",
+                        "target": "她更喜欢使用性别中立的代词。",
+                        "url": ""
+                    },
+                    {
+                        "source": "His views on <em>gender</em> roles are very dated.",
+                        "target": "他对性别角色的看法非常过时的。",
+                        "url": ""
+                    },
+                    {
+                        "source": "There is a <em>gender</em> option on the application form.",
+                        "target": "申请表上有一个性别选项。",
+                        "url": ""
+                    },
+                    {
+                        "source": "<em>Gender</em> equality is not just a women's issue.",
+                        "target": "性别平等不仅仅是女性的问题。",
+                        "url": ""
+                    }
+                ],
+                "baike": {
+                    "showMore": false,
+                    "list": [
+                        {
+                            "lemmaTitle": "gender",
+                            "link": "https://baike.sogou.com/v5859030.htm?ch=sogou.fanyi",
+                            "abstract": "gender 释义： 中文翻译为社会性别/性别。",
+                            "wapPic": "",
+                            "pcPic": ""
+                        }
+                    ]
+                }
+            },
+            "book": {
+                "yingyinNormal": [
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/0a13ccf38dbac0df5a5c6a86f5d3355c_59759.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/ae7a16ad0733651f9d739f3ef0df5edd_25276.mp3",
+                        "isLavafox": true,
+                        "en": "<em>Gender</em> inequality harms men along with women.",
+                        "zh": "性别不平等对男性和女性都没好处。",
+                        "videoNameZh": "《Facebook COO谢丽尔·桑德伯格哈佛演讲》",
+                        "videoNameEn": "《Sheryl Speech at Harvard》",
+                        "url": "http://bisentence_movie.sogou.com/c7c8e71387ed321410e911e115aad603_9758ac75cd7132a5532537bb53be6a4c383263a5"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/ce4704185ed874d2da0aa0211b7c5d4d_3508.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/7fe2d84474e7da2f874dc22a2dd708bf_34204.mp3",
+                        "isLavafox": true,
+                        "en": "Whereas <em>gender</em>-equality legislation is one of your hallmarks.",
+                        "zh": "而通过立法促进性别平等是你的标志之一。",
+                        "videoNameZh": "《纸牌屋 第三季》",
+                        "videoNameEn": "《House of Cards Season 3》",
+                        "url": "http://bisentence_movie.sogou.com/d84ceec2fa6659091855739e538f588c_f4e1a42023f822a1d541d075896dc201669a246d"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/2932ffdc99c11566a817682dbb06e964_57579.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/cc1eca22036a6074e9d8614235e96458_35010.mp3",
+                        "isLavafox": true,
+                        "en": "If you're found in an area not designated to your <em>gender</em>, I will personally neuter you! Am I clear?",
+                        "zh": "如果你发现哪个地方和你性别不符，我会亲自来抹去你的性别，清楚了吗？",
+                        "videoNameZh": "《安德的游戏》",
+                        "videoNameEn": "《Enders Game》",
+                        "url": "http://bisentence_movie.sogou.com/c2e477fed13fa34c9e9255de43bc2679_e09e5f7b94f87980fe13e1cf3d06371cfc9184ed"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/0a13ccf38dbac0df5a5c6a86f5d3355c_59759.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/7cfc6b4481244227a05b249ea77c15b4_25187.mp3",
+                        "isLavafox": true,
+                        "en": "When my classmates and I were in college, we thought the fight for <em>gender</em> equality was won, and it was over.",
+                        "zh": "我和同学们在读大学时，认为性别平等的斗争已经结束。",
+                        "videoNameZh": "《Facebook COO谢丽尔·桑德伯格哈佛演讲》",
+                        "videoNameEn": "《Sheryl Speech at Harvard》",
+                        "url": "http://bisentence_movie.sogou.com/e5077a7956af362e96a14406b436a5aa_1619f44a90301ff37be2e1a37cbcaefa8ef3d4ba"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/21d26cfef0cd26f0813072491b08dd5a_57364.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/3bf558ef0db571f742259a278281ccfd_36080.mp3",
+                        "isLavafox": true,
+                        "en": "I think that's incredibly sexist of you. I believe in a <em>gender</em>-blind society like in Star Trek, where women and men of all races and creeds work side by side as equals.",
+                        "zh": "我觉得你太有性别歧视了，我相信在性别平等的社会，比如《星际迷航》中，各个种族会信仰各异的男女都平等地。",
+                        "videoNameZh": "《生活大爆炸 第六季》",
+                        "videoNameEn": "《The Big Bang Theory Season 6》",
+                        "url": "http://bisentence_movie.sogou.com/ca38c22d0984e6814f2a8064b5871a31_9b4d8e352a92db72127395ec356ce800f794390d"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/ed16ac8524b2f1f0c1489640f8396c3f_47421.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/8eb1c04239bd6c0fa4300251f42b8d91_41784.mp3",
+                        "isLavafox": true,
+                        "en": "Wow, I admire you, Howard. It would be hard for me to buck traditional <em>gender</em> roles like that.",
+                        "zh": "我敬佩你，霍华德。要我可能就很困难让我这么突破传统性别角色藩篱。",
+                        "videoNameZh": "《生活大爆炸 第十一季》",
+                        "videoNameEn": "《The Big Bang Theory Season 11》",
+                        "url": "http://bisentence_movie.sogou.com/6a04821876c441e7fca1e7a99d8e9b44_c891af7c1033ba5eda661f6c06b4aaf01cfe7093"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/73547344f45c7810425b9ba4324e7db4_62021.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/182b1cb5d541d4ff8c93db71cbc04397_44046.mp3",
+                        "isLavafox": true,
+                        "en": "Perception of disgust is a combination of variables like age, <em>gender</em>, culture and even personality.",
+                        "zh": "大家对\"恶心\"的标准不太一样，这些跟年龄、性别、文化甚至是个性有关。",
+                        "videoNameZh": "《托福学习视频》",
+                        "videoNameEn": "《TOFEL（无字幕版）》",
+                        "url": "http://bisentence_movie.sogou.com/dc43c811dedc2d7041ec2b0a8182fec9_cd9dd9d8e969e7feb41b9902bce4d1c3931b0535"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/ed16ac8524b2f1f0c1489640f8396c3f_47421.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/4eb584183762259a275767eb263817b0_1655.mp3",
+                        "isLavafox": true,
+                        "en": "We could've done that ourselves. That's what she said. Maybe we're being old-fashioned, defining these roles by <em>gender</em>.",
+                        "zh": "那我们自己也能买。她就是这样说的。也许我们太守旧了，非要用性别来约束这两个角色。",
+                        "videoNameZh": "《生活大爆炸 第十一季》",
+                        "videoNameEn": "《The Big Bang Theory Season 11》",
+                        "url": "http://bisentence_movie.sogou.com/4746feceb75fb3a036b036b1a8702756_c818c74bcc34d0c60bb4f43fbfb4521f084a7983"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/6447b42a2ce582356f57352573f03454_1301.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/7d29373de6a478226f5dfdb3d3f4c8df_45823.mp3",
+                        "isLavafox": true,
+                        "en": "It's about engaging governments, businesses, and universities and having them make concrete commitments to <em>gender</em> equality.",
+                        "zh": "这个活动是要政府，商业机构和大学参与进来，并且对性别平等有一些脚踏实地的贡献。",
+                        "videoNameZh": "《艾玛·沃特森达沃斯世界经济论坛HeForShe演讲》",
+                        "videoNameEn": "《Emma Watson HeForShe speech on Davos》",
+                        "url": "http://bisentence_movie.sogou.com/33457e66c00ab912adf325516e44d474_03be4e6ed4e1eeeb3e55b997c34d222f1fd407d3"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/73547344f45c7810425b9ba4324e7db4_62021.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/dec19e0997ee06071e80e09c86240a5d_13381.mp3",
+                        "isLavafox": true,
+                        "en": "Though it's important to remember that how many calories your body burns during these activities is dependent on your size, <em>gender</em>, and general body makeup.",
+                        "zh": "但重要的是，记住每一个活动所能燃烧的热量，和你的体重、性别和身体组成有关。",
+                        "videoNameZh": "《托福学习视频》",
+                        "videoNameEn": "《TOFEL（无字幕版）》",
+                        "url": "http://bisentence_movie.sogou.com/f80f795c555358b8f173ad31dc05e9e0_ea321b694633010125dba8999b1725c2e8429946"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/0a13ccf38dbac0df5a5c6a86f5d3355c_59759.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/843225c316d94417da3b47384ab8870b_852.mp3",
+                        "isLavafox": true,
+                        "en": "But in order to get there, Hillary Clinton is gonna have to overcome 2 very real obstacles: unknown and often ununderstood <em>gender</em> bias, and even worse, a degree from Yale.",
+                        "zh": "但要实现目标，希拉里·克林顿需要克服两大重要障碍：一是未知，通常也未被理解的性别偏见，二是更糟的，从耶鲁获得的文凭。",
+                        "videoNameZh": "《Facebook COO谢丽尔·桑德伯格哈佛演讲》",
+                        "videoNameEn": "《Sheryl Speech at Harvard》",
+                        "url": "http://bisentence_movie.sogou.com/b8c8adc71794a23ae71d83d912bc4348_29ddb4c7bc5b36ec36e545b94606a82765994f04"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/21d26cfef0cd26f0813072491b08dd5a_57364.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/5fac2576e098fb1ba9f2a1c10929c784_37856.mp3",
+                        "isLavafox": true,
+                        "en": "The trouble isn't with me, Penny, it's with your <em>gender</em>. Someday, scientists will discover that second X chromosome contains nothing but nonsense and twaddle.",
+                        "zh": "问题不在我这，佩妮，而在你们女人身上，总有一天，科学家们会发现女性的第二条X染色体除了胡说和废话之外，其他一无所有。",
+                        "videoNameZh": "《生活大爆炸 第六季》",
+                        "videoNameEn": "《The Big Bang Theory Season 6》",
+                        "url": "http://bisentence_movie.sogou.com/78b46088362a14eb4d30ec150bc9753a_c8bcee324c62eb897f75328476030ebff620ba26"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/e467156305f6c767dff48dd0b161ca0d_48791.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/88e66cd6b197828526086d19c78f4d82_19638.mp3",
+                        "isLavafox": true,
+                        "en": "Shawn Fentress died on that train, of all the passengers aboard he was your best link. You two share the compatibility in terms of <em>gender</em>, body size and your synaptic maps.",
+                        "zh": "肖恩·芬特雷斯死在了那列火车上，在所有乘客中，他是你最好的纽带。你们在性格、体型 和突触图谱上都十分匹配。",
+                        "videoNameZh": "《源代码》",
+                        "videoNameEn": "《Source Code》",
+                        "url": "http://bisentence_movie.sogou.com/62d3bba3d2407de194c57f910257bbab_e4b8d5c8705d1590c9ffc7dcc987890be1093a14"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/21d26cfef0cd26f0813072491b08dd5a_57364.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/d51fbd3aa204c065866530b131e63acc_23623.mp3",
+                        "isLavafox": true,
+                        "en": "Got it. All right, I'm thinking one way to counter bias in the peer-review process, is for papers to be submitted under <em>gender</em>-neutral names. Like S. Smith instead of Samantha Smith.",
+                        "zh": "明白，我想到了一个避免在同行评审阶段遭受歧视的方法，就是报告都用中性名字递交，比如S·史密斯，而不是沙曼莎·史密斯。",
+                        "videoNameZh": "《生活大爆炸 第六季》",
+                        "videoNameEn": "《The Big Bang Theory Season 6》",
+                        "url": "http://bisentence_movie.sogou.com/785224c3b609271e65f0f1472db1ebfa_b798bd787d2bde4bc0bdf86dc6d647c28b01a6f4"
+                    }
+                ]
+            },
+            "pic": "",
+            "voice": {
+                "phonetic": [
+                    {
+                        "text": "ˈdʒendə",
+                        "type": "uk",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/507_gender_uk.mp3"
+                    },
+                    {
+                        "text": "ˈdʒendər",
+                        "type": "usa",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/507_gender_usa.mp3"
+                    }
+                ]
+            },
+            "dictType": "oxford_buchong",
+            "kaoyan": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 20,
+                        "pos": "n",
+                        "chinese": "性别",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "gender",
+                "word_level_phrase_info": [
+                    {
+                        "brief_definition": "性别平等",
+                        "phrase": "gender equality",
+                        "pos": "phr"
+                    },
+                    {
+                        "brief_definition": "性别偏见；性别偏差；性别偏向",
+                        "phrase": "gender bias",
+                        "pos": "phr"
+                    },
+                    {
+                        "brief_definition": "性别差异；两性差异；性别差别",
+                        "phrase": "gender difference",
+                        "pos": "phr"
+                    },
+                    {
+                        "brief_definition": "性别均等",
+                        "phrase": "gender parity",
+                        "pos": "phr"
+                    },
+                    {
+                        "brief_definition": "性别偏见",
+                        "phrase": "gender prejudice",
+                        "pos": "phr"
+                    }
+                ],
+                "direction_info": {
+                    "ranges": 12,
+                    "description": "数据源自2012-2023年12年间全国考研试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2012-2023年全国考研英语一和考研英语二共24套考研试卷，包括阅读、完型填空、翻译、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选全国考研考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2012-2023年12年间全国考研英语一和考研英语二试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 4,
+                "word_family": {
+                    "derivative_info_list": [
+                        {
+                            "derivative_info_list": [],
+                            "word": "engender",
+                            "mean": "v. 造成；引起；产生；生"
+                        }
+                    ],
+                    "word": "gender",
+                    "mean": "n. 性；性别；性别状态；女性；男性；类别上的内在功能"
+                },
+                "total_exam_freq": 20,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "性别",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "But it's not just a <highlight>gender</highlight> thing.",
+                                    "month": -1,
+                                    "source": "英语二",
+                                    "coll": "",
+                                    "sentence_trans": "但这不仅仅是性别问题。",
+                                    "year": 2015,
+                                    "type": "阅读理解A",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Epley found no significant <highlight>gender</highlight> difference in responses.",
+                                    "month": -1,
+                                    "source": "英语二",
+                                    "coll": "",
+                                    "sentence_trans": "Epley在回答中没有发现明显的性别差异。",
+                                    "year": 2014,
+                                    "type": "阅读理解A",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Pink used to be a neutral colour in symbolising <highlight>genders</highlight>.",
+                                    "month": -1,
+                                    "source": "英语二",
+                                    "coll": "",
+                                    "sentence_trans": "粉色曾经是象征性别的中性颜色。",
+                                    "year": 2012,
+                                    "type": "阅读理解A",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "word_affix": {
+                    "word": "gender",
+                    "sub_affix_info_list": [
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "congenial",
+                                            "mean": "adj. 志趣相投的；情投意合的；适意的；合意的；相宜的"
+                                        },
+                                        {
+                                            "word": "genetic",
+                                            "mean": "adj. 基因的；遗传的；起源的；有共同起源的；遗传学的"
+                                        },
+                                        {
+                                            "word": "genuine",
+                                            "mean": "adj. 真的；非伪造的；真诚的；真心的"
+                                        },
+                                        {
+                                            "word": "hydrogen",
+                                            "mean": "n. 氢"
+                                        }
+                                    ],
+                                    "derivatives": "gener",
+                                    "affix_sense_chinese": "出生(=birth)",
+                                    "affix_type": "stem"
+                                },
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "homogeneous",
+                                            "mean": "adj. 同种的；相似的；同形态的"
+                                        },
+                                        {
+                                            "word": "homogenize",
+                                            "mean": "v. 对…作均质处理；使同样；使相似；搅匀"
+                                        },
+                                        {
+                                            "word": "heterogeneous",
+                                            "mean": "adj. 不同的；不同种类的；各种各样的；不均一的；多相的；不纯一的；参差的"
+                                        },
+                                        {
+                                            "word": "progeny",
+                                            "mean": "n. 后代；后裔"
+                                        },
+                                        {
+                                            "word": "primogeniture",
+                                            "mean": "n. 长嗣身份；长嗣继承权"
+                                        },
+                                        {
+                                            "word": "genealogy",
+                                            "mean": "n. 系谱；家谱；宗谱；系谱学；家谱学；宗谱学；系；系统"
+                                        }
+                                    ],
+                                    "derivatives": "gener",
+                                    "affix_sense_chinese": "种族(=race)",
+                                    "affix_type": "stem"
+                                }
+                            ],
+                            "affix": "gen-",
+                            "affix_mean": "出生"
+                        },
+                        {
+                            "affix": "der",
+                            "affix_mean": "abbr. 引伸出（derive的缩写）"
+                        }
+                    ],
+                    "word_mean": "n. 性"
+                }
+            },
+            "CET6": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 8,
+                        "pos": "n",
+                        "chinese": "性别",
+                        "sense_tier_ratio": 88.89
+                    },
+                    {
+                        "sense_tier": 1,
+                        "pos": "n",
+                        "chinese": "[语法]性",
+                        "sense_tier_ratio": 11.11
+                    }
+                ],
+                "word": "gender",
+                "word_level_phrase_info": [
+                    {
+                        "brief_definition": "性别平等",
+                        "phrase": "gender equity",
+                        "pos": "phr"
+                    }
+                ],
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2016.6-2023.6年8年间全六级试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight>考纲释义</highlight>\n精选实考、考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2016-2023年51套试卷，包括阅读、听力、翻译等所有题型。\n\n<highlight>真题例句</highlight>\n精选2016-2023年8年间全六级试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 2,
+                "total_exam_freq": 9,
+                "sense": {
+                    "sense_num": 2,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "性别",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "It can reveal information about protected characteristics like age, race, nationality, disability, <highlight>gender</highlight>, religion, etc., and that could bias a hiring decision.",
+                                    "month": 12,
+                                    "source": "CET6",
+                                    "coll": "",
+                                    "sentence_trans": "它可以揭示关于受保护特征的信息，如年龄、种族、国籍、残疾、性别、宗教等，这可能会影响招聘决定。",
+                                    "year": 2021,
+                                    "type": "阅读理解C",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Millions of Marconi's contemporaries had the same class, <highlight>gender</highlight>, race, and colonial privilege as he, but only a handful did anything with it.",
+                                    "month": 6,
+                                    "source": "CET6",
+                                    "coll": "",
+                                    "sentence_trans": "与Marconi同时代的数百万人拥有与他相同的阶级、性别、种族和殖民特权，但只有少数的人能够利用这些特权。",
+                                    "year": 2021,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                }
+                            ]
+                        },
+                        {
+                            "synonyms": "",
+                            "en": "",
+                            "zh": "[语法]性",
+                            "pos": "n",
+                            "antonyms": ""
+                        }
+                    ]
+                },
+                "word_affix": {
+                    "word": "gender",
+                    "sub_affix_info_list": [
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "congenial",
+                                            "mean": "adj. 志趣相投的；情投意合的；适意的；合意的；相宜的"
+                                        },
+                                        {
+                                            "word": "genetic",
+                                            "mean": "adj. 基因的；遗传的；起源的；有共同起源的；遗传学的"
+                                        },
+                                        {
+                                            "word": "genuine",
+                                            "mean": "adj. 真的；非伪造的；真诚的；真心的"
+                                        },
+                                        {
+                                            "word": "hydrogen",
+                                            "mean": "n. 氢"
+                                        }
+                                    ],
+                                    "derivatives": "gener",
+                                    "affix_sense_chinese": "出生(=birth)",
+                                    "affix_type": "stem"
+                                },
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "homogeneous",
+                                            "mean": "adj. 同种的；相似的；同形态的"
+                                        },
+                                        {
+                                            "word": "homogenize",
+                                            "mean": "v. 对…作均质处理；使同样；使相似；搅匀"
+                                        },
+                                        {
+                                            "word": "heterogeneous",
+                                            "mean": "adj. 不同的；不同种类的；各种各样的；不均一的；多相的；不纯一的；参差的"
+                                        },
+                                        {
+                                            "word": "progeny",
+                                            "mean": "n. 后代；后裔"
+                                        },
+                                        {
+                                            "word": "primogeniture",
+                                            "mean": "n. 长嗣身份；长嗣继承权"
+                                        },
+                                        {
+                                            "word": "genealogy",
+                                            "mean": "n. 系谱；家谱；宗谱；系谱学；家谱学；宗谱学；系；系统"
+                                        }
+                                    ],
+                                    "derivatives": "gener",
+                                    "affix_sense_chinese": "种族(=race)",
+                                    "affix_type": "stem"
+                                }
+                            ],
+                            "affix": "gen-",
+                            "affix_mean": "出生"
+                        },
+                        {
+                            "affix": "der",
+                            "affix_mean": "abbr. 引伸出（derive的缩写）"
+                        }
+                    ],
+                    "word_mean": "n. 性"
+                },
+                "exchange_info": {
+                    "word_pl": [
+                        "genders"
+                    ]
+                }
+            },
+            "CET4": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 44,
+                        "pos": "n",
+                        "chinese": "性别",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "gender",
+                "word_level_phrase_info": [
+                    {
+                        "brief_definition": "性别平等",
+                        "phrase": "gender equality",
+                        "pos": "n"
+                    },
+                    {
+                        "brief_definition": "性别歧视",
+                        "phrase": "gender discrimination",
+                        "pos": "n"
+                    }
+                ],
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2016.6-2023.6年8年间全四级试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight>考纲释义</highlight>\n精选实考、考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2016-2023年51套试卷，包括阅读、听力、翻译等所有题型。\n\n<highlight>真题例句</highlight>\n精选2016-2023年8年间试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 5,
+                "total_exam_freq": 44,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "性别",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "<highlight>Gender</highlight> inequality continues to frustrate a lot of female employees.",
+                                    "month": 9,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "性别不平等继续困扰着许多女性员工。",
+                                    "year": 2020,
+                                    "type": "阅读理解C",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Self-esteem helps to combat <highlight>gender</highlight> inequality in the workplace.",
+                                    "month": 9,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "自尊有助于消除工作场所的性别不平等。",
+                                    "year": 2020,
+                                    "type": "阅读理解C",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "UK universities are world leaders when it comes to advancing and promoting <highlight>gender</highlight> equality.",
+                                    "month": 7,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "在推进和促进性别平等方面，英国大学处于世界领先地位。",
+                                    "year": 2020,
+                                    "type": "阅读理解A",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "word_affix": {
+                    "word": "gender",
+                    "sub_affix_info_list": [
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "congenial",
+                                            "mean": "adj. 志趣相投的；情投意合的；适意的；合意的；相宜的"
+                                        },
+                                        {
+                                            "word": "genetic",
+                                            "mean": "adj. 基因的；遗传的；起源的；有共同起源的；遗传学的"
+                                        },
+                                        {
+                                            "word": "genuine",
+                                            "mean": "adj. 真的；非伪造的；真诚的；真心的"
+                                        },
+                                        {
+                                            "word": "hydrogen",
+                                            "mean": "n. 氢"
+                                        }
+                                    ],
+                                    "derivatives": "gener",
+                                    "affix_sense_chinese": "出生(=birth)",
+                                    "affix_type": "stem"
+                                },
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "homogeneous",
+                                            "mean": "adj. 同种的；相似的；同形态的"
+                                        },
+                                        {
+                                            "word": "homogenize",
+                                            "mean": "v. 对…作均质处理；使同样；使相似；搅匀"
+                                        },
+                                        {
+                                            "word": "heterogeneous",
+                                            "mean": "adj. 不同的；不同种类的；各种各样的；不均一的；多相的；不纯一的；参差的"
+                                        },
+                                        {
+                                            "word": "progeny",
+                                            "mean": "n. 后代；后裔"
+                                        },
+                                        {
+                                            "word": "primogeniture",
+                                            "mean": "n. 长嗣身份；长嗣继承权"
+                                        },
+                                        {
+                                            "word": "genealogy",
+                                            "mean": "n. 系谱；家谱；宗谱；系谱学；家谱学；宗谱学；系；系统"
+                                        }
+                                    ],
+                                    "derivatives": "gener",
+                                    "affix_sense_chinese": "种族(=race)",
+                                    "affix_type": "stem"
+                                }
+                            ],
+                            "affix": "gen-",
+                            "affix_mean": "出生"
+                        },
+                        {
+                            "affix": "der",
+                            "affix_mean": "abbr. 引伸出（derive的缩写）"
+                        }
+                    ],
+                    "word_mean": "n. 性"
+                },
+                "exchange_info": {
+                    "word_pl": [
+                        "genders"
+                    ]
+                }
+            },
+            "gaokao": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 3,
+                        "pos": "n",
+                        "chinese": "性别",
+                        "sense_tier_ratio": 100
+                    },
+                    {
+                        "sense_tier": 0,
+                        "pos": "n",
+                        "chinese": "[语]性",
+                        "sense_tier_ratio": 0
+                    }
+                ],
+                "word": "gender",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2015-2022年8年间全国卷和自主命题省市高考卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2015-2022年全国卷高考试卷，包括阅读、完形、单选、填空、听力、改错、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选各省市考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2015-2022年8年间全国卷和自主命题省市高考卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 1,
+                "total_exam_freq": 3,
+                "sense": {
+                    "sense_num": 2,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "性别",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "They see <highlight>gender</highlight> differences earlier than boys.",
+                                    "month": -1,
+                                    "source": "全国甲卷",
+                                    "coll": "",
+                                    "sentence_trans": "他们比男孩更早看到性别差异。",
+                                    "year": 2021,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "We will see that social factors (因素) like <highlight>gender</highlight>, race, and class do not determine the appearance of genius.",
+                                    "month": -1,
+                                    "source": "全国甲卷",
+                                    "coll": "",
+                                    "sentence_trans": "我们会发现，社会因素（比如性别，种族和阶级）并不能决定天才的出现。",
+                                    "year": 2021,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "As young as age six, girls are less likely than boys to say that members of their <highlight>gender</highlight> are \"really, really smart.\"",
+                                    "month": -1,
+                                    "source": "全国甲卷",
+                                    "coll": "",
+                                    "sentence_trans": "在六岁时，女孩比男孩更不可能说她们性别的成员“真的、真的很聪明”。",
+                                    "year": 2021,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                }
+                            ]
+                        },
+                        {
+                            "synonyms": "",
+                            "en": "",
+                            "zh": "[语]性",
+                            "pos": "n",
+                            "antonyms": ""
+                        }
+                    ]
+                },
+                "word_affix": {
+                    "word": "gender",
+                    "sub_affix_info_list": [
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "congenial",
+                                            "mean": "adj. 志趣相投的；情投意合的；适意的；合意的；相宜的"
+                                        },
+                                        {
+                                            "word": "genetic",
+                                            "mean": "adj. 基因的；遗传的；起源的；有共同起源的；遗传学的"
+                                        },
+                                        {
+                                            "word": "genuine",
+                                            "mean": "adj. 真的；非伪造的；真诚的；真心的"
+                                        },
+                                        {
+                                            "word": "hydrogen",
+                                            "mean": "n. 氢"
+                                        }
+                                    ],
+                                    "derivatives": "gener",
+                                    "affix_sense_chinese": "出生(=birth)",
+                                    "affix_type": "stem"
+                                },
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "homogeneous",
+                                            "mean": "adj. 同种的；相似的；同形态的"
+                                        },
+                                        {
+                                            "word": "homogenize",
+                                            "mean": "v. 对…作均质处理；使同样；使相似；搅匀"
+                                        },
+                                        {
+                                            "word": "heterogeneous",
+                                            "mean": "adj. 不同的；不同种类的；各种各样的；不均一的；多相的；不纯一的；参差的"
+                                        },
+                                        {
+                                            "word": "progeny",
+                                            "mean": "n. 后代；后裔"
+                                        },
+                                        {
+                                            "word": "primogeniture",
+                                            "mean": "n. 长嗣身份；长嗣继承权"
+                                        },
+                                        {
+                                            "word": "genealogy",
+                                            "mean": "n. 系谱；家谱；宗谱；系谱学；家谱学；宗谱学；系；系统"
+                                        }
+                                    ],
+                                    "derivatives": "gener",
+                                    "affix_sense_chinese": "种族(=race)",
+                                    "affix_type": "stem"
+                                }
+                            ],
+                            "affix": "gen-",
+                            "affix_mean": "出生"
+                        },
+                        {
+                            "affix": "der",
+                            "affix_mean": "abbr. 引伸出（derive的缩写）"
+                        }
+                    ],
+                    "word_mean": "n. 性"
+                }
+            },
+            "sentencesData": {
+                "status": 1,
+                "info": "notZh2En",
+                "data": {}
+            },
+            "isAutoMatch": false,
+            "Zh2En": false
+        },
+        "query": "gender",
+        "result": "性别",
+        "tabSelect": "detail",
+        "dictionaryType": "oxford_buchong",
+        "notFound_show": false,
+        "phoneticShow": "",
+        "globalShowTranslateRecord": "",
+        "pronPrefer": {
+            "type": "usa_1",
+            "speaker": "male",
+            "speed": "standard"
+        },
+        "ServerRecord": "",
+        "ServerUIGS": {
+            "version": "new",
+            "type": "all",
+            "stype": "success",
+            "terminal": "web",
+            "fr": "default",
+            "direction": "etoz",
+            "from": "en",
+            "to": "zh-CHS",
+            "len": 6,
+            "qtype": "text",
+            "qctype": "qc_1",
+            "dict_cover": 1,
+            "detail": 1,
+            "wordCardCover": 1,
+            "wordCardEn": 1,
+            "wordCardCh": 0,
+            "wordCardMinor": 0,
+            "wordCardNetmean": 0,
+            "wordDeform": 1,
+            "keyword": 0,
+            "bilingual": 1,
+            "simple": 0,
+            "levelList": 1,
+            "synonym": 1,
+            "antonym": 0,
+            "conjugate": 0,
+            "rootaffix": 1,
+            "baike_sogou": 1,
+            "baike_wiki": 0,
+            "wordDifference": 0,
+            "word_phrase": 1,
+            "secondQuery": 0,
+            "dict_oxford": 0,
+            "dict_newcentury": 0,
+            "zhongkaotab": 0,
+            "gaokaotab": 1,
+            "CET4tab": 1,
+            "CET6tab": 1,
+            "kaoyantab": 1,
+            "network_tab": 0,
+            "yinying_tab": 1,
+            "tuozhan_tab": 0,
+            "one_pic": 0,
+            "more_pic": 0,
+            "no_pic": 0,
+            "uuid": "0340dd15-30a6-4363-9ed5-b5fef42c2e74",
+            "from_type": 0,
+            "t_trans_ssr": 136
+        },
+        "ServerModelUIGS": {
+            "terminal": "web",
+            "type": "trans_model",
+            "pbtype": "pv",
+            "model_general": 1,
+            "model_medical": 1,
+            "model_finance": 1
+        },
+        "ServerSgtkn": "658EF7A5DC3B55F3F7F1D039D6CF7077F8A4933E67558D7D",
+        "suggShow": false,
+        "suggestion": "",
+        "suggDirection": "",
+        "usualTop": "",
+        "baseDict": "",
+        "wordCardClick": false,
+        "isFrInput": false,
+        "kanaTips": {
+            "show": false,
+            "left": "",
+            "top": "",
+            "type": "",
+            "arrowLeft": ""
+        },
+        "currSentenceIndex": -1,
+        "prefixStrObj": {
+            "prefixStr": "",
+            "oriPrefixStr": ""
+        },
+        "selectTransBox": {
+            "show": false,
+            "right": 0,
+            "top": 0,
+            "paraphraseInfo": {
+                "word": "",
+                "from": "",
+                "to": "",
+                "area": ""
+            }
+        },
+        "sentenceLoading": false,
+        "newSentenceInfo": {
+            "sentence": "",
+            "candidateIndex": 0
+        },
+        "moreTipInfo": {
+            "opacity": 0,
+            "zIndex": -1
+        },
+        "paraphraseShowInfo": {
+            "card": 0,
+            "query": "",
+            "card_dict": 0
+        },
+        "selectType": "",
+        "wordPos": 0,
+        "candidateWord": "",
+        "syntaxVisible": false,
+        "syntaxStatus": 0
+    },
+    "language": {
+        "from": "auto",
+        "to": "zh-CHS",
+        "detect": "en",
+        "model": "general",
+        "detectShow": false,
+        "langMap": {
+            "current": ""
+        },
+        "zh2en": false,
+        "fromItemList": [
+            {
+                "lang": "auto",
+                "text": "自动检测",
+                "play": false
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "tr",
+                "text": "土耳其语",
+                "play": false,
+                "abbr": "土"
+            },
+            {
+                "lang": "it",
+                "text": "意大利语",
+                "play": true,
+                "abbr": "意"
+            },
+            {
+                "lang": "ko",
+                "text": "韩语",
+                "play": true,
+                "abbr": "韩"
+            }
+        ],
+        "toItemList": [
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "vi",
+                "text": "越南语",
+                "play": true,
+                "abbr": "越"
+            },
+            {
+                "lang": "fr",
+                "text": "法语",
+                "play": true,
+                "abbr": "法"
+            },
+            {
+                "lang": "ko",
+                "text": "韩语",
+                "play": true,
+                "abbr": "韩"
+            }
+        ]
+    },
+    "voice": {
+        "from": {
+            "lang": "en",
+            "type": "from",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22gender%22%2C%22spokenDialect%22%3A%22en%22%2C%22rate%22%3A%220.8%22%7D",
+            "list": [
+                {
+                    "type": "uk_0",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "ˈdʒendə",
+                    "abbr": "英",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/507_gender_uk.mp3"
+                },
+                {
+                    "type": "usa_1",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "ˈdʒendər",
+                    "abbr": "美",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/507_gender_usa.mp3"
+                }
+            ],
+            "stype": "phonetic",
+            "phoneticShow": [
+                {
+                    "text": "ˈdʒendə",
+                    "type": "uk",
+                    "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/507_gender_uk.mp3"
+                },
+                {
+                    "text": "ˈdʒendər",
+                    "type": "usa",
+                    "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/507_gender_usa.mp3"
+                }
+            ]
+        },
+        "to": {
+            "lang": "zh",
+            "type": "to",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22%E6%80%A7%E5%88%AB%22%2C%22spokenDialect%22%3A%22zh-CHS%22%2C%22rate%22%3A%220.8%22%7D",
+            "stype": "normal"
+        }
+    }
+}

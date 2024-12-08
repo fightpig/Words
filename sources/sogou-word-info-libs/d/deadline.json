@@ -1,0 +1,964 @@
+{
+    "route": {
+        "name": "text",
+        "path": "/text",
+        "hash": "",
+        "query": {
+            "keyword": "deadline",
+            "transfrom": "auto",
+            "transto": "zh-CHS",
+            "model": "general",
+            "errcode": "s10"
+        },
+        "params": {},
+        "fullPath": "/text?keyword=deadline&transfrom=auto&transto=zh-CHS&model=general&errcode=s10",
+        "meta": {
+            "mtype": [
+                "textTranslate",
+                "language",
+                "voice"
+            ]
+        },
+        "from": {
+            "name": null,
+            "path": "/",
+            "hash": "",
+            "query": {},
+            "params": {},
+            "fullPath": "/",
+            "meta": {}
+        }
+    },
+    "common": {
+        "CONFIG": {
+            "wuid": 1733659463933,
+            "loginInfo": {},
+            "isIE": 0,
+            "isHitSsrSwitch": true,
+            "isHitWritebookSwitch": false,
+            "isHitAmsSwitch": true,
+            "promotionList": "{\n    \"pc_bottom\":{\n        \"imgsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\",\n        \"qcsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\"\n    },\n    \"pc_middle\":[\n        {\n            \"src\":\"//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c\",\n            \"bgColor\":\"#ffffff\",\n            \"link\":\"\"\n        }\n    ],\n    \"pc_survey\":{\n        \"icon\":\"//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750\",\n        \"link\":\"https://wj.qq.com/s2/8193148/806d/\"\n    }\n}",
+            "bannerData": [],
+            "isHitAsideSurvey": false,
+            "secretCode": 109984457,
+            "uuid": "2c861905-134e-4a40-9faa-cb752a90b154",
+            "referer": "",
+            "approveToken": "658960124398F15F53557B9558D6081C54F8510967558B47",
+            "loadTime": 1733659463935,
+            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0",
+            "fcp": "159.65.124.238",
+            "temporaryId": "",
+            "fileId": ""
+        },
+        "hotWords": [],
+        "isFromCollect": false,
+        "psdModify": {
+            "currentStep": 1,
+            "scode": "",
+            "username": ""
+        },
+        "loginStatus": true,
+        "feedBackModule": false,
+        "showPromotionPopup": {
+            "show": false,
+            "type": ""
+        },
+        "showPromotionPCDownload": false,
+        "showShareBomb": false,
+        "shareData": null,
+        "showAppDownLoad": false,
+        "showLoginDialog": false,
+        "showLoading": {
+            "show": false
+        },
+        "toast": {
+            "show": false,
+            "text": "",
+            "loading": false
+        },
+        "modelToast": {
+            "show": false,
+            "text": ""
+        },
+        "selectionGlobalShow": true,
+        "selectionInfo": {
+            "left": 0,
+            "top": 0,
+            "show": false,
+            "from": "",
+            "to": "",
+            "val": "",
+            "area": ""
+        },
+        "showConfirmDialog": false,
+        "promotionList": {
+            "pc_bottom": {
+                "imgsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png",
+                "qcsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png"
+            },
+            "pc_middle": [
+                {
+                    "src": "//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c",
+                    "bgColor": "#ffffff",
+                    "link": ""
+                }
+            ],
+            "pc_survey": {
+                "icon": "//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750",
+                "link": "https://wj.qq.com/s2/8193148/806d/"
+            }
+        },
+        "transTypeTxt": "text",
+        "fixedTabStatus": 0,
+        "bodyTop": 0,
+        "ifHideUserOperation": false
+    },
+    "textTranslate": {
+        "prevTransQuery": "",
+        "translateData": {
+            "translate": {
+                "zly": "zly",
+                "errorCode": "0",
+                "qc_type": "1",
+                "index": "content0",
+                "from": "en",
+                "source": "sogou",
+                "text": "deadline",
+                "to": "zh-CHS",
+                "id": "2c861905-134e-4a40-9faa-cb752a90b154",
+                "dit": "最后期限",
+                "orig_text": "deadline",
+                "md5": ""
+            },
+            "detect": {
+                "zly": "zly",
+                "detect": "en",
+                "errorCode": "0",
+                "language": "英语",
+                "id": "90999e20-b55c-11ef-a3cf-0fc8182ba540",
+                "text": "deadline"
+            },
+            "sgtkn": "6589601B4398F15F53557B9558D6081C54F8510967558B47",
+            "wordCard": {
+                "title": "deadline",
+                "show": true,
+                "usualDict": [
+                    {
+                        "values": [
+                            "截止日期；最后期限；最终期限；截止时间；限定日期；终止线"
+                        ],
+                        "pos": "n."
+                    }
+                ],
+                "secondQuery": "",
+                "exchange": {
+                    "word_pl": [
+                        "deadlines"
+                    ]
+                },
+                "levelList": [
+                    "初中",
+                    "高中",
+                    "四级",
+                    "六级",
+                    "考研",
+                    "雅思"
+                ]
+            },
+            "detail": {
+                "affix": {
+                    "word": "deadline",
+                    "sub_affix_info_list": [
+                        {
+                            "affix": "dead",
+                            "affix_mean": "adj. 死的"
+                        },
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "线",
+                                    "affix_type": "stem"
+                                }
+                            ],
+                            "affix": "line",
+                            "affix_mean": "线"
+                        }
+                    ],
+                    "word_mean": "n. 最终期限"
+                },
+                "word_group": [
+                    {
+                        "brief_definition": "按期；遵守期限；赶上截止日期",
+                        "phrase": "meet the deadline",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "紧张的截止日期",
+                        "phrase": "tight deadline",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "设定最后期限；确定了最后期限",
+                        "phrase": "set deadline",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "备案截止日期；申报期限；申报截止日期",
+                        "phrase": "filing deadline",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "严格的最后期限；严格截止日期",
+                        "phrase": "strict deadline",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "按时交功课；赶期限",
+                        "phrase": "meet deadline",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "即将到来的最后期限；最后期限；截止日期",
+                        "phrase": "fast-approaching deadline",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "错过最后期限",
+                        "phrase": "Miss deadline",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "延长截止日期；延长期限",
+                        "phrase": "extend deadline",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "争取最后期限；争取截止期限",
+                        "phrase": "fighting a deadline",
+                        "pos": ""
+                    }
+                ],
+                "bilingual": [
+                    {
+                        "source": "She worked madly to meet the <em>deadline</em>.",
+                        "target": "她疯狂地工作以赶上最后期限。",
+                        "url": ""
+                    },
+                    {
+                        "source": "If we miss this <em>deadline</em>, we're fucked.",
+                        "target": "如果我们错过了这个最后期限，我们就完蛋了。",
+                        "url": ""
+                    },
+                    {
+                        "source": "They worked crazily to meet the <em>deadline</em>.",
+                        "target": "他们疯狂地工作以赶上最后期限。",
+                        "url": ""
+                    },
+                    {
+                        "source": "The team worked vite to meet the <em>deadline</em>.",
+                        "target": "团队迅速工作以赶上最后期限。",
+                        "url": ""
+                    },
+                    {
+                        "source": "She worked feverishly to meet the <em>deadline</em>.",
+                        "target": "她狂热地工作以赶上最后期限。",
+                        "url": ""
+                    },
+                    {
+                        "source": "They are working hard to meet the <em>deadline</em>.",
+                        "target": "他们正在努力工作以赶上最后期限。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Due to a misjudgement, he missed the <em>deadline</em>.",
+                        "target": "由于判断错误，他错过了最后期限。",
+                        "url": ""
+                    },
+                    {
+                        "source": "He is pressuring his team to meet the <em>deadline</em>.",
+                        "target": "他在施加压力给他的团队以赶上最后期限。",
+                        "url": ""
+                    },
+                    {
+                        "source": "She typed the report presto to meet the <em>deadline</em>.",
+                        "target": "她快速地打完了报告，以赶上最后期限。",
+                        "url": ""
+                    },
+                    {
+                        "source": "The team worked efficiently to meet the <em>deadline</em>.",
+                        "target": "团队高效地工作以赶上最后期限。",
+                        "url": ""
+                    }
+                ],
+                "baike": {
+                    "showMore": false,
+                    "list": [
+                        {
+                            "lemmaTitle": "Deadline",
+                            "link": "https://baike.sogou.com/v25487397.htm?ch=sogou.fanyi",
+                            "abstract": "《Deadline》是由黄伟文作词，张敬轩作曲，张敬轩演唱的一首粤语流行歌曲，于2011年4月15日发行，收录于专辑《P.S. I Love You》。",
+                            "wapPic": "//img03.sogoucdn.com/v2/thumb/retype_exclude_gif/ext/auto/q/80/crop/xy/ai/w/140/h/140/resize/w/140?appid=201005&sign=6686fe745caf5eb07f31fe7a79f61dd7&url=https%3A%2F%2Fpic.baike.soso.com%2Fugc%2Fbaikepic2%2F0%2F20240508091734-65995953_png_555_567_210261.jpg%2F0",
+                            "pcPic": "//img04.sogoucdn.com/v2/thumb/retype_exclude_gif/ext/auto/q/80/crop/xy/ai/w/140/h/140/resize/w/140?appid=201005&sign=6686fe745caf5eb07f31fe7a79f61dd7&url=https%3A%2F%2Fpic.baike.soso.com%2Fugc%2Fbaikepic2%2F0%2F20240508091734-65995953_png_555_567_210261.jpg%2F0"
+                        },
+                        {
+                            "lemmaTitle": "Deadline",
+                            "link": "https://baike.sogou.com/v154937704.htm?ch=sogou.fanyi",
+                            "abstract": "deadline，英语单词，名词，作名词时意为“最终期限；（监狱范围的）死线”。",
+                            "wapPic": "",
+                            "pcPic": ""
+                        }
+                    ]
+                }
+            },
+            "book": {
+                "yingyinNormal": [
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/c147f8d54a969778fef4aa74fdb25c24_34800.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/125be9750392c8ebdb9e8dbab626a738_45758.mp3",
+                        "isLavafox": true,
+                        "en": "We have two main objectives. More information, extending the <em>deadline</em>.",
+                        "zh": "我们有两个主要目标，获取更多信息，拖延最后期限。",
+                        "videoNameZh": "《纸牌屋 第四季》",
+                        "videoNameEn": "《House of Cards Season 4》",
+                        "url": "http://bisentence_movie.sogou.com/c8749339966cecc0e485239909ca7287_70c8eb992e67b6e89e6e2d0906c8bfdd6c1fb49d"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/dfdc97c7eab31e173bc0bccd4824440f_23407.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/d50d62d8edc17ee74853bb8717f8b781_75939.mp3",
+                        "isLavafox": true,
+                        "en": "I am a bit of a unicorn. Well, you certainly seem like a special lady, but as you know, you missed the <em>deadline</em>, so thanks for playing.",
+                        "zh": "我也算凤毛麟角的人物了。你确实是一位特别的姑娘，但你也知道，你错过最后期限了，所以谢谢参与。",
+                        "videoNameZh": "《生活大爆炸 第九季》",
+                        "videoNameEn": "《The Big Bang Theory Season 9》",
+                        "url": "http://bisentence_movie.sogou.com/2191d05168c5bf5cd3fd38171c8204bf_7f577bf94c7f42b6bc14e71acfb338e98d23e295"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/a22e6af87ee63df4b714547f6895ba40_54847.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/ba3c368355acaef9b093d8690bcdd3ec_40042.mp3",
+                        "isLavafox": true,
+                        "en": "This Monday? Yes. That's the filing <em>deadline</em>. Eli, that's in four days.",
+                        "zh": "这个周一吗？对，那是上报截止日期，伊莱，只有四天了。",
+                        "videoNameZh": "《傲骨贤妻 第六季》",
+                        "videoNameEn": "《The Good Wife Season 6》",
+                        "url": "http://bisentence_movie.sogou.com/352df28a83c2b676e947b4368a56e566_d8364ebe66399fb5e0a13a7d12330d0a5726c500"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/8a5b25dfe5e482fce849895959f35aba_1648.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/b5cd4299a625fd50a63c12933c745b24_31081.mp3",
+                        "isLavafox": true,
+                        "en": "Look, I cannot do this right now, okay, I've got a <em>deadline</em>, would you just go home, I'll talk to you later.",
+                        "zh": "听好了，我现在没空理你，我的交货时间到了，回家去，我们回头再说。",
+                        "videoNameZh": "《老友记 第三季》",
+                        "videoNameEn": "《Friends Season 3》",
+                        "url": "http://bisentence_movie.sogou.com/ff784298b70aa719583286c3dcff9df0_0a7f8b19868e79d8f5d824327daa2320ba031c4b"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/07a8d72a700923e66dd5ae4a039522ed_16914.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/f5c87af8f63fcd06f524494fdd8d3194_15717.mp3",
+                        "isLavafox": true,
+                        "en": "There's no resemblance at all. He is not Gusteau's son. Gusteau had no children, and what of the timing of all this? The <em>deadline</em> in the will expires in less than a month!",
+                        "zh": "应该说一点都不像，他不是食神的儿子，食神根本没子嗣，为什么偏偏出现在这时候？距遗嘱继承截止日剩下不到一个月。",
+                        "videoNameZh": "《美食总动员》",
+                        "videoNameEn": "《Ratatouille》",
+                        "url": "http://bisentence_movie.sogou.com/9c371320995f186c3f1a53d49c489946_23854d6c5f83ead4c774ea11f4447ab3c0c85c79"
+                    }
+                ]
+            },
+            "pic": "",
+            "voice": {
+                "phonetic": [
+                    {
+                        "text": "ˈdedlaɪn",
+                        "type": "uk",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/5219_deadline_uk.mp3"
+                    },
+                    {
+                        "text": "ˈdedlaɪn",
+                        "type": "usa",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/5219_deadline_usa.mp3"
+                    }
+                ]
+            },
+            "dictType": "oxford_buchong",
+            "kaoyan": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 1,
+                        "pos": "n",
+                        "chinese": "截止日期; 最后期限",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "deadline",
+                "direction_info": {
+                    "ranges": 12,
+                    "description": "数据源自2012-2023年12年间全国考研试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2012-2023年全国考研英语一和考研英语二共24套考研试卷，包括阅读、完型填空、翻译、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选全国考研考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2012-2023年12年间全国考研英语一和考研英语二试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 1,
+                "total_exam_freq": 1,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "截止日期; 最后期限",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "Instead of saying: \"If we set an end-of-quarter <highlight>deadline</highlight>, we will never make it,\".",
+                                    "month": -1,
+                                    "source": "英语二",
+                                    "coll": "",
+                                    "sentence_trans": "而不是说:“如果我们设定一个季度末的最后期限，我们将永远无法实现”。",
+                                    "year": 2021,
+                                    "type": "阅读理解B",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "word_affix": {
+                    "word": "deadline",
+                    "sub_affix_info_list": [
+                        {
+                            "affix": "dead",
+                            "affix_mean": "adj. 死的"
+                        },
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "线",
+                                    "affix_type": "stem"
+                                }
+                            ],
+                            "affix": "line",
+                            "affix_mean": "线"
+                        }
+                    ],
+                    "word_mean": "n. 最终期限"
+                }
+            },
+            "CET6": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 4,
+                        "pos": "n",
+                        "chinese": "最后期限; 截止日期",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "deadline",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2016.6-2023.6年8年间全六级试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight>考纲释义</highlight>\n精选实考、考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2016-2023年51套试卷，包括阅读、听力、翻译等所有题型。\n\n<highlight>真题例句</highlight>\n精选2016-2023年8年间全六级试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 1,
+                "total_exam_freq": 4,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "synonyms": "due date",
+                            "en": "the latest time or date by which something should be completed",
+                            "zh": "最后期限; 截止日期",
+                            "pos": "n",
+                            "antonyms": ""
+                        }
+                    ]
+                },
+                "word_affix": {
+                    "word": "deadline",
+                    "sub_affix_info_list": [
+                        {
+                            "affix": "dead",
+                            "affix_mean": "adj. 死的"
+                        },
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "线",
+                                    "affix_type": "stem"
+                                }
+                            ],
+                            "affix": "line",
+                            "affix_mean": "线"
+                        }
+                    ],
+                    "word_mean": "n. 最终期限"
+                },
+                "exchange_info": {
+                    "word_pl": [
+                        "deadlines"
+                    ]
+                }
+            },
+            "CET4": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 2,
+                        "pos": "n",
+                        "chinese": "最后期限; 截止日期",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "deadline",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2016.6-2023.6年8年间全四级试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight>考纲释义</highlight>\n精选实考、考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2016-2023年51套试卷，包括阅读、听力、翻译等所有题型。\n\n<highlight>真题例句</highlight>\n精选2016-2023年8年间试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 1,
+                "total_exam_freq": 2,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "the latest time or date by which something should be completed",
+                            "zh": "最后期限; 截止日期",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "The <highlight>deadline</highlight> is January 15th.",
+                                    "month": 6,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "截止日期是1月15日。",
+                                    "year": 2016,
+                                    "type": "听力",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "word_affix": {
+                    "word": "deadline",
+                    "sub_affix_info_list": [
+                        {
+                            "affix": "dead",
+                            "affix_mean": "adj. 死的"
+                        },
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "线",
+                                    "affix_type": "stem"
+                                }
+                            ],
+                            "affix": "line",
+                            "affix_mean": "线"
+                        }
+                    ],
+                    "word_mean": "n. 最终期限"
+                },
+                "exchange_info": {
+                    "word_pl": [
+                        "deadlines"
+                    ]
+                }
+            },
+            "gaokao": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 2,
+                        "pos": "n",
+                        "chinese": "最后期限; 截止日期",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "deadline",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2015-2022年8年间全国卷和自主命题省市高考卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2015-2022年全国卷高考试卷，包括阅读、完形、单选、填空、听力、改错、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选各省市考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2015-2022年8年间全国卷和自主命题省市高考卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 1,
+                "total_exam_freq": 2,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "the latest time or date by which something should be completed",
+                            "zh": "最后期限; 截止日期",
+                            "pos": "n",
+                            "synonyms": "due date",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "The <highlight>deadlines</highlight> and what you need to apply depend on the program.",
+                                    "month": -1,
+                                    "source": "全国卷1",
+                                    "coll": "",
+                                    "sentence_trans": "截止日期和你需要申请的内容取决于项目。",
+                                    "year": 2019,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "word_affix": {
+                    "word": "deadline",
+                    "sub_affix_info_list": [
+                        {
+                            "affix": "dead",
+                            "affix_mean": "adj. 死的"
+                        },
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "线",
+                                    "affix_type": "stem"
+                                }
+                            ],
+                            "affix": "line",
+                            "affix_mean": "线"
+                        }
+                    ],
+                    "word_mean": "n. 最终期限"
+                },
+                "exchange_info": {
+                    "word_pl": [
+                        "deadlines"
+                    ]
+                }
+            },
+            "zhongkao": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 1,
+                        "pos": "n",
+                        "chinese": "最后期限; 截止日期",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "deadline",
+                "direction_info": {
+                    "ranges": 4,
+                    "description": "数据源自2018-2021年4年间全国各省市中考试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2018-2021年全国重点省市中考试卷，包括听力、阅读、完形、单选、填空、改错、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选各省市考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2018-2021年4年间全国各省市中考试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 1,
+                "total_exam_freq": 1,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "the latest time or date by which something should be completed",
+                            "zh": "最后期限; 截止日期",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "The <highlight>deadline</highlight> (截止时间) for this is Friday，July 9，2021. The video will be shared around graduation time.",
+                                    "month": -1,
+                                    "source": "大连市卷",
+                                    "coll": "",
+                                    "sentence_trans": "截止日期为 2021 年 7 月 9 日星期五。视频将在毕业时间前后分享。",
+                                    "year": 2021,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "word_affix": {
+                    "sub_affix_info_list": [
+                        {
+                            "affix": "dead",
+                            "affix_mean": "adj. 死的"
+                        },
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "线",
+                                    "affix_type": "stem"
+                                }
+                            ],
+                            "affix": "line",
+                            "affix_mean": "线"
+                        }
+                    ],
+                    "word": "deadline",
+                    "word_mean": "n. 最终期限"
+                }
+            },
+            "sentencesData": {
+                "status": 1,
+                "info": "notZh2En",
+                "data": {}
+            },
+            "isAutoMatch": false,
+            "Zh2En": false
+        },
+        "query": "deadline",
+        "result": "最后期限",
+        "tabSelect": "detail",
+        "dictionaryType": "oxford_buchong",
+        "notFound_show": false,
+        "phoneticShow": "",
+        "globalShowTranslateRecord": "",
+        "pronPrefer": {
+            "type": "usa_1",
+            "speaker": "male",
+            "speed": "standard"
+        },
+        "ServerRecord": "",
+        "ServerUIGS": {
+            "version": "new",
+            "type": "all",
+            "stype": "success",
+            "terminal": "web",
+            "fr": "default",
+            "direction": "etoz",
+            "from": "en",
+            "to": "zh-CHS",
+            "len": 8,
+            "qtype": "text",
+            "qctype": "qc_1",
+            "dict_cover": 1,
+            "detail": 1,
+            "wordCardCover": 1,
+            "wordCardEn": 1,
+            "wordCardCh": 0,
+            "wordCardMinor": 0,
+            "wordCardNetmean": 0,
+            "wordDeform": 1,
+            "keyword": 0,
+            "bilingual": 1,
+            "simple": 0,
+            "levelList": 1,
+            "synonym": 0,
+            "antonym": 0,
+            "conjugate": 0,
+            "rootaffix": 1,
+            "baike_sogou": 1,
+            "baike_wiki": 0,
+            "wordDifference": 0,
+            "word_phrase": 1,
+            "secondQuery": 0,
+            "dict_oxford": 0,
+            "dict_newcentury": 0,
+            "zhongkaotab": 1,
+            "gaokaotab": 1,
+            "CET4tab": 1,
+            "CET6tab": 1,
+            "kaoyantab": 1,
+            "network_tab": 0,
+            "yinying_tab": 1,
+            "tuozhan_tab": 0,
+            "one_pic": 0,
+            "more_pic": 0,
+            "no_pic": 0,
+            "uuid": "2c861905-134e-4a40-9faa-cb752a90b154",
+            "from_type": 0,
+            "t_trans_ssr": 149
+        },
+        "ServerModelUIGS": {
+            "terminal": "web",
+            "type": "trans_model",
+            "pbtype": "pv",
+            "model_general": 1,
+            "model_medical": 1,
+            "model_finance": 1
+        },
+        "ServerSgtkn": "6589601B4398F15F53557B9558D6081C54F8510967558B47",
+        "suggShow": false,
+        "suggestion": "",
+        "suggDirection": "",
+        "usualTop": "",
+        "baseDict": "",
+        "wordCardClick": false,
+        "isFrInput": false,
+        "kanaTips": {
+            "show": false,
+            "left": "",
+            "top": "",
+            "type": "",
+            "arrowLeft": ""
+        },
+        "currSentenceIndex": -1,
+        "prefixStrObj": {
+            "prefixStr": "",
+            "oriPrefixStr": ""
+        },
+        "selectTransBox": {
+            "show": false,
+            "right": 0,
+            "top": 0,
+            "paraphraseInfo": {
+                "word": "",
+                "from": "",
+                "to": "",
+                "area": ""
+            }
+        },
+        "sentenceLoading": false,
+        "newSentenceInfo": {
+            "sentence": "",
+            "candidateIndex": 0
+        },
+        "moreTipInfo": {
+            "opacity": 0,
+            "zIndex": -1
+        },
+        "paraphraseShowInfo": {
+            "card": 0,
+            "query": "",
+            "card_dict": 0
+        },
+        "selectType": "",
+        "wordPos": 0,
+        "candidateWord": "",
+        "syntaxVisible": false,
+        "syntaxStatus": 0
+    },
+    "language": {
+        "from": "auto",
+        "to": "zh-CHS",
+        "detect": "en",
+        "model": "general",
+        "detectShow": false,
+        "langMap": {
+            "current": ""
+        },
+        "zh2en": false,
+        "fromItemList": [
+            {
+                "lang": "auto",
+                "text": "自动检测",
+                "play": false
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "ko",
+                "text": "韩语",
+                "play": true,
+                "abbr": "韩"
+            },
+            {
+                "lang": "vi",
+                "text": "越南语",
+                "play": true,
+                "abbr": "越"
+            },
+            {
+                "lang": "fr",
+                "text": "法语",
+                "play": true,
+                "abbr": "法"
+            }
+        ],
+        "toItemList": [
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "vi",
+                "text": "越南语",
+                "play": true,
+                "abbr": "越"
+            },
+            {
+                "lang": "ko",
+                "text": "韩语",
+                "play": true,
+                "abbr": "韩"
+            },
+            {
+                "lang": "ru",
+                "text": "俄语",
+                "play": true,
+                "abbr": "俄"
+            }
+        ]
+    },
+    "voice": {
+        "from": {
+            "lang": "en",
+            "type": "from",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22deadline%22%2C%22spokenDialect%22%3A%22en%22%2C%22rate%22%3A%220.8%22%7D",
+            "list": [
+                {
+                    "type": "uk_0",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "ˈdedlaɪn",
+                    "abbr": "英",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/5219_deadline_uk.mp3"
+                },
+                {
+                    "type": "usa_1",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "ˈdedlaɪn",
+                    "abbr": "美",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/5219_deadline_usa.mp3"
+                }
+            ],
+            "stype": "phonetic",
+            "phoneticShow": [
+                {
+                    "text": "ˈdedlaɪn",
+                    "type": "uk",
+                    "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/5219_deadline_uk.mp3"
+                }
+            ]
+        },
+        "to": {
+            "lang": "zh",
+            "type": "to",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22%E6%9C%80%E5%90%8E%E6%9C%9F%E9%99%90%22%2C%22spokenDialect%22%3A%22zh-CHS%22%2C%22rate%22%3A%220.8%22%7D",
+            "stype": "normal"
+        }
+    }
+}

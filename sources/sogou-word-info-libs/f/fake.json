@@ -1,0 +1,1197 @@
+{
+    "route": {
+        "name": "text",
+        "path": "/text",
+        "hash": "",
+        "query": {
+            "keyword": "fake",
+            "transfrom": "auto",
+            "transto": "zh-CHS",
+            "model": "general",
+            "errcode": "s10"
+        },
+        "params": {},
+        "fullPath": "/text?keyword=fake&transfrom=auto&transto=zh-CHS&model=general&errcode=s10",
+        "meta": {
+            "mtype": [
+                "textTranslate",
+                "language",
+                "voice"
+            ]
+        },
+        "from": {
+            "name": null,
+            "path": "/",
+            "hash": "",
+            "query": {},
+            "params": {},
+            "fullPath": "/",
+            "meta": {}
+        }
+    },
+    "common": {
+        "CONFIG": {
+            "wuid": 1733659871727,
+            "loginInfo": {},
+            "isIE": 0,
+            "isHitSsrSwitch": true,
+            "isHitWritebookSwitch": false,
+            "isHitAmsSwitch": true,
+            "promotionList": "{\n    \"pc_bottom\":{\n        \"imgsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\",\n        \"qcsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\"\n    },\n    \"pc_middle\":[\n        {\n            \"src\":\"//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c\",\n            \"bgColor\":\"#ffffff\",\n            \"link\":\"\"\n        }\n    ],\n    \"pc_survey\":{\n        \"icon\":\"//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750\",\n        \"link\":\"https://wj.qq.com/s2/8193148/806d/\"\n    }\n}",
+            "bannerData": [],
+            "isHitAsideSurvey": false,
+            "secretCode": 109984457,
+            "uuid": "da00ff8b-f126-4b2b-a3aa-bb0d94f32905",
+            "referer": "",
+            "approveToken": "658D63E6559CF25B50567990748099E1511E03D467558CDF",
+            "loadTime": 1733659871729,
+            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0",
+            "fcp": "159.65.124.238",
+            "temporaryId": "",
+            "fileId": ""
+        },
+        "hotWords": [],
+        "isFromCollect": false,
+        "psdModify": {
+            "currentStep": 1,
+            "scode": "",
+            "username": ""
+        },
+        "loginStatus": true,
+        "feedBackModule": false,
+        "showPromotionPopup": {
+            "show": false,
+            "type": ""
+        },
+        "showPromotionPCDownload": false,
+        "showShareBomb": false,
+        "shareData": null,
+        "showAppDownLoad": false,
+        "showLoginDialog": false,
+        "showLoading": {
+            "show": false
+        },
+        "toast": {
+            "show": false,
+            "text": "",
+            "loading": false
+        },
+        "modelToast": {
+            "show": false,
+            "text": ""
+        },
+        "selectionGlobalShow": true,
+        "selectionInfo": {
+            "left": 0,
+            "top": 0,
+            "show": false,
+            "from": "",
+            "to": "",
+            "val": "",
+            "area": ""
+        },
+        "showConfirmDialog": false,
+        "promotionList": {
+            "pc_bottom": {
+                "imgsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png",
+                "qcsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png"
+            },
+            "pc_middle": [
+                {
+                    "src": "//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c",
+                    "bgColor": "#ffffff",
+                    "link": ""
+                }
+            ],
+            "pc_survey": {
+                "icon": "//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750",
+                "link": "https://wj.qq.com/s2/8193148/806d/"
+            }
+        },
+        "transTypeTxt": "text",
+        "fixedTabStatus": 0,
+        "bodyTop": 0,
+        "ifHideUserOperation": false
+    },
+    "textTranslate": {
+        "prevTransQuery": "",
+        "translateData": {
+            "translate": {
+                "zly": "zly",
+                "errorCode": "0",
+                "qc_type": "1",
+                "index": "content0",
+                "from": "en",
+                "source": "sogou",
+                "text": "fake",
+                "to": "zh-CHS",
+                "id": "da00ff8b-f126-4b2b-a3aa-bb0d94f32905",
+                "dit": "骗子",
+                "orig_text": "fake",
+                "md5": ""
+            },
+            "detect": {
+                "zly": "zly",
+                "detect": "en",
+                "errorCode": "0",
+                "language": "英语",
+                "id": "83aa3250-b55d-11ef-8bbd-3721496f4e95",
+                "text": "fake"
+            },
+            "sgtkn": "658D63EF559CF25B50567990748099E1511E03D467558CDF",
+            "wordCard": {
+                "title": "fake",
+                "show": true,
+                "usualDict": [
+                    {
+                        "values": [
+                            "假货；骗局；诡计；欺骗行为；假动作（体育比赛中用以迷惑对手）；伪装"
+                        ],
+                        "pos": "n."
+                    },
+                    {
+                        "values": [
+                            "伪造的；假的；仿制的；虚假的；欺骗性的；不真实的；冒充的"
+                        ],
+                        "pos": "adj."
+                    },
+                    {
+                        "values": [
+                            "伪造；假装；欺骗；（在体育比赛中）做假动作以迷惑对手；佯装；装出（某种感情、有病等）；冒充"
+                        ],
+                        "pos": "v."
+                    }
+                ],
+                "secondQuery": "",
+                "exchange": {
+                    "word_third": [
+                        "fakes"
+                    ],
+                    "word_ing": [
+                        "faking"
+                    ],
+                    "word_pl": [
+                        "fakes"
+                    ],
+                    "word_past": [
+                        "faked"
+                    ]
+                },
+                "levelList": [
+                    "高中",
+                    "四级",
+                    "六级",
+                    "考研",
+                    "考博",
+                    "雅思",
+                    "托福",
+                    "GRE"
+                ]
+            },
+            "detail": {
+                "wordRootInfo": {
+                    "word_info_list": [
+                        {
+                            "word": "fakery",
+                            "pos_mean_info_list": [
+                                {
+                                    "pos": "n.",
+                                    "mean": "伪造；假货"
+                                }
+                            ]
+                        },
+                        {
+                            "word": "faker",
+                            "pos_mean_info_list": [
+                                {
+                                    "pos": "n.",
+                                    "mean": "摊贩；骗子；伪造者，伪装者"
+                                }
+                            ]
+                        }
+                    ],
+                    "root_word": "fake"
+                },
+                "word_difference_info": [
+                    {
+                        "common_mean": "冒牌货",
+                        "word_list": [
+                            "sham",
+                            " fake"
+                        ],
+                        "word_mean_info__list": [
+                            {
+                                "difference": "指可以以假乱真的东西，尤指明显的欺骗。",
+                                "word": "sham"
+                            },
+                            {
+                                "difference": "通常指没有价值的冒牌货或代用品，但目的不一定全是为骗人。",
+                                "word": "fake"
+                            }
+                        ]
+                    },
+                    {
+                        "common_mean": "假的",
+                        "word_list": [
+                            "false",
+                            " fake"
+                        ],
+                        "word_mean_info__list": [
+                            {
+                                "difference": "指说明某物与真的相像，强调看上去像真的，不一定用作冒充、谎骗。",
+                                "word": "false"
+                            },
+                            {
+                                "difference": "指某物不是真的。",
+                                "word": "fake"
+                            }
+                        ]
+                    }
+                ],
+                "word_group": [
+                    {
+                        "brief_definition": "伪歌本",
+                        "phrase": "fake book",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "人造毛皮；假毛皮；仿制的毛皮",
+                        "phrase": "fake fur",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "捉弄；欺骗",
+                        "phrase": "fake out",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "捏造；伪造",
+                        "phrase": "fake up",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "假传",
+                        "phrase": "fake pass",
+                        "pos": ""
+                    }
+                ],
+                "bilingual": [
+                    {
+                        "source": "The painting turned out to be a <em>fake</em>.",
+                        "target": "这幅画结果是假的。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Can you distinguish which one is <em>fake</em>?",
+                        "target": "你能辨别出哪一个是假的吗？",
+                        "url": ""
+                    },
+                    {
+                        "source": "He used a <em>fake</em> ID to get into the club.",
+                        "target": "他用假的身份证进入了俱乐部。",
+                        "url": ""
+                    },
+                    {
+                        "source": "The company was caught selling <em>fake</em> products.",
+                        "target": "这家公司被抓到在卖假的产品。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Don't let anyone diddle you with <em>fake</em> promises.",
+                        "target": "不要让任何人用虚假的承诺欺骗你。",
+                        "url": ""
+                    },
+                    {
+                        "source": "She gave a <em>fake</em> smile to hide her true feelings.",
+                        "target": "她给了一个假的微笑来掩饰她的真实感受。",
+                        "url": ""
+                    },
+                    {
+                        "source": "He made a <em>fake</em> excuse to leave the meeting early.",
+                        "target": "他编了一个假的借口提前离开了会议。",
+                        "url": ""
+                    },
+                    {
+                        "source": "The investors were defrauded by a <em>fake</em> investment scheme.",
+                        "target": "投资者被一个虚假的投资计划欺诈了。",
+                        "url": ""
+                    },
+                    {
+                        "source": "The con artist tried to entrap the victim with a <em>fake</em> investment scheme.",
+                        "target": "骗子试图用一个虚假的投资计划来诱捕受害者。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Tired of <em>fake</em> diamonds, <em>fake</em> silver, <em>fake</em> gold.",
+                        "target": "对虚假的钻石金子或银子都没有感觉了",
+                        "url": "zhidao.baidu.com"
+                    }
+                ],
+                "baike": {
+                    "showMore": true,
+                    "list": [
+                        {
+                            "lemmaTitle": "fake",
+                            "link": "https://baike.sogou.com/v9429633.htm?ch=sogou.fanyi",
+                            "abstract": "《绝爱追缉令》（FAKE）是日本漫画家真东砂波的代表作，单行本共7卷，由青磁出版社出版，是90年代初期开始连载的漫画。 该作以两位主角与大毒枭集团搏斗为主线，其中含有不同类型的刑事案件。故事围绕两位警察之间的情感展开，讲述了日裔查探警员（Ryo）与拍档（Dee）在共同处理案件的过程中产生了一段朦胧爱情的故事。 另有同名动画《绝爱追缉令》于1998年4月21日在日本上映。",
+                            "wapPic": "//img01.sogoucdn.com/v2/thumb/retype_exclude_gif/ext/auto/q/80/crop/xy/ai/w/140/h/140/resize/w/140?appid=201005&sign=3e1fa8c4f91fd50a71e95842f9b50e10&url=https%3A%2F%2Fpic.baike.soso.com%2Fugc%2Fbaikepic2%2F0%2F20240506102313-1939358977_jpeg_405_600_47246.jpg%2F0",
+                            "pcPic": "//img04.sogoucdn.com/v2/thumb/retype_exclude_gif/ext/auto/q/80/crop/xy/ai/w/140/h/140/resize/w/140?appid=201005&sign=3e1fa8c4f91fd50a71e95842f9b50e10&url=https%3A%2F%2Fpic.baike.soso.com%2Fugc%2Fbaikepic2%2F0%2F20240506102313-1939358977_jpeg_405_600_47246.jpg%2F0"
+                        },
+                        {
+                            "lemmaTitle": "fake",
+                            "link": "https://baike.sogou.com/v174947002.htm?ch=sogou.fanyi",
+                            "abstract": "fake是一个英语单词，意思是伪造的。",
+                            "wapPic": "",
+                            "pcPic": ""
+                        }
+                    ]
+                }
+            },
+            "book": {
+                "yingyinNormal": [
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/1c72f258a9b6f8d8329cf5c54d6edaea_40785.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/f6b9f8dcf5638444deda6a86c8216955_65220.mp3",
+                        "isLavafox": true,
+                        "en": "Cause you know that's all <em>fake</em>. It's all done on a computer? It's like that video, what is it?",
+                        "zh": "这些可都是假的，是电脑特效，就像那个视频一样，什么来着？",
+                        "videoNameZh": "《美国队长3》",
+                        "videoNameEn": "《Captain America: Civil War》",
+                        "url": "http://bisentence_movie.sogou.com/c55b79bc4ab8594371f37c4123ea1e38_c6e0d9980901726d99214f33509c05a5d9cf918d"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/649fb0da5e02febcad57f332efe07876_46469.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/4353443d439edbffc1404d154ec1c268_14699.mp3",
+                        "isLavafox": true,
+                        "en": "Look at these authentic <em>fake</em> medals. I tell you, mom's gonna be voted best dressed at the make-believe military academy.",
+                        "zh": "瞧瞧这些假徽章，妈会得到“最佳服装奖”在假的军校里。",
+                        "videoNameZh": "《老友记 第二季》",
+                        "videoNameEn": "《Friends Season 2》",
+                        "url": "http://bisentence_movie.sogou.com/d19fd70e71823ce6c590ae9aa9b70f63_593ca274b2ad2284b377c055ee3e1309b7d8a167"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/b21f5975b6c4f0b3c33038710709a274_56412.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/9f670baec4630fd544a0a1ac73809804_49349.mp3",
+                        "isLavafox": true,
+                        "en": "It's all a fugazi. You know what a fugazi is? Uh. Fugayzi. It's a <em>fake</em>. Fugayzi, fugazi, it's a whazy, it's a woozy, it's...",
+                        "zh": "这都是忽悠人的，你知道什么是忽悠吧，忽悠，就是假的。忽悠来，忽悠去。",
+                        "videoNameZh": "《华尔街之狼》",
+                        "videoNameEn": "《The Wolf of Wall Street》",
+                        "url": "http://bisentence_movie.sogou.com/f51817ba45e55e8a283171124a1973fc_8667e6ef620ef339c1293209a23b5236a450c43c"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/a86e6e98cc64448e528c65f2085efa0f_30194.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/e2ea027dd949f6d7514849f852a9d18c_74102.mp3",
+                        "isLavafox": true,
+                        "en": "We had one of those silly <em>fake</em> weddings.",
+                        "zh": "办了那种傻傻的假婚礼。",
+                        "videoNameZh": "《生活大爆炸 第7季》",
+                        "videoNameEn": "《The Big Bang Theory Season 7》",
+                        "url": "http://bisentence_movie.sogou.com/863899def3f8685d4ff2f4b63d97a348_65e4a616a77b1472dff1e2952f36635fc31196c5"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/658cb5af1f2c25ef894d7429bd1ba9af_103.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/6ef2c004355270004ca1cac0b40bd0c4_47715.mp3",
+                        "isLavafox": true,
+                        "en": "Gotta be a pretty good <em>fake</em> to fool Glasses.",
+                        "zh": "能骗过眼镜儿，肯定够逼真啊。",
+                        "videoNameZh": "《疑犯追踪 第四季》",
+                        "videoNameEn": "《Person of Interest Season 4》",
+                        "url": "http://bisentence_movie.sogou.com/ef7cf3ab4d850d244af79aab7cee624d_b28d445ec351b4afd7f983d965761316708883db"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/5784af55ab08e203ecc1fde609fc5bb5_17166.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/c5bf9d1074c25cc8daf3bc29133dfc36_39048.mp3",
+                        "isLavafox": true,
+                        "en": "You'll have to <em>fake</em> it. Lady Mary, Edith, Mr Branson...",
+                        "zh": "你们只能装装了，玛丽小姐，伊迪丝，布兰森先生…",
+                        "videoNameZh": "《唐顿庄园 第六季》",
+                        "videoNameEn": "《Downton Abbey Season 6》",
+                        "url": "http://bisentence_movie.sogou.com/2031c8c50de42f0daa62fa17c390d96e_084dc4aaf7c8ed2a7705f649f9a3207bde21fc50"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/2674be7173613a724967150e0c47e7ff_59249.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/b28f6f0642d49049be6866e4f593ffe7_68373.mp3",
+                        "isLavafox": true,
+                        "en": "Max, you do <em>fake</em> stairs so well. I know. It's the second best thing I <em>fake</em>.",
+                        "zh": "麦克斯，你好会演假装下楼梯。我知道，这是我\"假\"得第二好的事。",
+                        "videoNameZh": "《破产姐妹 第五季》",
+                        "videoNameEn": "《2 Broke Girls Season 5》",
+                        "url": "http://bisentence_movie.sogou.com/b5c7601b89de074a10f31a6ac8832aed_6265cf67828bb1408beaece400e653057128ddc7"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/8b3da16ecbe350aacc1a7e4a01d210bc_49869.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/0bbf7d9638ac54a8e36baaddc6883a68_25883.mp3",
+                        "isLavafox": true,
+                        "en": "I'm just saying, if we <em>fake</em> got back together, that's totally not how it <em>fake</em> happened.",
+                        "zh": "我只是想说，如果我们假装和好，那也肯定不是这么和好的。",
+                        "videoNameZh": "《生活大爆炸 第四季》",
+                        "videoNameEn": "《The Big Bang Theory Season 4》",
+                        "url": "http://bisentence_movie.sogou.com/f0135657675cb16ab902b10da53aad7b_fdc2b957b3f684eda512b65922db47b646cdbcf2"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/7527e2a9ec38f59ad126037938e4289c_52101.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/4f61c6fee6873d9db5685d3ca8ee40c9_16585.mp3",
+                        "isLavafox": true,
+                        "en": "I don't believe this. You got him to pretend he was some <em>fake</em> doctor? <em>Fake</em>? Excuse me? Hello?",
+                        "zh": "我不敢相信，你要他假扮医生？假扮？对不起，喂。",
+                        "videoNameZh": "《老友记 第八季》",
+                        "videoNameEn": "《Friends Season 8》",
+                        "url": "http://bisentence_movie.sogou.com/0286dc21bdb425d499e1e39fd945dac8_6ebd52ccc3cf627df134253b829e1d4a32856fd7"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/886b76b0c552c22c57062be63cf27261_37722.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/2b7a9c22ce548e02ec1eb86ae78fe591_60405.mp3",
+                        "isLavafox": true,
+                        "en": "Hey, Mr. Phillips. Nice suit. Right there. That was so <em>fake</em>!",
+                        "zh": "嘿，菲利浦先生，很好看的西装。抓到了，真是好假！",
+                        "videoNameZh": "《老友记 第九季》",
+                        "videoNameEn": "《Friends Season 9》",
+                        "url": "http://bisentence_movie.sogou.com/1ba9db6e9dead2ca4f4409ea2867d3d8_3d4afc6d4cb9439adc6da42a0716673636c007e5"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/8ef70835eb0d9663ca2d26c2a78b067d_46174.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/317b0b80214bcb9a393ffe90db2af94f_51849.mp3",
+                        "isLavafox": true,
+                        "en": "Nikita doesn't have time to <em>fake</em> that. There's too much heat.",
+                        "zh": "尼基塔没时间伪造这种文件。风声太紧了",
+                        "videoNameZh": "《妮基塔 第四季》",
+                        "videoNameEn": "《Nikita Season 4》",
+                        "url": "http://bisentence_movie.sogou.com/7ad1aad69e5c82e2513f7b24b0b5a589_aea3512c35508111937c1ddcd4cc530ac40016de"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/dde03d29cdf9f1eb3170279dd5ad8ff2_46072.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/9edc889bf15d900131873490e6f61f08_43498.mp3",
+                        "isLavafox": true,
+                        "en": "But when I'd ask him where they were, he'd give me a <em>fake</em> address.",
+                        "zh": "可每次我问他派对在哪里，他都会给我假地址。",
+                        "videoNameZh": "《摩登家庭 第六季》",
+                        "videoNameEn": "《Modern Family Season 6》",
+                        "url": "http://bisentence_movie.sogou.com/8e0e4690f70c1d07e0fa869f5371d705_d8650066b9cdad585f1ff9d5ff5f2c97a4f997a2"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/95bf83fa9c39ec4f55b8511dc0c4ed29_55630.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/54e70e2bd6517d35a91a2102b30e46da_46413.mp3",
+                        "isLavafox": true,
+                        "en": "Then she moved to England and she picked up this <em>fake</em> British accent.",
+                        "zh": "后来她搬去英国了，还学了假惺惺的英国口音。",
+                        "videoNameZh": "《老友记 第十季》",
+                        "videoNameEn": "《Friends Season 10》",
+                        "url": "http://bisentence_movie.sogou.com/93a133117b7d3a159872c4b499b50bae_607f8d01107f1c36a42a1d23051a7acd538bb333"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/3bccca9abe5ab96bd7f3eaed6bd40cf2_52899.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/12593e69d806a882d266f920607bd9ff_4760.mp3",
+                        "isLavafox": true,
+                        "en": "Now you think I wouldn't enjoy that, because it is so <em>fake</em>, but I still do.",
+                        "zh": "你以为你说得太假，我会不相信，但我还是觉得很高兴。",
+                        "videoNameZh": "《老友记 第七季》",
+                        "videoNameEn": "《Friends Season 7》",
+                        "url": "http://bisentence_movie.sogou.com/e3027e023bdc86fc6e9523e34333be0f_792544d4158341013cd5a0bf955b1358b58c5497"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/0874ab49bec571fad2481e4608394e9f_8544.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/5e83be575e1b5fe4f2eb8e791bd6b574_30360.mp3",
+                        "isLavafox": true,
+                        "en": "I didn't care if they were real or <em>fake</em>. It was a great way to pass the time.",
+                        "zh": "我不在乎故事的真假，这是个消磨时光的好办法。",
+                        "videoNameZh": "《前目的地》",
+                        "videoNameEn": "《Predestination》",
+                        "url": "http://bisentence_movie.sogou.com/1e85193c93fbcd7f962ea2a6b4b4d6e3_3b933d0d661297811f37de69a4822e4221285b4e"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/9a0d4fcdea6f5721a9e0b0fe2ee7da05_35555.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/08aa4934776e8f51507b5d6b25bcd883_30749.mp3",
+                        "isLavafox": true,
+                        "en": "The Internet. She gets a <em>fake</em> ID, she sends money to herself. What does this mean?",
+                        "zh": "网络。她制造假身份，给自己汇钱。这是什么意思？",
+                        "videoNameZh": "《网络谜踪》",
+                        "videoNameEn": "《Searching》",
+                        "url": "http://bisentence_movie.sogou.com/68e6d43d2a3348a868e27ce1a2310b70_eaad795b3c9ededa65760a16c3a3cf7a499aa705"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/886b76b0c552c22c57062be63cf27261_37722.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/d1108111434ead56a887fa4e3f7d2147_4574.mp3",
+                        "isLavafox": true,
+                        "en": "You were just being so nice to him. I was faking it. Can't you tell when I'm being <em>fake</em>?",
+                        "zh": "你看起来跟他很好啊。我是装出来的，你难道看不出来我是装的吗？",
+                        "videoNameZh": "《老友记 第九季》",
+                        "videoNameEn": "《Friends Season 9》",
+                        "url": "http://bisentence_movie.sogou.com/ef0462abf3c29921f4b868d7e5e9adf9_77ac472d850391ff69b004f397834f6fe8da3801"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/ae9d6f2f04858f0af8517ff08116148e_6738.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/2b21a93d316e0ada6a7f1ac9f9a645d6_23205.mp3",
+                        "isLavafox": true,
+                        "en": "Maybe. Or maybe hiding behind a <em>fake</em> screenname gives the people the courage to go negative.",
+                        "zh": "也许吧，又或者藏在网名的假面之后让人有勇气去攻击别人。",
+                        "videoNameZh": "《女孩成长记 第三季》",
+                        "videoNameEn": "《Girl Meets World Season 3》",
+                        "url": "http://bisentence_movie.sogou.com/3c265aca19bc5a06119dd9f29c1d0b6a_51b9e397ca75d93820fb03a06bdc8d10a13bdcb9"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/dfdc97c7eab31e173bc0bccd4824440f_23407.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/8c7d852a971a1a7b8212b69c9b9bdbc4_74725.mp3",
+                        "isLavafox": true,
+                        "en": "I'm not gonna make a <em>fake</em> appointment with a psychiatrist. What would I say is wrong with me?",
+                        "zh": "我才不要假装病人去看精神科医生，我要假装有啥毛病呢？",
+                        "videoNameZh": "《生活大爆炸 第九季》",
+                        "videoNameEn": "《The Big Bang Theory Season 9》",
+                        "url": "http://bisentence_movie.sogou.com/2eeb266d394bbd0129932593bb5437db_40b93356f4da431b7b77c06209eab0cf9b7d43b9"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/21d26cfef0cd26f0813072491b08dd5a_57364.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/eed516a1ef6395d281f2cd7651d3760c_61987.mp3",
+                        "isLavafox": true,
+                        "en": "This is so exciting. Soon, my upper lip will be the same <em>fake</em> blonde as my beautiful best friend.",
+                        "zh": "好兴奋哦，我唇上的汗毛很快会跟我美丽好友一样有着好看的假金色了。",
+                        "videoNameZh": "《生活大爆炸 第六季》",
+                        "videoNameEn": "《The Big Bang Theory Season 6》",
+                        "url": "http://bisentence_movie.sogou.com/9da82aee2af6fb026c89fee22346883d_a1aa693b7f0c7392698a9b6144f35fc0d38c537d"
+                    }
+                ]
+            },
+            "pic": "",
+            "voice": {
+                "phonetic": [
+                    {
+                        "text": "feɪk",
+                        "type": "uk",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/8215_fake_uk.mp3"
+                    },
+                    {
+                        "text": "feɪk",
+                        "type": "usa",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/8215_fake_usa.mp3"
+                    }
+                ]
+            },
+            "dictType": "oxford_buchong",
+            "kaoyan": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 6,
+                        "pos": "adj/n/v",
+                        "chinese": "假的; 伪造的(物品); 伪造",
+                        "sense_tier_ratio": 100
+                    },
+                    {
+                        "sense_tier": 0,
+                        "pos": "v",
+                        "chinese": "假装",
+                        "sense_tier_ratio": 0
+                    }
+                ],
+                "word": "fake",
+                "direction_info": {
+                    "ranges": 12,
+                    "description": "数据源自2012-2023年12年间全国考研试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2012-2023年全国考研英语一和考研英语二共24套考研试卷，包括阅读、完型填空、翻译、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选全国考研考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2012-2023年12年间全国考研英语一和考研英语二试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 2,
+                "total_exam_freq": 6,
+                "sense": {
+                    "sense_num": 2,
+                    "sense_info_list": [
+                        {
+                            "en": "not genuine or real; being an imitation of the genuine article",
+                            "zh": "假的; 伪造的(物品); 伪造",
+                            "pos": "adj/n/v",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "But don't overdo it or be <highlight>fake</highlight> about it.",
+                                    "month": -1,
+                                    "source": "英语二",
+                                    "coll": "",
+                                    "sentence_trans": "但不要做得太过，也不要假装。",
+                                    "year": 2020,
+                                    "type": "阅读理解B",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "The Barna survey found that a main cause for the <highlight>fake</highlight> news problem is readers' misinterpretation.",
+                                    "month": -1,
+                                    "source": "英语一",
+                                    "coll": "",
+                                    "sentence_trans": "巴纳调查发现，假新闻问题的一个主要原因是读者的误解。",
+                                    "year": 2018,
+                                    "type": "阅读理解A",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "About a third say the problem of <highlight>fake</highlight> news lies in \"misinterpretation or exaggeration of actual news\" via social media.",
+                                    "month": -1,
+                                    "source": "英语一",
+                                    "coll": "",
+                                    "sentence_trans": "约三分之一的人表示，假新闻的问题在于通过社交媒体“曲解或夸大真实新闻”。",
+                                    "year": 2018,
+                                    "type": "阅读理解A",
+                                    "day": -1
+                                }
+                            ]
+                        },
+                        {
+                            "synonyms": "",
+                            "en": "pretend to feel or suffer from an emotion or illness",
+                            "zh": "假装",
+                            "pos": "v",
+                            "antonyms": ""
+                        }
+                    ]
+                },
+                "word_usage": [
+                    {
+                        "usage": "fake既可作及物动词又可作不及物动词。作及物动词时，其后可以接名词或者代词，如：He faked the results. 他伪造了结果。"
+                    }
+                ]
+            },
+            "CET6": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 5,
+                        "pos": "adj/n/v",
+                        "chinese": "假的; 伪造的(物品); 伪造",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "fake",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2016.6-2023.6年8年间全六级试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight>考纲释义</highlight>\n精选实考、考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2016-2023年51套试卷，包括阅读、听力、翻译等所有题型。\n\n<highlight>真题例句</highlight>\n精选2016-2023年8年间全六级试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 1,
+                "total_exam_freq": 5,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "not genuine or real; being an imitation of the genuine article",
+                            "zh": "假的; 伪造的(物品); 伪造",
+                            "pos": "adj/n/v",
+                            "synonyms": "counterfeit",
+                            "antonyms": "authentic,genuine",
+                            "examination_example": [
+                                {
+                                    "sentence": "American education is suffering from an epidemic of \"<highlight>fake</highlight> math\".",
+                                    "month": 12,
+                                    "source": "CET6",
+                                    "coll": "",
+                                    "sentence_trans": "美国教育正在遭受“假数学”的流行。",
+                                    "year": 2018,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "To help learners to tell <highlight>fake</highlight> math from real math.",
+                                    "month": 12,
+                                    "source": "CET6",
+                                    "coll": "",
+                                    "sentence_trans": "帮助学习者区分假数学和真数学。",
+                                    "year": 2018,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Even if you feel tempted to sacrifice your own vacation days for <highlight>fake</highlight> busyness, though, at least consider leaving your weekends unscheduled.",
+                                    "month": 12,
+                                    "source": "CET6",
+                                    "coll": "",
+                                    "sentence_trans": "即使你想要牺牲你自己的假期制造假的忙碌，但是，至少考虑让你的周末不被安排。",
+                                    "year": 2017,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "In other words, structural unemployment is a <highlight>fake</highlight> problem, which mainly serves as an excuse for not pursuing real solutions.",
+                                    "month": 6,
+                                    "source": "CET6",
+                                    "coll": "",
+                                    "sentence_trans": "换句话说，结构性失业是一个假问题，主要是作为不寻求真正解决方案的借口。",
+                                    "year": 2016,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "disambiguation": [
+                    {
+                        "disambiguation_list": [
+                            {
+                                "word": "fake",
+                                "sense_disambiguation": "指某物不是真的。"
+                            },
+                            {
+                                "word": "false",
+                                "sense_disambiguation": "指说明某物与真的相像, 强调看上去像真的, 不一定用作冒充、谎骗。"
+                            }
+                        ],
+                        "sense_group": "假的"
+                    }
+                ],
+                "exchange_info": {
+                    "word_third": [
+                        "fakes"
+                    ],
+                    "word_ing": [
+                        "faking"
+                    ],
+                    "word_pl": [
+                        "fakes"
+                    ],
+                    "word_past": [
+                        "faked"
+                    ]
+                }
+            },
+            "CET4": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 1,
+                        "pos": "adj/n/v",
+                        "chinese": "假的; 伪造的(物品); 伪造",
+                        "sense_tier_ratio": 100
+                    },
+                    {
+                        "sense_tier": 0,
+                        "pos": "v",
+                        "chinese": "假装",
+                        "sense_tier_ratio": 0
+                    }
+                ],
+                "word": "fake",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2016.6-2023.6年8年间全四级试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight>考纲释义</highlight>\n精选实考、考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2016-2023年51套试卷，包括阅读、听力、翻译等所有题型。\n\n<highlight>真题例句</highlight>\n精选2016-2023年8年间试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 1,
+                "total_exam_freq": 1,
+                "sense": {
+                    "sense_num": 2,
+                    "sense_info_list": [
+                        {
+                            "synonyms": "",
+                            "en": "not genuine or real; being an imitation of the genuine article",
+                            "zh": "假的; 伪造的(物品); 伪造",
+                            "pos": "adj/n/v",
+                            "antonyms": ""
+                        },
+                        {
+                            "synonyms": "",
+                            "en": "pretend to feel or suffer from an emotion or illness",
+                            "zh": "假装",
+                            "pos": "v",
+                            "antonyms": ""
+                        }
+                    ]
+                },
+                "disambiguation": [
+                    {
+                        "disambiguation_list": [
+                            {
+                                "word": "fake",
+                                "sense_disambiguation": "指某物不是真的。"
+                            },
+                            {
+                                "word": "false",
+                                "sense_disambiguation": "指说明某物与真的相像，强调看上去像真的，不一定用作冒充、谎骗。"
+                            }
+                        ],
+                        "sense_group": "假的"
+                    }
+                ],
+                "exchange_info": {
+                    "word_third": [
+                        "fakes"
+                    ],
+                    "word_ing": [
+                        "faking"
+                    ],
+                    "word_pl": [
+                        "fakes"
+                    ],
+                    "word_past": [
+                        "faked"
+                    ]
+                }
+            },
+            "gaokao": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 0,
+                        "pos": "n",
+                        "chinese": "假货; 赝品; 冒充者",
+                        "sense_tier_ratio": 0
+                    },
+                    {
+                        "sense_tier": 0,
+                        "pos": "v",
+                        "chinese": "伪造; 冒充; 假装",
+                        "sense_tier_ratio": 0
+                    },
+                    {
+                        "sense_tier": 0,
+                        "pos": "adj",
+                        "chinese": "假的; 冒充的",
+                        "sense_tier_ratio": 0
+                    }
+                ],
+                "word": "fake",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2015-2022年8年间全国卷和自主命题省市高考卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2015-2022年全国卷高考试卷，包括阅读、完形、单选、填空、听力、改错、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选各省市考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2015-2022年8年间全国卷和自主命题省市高考卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 1,
+                "total_exam_freq": 0,
+                "sense": {
+                    "sense_num": 3,
+                    "sense_info_list": [
+                        {
+                            "synonyms": "",
+                            "en": "",
+                            "zh": "假货; 赝品; 冒充者",
+                            "pos": "n",
+                            "antonyms": ""
+                        },
+                        {
+                            "synonyms": "",
+                            "en": "",
+                            "zh": "伪造; 冒充; 假装",
+                            "pos": "v",
+                            "antonyms": ""
+                        },
+                        {
+                            "synonyms": "",
+                            "en": "",
+                            "zh": "假的; 冒充的",
+                            "pos": "adj",
+                            "antonyms": ""
+                        }
+                    ]
+                }
+            },
+            "zhongkao": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 8,
+                        "pos": "adj",
+                        "chinese": "假的; 冒充的",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "fake",
+                "direction_info": {
+                    "ranges": 4,
+                    "description": "数据源自2018-2021年4年间全国各省市中考试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2018-2021年全国重点省市中考试卷，包括听力、阅读、完形、单选、填空、改错、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选各省市考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2018-2021年4年间全国各省市中考试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 2,
+                "total_exam_freq": 8,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "假的; 冒充的",
+                            "pos": "adj",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "<highlight>Fake</highlight> news websites often use addresses that sound like real newspapers, but don't have many real stories about other topics.",
+                                    "month": -1,
+                                    "source": "潍坊市卷",
+                                    "coll": "",
+                                    "sentence_trans": "假新闻网站经常使用听起来像真正报纸的地址，但没有很多关于其他话题的真实故事。",
+                                    "year": 2021,
+                                    "type": "信息匹配",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "If you do find it on many other sites, then it probably isn't <highlight>fake</highlight> (although there are some exceptions).",
+                                    "month": -1,
+                                    "source": "潍坊市卷",
+                                    "coll": "",
+                                    "sentence_trans": "如果你在许多其他网站上找到它，那么它可能不是假的(尽管也有一些例外)。",
+                                    "year": 2021,
+                                    "type": "信息匹配",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "If you find a news story that you know is <highlight>fake</highlight>, the most important advice is: don't share it!",
+                                    "month": -1,
+                                    "source": "潍坊市卷",
+                                    "coll": "",
+                                    "sentence_trans": "如果你发现一个你知道是假的新闻，最重要的建议是:不要分享它!",
+                                    "year": 2021,
+                                    "type": "信息匹配",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            "sentencesData": {
+                "status": 1,
+                "info": "notZh2En",
+                "data": {}
+            },
+            "isAutoMatch": false,
+            "Zh2En": false
+        },
+        "query": "fake",
+        "result": "骗子",
+        "tabSelect": "detail",
+        "dictionaryType": "oxford_buchong",
+        "notFound_show": false,
+        "phoneticShow": "",
+        "globalShowTranslateRecord": "",
+        "pronPrefer": {
+            "type": "usa_1",
+            "speaker": "male",
+            "speed": "standard"
+        },
+        "ServerRecord": "",
+        "ServerUIGS": {
+            "version": "new",
+            "type": "all",
+            "stype": "success",
+            "terminal": "web",
+            "fr": "default",
+            "direction": "etoz",
+            "from": "en",
+            "to": "zh-CHS",
+            "len": 4,
+            "qtype": "text",
+            "qctype": "qc_1",
+            "dict_cover": 1,
+            "detail": 1,
+            "wordCardCover": 1,
+            "wordCardEn": 1,
+            "wordCardCh": 0,
+            "wordCardMinor": 0,
+            "wordCardNetmean": 0,
+            "wordDeform": 1,
+            "keyword": 0,
+            "bilingual": 1,
+            "simple": 0,
+            "levelList": 1,
+            "synonym": 0,
+            "antonym": 0,
+            "conjugate": 1,
+            "rootaffix": 0,
+            "baike_sogou": 1,
+            "baike_wiki": 0,
+            "wordDifference": 1,
+            "word_phrase": 1,
+            "secondQuery": 0,
+            "dict_oxford": 0,
+            "dict_newcentury": 0,
+            "zhongkaotab": 1,
+            "gaokaotab": 1,
+            "CET4tab": 1,
+            "CET6tab": 1,
+            "kaoyantab": 1,
+            "network_tab": 0,
+            "yinying_tab": 1,
+            "tuozhan_tab": 0,
+            "one_pic": 0,
+            "more_pic": 0,
+            "no_pic": 0,
+            "uuid": "da00ff8b-f126-4b2b-a3aa-bb0d94f32905",
+            "from_type": 0,
+            "t_trans_ssr": 122
+        },
+        "ServerModelUIGS": {
+            "terminal": "web",
+            "type": "trans_model",
+            "pbtype": "pv",
+            "model_general": 1,
+            "model_medical": 1,
+            "model_finance": 1
+        },
+        "ServerSgtkn": "658D63EF559CF25B50567990748099E1511E03D467558CDF",
+        "suggShow": false,
+        "suggestion": "",
+        "suggDirection": "",
+        "usualTop": "",
+        "baseDict": "",
+        "wordCardClick": false,
+        "isFrInput": false,
+        "kanaTips": {
+            "show": false,
+            "left": "",
+            "top": "",
+            "type": "",
+            "arrowLeft": ""
+        },
+        "currSentenceIndex": -1,
+        "prefixStrObj": {
+            "prefixStr": "",
+            "oriPrefixStr": ""
+        },
+        "selectTransBox": {
+            "show": false,
+            "right": 0,
+            "top": 0,
+            "paraphraseInfo": {
+                "word": "",
+                "from": "",
+                "to": "",
+                "area": ""
+            }
+        },
+        "sentenceLoading": false,
+        "newSentenceInfo": {
+            "sentence": "",
+            "candidateIndex": 0
+        },
+        "moreTipInfo": {
+            "opacity": 0,
+            "zIndex": -1
+        },
+        "paraphraseShowInfo": {
+            "card": 0,
+            "query": "",
+            "card_dict": 0
+        },
+        "selectType": "",
+        "wordPos": 0,
+        "candidateWord": "",
+        "syntaxVisible": false,
+        "syntaxStatus": 0
+    },
+    "language": {
+        "from": "auto",
+        "to": "zh-CHS",
+        "detect": "en",
+        "model": "general",
+        "detectShow": false,
+        "langMap": {
+            "current": ""
+        },
+        "zh2en": false,
+        "fromItemList": [
+            {
+                "lang": "auto",
+                "text": "自动检测",
+                "play": false
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "de",
+                "text": "德语",
+                "play": true,
+                "abbr": "德"
+            },
+            {
+                "lang": "tr",
+                "text": "土耳其语",
+                "play": false,
+                "abbr": "土"
+            },
+            {
+                "lang": "ko",
+                "text": "韩语",
+                "play": true,
+                "abbr": "韩"
+            }
+        ],
+        "toItemList": [
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "tr",
+                "text": "土耳其语",
+                "play": false,
+                "abbr": "土"
+            },
+            {
+                "lang": "ko",
+                "text": "韩语",
+                "play": true,
+                "abbr": "韩"
+            },
+            {
+                "lang": "vi",
+                "text": "越南语",
+                "play": true,
+                "abbr": "越"
+            }
+        ]
+    },
+    "voice": {
+        "from": {
+            "lang": "en",
+            "type": "from",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22fake%22%2C%22spokenDialect%22%3A%22en%22%2C%22rate%22%3A%220.8%22%7D",
+            "list": [
+                {
+                    "type": "uk_0",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "feɪk",
+                    "abbr": "英",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/8215_fake_uk.mp3"
+                },
+                {
+                    "type": "usa_1",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "feɪk",
+                    "abbr": "美",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/8215_fake_usa.mp3"
+                }
+            ],
+            "stype": "phonetic",
+            "phoneticShow": [
+                {
+                    "text": "feɪk",
+                    "type": "uk",
+                    "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/8215_fake_uk.mp3"
+                }
+            ]
+        },
+        "to": {
+            "lang": "zh",
+            "type": "to",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22%E9%AA%97%E5%AD%90%22%2C%22spokenDialect%22%3A%22zh-CHS%22%2C%22rate%22%3A%220.8%22%7D",
+            "stype": "normal"
+        }
+    }
+}

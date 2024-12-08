@@ -1,0 +1,967 @@
+{
+    "route": {
+        "name": "text",
+        "path": "/text",
+        "hash": "",
+        "query": {
+            "keyword": "cute",
+            "transfrom": "auto",
+            "transto": "zh-CHS",
+            "model": "general",
+            "errcode": "s10"
+        },
+        "params": {},
+        "fullPath": "/text?keyword=cute&transfrom=auto&transto=zh-CHS&model=general&errcode=s10",
+        "meta": {
+            "mtype": [
+                "textTranslate",
+                "language",
+                "voice"
+            ]
+        },
+        "from": {
+            "name": null,
+            "path": "/",
+            "hash": "",
+            "query": {},
+            "params": {},
+            "fullPath": "/",
+            "meta": {}
+        }
+    },
+    "common": {
+        "CONFIG": {
+            "wuid": 1733659440904,
+            "loginInfo": {},
+            "isIE": 0,
+            "isHitSsrSwitch": true,
+            "isHitWritebookSwitch": false,
+            "isHitAmsSwitch": true,
+            "promotionList": "{\n    \"pc_bottom\":{\n        \"imgsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\",\n        \"qcsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\"\n    },\n    \"pc_middle\":[\n        {\n            \"src\":\"//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c\",\n            \"bgColor\":\"#ffffff\",\n            \"link\":\"\"\n        }\n    ],\n    \"pc_survey\":{\n        \"icon\":\"//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750\",\n        \"link\":\"https://wj.qq.com/s2/8193148/806d/\"\n    }\n}",
+            "bannerData": [],
+            "isHitAsideSurvey": false,
+            "secretCode": 109984457,
+            "uuid": "ed683694-de84-4b87-86f1-de4e519e3e0d",
+            "referer": "",
+            "approveToken": "65892342C61D70DAD2D4FA10DAF33DA1D227AEFC67558B30",
+            "loadTime": 1733659440906,
+            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0",
+            "fcp": "159.65.124.238",
+            "temporaryId": "",
+            "fileId": ""
+        },
+        "hotWords": [],
+        "isFromCollect": false,
+        "psdModify": {
+            "currentStep": 1,
+            "scode": "",
+            "username": ""
+        },
+        "loginStatus": true,
+        "feedBackModule": false,
+        "showPromotionPopup": {
+            "show": false,
+            "type": ""
+        },
+        "showPromotionPCDownload": false,
+        "showShareBomb": false,
+        "shareData": null,
+        "showAppDownLoad": false,
+        "showLoginDialog": false,
+        "showLoading": {
+            "show": false
+        },
+        "toast": {
+            "show": false,
+            "text": "",
+            "loading": false
+        },
+        "modelToast": {
+            "show": false,
+            "text": ""
+        },
+        "selectionGlobalShow": true,
+        "selectionInfo": {
+            "left": 0,
+            "top": 0,
+            "show": false,
+            "from": "",
+            "to": "",
+            "val": "",
+            "area": ""
+        },
+        "showConfirmDialog": false,
+        "promotionList": {
+            "pc_bottom": {
+                "imgsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png",
+                "qcsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png"
+            },
+            "pc_middle": [
+                {
+                    "src": "//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c",
+                    "bgColor": "#ffffff",
+                    "link": ""
+                }
+            ],
+            "pc_survey": {
+                "icon": "//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750",
+                "link": "https://wj.qq.com/s2/8193148/806d/"
+            }
+        },
+        "transTypeTxt": "text",
+        "fixedTabStatus": 0,
+        "bodyTop": 0,
+        "ifHideUserOperation": false
+    },
+    "textTranslate": {
+        "prevTransQuery": "",
+        "translateData": {
+            "translate": {
+                "zly": "zly",
+                "errorCode": "0",
+                "qc_type": "1",
+                "index": "content0",
+                "from": "en",
+                "source": "sogou",
+                "text": "cute",
+                "to": "zh-CHS",
+                "id": "ed683694-de84-4b87-86f1-de4e519e3e0d",
+                "dit": "漂亮的",
+                "orig_text": "cute",
+                "md5": ""
+            },
+            "detect": {
+                "zly": "zly",
+                "detect": "en",
+                "errorCode": "0",
+                "language": "英语",
+                "id": "82e02100-b55c-11ef-abf7-6960f5435571",
+                "text": "cute"
+            },
+            "sgtkn": "65892346C61D70DAD2D4FA10DAF33DA1D227AEFC67558B30",
+            "wordCard": {
+                "title": "cute",
+                "show": true,
+                "usualDict": [
+                    {
+                        "values": [
+                            "可爱的；漂亮的；迷人的；机敏的；聪明的；机智的；机灵的；<北美>性感的；有性吸引力的；<爱尔兰，非正式>狡黠的；精明的；诡计多端的"
+                        ],
+                        "pos": "adj."
+                    }
+                ],
+                "secondQuery": "",
+                "exchange": {
+                    "word_est": [
+                        "cutest"
+                    ],
+                    "word_er": [
+                        "cuter"
+                    ]
+                },
+                "levelList": [
+                    "小学",
+                    "初中",
+                    "高中",
+                    "四级",
+                    "六级",
+                    "考博",
+                    "雅思"
+                ]
+            },
+            "detail": {
+                "synonym": [
+                    {
+                        "word_list": [
+                            "lovely",
+                            "pretty",
+                            "intelligent",
+                            "taking",
+                            "wise"
+                        ],
+                        "pos": "adj.",
+                        "mean": "可爱的；漂亮的；聪明的，伶俐的"
+                    }
+                ],
+                "wordRootInfo": {
+                    "word_info_list": [
+                        {
+                            "word": "cutely",
+                            "pos_mean_info_list": [
+                                {
+                                    "pos": "adv.",
+                                    "mean": "精明地，伶俐地"
+                                }
+                            ]
+                        },
+                        {
+                            "word": "cuteness",
+                            "pos_mean_info_list": [
+                                {
+                                    "pos": "n.",
+                                    "mean": "娇小可爱"
+                                }
+                            ]
+                        }
+                    ],
+                    "root_word": "cute"
+                },
+                "word_group": [
+                    {
+                        "brief_definition": "好可爱；很有趣；好帅",
+                        "phrase": "so cute",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "可爱的孩子",
+                        "phrase": "cute kid",
+                        "pos": ""
+                    }
+                ],
+                "bilingual": [
+                    {
+                        "source": "She's a <em>cute</em>, <em>cute</em> girl.",
+                        "target": "她是一个非常可爱的女孩。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Kitty has a <em>cute</em> cat.",
+                        "target": "基蒂有一只可爱的猫。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Toby is a <em>cute</em> name for boys.",
+                        "target": "托比是一个可爱的男孩名字。",
+                        "url": ""
+                    },
+                    {
+                        "source": "My dog has one <em>cute</em> little face.",
+                        "target": "我的狗有一张可爱的小脸。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Nemo is a <em>cute</em> orange-and-white fish.",
+                        "target": "尼莫是一条可爱的橙白相间的鱼。",
+                        "url": ""
+                    },
+                    {
+                        "source": "I think they are kind of <em>cute</em> too, right?",
+                        "target": "我觉得它们也挺可爱的，对吧？",
+                        "url": ""
+                    },
+                    {
+                        "source": "A <em>cute</em> little girl is playing with a ball.",
+                        "target": "一个可爱的小女孩在玩球。",
+                        "url": ""
+                    },
+                    {
+                        "source": "We must pay attention to less <em>cute</em> animals, too.",
+                        "target": "我们也必须关注不那么可爱的动物。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Stand out from the crowd with <em>cute</em> animal prints.",
+                        "target": "用可爱的动物印花从人群中脱颖而出。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Pandas, dolphins, and other <em>cute</em> wildlife are important.",
+                        "target": "熊猫、海豚和其他可爱的野生动物很重要。",
+                        "url": ""
+                    }
+                ],
+                "baike": {
+                    "showMore": false,
+                    "list": [
+                        {
+                            "lemmaTitle": "CUTE",
+                            "link": "https://baike.sogou.com/v2130925.htm?ch=sogou.fanyi",
+                            "abstract": "cute，英文单词，形容词，翻译为可爱的、伶俐的、漂亮的等。",
+                            "wapPic": "",
+                            "pcPic": ""
+                        },
+                        {
+                            "lemmaTitle": "CUTE",
+                            "link": "https://baike.sogou.com/v174939743.htm?ch=sogou.fanyi",
+                            "abstract": "CUTE是《初音未来·歌姬计划2》中的服装造型。",
+                            "wapPic": "",
+                            "pcPic": ""
+                        }
+                    ]
+                }
+            },
+            "book": {
+                "yingyinNormal": [
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/39e50807a5a1191398262e04787ff184_62485.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/7ab2a3f89b42c289e35e0b8d5de0b890_45470.mp3",
+                        "isLavafox": true,
+                        "en": "You know, you two make a <em>cute</em> couple.",
+                        "zh": "知道吗？你俩真是可爱的一对。",
+                        "videoNameZh": "《生活大爆炸 第一季》",
+                        "videoNameEn": "《The Big Bang Theory Season 1》",
+                        "url": "http://bisentence_movie.sogou.com/84209e06d4375a622bcc9f2728ba341d_ef455e0bfec94772e586e03a09707e01a273eb10"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/0ce3ba1d09aadca7b93fbf3633e423d4_26694.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/4ef37b4c7d2ee7073fca7ea0ee373270_8044.mp3",
+                        "isLavafox": true,
+                        "en": "It's not exactly a place for a <em>cute</em> little bunny.",
+                        "zh": "那地方可不适合可爱的小兔兔。",
+                        "videoNameZh": "《疯狂动物城》",
+                        "videoNameEn": "《Zootopia》",
+                        "url": "http://bisentence_movie.sogou.com/452448146e7a876b91a5f3b7ca80814b_8040ef3bc2411940bccca6e823d9b5ce772f5853"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/f5f16d3165593ebdb6d6ae8299e72880_33413.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/d2dac40ddf528bf7301a974186f7239c_10908.mp3",
+                        "isLavafox": true,
+                        "en": "Hey, you guys. Hey. Oh, don't you guys look <em>cute</em>. You guys make such a <em>cute</em> couple.",
+                        "zh": "你们好。你们好可爱，真是可爱的一对。",
+                        "videoNameZh": "《老友记 第六季》",
+                        "videoNameEn": "《Friends Season 6》",
+                        "url": "http://bisentence_movie.sogou.com/dbdcbea5faf5a4914ad85e20b0d25e5e_cdeceb2f44e5cf84e260f7369f3918df7504d3c8"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/dde03d29cdf9f1eb3170279dd5ad8ff2_46072.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/76481212c2313419402ee5e8464f9fb2_75232.mp3",
+                        "isLavafox": true,
+                        "en": "Ooh, tell her <em>cute</em> dress, Nanette Lepore, fall collection. Great. I'll open with <em>cute</em> dress.",
+                        "zh": "告诉她裙子很可爱，公主娜娜的秋装好极了。我就用\"可爱的裙子\"开场。",
+                        "videoNameZh": "《摩登家庭 第六季》",
+                        "videoNameEn": "《Modern Family Season 6》",
+                        "url": "http://bisentence_movie.sogou.com/b9120f8a1b82f5e390d58634ad544815_677d410d587e131b827cf1ca304e4efa1d18de2d"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/79cf900ee00a1a06b4169225ae5cd9e5_3961.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/cd0eb35bb685371aa75f03946b68dea3_46225.mp3",
+                        "isLavafox": true,
+                        "en": "Little Dennis is a year old now. Wow! Nice. Yeah. <em>Cute</em> kid.",
+                        "zh": "小丹尼斯现在一岁了，哇！很漂亮，是的，可爱的孩子。",
+                        "videoNameZh": "《精灵旅社2》",
+                        "videoNameEn": "《Hotel Transylvania 2》",
+                        "url": "http://bisentence_movie.sogou.com/7a133834fef374480065a543d30cf548_076be3105c32f997b588fb23d9afdb064bc744ad"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/886b76b0c552c22c57062be63cf27261_37722.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/7d411e857056da1df14583550ff81b29_35302.mp3",
+                        "isLavafox": true,
+                        "en": "You guys are gonna have so much fun. She's at such a <em>cute</em> age.",
+                        "zh": "你们会很开心的 她现在正是可爱的时候",
+                        "videoNameZh": "《老友记 第九季》",
+                        "videoNameEn": "《Friends Season 9》",
+                        "url": "http://bisentence_movie.sogou.com/0834587c7a863f39f78ab4336c210d96_1c33cdefb5a5da0b20703d862598dd02e0ad8e7f"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/ae9d6f2f04858f0af8517ff08116148e_6738.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/6c309a64dd3bcd9109889483a2251e9c_46699.mp3",
+                        "isLavafox": true,
+                        "en": "What about me? You're her <em>cute</em> friend. Please don't give up on me, college.",
+                        "zh": "那我呢？你是她可爱的朋友。拜托不要放弃我，大学。",
+                        "videoNameZh": "《女孩成长记 第三季》",
+                        "videoNameEn": "《Girl Meets World Season 3》",
+                        "url": "http://bisentence_movie.sogou.com/985c4da452377017e3eb614d53eea9d8_d299f143a7303815caa426ad3db1fcc8d1a8af56"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/dde03d29cdf9f1eb3170279dd5ad8ff2_46072.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/77caa6b7f8d78e3467df4954b1f8ddc3_57373.mp3",
+                        "isLavafox": true,
+                        "en": "Oh, hang on, hang on, getting a call from dad. Do the thing. Do the <em>cute</em> thing.",
+                        "zh": "等等，老爸打电话来了。快做，做那个可爱的动作。",
+                        "videoNameZh": "《摩登家庭 第六季》",
+                        "videoNameEn": "《Modern Family Season 6》",
+                        "url": "http://bisentence_movie.sogou.com/f55cab0d9fc3ff0bc6462dd9f6e92854_2bac0fd148b97cd18150b8085d45289248cb5a10"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/ae9d6f2f04858f0af8517ff08116148e_6738.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/aaa1b1fe0c5135bb67a20beb26c5b14c_57699.mp3",
+                        "isLavafox": true,
+                        "en": "Yeah. Lucas was our star in middle school. What were you? I was his <em>cute</em> friend.",
+                        "zh": "是啊，卢卡斯曾是我们初中的明星。那你呢？我是他可爱的朋友。",
+                        "videoNameZh": "《女孩成长记 第三季》",
+                        "videoNameEn": "《Girl Meets World Season 3》",
+                        "url": "http://bisentence_movie.sogou.com/4733cd322f7c80304eabff34743d0f4d_69913fca2ed2ba6d933c37b02b600e9d0bfab696"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/b5f65002ac40cc6dc4d60d02956d7985_30370.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/0c01713cfac1d9faf62e9424649e99cd_21558.mp3",
+                        "isLavafox": true,
+                        "en": "Skipper. You can't take away Private's <em>cute</em>ness. He's the <em>cute</em> one! That's his thing.",
+                        "zh": "老大！你不能夺走菜鸟的可爱！他是最可爱的，那是他天生的！",
+                        "videoNameZh": "《马达加斯加的企鹅》",
+                        "videoNameEn": "《Penguins of Madagascar》",
+                        "url": "http://bisentence_movie.sogou.com/a7eb0be319ac50fc09a25b2f36e9e277_b344acbe5eb5a4fae2fa2b10aec23741914826c1"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/c3652a60f61ce63a5e9067648ae2439c_44092.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/4ebf5912d4531563df8f413d544d7f9f_70862.mp3",
+                        "isLavafox": true,
+                        "en": "You know, I met a really <em>cute</em> girl at work. She's married to a guy in one of our drug trials.",
+                        "zh": "我工作时遇到了个可爱的女孩儿，她嫁给了我们那儿一位药品临床试验者。",
+                        "videoNameZh": "《生活大爆炸 第五季》",
+                        "videoNameEn": "《The Big Bang Theory Season 5》",
+                        "url": "http://bisentence_movie.sogou.com/88db342eefff16d8f1712b9e098e6f6e_476266a113be7cb46263a4cc1c65a198acba6399"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/3bccca9abe5ab96bd7f3eaed6bd40cf2_52899.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/45fba2585fb7feb6ca5b995b7e42d580_55643.mp3",
+                        "isLavafox": true,
+                        "en": "Oh wow. Why don't we just take me and put me with a Manhattan in my hand, talking to the <em>cute</em> bartender.",
+                        "zh": "为什么不给我一杯曼哈顿，让我和可爱的酒吧服务生聊天。",
+                        "videoNameZh": "《老友记 第七季》",
+                        "videoNameEn": "《Friends Season 7》",
+                        "url": "http://bisentence_movie.sogou.com/ea5cc08bfed92d10ab311b929e4929bb_daecd6a0e444224417ebcbe66b5feb297017f96d"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/65861602801590fdaf378b1d1c997a40_10433.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/ba18fc3964445eb6ff0704be64b18074_46839.mp3",
+                        "isLavafox": true,
+                        "en": "In that <em>cute</em>, little, sweet way she just did? Hey, it's a lot harder than it looks. Okay? She's hurting me.",
+                        "zh": "用她刚才那种可爱的方式？力道比表面上大多了，好吗？ 她把我打痛了。",
+                        "videoNameZh": "《老友记 第五季》",
+                        "videoNameEn": "《Friends Season 5》",
+                        "url": "http://bisentence_movie.sogou.com/c89cf96c1998375a7493ae7994a38766_4b77c33ba73c2cb12c762ab3105b471e0ac79abf"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/65861602801590fdaf378b1d1c997a40_10433.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/ce39cc3d89720922b9975ee6c96ec6ed_43367.mp3",
+                        "isLavafox": true,
+                        "en": "I mean it was so <em>cute</em>, it would sit in my lap and just purr all day long, and I would drag a shoestring on the ground and he would chase it.",
+                        "zh": "超可爱的，躺在我的膝盖上，整天满足地喵喵叫，我还会拿鞋带在地上拖，让它追着跑。",
+                        "videoNameZh": "《老友记 第五季》",
+                        "videoNameEn": "《Friends Season 5》",
+                        "url": "http://bisentence_movie.sogou.com/69e53c1512fd9facaef97949107e3cb8_11c2b7593fd90aff89021b2873cb5c43e43e8dab"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/81d3916a49503fc329256a1bf031d8ef_46973.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/937b6e062a1e5744b8b756823f196fd3_63143.mp3",
+                        "isLavafox": true,
+                        "en": "Look, it's for one pair of amazing Dries Van Noten silk brocade pants. Super <em>cute</em>. And, yes, it's a lot, but my investors will get something in return.",
+                        "zh": "拜托，这钱是用来买一条德赖斯·范诺顿家的织锦缎裤子，超级可爱的。是，钱是不少，但是给我投资的人会得到回报的。",
+                        "videoNameZh": "《破产姐妹 第三季》",
+                        "videoNameEn": "《2 Broke Girls Season 3》",
+                        "url": "http://bisentence_movie.sogou.com/773ea13060e13dfcf1c357c3838ead8f_6685f2ed7dfa63b35981929be9c4005f438a5280"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/8ebc69621c845dba3ee412feb5096db1_6534.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/b18e323c11162fd60d3e9b80e09cf695_49268.mp3",
+                        "isLavafox": true,
+                        "en": "Bec. Seven, fine, but only because there are three of them. Baby, And the thing is, I'm trying really hard to get us to a nine. Because they are <em>cute</em> kids, and they deserve nine parents.",
+                        "zh": "小贝……那就七分，但那只是因为我们有三个孩子。宝贝……问题是我拼命想达到九分的标准，因为这些可爱的孩子值得九分的父母。",
+                        "videoNameZh": "《我们这一天 第一季》",
+                        "videoNameEn": "《This Is Us Season 1》",
+                        "url": "http://bisentence_movie.sogou.com/b1c2111add9077b6665be72a2d417c69_05d90f00fa45172717380a81fd2819969a83bade"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/3cc7f04bc4e6bde5cc691b286df1a676_37630.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/2d7dfa6ca45001a0af8cfb271aeacbf8_17914.mp3",
+                        "isLavafox": true,
+                        "en": "Oh, look, twins. Hi, guys. Oh, <em>cute</em>, <em>cute</em>.",
+                        "zh": "看，是双胞胎，好可爱。",
+                        "videoNameZh": "《老友记第一季》",
+                        "videoNameEn": "《Friends Season 1》",
+                        "url": "http://bisentence_movie.sogou.com/058ca3df7558140b1e059507b6dc9872_630962d359384ea45fe7f0aa795f7ad510888b50"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/886b76b0c552c22c57062be63cf27261_37722.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/3ce1293c5a5e57e9508afaaad1881832_22392.mp3",
+                        "isLavafox": true,
+                        "en": "Yeah, she's not so <em>cute</em>.",
+                        "zh": "是啊，她不太可爱。",
+                        "videoNameZh": "《老友记 第九季》",
+                        "videoNameEn": "《Friends Season 9》",
+                        "url": "http://bisentence_movie.sogou.com/ab7766d3a9df8c58a0b67e247a18fbf9_9ed77ca73b789314318815e8980724ead6f01a3f"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/f5f16d3165593ebdb6d6ae8299e72880_33413.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/7389441976a5f35bbe219281e177c851_21156.mp3",
+                        "isLavafox": true,
+                        "en": "No, I just thought it was <em>cute</em>.",
+                        "zh": "不是，我只是觉得很可爱。",
+                        "videoNameZh": "《老友记 第六季》",
+                        "videoNameEn": "《Friends Season 6》",
+                        "url": "http://bisentence_movie.sogou.com/1a016083c3b457e7a40d08977fcccdaa_3f0cf864223dd5a537285f5c180a9cda8d458a1f"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/8f914d68a5719517c29ee4735d44fec0_63512.png",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/96ef6259b6a700affb68857037df8ecf_13818.mp3",
+                        "isLavafox": true,
+                        "en": "They are so ugly, they are <em>cute</em>!",
+                        "zh": "蠢萌蠢萌的！",
+                        "videoNameZh": "《疯狂外星人》",
+                        "videoNameEn": "《Home》",
+                        "url": "http://bisentence_movie.sogou.com/5abd3ca858f2d02cf1ef6cc746cf7131_5b107f1016f53ed00a6d3bd5963e93fc2ac7e0ab"
+                    }
+                ]
+            },
+            "pic": "",
+            "voice": {
+                "phonetic": [
+                    {
+                        "text": "kjuːt",
+                        "type": "uk",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/9020_cute_uk.mp3"
+                    },
+                    {
+                        "text": "kjuːt",
+                        "type": "usa",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/9020_cute_usa.mp3"
+                    }
+                ]
+            },
+            "dictType": "oxford_buchong",
+            "CET6": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 2,
+                        "pos": "adj",
+                        "chinese": "可爱的",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "cute",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2016.6-2023.6年8年间全六级试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight>考纲释义</highlight>\n精选实考、考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2016-2023年51套试卷，包括阅读、听力、翻译等所有题型。\n\n<highlight>真题例句</highlight>\n精选2016-2023年8年间全六级试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 1,
+                "total_exam_freq": 2,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "synonyms": "",
+                            "en": "attractive or pretty especially in a childish, youthful, or delicate way",
+                            "zh": "可爱的",
+                            "pos": "adj",
+                            "antonyms": ""
+                        }
+                    ]
+                },
+                "exchange_info": {
+                    "word_er": [
+                        "cuter"
+                    ],
+                    "word_est": [
+                        "cutest"
+                    ]
+                }
+            },
+            "CET4": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 1,
+                        "pos": "adj",
+                        "chinese": "可爱的",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "cute",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2016.6-2023.6年8年间全四级试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight>考纲释义</highlight>\n精选实考、考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2016-2023年51套试卷，包括阅读、听力、翻译等所有题型。\n\n<highlight>真题例句</highlight>\n精选2016-2023年8年间试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 1,
+                "total_exam_freq": 1,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "attractive or pretty especially in a childish; youthful; or delicate way",
+                            "zh": "可爱的",
+                            "pos": "adj",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "She was so <highlight>cute</highlight>.",
+                                    "month": 6,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "她太可爱了。",
+                                    "year": 2018,
+                                    "type": "听力",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "exchange_info": {
+                    "word_er": [
+                        "cuter"
+                    ],
+                    "word_est": [
+                        "cutest"
+                    ]
+                }
+            },
+            "gaokao": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 1,
+                        "pos": "adj",
+                        "chinese": "可爱的; 逗人喜爱的",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "cute",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2015-2022年8年间全国卷和自主命题省市高考卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2015-2022年全国卷高考试卷，包括阅读、完形、单选、填空、听力、改错、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选各省市考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2015-2022年8年间全国卷和自主命题省市高考卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 1,
+                "total_exam_freq": 1,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "可爱的; 逗人喜爱的",
+                            "pos": "adj",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "Humor makes average-looking people look <highlight>cute</highlight> and uninteresting people seem entertaining.",
+                                    "month": -1,
+                                    "source": "江苏卷",
+                                    "coll": "",
+                                    "sentence_trans": "幽默使相貌平平的人看起来很可爱，使无趣的人看起来很有娱乐性。",
+                                    "year": 2020,
+                                    "type": "任务型阅读",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            "zhongkao": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 27,
+                        "pos": "adj",
+                        "chinese": "可爱的",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "cute",
+                "direction_info": {
+                    "ranges": 4,
+                    "description": "数据源自2018-2021年4年间全国各省市中考试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2018-2021年全国重点省市中考试卷，包括听力、阅读、完形、单选、填空、改错、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选各省市考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2018-2021年4年间全国各省市中考试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 5,
+                "total_exam_freq": 27,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "attractive or pretty especially in a childish, youthful, or delicate way",
+                            "zh": "可爱的",
+                            "pos": "adj",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "The cat in the photo is so <highlight>cute</highlight>.",
+                                    "month": -1,
+                                    "source": "哈尔滨市卷",
+                                    "coll": "",
+                                    "sentence_trans": "照片里的猫好可爱。",
+                                    "year": 2020,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Also, many parents think their little daughter looks <highlight>cute</highlight> in pink.",
+                                    "month": -1,
+                                    "source": "杭州市卷",
+                                    "coll": "",
+                                    "sentence_trans": "还有，很多父母觉得他们的小女儿穿粉色看起来很可爱。",
+                                    "year": 2019,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "The dog is as <highlight>cute</highlight> as the cat.",
+                                    "month": -1,
+                                    "source": "福建省卷",
+                                    "coll": "",
+                                    "sentence_trans": "这只狗和这只猫一样可爱。",
+                                    "year": 2018,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "word_usage": [
+                    {
+                        "usage": "cute多用于形容小女孩或动物等漂亮、可爱。\n如：I think pandas are very cute.\n我觉得熊猫非常可爱。"
+                    }
+                ]
+            },
+            "sentencesData": {
+                "status": 1,
+                "info": "notZh2En",
+                "data": {}
+            },
+            "isAutoMatch": false,
+            "Zh2En": false
+        },
+        "query": "cute",
+        "result": "漂亮的",
+        "tabSelect": "detail",
+        "dictionaryType": "oxford_buchong",
+        "notFound_show": false,
+        "phoneticShow": "",
+        "globalShowTranslateRecord": "",
+        "pronPrefer": {
+            "type": "usa_1",
+            "speaker": "male",
+            "speed": "standard"
+        },
+        "ServerRecord": "",
+        "ServerUIGS": {
+            "version": "new",
+            "type": "all",
+            "stype": "success",
+            "terminal": "web",
+            "fr": "default",
+            "direction": "etoz",
+            "from": "en",
+            "to": "zh-CHS",
+            "len": 4,
+            "qtype": "text",
+            "qctype": "qc_1",
+            "dict_cover": 1,
+            "detail": 1,
+            "wordCardCover": 1,
+            "wordCardEn": 1,
+            "wordCardCh": 0,
+            "wordCardMinor": 0,
+            "wordCardNetmean": 0,
+            "wordDeform": 1,
+            "keyword": 0,
+            "bilingual": 1,
+            "simple": 0,
+            "levelList": 1,
+            "synonym": 1,
+            "antonym": 0,
+            "conjugate": 1,
+            "rootaffix": 0,
+            "baike_sogou": 1,
+            "baike_wiki": 0,
+            "wordDifference": 0,
+            "word_phrase": 1,
+            "secondQuery": 0,
+            "dict_oxford": 0,
+            "dict_newcentury": 0,
+            "zhongkaotab": 1,
+            "gaokaotab": 1,
+            "CET4tab": 1,
+            "CET6tab": 1,
+            "kaoyantab": 0,
+            "network_tab": 0,
+            "yinying_tab": 1,
+            "tuozhan_tab": 0,
+            "one_pic": 0,
+            "more_pic": 0,
+            "no_pic": 0,
+            "uuid": "ed683694-de84-4b87-86f1-de4e519e3e0d",
+            "from_type": 0,
+            "t_trans_ssr": 144
+        },
+        "ServerModelUIGS": {
+            "terminal": "web",
+            "type": "trans_model",
+            "pbtype": "pv",
+            "model_general": 1,
+            "model_medical": 1,
+            "model_finance": 1
+        },
+        "ServerSgtkn": "65892346C61D70DAD2D4FA10DAF33DA1D227AEFC67558B30",
+        "suggShow": false,
+        "suggestion": "",
+        "suggDirection": "",
+        "usualTop": "",
+        "baseDict": "",
+        "wordCardClick": false,
+        "isFrInput": false,
+        "kanaTips": {
+            "show": false,
+            "left": "",
+            "top": "",
+            "type": "",
+            "arrowLeft": ""
+        },
+        "currSentenceIndex": -1,
+        "prefixStrObj": {
+            "prefixStr": "",
+            "oriPrefixStr": ""
+        },
+        "selectTransBox": {
+            "show": false,
+            "right": 0,
+            "top": 0,
+            "paraphraseInfo": {
+                "word": "",
+                "from": "",
+                "to": "",
+                "area": ""
+            }
+        },
+        "sentenceLoading": false,
+        "newSentenceInfo": {
+            "sentence": "",
+            "candidateIndex": 0
+        },
+        "moreTipInfo": {
+            "opacity": 0,
+            "zIndex": -1
+        },
+        "paraphraseShowInfo": {
+            "card": 0,
+            "query": "",
+            "card_dict": 0
+        },
+        "selectType": "",
+        "wordPos": 0,
+        "candidateWord": "",
+        "syntaxVisible": false,
+        "syntaxStatus": 0
+    },
+    "language": {
+        "from": "auto",
+        "to": "zh-CHS",
+        "detect": "en",
+        "model": "general",
+        "detectShow": false,
+        "langMap": {
+            "current": ""
+        },
+        "zh2en": false,
+        "fromItemList": [
+            {
+                "lang": "auto",
+                "text": "自动检测",
+                "play": false
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "vi",
+                "text": "越南语",
+                "play": true,
+                "abbr": "越"
+            },
+            {
+                "lang": "pt",
+                "text": "葡萄牙语",
+                "play": true,
+                "abbr": "葡"
+            },
+            {
+                "lang": "th",
+                "text": "泰语",
+                "play": true,
+                "abbr": "泰"
+            }
+        ],
+        "toItemList": [
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "tr",
+                "text": "土耳其语",
+                "play": false,
+                "abbr": "土"
+            },
+            {
+                "lang": "ko",
+                "text": "韩语",
+                "play": true,
+                "abbr": "韩"
+            },
+            {
+                "lang": "vi",
+                "text": "越南语",
+                "play": true,
+                "abbr": "越"
+            }
+        ]
+    },
+    "voice": {
+        "from": {
+            "lang": "en",
+            "type": "from",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22cute%22%2C%22spokenDialect%22%3A%22en%22%2C%22rate%22%3A%220.8%22%7D",
+            "list": [
+                {
+                    "type": "uk_0",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "kjuːt",
+                    "abbr": "英",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/9020_cute_uk.mp3"
+                },
+                {
+                    "type": "usa_1",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "kjuːt",
+                    "abbr": "美",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/9020_cute_usa.mp3"
+                }
+            ],
+            "stype": "phonetic",
+            "phoneticShow": [
+                {
+                    "text": "kjuːt",
+                    "type": "uk",
+                    "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/9020_cute_uk.mp3"
+                }
+            ]
+        },
+        "to": {
+            "lang": "zh",
+            "type": "to",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22%E6%BC%82%E4%BA%AE%E7%9A%84%22%2C%22spokenDialect%22%3A%22zh-CHS%22%2C%22rate%22%3A%220.8%22%7D",
+            "stype": "normal"
+        }
+    }
+}
