@@ -1,0 +1,2277 @@
+{
+    "route": {
+        "name": "text",
+        "path": "/text",
+        "hash": "",
+        "query": {
+            "keyword": "life",
+            "transfrom": "auto",
+            "transto": "zh-CHS",
+            "model": "general",
+            "errcode": "s10"
+        },
+        "params": {},
+        "fullPath": "/text?keyword=life&transfrom=auto&transto=zh-CHS&model=general&errcode=s10",
+        "meta": {
+            "mtype": [
+                "textTranslate",
+                "language",
+                "voice"
+            ]
+        },
+        "from": {
+            "name": null,
+            "path": "/",
+            "hash": "",
+            "query": {},
+            "params": {},
+            "fullPath": "/",
+            "meta": {}
+        }
+    },
+    "common": {
+        "CONFIG": {
+            "wuid": 1733627945591,
+            "loginInfo": {},
+            "isIE": 0,
+            "isHitSsrSwitch": true,
+            "isHitWritebookSwitch": false,
+            "isHitAmsSwitch": true,
+            "promotionList": "{\n    \"pc_bottom\":{\n        \"imgsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\",\n        \"qcsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\"\n    },\n    \"pc_middle\":[\n        {\n            \"src\":\"//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c\",\n            \"bgColor\":\"#ffffff\",\n            \"link\":\"\"\n        }\n    ],\n    \"pc_survey\":{\n        \"icon\":\"//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750\",\n        \"link\":\"https://wj.qq.com/s2/8193148/806d/\"\n    }\n}",
+            "bannerData": [],
+            "isHitAsideSurvey": false,
+            "secretCode": 109984457,
+            "uuid": "18b0eb04-71fa-4c7d-a8b7-94a07537fd8a",
+            "referer": "",
+            "approveToken": "64D9ABD9A844B21B101638A9A5CFB4D1115A807067551029",
+            "loadTime": 1733627945593,
+            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0",
+            "fcp": "183.36.74.79",
+            "temporaryId": "",
+            "fileId": ""
+        },
+        "hotWords": [],
+        "isFromCollect": false,
+        "psdModify": {
+            "currentStep": 1,
+            "scode": "",
+            "username": ""
+        },
+        "loginStatus": true,
+        "feedBackModule": false,
+        "showPromotionPopup": {
+            "show": false,
+            "type": ""
+        },
+        "showPromotionPCDownload": false,
+        "showShareBomb": false,
+        "shareData": null,
+        "showAppDownLoad": false,
+        "showLoginDialog": false,
+        "showLoading": {
+            "show": false
+        },
+        "toast": {
+            "show": false,
+            "text": "",
+            "loading": false
+        },
+        "modelToast": {
+            "show": false,
+            "text": ""
+        },
+        "selectionGlobalShow": true,
+        "selectionInfo": {
+            "left": 0,
+            "top": 0,
+            "show": false,
+            "from": "",
+            "to": "",
+            "val": "",
+            "area": ""
+        },
+        "showConfirmDialog": false,
+        "promotionList": {
+            "pc_bottom": {
+                "imgsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png",
+                "qcsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png"
+            },
+            "pc_middle": [
+                {
+                    "src": "//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c",
+                    "bgColor": "#ffffff",
+                    "link": ""
+                }
+            ],
+            "pc_survey": {
+                "icon": "//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750",
+                "link": "https://wj.qq.com/s2/8193148/806d/"
+            }
+        },
+        "transTypeTxt": "text",
+        "fixedTabStatus": 0,
+        "bodyTop": 0,
+        "ifHideUserOperation": false
+    },
+    "textTranslate": {
+        "prevTransQuery": "",
+        "translateData": {
+            "translate": {
+                "zly": "zly",
+                "errorCode": "0",
+                "qc_type": "1",
+                "index": "content0",
+                "from": "en",
+                "source": "sogou",
+                "text": "life",
+                "to": "zh-CHS",
+                "id": "18b0eb04-71fa-4c7d-a8b7-94a07537fd8a",
+                "dit": "生活",
+                "orig_text": "life",
+                "md5": ""
+            },
+            "detect": {
+                "zly": "zly",
+                "detect": "en",
+                "errorCode": "0",
+                "language": "英语",
+                "id": "2e3472d0-b513-11ef-871a-9112a61cee9e",
+                "text": "life"
+            },
+            "sgtkn": "64D9ABDCA844B21B101638A9A5CFB4D1115A807067551029",
+            "wordCard": {
+                "title": "life",
+                "show": true,
+                "usualDict": [
+                    {
+                        "values": [
+                            "生活；生命；性命；人命；存在；一生；寿命；生物；活物；活力；精力；生气；生机；生活方式；生活状况；人生经历；人生阶段；写实艺术；实物；实景；无期徒刑；终身监禁；（物的）使用期；有效期"
+                        ],
+                        "pos": "n."
+                    },
+                    {
+                        "values": [
+                            "一生的；生命的；生物的；照实物画的；人寿保险的"
+                        ],
+                        "pos": "adj."
+                    }
+                ],
+                "secondQuery": "",
+                "exchange": {
+                    "word_pl": [
+                        "lives"
+                    ]
+                },
+                "levelList": [
+                    "小学",
+                    "初中",
+                    "高中",
+                    "四级",
+                    "六级",
+                    "考研"
+                ]
+            },
+            "detail": {
+                "synonym": [
+                    {
+                        "word_list": [
+                            "existence",
+                            "living",
+                            "age",
+                            "livelihood",
+                            "subsistence"
+                        ],
+                        "pos": "n.",
+                        "mean": "生活，生存；寿命"
+                    }
+                ],
+                "wordRootInfo": {
+                    "word_info_list": [
+                        {
+                            "word": "lifeless",
+                            "pos_mean_info_list": [
+                                {
+                                    "pos": "adj.",
+                                    "mean": "无生命的；死气沉沉的；无趣味的"
+                                }
+                            ]
+                        },
+                        {
+                            "word": "lifelike",
+                            "pos_mean_info_list": [
+                                {
+                                    "pos": "adj.",
+                                    "mean": "栩栩如生的；逼真的"
+                                }
+                            ]
+                        },
+                        {
+                            "word": "lifelessly",
+                            "pos_mean_info_list": [
+                                {
+                                    "pos": "adv.",
+                                    "mean": "无生命地"
+                                }
+                            ]
+                        },
+                        {
+                            "word": "lifelessness",
+                            "pos_mean_info_list": [
+                                {
+                                    "pos": "n.",
+                                    "mean": "枯燥无味）；无生命（死"
+                                }
+                            ]
+                        }
+                    ],
+                    "root_word": "life"
+                },
+                "word_difference_info": [],
+                "word_group": [
+                    {
+                        "brief_definition": "使复活；起死回生",
+                        "phrase": "bring back to life",
+                        "pos": "phr."
+                    },
+                    {
+                        "brief_definition": "日常生活",
+                        "phrase": "daily life",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "寿命, 有效期, 使用期限",
+                        "phrase": "life span",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "挽救某人的性命",
+                        "phrase": "save one's life",
+                        "pos": "phr."
+                    },
+                    {
+                        "brief_definition": "生活",
+                        "phrase": "live a life",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "社会生活；社会生命；社交生活",
+                        "phrase": "social life",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "成人生活；成年生活；成年人生活",
+                        "phrase": "adult life",
+                        "pos": "phr."
+                    },
+                    {
+                        "brief_definition": "预期寿命",
+                        "phrase": "life expectancy",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "健康的生活方式",
+                        "phrase": "healthy life style",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "享受生活；享受人生",
+                        "phrase": "enjoy life",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "日常生活；每天生活；每天日常生活",
+                        "phrase": "everyday life",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "个人生活；个人生命；私人生活",
+                        "phrase": "personal life",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "人类生活；人的生命；人体生命",
+                        "phrase": "human life",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "带来起色；注入活力",
+                        "phrase": "breathe new life into sth",
+                        "pos": "idm."
+                    },
+                    {
+                        "brief_definition": "现实生活；实际生活",
+                        "phrase": "real life",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "享受生活",
+                        "phrase": "enjoy one's life",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "生活风格；生活方式；生活作风",
+                        "phrase": "life style",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "丧生",
+                        "phrase": "lose one's life",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "低碳生活",
+                        "phrase": "low-carbon life",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "现代生活",
+                        "phrase": "modern life",
+                        "pos": ""
+                    }
+                ],
+                "bilingual": [
+                    {
+                        "source": "That is what <em>life</em> means and what <em>life</em> is for.",
+                        "target": "这就是生活的意义和目的。",
+                        "url": ""
+                    },
+                    {
+                        "source": "<em>Life</em> is like a dream.",
+                        "target": "生活就像一场梦。",
+                        "url": ""
+                    },
+                    {
+                        "source": "A <em>life</em> without friends is a <em>life</em> without the sun.",
+                        "target": "没有朋友的生活就像没有阳光。",
+                        "url": ""
+                    },
+                    {
+                        "source": "He has a very healthy <em>life</em>.",
+                        "target": "他生活很健康。",
+                        "url": ""
+                    },
+                    {
+                        "source": "This is my school <em>life</em>.",
+                        "target": "这就是我的学校生活。",
+                        "url": ""
+                    },
+                    {
+                        "source": "She is content with her <em>life</em>.",
+                        "target": "她对生活很满意。",
+                        "url": ""
+                    },
+                    {
+                        "source": "I have a very healthy <em>life</em>.",
+                        "target": "我的生活非常健康。",
+                        "url": ""
+                    },
+                    {
+                        "source": "We will change your <em>life</em>!",
+                        "target": "我们将改变你的生活！",
+                        "url": ""
+                    },
+                    {
+                        "source": "Move forward with your <em>life</em>.",
+                        "target": "向前迈进你的生活。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Dressing is a way of <em>life</em>.",
+                        "target": "穿衣是一种生活方式。",
+                        "url": ""
+                    }
+                ],
+                "baike": {
+                    "showMore": true,
+                    "list": [
+                        {
+                            "lemmaTitle": "life",
+                            "link": "https://baike.sogou.com/v191479.htm?ch=sogou.fanyi",
+                            "abstract": "life，英文单词，名词，释义为生活，生命；性命。",
+                            "wapPic": "",
+                            "pcPic": ""
+                        },
+                        {
+                            "lemmaTitle": "金玎玟",
+                            "link": "https://baike.sogou.com/v184188984.htm?ch=sogou.fanyi",
+                            "abstract": "金玎玟（Kim Jeong-min、김정민，2000年7月7日-），游戏ID：Life，韩国《英雄联盟》电竞选手，现效力于FPX电子竞技俱乐部《英雄联盟》分部，司职辅助。 2020年8月，随Gen.G收获2020LCK夏季赛季军；10月31日，金玎玟随Gen.G获得S11英雄联盟全球总决赛四强。 2024年1月19日，FPX官宣2024lpl春季赛大名单：金玎玟担任辅助。",
+                            "wapPic": "//img01.sogoucdn.com/v2/thumb/retype_exclude_gif/ext/auto/q/80/crop/xy/ai/w/140/h/140/resize/w/140?appid=201005&sign=86867de616e10273f2ff19549d5019d7&url=https%3A%2F%2Fpic.baike.soso.com%2Fugc%2Fbaikepic2%2F0%2F20240507201112-82596501_png_557_843_700774.jpg%2F0",
+                            "pcPic": "//img03.sogoucdn.com/v2/thumb/retype_exclude_gif/ext/auto/q/80/crop/xy/ai/w/140/h/140/resize/w/140?appid=201005&sign=86867de616e10273f2ff19549d5019d7&url=https%3A%2F%2Fpic.baike.soso.com%2Fugc%2Fbaikepic2%2F0%2F20240507201112-82596501_png_557_843_700774.jpg%2F0"
+                        }
+                    ]
+                }
+            },
+            "book": {
+                "yingyinNormal": [
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/801dfe77494721a1ea27b2da97ba5878_52038.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/ff7274dc30a5abacc10bf505c5bd1cdf_18967.mp3",
+                        "isLavafox": true,
+                        "en": "With <em>LIFE</em>'s motto on it.",
+                        "zh": "上面有生活周刊的座右铭。",
+                        "videoNameZh": "《白日梦想家》",
+                        "videoNameEn": "《The Secret Life of Walter Mitty》",
+                        "url": "http://bisentence_movie.sogou.com/22a229213b5e030795ae009add8f2cd9_bb6b00b71548b65059d5b44ad3daf12b9f526bc9"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/8ef70835eb0d9663ca2d26c2a78b067d_46174.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/379d0dbb94936518c0a57dd368e74b4b_4085.mp3",
+                        "isLavafox": true,
+                        "en": "You and me. We ruined her <em>life</em>.",
+                        "zh": "你和我，我们毁了她的生活",
+                        "videoNameZh": "《妮基塔 第四季》",
+                        "videoNameEn": "《Nikita Season 4》",
+                        "url": "http://bisentence_movie.sogou.com/02f22a851a4e86e40452939adee76be6_34b943badf527ba32b02dbd83e045d7f1264592a"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/801dfe77494721a1ea27b2da97ba5878_52038.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/10527e8f1b8878371aacf03786ea4ad7_19459.mp3",
+                        "isLavafox": true,
+                        "en": "We can still build a <em>life</em> together.",
+                        "zh": "我们仍然可以一起生活。",
+                        "videoNameZh": "《白日梦想家》",
+                        "videoNameEn": "《The Secret Life of Walter Mitty》",
+                        "url": "http://bisentence_movie.sogou.com/bc6e042cd44386d761e9d7e56a64d841_5e4f940e7012223bef63321954549494f3195dde"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/3cc7f04bc4e6bde5cc691b286df1a676_37630.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/2776cb517f884d415b9ef75cf620c170_1535.mp3",
+                        "isLavafox": true,
+                        "en": "This woman's living my <em>life</em>. What?",
+                        "zh": "这女人过着我的生活。什么？",
+                        "videoNameZh": "《老友记第一季》",
+                        "videoNameEn": "《Friends Season 1》",
+                        "url": "http://bisentence_movie.sogou.com/9ca7eeafab1587856ec0056b1aa96317_f635c0fde19637f5d354f415efc0e604437986a9"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/6f0d696675593d9f503fb1f80b15fc44_60104.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/b9085915f3ea5cd056182f57c7efddfb_7947.mp3",
+                        "isLavafox": true,
+                        "en": "Do you like <em>life</em>, sweetheart? Yes.",
+                        "zh": "你热爱生活么，宝贝？是的。",
+                        "videoNameZh": "《这个杀手不太冷》",
+                        "videoNameEn": "《Léon》",
+                        "url": "http://bisentence_movie.sogou.com/7f380c2e42f415f070cfbd9a6c9556f7_e4c29032041d8950cd5d9b9bcbaa6305f185e617"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/345831827db23c6dca86447206da99f3_25724.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/9450499119a5824e866d34ff0c5f6de6_40801.mp3",
+                        "isLavafox": true,
+                        "en": "It's your real <em>life</em>. It can't be.",
+                        "zh": "这就是你的现实生活。不可能的。",
+                        "videoNameZh": "《女孩成长记 第二季》",
+                        "videoNameEn": "《Girl Meets World Season 2》",
+                        "url": "http://bisentence_movie.sogou.com/08c1d52aae3d21efeb91a54f86aaa570_1d70cdd480bd505c55760a7cf3e43c280350294c"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/46b4115557598e1ee93285923c5dd556_29528.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/c5553ec1e1f6aa031ceb38424a4ae585_66394.mp3",
+                        "isLavafox": true,
+                        "en": "So here is what happened in daily <em>life</em>.",
+                        "zh": "下面是日常生活中发生的。",
+                        "videoNameZh": "《怪诞行为学》",
+                        "videoNameEn": "《Predictably Irrational》",
+                        "url": "http://bisentence_movie.sogou.com/3a268150d88ab9165a758a44fb1d8f39_9acff9184ac1ff191df5576b77cb7b5a1bdbe6ca"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/2f39b847e851235c7d0660e2f362566f_8474.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/fce3e96a099894a796e0064e927a8ed2_28193.mp3",
+                        "isLavafox": true,
+                        "en": "Manna from heaven. Sweet nectar of <em>life</em>!",
+                        "zh": "上天的赏赐，生活的甜露!",
+                        "videoNameZh": "《海底总动员》",
+                        "videoNameEn": "《Finding Nemo》",
+                        "url": "http://bisentence_movie.sogou.com/fd47978e06e44a7c3431876d143d1a91_721ec753625867b73b86c6d49a8e134e92f9fda0"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/2b691cbbc68f38da3e9c04c368f545b3_2546.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/ab0eb6dd29d53841420f0848817730ce_60356.mp3",
+                        "isLavafox": true,
+                        "en": "<em>Life</em> is a series of colossal mistakes.",
+                        "zh": "生活就是一连串这样的错误。",
+                        "videoNameZh": "《如晴天，似雨天》",
+                        "videoNameEn": "《Like Sunday, Like Rain》",
+                        "url": "http://bisentence_movie.sogou.com/42ef47f28bcaf09a05a74decc09b557e_825d6887c885fd17ff815eaf477b933c16d8c42a"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/83bcab8039fa5140ba0e29ca21fce0eb_17113.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/ad942de801dae37be777ff8fda819cba_34941.mp3",
+                        "isLavafox": true,
+                        "en": "Wow. Your <em>life</em>'s even duller than mine.",
+                        "zh": "你的生活竟然比我的还无聊。",
+                        "videoNameZh": "《遇见你之前》",
+                        "videoNameEn": "《Me before you》",
+                        "url": "http://bisentence_movie.sogou.com/8d4838dc5a3d908f17e6c5979b69b4b3_11aad0034066379627175cb6dcf4bb5101e8ba22"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/69e52acd9e09b6a2ed378507a165e971_14638.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/45c37a1894817ed07afd22e3687ade09_57639.mp3",
+                        "isLavafox": true,
+                        "en": "Easier? You've made his <em>life</em> impossible.",
+                        "zh": "轻松？你让他的生活糟透了。",
+                        "videoNameZh": "《绯闻女孩 第一季》",
+                        "videoNameEn": "《Gossip Girl Season 1》",
+                        "url": "http://bisentence_movie.sogou.com/e0678917bc2b88e83d67ac3a6eb0cfc8_02ea44c83f343eac619a33d6778be62aad223b93"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/649fb0da5e02febcad57f332efe07876_46469.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/cd0474593770c08d6a6d8d79ecb18674_5242.mp3",
+                        "isLavafox": true,
+                        "en": "I mean this is like reading about my own <em>life</em>.",
+                        "zh": "这就像是读我自己的生活。",
+                        "videoNameZh": "《老友记 第二季》",
+                        "videoNameEn": "《Friends Season 2》",
+                        "url": "http://bisentence_movie.sogou.com/40352158d8e43adac2ffac51ade33782_ebeed7211ef76db43310bb5d5589bb4a62ed16e1"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/308599783f7d199e32488196c011e97b_50044.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/7ad786dfd27baf8a91efdc645958d36f_26226.mp3",
+                        "isLavafox": true,
+                        "en": "You said you were gonna leave this <em>life</em> behind.",
+                        "zh": "你说过要告别过去那种生活。",
+                        "videoNameZh": "《速度与激情6》",
+                        "videoNameEn": "《Fast and Furious 6》",
+                        "url": "http://bisentence_movie.sogou.com/999d67bc9bf6c1468eed25f764869649_7576ee83bebd796510d28cbe0f0f407ef5dcf07e"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/308599783f7d199e32488196c011e97b_50044.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/7bfca47fb420794a9cb239dbae247828_41660.mp3",
+                        "isLavafox": true,
+                        "en": "How's the <em>life</em> of the retired international criminal?",
+                        "zh": "国际罪犯的退休生活怎样？",
+                        "videoNameZh": "《速度与激情6》",
+                        "videoNameEn": "《Fast and Furious 6》",
+                        "url": "http://bisentence_movie.sogou.com/68074f299bfd1047d970054ae5ae55aa_15b38ad748696172c90f9b6b38dbdc9a1011e3a9"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/82dcb4b353ca13d16949f6578b53771d_14776.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/8996fed9e38510ff5cbe81f729bfe02e_19661.mp3",
+                        "isLavafox": true,
+                        "en": "Guess what, Gus. This is your <em>life</em>, okay?",
+                        "zh": "可是呢，古斯，这才是你的生活，好吗？",
+                        "videoNameZh": "《星运里的错》",
+                        "videoNameEn": "《The Fault in Our Stars》",
+                        "url": "http://bisentence_movie.sogou.com/b98f7cdd6ada6b9fa449b75e3087737b_c688b02c23768cdeba790b3763a29862a75ae4e6"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/ae9d6f2f04858f0af8517ff08116148e_6738.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/9c39c98205b36c265135d949a304287f_50031.mp3",
+                        "isLavafox": true,
+                        "en": "Cory Matthews messed up my <em>life</em>. Yuh oh.",
+                        "zh": "科瑞·马修斯把我的生活都搞砸了。是哟。",
+                        "videoNameZh": "《女孩成长记 第三季》",
+                        "videoNameEn": "《Girl Meets World Season 3》",
+                        "url": "http://bisentence_movie.sogou.com/8b5d572fc9351de7ccfa99b8be158dac_27da391384138b1c725c6258f08245e5669e7bef"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/7527e2a9ec38f59ad126037938e4289c_52101.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/970fb8955a54e894812551c0b3faadd2_30840.mp3",
+                        "isLavafox": true,
+                        "en": "You can't do this. You're gonna ruin his <em>life</em>.",
+                        "zh": "你不能那么做，你会毁了他的生活。",
+                        "videoNameZh": "《老友记 第八季》",
+                        "videoNameEn": "《Friends Season 8》",
+                        "url": "http://bisentence_movie.sogou.com/2e73553da66b7c170ef6a7b8a493ca15_b0470d8b9fb3d4d4077c5eb2a5c78e1346da6fe0"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/2fc568581b153aece2290fc09ef18467_13355.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/61d44a872ab0858529a9dbdbc0892222_40737.mp3",
+                        "isLavafox": true,
+                        "en": "The simple <em>life</em>. You'll get there one day.",
+                        "zh": "简朴的生活。总有一天，你也会如愿的。",
+                        "videoNameZh": "《复仇者联盟2：奥创纪元》",
+                        "videoNameEn": "《Avengers: Age of Ultron》",
+                        "url": "http://bisentence_movie.sogou.com/da13908b51e26daa698d8954352b9bdb_c534fc769d5ffe9c95f9a126075ab927e0dff104"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/ec157b0b25b8b35a32470033c8b04071_55002.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/ef9655ac5ebeb2a8a11f0d68291f91d1_23764.mp3",
+                        "isLavafox": true,
+                        "en": "I'll be happy here for the rest of my <em>life</em>.",
+                        "zh": "我以后都在这生活，我一定会很快活的。",
+                        "videoNameZh": "《沉睡魔咒》",
+                        "videoNameEn": "《Maleficent》",
+                        "url": "http://bisentence_movie.sogou.com/1d69aca1f4cdda0e5042f5f7dbadae33_2ded3c91cf9c47c6f6c7658aa2142c60a6502ee7"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/65861602801590fdaf378b1d1c997a40_10433.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/a2d2b655318b55d4ce297c2fea64d4bb_1187.mp3",
+                        "isLavafox": true,
+                        "en": "It's real <em>life</em>, okay? It's what grown-ups do.",
+                        "zh": "婚姻是真实生活，婚姻只适合成年人。",
+                        "videoNameZh": "《老友记 第五季》",
+                        "videoNameEn": "《Friends Season 5》",
+                        "url": "http://bisentence_movie.sogou.com/d93fba2e75b40c300222727b916c0c97_42b3a91e453aac4084bced9aeb3b01ca106918d5"
+                    }
+                ]
+            },
+            "pic": "",
+            "voice": {
+                "phonetic": [
+                    {
+                        "text": "laɪf",
+                        "type": "uk",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/80001_life_uk.mp3"
+                    },
+                    {
+                        "text": "laɪf",
+                        "type": "usa",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/210_life_usa.mp3"
+                    }
+                ]
+            },
+            "dictType": "oxford_buchong",
+            "kaoyan": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 92,
+                        "pos": "n",
+                        "chinese": "生活; 个人经历",
+                        "sense_tier_ratio": 82.14
+                    },
+                    {
+                        "sense_tier": 8,
+                        "pos": "n",
+                        "chinese": "生命; 活力",
+                        "sense_tier_ratio": 7.14
+                    },
+                    {
+                        "sense_tier": 8,
+                        "pos": "n",
+                        "chinese": "一生; 寿命",
+                        "sense_tier_ratio": 7.14
+                    },
+                    {
+                        "sense_tier": 3,
+                        "pos": "n",
+                        "chinese": "生物; 生命",
+                        "sense_tier_ratio": 2.68
+                    },
+                    {
+                        "sense_tier": 1,
+                        "pos": "n",
+                        "chinese": "生活方式",
+                        "sense_tier_ratio": 0.89
+                    },
+                    {
+                        "sense_tier": 0,
+                        "pos": "n",
+                        "chinese": "传记",
+                        "sense_tier_ratio": 0
+                    },
+                    {
+                        "sense_tier": 0,
+                        "pos": "n",
+                        "chinese": "写真艺术",
+                        "sense_tier_ratio": 0
+                    },
+                    {
+                        "sense_tier": 0,
+                        "pos": "n",
+                        "chinese": "使用期限; 有效期",
+                        "sense_tier_ratio": 0
+                    },
+                    {
+                        "sense_tier": 0,
+                        "pos": "n",
+                        "chinese": "(美术作品)实物为原型",
+                        "sense_tier_ratio": 0
+                    }
+                ],
+                "word": "life",
+                "word_level_phrase_info": [
+                    {
+                        "brief_definition": "日常生活",
+                        "phrase": "daily life",
+                        "pos": "phr"
+                    },
+                    {
+                        "brief_definition": "寿命；有效期；使用期限",
+                        "phrase": "life span",
+                        "pos": "phr"
+                    },
+                    {
+                        "brief_definition": "预期寿命；预计存在或持续的期限",
+                        "phrase": "life expectancy",
+                        "pos": "phr"
+                    },
+                    {
+                        "brief_definition": "复苏；使死而复生；赋予生命；使...活过来；使活泼",
+                        "phrase": "come to life",
+                        "pos": "phr"
+                    },
+                    {
+                        "brief_definition": "人寿保险",
+                        "phrase": "life insurance",
+                        "pos": "n"
+                    },
+                    {
+                        "brief_definition": "工作寿命；工作年限",
+                        "phrase": "working life",
+                        "pos": "phr"
+                    }
+                ],
+                "direction_info": {
+                    "ranges": 12,
+                    "description": "数据源自2012-2023年12年间全国考研试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2012-2023年全国考研英语一和考研英语二共24套考研试卷，包括阅读、完型填空、翻译、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选全国考研考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2012-2023年12年间全国考研英语一和考研英语二试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 5,
+                "word_family": {
+                    "derivative_info_list": [
+                        {
+                            "derivative_info_list": [],
+                            "word": "lifeblood",
+                            "mean": "n. 血液；命根子；生命线"
+                        }
+                    ],
+                    "word": "life",
+                    "mean": "n. 生命；生活；一生；以实物为原型的创作；写真艺术；生活方式；生物；活力；精力；传记"
+                },
+                "total_exam_freq": 112,
+                "sense": {
+                    "sense_num": 9,
+                    "sense_info_list": [
+                        {
+                            "en": "the experience of being alive; the course of human events and activities",
+                            "zh": "生活; 个人经历",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "It's almost impossible to go through <highlight>life</highlight> without experiencing some kind of failure.",
+                                    "month": -1,
+                                    "source": "英语二",
+                                    "coll": "",
+                                    "sentence_trans": "人的一生几乎不可能不经历某种失败。",
+                                    "year": 2020,
+                                    "type": "翻译",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Everything he achieved in <highlight>life</highlight> was earned the hard way and his success in the literary field was no exception.",
+                                    "month": -1,
+                                    "source": "英语二",
+                                    "coll": "",
+                                    "sentence_trans": "他一生中所取得的一切成就都是通过艰苦的努力获得的，他在文学领域的成功也不例外。",
+                                    "year": 2019,
+                                    "type": "翻译",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "And it should: Wasted time is a drag on Americans' economic and private <highlight>lives</highlight>, not to mention infuriating.",
+                                    "month": -1,
+                                    "source": "英语一",
+                                    "coll": "",
+                                    "sentence_trans": "这应该是：浪费时间拖累了美国人的经济和私人生活，更不用说激怒了。",
+                                    "year": 2017,
+                                    "type": "阅读理解A",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "You can be easily caught up by <highlight>life</highlight> problems that you forget to pause and appreciate the things you have.",
+                                    "month": -1,
+                                    "source": "英语二",
+                                    "coll": "",
+                                    "sentence_trans": "你很容易被生活中的问题所困扰，以至于忘记停下来欣赏你所拥有的东西。",
+                                    "year": 2015,
+                                    "type": "阅读理解B",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Looking around, I despaired at the singular lack of imagination about girls' <highlight>lives</highlight> and interests.",
+                                    "month": -1,
+                                    "source": "英语二",
+                                    "coll": "",
+                                    "sentence_trans": "环顾四周，我对女孩们的生活和兴趣缺乏想象力感到绝望。",
+                                    "year": 2012,
+                                    "type": "阅读理解A",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "From the earliest days of the Renaissance, the writing of history meant recounting the exemplary <highlight>lives</highlight> of great men.",
+                                    "month": -1,
+                                    "source": "英语二",
+                                    "coll": "",
+                                    "sentence_trans": "从文艺复兴初期开始，书写历史就意味着讲述伟人的模范生活。",
+                                    "year": 2012,
+                                    "type": "阅读理解B",
+                                    "day": -1
+                                }
+                            ]
+                        },
+                        {
+                            "en": "animation and energy in action or expression",
+                            "zh": "生命; 活力",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "The bargain is very pure: Employee puts in hours of physical or mental labor and employee draws out <highlight>life</highlight>-sustaining moola.",
+                                    "month": -1,
+                                    "source": "英语二",
+                                    "coll": "",
+                                    "sentence_trans": "这种交易非常纯粹：员工投入数小时的体力或脑力劳动，然后拿到维持生计的一笔钱。",
+                                    "year": 2015,
+                                    "type": "阅读理解A",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "The Breakthrough Prize in <highlight>Life</highlight> Sciences, launched this year, takes an unrepresentative view of what the <highlight>life</highlight> sciences include.",
+                                    "month": -1,
+                                    "source": "英语一",
+                                    "coll": "",
+                                    "sentence_trans": "今年推出的生命科学突破奖，对生命科学包含的内容采取了一种不具代表性的观点。",
+                                    "year": 2014,
+                                    "type": "阅读理解A",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "The community mental health team saved my <highlight>life</highlight>.",
+                                    "month": -1,
+                                    "source": "英语二",
+                                    "coll": "",
+                                    "sentence_trans": "社区心理健康团队救了我一命。",
+                                    "year": 2013,
+                                    "type": "阅读理解B",
+                                    "day": -1
+                                }
+                            ]
+                        },
+                        {
+                            "en": "the period from the present until death; the period between birth and the present time",
+                            "zh": "一生; 寿命",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "Millennials were told that if you did well in school, got a decent degree, you would be set up for <highlight>life</highlight>.",
+                                    "month": -1,
+                                    "source": "英语一",
+                                    "coll": "",
+                                    "sentence_trans": "千禧一代被告知，如果你在学校表现出色，获得了体面的学位，你的生活就会高枕无忧。",
+                                    "year": 2022,
+                                    "type": "阅读理解A",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "These kids are going to be surrounded by computers for the rest of their <highlight>lives</highlight>.",
+                                    "month": -1,
+                                    "source": "英语二",
+                                    "coll": "",
+                                    "sentence_trans": "这些孩子的余生都将被电脑包围。",
+                                    "year": 2016,
+                                    "type": "阅读理解A",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "G.I. Joe was any American soldier, at that point the most important person in their <highlight>lives</highlight>.",
+                                    "month": -1,
+                                    "source": "英语二",
+                                    "coll": "",
+                                    "sentence_trans": "通用电气公司的乔是任何一个美国士兵，在那个时候是他们生命中最重要的人。",
+                                    "year": 2012,
+                                    "type": "完型填空",
+                                    "day": -1
+                                }
+                            ]
+                        },
+                        {
+                            "en": "living things collectively",
+                            "zh": "生物; 生命",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "Emma Marris's article is an insult and a disservice to the thousands of passionate who work tirelessly to improve the <highlight>lives</highlight> of animals and protect our planet.",
+                                    "month": -1,
+                                    "source": "英语一",
+                                    "coll": "",
+                                    "sentence_trans": "艾玛·马里斯的文章是对成千上万为改善动物生活和保护地球而不懈努力的热情人士的侮辱和伤害。",
+                                    "year": 2022,
+                                    "type": "阅读理解B",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "It is not enough to say that the algorithms DeepMind develops will benefit patients and save <highlight>lives</highlight>.",
+                                    "month": -1,
+                                    "source": "英语一",
+                                    "coll": "",
+                                    "sentence_trans": "DeepMind 开发的算法的意义不止将造福患者并拯救生命。",
+                                    "year": 2018,
+                                    "type": "阅读理解A",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "If software promises to save <highlight>lives</highlight> on the scale that drugs now can, big data may be expected to behave as big pharma has done.",
+                                    "month": -1,
+                                    "source": "英语一",
+                                    "coll": "",
+                                    "sentence_trans": "如果软件有可能像药物那样大规模地拯救生命，那么大数据可能会像大型制药公司那样发挥作用。",
+                                    "year": 2018,
+                                    "type": "阅读理解A",
+                                    "day": -1
+                                }
+                            ]
+                        },
+                        {
+                            "en": "",
+                            "zh": "生活方式",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "In Ferreira’ s opinion, preservation of plastic artifacts has an impact on today’s cultural <highlight>life</highlight>.",
+                                    "month": -1,
+                                    "source": "英语一",
+                                    "coll": "",
+                                    "sentence_trans": "在费雷拉看来，塑料制品的保存对当今的文化生活产生了影响。",
+                                    "year": 2022,
+                                    "type": "阅读理解A",
+                                    "day": -1
+                                }
+                            ]
+                        },
+                        {
+                            "synonyms": "",
+                            "en": "",
+                            "zh": "传记",
+                            "pos": "n",
+                            "antonyms": ""
+                        },
+                        {
+                            "synonyms": "",
+                            "en": "",
+                            "zh": "写真艺术",
+                            "pos": "n",
+                            "antonyms": ""
+                        },
+                        {
+                            "synonyms": "",
+                            "en": "the period during which something inanimate or abstract continues to exist, function, or be valid",
+                            "zh": "使用期限; 有效期",
+                            "pos": "n",
+                            "antonyms": ""
+                        },
+                        {
+                            "synonyms": "",
+                            "en": "",
+                            "zh": "(美术作品)实物为原型",
+                            "pos": "n",
+                            "antonyms": ""
+                        }
+                    ]
+                },
+                "word_usage": [
+                    {
+                        "usage": "表示生活时，若指某种方式的生活，一生、一辈子时为可数名词。表示生命时，若表示泛指意义或抽象意义，为不可数名词。"
+                    }
+                ]
+            },
+            "CET6": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 124,
+                        "pos": "n",
+                        "chinese": "生存; 生命; 生活",
+                        "sense_tier_ratio": 72.51
+                    },
+                    {
+                        "sense_tier": 15,
+                        "pos": "n",
+                        "chinese": "(one's ~)一生; 一生中的部分时间",
+                        "sense_tier_ratio": 8.77
+                    },
+                    {
+                        "sense_tier": 15,
+                        "pos": "n",
+                        "chinese": "生物",
+                        "sense_tier_ratio": 8.77
+                    },
+                    {
+                        "sense_tier": 12,
+                        "pos": "n",
+                        "chinese": "寿命",
+                        "sense_tier_ratio": 7.02
+                    },
+                    {
+                        "sense_tier": 2,
+                        "pos": "n",
+                        "chinese": "活力; 生气",
+                        "sense_tier_ratio": 1.17
+                    },
+                    {
+                        "sense_tier": 2,
+                        "pos": "n",
+                        "chinese": "使用期限; 有效期",
+                        "sense_tier_ratio": 1.17
+                    },
+                    {
+                        "sense_tier": 1,
+                        "pos": "n",
+                        "chinese": "活着",
+                        "sense_tier_ratio": 0.58
+                    }
+                ],
+                "word": "life",
+                "total_exam_freq": 171,
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2016.6-2023.6年8年间全六级试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight>考纲释义</highlight>\n精选实考、考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2016-2023年51套试卷，包括阅读、听力、翻译等所有题型。\n\n<highlight>真题例句</highlight>\n精选2016-2023年8年间全六级试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 5,
+                "word_family": {
+                    "derivative_info_list": [
+                        {
+                            "derivative_info_list": [],
+                            "word": "lifelong",
+                            "mean": "adj. 毕生的；终生的"
+                        },
+                        {
+                            "derivative_info_list": [],
+                            "word": "lifeline",
+                            "mean": "n. 救生索；寿命线；信号索；惟一的出路；继续生存所必需的出路；摆脱困境的手段；求救电话"
+                        },
+                        {
+                            "derivative_info_list": [],
+                            "word": "lifespan",
+                            "mean": "n. 寿命；使用寿命"
+                        },
+                        {
+                            "derivative_info_list": [],
+                            "word": "lifeguard",
+                            "mean": "n. 救生员"
+                        },
+                        {
+                            "derivative_info_list": [],
+                            "word": "lifeless",
+                            "mean": "adj. 死的；无生命的；明显死亡的；无生气的；死气沉沉的；没有生物的"
+                        },
+                        {
+                            "derivative_info_list": [],
+                            "word": "lifelike",
+                            "mean": "adj. 栩栩如生的"
+                        }
+                    ],
+                    "word": "life",
+                    "mean": "n. 生命；生活；一生；以实物为原型的创作；写真艺术；生活方式；生物；活力；精力；传记"
+                },
+                "word_level_phrase_info": [
+                    {
+                        "brief_definition": "使复活；起死回生",
+                        "phrase": "bring back to life",
+                        "pos": "phr"
+                    },
+                    {
+                        "brief_definition": "日常生活",
+                        "phrase": "daily life",
+                        "pos": "phr"
+                    },
+                    {
+                        "brief_definition": "寿命；有效期；使用期限",
+                        "phrase": "life span",
+                        "pos": "phr"
+                    },
+                    {
+                        "brief_definition": "成人生活；成年生活；成年人生活",
+                        "phrase": "adult life",
+                        "pos": "phr"
+                    },
+                    {
+                        "brief_definition": "珍惜生活；珍爱生命",
+                        "phrase": "cherish life",
+                        "pos": "phr"
+                    },
+                    {
+                        "brief_definition": "丰富生活",
+                        "phrase": "enrich one's life",
+                        "pos": "vphr"
+                    },
+                    {
+                        "brief_definition": "人生选择；生活的选择；人生的抉择",
+                        "phrase": "life choices",
+                        "pos": "phr"
+                    }
+                ],
+                "sense": {
+                    "sense_num": 7,
+                    "sense_info_list": [
+                        {
+                            "en": "the experience of being alive; the course of human events and activities",
+                            "zh": "生存; 生命; 生活",
+                            "pos": "n",
+                            "synonyms": "living,existence",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "In his later years, Marconi exerted a tremendous influence on all aspects of people's <highlight>life</highlight>.",
+                                    "month": 6,
+                                    "source": "CET6",
+                                    "coll": "",
+                                    "sentence_trans": "马可尼晚年对人们生活的方方面面都产生了巨大的影响。",
+                                    "year": 2021,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "It is a quality that is required of artists, but it is also present in the <highlight>lives</highlight> of scientists and entrepreneurs.",
+                                    "month": 6,
+                                    "source": "CET6",
+                                    "coll": "",
+                                    "sentence_trans": "这是艺术家必须具备的品质，但它也存在于科学家和企业家的生活中。",
+                                    "year": 2021,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "They deem travel an important part of their <highlight>life</highlight>.",
+                                    "month": 6,
+                                    "source": "CET6",
+                                    "coll": "",
+                                    "sentence_trans": "他们认为旅行是他们生活中重要的一部分。",
+                                    "year": 2021,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "This includes the impact of short-term lets on housing costs and quality of <highlight>life</highlight> for residents.",
+                                    "month": 6,
+                                    "source": "CET6",
+                                    "coll": "",
+                                    "sentence_trans": "这包括短期出租对居民住房成本和生活质量的影响。",
+                                    "year": 2021,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                }
+                            ]
+                        },
+                        {
+                            "en": "the period from the present until death; the period between birth and the present time",
+                            "zh": "(one's ~)一生; 一生中的部分时间",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "Marconi spent his whole <highlight>life</highlight> making wireless communication simple to use.",
+                                    "month": 6,
+                                    "source": "CET6",
+                                    "coll": "",
+                                    "sentence_trans": "Marconi终其一生致力于使无线通信变得简单。",
+                                    "year": 2021,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "They spend most of their <highlight>lives</highlight> drawing.",
+                                    "month": 6,
+                                    "source": "CET6",
+                                    "coll": "",
+                                    "sentence_trans": "他们大部分时间都在画画。",
+                                    "year": 2021,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                }
+                            ]
+                        },
+                        {
+                            "synonyms": "",
+                            "en": "living things collectively",
+                            "zh": "生物",
+                            "pos": "n",
+                            "antonyms": ""
+                        },
+                        {
+                            "en": "",
+                            "zh": "寿命",
+                            "pos": "n",
+                            "synonyms": "lifespan",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "At best, if the major causes of death in developed countries were eliminated, this would only add a decade to average <highlight>life</highlight> expectancy.",
+                                    "month": 6,
+                                    "source": "CET6",
+                                    "coll": "",
+                                    "sentence_trans": "充其量，如果发达国家的主要死亡原因被消除，这只会使平均预期寿命增加十年。",
+                                    "year": 2021,
+                                    "type": "听力",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Prevention of heart disease and stroke will increase <highlight>life</highlight> expectancy.",
+                                    "month": 6,
+                                    "source": "CET6",
+                                    "coll": "",
+                                    "sentence_trans": "防心脏病和中风将延长预期寿命。",
+                                    "year": 2021,
+                                    "type": "听力",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "They know that women tend to have longer <highlight>life</highlight> spans, living on average six years longer than men.",
+                                    "month": 6,
+                                    "source": "CET6",
+                                    "coll": "",
+                                    "sentence_trans": "他们知道女性的寿命更长，平均寿命比男性长6年。",
+                                    "year": 2021,
+                                    "type": "听力",
+                                    "day": -1
+                                }
+                            ]
+                        },
+                        {
+                            "synonyms": "liveliness,spirit,vigor",
+                            "en": "animation and energy in action or expression",
+                            "zh": "活力; 生气",
+                            "pos": "n",
+                            "antonyms": ""
+                        },
+                        {
+                            "synonyms": "",
+                            "en": "the period during which something inanimate or abstract continues to exist, function, or be valid",
+                            "zh": "使用期限; 有效期",
+                            "pos": "n",
+                            "antonyms": ""
+                        },
+                        {
+                            "synonyms": "animation",
+                            "en": "the condition of living or the state of being alive",
+                            "zh": "活着",
+                            "pos": "n",
+                            "antonyms": "death"
+                        }
+                    ]
+                },
+                "word_usage": [
+                    {
+                        "usage": "life表示“生命”“生物”是是不可数名词，但是作“性命”时是可数名词。\n示例：在这场森林大火中有100多人丧生了。\n误 Over a hundred people lost their life in the big forest fire.\n正 Over a hundred people lost their lives in the big forest fire."
+                    },
+                    {
+                        "usage": "the cost of life的意思是“生命的代价”; the cost of living 表示“生活费用”。"
+                    }
+                ],
+                "exchange_info": {
+                    "word_pl": [
+                        "lives"
+                    ]
+                }
+            },
+            "CET4": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 216,
+                        "pos": "n",
+                        "chinese": "生存; 生命; 生活",
+                        "sense_tier_ratio": 83.72
+                    },
+                    {
+                        "sense_tier": 18,
+                        "pos": "n",
+                        "chinese": "寿命",
+                        "sense_tier_ratio": 6.98
+                    },
+                    {
+                        "sense_tier": 18,
+                        "pos": "n",
+                        "chinese": "(one's ~)一生; 一生中的部分时间",
+                        "sense_tier_ratio": 6.98
+                    },
+                    {
+                        "sense_tier": 3,
+                        "pos": "n",
+                        "chinese": "活力; 生气",
+                        "sense_tier_ratio": 1.16
+                    },
+                    {
+                        "sense_tier": 1,
+                        "pos": "n",
+                        "chinese": "活着",
+                        "sense_tier_ratio": 0.39
+                    },
+                    {
+                        "sense_tier": 1,
+                        "pos": "n",
+                        "chinese": "生物",
+                        "sense_tier_ratio": 0.39
+                    },
+                    {
+                        "sense_tier": 1,
+                        "pos": "n",
+                        "chinese": "(shelf life)货架期; 保存期",
+                        "sense_tier_ratio": 0.39
+                    },
+                    {
+                        "sense_tier": 0,
+                        "pos": "n",
+                        "chinese": "使用期限; 有效期",
+                        "sense_tier_ratio": 0
+                    }
+                ],
+                "word": "life",
+                "word_level_phrase_info": [
+                    {
+                        "brief_definition": "生活",
+                        "phrase": "live a life",
+                        "pos": "phr"
+                    },
+                    {
+                        "brief_definition": "预期寿命",
+                        "phrase": "life expectancy",
+                        "pos": "n"
+                    },
+                    {
+                        "brief_definition": "带来起色；注入活力",
+                        "phrase": "breathe new life into sth",
+                        "pos": "idm"
+                    },
+                    {
+                        "brief_definition": "保存期限；货架期",
+                        "phrase": "shelf life",
+                        "pos": "n"
+                    },
+                    {
+                        "brief_definition": "长寿命",
+                        "phrase": "long life",
+                        "pos": "n"
+                    }
+                ],
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2016.6-2023.6年8年间全四级试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight>考纲释义</highlight>\n精选实考、考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2016-2023年51套试卷，包括阅读、听力、翻译等所有题型。\n\n<highlight>真题例句</highlight>\n精选2016-2023年8年间试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 5,
+                "word_family": {
+                    "derivative_info_list": [
+                        {
+                            "derivative_info_list": [],
+                            "word": "midlife",
+                            "mean": "n. 中年"
+                        },
+                        {
+                            "derivative_info_list": [],
+                            "word": "lifelong",
+                            "mean": "adj. 毕生的；终生的"
+                        },
+                        {
+                            "derivative_info_list": [],
+                            "word": "lifespan",
+                            "mean": "n. 寿命；使用寿命"
+                        },
+                        {
+                            "derivative_info_list": [],
+                            "word": "lifeline",
+                            "mean": "n. 救生索；寿命线；信号索；惟一的出路；继续生存所必需的出路；摆脱困境的手段；求救电话"
+                        },
+                        {
+                            "derivative_info_list": [],
+                            "word": "lifeguard",
+                            "mean": "n. 救生员"
+                        },
+                        {
+                            "derivative_info_list": [],
+                            "word": "lifeless",
+                            "mean": "adj. 死的；无生命的；明显死亡的；无生气的；死气沉沉的；没有生物的"
+                        }
+                    ],
+                    "word": "life",
+                    "mean": "n. 生命；生活；一生；以实物为原型的创作；写真艺术；生活方式；生物；活力；精力；传记"
+                },
+                "total_exam_freq": 258,
+                "sense": {
+                    "sense_num": 8,
+                    "sense_info_list": [
+                        {
+                            "en": "the experience of being alive; the course of human events and activities",
+                            "zh": "生存; 生命; 生活",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "If you can't trust anything, <highlight>life</highlight> becomes intolerable.",
+                                    "month": 12,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "如果你什么都不相信，生活就会变得无法忍受。",
+                                    "year": 2020,
+                                    "type": "阅读理解A",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Ancient philosophers saw <highlight>life</highlight> in a different light from people of today.",
+                                    "month": 6,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "古代哲学家对生活的看法与现代人不同。",
+                                    "year": 2016,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "The wise teachings of ancient Greek thinkers are timeless, and are applicable to contemporary <highlight>life</highlight>.",
+                                    "month": 6,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "古希腊思想家的智慧教导是永恒的，适用于当代生活。",
+                                    "year": 2016,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                }
+                            ]
+                        },
+                        {
+                            "en": "",
+                            "zh": "寿命",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "But both studies show that long <highlight>life</highlight> isn't just a matter of your physical health but of your mental health.",
+                                    "month": 6,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "但这两项研究都表明，长寿不仅与你的身体健康有关，还与你的心理健康有关。",
+                                    "year": 2016,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "But the new paper suggests that if you want long <highlight>life</highlight>, you should strive to be as outgoing as possible.",
+                                    "month": 6,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "但这篇新发表的论文建议，如果你想长寿，你应该努力尽可能地开朗些。",
+                                    "year": 2016,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "to investigate the role of exercise in living a long <highlight>life</highlight>",
+                                    "month": 6,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "研究运动在长寿中的作用",
+                                    "year": 2016,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                }
+                            ]
+                        },
+                        {
+                            "en": "the period from the present until death; the period between birth and the present time",
+                            "zh": "(one's ~)一生; 一生中的部分时间",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "Nevertheless, many people live lives that are boringly predictable, or live a <highlight>life</highlight> where everything is outlined or planned.",
+                                    "month": 12,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "然而，许多人过着乏味的可预测的生活，或者过着一切都是计划好的生活。",
+                                    "year": 2021,
+                                    "type": "阅读理解B",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "In reality, most people will experience some form of financial hardship at some point in their <highlight>lives</highlight>.",
+                                    "month": 12,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "事实上，大多数人都会在一生的某个时刻经历某种形式的经济困难。",
+                                    "year": 2020,
+                                    "type": "阅读理解B",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "So if any of you have some free time during the weekend, please come join us at ReBicycle and make a difference in someone's <highlight>life</highlight>.",
+                                    "month": 12,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "所以，如果你在周末有空闲时间，请加入我们的ReBicycle，改变他人的人生。",
+                                    "year": 2020,
+                                    "type": "听力",
+                                    "day": -1
+                                }
+                            ]
+                        },
+                        {
+                            "en": "animation and energy in action or expression",
+                            "zh": "活力; 生气",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "Romania's wetlands are coming back to <highlight>life</highlight> thanks to help from local communities, the World Wildlife Fund, and funding from the European Union.",
+                                    "month": 7,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "在当地社区、世界自然基金会和欧盟资助的帮助下，罗马尼亚的湿地正在恢复生机。",
+                                    "year": 2020,
+                                    "type": "听力",
+                                    "day": -1
+                                }
+                            ]
+                        },
+                        {
+                            "synonyms": "",
+                            "en": "the condition of living or the state of being alive",
+                            "zh": "活着",
+                            "pos": "n",
+                            "antonyms": ""
+                        },
+                        {
+                            "en": "",
+                            "zh": "生物",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "The fish, often known as Devil Firefish, is a highly invasive species, and environmentalists fear its arrival could endanger other types of marine <highlight>life</highlight>.",
+                                    "month": 12,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "这种鱼通常被称为魔鬼鱼，是一种高度入侵的物种，环保人士担心它的到来可能会危及其他海洋生物。",
+                                    "year": 2020,
+                                    "type": "听力",
+                                    "day": -1
+                                }
+                            ]
+                        },
+                        {
+                            "en": "",
+                            "zh": "(shelf life)货架期; 保存期",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "There is no shelf <highlight>life</highlight> on intelligence.",
+                                    "month": 6,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "智力没有保质期。",
+                                    "year": 2016,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                }
+                            ]
+                        },
+                        {
+                            "synonyms": "",
+                            "en": "the period during which something inanimate or abstract continues to exist; function; or be valid",
+                            "zh": "使用期限; 有效期",
+                            "pos": "n",
+                            "antonyms": ""
+                        }
+                    ]
+                },
+                "word_usage": [
+                    {
+                        "usage": "life表示“生命”“生物”是是不可数名词，但是作“性命”时是可数名词。\n示例：在这场森林大火中有100多人丧生了。\n误 Over a hundred people lost their life in the big forest fire.\n正 Over a hundred people lost their lives in the big forest fire."
+                    },
+                    {
+                        "usage": "the cost of life的意思是“生命的代价”; the cost of living 表示“生活费用”。"
+                    }
+                ],
+                "exchange_info": {
+                    "word_pl": [
+                        "lives"
+                    ]
+                }
+            },
+            "gaokao": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 89,
+                        "pos": "cn/un",
+                        "chinese": "生活",
+                        "sense_tier_ratio": 76.72
+                    },
+                    {
+                        "sense_tier": 18,
+                        "pos": "cn/un",
+                        "chinese": "性命; 人命",
+                        "sense_tier_ratio": 15.52
+                    },
+                    {
+                        "sense_tier": 7,
+                        "pos": "n",
+                        "chinese": "一生",
+                        "sense_tier_ratio": 6.03
+                    },
+                    {
+                        "sense_tier": 2,
+                        "pos": "un",
+                        "chinese": "活力; 生气",
+                        "sense_tier_ratio": 1.72
+                    },
+                    {
+                        "sense_tier": 0,
+                        "pos": "un",
+                        "chinese": "生物(总称)",
+                        "sense_tier_ratio": 0
+                    }
+                ],
+                "word": "life",
+                "word_level_phrase_info": [
+                    {
+                        "brief_definition": "使复活；起死回生",
+                        "phrase": "bring back to life",
+                        "pos": "phr."
+                    },
+                    {
+                        "brief_definition": "成人生活；成年生活；成人生命",
+                        "phrase": "adult life",
+                        "pos": "phr."
+                    },
+                    {
+                        "brief_definition": "挽救某人的性命",
+                        "phrase": "save one's life",
+                        "pos": "phr."
+                    }
+                ],
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2015-2022年8年间全国卷和自主命题省市高考卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2015-2022年全国卷高考试卷，包括阅读、完形、单选、填空、听力、改错、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选各省市考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2015-2022年8年间全国卷和自主命题省市高考卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 5,
+                "word_family": {
+                    "derivative_info_list": [
+                        {
+                            "derivative_info_list": [],
+                            "word": "midlife",
+                            "mean": "n. 中年"
+                        },
+                        {
+                            "derivative_info_list": [],
+                            "word": "lifeblood",
+                            "mean": "n. 血液；命根子；生命线"
+                        },
+                        {
+                            "derivative_info_list": [],
+                            "word": "lifeless",
+                            "mean": "adj. 死的；无生命的；明显死亡的；无生气的；死气沉沉的；没有生物的"
+                        },
+                        {
+                            "derivative_info_list": [],
+                            "word": "lifelong",
+                            "mean": "adj. 毕生的；终生的"
+                        }
+                    ],
+                    "word": "life",
+                    "mean": "n. 生命；生活；一生；以实物为原型的创作；写真艺术；生活方式；生物；活力；精力；传记"
+                },
+                "total_exam_freq": 116,
+                "sense": {
+                    "sense_num": 5,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "生活",
+                            "pos": "cn/un",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "The quality of <highlight>life</highlight> in France is equally excellent.",
+                                    "month": -1,
+                                    "source": "新高考Ⅰ卷",
+                                    "coll": "",
+                                    "sentence_trans": "法国的生活质量同样优秀。",
+                                    "year": 2021,
+                                    "type": "任务型阅读",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Which hotel best suits people who enjoy an active social <highlight>life</highlight>?",
+                                    "month": -1,
+                                    "source": "新高考Ⅰ卷",
+                                    "coll": "",
+                                    "sentence_trans": "哪家酒店最适合享受活跃社交生活的人？",
+                                    "year": 2021,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "You can tell this by café <highlight>life</highlight>.",
+                                    "month": -1,
+                                    "source": "新高考Ⅰ卷",
+                                    "coll": "",
+                                    "sentence_trans": "你可以从咖啡馆生活中看出这一点。",
+                                    "year": 2021,
+                                    "type": "任务型阅读",
+                                    "day": -1
+                                }
+                            ]
+                        },
+                        {
+                            "en": "",
+                            "zh": "性命; 人命",
+                            "pos": "cn/un",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "Now that our project is over, I realize that I have affected not only one <highlight>life</highlight>, but ten.",
+                                    "month": -1,
+                                    "source": "北京卷",
+                                    "coll": "",
+                                    "sentence_trans": "现在我们的项目结束了，我意识到我影响的不仅仅是一个人，而是十个人。",
+                                    "year": 2021,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "I learned a lot about how to extend the <highlight>life</highlight> of objects and transform them into something new and useful.",
+                                    "month": -1,
+                                    "source": "浙江卷",
+                                    "coll": "",
+                                    "sentence_trans": "我学到了很多关于如何延长物体的寿命，并把它们变成新的和有用的东西。",
+                                    "year": 2020,
+                                    "type": "任务型阅读",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "His efforts most likely saved the woman's <highlight>life</highlight>.",
+                                    "month": -1,
+                                    "source": "全国卷1",
+                                    "coll": "",
+                                    "sentence_trans": "他的努力很可能救了那个女人的命。",
+                                    "year": 2016,
+                                    "type": "完形填空",
+                                    "day": -1
+                                }
+                            ]
+                        },
+                        {
+                            "en": "",
+                            "zh": "一生",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "A unique atmosphere and a memory that will go through the rest of their <highlight>lives</highlight>.",
+                                    "month": -1,
+                                    "source": "天津卷",
+                                    "coll": "",
+                                    "sentence_trans": "独特的氛围和将贯穿他们余生的记忆。",
+                                    "year": 2021,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Most of the fun things they do throughout their <highlight>lives</highlight> will be verbs.",
+                                    "month": -1,
+                                    "source": "全国卷2",
+                                    "coll": "",
+                                    "sentence_trans": "他们一生中做的大多数有趣的事情都是动词。",
+                                    "year": 2017,
+                                    "type": "完形填空",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "At some point in all of our <highlight>lives</highlight>, we'll have our trust tested or violated.",
+                                    "month": -1,
+                                    "source": "全国卷1",
+                                    "coll": "",
+                                    "sentence_trans": "在我们一生中的某个时刻，我们的信任会受到考验或侵犯。",
+                                    "year": 2015,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                }
+                            ]
+                        },
+                        {
+                            "en": "",
+                            "zh": "活力; 生气",
+                            "pos": "un",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "Do you want a room that's full of <highlight>life</highlight>?",
+                                    "month": -1,
+                                    "source": "全国卷1",
+                                    "coll": "",
+                                    "sentence_trans": "你想要一个充满活力的房间吗？",
+                                    "year": 2018,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "A new collection of photos brings an unsuccessful Antarctic voyage back to <highlight>life</highlight>.",
+                                    "month": -1,
+                                    "source": "全国卷2",
+                                    "coll": "",
+                                    "sentence_trans": "一组新照片让一次失败的南极航行重现生机。",
+                                    "year": 2016,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                }
+                            ]
+                        },
+                        {
+                            "synonyms": "",
+                            "en": "",
+                            "zh": "生物(总称)",
+                            "pos": "un",
+                            "antonyms": ""
+                        }
+                    ]
+                },
+                "word_usage": [
+                    {
+                        "usage": "life作“性命”讲时，其复数为lives。"
+                    }
+                ]
+            },
+            "zhongkao": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 1046,
+                        "pos": "n",
+                        "chinese": "生存; 生命; 生活",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "life",
+                "total_exam_freq": 1046,
+                "direction_info": {
+                    "ranges": 4,
+                    "description": "数据源自2018-2021年4年间全国各省市中考试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2018-2021年全国重点省市中考试卷，包括听力、阅读、完形、单选、填空、改错、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选各省市考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2018-2021年4年间全国各省市中考试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 5,
+                "word_family": {
+                    "derivative_info_list": [
+                        {
+                            "derivative_info_list": [],
+                            "word": "lifeguard",
+                            "mean": "n. 救生员"
+                        },
+                        {
+                            "derivative_info_list": [],
+                            "word": "lifeline",
+                            "mean": "n. 救生索；寿命线；信号索；惟一的出路；继续生存所必需的出路；摆脱困境的手段；求救电话"
+                        },
+                        {
+                            "derivative_info_list": [],
+                            "word": "lifelong",
+                            "mean": "adj. 毕生的；终生的"
+                        }
+                    ],
+                    "word": "life",
+                    "mean": "n. 生命；生活；一生；以实物为原型的创作；写真艺术；生活方式；生物；活力；精力；传记"
+                },
+                "word_level_phrase_info": [
+                    {
+                        "brief_definition": "日常生活",
+                        "phrase": "daily life",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "生活",
+                        "phrase": "live a life",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "挽救生命",
+                        "phrase": "save one's life",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "社会生活；社会生命；社交生活",
+                        "phrase": "social life",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "健康的生活方式",
+                        "phrase": "healthy life style",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "享受生活；享受人生",
+                        "phrase": "enjoy life",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "日常生活；每天生活；每天日常生活",
+                        "phrase": "everyday life",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "人类生活；人的生命；人体生命",
+                        "phrase": "human life",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "个人生活；个人生命；私人生活",
+                        "phrase": "personal life",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "享受生活",
+                        "phrase": "enjoy one's life",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "生活风格；生活方式；生活作风",
+                        "phrase": "life style",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "丧生",
+                        "phrase": "lose one's life",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "低碳生活",
+                        "phrase": "low-carbon life",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "现代生活",
+                        "phrase": "modern life",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "现实生活；实际生活",
+                        "phrase": "real life",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "塑造人生",
+                        "phrase": "shape one's life",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "一生中",
+                        "phrase": "in life",
+                        "pos": ""
+                    }
+                ],
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "the experience of being alive; the course of human events and activities",
+                            "zh": "生存; 生命; 生活",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "We all have to take risks in <highlight>life</highlight>, but try to make sure those risks are calculated.",
+                                    "month": -1,
+                                    "source": "重庆市A卷",
+                                    "coll": "",
+                                    "sentence_trans": "我们在生活中都必须承担风险，但要努力确保这些风险是可以预测的。",
+                                    "year": 2020,
+                                    "type": "完成语篇",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "When I was 16, I took a part-time job for the first time in my <highlight>life</highlight>.",
+                                    "month": -1,
+                                    "source": "南宁市卷",
+                                    "coll": "",
+                                    "sentence_trans": "我16岁时，做了人生中第一次兼职。",
+                                    "year": 2020,
+                                    "type": "阅读表达",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Liu decided to cheer up and have a wonderful <highlight>life</highlight>.",
+                                    "month": -1,
+                                    "source": "重庆市A卷",
+                                    "coll": "",
+                                    "sentence_trans": "刘决定振作起来，好好生活。",
+                                    "year": 2020,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "word_usage": [
+                    {
+                        "usage": "life表示“生命”“生物”是是不可数名词，但是作“性命”时是可数名词。\n示例：在这场森林大火中有100多人丧生了。\n误 Over a hundred people lost their life in the big forest fire.\n正 Over a hundred people lost their lives in the big forest fire."
+                    },
+                    {
+                        "usage": "the cost of life的意思是“生命的代价”; the cost of living 表示“生活费用”。"
+                    }
+                ]
+            },
+            "sentencesData": {
+                "status": 1,
+                "info": "notZh2En",
+                "data": {}
+            },
+            "isAutoMatch": false,
+            "Zh2En": false
+        },
+        "query": "life",
+        "result": "生活",
+        "tabSelect": "detail",
+        "dictionaryType": "oxford_buchong",
+        "notFound_show": false,
+        "phoneticShow": "",
+        "globalShowTranslateRecord": "",
+        "pronPrefer": {
+            "type": "usa_1",
+            "speaker": "male",
+            "speed": "standard"
+        },
+        "ServerRecord": "",
+        "ServerUIGS": {
+            "version": "new",
+            "type": "all",
+            "stype": "success",
+            "terminal": "web",
+            "fr": "default",
+            "direction": "etoz",
+            "from": "en",
+            "to": "zh-CHS",
+            "len": 4,
+            "qtype": "text",
+            "qctype": "qc_1",
+            "dict_cover": 1,
+            "detail": 1,
+            "wordCardCover": 1,
+            "wordCardEn": 1,
+            "wordCardCh": 0,
+            "wordCardMinor": 0,
+            "wordCardNetmean": 0,
+            "wordDeform": 1,
+            "keyword": 0,
+            "bilingual": 1,
+            "simple": 0,
+            "levelList": 1,
+            "synonym": 1,
+            "antonym": 0,
+            "conjugate": 1,
+            "rootaffix": 0,
+            "baike_sogou": 1,
+            "baike_wiki": 0,
+            "wordDifference": 1,
+            "word_phrase": 1,
+            "secondQuery": 0,
+            "dict_oxford": 0,
+            "dict_newcentury": 0,
+            "zhongkaotab": 1,
+            "gaokaotab": 1,
+            "CET4tab": 1,
+            "CET6tab": 1,
+            "kaoyantab": 1,
+            "network_tab": 0,
+            "yinying_tab": 1,
+            "tuozhan_tab": 0,
+            "one_pic": 0,
+            "more_pic": 0,
+            "no_pic": 0,
+            "uuid": "18b0eb04-71fa-4c7d-a8b7-94a07537fd8a",
+            "from_type": 0,
+            "t_trans_ssr": 222
+        },
+        "ServerModelUIGS": {
+            "terminal": "web",
+            "type": "trans_model",
+            "pbtype": "pv",
+            "model_general": 1,
+            "model_medical": 1,
+            "model_finance": 1
+        },
+        "ServerSgtkn": "64D9ABDCA844B21B101638A9A5CFB4D1115A807067551029",
+        "suggShow": false,
+        "suggestion": "",
+        "suggDirection": "",
+        "usualTop": "",
+        "baseDict": "",
+        "wordCardClick": false,
+        "isFrInput": false,
+        "kanaTips": {
+            "show": false,
+            "left": "",
+            "top": "",
+            "type": "",
+            "arrowLeft": ""
+        },
+        "currSentenceIndex": -1,
+        "prefixStrObj": {
+            "prefixStr": "",
+            "oriPrefixStr": ""
+        },
+        "selectTransBox": {
+            "show": false,
+            "right": 0,
+            "top": 0,
+            "paraphraseInfo": {
+                "word": "",
+                "from": "",
+                "to": "",
+                "area": ""
+            }
+        },
+        "sentenceLoading": false,
+        "newSentenceInfo": {
+            "sentence": "",
+            "candidateIndex": 0
+        },
+        "moreTipInfo": {
+            "opacity": 0,
+            "zIndex": -1
+        },
+        "paraphraseShowInfo": {
+            "card": 0,
+            "query": "",
+            "card_dict": 0
+        },
+        "selectType": "",
+        "wordPos": 0,
+        "candidateWord": "",
+        "syntaxVisible": false,
+        "syntaxStatus": 0
+    },
+    "language": {
+        "from": "auto",
+        "to": "zh-CHS",
+        "detect": "en",
+        "model": "general",
+        "detectShow": false,
+        "langMap": {
+            "current": ""
+        },
+        "zh2en": false,
+        "fromItemList": [
+            {
+                "lang": "auto",
+                "text": "自动检测",
+                "play": false
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "vi",
+                "text": "越南语",
+                "play": true,
+                "abbr": "越"
+            },
+            {
+                "lang": "th",
+                "text": "泰语",
+                "play": true,
+                "abbr": "泰"
+            },
+            {
+                "lang": "fr",
+                "text": "法语",
+                "play": true,
+                "abbr": "法"
+            }
+        ],
+        "toItemList": [
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "vi",
+                "text": "越南语",
+                "play": true,
+                "abbr": "越"
+            },
+            {
+                "lang": "ko",
+                "text": "韩语",
+                "play": true,
+                "abbr": "韩"
+            },
+            {
+                "lang": "ru",
+                "text": "俄语",
+                "play": true,
+                "abbr": "俄"
+            }
+        ]
+    },
+    "voice": {
+        "from": {
+            "lang": "en",
+            "type": "from",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22life%22%2C%22spokenDialect%22%3A%22en%22%2C%22rate%22%3A%220.8%22%7D",
+            "list": [
+                {
+                    "type": "uk_0",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "laɪf",
+                    "abbr": "英",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/80001_life_uk.mp3"
+                },
+                {
+                    "type": "usa_1",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "laɪf",
+                    "abbr": "美",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/210_life_usa.mp3"
+                }
+            ],
+            "stype": "phonetic",
+            "phoneticShow": [
+                {
+                    "text": "laɪf",
+                    "type": "uk",
+                    "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/80001_life_uk.mp3"
+                }
+            ]
+        },
+        "to": {
+            "lang": "zh",
+            "type": "to",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22%E7%94%9F%E6%B4%BB%22%2C%22spokenDialect%22%3A%22zh-CHS%22%2C%22rate%22%3A%220.8%22%7D",
+            "stype": "normal"
+        }
+    }
+}

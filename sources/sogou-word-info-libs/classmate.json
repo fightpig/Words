@@ -1,0 +1,958 @@
+{
+    "route": {
+        "name": "text",
+        "path": "/text",
+        "hash": "",
+        "query": {
+            "keyword": "classmate",
+            "transfrom": "auto",
+            "transto": "zh-CHS",
+            "model": "general",
+            "errcode": "s10"
+        },
+        "params": {},
+        "fullPath": "/text?keyword=classmate&transfrom=auto&transto=zh-CHS&model=general&errcode=s10",
+        "meta": {
+            "mtype": [
+                "textTranslate",
+                "language",
+                "voice"
+            ]
+        },
+        "from": {
+            "name": null,
+            "path": "/",
+            "hash": "",
+            "query": {},
+            "params": {},
+            "fullPath": "/",
+            "meta": {}
+        }
+    },
+    "common": {
+        "CONFIG": {
+            "wuid": 1733629218036,
+            "loginInfo": {},
+            "isIE": 0,
+            "isHitSsrSwitch": true,
+            "isHitWritebookSwitch": false,
+            "isHitAmsSwitch": true,
+            "promotionList": "{\n    \"pc_bottom\":{\n        \"imgsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\",\n        \"qcsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\"\n    },\n    \"pc_middle\":[\n        {\n            \"src\":\"//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c\",\n            \"bgColor\":\"#ffffff\",\n            \"link\":\"\"\n        }\n    ],\n    \"pc_survey\":{\n        \"icon\":\"//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750\",\n        \"link\":\"https://wj.qq.com/s2/8193148/806d/\"\n    }\n}",
+            "bannerData": [],
+            "isHitAsideSurvey": false,
+            "secretCode": 109984457,
+            "uuid": "38e72235-94f1-45f4-8f63-60af921f4e7a",
+            "referer": "",
+            "approveToken": "64DED4A0FD76852C26210E9D2691BE0627E1F54767551522",
+            "loadTime": 1733629218038,
+            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0",
+            "fcp": "183.36.74.79",
+            "temporaryId": "",
+            "fileId": ""
+        },
+        "hotWords": [],
+        "isFromCollect": false,
+        "psdModify": {
+            "currentStep": 1,
+            "scode": "",
+            "username": ""
+        },
+        "loginStatus": true,
+        "feedBackModule": false,
+        "showPromotionPopup": {
+            "show": false,
+            "type": ""
+        },
+        "showPromotionPCDownload": false,
+        "showShareBomb": false,
+        "shareData": null,
+        "showAppDownLoad": false,
+        "showLoginDialog": false,
+        "showLoading": {
+            "show": false
+        },
+        "toast": {
+            "show": false,
+            "text": "",
+            "loading": false
+        },
+        "modelToast": {
+            "show": false,
+            "text": ""
+        },
+        "selectionGlobalShow": true,
+        "selectionInfo": {
+            "left": 0,
+            "top": 0,
+            "show": false,
+            "from": "",
+            "to": "",
+            "val": "",
+            "area": ""
+        },
+        "showConfirmDialog": false,
+        "promotionList": {
+            "pc_bottom": {
+                "imgsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png",
+                "qcsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png"
+            },
+            "pc_middle": [
+                {
+                    "src": "//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c",
+                    "bgColor": "#ffffff",
+                    "link": ""
+                }
+            ],
+            "pc_survey": {
+                "icon": "//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750",
+                "link": "https://wj.qq.com/s2/8193148/806d/"
+            }
+        },
+        "transTypeTxt": "text",
+        "fixedTabStatus": 0,
+        "bodyTop": 0,
+        "ifHideUserOperation": false
+    },
+    "textTranslate": {
+        "prevTransQuery": "",
+        "translateData": {
+            "translate": {
+                "zly": "zly",
+                "errorCode": "0",
+                "qc_type": "1",
+                "index": "content0",
+                "from": "en",
+                "source": "sogou",
+                "text": "classmate",
+                "to": "zh-CHS",
+                "id": "38e72235-94f1-45f4-8f63-60af921f4e7a",
+                "dit": "同班同学",
+                "orig_text": "classmate",
+                "md5": ""
+            },
+            "detect": {
+                "zly": "zly",
+                "detect": "en",
+                "errorCode": "0",
+                "language": "英语",
+                "id": "24a51000-b516-11ef-8718-8b52cbd53661",
+                "text": "classmate"
+            },
+            "sgtkn": "64DED4A6FD76852C26210E9D2691BE0627E1F54767551522",
+            "wordCard": {
+                "title": "classmate",
+                "show": true,
+                "usualDict": [
+                    {
+                        "values": [
+                            "同学；同班同学；同窗；班级同学"
+                        ],
+                        "pos": "n."
+                    }
+                ],
+                "secondQuery": "",
+                "exchange": {
+                    "word_pl": [
+                        "classmates"
+                    ]
+                },
+                "levelList": [
+                    "小学",
+                    "初中",
+                    "高中",
+                    "四级",
+                    "六级",
+                    "考研"
+                ]
+            },
+            "detail": {
+                "affix": {
+                    "word": "classmate",
+                    "sub_affix_info_list": [
+                        {
+                            "affix": "class",
+                            "affix_mean": "n. 等级"
+                        },
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "roommate",
+                                            "mean": "n. 室友"
+                                        },
+                                        {
+                                            "word": "teammate",
+                                            "mean": "n. 同队队员；队友"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "名词后缀, \"人\"",
+                                    "affix_type": "suffix"
+                                }
+                            ],
+                            "affix": "-mate",
+                            "affix_mean": "人"
+                        }
+                    ],
+                    "word_mean": "n. 同班同学"
+                },
+                "word_group": [
+                    {
+                        "brief_definition": "老同学",
+                        "phrase": "old classmate",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "我同学；我的同学",
+                        "phrase": "my classmate",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "女同学；女性同学",
+                        "phrase": "female classmate",
+                        "pos": ""
+                    }
+                ],
+                "bilingual": [
+                    {
+                        "source": "Do you have a <em>classmate</em>?",
+                        "target": "你有同班同学吗？",
+                        "url": ""
+                    },
+                    {
+                        "source": "Is that girl your <em>classmate</em>?",
+                        "target": "那个女孩是你的同学吗？",
+                        "url": ""
+                    },
+                    {
+                        "source": "Your <em>classmate</em> seems very nice.",
+                        "target": "你的同学看起来很好。",
+                        "url": ""
+                    },
+                    {
+                        "source": "He's my primary school <em>classmate</em>.",
+                        "target": "他是我小学同学。",
+                        "url": ""
+                    },
+                    {
+                        "source": "I'm happy I have been your <em>classmate</em>.",
+                        "target": "我很高兴曾是你的同学。",
+                        "url": ""
+                    },
+                    {
+                        "source": "You know another <em>classmate</em> who likes cats.",
+                        "target": "你认识另一个喜欢猫的同学。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Imagine you meet a new <em>classmate</em> at school.",
+                        "target": "想象你在学校遇到一个新同学。",
+                        "url": ""
+                    },
+                    {
+                        "source": "So when your <em>classmate</em> stops talking, you can jump in and ask another question!",
+                        "target": "所以当你的同学停止说话时，你可以插话问另一个问题！",
+                        "url": ""
+                    },
+                    {
+                        "source": "Millie and her primary school <em>classmate</em> Kate are talking about their new schools.",
+                        "target": "米莉和她的小学同学凯特正在谈论她们的新学校。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Last term, I mentioned to my <em>classmate</em> Mark that I was having trouble with English.",
+                        "target": "上学期，我跟同学马克提到我英语有困难。",
+                        "url": ""
+                    }
+                ],
+                "baike": {
+                    "showMore": false,
+                    "list": [
+                        {
+                            "lemmaTitle": "classmate",
+                            "link": "https://baike.sogou.com/v174533855.htm?ch=sogou.fanyi",
+                            "abstract": "classmate，英 [ˈklɑːsmeɪt]，美 [ˈklæsmeɪt]。英文单词，名词。指的是同班同学。短语搭配为“old classmate（老同学）”。例句为“It is really nice to have such a good classmate.（有这么好的同学真好）”。",
+                            "wapPic": "//img03.sogoucdn.com/v2/thumb/retype_exclude_gif/ext/auto/q/80/crop/xy/ai/w/140/h/140/resize/w/140?appid=201005&sign=47fb97a208f5f81c4fb8f4df9cad7e75&url=https%3A%2F%2Fpic.baike.soso.com%2Fugc%2Fbaikepic2%2F0%2F20240508104153-1859663285_png_896_550_14943.jpg%2F0",
+                            "pcPic": "//img02.sogoucdn.com/v2/thumb/retype_exclude_gif/ext/auto/q/80/crop/xy/ai/w/140/h/140/resize/w/140?appid=201005&sign=47fb97a208f5f81c4fb8f4df9cad7e75&url=https%3A%2F%2Fpic.baike.soso.com%2Fugc%2Fbaikepic2%2F0%2F20240508104153-1859663285_png_896_550_14943.jpg%2F0"
+                        }
+                    ]
+                }
+            },
+            "book": {
+                "yingyinNormal": [
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/658cb5af1f2c25ef894d7429bd1ba9af_103.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/06d971aafe1755e77c26eda0432e9ba1_31069.mp3",
+                        "isLavafox": true,
+                        "en": "Who? Ortiz, my <em>classmate</em>. He's the mole.",
+                        "zh": "谁？奥蒂兹，我同班同学，他是内鬼。",
+                        "videoNameZh": "《疑犯追踪 第四季》",
+                        "videoNameEn": "《Person of Interest Season 4》",
+                        "url": "http://bisentence_movie.sogou.com/de7614f51b0d9288c6d534c992832936_f5295967b8396cce05492e1e05e64545b302415c"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/f9cf90b2f80fc9b4d2968cd441a42c77_36232.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/7e51d87e7b55ca858768c4c5aa5eb575_45144.mp3",
+                        "isLavafox": true,
+                        "en": "So nice of you to show our new <em>classmate</em> around.",
+                        "zh": "带新同学认识环境，你还真是热心啊。",
+                        "videoNameZh": "《歌舞青春》",
+                        "videoNameEn": "《High School Musical》",
+                        "url": "http://bisentence_movie.sogou.com/1e91fa9dca00c958d901498a4a02caf1_c17886471e9f5dbd5d5f592d14de8651d86b1108"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/0a13ccf38dbac0df5a5c6a86f5d3355c_59759.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/673a276aba926f1597b0b8b8dda98f34_62023.mp3",
+                        "isLavafox": true,
+                        "en": "The first person I ever met who shares the name with a whole building. Or so I met when the first <em>classmate</em> I met was Sarah Wigglesworth, who bore no relation at all to the dorm, which would have been nice to know with that very intimidating moment.",
+                        "zh": "我还碰到了第一个名字同整座建筑一样的人。这个人的名字叫作莎拉·威格尔斯沃思。她同那栋宿舍楼没有任何关系。当时我很震惊，知道没关系后我才舒了一口气。",
+                        "videoNameZh": "《Facebook COO谢丽尔·桑德伯格哈佛演讲》",
+                        "videoNameEn": "《Sheryl Speech at Harvard》",
+                        "url": "http://bisentence_movie.sogou.com/c6999496db6addb273a4b34d3706609d_a8f470bc95d8e464dbba4c34e2a5e5a9f64d86ba"
+                    }
+                ]
+            },
+            "pic": "",
+            "voice": {
+                "phonetic": [
+                    {
+                        "text": "ˈklɑːsmeɪt",
+                        "type": "uk",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/13881_classmate_uk.mp3"
+                    },
+                    {
+                        "text": "ˈklæsmeɪt",
+                        "type": "usa",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/13881_classmate_usa.mp3"
+                    }
+                ]
+            },
+            "dictType": "oxford_buchong",
+            "CET6": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 3,
+                        "pos": "n",
+                        "chinese": "同学",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "classmate",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2016.6-2023.6年8年间全六级试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight>考纲释义</highlight>\n精选实考、考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2016-2023年51套试卷，包括阅读、听力、翻译等所有题型。\n\n<highlight>真题例句</highlight>\n精选2016-2023年8年间全六级试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 1,
+                "total_exam_freq": 3,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "同学",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "It's telling that, while Google began life as a PhD thesis, Facebook started as a tool to judge <highlight>classmates</highlight>' appearances.",
+                                    "month": 12,
+                                    "source": "CET6",
+                                    "coll": "",
+                                    "sentence_trans": "很明显，当谷歌以一篇博士论文的形式诞生时，脸书却是作为一个评判同学外貌的工具而诞生的。",
+                                    "year": 2021,
+                                    "type": "阅读理解C",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "word_affix": {
+                    "word": "classmate",
+                    "sub_affix_info_list": [
+                        {
+                            "affix": "class",
+                            "affix_mean": "n. 等级"
+                        },
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "roommate",
+                                            "mean": "n. 室友"
+                                        },
+                                        {
+                                            "word": "teammate",
+                                            "mean": "n. 同队队员；队友"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "名词后缀, \"人\"",
+                                    "affix_type": "suffix"
+                                }
+                            ],
+                            "affix": "-mate",
+                            "affix_mean": "人"
+                        }
+                    ],
+                    "word_mean": "n. 同班同学"
+                },
+                "exchange_info": {
+                    "word_pl": [
+                        "classmates"
+                    ]
+                }
+            },
+            "CET4": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 4,
+                        "pos": "n",
+                        "chinese": "同学",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "classmate",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2016.6-2023.6年8年间全四级试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight>考纲释义</highlight>\n精选实考、考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2016-2023年51套试卷，包括阅读、听力、翻译等所有题型。\n\n<highlight>真题例句</highlight>\n精选2016-2023年8年间试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 1,
+                "total_exam_freq": 4,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "同学",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "He was really touched by his <highlight>classmates</highlight>.",
+                                    "month": 7,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "他被同学们深深感动了。",
+                                    "year": 2020,
+                                    "type": "听力",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "So his <highlight>classmates</highlight> decided to give him another chance.",
+                                    "month": 7,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "所以他的同学们决定给他第二次机会。",
+                                    "year": 2020,
+                                    "type": "听力",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "word_affix": {
+                    "word": "classmate",
+                    "sub_affix_info_list": [
+                        {
+                            "affix": "class",
+                            "affix_mean": "n. 等级"
+                        },
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "roommate",
+                                            "mean": "n. 室友"
+                                        },
+                                        {
+                                            "word": "teammate",
+                                            "mean": "n. 同队队员；队友"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "名词后缀, \"人\"",
+                                    "affix_type": "suffix"
+                                }
+                            ],
+                            "affix": "-mate",
+                            "affix_mean": "人"
+                        }
+                    ],
+                    "word_mean": "n. 同班同学"
+                },
+                "exchange_info": {
+                    "word_pl": [
+                        "classmates"
+                    ]
+                }
+            },
+            "gaokao": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 8,
+                        "pos": "n",
+                        "chinese": "同学",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "classmate",
+                "word_level_phrase_info": [
+                    {
+                        "brief_definition": "老同学",
+                        "phrase": "old classmate",
+                        "pos": "phr."
+                    }
+                ],
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2015-2022年8年间全国卷和自主命题省市高考卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2015-2022年全国卷高考试卷，包括阅读、完形、单选、填空、听力、改错、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选各省市考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2015-2022年8年间全国卷和自主命题省市高考卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 2,
+                "total_exam_freq": 8,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "同学",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "Thus, it may be worth bringing up issues with your friends, family members, or <highlight>classmates</highlight> rather than holding them back.",
+                                    "month": -1,
+                                    "source": "北京卷",
+                                    "coll": "",
+                                    "sentence_trans": "因此，与其阻止他们，向你的朋友、家人或同学提出问题更加值得。",
+                                    "year": 2021,
+                                    "type": "阅读表达",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "My <highlight>classmates</highlight> and I are talking about what to do during the holiday.",
+                                    "month": -1,
+                                    "source": "全国卷2",
+                                    "coll": "",
+                                    "sentence_trans": "我的同学和我正在谈论假期要做什么。",
+                                    "year": 2016,
+                                    "type": "改错",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Some <highlight>classmates</highlight> suggest we should go to places of interest nearby.",
+                                    "month": -1,
+                                    "source": "全国卷2",
+                                    "coll": "",
+                                    "sentence_trans": "一些同学建议我们应该去附近的名胜古迹。",
+                                    "year": 2016,
+                                    "type": "改错",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "word_affix": {
+                    "word": "classmate",
+                    "sub_affix_info_list": [
+                        {
+                            "affix": "class",
+                            "affix_mean": "n. 等级"
+                        },
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "roommate",
+                                            "mean": "n. 室友"
+                                        },
+                                        {
+                                            "word": "teammate",
+                                            "mean": "n. 同队队员；队友"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "名词后缀, \"人\"",
+                                    "affix_type": "suffix"
+                                }
+                            ],
+                            "affix": "-mate",
+                            "affix_mean": "人"
+                        }
+                    ],
+                    "word_mean": "n. 同班同学"
+                },
+                "exchange_info": {
+                    "word_pl": [
+                        "classmates"
+                    ]
+                }
+            },
+            "zhongkao": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 121,
+                        "pos": "cn",
+                        "chinese": "同班同学",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "classmate",
+                "direction_info": {
+                    "ranges": 4,
+                    "description": "数据源自2018-2021年4年间全国各省市中考试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2018-2021年全国重点省市中考试卷，包括听力、阅读、完形、单选、填空、改错、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选各省市考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2018-2021年4年间全国各省市中考试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 5,
+                "total_exam_freq": 121,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "同班同学",
+                            "pos": "cn",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "Helen wants to visit the Underwater Museum with her <highlight>classmate</highlight> Sally.",
+                                    "month": -1,
+                                    "source": "遂宁市卷",
+                                    "coll": "",
+                                    "sentence_trans": "海伦想和她的同学莎莉一起去参观水下博物馆。",
+                                    "year": 2021,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "It is really nice to have such a good <highlight>classmate</highlight>.",
+                                    "month": -1,
+                                    "source": "河北省卷",
+                                    "coll": "",
+                                    "sentence_trans": "有这么好的同学真好。",
+                                    "year": 2019,
+                                    "type": "词汇运用",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "After a few minutes, she told them to be kind to their new <highlight>classmate</highlight> and then she left.",
+                                    "month": -1,
+                                    "source": "南宁卷",
+                                    "coll": "",
+                                    "sentence_trans": "几分钟后，她告诉他们要善待他们的新同学，然后她离开了。",
+                                    "year": 2018,
+                                    "type": "完型填空",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "word_affix": {
+                    "sub_affix_info_list": [
+                        {
+                            "affix": "class",
+                            "affix_mean": "n. 等级"
+                        },
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "roommate",
+                                            "mean": "n. 室友"
+                                        },
+                                        {
+                                            "word": "teammate",
+                                            "mean": "n. 同队队员；队友"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "名词后缀, \"人\"",
+                                    "affix_type": "suffix"
+                                }
+                            ],
+                            "affix": "-mate",
+                            "affix_mean": "人"
+                        }
+                    ],
+                    "word": "classmate",
+                    "word_mean": "n. 同班同学"
+                }
+            },
+            "sentencesData": {
+                "status": 1,
+                "info": "notZh2En",
+                "data": {}
+            },
+            "isAutoMatch": false,
+            "Zh2En": false
+        },
+        "query": "classmate",
+        "result": "同班同学",
+        "tabSelect": "detail",
+        "dictionaryType": "oxford_buchong",
+        "notFound_show": false,
+        "phoneticShow": "",
+        "globalShowTranslateRecord": "",
+        "pronPrefer": {
+            "type": "usa_1",
+            "speaker": "male",
+            "speed": "standard"
+        },
+        "ServerRecord": "",
+        "ServerUIGS": {
+            "version": "new",
+            "type": "all",
+            "stype": "success",
+            "terminal": "web",
+            "fr": "default",
+            "direction": "etoz",
+            "from": "en",
+            "to": "zh-CHS",
+            "len": 9,
+            "qtype": "text",
+            "qctype": "qc_1",
+            "dict_cover": 1,
+            "detail": 1,
+            "wordCardCover": 1,
+            "wordCardEn": 1,
+            "wordCardCh": 0,
+            "wordCardMinor": 0,
+            "wordCardNetmean": 0,
+            "wordDeform": 1,
+            "keyword": 0,
+            "bilingual": 1,
+            "simple": 0,
+            "levelList": 1,
+            "synonym": 0,
+            "antonym": 0,
+            "conjugate": 0,
+            "rootaffix": 1,
+            "baike_sogou": 1,
+            "baike_wiki": 0,
+            "wordDifference": 0,
+            "word_phrase": 1,
+            "secondQuery": 0,
+            "dict_oxford": 0,
+            "dict_newcentury": 0,
+            "zhongkaotab": 1,
+            "gaokaotab": 1,
+            "CET4tab": 1,
+            "CET6tab": 1,
+            "kaoyantab": 0,
+            "network_tab": 0,
+            "yinying_tab": 1,
+            "tuozhan_tab": 0,
+            "one_pic": 0,
+            "more_pic": 0,
+            "no_pic": 0,
+            "uuid": "38e72235-94f1-45f4-8f63-60af921f4e7a",
+            "from_type": 0,
+            "t_trans_ssr": 179
+        },
+        "ServerModelUIGS": {
+            "terminal": "web",
+            "type": "trans_model",
+            "pbtype": "pv",
+            "model_general": 1,
+            "model_medical": 1,
+            "model_finance": 1
+        },
+        "ServerSgtkn": "64DED4A6FD76852C26210E9D2691BE0627E1F54767551522",
+        "suggShow": false,
+        "suggestion": "",
+        "suggDirection": "",
+        "usualTop": "",
+        "baseDict": "",
+        "wordCardClick": false,
+        "isFrInput": false,
+        "kanaTips": {
+            "show": false,
+            "left": "",
+            "top": "",
+            "type": "",
+            "arrowLeft": ""
+        },
+        "currSentenceIndex": -1,
+        "prefixStrObj": {
+            "prefixStr": "",
+            "oriPrefixStr": ""
+        },
+        "selectTransBox": {
+            "show": false,
+            "right": 0,
+            "top": 0,
+            "paraphraseInfo": {
+                "word": "",
+                "from": "",
+                "to": "",
+                "area": ""
+            }
+        },
+        "sentenceLoading": false,
+        "newSentenceInfo": {
+            "sentence": "",
+            "candidateIndex": 0
+        },
+        "moreTipInfo": {
+            "opacity": 0,
+            "zIndex": -1
+        },
+        "paraphraseShowInfo": {
+            "card": 0,
+            "query": "",
+            "card_dict": 0
+        },
+        "selectType": "",
+        "wordPos": 0,
+        "candidateWord": "",
+        "syntaxVisible": false,
+        "syntaxStatus": 0
+    },
+    "language": {
+        "from": "auto",
+        "to": "zh-CHS",
+        "detect": "en",
+        "model": "general",
+        "detectShow": false,
+        "langMap": {
+            "current": ""
+        },
+        "zh2en": false,
+        "fromItemList": [
+            {
+                "lang": "auto",
+                "text": "自动检测",
+                "play": false
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "th",
+                "text": "泰语",
+                "play": true,
+                "abbr": "泰"
+            },
+            {
+                "lang": "vi",
+                "text": "越南语",
+                "play": true,
+                "abbr": "越"
+            },
+            {
+                "lang": "fr",
+                "text": "法语",
+                "play": true,
+                "abbr": "法"
+            }
+        ],
+        "toItemList": [
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "fr",
+                "text": "法语",
+                "play": true,
+                "abbr": "法"
+            },
+            {
+                "lang": "ko",
+                "text": "韩语",
+                "play": true,
+                "abbr": "韩"
+            },
+            {
+                "lang": "ru",
+                "text": "俄语",
+                "play": true,
+                "abbr": "俄"
+            }
+        ]
+    },
+    "voice": {
+        "from": {
+            "lang": "en",
+            "type": "from",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22classmate%22%2C%22spokenDialect%22%3A%22en%22%2C%22rate%22%3A%220.8%22%7D",
+            "list": [
+                {
+                    "type": "uk_0",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "ˈklɑːsmeɪt",
+                    "abbr": "英",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/13881_classmate_uk.mp3"
+                },
+                {
+                    "type": "usa_1",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "ˈklæsmeɪt",
+                    "abbr": "美",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/13881_classmate_usa.mp3"
+                }
+            ],
+            "stype": "phonetic",
+            "phoneticShow": [
+                {
+                    "text": "ˈklɑːsmeɪt",
+                    "type": "uk",
+                    "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/13881_classmate_uk.mp3"
+                },
+                {
+                    "text": "ˈklæsmeɪt",
+                    "type": "usa",
+                    "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/13881_classmate_usa.mp3"
+                }
+            ]
+        },
+        "to": {
+            "lang": "zh",
+            "type": "to",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22%E5%90%8C%E7%8F%AD%E5%90%8C%E5%AD%A6%22%2C%22spokenDialect%22%3A%22zh-CHS%22%2C%22rate%22%3A%220.8%22%7D",
+            "stype": "normal"
+        }
+    }
+}

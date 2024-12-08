@@ -1,0 +1,1450 @@
+{
+    "route": {
+        "name": "text",
+        "path": "/text",
+        "hash": "",
+        "query": {
+            "keyword": "city",
+            "transfrom": "auto",
+            "transto": "zh-CHS",
+            "model": "general",
+            "errcode": "s10"
+        },
+        "params": {},
+        "fullPath": "/text?keyword=city&transfrom=auto&transto=zh-CHS&model=general&errcode=s10",
+        "meta": {
+            "mtype": [
+                "textTranslate",
+                "language",
+                "voice"
+            ]
+        },
+        "from": {
+            "name": null,
+            "path": "/",
+            "hash": "",
+            "query": {},
+            "params": {},
+            "fullPath": "/",
+            "meta": {}
+        }
+    },
+    "common": {
+        "CONFIG": {
+            "wuid": 1733629026261,
+            "loginInfo": {},
+            "isIE": 0,
+            "isHitSsrSwitch": true,
+            "isHitWritebookSwitch": false,
+            "isHitAmsSwitch": true,
+            "promotionList": "{\n    \"pc_bottom\":{\n        \"imgsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\",\n        \"qcsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\"\n    },\n    \"pc_middle\":[\n        {\n            \"src\":\"//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c\",\n            \"bgColor\":\"#ffffff\",\n            \"link\":\"\"\n        }\n    ],\n    \"pc_survey\":{\n        \"icon\":\"//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750\",\n        \"link\":\"https://wj.qq.com/s2/8193148/806d/\"\n    }\n}",
+            "bannerData": [],
+            "isHitAsideSurvey": false,
+            "secretCode": 109984457,
+            "uuid": "727db58a-0b1f-4d78-98fd-f4bac8936ae9",
+            "referer": "",
+            "approveToken": "64DE13DA6320D17973755ACA843B27537379ED7667551462",
+            "loadTime": 1733629026263,
+            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0",
+            "fcp": "183.36.74.79",
+            "temporaryId": "",
+            "fileId": ""
+        },
+        "hotWords": [],
+        "isFromCollect": false,
+        "psdModify": {
+            "currentStep": 1,
+            "scode": "",
+            "username": ""
+        },
+        "loginStatus": true,
+        "feedBackModule": false,
+        "showPromotionPopup": {
+            "show": false,
+            "type": ""
+        },
+        "showPromotionPCDownload": false,
+        "showShareBomb": false,
+        "shareData": null,
+        "showAppDownLoad": false,
+        "showLoginDialog": false,
+        "showLoading": {
+            "show": false
+        },
+        "toast": {
+            "show": false,
+            "text": "",
+            "loading": false
+        },
+        "modelToast": {
+            "show": false,
+            "text": ""
+        },
+        "selectionGlobalShow": true,
+        "selectionInfo": {
+            "left": 0,
+            "top": 0,
+            "show": false,
+            "from": "",
+            "to": "",
+            "val": "",
+            "area": ""
+        },
+        "showConfirmDialog": false,
+        "promotionList": {
+            "pc_bottom": {
+                "imgsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png",
+                "qcsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png"
+            },
+            "pc_middle": [
+                {
+                    "src": "//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c",
+                    "bgColor": "#ffffff",
+                    "link": ""
+                }
+            ],
+            "pc_survey": {
+                "icon": "//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750",
+                "link": "https://wj.qq.com/s2/8193148/806d/"
+            }
+        },
+        "transTypeTxt": "text",
+        "fixedTabStatus": 0,
+        "bodyTop": 0,
+        "ifHideUserOperation": false
+    },
+    "textTranslate": {
+        "prevTransQuery": "",
+        "translateData": {
+            "translate": {
+                "zly": "zly",
+                "errorCode": "0",
+                "qc_type": "1",
+                "index": "content0",
+                "from": "en",
+                "source": "sogou",
+                "text": "city",
+                "to": "zh-CHS",
+                "id": "727db58a-0b1f-4d78-98fd-f4bac8936ae9",
+                "dit": "城市",
+                "orig_text": "city",
+                "md5": ""
+            },
+            "detect": {
+                "zly": "zly",
+                "detect": "en",
+                "errorCode": "0",
+                "language": "英语",
+                "id": "b25573a0-b515-11ef-b99d-b7885255479a",
+                "text": "city"
+            },
+            "sgtkn": "64DE13E06320D17973755ACA843B27537379ED7667551462",
+            "wordCard": {
+                "title": "city",
+                "show": true,
+                "usualDict": [
+                    {
+                        "values": [
+                            "城市；都市；市政府；市民；全市居民；<英>伦敦商业区（the City）；<英>（国王或女王授权的）特许市；<美>（由州政府授予特权的）特权市"
+                        ],
+                        "pos": "n."
+                    }
+                ],
+                "secondQuery": "",
+                "exchange": {
+                    "word_pl": [
+                        "cities"
+                    ]
+                },
+                "levelList": [
+                    "小学",
+                    "初中",
+                    "高中",
+                    "四级",
+                    "六级",
+                    "考研"
+                ]
+            },
+            "detail": {
+                "synonym": [
+                    {
+                        "word_list": [
+                            "Cities",
+                            "ciudad"
+                        ],
+                        "pos": "n.",
+                        "mean": "城市，都市"
+                    },
+                    {
+                        "word_list": [
+                            "urban"
+                        ],
+                        "pos": "adj.",
+                        "mean": "城市的；都会的"
+                    }
+                ],
+                "wordRootInfo": {
+                    "word_info_list": [
+                        {
+                            "word": "citified",
+                            "pos_mean_info_list": [
+                                {
+                                    "pos": "adj.",
+                                    "mean": "都市风尚的；有都市气概的"
+                                }
+                            ]
+                        },
+                        {
+                            "word": "cit",
+                            "pos_mean_info_list": [
+                                {
+                                    "pos": "n.",
+                                    "mean": "市民；老百姓服装，便服"
+                                }
+                            ]
+                        },
+                        {
+                            "word": "cityscape",
+                            "pos_mean_info_list": [
+                                {
+                                    "pos": "n.",
+                                    "mean": "都市风景；城市风光"
+                                }
+                            ]
+                        },
+                        {
+                            "word": "citify",
+                            "pos_mean_info_list": [
+                                {
+                                    "pos": "vt.",
+                                    "mean": "使都市化"
+                                }
+                            ]
+                        }
+                    ],
+                    "root_word": "cit"
+                },
+                "word_difference_info": [
+                    {
+                        "common_mean": "城市",
+                        "word_list": [
+                            "town",
+                            " city"
+                        ],
+                        "word_mean_info__list": [
+                            {
+                                "difference": "一般指规模小的城镇，也指城市中的市区，有时也泛指城市。",
+                                "word": "town"
+                            },
+                            {
+                                "difference": "一般指大城市或重要城市。",
+                                "word": "city"
+                            }
+                        ]
+                    }
+                ],
+                "word_group": [
+                    {
+                        "brief_definition": "紫禁城；故宫",
+                        "phrase": "the forbidden city",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "城市公园",
+                        "phrase": "city park",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "主办城市",
+                        "phrase": "host city",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "城镇规划",
+                        "phrase": "city planning",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "沿海城市；海滨城市；沿岸城市",
+                        "phrase": "coastal city",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "市议会；市政局",
+                        "phrase": "city council",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "市府办公大楼, 市政厅",
+                        "phrase": "city hall",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "内城；市中心区",
+                        "phrase": "inner city",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "姐妹城市",
+                        "phrase": "sister city",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "边沿城市",
+                        "phrase": "edge city",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "花园城",
+                        "phrase": "garden city",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "圣城；耶路撒冷；天堂",
+                        "phrase": "holy city",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "城邦",
+                        "phrase": "city state",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "市政执行官",
+                        "phrase": "city manager",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "城市滑头",
+                        "phrase": "city slicker",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "两座彼此临近的城市之一；双子城；姐妹城",
+                        "phrase": "twin city",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "市内农场",
+                        "phrase": "city farm",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "商业新闻部；本地新闻部",
+                        "phrase": "city desk",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "金融新闻版",
+                        "phrase": "city page",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "城市元老；城市管理机构的成员",
+                        "phrase": "city father",
+                        "pos": "n."
+                    }
+                ],
+                "bilingual": [
+                    {
+                        "source": "She lives in the <em>city</em>.",
+                        "target": "她住在城市里。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Cairo is a big <em>city</em>.",
+                        "target": "开罗是一个大城市。",
+                        "url": ""
+                    },
+                    {
+                        "source": "He is living in the <em>city</em>.",
+                        "target": "他住在城市里。",
+                        "url": ""
+                    },
+                    {
+                        "source": "I live in a big <em>city</em>.",
+                        "target": "我住在一个大城市。",
+                        "url": ""
+                    },
+                    {
+                        "source": "London is a big <em>city</em>.",
+                        "target": "伦敦是一个大城市。",
+                        "url": ""
+                    },
+                    {
+                        "source": "The <em>city</em> is very safe.",
+                        "target": "这座城市非常安全。",
+                        "url": ""
+                    },
+                    {
+                        "source": "I don't like the <em>city</em>.",
+                        "target": "我不喜欢这个城市。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Was it a big <em>city</em> then?",
+                        "target": "那时是个大城市吗？",
+                        "url": ""
+                    },
+                    {
+                        "source": "Does she live in the <em>city</em>?",
+                        "target": "她住在城市里吗？",
+                        "url": ""
+                    },
+                    {
+                        "source": "It is a beautiful <em>city</em>.",
+                        "target": "它是一个美丽的城市。",
+                        "url": ""
+                    }
+                ],
+                "baike": {
+                    "showMore": false,
+                    "list": [
+                        {
+                            "lemmaTitle": "city",
+                            "link": "https://baike.sogou.com/v174533849.htm?ch=sogou.fanyi",
+                            "abstract": "city，音标[ˈsɪti]，英文单词。作名词：城市、都市。例句：I'll join him in Mexico City.（我会在墨西哥城和他会合。） city的近义词：urban、ciudad、cities。",
+                            "wapPic": "",
+                            "pcPic": ""
+                        },
+                        {
+                            "lemmaTitle": "CITY",
+                            "link": "https://baike.sogou.com/v190121487.htm?ch=sogou.fanyi",
+                            "abstract": "CITY，是一款由网易游戏开发的手机游戏。",
+                            "wapPic": "//img03.sogoucdn.com/v2/thumb/retype_exclude_gif/ext/auto/q/80/crop/xy/ai/w/140/h/140/resize/w/140?appid=201005&sign=c2a5016ae8aec484c86fed15da0dc2ec&url=http%3A%2F%2Fpic.baike.soso.com%2Fugc%2Fbaikepic2%2F10399%2Fcut-20200619093908-766965906_jpg_580_386_19026.jpg%2F0",
+                            "pcPic": "//img02.sogoucdn.com/v2/thumb/retype_exclude_gif/ext/auto/q/80/crop/xy/ai/w/140/h/140/resize/w/140?appid=201005&sign=c2a5016ae8aec484c86fed15da0dc2ec&url=http%3A%2F%2Fpic.baike.soso.com%2Fugc%2Fbaikepic2%2F10399%2Fcut-20200619093908-766965906_jpg_580_386_19026.jpg%2F0"
+                        }
+                    ]
+                }
+            },
+            "book": {
+                "yingyinNormal": [
+                    {
+                        "picUrl": "http://img01.sogoucdn.com/app/a/200797/a5f0c798-5e82-44ce-a243-cba93ebc1427",
+                        "audioUrl": "https://fanyiappdownload.sogoucdn.com/starEggsAudio/62d1ac2021e54a3a8971b2cf48ffc75f.mp3",
+                        "isLavafox": true,
+                        "en": "And one day, this city is gonna respect us.",
+                        "zh": "总有一天，我们会赢得这座城市的尊重。",
+                        "videoNameZh": "Arcane"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/5dc3cf8cad26e071498ca907fcc13dc6_46983.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/9ed7bc320fdae414f86f278c00f62838_69569.mp3",
+                        "isLavafox": true,
+                        "en": "Excuse me, is this Potato <em>City</em>? No, that's Potato <em>City</em>.",
+                        "zh": "请问一下，这里是土豆城市吗？不是，那个才是土豆城市。",
+                        "videoNameZh": "《小猪佩奇 第四季》",
+                        "videoNameEn": "《Peppa Pig Season 4》",
+                        "url": "http://bisentence_movie.sogou.com/d2a3ada2c310ee595e3355ab955d5780_b5ed1c43fdefd29483652a5485aa23b7cfbb0217"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/5dc3cf8cad26e071498ca907fcc13dc6_46983.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/3d772e2e43af187490b2ba3c49bbd951_55352.mp3",
+                        "isLavafox": true,
+                        "en": "Peppa and her family are going to Potato <em>City</em>.",
+                        "zh": "佩奇和她的家人一起去土豆城市玩。",
+                        "videoNameZh": "《小猪佩奇 第四季》",
+                        "videoNameEn": "《Peppa Pig Season 4》",
+                        "url": "http://bisentence_movie.sogou.com/9c5a1398c99604e240aa577e2e856cb1_23d27112aeeba9343438d80480d929bd95ab9557"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/791389553cedc2dca8e4f0bcddd956ec_6163.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/8bb102dcd12576adfc0d8bc7542553dc_14179.mp3",
+                        "isLavafox": true,
+                        "en": "It would save the <em>city</em>, it would save the people.",
+                        "zh": "这样就可以会拯救城市，拯救人民。",
+                        "videoNameZh": "《忍者神龟：变种时代》",
+                        "videoNameEn": "《Teenage Mutant Ninja Turtles》",
+                        "url": "http://bisentence_movie.sogou.com/961c12752a80701f6b2996de7101f1fa_33704795b27038602e1c0d6b55232ef78685f485"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/bedafc9cbd9ff62be49e08cf3cb8efa0_35632.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/fa450bfa559df51bfb1ee423eae8a4f8_51899.mp3",
+                        "isLavafox": true,
+                        "en": "Las Vegas dazzles like no other <em>city</em>.",
+                        "zh": "拉斯维加斯的璀璨，其他城市都不能与之相提并论。",
+                        "videoNameZh": "《10大名城旅游攻略》",
+                        "videoNameEn": "《10 Cities Vacation Travel Guide》",
+                        "url": "http://bisentence_movie.sogou.com/082c5e249dabf1a096bb1abb9fd73e30_b6119758c41ef361c6c6468a137d0c89a9a2a764"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/8f3cc3eec1861bd20384f74300bfb822_44815.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/5a3c728d48270e7f75c2c6a43551ea72_33512.mp3",
+                        "isLavafox": true,
+                        "en": "The blast wave will incinerate that <em>city</em> into molten metal.",
+                        "zh": "冲击波会把整座城市熔成金属。",
+                        "videoNameZh": "《变形金刚4：绝迹重生》",
+                        "videoNameEn": "《Transformers: Age of Extinction》",
+                        "url": "http://bisentence_movie.sogou.com/8177305ac08379fe7d4fde6398e1da37_3afe1f03bcf847ed2c478081f428ca2521462e08"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/1fd5136b25b0bb93bc3475b8feb28bf6_63175.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/e4fd029999baeef89a422e6dd0ea71a7_27700.mp3",
+                        "isLavafox": true,
+                        "en": "This is the coastal <em>city</em> of Shenzhen in southeast China.",
+                        "zh": "这就是沿海城市深圳，位于中国东南部。",
+                        "videoNameZh": "《鸟瞰中国》",
+                        "videoNameEn": "《China from Above》",
+                        "url": "http://bisentence_movie.sogou.com/dc9e8b5756385e8981e03c49663905df_71fe6968fe5f1109e82b491c3b3ff72216a30da6"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/791389553cedc2dca8e4f0bcddd956ec_6163.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/d0f79d43f698637c0e96f47e137cb02a_13691.mp3",
+                        "isLavafox": true,
+                        "en": "Shredder will force this <em>city</em> to live under our rule.",
+                        "zh": "施莱德会强迫这座城市在我们的规矩下生活。",
+                        "videoNameZh": "《忍者神龟：变种时代》",
+                        "videoNameEn": "《Teenage Mutant Ninja Turtles》",
+                        "url": "http://bisentence_movie.sogou.com/3858f6470756f6fa31afd060e16a68b9_2dae1a0cb9ce6a30c0a9f8f7be5276102c909e71"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/81f2adfbe55184698d34da8bed6fc7ae_37120.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/ed74ace5cafda2f99251255ff2a19652_22677.mp3",
+                        "isLavafox": true,
+                        "en": "In 2045, Columbus is the fastest-growing <em>city</em> on Earth.",
+                        "zh": "哥伦布在2045年是全球发展最快的城市。",
+                        "videoNameZh": "《头号玩家》",
+                        "videoNameEn": "《Ready Player One》",
+                        "url": "http://bisentence_movie.sogou.com/bfa199ee8b687e981964ea79b4b92561_fe7185cfb0ca2be693271dabb131763aba4c409e"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/b630caafa2606557856da7a333933a5d_54182.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/043af6ada4319214f2ef54a30d7a92e9_1444.mp3",
+                        "isLavafox": true,
+                        "en": "Where is that? Sim <em>City</em>. More specifically, the Sim <em>City</em> I designed, Sheldonopolis.",
+                        "zh": "是哪里呢？模拟城市[一款游戏]，更确切地说，是我设计的模拟城市，谢尔顿奥波利斯。",
+                        "videoNameZh": "《生活大爆炸 第三季》",
+                        "videoNameEn": "《The Big Bang Theory Season 3》",
+                        "url": "http://bisentence_movie.sogou.com/f675ce265bd4b94cd12843b44d956e05_750093f2aaf7353526f576bd677315e9f42d782f"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/bedafc9cbd9ff62be49e08cf3cb8efa0_35632.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/7eb5ee940ebeec9e4f1c883478a0c499_7467.mp3",
+                        "isLavafox": true,
+                        "en": "But it is their dreams which built the <em>city</em>. A <em>city</em> like no other!",
+                        "zh": "这是个以自己的梦想而建立的城市，别树一帜！",
+                        "videoNameZh": "《10大名城旅游攻略》",
+                        "videoNameEn": "《10 Cities Vacation Travel Guide》",
+                        "url": "http://bisentence_movie.sogou.com/169b4e70b7447ec71a64afe7d8efc76a_8968b1c233993f48a117d28b85e309eb7ad499b0"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/791389553cedc2dca8e4f0bcddd956ec_6163.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/ef58265e7965032d03076213aa7c082a_26974.mp3",
+                        "isLavafox": true,
+                        "en": "Not unlike the Foot Clan and what they'd like to do to our <em>city</em>.",
+                        "zh": "就像大脚帮对我们城市的所作所为。",
+                        "videoNameZh": "《忍者神龟：变种时代》",
+                        "videoNameEn": "《Teenage Mutant Ninja Turtles》",
+                        "url": "http://bisentence_movie.sogou.com/e74428c293a39aac2232629b2671b129_1be7400353d8b05814c3cd00fae02b2120b3ab9f"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/5dc3cf8cad26e071498ca907fcc13dc6_46983.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/e2a5c23dddb48271ec8240d137261124_54684.mp3",
+                        "isLavafox": true,
+                        "en": "I like Potato <em>City</em> because it teaches you about vegetables and swings you round and round. Potato <em>City</em>, where the magic of vegetables never ends.",
+                        "zh": "我喜欢来土豆城市玩 因为这里会教你蔬菜的知识还能坐在蔬菜上转啊转。土豆城市，有无穷无尽的蔬菜魔法永远都不会停止！",
+                        "videoNameZh": "《小猪佩奇 第四季》",
+                        "videoNameEn": "《Peppa Pig Season 4》",
+                        "url": "http://bisentence_movie.sogou.com/0f7001fde3f5883baf05642e941f431a_46ef684dad9c3ae43543ea5096b4577165238af6"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/bedafc9cbd9ff62be49e08cf3cb8efa0_35632.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/8b7ae4d058780e28a489a61bb9394c37_49772.mp3",
+                        "isLavafox": true,
+                        "en": "New York's straightforward grid system makes it an easy <em>city</em> to explore by foot, taxi, or on its subway, which, just like the <em>city</em> never sleeps!",
+                        "zh": "纽约城市规划采用简单的网格系统，令人易于游走这个城市，无论是步行，乘搭的士或者地铁都可以尽情探索，简直像个不夜城！",
+                        "videoNameZh": "《10大名城旅游攻略》",
+                        "videoNameEn": "《10 Cities Vacation Travel Guide》",
+                        "url": "http://bisentence_movie.sogou.com/6063d74fa791e6f1e4811abd8d17bc0b_25d8c52c0dc236ad26428852f6f2908057383294"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/6eb44e6b184aef9609d792a739b27dd9_60807.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/17cd06661653c8fe66ba0438e9ed357f_2739.mp3",
+                        "isLavafox": true,
+                        "en": "Gun? We got a whole <em>city</em>. And we may have more than that.",
+                        "zh": "还要枪？我们拥有整座城市。而且还不止这些。",
+                        "videoNameZh": "《速度与激情7》",
+                        "videoNameEn": "《Fast & Furious 7》",
+                        "url": "http://bisentence_movie.sogou.com/065dff4b6b0cd1770132b742c2d6e7d5_5383ef1a6cbb5c2afb9aa2f2d759f7f666e2d94b"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/658cb5af1f2c25ef894d7429bd1ba9af_103.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/0d136e32e770bb3860cfe9df6117c2fc_54114.mp3",
+                        "isLavafox": true,
+                        "en": "Bulletproof limo too. Weapon like this could wreak havoc on the <em>city</em>.",
+                        "zh": "防弹车也一样，这种武器能毁了这个城市。",
+                        "videoNameZh": "《疑犯追踪 第四季》",
+                        "videoNameEn": "《Person of Interest Season 4》",
+                        "url": "http://bisentence_movie.sogou.com/99c6dad64fde0f7dd5be914839f9db91_d046cd175c1a27f07e5e7d499f51c07076d050f5"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/a243d19f386370afcf6d45a32b45dc5d_51652.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/43e66aa0a23bf110d6be11cd33ffff11_40159.mp3",
+                        "isLavafox": true,
+                        "en": "A story from Rome, a <em>city</em> you destroyed. It's a classic.",
+                        "zh": "这个故事来自罗马，一个被你毁掉的城市。故事很经典。",
+                        "videoNameZh": "《遗落战境》",
+                        "videoNameEn": "《Oblivion》",
+                        "url": "http://bisentence_movie.sogou.com/59af2a9e8f4f85a7c06dc877c3f7f04d_cee69bd11bd234b795b9f63b080c13d3257ecf67"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/bedafc9cbd9ff62be49e08cf3cb8efa0_35632.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/075198bcbca3053f5cbe02fc751fb871_34489.mp3",
+                        "isLavafox": true,
+                        "en": "If ever there was a <em>city</em> that shouldn't be, it's Las Vegas.",
+                        "zh": "如果要数世界上最奇妙的城市，那一定是拉斯维加斯。",
+                        "videoNameZh": "《10大名城旅游攻略》",
+                        "videoNameEn": "《10 Cities Vacation Travel Guide》",
+                        "url": "http://bisentence_movie.sogou.com/54acf61723fe4e13ed10cb3f6d125088_238166b043756f1281c4c3927bd96531cb0327e0"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/bedafc9cbd9ff62be49e08cf3cb8efa0_35632.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/89b9b9185f99c02f28ca1eb557f30052_53452.mp3",
+                        "isLavafox": true,
+                        "en": "Looking north, the <em>city</em> rises into the hillside neighborhood of Montmartre.",
+                        "zh": "往北方看，城市地势向蒙马特山丘区逐渐隆起。",
+                        "videoNameZh": "《10大名城旅游攻略》",
+                        "videoNameEn": "《10 Cities Vacation Travel Guide》",
+                        "url": "http://bisentence_movie.sogou.com/a58b5a0da63d336d8007ae46423a424e_84911b65dc3fa558ff6e67ab445a52d84abbdda1"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/0ce3ba1d09aadca7b93fbf3633e423d4_26694.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/3962fd37cde1da6704dbde1cd4c13aef_15224.mp3",
+                        "isLavafox": true,
+                        "en": "And that dream of becoming a big <em>city</em> cop, double whoopsie, she's a meter maid.",
+                        "zh": "做大城市警察的梦想，哎呀呀，成了交通协管。",
+                        "videoNameZh": "《疯狂动物城》",
+                        "videoNameEn": "《Zootopia》",
+                        "url": "http://bisentence_movie.sogou.com/c04926c3019d65b8cc0fc66676fc6943_303e27d190055f68ff2b201ef42d04ee896c6e2b"
+                    }
+                ]
+            },
+            "pic": "",
+            "voice": {
+                "phonetic": [
+                    {
+                        "text": "ˈsɪti",
+                        "type": "uk",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/366_city_uk.mp3"
+                    },
+                    {
+                        "text": "ˈsɪti",
+                        "type": "usa",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/366_city_usa.mp3"
+                    }
+                ]
+            },
+            "dictType": "oxford_buchong",
+            "kaoyan": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 29,
+                        "pos": "n",
+                        "chinese": "城市",
+                        "sense_tier_ratio": 100
+                    },
+                    {
+                        "sense_tier": 0,
+                        "pos": "n",
+                        "chinese": "市民",
+                        "sense_tier_ratio": 0
+                    }
+                ],
+                "word": "city",
+                "direction_info": {
+                    "ranges": 12,
+                    "description": "数据源自2012-2023年12年间全国考研试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2012-2023年全国考研英语一和考研英语二共24套考研试卷，包括阅读、完型填空、翻译、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选全国考研考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2012-2023年12年间全国考研英语一和考研英语二试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 5,
+                "word_family": {
+                    "derivative_info_list": [
+                        {
+                            "derivative_info_list": [
+                                {
+                                    "derivative_info_list": [],
+                                    "word": "citizenship",
+                                    "mean": "n. 公民权；国籍；公民身份"
+                                },
+                                {
+                                    "derivative_info_list": [],
+                                    "word": "citizenry",
+                                    "mean": "n. 全体市民（或公民）"
+                                }
+                            ],
+                            "word": "citizen",
+                            "mean": "n. 公民；市民；居民"
+                        }
+                    ],
+                    "word": "city",
+                    "mean": "n. 城市；都市；市；自治市；伦敦金融、商业区；特别市；直辖市；带有某种特性的地点"
+                },
+                "total_exam_freq": 29,
+                "sense": {
+                    "sense_num": 2,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "城市",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "A judge has now overruled the <highlight>city</highlight>'s decision to stop levying fines, ordering them reinstated.",
+                                    "month": -1,
+                                    "source": "英语二",
+                                    "coll": "",
+                                    "sentence_trans": "一名法官现在驳回了该市停止征收罚款的决定，命令恢复罚款。",
+                                    "year": 2020,
+                                    "type": "阅读理解A",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "It was specifically to provide <highlight>city</highlight> dwellers with spaces for leisure where they could experience \"a refreshing air.\"",
+                                    "month": -1,
+                                    "source": "英语一",
+                                    "coll": "",
+                                    "sentence_trans": "它专门为城市居民提供休闲空间，让他们可以体验“清新的空气”。",
+                                    "year": 2016,
+                                    "type": "阅读理解A",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "At its peak around AD 600, this <highlight>city</highlight> was one of the largest human settlements in the world.",
+                                    "month": -1,
+                                    "source": "英语一",
+                                    "coll": "",
+                                    "sentence_trans": "在公元600年左右的鼎盛时期，这座城市是世界上最大的人类聚居地之一。",
+                                    "year": 2014,
+                                    "type": "阅读理解B",
+                                    "day": -1
+                                }
+                            ]
+                        },
+                        {
+                            "synonyms": "",
+                            "en": "the people of a city",
+                            "zh": "市民",
+                            "pos": "n",
+                            "antonyms": ""
+                        }
+                    ]
+                }
+            },
+            "CET6": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 53,
+                        "pos": "n",
+                        "chinese": "城市",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "city",
+                "word_level_phrase_info": [
+                    {
+                        "brief_definition": "市府办公大楼；市政厅",
+                        "phrase": "city hall",
+                        "pos": "phr"
+                    }
+                ],
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2016.6-2023.6年8年间全六级试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight>考纲释义</highlight>\n精选实考、考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2016-2023年51套试卷，包括阅读、听力、翻译等所有题型。\n\n<highlight>真题例句</highlight>\n精选2016-2023年8年间全六级试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 5,
+                "word_family": {
+                    "derivative_info_list": [
+                        {
+                            "derivative_info_list": [
+                                {
+                                    "derivative_info_list": [],
+                                    "word": "citizenry",
+                                    "mean": "n. 全体市民（或公民）"
+                                }
+                            ],
+                            "word": "citizen",
+                            "mean": "n. 公民；市民；居民"
+                        }
+                    ],
+                    "word": "city",
+                    "mean": "n. 城市；都市；市；自治市；伦敦金融、商业区；特别市；直辖市；带有某种特性的地点"
+                },
+                "total_exam_freq": 53,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "城市",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "He managed to visit a different <highlight>city</highlight> each day.",
+                                    "month": 6,
+                                    "source": "CET6",
+                                    "coll": "",
+                                    "sentence_trans": "他设法每天参观一个不同的城市。",
+                                    "year": 2021,
+                                    "type": "听力",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Some UK <highlight>cities</highlight> have lobbied without success for the power to levy a charge on visitors.",
+                                    "month": 6,
+                                    "source": "CET6",
+                                    "coll": "",
+                                    "sentence_trans": "一些英国城市曾游说，希望获得向游客收费的权力，但没有成功。",
+                                    "year": 2021,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "The car has reshaped our <highlight>cities</highlight>.",
+                                    "month": 6,
+                                    "source": "CET6",
+                                    "coll": "",
+                                    "sentence_trans": "汽车重塑了我们的城市。",
+                                    "year": 2021,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Its flagship stores in major U.S. <highlight>cities</highlight> depend heavily on international tourist spending, which shrank at many retailers due to a strong dollar.",
+                                    "month": 6,
+                                    "source": "CET6",
+                                    "coll": "",
+                                    "sentence_trans": "它在美国主要城市的旗舰店非常依赖国际游客的消费，由于美元强势，许多零售商的国际游客消费有所减少。",
+                                    "year": 2017,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "word_usage": [
+                    {
+                        "usage": "city 在一般词典里注作 \"城\", 其实是 \"都市\", 不一定有城墙。"
+                    },
+                    {
+                        "usage": "city 和 town 没有绝对的区别, 大概大些的叫 city, 小些的叫 town。\na. city 在美国更常用。美式英语中的 city 相当于英式英语中 town 的大小的地方。\nb. 在英国, 住在 city 里的居民通常管 city 叫做 town。"
+                    },
+                    {
+                        "usage": "city也可表示“全市/城居民”，是集合名词，常用作单数。"
+                    },
+                    {
+                        "usage": "“进城”可说go to the city，也可说go to town。注意town前无冠词。"
+                    },
+                    {
+                        "usage": "the City特指伦敦商业区。"
+                    }
+                ],
+                "exchange_info": {
+                    "word_pl": [
+                        "cities"
+                    ]
+                }
+            },
+            "CET4": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 103,
+                        "pos": "n",
+                        "chinese": "城市",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "city",
+                "word_level_phrase_info": [
+                    {
+                        "brief_definition": "城镇规划",
+                        "phrase": "city planning",
+                        "pos": "n"
+                    },
+                    {
+                        "brief_definition": "沿海城市；海滨城市；沿岸城市",
+                        "phrase": "coastal city",
+                        "pos": "n"
+                    },
+                    {
+                        "brief_definition": "市议会；市政局",
+                        "phrase": "city council",
+                        "pos": "n"
+                    }
+                ],
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2016.6-2023.6年8年间全四级试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight>考纲释义</highlight>\n精选实考、考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2016-2023年51套试卷，包括阅读、听力、翻译等所有题型。\n\n<highlight>真题例句</highlight>\n精选2016-2023年8年间试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 5,
+                "word_family": {
+                    "derivative_info_list": [
+                        {
+                            "derivative_info_list": [],
+                            "word": "citywide",
+                            "mean": "adj. 全市的；全市性的"
+                        },
+                        {
+                            "derivative_info_list": [],
+                            "word": "citizen",
+                            "mean": "n. 公民；市民；居民"
+                        }
+                    ],
+                    "word": "city",
+                    "mean": "n. 城市；都市；市；自治市；伦敦金融、商业区；特别市；直辖市；带有某种特性的地点"
+                },
+                "total_exam_freq": 103,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "城市",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "In other words, when it comes to <highlight>cities</highlight> —-or anything else — it is hard to predict the future.",
+                                    "month": 12,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "换句话说，谈到城市(或任何其他事物)，很难预测未来。",
+                                    "year": 2019,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "While the <highlight>city</highlight> council vote was met with applause inside the council room, opponents to the measure, including soda lobbyists, made sharp criticisms and a promise to challenge the tax in court.",
+                                    "month": 12,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "尽管市政府投票在议事厅获得了赞扬支持，但包括汽水游说者在内的反对者对这项措施提出了尖锐的批评，并承诺将在法院质疑这项征税。",
+                                    "year": 2019,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "That feeling echoes the beliefs of the Therapeutic Food Pantry program at Beiderbecke San Francisco General Hospital, which completed its pilot phase and is about to expand on an ongoing basis to five clinic sites throughout the <highlight>city</highlight>.",
+                                    "month": 12,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "这种感觉与贝德贝克旧金山总医院(Beiderbecke San Francisco General Hospital)治疗食品储藏室项目的信念相呼应，该项目已完成试验阶段，并即将持续扩展到全市五个诊所。",
+                                    "year": 2018,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "About 10 minutes from Princeton and an hour and a half from New York <highlight>City</highlight>, West Windsor and Plainsboro have become popular bedroom communities for technology entrepreneurs, researchers and engineers, drawn in large part by the public schools.",
+                                    "month": 6,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "距离普林斯顿大约10分钟车程、距离纽约市一个半小时车程的西温莎(West Windsor)和普兰斯伯勒(Plainsboro)已成功吸引了大批技术创业者、研究人员和工程师。这在很大程度上要归功于公立学校的吸引力。",
+                                    "year": 2018,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Davida Herzl, Aclima's boss, says they have revealed pollution highs on days when San Francisco's transit workers went on strike and the <highlight>city</highlight>'s inhabitants were forced to use their cars.",
+                                    "month": 6,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "Aclima 的老板 Davida Herzl 表示，他们发现旧金山的运输工人罢工，城市居民被迫开汽车时，空气污染达到了高峰。",
+                                    "year": 2018,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "UNESCO considers the entire <highlight>city</highlight> a World Heritage Site, a great honor that means Venice, at the cultural level, belongs to all of the world's people.",
+                                    "month": 6,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "联合国教科文组织(UNESCO)将整个城市视为世界遗产，这是一项巨大的荣誉，这意味着威尼斯在文化层面上属于世界所有人民。",
+                                    "year": 2018,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "word_usage": [
+                    {
+                        "usage": "city 和 town 没有绝对的区别, 大概大些的叫 city, 小些的叫 town。\na. city 在美国更常用。美式英语中的 city 相当于英式英语中 town 的大小的地方。\nb. 在英国, 住在 city 里的居民通常管 city 叫做 town。"
+                    },
+                    {
+                        "usage": "city 在一般词典里注作 \"城\", 其实是 \"都市\", 不一定有城墙。"
+                    }
+                ],
+                "exchange_info": {
+                    "word_pl": [
+                        "cities"
+                    ]
+                }
+            },
+            "gaokao": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 55,
+                        "pos": "n",
+                        "chinese": "城市",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "city",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2015-2022年8年间全国卷和自主命题省市高考卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2015-2022年全国卷高考试卷，包括阅读、完形、单选、填空、听力、改错、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选各省市考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2015-2022年8年间全国卷和自主命题省市高考卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 5,
+                "word_family": {
+                    "derivative_info_list": [
+                        {
+                            "derivative_info_list": [
+                                {
+                                    "derivative_info_list": [],
+                                    "word": "citizenship",
+                                    "mean": "n. 公民权；国籍；公民身份"
+                                }
+                            ],
+                            "word": "citizen",
+                            "mean": "n. 公民；市民；居民"
+                        }
+                    ],
+                    "word": "city",
+                    "mean": "n. 城市；都市；市；自治市；伦敦金融、商业区；特别市；直辖市；带有某种特性的地点"
+                },
+                "total_exam_freq": 55,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "城市",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "<highlight>Cities</highlight> usually have a good reason for being where they are, like a nearby port or river.",
+                                    "month": -1,
+                                    "source": "全国卷3",
+                                    "coll": "",
+                                    "sentence_trans": "城市的选址通常都有其合理之处，比如靠近港口或河流。",
+                                    "year": 2018,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "I need to show him around the <highlight>city</highlight>.",
+                                    "month": -1,
+                                    "source": "全国卷3",
+                                    "coll": "",
+                                    "sentence_trans": "我要带他参观一下这座城市。",
+                                    "year": 2017,
+                                    "type": "听力",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "With no rains for over a year, the <highlight>city</highlight> is suffering from unusually hot weather.",
+                                    "month": -1,
+                                    "source": "全国卷1",
+                                    "coll": "",
+                                    "sentence_trans": "由于一年多没有下雨，这座城市正遭受着异常炎热的天气。",
+                                    "year": 2017,
+                                    "type": "听力",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Now I am living in a <highlight>city</highlight>, but I miss my home in the countryside.",
+                                    "month": -1,
+                                    "source": "全国卷1",
+                                    "coll": "",
+                                    "sentence_trans": "现在我住在城市，但是我想念我在农村的家。",
+                                    "year": 2015,
+                                    "type": "改错",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "word_usage": [
+                    {
+                        "usage": "city 在一般词典里注作 \"城\"，其实是 \"都市\"，不一定有城墙。"
+                    },
+                    {
+                        "usage": "city 和 town 没有绝对的区别，大概大些的叫 city，小些的叫 town。\na. city 在美国更常用。美式英语中的 city 相当于英式英语中 town 的大小的地方。\nb. 在英国，住在 city 里的居民通常管 city 叫做 town。"
+                    }
+                ],
+                "exchange_info": {
+                    "word_pl": [
+                        "cities"
+                    ]
+                }
+            },
+            "zhongkao": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 425,
+                        "pos": "n",
+                        "chinese": "城市",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "city",
+                "word_level_phrase_info": [
+                    {
+                        "brief_definition": "紫禁城；故宫",
+                        "phrase": "the Forbidden City",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "城市公园",
+                        "phrase": "city park",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "主办城市",
+                        "phrase": "host city",
+                        "pos": "n."
+                    }
+                ],
+                "direction_info": {
+                    "ranges": 4,
+                    "description": "数据源自2018-2021年4年间全国各省市中考试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2018-2021年全国重点省市中考试卷，包括听力、阅读、完形、单选、填空、改错、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选各省市考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2018-2021年4年间全国各省市中考试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 5,
+                "word_family": {
+                    "derivative_info_list": [
+                        {
+                            "derivative_info_list": [],
+                            "word": "citizen",
+                            "mean": "n. 公民；市民；居民"
+                        }
+                    ],
+                    "word": "city",
+                    "mean": "n. 城市；都市；市；自治市；伦敦金融、商业区；特别市；直辖市；带有某种特性的地点"
+                },
+                "total_exam_freq": 425,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "城市",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "In China, each year we produce about 150 million tons of <highlight>city</highlight> waste according to a report.",
+                                    "month": -1,
+                                    "source": "重庆市B卷",
+                                    "coll": "",
+                                    "sentence_trans": "根据一份报告，在中国，每年我们会产生大约1.5亿吨城市垃圾。",
+                                    "year": 2020,
+                                    "type": "单项选择",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "As the <highlight>city</highlight> that has hosted two Olympics before it will host the event 100 years after its last Games.",
+                                    "month": -1,
+                                    "source": "南宁市卷",
+                                    "coll": "",
+                                    "sentence_trans": "作为前两届奥运会的主办城市，北京将在上届奥运会100年后举办奥运会。",
+                                    "year": 2020,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Qingdao is a beautiful <highlight>city</highlight> that lies in the east of China.",
+                                    "month": -1,
+                                    "source": "青岛市卷",
+                                    "coll": "",
+                                    "sentence_trans": "青岛是一座美丽的城市，它位于中国的东部。",
+                                    "year": 2019,
+                                    "type": "完成对话",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "word_usage": [
+                    {
+                        "usage": "city也可表示“全市/城居民”，是集合名词，常用作单数。"
+                    },
+                    {
+                        "usage": "“进城”可说go to the city，也可说go to town。注意town前无冠词。"
+                    },
+                    {
+                        "usage": "the City特指伦敦商业区。"
+                    }
+                ]
+            },
+            "sentencesData": {
+                "status": 1,
+                "info": "notZh2En",
+                "data": {}
+            },
+            "isAutoMatch": false,
+            "Zh2En": false
+        },
+        "query": "city",
+        "result": "城市",
+        "tabSelect": "detail",
+        "dictionaryType": "oxford_buchong",
+        "notFound_show": false,
+        "phoneticShow": "",
+        "globalShowTranslateRecord": "",
+        "pronPrefer": {
+            "type": "usa_1",
+            "speaker": "male",
+            "speed": "standard"
+        },
+        "ServerRecord": "",
+        "ServerUIGS": {
+            "version": "new",
+            "type": "all",
+            "stype": "success",
+            "terminal": "web",
+            "fr": "default",
+            "direction": "etoz",
+            "from": "en",
+            "to": "zh-CHS",
+            "len": 4,
+            "qtype": "text",
+            "qctype": "qc_1",
+            "dict_cover": 1,
+            "detail": 1,
+            "wordCardCover": 1,
+            "wordCardEn": 1,
+            "wordCardCh": 0,
+            "wordCardMinor": 0,
+            "wordCardNetmean": 0,
+            "wordDeform": 1,
+            "keyword": 0,
+            "bilingual": 1,
+            "simple": 0,
+            "levelList": 1,
+            "synonym": 1,
+            "antonym": 0,
+            "conjugate": 1,
+            "rootaffix": 0,
+            "baike_sogou": 1,
+            "baike_wiki": 0,
+            "wordDifference": 1,
+            "word_phrase": 1,
+            "secondQuery": 0,
+            "dict_oxford": 0,
+            "dict_newcentury": 0,
+            "zhongkaotab": 1,
+            "gaokaotab": 1,
+            "CET4tab": 1,
+            "CET6tab": 1,
+            "kaoyantab": 1,
+            "network_tab": 0,
+            "yinying_tab": 1,
+            "tuozhan_tab": 0,
+            "one_pic": 0,
+            "more_pic": 0,
+            "no_pic": 0,
+            "uuid": "727db58a-0b1f-4d78-98fd-f4bac8936ae9",
+            "from_type": 0,
+            "t_trans_ssr": 131
+        },
+        "ServerModelUIGS": {
+            "terminal": "web",
+            "type": "trans_model",
+            "pbtype": "pv",
+            "model_general": 1,
+            "model_medical": 1,
+            "model_finance": 1
+        },
+        "ServerSgtkn": "64DE13E06320D17973755ACA843B27537379ED7667551462",
+        "suggShow": false,
+        "suggestion": "",
+        "suggDirection": "",
+        "usualTop": "",
+        "baseDict": "",
+        "wordCardClick": false,
+        "isFrInput": false,
+        "kanaTips": {
+            "show": false,
+            "left": "",
+            "top": "",
+            "type": "",
+            "arrowLeft": ""
+        },
+        "currSentenceIndex": -1,
+        "prefixStrObj": {
+            "prefixStr": "",
+            "oriPrefixStr": ""
+        },
+        "selectTransBox": {
+            "show": false,
+            "right": 0,
+            "top": 0,
+            "paraphraseInfo": {
+                "word": "",
+                "from": "",
+                "to": "",
+                "area": ""
+            }
+        },
+        "sentenceLoading": false,
+        "newSentenceInfo": {
+            "sentence": "",
+            "candidateIndex": 0
+        },
+        "moreTipInfo": {
+            "opacity": 0,
+            "zIndex": -1
+        },
+        "paraphraseShowInfo": {
+            "card": 0,
+            "query": "",
+            "card_dict": 0
+        },
+        "selectType": "",
+        "wordPos": 0,
+        "candidateWord": "",
+        "syntaxVisible": false,
+        "syntaxStatus": 0
+    },
+    "language": {
+        "from": "auto",
+        "to": "zh-CHS",
+        "detect": "en",
+        "model": "general",
+        "detectShow": false,
+        "langMap": {
+            "current": ""
+        },
+        "zh2en": false,
+        "fromItemList": [
+            {
+                "lang": "auto",
+                "text": "自动检测",
+                "play": false
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "fr",
+                "text": "法语",
+                "play": true,
+                "abbr": "法"
+            },
+            {
+                "lang": "vi",
+                "text": "越南语",
+                "play": true,
+                "abbr": "越"
+            },
+            {
+                "lang": "th",
+                "text": "泰语",
+                "play": true,
+                "abbr": "泰"
+            }
+        ],
+        "toItemList": [
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "vi",
+                "text": "越南语",
+                "play": true,
+                "abbr": "越"
+            },
+            {
+                "lang": "ko",
+                "text": "韩语",
+                "play": true,
+                "abbr": "韩"
+            },
+            {
+                "lang": "ru",
+                "text": "俄语",
+                "play": true,
+                "abbr": "俄"
+            }
+        ]
+    },
+    "voice": {
+        "from": {
+            "lang": "en",
+            "type": "from",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22city%22%2C%22spokenDialect%22%3A%22en%22%2C%22rate%22%3A%220.8%22%7D",
+            "list": [
+                {
+                    "type": "uk_0",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "ˈsɪti",
+                    "abbr": "英",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/366_city_uk.mp3"
+                },
+                {
+                    "type": "usa_1",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "ˈsɪti",
+                    "abbr": "美",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/366_city_usa.mp3"
+                }
+            ],
+            "stype": "phonetic",
+            "phoneticShow": [
+                {
+                    "text": "ˈsɪti",
+                    "type": "uk",
+                    "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/366_city_uk.mp3"
+                }
+            ]
+        },
+        "to": {
+            "lang": "zh",
+            "type": "to",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22%E5%9F%8E%E5%B8%82%22%2C%22spokenDialect%22%3A%22zh-CHS%22%2C%22rate%22%3A%220.8%22%7D",
+            "stype": "normal"
+        }
+    }
+}
