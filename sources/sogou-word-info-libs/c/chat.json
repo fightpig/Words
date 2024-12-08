@@ -1,0 +1,1328 @@
+{
+    "route": {
+        "name": "text",
+        "path": "/text",
+        "hash": "",
+        "query": {
+            "keyword": "chat",
+            "transfrom": "auto",
+            "transto": "zh-CHS",
+            "model": "general",
+            "errcode": "s10"
+        },
+        "params": {},
+        "fullPath": "/text?keyword=chat&transfrom=auto&transto=zh-CHS&model=general&errcode=s10",
+        "meta": {
+            "mtype": [
+                "textTranslate",
+                "language",
+                "voice"
+            ]
+        },
+        "from": {
+            "name": null,
+            "path": "/",
+            "hash": "",
+            "query": {},
+            "params": {},
+            "fullPath": "/",
+            "meta": {}
+        }
+    },
+    "common": {
+        "CONFIG": {
+            "wuid": 1733635425103,
+            "loginInfo": {},
+            "isIE": 0,
+            "isHitSsrSwitch": true,
+            "isHitWritebookSwitch": false,
+            "isHitAmsSwitch": true,
+            "promotionList": "{\n    \"pc_bottom\":{\n        \"imgsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\",\n        \"qcsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\"\n    },\n    \"pc_middle\":[\n        {\n            \"src\":\"//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c\",\n            \"bgColor\":\"#ffffff\",\n            \"link\":\"\"\n        }\n    ],\n    \"pc_survey\":{\n        \"icon\":\"//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750\",\n        \"link\":\"https://wj.qq.com/s2/8193148/806d/\"\n    }\n}",
+            "bannerData": [],
+            "isHitAsideSurvey": false,
+            "secretCode": 109984457,
+            "uuid": "68b8c198-199a-4e5d-ad22-faa00af5a883",
+            "referer": "",
+            "approveToken": "64F5974996523C949E99B725EC3172079FD016C567552D61",
+            "loadTime": 1733635425105,
+            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0",
+            "fcp": "170.64.148.76",
+            "temporaryId": "",
+            "fileId": ""
+        },
+        "hotWords": [],
+        "isFromCollect": false,
+        "psdModify": {
+            "currentStep": 1,
+            "scode": "",
+            "username": ""
+        },
+        "loginStatus": true,
+        "feedBackModule": false,
+        "showPromotionPopup": {
+            "show": false,
+            "type": ""
+        },
+        "showPromotionPCDownload": false,
+        "showShareBomb": false,
+        "shareData": null,
+        "showAppDownLoad": false,
+        "showLoginDialog": false,
+        "showLoading": {
+            "show": false
+        },
+        "toast": {
+            "show": false,
+            "text": "",
+            "loading": false
+        },
+        "modelToast": {
+            "show": false,
+            "text": ""
+        },
+        "selectionGlobalShow": true,
+        "selectionInfo": {
+            "left": 0,
+            "top": 0,
+            "show": false,
+            "from": "",
+            "to": "",
+            "val": "",
+            "area": ""
+        },
+        "showConfirmDialog": false,
+        "promotionList": {
+            "pc_bottom": {
+                "imgsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png",
+                "qcsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png"
+            },
+            "pc_middle": [
+                {
+                    "src": "//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c",
+                    "bgColor": "#ffffff",
+                    "link": ""
+                }
+            ],
+            "pc_survey": {
+                "icon": "//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750",
+                "link": "https://wj.qq.com/s2/8193148/806d/"
+            }
+        },
+        "transTypeTxt": "text",
+        "fixedTabStatus": 0,
+        "bodyTop": 0,
+        "ifHideUserOperation": false
+    },
+    "textTranslate": {
+        "prevTransQuery": "",
+        "translateData": {
+            "translate": {
+                "zly": "zly",
+                "errorCode": "0",
+                "qc_type": "1",
+                "index": "content0",
+                "from": "en",
+                "source": "sogou",
+                "text": "chat",
+                "to": "zh-CHS",
+                "id": "68b8c198-199a-4e5d-ad22-faa00af5a883",
+                "dit": "闲谈",
+                "orig_text": "chat",
+                "md5": ""
+            },
+            "detect": {
+                "zly": "zly",
+                "detect": "en",
+                "errorCode": "0",
+                "language": "英语",
+                "id": "98576850-b524-11ef-9de3-bd027143c4a7",
+                "text": "chat"
+            },
+            "sgtkn": "64F5974D96523C949E99B725EC3172079FD016C567552D61",
+            "wordCard": {
+                "title": "chat",
+                "show": true,
+                "usualDict": [
+                    {
+                        "values": [
+                            "闲谈；聊天；谈天；交谈；碎嘴；拉家常；闲扯；聊八卦"
+                        ],
+                        "pos": "v."
+                    },
+                    {
+                        "values": [
+                            "闲谈；聊天；闲聊；随意交谈；（尤指非正式的）谈话"
+                        ],
+                        "pos": "n."
+                    }
+                ],
+                "secondQuery": "",
+                "exchange": {
+                    "word_third": [
+                        "chats"
+                    ],
+                    "word_ing": [
+                        "chatting"
+                    ],
+                    "word_done": [
+                        "chatted"
+                    ],
+                    "word_past": [
+                        "chatted"
+                    ]
+                },
+                "levelList": [
+                    "小学",
+                    "初中",
+                    "高中",
+                    "四级",
+                    "六级",
+                    "考研",
+                    "雅思",
+                    "托福"
+                ]
+            },
+            "detail": {
+                "synonym": [
+                    {
+                        "word_list": [
+                            "visit with",
+                            "chew the fat"
+                        ],
+                        "pos": "vi.",
+                        "mean": "聊天；闲谈"
+                    },
+                    {
+                        "word_list": [
+                            "chinwag",
+                            "chit-chat"
+                        ],
+                        "pos": "n.",
+                        "mean": "聊天；闲谈"
+                    }
+                ],
+                "wordRootInfo": {
+                    "word_info_list": [
+                        {
+                            "word": "chatty",
+                            "pos_mean_info_list": [
+                                {
+                                    "pos": "adj.",
+                                    "mean": "饶舌的；爱讲闲话的；非正式的"
+                                }
+                            ]
+                        },
+                        {
+                            "word": "chattily",
+                            "pos_mean_info_list": [
+                                {
+                                    "pos": "adv.",
+                                    "mean": "饶舌地；爱讲闲话地"
+                                }
+                            ]
+                        }
+                    ],
+                    "root_word": "chat"
+                },
+                "word_difference_info": [
+                    {
+                        "common_mean": "交谈",
+                        "word_list": [
+                            "dialogue",
+                            " conversation",
+                            " chat",
+                            " talk"
+                        ],
+                        "word_mean_info__list": [
+                            {
+                                "difference": "指“对话”。",
+                                "word": "dialogue"
+                            },
+                            {
+                                "difference": "一般用词，指两个或更多人互相交换意见的交谈。",
+                                "word": "conversation"
+                            },
+                            {
+                                "difference": "指熟人之间非常随便的交谈，强调谈话的亲密和非正式性。",
+                                "word": "chat"
+                            },
+                            {
+                                "difference": "普通用词，可与conversation换用，指正式交谈。",
+                                "word": "talk"
+                            }
+                        ]
+                    }
+                ],
+                "word_group": [
+                    {
+                        "brief_definition": "聊天台",
+                        "phrase": "chat bench",
+                        "pos": "phr."
+                    },
+                    {
+                        "brief_definition": "聊天；闲聊；闲谈",
+                        "phrase": "chat with",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "闲聊谈论着",
+                        "phrase": "chat about",
+                        "pos": "coll"
+                    },
+                    {
+                        "brief_definition": "聊天室",
+                        "phrase": "chat room",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "访谈节目",
+                        "phrase": "chat show",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "不拘礼节的闲谈",
+                        "phrase": "fireside chat",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "与某人调情；与某人攀谈",
+                        "phrase": "chat someone up",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "手指形脆饼干；手指形巧克力",
+                        "phrase": "langue de chat",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "雀跃舞步；猫步",
+                        "phrase": "pas de chat",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "实时聊天；直播聊天；在线聊天",
+                        "phrase": "live chat",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "聊聊天；聊聊；闲聊一阵",
+                        "phrase": "have a chat",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "语音聊天；声音聊天；语音交谈",
+                        "phrase": "voice chat",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "〈非正式〉搭讪；聊了起来；与...闲聊",
+                        "phrase": "chat up",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "闲聊；聊天",
+                        "phrase": "chit chat",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "线上讨论；在线交流；网络会议",
+                        "phrase": "on-line chat",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "安静的聊天",
+                        "phrase": "quiet chat",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "文本为基础的聊天室",
+                        "phrase": "text-based chat room",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "体育聊天室；运动聊天室",
+                        "phrase": "sports chat room",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "餐桌聊天",
+                        "phrase": "lunch-table chat",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "实时聊天会话",
+                        "phrase": "real-time chat session",
+                        "pos": ""
+                    }
+                ],
+                "bilingual": [
+                    {
+                        "source": "We had a cozy <em>chat</em> by the fire.",
+                        "target": "我们在炉火边亲切地闲谈。",
+                        "url": "dj.iciba.com"
+                    },
+                    {
+                        "source": "We had a cosy <em>chat</em> by the fire.",
+                        "target": "我们在炉火边亲切地闲谈。",
+                        "url": "www.iciba.com"
+                    },
+                    {
+                        "source": "But I am horrible at chit-<em>chat</em> and gossip.",
+                        "target": "但是我害怕闲谈和聊天。",
+                        "url": "www.chazidian.com"
+                    },
+                    {
+                        "source": "He would rather read, and but not wish <em>chat</em>.",
+                        "target": "他宁愿读书，而不愿闲谈。",
+                        "url": "www.websaru.net"
+                    },
+                    {
+                        "source": "Donna call on her friend kita for a <em>chat</em>.",
+                        "target": "多娜到她的朋友莉塔家闲谈.",
+                        "url": "www.koolearn.com"
+                    },
+                    {
+                        "source": "<em>Chat</em> all the best have a word with connect with",
+                        "target": "闲谈；聊天万事如意和…说句话与…相接",
+                        "url": "wenku.baidu.com"
+                    },
+                    {
+                        "source": "Do not <em>chat</em> during the performance of a play or music.",
+                        "target": "在看戏或欣赏音乐演出的过程中，不要闲谈。",
+                        "url": "dict.youdao.com"
+                    },
+                    {
+                        "source": "E. g. He came to his discussion of flowering shrubs by way of a <em>chat</em> on his rose garden.",
+                        "target": "他借着闲谈他的玫瑰花园把话题引到开花的灌木上来。",
+                        "url": "dict.youdao.com"
+                    },
+                    {
+                        "source": "I finally agreed that I would make effort to do so later on and left the <em>chat</em> quickly.",
+                        "target": "我最后同意， 我会做努力做那么以后和左闲谈迅速。",
+                        "url": "iask.sina.com.cn"
+                    },
+                    {
+                        "source": "If there is a <em>chat</em> among us, she is always the one who says little but listens attentively.",
+                        "target": "如果有在我们之中的闲谈，她总是少说但是注意地听的人。",
+                        "url": "dict.cn"
+                    }
+                ],
+                "baike": {
+                    "showMore": false,
+                    "list": [
+                        {
+                            "lemmaTitle": "CHAT",
+                            "link": "https://baike.sogou.com/v154955858.htm?ch=sogou.fanyi",
+                            "abstract": "CHAT（英 [tʃæt]，美 [tʃæt]），英语单词，作动词时，为闲聊；网聊。作名词时，为随意交谈；闲谈；石。短语搭配有chat bench（聊天台）。例句为“I often chat with them online.（我经常和他们在网上聊天。）” CHAT不及物动词类近义词有visit with、chew the fat，名词类近义词有chinwag、chit-chat。",
+                            "wapPic": "//img02.sogoucdn.com/v2/thumb/retype_exclude_gif/ext/auto/q/80/crop/xy/ai/w/140/h/140/resize/w/140?appid=201005&sign=774f0d31617dcc2b7b20a14b54804307&url=https%3A%2F%2Fpic.baike.soso.com%2Fugc%2Fbaikepic2%2F0%2F20240506104819-1080024425_png_793_569_5103.jpg%2F0",
+                            "pcPic": "//img01.sogoucdn.com/v2/thumb/retype_exclude_gif/ext/auto/q/80/crop/xy/ai/w/140/h/140/resize/w/140?appid=201005&sign=774f0d31617dcc2b7b20a14b54804307&url=https%3A%2F%2Fpic.baike.soso.com%2Fugc%2Fbaikepic2%2F0%2F20240506104819-1080024425_png_793_569_5103.jpg%2F0"
+                        },
+                        {
+                            "lemmaTitle": "Chat",
+                            "link": "https://baike.sogou.com/v7538951.htm?ch=sogou.fanyi",
+                            "abstract": "Chat（中文名：帕丽茶·玛黑颂，1991年4月11日-），出生于泰国清莱，泰国女演员。她出演了泰韩合制剧《秋天的命运》。",
+                            "wapPic": "//img03.sogoucdn.com/v2/thumb/retype_exclude_gif/ext/auto/q/80/crop/xy/ai/w/140/h/140/resize/w/140?appid=201005&sign=4d65813e968322323637462bd111c47c&url=http%3A%2F%2Fpic.baike.soso.com%2Fugc%2Fbaikepic2%2F15749%2Fcut-20191120150623-402963526_jpg_208_260_8368.jpg%2F0",
+                            "pcPic": "//img03.sogoucdn.com/v2/thumb/retype_exclude_gif/ext/auto/q/80/crop/xy/ai/w/140/h/140/resize/w/140?appid=201005&sign=4d65813e968322323637462bd111c47c&url=http%3A%2F%2Fpic.baike.soso.com%2Fugc%2Fbaikepic2%2F15749%2Fcut-20191120150623-402963526_jpg_208_260_8368.jpg%2F0"
+                        }
+                    ]
+                }
+            },
+            "book": {
+                "yingyinNormal": [
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/39e50807a5a1191398262e04787ff184_62485.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/17f4a19b141516a74286e16fd08283bd_65926.mp3",
+                        "isLavafox": true,
+                        "en": "<em>Chat</em>? we don't <em>chat</em>. at least not offline.",
+                        "zh": "聊天？我们平时不聊天，至少下了网不聊。",
+                        "videoNameZh": "《生活大爆炸 第一季》",
+                        "videoNameEn": "《The Big Bang Theory Season 1》",
+                        "url": "http://bisentence_movie.sogou.com/3a3839a519656e1df0bad0a9ea4da956_a2057f385a7e9d0d10291f9c6dd271d88acf31cd"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/a3f6ca8d0ebaa5b0956976d643673427_52102.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/02c0e6914a3dd4527425683700b95c95_56548.mp3",
+                        "isLavafox": true,
+                        "en": "Wow. It's just a good excuse for a cup of tea and a <em>chat</em>.",
+                        "zh": "哇。这是你们坐在一起喝茶聊天的好借口。",
+                        "videoNameZh": "《小猪佩奇 第三季》",
+                        "videoNameEn": "《Peppa Pig Season 3》",
+                        "url": "http://bisentence_movie.sogou.com/1a162664ddd83438521db13a6aed1c04_98889c5bcb5fbb289e3f2cde478a26a4e08ecfe9"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/c3652a60f61ce63a5e9067648ae2439c_44092.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/4b641c44bcbde4094d56e4aa3d66cbcc_62277.mp3",
+                        "isLavafox": true,
+                        "en": "Leonard doesn't have time to <em>chat</em>, he has to get the mail.",
+                        "zh": "莱纳德没时间聊天，他要去开信箱。",
+                        "videoNameZh": "《生活大爆炸 第五季》",
+                        "videoNameEn": "《The Big Bang Theory Season 5》",
+                        "url": "http://bisentence_movie.sogou.com/0d83566a08588aecae17a114ea72297d_d232dcef1cc6bc2ff14e87586be69b5265e09cc4"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/39e50807a5a1191398262e04787ff184_62485.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/26083d19905f14526b96841b2389a63a_51374.mp3",
+                        "isLavafox": true,
+                        "en": "I'm gonna invite her over. We'll have a nice meal and <em>chat</em>.",
+                        "zh": "我要请她过来，我们可以好好吃一顿，然后聊天。",
+                        "videoNameZh": "《生活大爆炸 第一季》",
+                        "videoNameEn": "《The Big Bang Theory Season 1》",
+                        "url": "http://bisentence_movie.sogou.com/7a7dbd78d90510fcf27f38c5887d9e7b_71a76ed659400794abfff2da5cc8c7c2f6d88834"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/658cb5af1f2c25ef894d7429bd1ba9af_103.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/4a05bbb66474f58e8b129f7d923a4131_57955.mp3",
+                        "isLavafox": true,
+                        "en": "It's time for the real players in this game to have an opportunity to <em>chat</em>.",
+                        "zh": "是时候让真正的玩家出面谈判了。",
+                        "videoNameZh": "《疑犯追踪 第四季》",
+                        "videoNameEn": "《Person of Interest Season 4》",
+                        "url": "http://bisentence_movie.sogou.com/b85eeb6170b18f0f72bb2b23edbf9a0d_c7f0d97c2f6a3f353dfceb12b242d9a98644c69f"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/9c83d7152fb0df988f6a1de8ac273775_53611.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/27c5a4629a8df354f257a1911752e484_30952.mp3",
+                        "isLavafox": true,
+                        "en": "My friend Nicholas and I have had a little <em>chat</em> and agreed it was best all around.",
+                        "zh": "我和的朋友尼可和我商量了一下，都认为只有这么做最妥当。",
+                        "videoNameZh": "《哈利·波特与魔法石》",
+                        "videoNameEn": "《Harry Potter and the Sorcerers Stone》",
+                        "url": "http://bisentence_movie.sogou.com/45e4f0563409ac57c411e2c5affebbfd_07cd221fbd6e6d734cf05a6733d23ac69d89bf0f"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/79cf900ee00a1a06b4169225ae5cd9e5_3961.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/56978952bd5f7bb5c603bcdcb0e9eee9_29569.mp3",
+                        "isLavafox": true,
+                        "en": "And you remember how to video <em>chat</em>? Yes, yes. With the phone and the buttons and the agony.",
+                        "zh": "还有你记得怎么视频聊天吗？记得，手机按键还真苦恼。",
+                        "videoNameZh": "《精灵旅社2》",
+                        "videoNameEn": "《Hotel Transylvania 2》",
+                        "url": "http://bisentence_movie.sogou.com/53cfa88112401f2d19be5a5f66ad2b36_c031078f36af7159b4d1754aa6ee27d9a993accf"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/8b3da16ecbe350aacc1a7e4a01d210bc_49869.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/03c02979083dcc9314c1e059410cffc1_27793.mp3",
+                        "isLavafox": true,
+                        "en": "That's an excellent idea. Yeah, if we <em>chat</em> it will create the illusion of time going faster.",
+                        "zh": "这主意太棒了，如果我们边跑边聊就会感觉时间流逝得更快了。",
+                        "videoNameZh": "《生活大爆炸 第四季》",
+                        "videoNameEn": "《The Big Bang Theory Season 4》",
+                        "url": "http://bisentence_movie.sogou.com/892a7798a410085448e308ae20b45bca_a42b554349342107831a6705774d068377080d28"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/f012eb5fd120cc2d5b68f18e3d0e7c8c_67362.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/d13be68e5b8218d137864f72fe863636_29266.mp3",
+                        "isLavafox": true,
+                        "en": "If he does bring you in for a casual <em>chat</em> about the Grant prosecution, I would call a lawyer.",
+                        "zh": "如果他叫你去随意聊天谈及了格兰特案，还是请律师为好。",
+                        "videoNameZh": "《傲骨贤妻 第五季》",
+                        "videoNameEn": "《The Good Wife Season 5》",
+                        "url": "http://bisentence_movie.sogou.com/fa0d3fab1de68359d0b3ad1ebbba6fe3_16b7be237c62b8affb7675ef4ebf614a75edfe3e"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/fbd36068a45ee4cc0e4a4e35ee0653bd_43525.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/7f3238448c2d1b59a1f1036fb8b06bb1_54589.mp3",
+                        "isLavafox": true,
+                        "en": "There's no time for monkey business or chit-<em>chat</em> down there. So, TARS, you should definitely stay here.",
+                        "zh": "到了那里可就没时间瞎扯聊天了，所以 TARS 你必须留在这里。",
+                        "videoNameZh": "《星际穿越》",
+                        "videoNameEn": "《Interstellar》",
+                        "url": "http://bisentence_movie.sogou.com/55798264a54ce916fbb639d27a8a7a80_d2df3351efc2595d4683b1a171114ec365a9628c"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/a3f6ca8d0ebaa5b0956976d643673427_52102.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/2611b457dad81d69f6c2165904cff296_50803.mp3",
+                        "isLavafox": true,
+                        "en": "Hello, everyone. Hello, Peppa. Hello, George. Oh, who's for a nice cup of tea and a <em>chat</em>? That sounds nice.",
+                        "zh": "你们大家好。你好啊，佩奇！你好啊，乔治。噢，有谁想要喝杯茶再聊会天的？听上去很不错。",
+                        "videoNameZh": "《小猪佩奇 第三季》",
+                        "videoNameEn": "《Peppa Pig Season 3》",
+                        "url": "http://bisentence_movie.sogou.com/7b89df56d3b2c0cd53e4776e2078a141_7205f9cd37a6edb8821deb3b778278d1417f8914"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/5dc3cf8cad26e071498ca907fcc13dc6_46983.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/6b3d68f73afa001f65ed9307c48bb035_3458.mp3",
+                        "isLavafox": true,
+                        "en": "Hello, sister? How are you today? Very good, sister. Mustn't <em>chat</em> for a long now, I got customers inside the tent.",
+                        "zh": "你好，姐姐，你今天过得怎么样？非常好，妹妹，不同聊太久，帐篷里还有顾客。",
+                        "videoNameZh": "《小猪佩奇 第四季》",
+                        "videoNameEn": "《Peppa Pig Season 4》",
+                        "url": "http://bisentence_movie.sogou.com/1e6c882ebf5439ec32d02c7e707fa416_204224d9ed8c0feb8dcc2c7bcbe8e74af7510867"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/8f914d68a5719517c29ee4735d44fec0_63512.png",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/e3b4a265f7f94c604d2057ee4a7626be_50336.mp3",
+                        "isLavafox": true,
+                        "en": "Maybe we could both come back here. We do have a flying car now. How do you say \"cat\" in French? I think it's \"<em>chat</em>.\"",
+                        "zh": "也许我们可以一起回到这儿。我们现在真的有一辆飞车了。你会怎么用法语说“猫咪”？我想是“恰特”。",
+                        "videoNameZh": "《疯狂外星人》",
+                        "videoNameEn": "《Home》",
+                        "url": "http://bisentence_movie.sogou.com/c3513118965f9074311810ad5e477b43_3702c51590801f1dca1ee837d88a8d4fd42e3a20"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/c3652a60f61ce63a5e9067648ae2439c_44092.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/760123ebcde64a99da2c16f9df9be6b5_76065.mp3",
+                        "isLavafox": true,
+                        "en": "You video <em>chat</em> with Amy all the time. How is this different? Don't you like Amy? Of course I like Amy. Well, there's the difference.",
+                        "zh": "你也整天跟艾米视频呀，咱俩干的事有什么不同？你不喜欢艾米吗？我当然喜欢艾米啦。可我不喜欢普丽娅呀。",
+                        "videoNameZh": "《生活大爆炸 第五季》",
+                        "videoNameEn": "《The Big Bang Theory Season 5》",
+                        "url": "http://bisentence_movie.sogou.com/802cc6e1e67152c537c95b75caf3e25a_9e9fcb667ca8d2be7c1fc67dc7f810c1e4f196f3"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/21d26cfef0cd26f0813072491b08dd5a_57364.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/0ee1eb09f48cfd4d93f8a81a4b7f3599_15089.mp3",
+                        "isLavafox": true,
+                        "en": "Who are you calling? I'm going to video <em>chat</em> Sheldon. If my new look leads to phone sex, I'm going to have to ask you to leave the room.",
+                        "zh": "你打给谁？我要跟谢尔顿视频聊天，如果我的新形象激发起他的性欲，那你只好暂时离开房间一下咯。",
+                        "videoNameZh": "《生活大爆炸 第六季》",
+                        "videoNameEn": "《The Big Bang Theory Season 6》",
+                        "url": "http://bisentence_movie.sogou.com/5fe5e13717fb39b7133bd48455efc146_bc9d50681c79d65da73cbf67d71e86d24367b40c"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/8b3da16ecbe350aacc1a7e4a01d210bc_49869.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/944dc90a6fa318444868490b6413cbc2_16014.mp3",
+                        "isLavafox": true,
+                        "en": "If you have any questions, here's the FAQ sheet, or if you prefer the human touch, I do a live web <em>chat</em> called Apartment Talk on Tuesday nights.",
+                        "zh": "如有任何问题，这里列出了常见问题的答案，若你更喜欢人性化解答，每周四晚我提供公寓问题的在线聊天服务。",
+                        "videoNameZh": "《生活大爆炸 第四季》",
+                        "videoNameEn": "《The Big Bang Theory Season 4》",
+                        "url": "http://bisentence_movie.sogou.com/bd40d604f31f96215f33e39e49a8e72c_5b1abdee1897cc097e3933bcb782b4804304e9e9"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/7eb0bec9540cbb2c5939554caf885c99_49670.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/e60dc1fe72e58876945d98b7797013a8_68019.mp3",
+                        "isLavafox": true,
+                        "en": "All right, But I'm given to understand that when you have something awkward to discuss with someone, it's more palatable to preface it with banal chit <em>chat</em>.",
+                        "zh": "好吧，不过我觉得如果你要和某人谈一个很尴尬的问题之前，最好跟他说几句不搭界的闲话。",
+                        "videoNameZh": "《生活大爆炸 第二季》",
+                        "videoNameEn": "《The Big Bang Theory Season 2》",
+                        "url": "http://bisentence_movie.sogou.com/edd7817157e8e6947ff087d54a6e9621_fa4d057045388cdf8e8a5eb2cd9a72c6471ae97f"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/c3652a60f61ce63a5e9067648ae2439c_44092.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/3bcc829f2187d4c6f6c07bcddc8f5398_72615.mp3",
+                        "isLavafox": true,
+                        "en": "Sorry. I'm a little distracted. I can't seem to get in touch with Amy. I tried e-mail, video <em>chat</em>, tweeting her, posting on her Facebook wall, texting her, nothing.",
+                        "zh": "抱歉，我有点心烦意乱，我联系不到艾米了，不管是发邮件，邀请视频，在推特上找她或在她主页上留言，发短信，都没用。",
+                        "videoNameZh": "《生活大爆炸 第五季》",
+                        "videoNameEn": "《The Big Bang Theory Season 5》",
+                        "url": "http://bisentence_movie.sogou.com/69ef838abd04aac489f60a8f08eda62d_2b12807a4d446c8a4499bee4d1352815a1ac74cd"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/b630caafa2606557856da7a333933a5d_54182.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/1d6e13fa73dc2a041340116c39cac8d3_16378.mp3",
+                        "isLavafox": true,
+                        "en": "It's what we think caused your narcissistic personality disorder. We discussed it at length during our last video <em>chat</em>. Although how we got onto the subject of you is baffling.",
+                        "zh": "我们认为正是这一点引起了你的自恋型人格障碍，我们上次视频聊天时详细地探讨了这个问题。虽然不知道为什么会提到你。",
+                        "videoNameZh": "《生活大爆炸 第三季》",
+                        "videoNameEn": "《The Big Bang Theory Season 3》",
+                        "url": "http://bisentence_movie.sogou.com/11a31f2940ea9d024c2ee4fc4be019ef_8cc6de4f803cf639086ae0da8f4f264dc566c074"
+                    }
+                ]
+            },
+            "pic": "",
+            "voice": {
+                "phonetic": [
+                    {
+                        "text": "tʃæt",
+                        "type": "uk",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/6891_chat_uk.mp3"
+                    },
+                    {
+                        "text": "tʃæt",
+                        "type": "usa",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/6891_chat_usa.mp3"
+                    }
+                ]
+            },
+            "dictType": "oxford_buchong",
+            "kaoyan": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 1,
+                        "pos": "n/v",
+                        "chinese": "闲聊; 网聊",
+                        "sense_tier_ratio": 100
+                    },
+                    {
+                        "sense_tier": 0,
+                        "pos": "n",
+                        "chinese": "鸣禽",
+                        "sense_tier_ratio": 0
+                    }
+                ],
+                "word": "chat",
+                "direction_info": {
+                    "ranges": 12,
+                    "description": "数据源自2012-2023年12年间全国考研试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2012-2023年全国考研英语一和考研英语二共24套考研试卷，包括阅读、完型填空、翻译、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选全国考研考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2012-2023年12年间全国考研英语一和考研英语二试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 1,
+                "total_exam_freq": 1,
+                "sense": {
+                    "sense_num": 2,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "闲聊; 网聊",
+                            "pos": "n/v",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "<highlight>Chat</highlight> on the phone with a friend while you walk around your neighborhood.",
+                                    "month": -1,
+                                    "source": "英语二",
+                                    "coll": "",
+                                    "sentence_trans": "当你在附近散步时，和朋友打电话聊天。",
+                                    "year": 2022,
+                                    "type": "阅读理解B",
+                                    "day": -1
+                                }
+                            ]
+                        },
+                        {
+                            "synonyms": "",
+                            "en": "",
+                            "zh": "鸣禽",
+                            "pos": "n",
+                            "antonyms": ""
+                        }
+                    ]
+                },
+                "word_usage": [
+                    {
+                        "usage": "chat表示“聊天”时，为不及物动词，“闲谈”的内容常由介词about引出；与之“闲谈”的对象常用介词to或with引出。"
+                    }
+                ]
+            },
+            "CET6": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 7,
+                        "pos": "n/v",
+                        "chinese": "闲谈; 聊天",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "chat",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2016.6-2023.6年8年间全六级试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight>考纲释义</highlight>\n精选实考、考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2016-2023年51套试卷，包括阅读、听力、翻译等所有题型。\n\n<highlight>真题例句</highlight>\n精选2016-2023年8年间全六级试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 2,
+                "total_exam_freq": 7,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "闲谈; 聊天",
+                            "pos": "n/v",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "At the Mayo Clinic, doctors who treat out-of- state patients can follow up with them via phone, email or web <highlight>chats</highlight> when they return home.",
+                                    "month": 9,
+                                    "source": "CET6",
+                                    "coll": "",
+                                    "sentence_trans": "在梅奥诊所，治疗外州患者的医生可以在他们回家后通过电话、电子邮件或网络聊天进行跟进。",
+                                    "year": 2020,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Less time <highlight>chatting</highlight> and socializing means more time working and churning (产出).",
+                                    "month": 6,
+                                    "source": "CET6",
+                                    "coll": "",
+                                    "sentence_trans": "当你用更少的时间聊天和社交时，你就有更多的时间工作和产出。",
+                                    "year": 2019,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "The startup's product, SentabTV, enables older adults to access email, video <highlight>chat</highlight> and social media using just their televisions and a remote control.",
+                                    "month": 6,
+                                    "source": "CET6",
+                                    "coll": "",
+                                    "sentence_trans": "这家初创公司的产品 SentabTV 可以使老年人仅通过电视和遥控器访问电子邮件，视频聊天和社交媒体。",
+                                    "year": 2019,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "There's another reason why I wanted a <highlight>chat</highlight> with you before Monday.",
+                                    "month": 12,
+                                    "source": "CET6",
+                                    "coll": "",
+                                    "sentence_trans": "我想在周一之前跟你聊聊还有另一个原因。",
+                                    "year": 2017,
+                                    "type": "听力",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "disambiguation": [
+                    {
+                        "disambiguation_list": [
+                            {
+                                "word": "chat",
+                                "sense_disambiguation": "指熟人之间非常随便的交谈, 强调谈话的亲密和非正式性。"
+                            },
+                            {
+                                "word": "conversation",
+                                "sense_disambiguation": "一般用词, 指两个或更多人互相交换意见的交谈。"
+                            },
+                            {
+                                "word": "dialogue",
+                                "sense_disambiguation": "指\"对话\"。指敌对国家、政治团体之间的对话。"
+                            }
+                        ],
+                        "sense_group": "交谈"
+                    }
+                ],
+                "exchange_info": {
+                    "word_third": [
+                        "chats"
+                    ],
+                    "word_ing": [
+                        "chatting"
+                    ],
+                    "word_done": [
+                        "chatted"
+                    ],
+                    "word_past": [
+                        "chatted"
+                    ]
+                }
+            },
+            "CET4": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 13,
+                        "pos": "n/v",
+                        "chinese": "闲谈; 聊天",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "chat",
+                "word_level_phrase_info": [
+                    {
+                        "brief_definition": "聊天；闲聊；闲谈",
+                        "phrase": "chat with",
+                        "pos": "vphr"
+                    }
+                ],
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2016.6-2023.6年8年间全四级试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight>考纲释义</highlight>\n精选实考、考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2016-2023年51套试卷，包括阅读、听力、翻译等所有题型。\n\n<highlight>真题例句</highlight>\n精选2016-2023年8年间试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 3,
+                "total_exam_freq": 13,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "闲谈; 聊天",
+                            "pos": "n/v",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "He is now supporting \"friendly benches,\" which are public seating areas where people are encouraged to go and <highlight>chat</highlight> with one another.",
+                                    "month": 6,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "他现在支持“友好的长椅”，这是一种鼓励人们聊天的公共座位区。",
+                                    "year": 2021,
+                                    "type": "阅读理解A",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "It enables guests to walk around and <highlight>chat</highlight> freely.",
+                                    "month": 6,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "它使客人可以自由走动、聊天。",
+                                    "year": 2021,
+                                    "type": "听力",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Apart from my mother, not too many people I know have time for phone <highlight>chats</highlight> during working hours.",
+                                    "month": 7,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "除了我妈妈，我认识的人里没几个能有空在工作时间打电话闲聊。",
+                                    "year": 2020,
+                                    "type": "听力",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "disambiguation": [
+                    {
+                        "disambiguation_list": [
+                            {
+                                "word": "chat",
+                                "sense_disambiguation": "指熟人之间非常随便的交谈，强调谈话的亲密和非正式性。"
+                            },
+                            {
+                                "word": "conversation",
+                                "sense_disambiguation": "一般用词，指两个或更多人互相交换意见的交谈。"
+                            },
+                            {
+                                "word": "dialogue",
+                                "sense_disambiguation": "指\"对话\"。指敌对国家、政治团体之间的对话。"
+                            }
+                        ],
+                        "sense_group": "交谈"
+                    }
+                ],
+                "exchange_info": {
+                    "word_third": [
+                        "chats"
+                    ],
+                    "word_ing": [
+                        "chatting"
+                    ],
+                    "word_done": [
+                        "chatted"
+                    ],
+                    "word_past": [
+                        "chatted"
+                    ]
+                }
+            },
+            "gaokao": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 10,
+                        "pos": "v/n",
+                        "chinese": "闲谈; 聊天",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "chat",
+                "total_exam_freq": 10,
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2015-2022年8年间全国卷和自主命题省市高考卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2015-2022年全国卷高考试卷，包括阅读、完形、单选、填空、听力、改错、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选各省市考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2015-2022年8年间全国卷和自主命题省市高考卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 2,
+                "word_family": {
+                    "derivative_info_list": [
+                        {
+                            "derivative_info_list": [],
+                            "word": "chatter",
+                            "mean": "v. 喋喋不休；饶舌；唠叨；发出短促的尖声；啁啾；吱吱叫；嘎嘎作响；打战"
+                        }
+                    ],
+                    "word": "chat",
+                    "mean": "v. 闲聊；网聊"
+                },
+                "word_level_phrase_info": [
+                    {
+                        "brief_definition": "聊天台",
+                        "phrase": "chat bench",
+                        "pos": "phr."
+                    }
+                ],
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "闲谈; 聊天",
+                            "pos": "v/n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "More new <highlight>chat</highlight> benches have sprung up across the UK and beyond.",
+                                    "month": -1,
+                                    "source": "天津卷",
+                                    "coll": "",
+                                    "sentence_trans": "更多新的聊天长椅在英国和其他国家涌现。",
+                                    "year": 2020,
+                                    "type": "完形填空",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "He convinced the police department to allow him to set up a couple of \"<highlight>chat</highlight> benches\" in two of their local parks.",
+                                    "month": -1,
+                                    "source": "天津卷",
+                                    "coll": "",
+                                    "sentence_trans": "他说服警察局允许他在当地的两个公园里设立几个“聊天长凳”。",
+                                    "year": 2020,
+                                    "type": "完形填空",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "The idea is catching on quickly There are now over 40 <highlight>chat</highlight> benches throughout England.",
+                                    "month": -1,
+                                    "source": "天津卷",
+                                    "coll": "",
+                                    "sentence_trans": "这个想法很快流行起来，现在全英国有超过40个聊天室。",
+                                    "year": 2020,
+                                    "type": "完形填空",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            "zhongkao": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 29,
+                        "pos": "v/n",
+                        "chinese": "闲谈; 聊天",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "chat",
+                "total_exam_freq": 29,
+                "direction_info": {
+                    "ranges": 4,
+                    "description": "数据源自2018-2021年4年间全国各省市中考试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2018-2021年全国重点省市中考试卷，包括听力、阅读、完形、单选、填空、改错、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选各省市考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2018-2021年4年间全国各省市中考试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 5,
+                "word_family": {
+                    "derivative_info_list": [
+                        {
+                            "derivative_info_list": [],
+                            "word": "chatty",
+                            "mean": "adj. 爱闲聊的；不拘礼节的；轻松活泼的"
+                        }
+                    ],
+                    "word": "chat",
+                    "mean": "v. 闲聊；网聊"
+                },
+                "word_level_phrase_info": [
+                    {
+                        "brief_definition": "聊天；闲聊；闲谈",
+                        "phrase": "chat with",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "群聊",
+                        "phrase": "group chat",
+                        "pos": "n."
+                    }
+                ],
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "闲谈; 聊天",
+                            "pos": "v/n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "On the website, you can <highlight>chat</highlight> with others in English to improve your spoken English.",
+                                    "month": -1,
+                                    "source": "大庆市卷",
+                                    "coll": "",
+                                    "sentence_trans": "在这个网站上，你可以和别人用英语聊天来改善你的英语口语。",
+                                    "year": 2021,
+                                    "type": "单项选择",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Have a <highlight>chat</highlight> with him, and tell him directly and honestly that you were talking without thinking.",
+                                    "month": -1,
+                                    "source": "衢州市卷",
+                                    "coll": "",
+                                    "sentence_trans": "找他谈一谈，并直接坦诚的告诉他，你当时是在信口开河。",
+                                    "year": 2021,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "I often <highlight>chat</highlight> with them online.",
+                                    "month": -1,
+                                    "source": "成都B卷",
+                                    "coll": "",
+                                    "sentence_trans": "我经常和他们在网上聊天。",
+                                    "year": 2018,
+                                    "type": "完成对话",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            "sentencesData": {
+                "status": 1,
+                "info": "notZh2En",
+                "data": {}
+            },
+            "isAutoMatch": false,
+            "Zh2En": false
+        },
+        "query": "chat",
+        "result": "闲谈",
+        "tabSelect": "detail",
+        "dictionaryType": "oxford_buchong",
+        "notFound_show": false,
+        "phoneticShow": "",
+        "globalShowTranslateRecord": "",
+        "pronPrefer": {
+            "type": "usa_1",
+            "speaker": "male",
+            "speed": "standard"
+        },
+        "ServerRecord": "",
+        "ServerUIGS": {
+            "version": "new",
+            "type": "all",
+            "stype": "success",
+            "terminal": "web",
+            "fr": "default",
+            "direction": "etoz",
+            "from": "en",
+            "to": "zh-CHS",
+            "len": 4,
+            "qtype": "text",
+            "qctype": "qc_1",
+            "dict_cover": 1,
+            "detail": 1,
+            "wordCardCover": 1,
+            "wordCardEn": 1,
+            "wordCardCh": 0,
+            "wordCardMinor": 0,
+            "wordCardNetmean": 0,
+            "wordDeform": 1,
+            "keyword": 0,
+            "bilingual": 1,
+            "simple": 0,
+            "levelList": 1,
+            "synonym": 1,
+            "antonym": 0,
+            "conjugate": 1,
+            "rootaffix": 0,
+            "baike_sogou": 1,
+            "baike_wiki": 0,
+            "wordDifference": 1,
+            "word_phrase": 1,
+            "secondQuery": 0,
+            "dict_oxford": 0,
+            "dict_newcentury": 0,
+            "zhongkaotab": 1,
+            "gaokaotab": 1,
+            "CET4tab": 1,
+            "CET6tab": 1,
+            "kaoyantab": 1,
+            "network_tab": 0,
+            "yinying_tab": 1,
+            "tuozhan_tab": 0,
+            "one_pic": 0,
+            "more_pic": 0,
+            "no_pic": 0,
+            "uuid": "68b8c198-199a-4e5d-ad22-faa00af5a883",
+            "from_type": 0,
+            "t_trans_ssr": 158
+        },
+        "ServerModelUIGS": {
+            "terminal": "web",
+            "type": "trans_model",
+            "pbtype": "pv",
+            "model_general": 1,
+            "model_medical": 1,
+            "model_finance": 1
+        },
+        "ServerSgtkn": "64F5974D96523C949E99B725EC3172079FD016C567552D61",
+        "suggShow": false,
+        "suggestion": "",
+        "suggDirection": "",
+        "usualTop": "",
+        "baseDict": "",
+        "wordCardClick": false,
+        "isFrInput": false,
+        "kanaTips": {
+            "show": false,
+            "left": "",
+            "top": "",
+            "type": "",
+            "arrowLeft": ""
+        },
+        "currSentenceIndex": -1,
+        "prefixStrObj": {
+            "prefixStr": "",
+            "oriPrefixStr": ""
+        },
+        "selectTransBox": {
+            "show": false,
+            "right": 0,
+            "top": 0,
+            "paraphraseInfo": {
+                "word": "",
+                "from": "",
+                "to": "",
+                "area": ""
+            }
+        },
+        "sentenceLoading": false,
+        "newSentenceInfo": {
+            "sentence": "",
+            "candidateIndex": 0
+        },
+        "moreTipInfo": {
+            "opacity": 0,
+            "zIndex": -1
+        },
+        "paraphraseShowInfo": {
+            "card": 0,
+            "query": "",
+            "card_dict": 0
+        },
+        "selectType": "",
+        "wordPos": 0,
+        "candidateWord": "",
+        "syntaxVisible": false,
+        "syntaxStatus": 0
+    },
+    "language": {
+        "from": "auto",
+        "to": "zh-CHS",
+        "detect": "en",
+        "model": "general",
+        "detectShow": false,
+        "langMap": {
+            "current": ""
+        },
+        "zh2en": false,
+        "fromItemList": [
+            {
+                "lang": "auto",
+                "text": "自动检测",
+                "play": false
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "ru",
+                "text": "俄语",
+                "play": true,
+                "abbr": "俄"
+            },
+            {
+                "lang": "th",
+                "text": "泰语",
+                "play": true,
+                "abbr": "泰"
+            },
+            {
+                "lang": "ko",
+                "text": "韩语",
+                "play": true,
+                "abbr": "韩"
+            }
+        ],
+        "toItemList": [
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "fr",
+                "text": "法语",
+                "play": true,
+                "abbr": "法"
+            },
+            {
+                "lang": "ko",
+                "text": "韩语",
+                "play": true,
+                "abbr": "韩"
+            },
+            {
+                "lang": "vi",
+                "text": "越南语",
+                "play": true,
+                "abbr": "越"
+            }
+        ]
+    },
+    "voice": {
+        "from": {
+            "lang": "en",
+            "type": "from",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22chat%22%2C%22spokenDialect%22%3A%22en%22%2C%22rate%22%3A%220.8%22%7D",
+            "list": [
+                {
+                    "type": "uk_0",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "tʃæt",
+                    "abbr": "英",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/6891_chat_uk.mp3"
+                },
+                {
+                    "type": "usa_1",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "tʃæt",
+                    "abbr": "美",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/6891_chat_usa.mp3"
+                }
+            ],
+            "stype": "phonetic",
+            "phoneticShow": [
+                {
+                    "text": "tʃæt",
+                    "type": "uk",
+                    "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/6891_chat_uk.mp3"
+                }
+            ]
+        },
+        "to": {
+            "lang": "zh",
+            "type": "to",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22%E9%97%B2%E8%B0%88%22%2C%22spokenDialect%22%3A%22zh-CHS%22%2C%22rate%22%3A%220.8%22%7D",
+            "stype": "normal"
+        }
+    }
+}

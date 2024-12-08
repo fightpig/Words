@@ -1,0 +1,1141 @@
+{
+    "route": {
+        "name": "text",
+        "path": "/text",
+        "hash": "",
+        "query": {
+            "keyword": "greet",
+            "transfrom": "auto",
+            "transto": "zh-CHS",
+            "model": "general",
+            "errcode": "s10"
+        },
+        "params": {},
+        "fullPath": "/text?keyword=greet&transfrom=auto&transto=zh-CHS&model=general&errcode=s10",
+        "meta": {
+            "mtype": [
+                "textTranslate",
+                "language",
+                "voice"
+            ]
+        },
+        "from": {
+            "name": null,
+            "path": "/",
+            "hash": "",
+            "query": {},
+            "params": {},
+            "fullPath": "/",
+            "meta": {}
+        }
+    },
+    "common": {
+        "CONFIG": {
+            "wuid": 1733636122136,
+            "loginInfo": {},
+            "isIE": 0,
+            "isHitSsrSwitch": true,
+            "isHitWritebookSwitch": false,
+            "isHitAmsSwitch": true,
+            "promotionList": "{\n    \"pc_bottom\":{\n        \"imgsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\",\n        \"qcsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\"\n    },\n    \"pc_middle\":[\n        {\n            \"src\":\"//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c\",\n            \"bgColor\":\"#ffffff\",\n            \"link\":\"\"\n        }\n    ],\n    \"pc_survey\":{\n        \"icon\":\"//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750\",\n        \"link\":\"https://wj.qq.com/s2/8193148/806d/\"\n    }\n}",
+            "bannerData": [],
+            "isHitAsideSurvey": false,
+            "secretCode": 109984457,
+            "uuid": "f365aa70-0d35-4226-8a8d-5073dfbf2e07",
+            "referer": "",
+            "approveToken": "64F844120DC2AC040E0927B59334C3CF0F10169C6755301A",
+            "loadTime": 1733636122138,
+            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0",
+            "fcp": "161.35.183.163",
+            "temporaryId": "",
+            "fileId": ""
+        },
+        "hotWords": [],
+        "isFromCollect": false,
+        "psdModify": {
+            "currentStep": 1,
+            "scode": "",
+            "username": ""
+        },
+        "loginStatus": true,
+        "feedBackModule": false,
+        "showPromotionPopup": {
+            "show": false,
+            "type": ""
+        },
+        "showPromotionPCDownload": false,
+        "showShareBomb": false,
+        "shareData": null,
+        "showAppDownLoad": false,
+        "showLoginDialog": false,
+        "showLoading": {
+            "show": false
+        },
+        "toast": {
+            "show": false,
+            "text": "",
+            "loading": false
+        },
+        "modelToast": {
+            "show": false,
+            "text": ""
+        },
+        "selectionGlobalShow": true,
+        "selectionInfo": {
+            "left": 0,
+            "top": 0,
+            "show": false,
+            "from": "",
+            "to": "",
+            "val": "",
+            "area": ""
+        },
+        "showConfirmDialog": false,
+        "promotionList": {
+            "pc_bottom": {
+                "imgsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png",
+                "qcsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png"
+            },
+            "pc_middle": [
+                {
+                    "src": "//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c",
+                    "bgColor": "#ffffff",
+                    "link": ""
+                }
+            ],
+            "pc_survey": {
+                "icon": "//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750",
+                "link": "https://wj.qq.com/s2/8193148/806d/"
+            }
+        },
+        "transTypeTxt": "text",
+        "fixedTabStatus": 0,
+        "bodyTop": 0,
+        "ifHideUserOperation": false
+    },
+    "textTranslate": {
+        "prevTransQuery": "",
+        "translateData": {
+            "translate": {
+                "zly": "zly",
+                "errorCode": "0",
+                "qc_type": "1",
+                "index": "content0",
+                "from": "en",
+                "source": "sogou",
+                "text": "greet",
+                "to": "zh-CHS",
+                "id": "f365aa70-0d35-4226-8a8d-5073dfbf2e07",
+                "dit": "迎接",
+                "orig_text": "greet",
+                "md5": ""
+            },
+            "detect": {
+                "zly": "zly",
+                "detect": "en",
+                "errorCode": "0",
+                "language": "英语",
+                "id": "37ce0cd0-b526-11ef-ba91-45cd073da155",
+                "text": "greet"
+            },
+            "sgtkn": "64F844150DC2AC040E0927B59334C3CF0F10169C6755301A",
+            "wordCard": {
+                "title": "greet",
+                "show": true,
+                "usualDict": [
+                    {
+                        "values": [
+                            "问候；招呼；打招呼；迎接；致敬；向…致意；向…表示欢迎；（以某种方式）对…作出反应；呈现在…前；映入…的眼帘；传入…的耳中（或鼻中）；<苏格兰>痛哭；哭泣"
+                        ],
+                        "pos": "v."
+                    }
+                ],
+                "secondQuery": "",
+                "exchange": {
+                    "word_third": [
+                        "greets"
+                    ],
+                    "word_ing": [
+                        "greeting"
+                    ],
+                    "word_done": [
+                        "greeted"
+                    ],
+                    "word_past": [
+                        "greeted"
+                    ]
+                },
+                "levelList": [
+                    "小学",
+                    "初中",
+                    "高中",
+                    "四级",
+                    "六级",
+                    "考研",
+                    "考博"
+                ]
+            },
+            "detail": {
+                "synonym": [
+                    {
+                        "word_list": [
+                            "be welcome to",
+                            "to meet"
+                        ],
+                        "pos": "vt.",
+                        "mean": "欢迎，迎接；致敬，致意；映入眼帘"
+                    }
+                ],
+                "wordRootInfo": {
+                    "word_info_list": [
+                        {
+                            "word": "greeting",
+                            "pos_mean_info_list": [
+                                {
+                                    "pos": "n.",
+                                    "mean": "问候，招呼；祝贺"
+                                },
+                                {
+                                    "pos": "v.",
+                                    "mean": "致敬，欢迎（greet的现在分词）"
+                                }
+                            ]
+                        },
+                        {
+                            "word": "greeter",
+                            "pos_mean_info_list": [
+                                {
+                                    "pos": "n.",
+                                    "mean": "（在酒店、超市等门口迎接顾客的）接待员"
+                                }
+                            ]
+                        }
+                    ],
+                    "root_word": "greet"
+                },
+                "word_difference_info": [
+                    {
+                        "common_mean": "欢迎；致敬；致意；招呼",
+                        "word_list": [
+                            "hail",
+                            " salute",
+                            " address",
+                            " welcome",
+                            " greet"
+                        ],
+                        "word_mean_info__list": [
+                            {
+                                "difference": "主要指怀着敬意欢迎某人，侧重欢快轻松和嘈杂。也指隔得较远的高声招呼。",
+                                "word": "hail"
+                            },
+                            {
+                                "difference": "正式用词，指用敬礼、亲吻或挥帽等动作向他人致意或问候，尤指以某种礼节欢迎某人。",
+                                "word": "salute"
+                            },
+                            {
+                                "difference": "侧重打招呼的方式或指所使用的称谓。",
+                                "word": "address"
+                            },
+                            {
+                                "difference": "多指热情的官方的或正式的迎接或欢迎，但也指一般的欢迎。",
+                                "word": "welcome"
+                            },
+                            {
+                                "difference": "常指友好而热诚地欢迎。",
+                                "word": "greet"
+                            }
+                        ]
+                    }
+                ],
+                "word_group": [
+                    {
+                        "brief_definition": "受到...的对待",
+                        "phrase": "be greeted with",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "问候；祝安；寒暄",
+                        "phrase": "greet with",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "热烈欢迎",
+                        "phrase": "warmly greet",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "热情地欢迎",
+                        "phrase": "greet cordially",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "客气地打招呼；礼貌地打招呼",
+                        "phrase": "greet politely",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "和妻子打招呼",
+                        "phrase": "greet wife",
+                        "pos": ""
+                    }
+                ],
+                "bilingual": [
+                    {
+                        "source": "She came running to <em>greet</em> him.",
+                        "target": "她跑过来迎接他。",
+                        "url": ""
+                    },
+                    {
+                        "source": "He was excited to <em>greet</em> his friends.",
+                        "target": "他兴高采烈地迎接他的朋友们。",
+                        "url": ""
+                    },
+                    {
+                        "source": "He leapt from the stage to <em>greet</em> his fans.",
+                        "target": "他从舞台上跳跃下来迎接他的粉丝。",
+                        "url": ""
+                    },
+                    {
+                        "source": "He strode across the room to <em>greet</em> his friend.",
+                        "target": "他大步走过房间去迎接他的朋友。",
+                        "url": ""
+                    },
+                    {
+                        "source": "She placed a welcome mat at the doorway to <em>greet</em> her guests.",
+                        "target": "她在门口放了一块迎宾垫来迎接客人。",
+                        "url": ""
+                    },
+                    {
+                        "source": "When you arrive in Hawaii, people will <em>greet</em> you with aloha.",
+                        "target": "当你到达夏威夷时，人们会用你好来迎接你。",
+                        "url": ""
+                    },
+                    {
+                        "source": "The receptionist is usually the first person to <em>greet</em> visitors at a company.",
+                        "target": "前台接待通常是公司里第一个迎接客人的人。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Wherever I go, I see people <em>greet</em> him warmly.",
+                        "target": "无论我走到哪里，我都看到人们热情地迎接他。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Every time he arrived home at end of the day, we'd <em>greet</em> het at the door.",
+                        "target": "每次他结束一天的工作回到家，我们都会在门口迎接他。",
+                        "url": ""
+                    },
+                    {
+                        "source": "She ran excitedly down the hall to <em>greet</em> her cousins.",
+                        "target": "她兴奋地跑下大厅去迎接她的堂兄弟。",
+                        "url": "simple example"
+                    }
+                ],
+                "baike": {
+                    "showMore": false,
+                    "list": [
+                        {
+                            "lemmaTitle": "greet",
+                            "link": "https://baike.sogou.com/v168051323.htm?ch=sogou.fanyi",
+                            "abstract": "Greet（英 [ɡriːt]，美 [ɡriːt]），英语单词。作名词时意为“人名，(英)格里特”。作动词为问候；招呼；痛哭等。例句：We greet each other like old friends.（我们像老朋友一样互相问候）。 Greet的近义词有be welcome to，to meet。",
+                            "wapPic": "",
+                            "pcPic": ""
+                        }
+                    ]
+                }
+            },
+            "book": {
+                "yingyinNormal": [
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/fecf61d3082c906bb0c80d4539f3c4c8_5742.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/36bbbb9931125f740b171e8bb76e9f2b_34184.mp3",
+                        "isLavafox": true,
+                        "en": "Yet out of the ashes of this tragedy, we shall rise to <em>greet</em> the dawning of a new era in which lion and hyena come together in a great and glorious future.",
+                        "zh": "但是我们，必须振作起来，忘掉悲痛共同迎接一个崭新时代的来临，我们狮子将跟土狼一起走向光明伟大的未来。",
+                        "videoNameZh": "《狮子王》",
+                        "videoNameEn": "《The Lion King》",
+                        "url": "http://bisentence_movie.sogou.com/d1543ede2236044ea8fb3652fe232076_bb576b703b895e56d04c88d0d9aa6574a54cea6a"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/3cc7f04bc4e6bde5cc691b286df1a676_37630.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/f64fb784e28e128e1784c46c48064ad7_5527.mp3",
+                        "isLavafox": true,
+                        "en": "That thing? This is how you <em>greet</em> guests at a party?",
+                        "zh": "东西？你都这样招呼客人吗？",
+                        "videoNameZh": "《老友记第一季》",
+                        "videoNameEn": "《Friends Season 1》",
+                        "url": "http://bisentence_movie.sogou.com/924719c4c3d17795e371c1f52548e6c5_23fe84d4d7bd29edd23622d659ea3bed2d05873f"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/bedafc9cbd9ff62be49e08cf3cb8efa0_35632.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/a4a0589236b0143b3c498be704c4dc52_52225.mp3",
+                        "isLavafox": true,
+                        "en": "To <em>greet</em> the \"Honu\" underwater, dive in the sheltered Kahalu'u bay.",
+                        "zh": "要观赏水中的夏威夷绿海龟，潜入卡哈鲁乌海湾吧！",
+                        "videoNameZh": "《10大名城旅游攻略》",
+                        "videoNameEn": "《10 Cities Vacation Travel Guide》",
+                        "url": "http://bisentence_movie.sogou.com/28c2408351d5acf0828cc2e1cf1b8a11_a409999ef7e5d1e1950f4a302f7749cc28cac65f"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/39e50807a5a1191398262e04787ff184_62485.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/338bd5d579b21349eb7066208bafad93_46266.mp3",
+                        "isLavafox": true,
+                        "en": "I don't know what the protocol is here. Do I stay? Do I leave? Do I wait to <em>greet</em> them with a refreshing beverage?",
+                        "zh": "我不知道这种情况下标准做法是什么，我该留下来？还是出去？他们出来时，要递上提神饮料吗？",
+                        "videoNameZh": "《生活大爆炸 第一季》",
+                        "videoNameEn": "《The Big Bang Theory Season 1》",
+                        "url": "http://bisentence_movie.sogou.com/2181c7126bb3bb9256350fb49a9d3078_d37913383d92abc7e804a3d87e630683ce488372"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/f7d7167294560b5a445295985c93469c_14515.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/f6e506395d693286b36dd5d9c14136e2_71806.mp3",
+                        "isLavafox": true,
+                        "en": "What? What do I make you do? Let's see, the magic store, the Doctor Who convention, the National Belt Buckle Collector's meet and <em>greet</em>.",
+                        "zh": "什么？我逼你陪我做什么了？我想想，魔术用品店，《神秘博士》动漫会，全国皮带扣收藏家见面会。",
+                        "videoNameZh": "《生活大爆炸 第十季》",
+                        "videoNameEn": "《The Big Bang Theory Season 10》",
+                        "url": "http://bisentence_movie.sogou.com/db099601885a11362e567e9190594e72_0d6acdb959faa9ea1d5d6e8e537d2a08b7c7bdcd"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/368277e4523e7b27b12887e16057df56_64015.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/1c6357492d05b65fdc00528fd6a175c9_55447.mp3",
+                        "isLavafox": true,
+                        "en": "That's right. To protect you. Tell me, Bernard. If you were to proclaim your humanity to the world, what do you imagine would <em>greet</em> you? A ticker-tape parade, perhaps?",
+                        "zh": "没错，为了保护你，告诉我，伯纳德，如果你要对世界昭示你的人性，你觉得你得到的回应是什么？可能是彩带游行吗？",
+                        "videoNameZh": "《西部世界 第一季》",
+                        "videoNameEn": "《Westworld Season 1》",
+                        "url": "http://bisentence_movie.sogou.com/723cdf882b817a54cc0ba4a6a135e2b6_5d04c307e7a5896ccfb136f6375878c6ce53d6ad"
+                    }
+                ]
+            },
+            "pic": "",
+            "voice": {
+                "phonetic": [
+                    {
+                        "text": "ɡriːt",
+                        "type": "uk",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/12650_greet_uk.mp3"
+                    },
+                    {
+                        "text": "ɡriːt",
+                        "type": "usa",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/12650_greet_usa.mp3"
+                    }
+                ]
+            },
+            "dictType": "oxford_buchong",
+            "kaoyan": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 0,
+                        "pos": "vt",
+                        "chinese": "问候; 招呼",
+                        "sense_tier_ratio": 0
+                    },
+                    {
+                        "sense_tier": 0,
+                        "pos": "vt",
+                        "chinese": "被...感知",
+                        "sense_tier_ratio": 0
+                    }
+                ],
+                "word": "greet",
+                "direction_info": {
+                    "ranges": 12,
+                    "description": "数据源自2012-2023年12年间全国考研试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2012-2023年全国考研英语一和考研英语二共24套考研试卷，包括阅读、完型填空、翻译、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选全国考研考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2012-2023年12年间全国考研英语一和考研英语二试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 1,
+                "word_family": {
+                    "derivative_info_list": [
+                        {
+                            "derivative_info_list": [],
+                            "word": "greeting",
+                            "mean": "n. 问候的话；招呼；问候；祝福；致意；祝贺"
+                        }
+                    ],
+                    "word": "greet",
+                    "mean": "v. 问候；迎接；招呼；痛哭；哭泣；接受；对…作出反应；呈现在…前；被…所感知"
+                },
+                "total_exam_freq": 0,
+                "sense": {
+                    "sense_num": 2,
+                    "sense_info_list": [
+                        {
+                            "synonyms": "",
+                            "en": "",
+                            "zh": "问候; 招呼",
+                            "pos": "vt",
+                            "antonyms": ""
+                        },
+                        {
+                            "synonyms": "",
+                            "en": "",
+                            "zh": "被...感知",
+                            "pos": "vt",
+                            "antonyms": ""
+                        }
+                    ]
+                }
+            },
+            "CET6": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 3,
+                        "pos": "v",
+                        "chinese": "作出反应",
+                        "sense_tier_ratio": 100
+                    },
+                    {
+                        "sense_tier": 0,
+                        "pos": "v",
+                        "chinese": "致意; 打招呼; 迎接",
+                        "sense_tier_ratio": 0
+                    }
+                ],
+                "word": "greet",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2016.6-2023.6年8年间全六级试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight>考纲释义</highlight>\n精选实考、考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2016-2023年51套试卷，包括阅读、听力、翻译等所有题型。\n\n<highlight>真题例句</highlight>\n精选2016-2023年8年间全六级试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 1,
+                "word_family": {
+                    "derivative_info_list": [
+                        {
+                            "derivative_info_list": [],
+                            "word": "greeting",
+                            "mean": "n. 问候的话；招呼；问候；祝福；致意；祝贺"
+                        }
+                    ],
+                    "word": "greet",
+                    "mean": "v. 问候；迎接；招呼；痛哭；哭泣；接受；对…作出反应；呈现在…前；被…所感知"
+                },
+                "total_exam_freq": 3,
+                "sense": {
+                    "sense_num": 2,
+                    "sense_info_list": [
+                        {
+                            "en": "receive or acknowledge something in a specified way",
+                            "zh": "作出反应",
+                            "pos": "v",
+                            "synonyms": "receive,acknowledge",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "With such an assertion, the work was predictably <highlight>greeted</highlight> by a lot of absurd claims about \"genetics determining academic success\".",
+                                    "month": 6,
+                                    "source": "CET6",
+                                    "coll": "",
+                                    "sentence_trans": "有了这样的断言，这项工作不出所料地受到了许多关于“遗传决定学术成功”的荒谬说法的欢迎。",
+                                    "year": 2021,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Most of my questions to him were <highlight>greeted</highlight> with a friendly laugh, but I managed to let him know where my arm hurt.",
+                                    "month": 6,
+                                    "source": "CET6",
+                                    "coll": "",
+                                    "sentence_trans": "我向他提出的大多数问题，他都报以友好的笑声，但我还是设法让他知道我的胳膊哪里疼。",
+                                    "year": 2018,
+                                    "type": "听力",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "So the news that Cablevision was rolling out interactive advertisements to all its customers on October 6th was <highlight>greeted</highlight> with some skepticism.",
+                                    "month": 6,
+                                    "source": "CET6",
+                                    "coll": "",
+                                    "sentence_trans": "因此，Cablevision（美国有线电视公司）于10月6日向所有客户推出互动广告的消息遭到了一些质疑。",
+                                    "year": 2016,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                }
+                            ]
+                        },
+                        {
+                            "synonyms": "salute,hail",
+                            "en": "give a polite word or sign of welcome or recognition to someone on meeting",
+                            "zh": "致意; 打招呼; 迎接",
+                            "pos": "v",
+                            "antonyms": ""
+                        }
+                    ]
+                },
+                "disambiguation": [
+                    {
+                        "disambiguation_list": [
+                            {
+                                "word": "address",
+                                "sense_disambiguation": "侧重打招呼的方式或指所使用的称谓。"
+                            },
+                            {
+                                "word": "greet",
+                                "sense_disambiguation": "常指友好而热诚地欢迎。"
+                            },
+                            {
+                                "word": "hail",
+                                "sense_disambiguation": "主要指怀着敬意欢迎某人, 侧重欢快轻松和嘈杂。也指隔得较远的高声招呼。"
+                            }
+                        ],
+                        "sense_group": "欢迎"
+                    }
+                ],
+                "exchange_info": {
+                    "word_third": [
+                        "greets"
+                    ],
+                    "word_ing": [
+                        "greeting"
+                    ],
+                    "word_done": [
+                        "greeted"
+                    ],
+                    "word_past": [
+                        "greeted"
+                    ]
+                }
+            },
+            "CET4": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 3,
+                        "pos": "v",
+                        "chinese": "作出反应",
+                        "sense_tier_ratio": 60
+                    },
+                    {
+                        "sense_tier": 2,
+                        "pos": "v",
+                        "chinese": "同...打招呼",
+                        "sense_tier_ratio": 40
+                    }
+                ],
+                "word": "greet",
+                "total_exam_freq": 5,
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2016.6-2023.6年8年间全四级试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight>考纲释义</highlight>\n精选实考、考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2016-2023年51套试卷，包括阅读、听力、翻译等所有题型。\n\n<highlight>真题例句</highlight>\n精选2016-2023年8年间试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 1,
+                "word_family": {
+                    "derivative_info_list": [
+                        {
+                            "derivative_info_list": [],
+                            "word": "greeting",
+                            "mean": "n. 问候的话；招呼；问候；祝福；致意；祝贺"
+                        }
+                    ],
+                    "word": "greet",
+                    "mean": "v. 问候；迎接；招呼；痛哭；哭泣；接受；对…作出反应；呈现在…前；被…所感知"
+                },
+                "word_level_phrase_info": [
+                    {
+                        "brief_definition": "受到...的对待",
+                        "phrase": "be greeted with",
+                        "pos": "phr"
+                    }
+                ],
+                "sense": {
+                    "sense_num": 2,
+                    "sense_info_list": [
+                        {
+                            "en": "receive or acknowledge something in a specified way",
+                            "zh": "作出反应",
+                            "pos": "v",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "The exhausted and hungry racers are <highlight>greeted</highlight> with delightful pies of all kinds, such as apple, orange, lemon or banana.",
+                                    "month": 6,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "疲惫和饥饿的车手会得到各种各样的美味馅饼，如苹果、橘子、柠檬或香蕉味的。",
+                                    "year": 2021,
+                                    "type": "听力",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "The bypass held a new era in motor travel and was <highlight>greeted</highlight> with excitement and optimism.",
+                                    "month": 6,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "不经过市中心的旁路开创了汽车旅行的新时代，人们兴奋不已、情绪乐观。",
+                                    "year": 2016,
+                                    "type": "听力",
+                                    "day": -1
+                                }
+                            ]
+                        },
+                        {
+                            "en": "",
+                            "zh": "同...打招呼",
+                            "pos": "v",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "While cheek-kissing for Latin Americans is also a universal <highlight>greeting</highlight> form, it does not require such a high degree of relational closeness.",
+                                    "month": 12,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "虽然对拉丁美洲人来说，亲脸颊也是一种普遍的问候形式，但它并不需要如此程度的关系亲密。",
+                                    "year": 2021,
+                                    "type": "阅读理解C",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "But nobody <highlight>greeted</highlight> the daughter and mother when they arrived, though the visit has been planned; nobody introduced them to the other residents.",
+                                    "month": 6,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "但是当他们到达时，没有人问候女儿和母亲，尽管参观已经计划好了；没有人把他们介绍给其他居民。",
+                                    "year": 2016,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "exchange_info": {
+                    "word_third": [
+                        "greets"
+                    ],
+                    "word_ing": [
+                        "greeting"
+                    ],
+                    "word_done": [
+                        "greeted"
+                    ],
+                    "word_past": [
+                        "greeted"
+                    ]
+                }
+            },
+            "gaokao": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 3,
+                        "pos": "v",
+                        "chinese": "致意; 打招呼",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "greet",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2015-2022年8年间全国卷和自主命题省市高考卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2015-2022年全国卷高考试卷，包括阅读、完形、单选、填空、听力、改错、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选各省市考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2015-2022年8年间全国卷和自主命题省市高考卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 1,
+                "word_family": {
+                    "derivative_info_list": [
+                        {
+                            "derivative_info_list": [],
+                            "word": "greeting",
+                            "mean": "n. 问候的话；招呼；问候；祝福；致意；祝贺"
+                        }
+                    ],
+                    "word": "greet",
+                    "mean": "v. 问候；迎接；招呼；痛哭；哭泣；接受；对…作出反应；呈现在…前；被…所感知"
+                },
+                "total_exam_freq": 3,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "give a polite word or sign of welcome or recognition to someone on meeting",
+                            "zh": "致意; 打招呼",
+                            "pos": "v",
+                            "synonyms": "salute,hail",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "Every time he arrived home at end of the day, we'd <highlight>greet</highlight> het at the door.",
+                                    "month": -1,
+                                    "source": "浙江卷",
+                                    "coll": "",
+                                    "sentence_trans": "每次他结束一天的工作回到家，我们都会在门口迎接他。",
+                                    "year": 2016,
+                                    "type": "改错",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "disambiguation": [
+                    {
+                        "disambiguation_list": [
+                            {
+                                "word": "address",
+                                "sense_disambiguation": "侧重打招呼的方式或指所使用的称谓。"
+                            },
+                            {
+                                "word": "greet",
+                                "sense_disambiguation": "常指友好而热诚地欢迎。"
+                            },
+                            {
+                                "word": "hail",
+                                "sense_disambiguation": "主要指怀着敬意欢迎某人，侧重欢快轻松和嘈杂。也指隔得较远的高声招呼。"
+                            }
+                        ],
+                        "sense_group": "欢迎"
+                    }
+                ],
+                "exchange_info": {
+                    "word_third": [
+                        "greets"
+                    ],
+                    "word_ing": [
+                        "greeting"
+                    ],
+                    "word_done": [
+                        "greeted"
+                    ],
+                    "word_past": [
+                        "greeted"
+                    ]
+                }
+            },
+            "zhongkao": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 20,
+                        "pos": "vt",
+                        "chinese": "问候; 和…打招呼",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "greet",
+                "total_exam_freq": 20,
+                "direction_info": {
+                    "ranges": 4,
+                    "description": "数据源自2018-2021年4年间全国各省市中考试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2018-2021年全国重点省市中考试卷，包括听力、阅读、完形、单选、填空、改错、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选各省市考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2018-2021年4年间全国各省市中考试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 4,
+                "word_family": {
+                    "derivative_info_list": [
+                        {
+                            "derivative_info_list": [],
+                            "word": "greeting",
+                            "mean": "n. 问候的话；招呼；问候；祝福；致意；祝贺"
+                        }
+                    ],
+                    "word": "greet",
+                    "mean": "v. 问候；迎接；招呼；痛哭；哭泣；接受；对…作出反应；呈现在…前；被…所感知"
+                },
+                "word_level_phrase_info": [
+                    {
+                        "brief_definition": "受到...的对待",
+                        "phrase": "be greeted with",
+                        "pos": ""
+                    }
+                ],
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "问候; 和…打招呼",
+                            "pos": "vt",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "But Ashley Peterson, a doctor in the United States, thinks we should be more careful about how we <highlight>greet</highlight> people.",
+                                    "month": -1,
+                                    "source": "荆州市卷",
+                                    "coll": "",
+                                    "sentence_trans": "但是美国医生阿什利·彼得森认为我们应该更加注意如何与他人打招呼。",
+                                    "year": 2021,
+                                    "type": "完形填空",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "But a recent video shows that an interesting way to <highlight>greet</highlight> others is now popular in Iran.",
+                                    "month": -1,
+                                    "source": "吉林卷",
+                                    "coll": "",
+                                    "sentence_trans": "但最近的一个视频显示，一种有趣的问候他人的方式现在在伊朗流行。",
+                                    "year": 2020,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "After they were seated, the mother saw a friend and walked up to <highlight>greet</highlight> her, leaving the boy alone in his seat.",
+                                    "month": -1,
+                                    "source": "山西卷",
+                                    "coll": "",
+                                    "sentence_trans": "他们坐下后，母亲看到了一个朋友，走上前去跟她打招呼，留下男孩独自坐在座位上。",
+                                    "year": 2019,
+                                    "type": "词语运用",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            "sentencesData": {
+                "status": 1,
+                "info": "notZh2En",
+                "data": {}
+            },
+            "isAutoMatch": false,
+            "Zh2En": false
+        },
+        "query": "greet",
+        "result": "迎接",
+        "tabSelect": "detail",
+        "dictionaryType": "oxford_buchong",
+        "notFound_show": false,
+        "phoneticShow": "",
+        "globalShowTranslateRecord": "",
+        "pronPrefer": {
+            "type": "usa_1",
+            "speaker": "male",
+            "speed": "standard"
+        },
+        "ServerRecord": "",
+        "ServerUIGS": {
+            "version": "new",
+            "type": "all",
+            "stype": "success",
+            "terminal": "web",
+            "fr": "default",
+            "direction": "etoz",
+            "from": "en",
+            "to": "zh-CHS",
+            "len": 5,
+            "qtype": "text",
+            "qctype": "qc_1",
+            "dict_cover": 1,
+            "detail": 1,
+            "wordCardCover": 1,
+            "wordCardEn": 1,
+            "wordCardCh": 0,
+            "wordCardMinor": 0,
+            "wordCardNetmean": 0,
+            "wordDeform": 1,
+            "keyword": 0,
+            "bilingual": 1,
+            "simple": 0,
+            "levelList": 1,
+            "synonym": 1,
+            "antonym": 0,
+            "conjugate": 1,
+            "rootaffix": 0,
+            "baike_sogou": 1,
+            "baike_wiki": 0,
+            "wordDifference": 1,
+            "word_phrase": 1,
+            "secondQuery": 0,
+            "dict_oxford": 0,
+            "dict_newcentury": 0,
+            "zhongkaotab": 1,
+            "gaokaotab": 1,
+            "CET4tab": 1,
+            "CET6tab": 1,
+            "kaoyantab": 1,
+            "network_tab": 0,
+            "yinying_tab": 1,
+            "tuozhan_tab": 0,
+            "one_pic": 0,
+            "more_pic": 0,
+            "no_pic": 0,
+            "uuid": "f365aa70-0d35-4226-8a8d-5073dfbf2e07",
+            "from_type": 0,
+            "t_trans_ssr": 132
+        },
+        "ServerModelUIGS": {
+            "terminal": "web",
+            "type": "trans_model",
+            "pbtype": "pv",
+            "model_general": 1,
+            "model_medical": 1,
+            "model_finance": 1
+        },
+        "ServerSgtkn": "64F844150DC2AC040E0927B59334C3CF0F10169C6755301A",
+        "suggShow": false,
+        "suggestion": "",
+        "suggDirection": "",
+        "usualTop": "",
+        "baseDict": "",
+        "wordCardClick": false,
+        "isFrInput": false,
+        "kanaTips": {
+            "show": false,
+            "left": "",
+            "top": "",
+            "type": "",
+            "arrowLeft": ""
+        },
+        "currSentenceIndex": -1,
+        "prefixStrObj": {
+            "prefixStr": "",
+            "oriPrefixStr": ""
+        },
+        "selectTransBox": {
+            "show": false,
+            "right": 0,
+            "top": 0,
+            "paraphraseInfo": {
+                "word": "",
+                "from": "",
+                "to": "",
+                "area": ""
+            }
+        },
+        "sentenceLoading": false,
+        "newSentenceInfo": {
+            "sentence": "",
+            "candidateIndex": 0
+        },
+        "moreTipInfo": {
+            "opacity": 0,
+            "zIndex": -1
+        },
+        "paraphraseShowInfo": {
+            "card": 0,
+            "query": "",
+            "card_dict": 0
+        },
+        "selectType": "",
+        "wordPos": 0,
+        "candidateWord": "",
+        "syntaxVisible": false,
+        "syntaxStatus": 0
+    },
+    "language": {
+        "from": "auto",
+        "to": "zh-CHS",
+        "detect": "en",
+        "model": "general",
+        "detectShow": false,
+        "langMap": {
+            "current": ""
+        },
+        "zh2en": false,
+        "fromItemList": [
+            {
+                "lang": "auto",
+                "text": "自动检测",
+                "play": false
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "ru",
+                "text": "俄语",
+                "play": true,
+                "abbr": "俄"
+            },
+            {
+                "lang": "tr",
+                "text": "土耳其语",
+                "play": false,
+                "abbr": "土"
+            },
+            {
+                "lang": "fr",
+                "text": "法语",
+                "play": true,
+                "abbr": "法"
+            }
+        ],
+        "toItemList": [
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "ru",
+                "text": "俄语",
+                "play": true,
+                "abbr": "俄"
+            },
+            {
+                "lang": "fr",
+                "text": "法语",
+                "play": true,
+                "abbr": "法"
+            },
+            {
+                "lang": "ko",
+                "text": "韩语",
+                "play": true,
+                "abbr": "韩"
+            }
+        ]
+    },
+    "voice": {
+        "from": {
+            "lang": "en",
+            "type": "from",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22greet%22%2C%22spokenDialect%22%3A%22en%22%2C%22rate%22%3A%220.8%22%7D",
+            "list": [
+                {
+                    "type": "uk_0",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "ɡriːt",
+                    "abbr": "英",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/12650_greet_uk.mp3"
+                },
+                {
+                    "type": "usa_1",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "ɡriːt",
+                    "abbr": "美",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/12650_greet_usa.mp3"
+                }
+            ],
+            "stype": "phonetic",
+            "phoneticShow": [
+                {
+                    "text": "ɡriːt",
+                    "type": "uk",
+                    "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/12650_greet_uk.mp3"
+                }
+            ]
+        },
+        "to": {
+            "lang": "zh",
+            "type": "to",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22%E8%BF%8E%E6%8E%A5%22%2C%22spokenDialect%22%3A%22zh-CHS%22%2C%22rate%22%3A%220.8%22%7D",
+            "stype": "normal"
+        }
+    }
+}

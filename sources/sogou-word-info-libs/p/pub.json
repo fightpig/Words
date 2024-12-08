@@ -1,0 +1,763 @@
+{
+    "route": {
+        "name": "text",
+        "path": "/text",
+        "hash": "",
+        "query": {
+            "keyword": "pub",
+            "transfrom": "auto",
+            "transto": "zh-CHS",
+            "model": "general",
+            "errcode": "s10"
+        },
+        "params": {},
+        "fullPath": "/text?keyword=pub&transfrom=auto&transto=zh-CHS&model=general&errcode=s10",
+        "meta": {
+            "mtype": [
+                "textTranslate",
+                "language",
+                "voice"
+            ]
+        },
+        "from": {
+            "name": null,
+            "path": "/",
+            "hash": "",
+            "query": {},
+            "params": {},
+            "fullPath": "/",
+            "meta": {}
+        }
+    },
+    "common": {
+        "CONFIG": {
+            "wuid": 1733636745514,
+            "loginInfo": {},
+            "isIE": 0,
+            "isHitSsrSwitch": true,
+            "isHitWritebookSwitch": false,
+            "isHitAmsSwitch": true,
+            "promotionList": "{\n    \"pc_bottom\":{\n        \"imgsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\",\n        \"qcsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\"\n    },\n    \"pc_middle\":[\n        {\n            \"src\":\"//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c\",\n            \"bgColor\":\"#ffffff\",\n            \"link\":\"\"\n        }\n    ],\n    \"pc_survey\":{\n        \"icon\":\"//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750\",\n        \"link\":\"https://wj.qq.com/s2/8193148/806d/\"\n    }\n}",
+            "bannerData": [],
+            "isHitAsideSurvey": false,
+            "secretCode": 109984457,
+            "uuid": "95c5047a-a351-43d7-90d1-26d063aaa44f",
+            "referer": "",
+            "approveToken": "64FAD5B0569CED44504978F4922D835F5087CAA767553289",
+            "loadTime": 1733636745516,
+            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0",
+            "fcp": "209.38.27.108",
+            "temporaryId": "",
+            "fileId": ""
+        },
+        "hotWords": [],
+        "isFromCollect": false,
+        "psdModify": {
+            "currentStep": 1,
+            "scode": "",
+            "username": ""
+        },
+        "loginStatus": true,
+        "feedBackModule": false,
+        "showPromotionPopup": {
+            "show": false,
+            "type": ""
+        },
+        "showPromotionPCDownload": false,
+        "showShareBomb": false,
+        "shareData": null,
+        "showAppDownLoad": false,
+        "showLoginDialog": false,
+        "showLoading": {
+            "show": false
+        },
+        "toast": {
+            "show": false,
+            "text": "",
+            "loading": false
+        },
+        "modelToast": {
+            "show": false,
+            "text": ""
+        },
+        "selectionGlobalShow": true,
+        "selectionInfo": {
+            "left": 0,
+            "top": 0,
+            "show": false,
+            "from": "",
+            "to": "",
+            "val": "",
+            "area": ""
+        },
+        "showConfirmDialog": false,
+        "promotionList": {
+            "pc_bottom": {
+                "imgsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png",
+                "qcsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png"
+            },
+            "pc_middle": [
+                {
+                    "src": "//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c",
+                    "bgColor": "#ffffff",
+                    "link": ""
+                }
+            ],
+            "pc_survey": {
+                "icon": "//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750",
+                "link": "https://wj.qq.com/s2/8193148/806d/"
+            }
+        },
+        "transTypeTxt": "text",
+        "fixedTabStatus": 0,
+        "bodyTop": 0,
+        "ifHideUserOperation": false
+    },
+    "textTranslate": {
+        "prevTransQuery": "",
+        "translateData": {
+            "translate": {
+                "zly": "zly",
+                "errorCode": "0",
+                "qc_type": "1",
+                "index": "content0",
+                "from": "en",
+                "source": "sogou",
+                "text": "pub",
+                "to": "zh-CHS",
+                "id": "95c5047a-a351-43d7-90d1-26d063aaa44f",
+                "dit": "酒馆",
+                "orig_text": "pub",
+                "md5": ""
+            },
+            "detect": {
+                "zly": "zly",
+                "detect": "en",
+                "errorCode": "0",
+                "language": "英语",
+                "id": "ab5e4a10-b527-11ef-bde4-bfeee0294273",
+                "text": "pub"
+            },
+            "sgtkn": "64FAD5B4569CED44504978F4922D835F5087CAA767553289",
+            "wordCard": {
+                "title": "pub",
+                "show": true,
+                "usualDict": [
+                    {
+                        "values": [
+                            "<英>酒馆；酒吧；<澳>旅馆；客栈"
+                        ],
+                        "pos": "n."
+                    },
+                    {
+                        "values": [
+                            "（PUB）公用事业局（Public Utilities Board的缩写）"
+                        ],
+                        "pos": "abbr."
+                    }
+                ],
+                "secondQuery": "",
+                "exchange": {
+                    "word_pl": [
+                        "pubs"
+                    ]
+                },
+                "levelList": [
+                    "高中",
+                    "四级",
+                    "六级",
+                    "考研"
+                ]
+            },
+            "detail": {
+                "synonym": [
+                    {
+                        "word_list": [
+                            "hotel",
+                            "tavern"
+                        ],
+                        "pos": "n.",
+                        "mean": "酒馆；客栈"
+                    }
+                ],
+                "word_group": [
+                    {
+                        "brief_definition": "逐店饮酒；走到哪儿喝到哪儿",
+                        "phrase": "pub crawl",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "本地酒馆；本地酒吧；地方酒吧",
+                        "phrase": "local pub",
+                        "pos": ""
+                    }
+                ],
+                "bilingual": [
+                    {
+                        "source": "The <em>pub</em> is very crowded.",
+                        "target": "酒吧非常拥挤。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Shall we go to the <em>pub</em> for a drink?",
+                        "target": "我们去酒吧喝一杯好吗？",
+                        "url": ""
+                    },
+                    {
+                        "source": "Let's meet at the <em>pub</em> after work.",
+                        "target": "下班后我们在酒吧见面吧。",
+                        "url": ""
+                    },
+                    {
+                        "source": "There are many limeys in this <em>pub</em>.",
+                        "target": "这个酒吧里有很多英国佬。",
+                        "url": ""
+                    },
+                    {
+                        "source": "The <em>pub</em> has a new keg of ale on tap.",
+                        "target": "酒吧有一小桶新鲜的麦酒。",
+                        "url": ""
+                    },
+                    {
+                        "source": "I ordered a pint of beer at the <em>pub</em>.",
+                        "target": "我在酒吧点了一品脱啤酒。",
+                        "url": ""
+                    },
+                    {
+                        "source": "The lads went to the <em>pub</em> after work.",
+                        "target": "小伙子们下班后去了酒吧。",
+                        "url": ""
+                    },
+                    {
+                        "source": "The <em>pub</em> was crowded on Friday night.",
+                        "target": "周五晚上酒吧里挤满了人。",
+                        "url": ""
+                    },
+                    {
+                        "source": "I ordered a bock at the German <em>pub</em>.",
+                        "target": "我在德国酒吧点了一杯博克啤酒。",
+                        "url": ""
+                    },
+                    {
+                        "source": "He loves to play darts at the local <em>pub</em>.",
+                        "target": "他喜欢在当地的酒吧玩飞镖。",
+                        "url": ""
+                    }
+                ],
+                "baike": {
+                    "showMore": false,
+                    "list": [
+                        {
+                            "lemmaTitle": "pub",
+                            "link": "https://baike.sogou.com/v61309582.htm?ch=sogou.fanyi",
+                            "abstract": "pub（英 [pʌb]，美 [pʌb]），英语单词，作名词为酒吧；旅馆；酒店。作动词为时常出入于酒吧；泡酒吧。例句：He runs a pub that serves excellent beer.（他经营一家供应上等啤酒的酒馆。） 近义词有hotel。",
+                            "wapPic": "",
+                            "pcPic": ""
+                        },
+                        {
+                            "lemmaTitle": "pub",
+                            "link": "https://baike.sogou.com/v61309781.htm?ch=sogou.fanyi",
+                            "abstract": "PUB(Predictions in Ungauged Basins)，无资料流域水文预报。",
+                            "wapPic": "",
+                            "pcPic": ""
+                        }
+                    ]
+                }
+            },
+            "book": {
+                "yingyinNormal": [
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/83bcab8039fa5140ba0e29ca21fce0eb_17113.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/acda0d5a0b55415f07e08353d4c88bfa_11403.mp3",
+                        "isLavafox": true,
+                        "en": "I spend time with my family. And I go to the <em>pub</em>. I watch TV. I, oh, I watch Patrick running.",
+                        "zh": "我跟家人在一起，去酒吧或者看电视，还有看帕特里克跑步。",
+                        "videoNameZh": "《遇见你之前》",
+                        "videoNameEn": "《Me before you》",
+                        "url": "http://bisentence_movie.sogou.com/9f12f84471f080373e50668b3ed278ba_3f2888f9762a5de541ac62600b8ada1d2d6a3afb"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/509aaaf1bca346e83520c424895dfdd8_57758.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/18b0b177ef5329a2a855ac9d5c4c0abc_2400.mp3",
+                        "isLavafox": true,
+                        "en": "They've got surveillance of you in an IRA <em>pub</em> with a Pat O'Reilly, who they ID'd as the Knightsbridge bomber. And thanks to your GPS phone, they tracked you here.",
+                        "zh": "他们监控到你在一家酒吧里和帕瑞克·奥莱利会面，那边已经确定了。他就是骑士桥爆炸袭击的袭击者，多亏了你电话里的定位，他们才得以追踪到你。",
+                        "videoNameZh": "《英伦对决》",
+                        "videoNameEn": "《The Foreigner》",
+                        "url": "http://bisentence_movie.sogou.com/61722b80543aba28373f23b38c35bd85_798d5370919b681be03955bcfe8731fb9fe73e21"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/9c83d7152fb0df988f6a1de8ac273775_53611.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/66ca99b9240ca4674d8d50762a44529d_44294.mp3",
+                        "isLavafox": true,
+                        "en": "I won it. Off a stranger I met down at the <em>pub</em>. Seemed quite glad to be rid of it, as a matter of fact.",
+                        "zh": "赢来的，是从陌生人那儿赢来的，不知怎么，他好像巴不得输给我。",
+                        "videoNameZh": "《哈利·波特与魔法石》",
+                        "videoNameEn": "《Harry Potter and the Sorcerers Stone》",
+                        "url": "http://bisentence_movie.sogou.com/2f31dca93ecb9900fa61e855aa3b6096_9258b2325829f5690ca160d2425583c739999f45"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/5784af55ab08e203ecc1fde609fc5bb5_17166.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/59a3ed4c176c5ab0f656e47b2cf21812_10583.mp3",
+                        "isLavafox": true,
+                        "en": "Matthew wasn't really a <em>pub</em> man and Papa goes into the Grantham Arms about once a year to have a drink with the tenants.",
+                        "zh": "马修不怎么来，酒馆爸爸每年能去一次格兰瑟姆旅馆，跟佃户们喝酒。",
+                        "videoNameZh": "《唐顿庄园 第六季》",
+                        "videoNameEn": "《Downton Abbey Season 6》",
+                        "url": "http://bisentence_movie.sogou.com/6effb2883867e1f25efdc5ee66f2cc24_ac328da0fbb4eb592d6f01e35b73b485639aeaa5"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/9c83d7152fb0df988f6a1de8ac273775_53611.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/369795c4fb7a8de8ee419f9c016c152c_26149.mp3",
+                        "isLavafox": true,
+                        "en": "Of course he's got a name. He's mine. I bought him off an Irishman fellow I met at a <em>pub</em> last year. I lent him to Dumbledore to guard the...Yes?",
+                        "zh": "当然有名字，他是我的是我去年在酒馆向一个爱尔兰人买的，后来借给邓布利多去看守...什么？",
+                        "videoNameZh": "《哈利·波特与魔法石》",
+                        "videoNameEn": "《Harry Potter and the Sorcerers Stone》",
+                        "url": "http://bisentence_movie.sogou.com/78ff6a6e2111b283fcfe4e055d72292e_53c583169341d4bd9d1483182eeb0752aca83724"
+                    }
+                ]
+            },
+            "pic": "",
+            "voice": {
+                "phonetic": [
+                    {
+                        "text": "pʌb",
+                        "type": "uk",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/11682_pub_uk.mp3"
+                    },
+                    {
+                        "text": "pʌb",
+                        "type": "usa",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/11682_pub_usa.mp3"
+                    }
+                ]
+            },
+            "dictType": "oxford_buchong",
+            "CET6": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 0,
+                        "pos": "n",
+                        "chinese": "小酒馆; 旅馆",
+                        "sense_tier_ratio": 0
+                    }
+                ],
+                "word": "pub",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2016.6-2023.6年8年间全六级试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight>考纲释义</highlight>\n精选实考、考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2016-2023年51套试卷，包括阅读、听力、翻译等所有题型。\n\n<highlight>真题例句</highlight>\n精选2016-2023年8年间全六级试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 1,
+                "total_exam_freq": 0,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "synonyms": "",
+                            "en": "",
+                            "zh": "小酒馆; 旅馆",
+                            "pos": "n",
+                            "antonyms": ""
+                        }
+                    ]
+                },
+                "exchange_info": {
+                    "word_pl": [
+                        "pubs"
+                    ]
+                }
+            },
+            "CET4": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 2,
+                        "pos": "n",
+                        "chinese": "小酒馆; 旅馆",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "pub",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2016.6-2023.6年8年间全四级试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight>考纲释义</highlight>\n精选实考、考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2016-2023年51套试卷，包括阅读、听力、翻译等所有题型。\n\n<highlight>真题例句</highlight>\n精选2016-2023年8年间试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 1,
+                "total_exam_freq": 2,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "小酒馆; 旅馆",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "He runs a <highlight>pub</highlight> that serves excellent beer.",
+                                    "month": 12,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "他经营一家供应上等啤酒的酒馆。",
+                                    "year": 2016,
+                                    "type": "阅读理解C",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Support Bill Perry's <highlight>pub</highlight>, and any other bar or restaurant that doesn't ask you to do drunken math.",
+                                    "month": 12,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "支持比尔·佩里的酒吧，以及任何其他不要求你做醉酒数学的酒吧或餐厅。",
+                                    "year": 2016,
+                                    "type": "阅读理解C",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            "gaokao": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 0,
+                        "pos": "cn",
+                        "chinese": "酒馆; 酒吧",
+                        "sense_tier_ratio": 0
+                    }
+                ],
+                "word": "pub",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2015-2022年8年间全国卷和自主命题省市高考卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2015-2022年全国卷高考试卷，包括阅读、完形、单选、填空、听力、改错、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选各省市考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2015-2022年8年间全国卷和自主命题省市高考卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 1,
+                "total_exam_freq": 0,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "synonyms": "",
+                            "en": "",
+                            "zh": "酒馆; 酒吧",
+                            "pos": "cn",
+                            "antonyms": ""
+                        }
+                    ]
+                }
+            },
+            "zhongkao": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 2,
+                        "pos": "cn",
+                        "chinese": "酒馆; 酒吧",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "pub",
+                "direction_info": {
+                    "ranges": 4,
+                    "description": "数据源自2018-2021年4年间全国各省市中考试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2018-2021年全国重点省市中考试卷，包括听力、阅读、完形、单选、填空、改错、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选各省市考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2018-2021年4年间全国各省市中考试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 1,
+                "total_exam_freq": 2,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "酒馆; 酒吧",
+                            "pos": "cn",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "For British people, going to the <highlight>pub</highlight> was their first choice, followed by visiting the cinema.",
+                                    "month": -1,
+                                    "source": "金华市卷",
+                                    "coll": "",
+                                    "sentence_trans": "对英国人来说，去酒吧是他们的第一选择，其次是看电影。",
+                                    "year": 2021,
+                                    "type": "词汇运用",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "You can't work in a <highlight>pub</highlight> or bar, but you can work  in many other places.",
+                                    "month": -1,
+                                    "source": "呼和浩特卷",
+                                    "coll": "",
+                                    "sentence_trans": "你不能在酒馆或酒吧工作，但你可以在许多其他地方工作。",
+                                    "year": 2019,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            "sentencesData": {
+                "status": 1,
+                "info": "notZh2En",
+                "data": {}
+            },
+            "isAutoMatch": false,
+            "Zh2En": false
+        },
+        "query": "pub",
+        "result": "酒馆",
+        "tabSelect": "detail",
+        "dictionaryType": "oxford_buchong",
+        "notFound_show": false,
+        "phoneticShow": "",
+        "globalShowTranslateRecord": "",
+        "pronPrefer": {
+            "type": "usa_1",
+            "speaker": "male",
+            "speed": "standard"
+        },
+        "ServerRecord": "",
+        "ServerUIGS": {
+            "version": "new",
+            "type": "all",
+            "stype": "success",
+            "terminal": "web",
+            "fr": "default",
+            "direction": "etoz",
+            "from": "en",
+            "to": "zh-CHS",
+            "len": 3,
+            "qtype": "text",
+            "qctype": "qc_1",
+            "dict_cover": 1,
+            "detail": 1,
+            "wordCardCover": 1,
+            "wordCardEn": 1,
+            "wordCardCh": 0,
+            "wordCardMinor": 0,
+            "wordCardNetmean": 0,
+            "wordDeform": 1,
+            "keyword": 0,
+            "bilingual": 1,
+            "simple": 0,
+            "levelList": 1,
+            "synonym": 1,
+            "antonym": 0,
+            "conjugate": 0,
+            "rootaffix": 0,
+            "baike_sogou": 1,
+            "baike_wiki": 0,
+            "wordDifference": 0,
+            "word_phrase": 1,
+            "secondQuery": 0,
+            "dict_oxford": 0,
+            "dict_newcentury": 0,
+            "zhongkaotab": 1,
+            "gaokaotab": 1,
+            "CET4tab": 1,
+            "CET6tab": 1,
+            "kaoyantab": 0,
+            "network_tab": 0,
+            "yinying_tab": 1,
+            "tuozhan_tab": 0,
+            "one_pic": 0,
+            "more_pic": 0,
+            "no_pic": 0,
+            "uuid": "95c5047a-a351-43d7-90d1-26d063aaa44f",
+            "from_type": 0,
+            "t_trans_ssr": 129
+        },
+        "ServerModelUIGS": {
+            "terminal": "web",
+            "type": "trans_model",
+            "pbtype": "pv",
+            "model_general": 1,
+            "model_medical": 1,
+            "model_finance": 1
+        },
+        "ServerSgtkn": "64FAD5B4569CED44504978F4922D835F5087CAA767553289",
+        "suggShow": false,
+        "suggestion": "",
+        "suggDirection": "",
+        "usualTop": "",
+        "baseDict": "",
+        "wordCardClick": false,
+        "isFrInput": false,
+        "kanaTips": {
+            "show": false,
+            "left": "",
+            "top": "",
+            "type": "",
+            "arrowLeft": ""
+        },
+        "currSentenceIndex": -1,
+        "prefixStrObj": {
+            "prefixStr": "",
+            "oriPrefixStr": ""
+        },
+        "selectTransBox": {
+            "show": false,
+            "right": 0,
+            "top": 0,
+            "paraphraseInfo": {
+                "word": "",
+                "from": "",
+                "to": "",
+                "area": ""
+            }
+        },
+        "sentenceLoading": false,
+        "newSentenceInfo": {
+            "sentence": "",
+            "candidateIndex": 0
+        },
+        "moreTipInfo": {
+            "opacity": 0,
+            "zIndex": -1
+        },
+        "paraphraseShowInfo": {
+            "card": 0,
+            "query": "",
+            "card_dict": 0
+        },
+        "selectType": "",
+        "wordPos": 0,
+        "candidateWord": "",
+        "syntaxVisible": false,
+        "syntaxStatus": 0
+    },
+    "language": {
+        "from": "auto",
+        "to": "zh-CHS",
+        "detect": "en",
+        "model": "general",
+        "detectShow": false,
+        "langMap": {
+            "current": ""
+        },
+        "zh2en": false,
+        "fromItemList": [
+            {
+                "lang": "auto",
+                "text": "自动检测",
+                "play": false
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "th",
+                "text": "泰语",
+                "play": true,
+                "abbr": "泰"
+            },
+            {
+                "lang": "ru",
+                "text": "俄语",
+                "play": true,
+                "abbr": "俄"
+            },
+            {
+                "lang": "ko",
+                "text": "韩语",
+                "play": true,
+                "abbr": "韩"
+            }
+        ],
+        "toItemList": [
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "ru",
+                "text": "俄语",
+                "play": true,
+                "abbr": "俄"
+            },
+            {
+                "lang": "ko",
+                "text": "韩语",
+                "play": true,
+                "abbr": "韩"
+            },
+            {
+                "lang": "fr",
+                "text": "法语",
+                "play": true,
+                "abbr": "法"
+            }
+        ]
+    },
+    "voice": {
+        "from": {
+            "lang": "en",
+            "type": "from",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22pub%22%2C%22spokenDialect%22%3A%22en%22%2C%22rate%22%3A%220.8%22%7D",
+            "list": [
+                {
+                    "type": "uk_0",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "pʌb",
+                    "abbr": "英",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/11682_pub_uk.mp3"
+                },
+                {
+                    "type": "usa_1",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "pʌb",
+                    "abbr": "美",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/11682_pub_usa.mp3"
+                }
+            ],
+            "stype": "phonetic",
+            "phoneticShow": [
+                {
+                    "text": "pʌb",
+                    "type": "uk",
+                    "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/11682_pub_uk.mp3"
+                }
+            ]
+        },
+        "to": {
+            "lang": "zh",
+            "type": "to",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22%E9%85%92%E9%A6%86%22%2C%22spokenDialect%22%3A%22zh-CHS%22%2C%22rate%22%3A%220.8%22%7D",
+            "stype": "normal"
+        }
+    }
+}

@@ -1,0 +1,934 @@
+{
+    "route": {
+        "name": "text",
+        "path": "/text",
+        "hash": "",
+        "query": {
+            "keyword": "thanks",
+            "transfrom": "auto",
+            "transto": "zh-CHS",
+            "model": "general",
+            "errcode": "s10"
+        },
+        "params": {},
+        "fullPath": "/text?keyword=thanks&transfrom=auto&transto=zh-CHS&model=general&errcode=s10",
+        "meta": {
+            "mtype": [
+                "textTranslate",
+                "language",
+                "voice"
+            ]
+        },
+        "from": {
+            "name": null,
+            "path": "/",
+            "hash": "",
+            "query": {},
+            "params": {},
+            "fullPath": "/",
+            "meta": {}
+        }
+    },
+    "common": {
+        "CONFIG": {
+            "wuid": 1733636493037,
+            "loginInfo": {},
+            "isIE": 0,
+            "isHitSsrSwitch": true,
+            "isHitWritebookSwitch": false,
+            "isHitAmsSwitch": true,
+            "promotionList": "{\n    \"pc_bottom\":{\n        \"imgsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\",\n        \"qcsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\"\n    },\n    \"pc_middle\":[\n        {\n            \"src\":\"//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c\",\n            \"bgColor\":\"#ffffff\",\n            \"link\":\"\"\n        }\n    ],\n    \"pc_survey\":{\n        \"icon\":\"//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750\",\n        \"link\":\"https://wj.qq.com/s2/8193148/806d/\"\n    }\n}",
+            "bannerData": [],
+            "isHitAsideSurvey": false,
+            "secretCode": 109984457,
+            "uuid": "8b32f3a5-04b8-4b19-b09e-56694ed56d8b",
+            "referer": "",
+            "approveToken": "64F9C19BA67B14BDB6B19E0D04E0FF57B797C45C6755318D",
+            "loadTime": 1733636493039,
+            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0",
+            "fcp": "161.35.183.163",
+            "temporaryId": "",
+            "fileId": ""
+        },
+        "hotWords": [],
+        "isFromCollect": false,
+        "psdModify": {
+            "currentStep": 1,
+            "scode": "",
+            "username": ""
+        },
+        "loginStatus": true,
+        "feedBackModule": false,
+        "showPromotionPopup": {
+            "show": false,
+            "type": ""
+        },
+        "showPromotionPCDownload": false,
+        "showShareBomb": false,
+        "shareData": null,
+        "showAppDownLoad": false,
+        "showLoginDialog": false,
+        "showLoading": {
+            "show": false
+        },
+        "toast": {
+            "show": false,
+            "text": "",
+            "loading": false
+        },
+        "modelToast": {
+            "show": false,
+            "text": ""
+        },
+        "selectionGlobalShow": true,
+        "selectionInfo": {
+            "left": 0,
+            "top": 0,
+            "show": false,
+            "from": "",
+            "to": "",
+            "val": "",
+            "area": ""
+        },
+        "showConfirmDialog": false,
+        "promotionList": {
+            "pc_bottom": {
+                "imgsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png",
+                "qcsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png"
+            },
+            "pc_middle": [
+                {
+                    "src": "//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c",
+                    "bgColor": "#ffffff",
+                    "link": ""
+                }
+            ],
+            "pc_survey": {
+                "icon": "//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750",
+                "link": "https://wj.qq.com/s2/8193148/806d/"
+            }
+        },
+        "transTypeTxt": "text",
+        "fixedTabStatus": 0,
+        "bodyTop": 0,
+        "ifHideUserOperation": false
+    },
+    "textTranslate": {
+        "prevTransQuery": "",
+        "translateData": {
+            "translate": {
+                "zly": "zly",
+                "errorCode": "0",
+                "qc_type": "1",
+                "index": "content0",
+                "from": "en",
+                "source": "sogou",
+                "text": "thanks",
+                "to": "zh-CHS",
+                "id": "8b32f3a5-04b8-4b19-b09e-56694ed56d8b",
+                "dit": "谢谢",
+                "orig_text": "thanks",
+                "md5": ""
+            },
+            "detect": {
+                "zly": "zly",
+                "detect": "en",
+                "errorCode": "0",
+                "language": "英语",
+                "id": "14e13430-b527-11ef-8fde-2f3fa4b583e6",
+                "text": "thanks"
+            },
+            "sgtkn": "64F9C19DA67B14BDB6B19E0D04E0FF57B797C45C6755318D",
+            "wordCard": {
+                "title": "thanks",
+                "show": true,
+                "usualDict": [
+                    {
+                        "values": [
+                            "致谢；感谢（某人）；（为某事）道谢；（thank的第三人称单数）"
+                        ],
+                        "pos": "v."
+                    },
+                    {
+                        "values": [
+                            "谢意；感激；感谢；致谢；鸣谢；感恩之情"
+                        ],
+                        "pos": "pl-n."
+                    },
+                    {
+                        "values": [
+                            "（表示感激）谢谢；感谢；（接受好意）好的；（婉言谢绝）不用了"
+                        ],
+                        "pos": "int."
+                    }
+                ],
+                "secondQuery": "",
+                "exchange": {
+                    "word_proto": [
+                        "thank"
+                    ]
+                },
+                "levelList": [
+                    "小学",
+                    "初中",
+                    "高中",
+                    "四级",
+                    "六级",
+                    "考研"
+                ]
+            },
+            "detail": {
+                "synonym": [
+                    {
+                        "word_list": [
+                            "Arigatou",
+                            "Grazie"
+                        ],
+                        "pos": "n.",
+                        "mean": "谢谢"
+                    },
+                    {
+                        "word_list": [
+                            "merci",
+                            "danke",
+                            "arigato"
+                        ],
+                        "pos": "int.",
+                        "mean": "谢谢"
+                    }
+                ],
+                "word_group": [
+                    {
+                        "brief_definition": "谢谢；感谢；多谢",
+                        "phrase": "thanks for",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "幸亏, 由于, 因为",
+                        "phrase": "thanks to",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "(表示非常感激)多谢",
+                        "phrase": "thanks a lot",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "没有感谢；别管闲事",
+                        "phrase": "no thanks",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "表达感谢；表示感谢",
+                        "phrase": "express thanks",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "幸亏；由于；因为",
+                        "phrase": "black tea",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "万分感谢",
+                        "phrase": "thanks a million",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "并未沾…的光；不归功于",
+                        "phrase": "no thanks to",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "多谢；非常感谢",
+                        "phrase": "thanks a bunch",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "致谢；感谢",
+                        "phrase": "return thanks",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "道谢",
+                        "phrase": "give thanks",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "由衷感谢",
+                        "phrase": "sincere thanks",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "多谢；很感谢",
+                        "phrase": "many thanks",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "表示感谢",
+                        "phrase": "say thanks",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "致谢信；感谢信；致谢函",
+                        "phrase": "letter of thanks",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "接受谢意；接受感谢",
+                        "phrase": "accept thanks",
+                        "pos": ""
+                    }
+                ],
+                "bilingual": [
+                    {
+                        "source": "Addae stood and gave <em>thanks</em>.",
+                        "target": "阿达站起来表示感谢。",
+                        "url": ""
+                    },
+                    {
+                        "source": "<em>Thanks</em> very much for your last email.",
+                        "target": "非常感谢你的上一封邮件。",
+                        "url": ""
+                    },
+                    {
+                        "source": "I can express love and <em>thanks</em> to my family.",
+                        "target": "我可以向家人表达爱和感谢。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Do people give <em>thanks</em> for anything on this day?",
+                        "target": "人们在这一天感谢什么吗？",
+                        "url": ""
+                    },
+                    {
+                        "source": "She didn't reach out to them for their <em>thanks</em>.",
+                        "target": "她伸出手并不是为了得到他们的感谢。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Well, <em>thanks</em> again for coming to speak to us, Lisa.",
+                        "target": "好的，再次感谢你来和我们交流，丽莎。",
+                        "url": ""
+                    },
+                    {
+                        "source": "<em>Thanks</em>giving is a time to give <em>thanks</em> for food in the autumn.",
+                        "target": "感恩节是感谢秋天食物的时刻。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Traditionally, it was a chance to give <em>thanks</em> for a good harvest.",
+                        "target": "传统上，这是感谢丰收的机会。",
+                        "url": ""
+                    },
+                    {
+                        "source": "But <em>thanks</em> to the support of my teacher, parents and friends, I overcame my fears.",
+                        "target": "但感谢老师、父母和朋友的支持，我克服了恐惧。",
+                        "url": ""
+                    },
+                    {
+                        "source": "James was finally freed in 1787 and added his old commander's name, Lafayette, to his own name as <em>thanks</em>.",
+                        "target": "詹姆斯最终在1787年获得自由，并将他旧指挥官的名字拉法耶特加到自己的名字中以示感谢。",
+                        "url": ""
+                    }
+                ],
+                "baike": {
+                    "showMore": false,
+                    "list": [
+                        {
+                            "lemmaTitle": "谢谢",
+                            "link": "https://baike.sogou.com/v64551659.htm?ch=sogou.fanyi",
+                            "abstract": "《谢谢》（고맙습니다）是由李载东执导，李庆熙担任编剧，孔晓振、张赫、徐信爱、申成禄、申久等主演的剧情电视剧，于2007年3月21日在韩国MBC电视台首播。 该剧主要以韩国蓝岛为背景，讲述了封闭了内心的出色医生闵基瑞（张赫 饰）和虽然孩子身患艾滋病却依然怀抱着希望勇敢面对生活的李英新（孔晓振 饰），在交往中彼此间创造奇迹的故事。",
+                            "wapPic": "//img03.sogoucdn.com/v2/thumb/retype_exclude_gif/ext/auto/q/80/crop/xy/ai/w/140/h/140/resize/w/140?appid=201005&sign=dcc774f75e8a7df85975498d2fdf0bdd&url=https%3A%2F%2Fpic.baike.soso.com%2Fugc%2Fbaikepic2%2F8761%2F20220530105604-2123364341_png_880_586_566609.jpg%2F0",
+                            "pcPic": "//img02.sogoucdn.com/v2/thumb/retype_exclude_gif/ext/auto/q/80/crop/xy/ai/w/140/h/140/resize/w/140?appid=201005&sign=dcc774f75e8a7df85975498d2fdf0bdd&url=https%3A%2F%2Fpic.baike.soso.com%2Fugc%2Fbaikepic2%2F8761%2F20220530105604-2123364341_png_880_586_566609.jpg%2F0"
+                        }
+                    ]
+                }
+            },
+            "book": {
+                "yingyinNormal": [
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/65861602801590fdaf378b1d1c997a40_10433.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/0bc7d9111be1c7be46d6c95d7928d5b8_11309.mp3",
+                        "isLavafox": true,
+                        "en": "<em>Thanks</em>. <em>Thanks</em>. And <em>thanks</em> again. Yeah.",
+                        "zh": "谢谢，谢谢，再次感谢。",
+                        "videoNameZh": "《老友记 第五季》",
+                        "videoNameEn": "《Friends Season 5》",
+                        "url": "http://bisentence_movie.sogou.com/f8c51a6c30a0bacbf2534d1a4c969f46_a5ebf401421035bea4c0194a2a63100375a68d88"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/5779bc3ee996a4c3adbca63904f7db92_42866.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/e4d5f6906e1be40ebfd66c487fbf88b4_27437.mp3",
+                        "isLavafox": true,
+                        "en": "<em>Thanks</em>, Jack. I appreciate it.",
+                        "zh": "谢谢你，杰克，真的很感谢。",
+                        "videoNameZh": "《成长教育》",
+                        "videoNameEn": "《An Education》",
+                        "url": "http://bisentence_movie.sogou.com/028d8695f074dae1bb94be8b58d25710_cac3c6fb0f2ffdfb1aa5d9ce5549e1212a202dea"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/dde03d29cdf9f1eb3170279dd5ad8ff2_46072.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/c782a56237194198f1d6672adb929bd4_51539.mp3",
+                        "isLavafox": true,
+                        "en": "<em>Thanks</em> for being there, you guys.",
+                        "zh": "感谢你们出席我的毕业礼。",
+                        "videoNameZh": "《摩登家庭 第六季》",
+                        "videoNameEn": "《Modern Family Season 6》",
+                        "url": "http://bisentence_movie.sogou.com/999eeeda388a930731b4a4cedf2e3b31_e65152f89aa6ad09cc1f974030ce58e8f152b4cf"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/2674be7173613a724967150e0c47e7ff_59249.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/659d9b1a3ca36c58a8aab9ab6a805558_47042.mp3",
+                        "isLavafox": true,
+                        "en": "Garboni Funeral Home? <em>Thanks</em> for coming.",
+                        "zh": "加伯尼殡仪馆？感谢出席。",
+                        "videoNameZh": "《破产姐妹 第五季》",
+                        "videoNameEn": "《2 Broke Girls Season 5》",
+                        "url": "http://bisentence_movie.sogou.com/94f99e11ed8922b962ab0828e21bcbed_f166a96b959d57f65252a30554ead19e14653f00"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/6a0f1af500949aabdf79e8935d4a7230_22265.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/68bbcb10cd0bdd5939ff0315e2c51ba2_22022.mp3",
+                        "isLavafox": true,
+                        "en": "<em>Thanks</em> you guys. Again. Come on, sweetie.",
+                        "zh": "谢谢你们，再次感谢。谢什么。",
+                        "videoNameZh": "《老友记 第四季》",
+                        "videoNameEn": "《Friends Season 4》",
+                        "url": "http://bisentence_movie.sogou.com/1797f3e4ee56fc716c86af1c258ded4c_f4055ddece5297d5b5e98f28d2beba8a58101fa4"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/21d26cfef0cd26f0813072491b08dd5a_57364.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/66a4701b004142d7d1c8ae4cf089caee_46158.mp3",
+                        "isLavafox": true,
+                        "en": "<em>Thanks</em> again for letting me crash \"girls' night.\"",
+                        "zh": "再次感谢你们让我参一脚\"闺蜜之夜\"。",
+                        "videoNameZh": "《生活大爆炸 第六季》",
+                        "videoNameEn": "《The Big Bang Theory Season 6》",
+                        "url": "http://bisentence_movie.sogou.com/90ba8feff4487c75734c8875f1265b48_8033d4ef419187450278fd2231fac2c4d8aeb1e2"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/ef2251c62fc1b53f995cf777893bc2ff_45162.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/89687cd2198ce8c5add3c02deff6e62d_60845.mp3",
+                        "isLavafox": true,
+                        "en": "<em>Thanks</em>, Frank. Welcome to the West Wing. Thank you, sir.",
+                        "zh": "谢谢 Frank，欢迎加入白宫。感谢您，总统先生。",
+                        "videoNameZh": "《纸牌屋 第二季》",
+                        "videoNameEn": "《House of Cards Season 2》",
+                        "url": "http://bisentence_movie.sogou.com/ca6c61ff4ec75192b44f499e4ff28521_dc53a0546562930620627ec00e63ec7115b922e9"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/ae9d6f2f04858f0af8517ff08116148e_6738.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/888eb5ae151ff614580cc41da4520707_50804.mp3",
+                        "isLavafox": true,
+                        "en": "<em>Thanks</em> for listening.",
+                        "zh": "感谢你的聆听。",
+                        "videoNameZh": "《女孩成长记 第三季》",
+                        "videoNameEn": "《Girl Meets World Season 3》",
+                        "url": "http://bisentence_movie.sogou.com/f904b4e0ea4cd8b3cafb351a1c5c1899_b9ca25feb54d423ccab5b2f54835a2e0f21082f5"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/f7d7167294560b5a445295985c93469c_14515.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/51c64676395f59564dbf1573f616d021_74239.mp3",
+                        "isLavafox": true,
+                        "en": "<em>Thanks</em> for understanding, sir. Yes, thank you so much. We really appreciate it.",
+                        "zh": "感谢您的理解，长官。非常感谢。我们真的很感激。",
+                        "videoNameZh": "《生活大爆炸 第十季》",
+                        "videoNameEn": "《The Big Bang Theory Season 10》",
+                        "url": "http://bisentence_movie.sogou.com/abee6dc7cc516d8fa74ae302d74dac76_165c39305f6093ede2441ac61c899ed4f67ec59c"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/8106a5d878c9284ba65385b79f2e03b2_25351.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/347648ec68261f48ffe2e3001db4e29d_3466.mp3",
+                        "isLavafox": true,
+                        "en": "I already have. And for twice the price, <em>thanks</em> to you.",
+                        "zh": "我已经卖了，还是以两倍的价格，这得感谢你。",
+                        "videoNameZh": "《蚁人》",
+                        "videoNameEn": "《Ant-Man》",
+                        "url": "http://bisentence_movie.sogou.com/6dd5dd26a0ba685db494c13062c0aded_30763894d02a60ed1aa9c950094eb414be798b7e"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/cf2616af116b548887696dabfcc2fd97_68323.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/77ca8449f642c5dc7479abe2d8b21777_60732.mp3",
+                        "isLavafox": true,
+                        "en": "So this holiday season as we give <em>thanks</em> for the blessings in our own lives, let's also give <em>thanks</em> to our men and women in uniform who make those blessings possible.",
+                        "zh": "所以在这个节日季，当我们感谢在我们自己生命中的福祉时，让我们也感谢我们的军人，是他们让那些福祉成为可能。",
+                        "videoNameZh": "《奥巴马每周电视讲话》",
+                        "videoNameEn": "《Your Weekly Address》",
+                        "url": "http://bisentence_movie.sogou.com/00dc562a53e6c2859797939ed6c5377d_846a46ae1214eec1da97e8c394454402ff59432c"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/658cb5af1f2c25ef894d7429bd1ba9af_103.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/5366db182c1eaea4688ca49600529c05_47055.mp3",
+                        "isLavafox": true,
+                        "en": "<em>Thanks</em> for playing. Come on, Harry. She found us a ride.",
+                        "zh": "感谢参与游戏，来吧，哈罗，她帮我们叫到车了。",
+                        "videoNameZh": "《疑犯追踪 第四季》",
+                        "videoNameEn": "《Person of Interest Season 4》",
+                        "url": "http://bisentence_movie.sogou.com/57d5e18a2ad415c9e24b54675582ed85_877bddec2af2535274977450c3f593e40ebe2c93"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/a86e6e98cc64448e528c65f2085efa0f_30194.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/587d80666a03e23543dd1885bc24486c_53987.mp3",
+                        "isLavafox": true,
+                        "en": "<em>Thanks</em> for coming over. No problem. Ooh, you made little sandwiches!",
+                        "zh": "感谢你过来。没什么，哦，你做了小三明治!",
+                        "videoNameZh": "《生活大爆炸 第7季》",
+                        "videoNameEn": "《The Big Bang Theory Season 7》",
+                        "url": "http://bisentence_movie.sogou.com/a583f2d8d8f04bc1493a613832804d39_cddb1ae0c7d0f377c43e60ef896bd5d9def5dee9"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/ffb97d198e1d0938c0a9c7c9f667a5c2_10585.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/5593b4110bcc9de9f98924050cd9b501_16459.mp3",
+                        "isLavafox": true,
+                        "en": "Sebastian. Come on in, man. <em>Thanks</em> for coming. <em>Thanks</em> for having me. I wasn't sure I'd see you today.",
+                        "zh": "塞巴斯蒂安，进来，伙计。感谢你能来，谢谢你邀请我。没想到今天能见到你。",
+                        "videoNameZh": "《爱乐之城》",
+                        "videoNameEn": "《La La Land》",
+                        "url": "http://bisentence_movie.sogou.com/d9bc7a352c1813148527174cc3d980b7_418d253c1deea17603548f5b9859b852a53b4fdf"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/79cf900ee00a1a06b4169225ae5cd9e5_3961.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/279bf07163105c087cc75d9ea000c963_16880.mp3",
+                        "isLavafox": true,
+                        "en": "<em>Thanks</em> for being so understanding, Dad. I know you'll keep him safe.",
+                        "zh": "感谢你这么善解人意，爸爸，我知道你会保护好他的。",
+                        "videoNameZh": "《精灵旅社2》",
+                        "videoNameEn": "《Hotel Transylvania 2》",
+                        "url": "http://bisentence_movie.sogou.com/56067974867235a26bda03ffc8d2943a_22d7f94ff5baf9b7f5bb2c43b2def1e5c881a861"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/2674be7173613a724967150e0c47e7ff_59249.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/b686d471059ca6d776bd8d4580a2f0c6_47158.mp3",
+                        "isLavafox": true,
+                        "en": "Well, you've come to the right place. And <em>thanks</em> again for turning me on to Brian's class.",
+                        "zh": "那你真是来对地方了，再次感谢让我转投布莱恩的课程。",
+                        "videoNameZh": "《破产姐妹 第五季》",
+                        "videoNameEn": "《2 Broke Girls Season 5》",
+                        "url": "http://bisentence_movie.sogou.com/07ae5e3df5b974d2139e2e269ec36fca_26cbbc1dd69f233636ece9854d5dfd626f588cfe"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/cf2616af116b548887696dabfcc2fd97_68323.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/dafd9fce889e6cf0227729486035194d_4528.mp3",
+                        "isLavafox": true,
+                        "en": "Hi, everybody. It's the holidays, a season to give <em>thanks</em> for our many blessings.",
+                        "zh": "大家好，现在是假期，这是一个对我们的很多福祉给出感谢的季节。",
+                        "videoNameZh": "《奥巴马每周电视讲话》",
+                        "videoNameEn": "《Your Weekly Address》",
+                        "url": "http://bisentence_movie.sogou.com/7e2794af0650ddc70b396445729ed604_2e02951c270f9cddc0abeae6c73b122adbfc0d93"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/3cc7f04bc4e6bde5cc691b286df1a676_37630.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/45ebfba3fa54c8b22a4fc0309ecf833e_64854.mp3",
+                        "isLavafox": true,
+                        "en": "What are you doing? All right, great. Great. <em>Thanks</em> a lot. I'm going to tap class.",
+                        "zh": "你在干什么？太好了，谢谢太棒了，非常感谢，我要去上踢踏舞课。",
+                        "videoNameZh": "《老友记第一季》",
+                        "videoNameEn": "《Friends Season 1》",
+                        "url": "http://bisentence_movie.sogou.com/bd1929980d76c131eee1cc718ce0644b_3330c4f505675b6df7e68204ae590a165e06997d"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/91ea895405abc384e9051be6a1aae416_6904.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/69e39e1e292be95f359e2a0095d651e0_9743.mp3",
+                        "isLavafox": true,
+                        "en": "And if by certain I don't know miracle chance you survive you won't be giving no <em>thanks</em> to God.",
+                        "zh": "如有某些我所不知的奇遇你活下来，你不会把感谢给上帝。",
+                        "videoNameZh": "《血战钢锯岭》",
+                        "videoNameEn": "《Hacksaw Ridge》",
+                        "url": "http://bisentence_movie.sogou.com/559d6aca65399db378c2286b050c0f60_1631ab68eb89df659f05d58b61969555ac5aef0f"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/34d2d19c723ad11a5a6dcd6da67c9085_43190.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/8e5fb5eb6b07b9463c6e2410caacd9ef_75278.mp3",
+                        "isLavafox": true,
+                        "en": "He'll have my <em>thanks</em>, My Lady. And he'll have the rest of the payment before he's missed it.",
+                        "zh": "我当然会感谢他，小姐，而且我很快就会将剩余的款项还给他。",
+                        "videoNameZh": "《唐顿庄园 第四季》",
+                        "videoNameEn": "《Downton Abbey Season 4》",
+                        "url": "http://bisentence_movie.sogou.com/c95950c6b7cc0a381ea3c825b1eaedcf_eaef1ab54beeddd850c44c766475a29e66eb0c65"
+                    }
+                ]
+            },
+            "pic": "",
+            "voice": {
+                "phonetic": [
+                    {
+                        "text": "θæŋks",
+                        "type": "uk",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/2252_thanks_uk.mp3"
+                    },
+                    {
+                        "text": "θæŋks",
+                        "type": "usa",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/2252_thanks_usa.mp3"
+                    }
+                ]
+            },
+            "dictType": "oxford_buchong",
+            "zhongkao": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 159,
+                        "pos": "n",
+                        "chinese": "感激; 谢意",
+                        "sense_tier_ratio": 100
+                    },
+                    {
+                        "sense_tier": 0,
+                        "pos": "int",
+                        "chinese": "谢谢; 感谢",
+                        "sense_tier_ratio": 0
+                    }
+                ],
+                "word": "thanks",
+                "total_exam_freq": 159,
+                "direction_info": {
+                    "ranges": 4,
+                    "description": "数据源自2018-2021年4年间全国各省市中考试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2018-2021年全国重点省市中考试卷，包括听力、阅读、完形、单选、填空、改错、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选各省市考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2018-2021年4年间全国各省市中考试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 5,
+                "word_level_phrase_info": [
+                    {
+                        "brief_definition": "感谢；为…而感谢",
+                        "phrase": "thanks for",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "没有感谢；别管闲事",
+                        "phrase": "no thanks",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "多谢；非常感谢",
+                        "phrase": "thanks a lot",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "幸亏；多亏了",
+                        "phrase": "thanks to",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "幸亏；由于；因为",
+                        "phrase": "black tea",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "表达感谢；表示感谢",
+                        "phrase": "express thanks",
+                        "pos": ""
+                    }
+                ],
+                "sense": {
+                    "sense_num": 2,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "感激; 谢意",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "Every time his classmates tried to help, he would say, “<highlight>Thanks</highlight>, but I can do it myself.”",
+                                    "month": -1,
+                                    "source": "安徽卷",
+                                    "coll": "",
+                                    "sentence_trans": "每次同学们想帮忙的时候，他都会说：“谢谢，但我自己能行。”",
+                                    "year": 2020,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "<highlight>Thanks</highlight> to these people, that forest is now a park.",
+                                    "month": -1,
+                                    "source": "锦州卷",
+                                    "coll": "",
+                                    "sentence_trans": "多亏了这些人，那片森林现在成了一座公园。",
+                                    "year": 2020,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Well, <highlight>thanks</highlight>, but actually I have many friends on the Internet.",
+                                    "month": -1,
+                                    "source": "成都B卷",
+                                    "coll": "",
+                                    "sentence_trans": "谢谢，但实际上我在网上有很多朋友。",
+                                    "year": 2018,
+                                    "type": "完成对话",
+                                    "day": -1
+                                }
+                            ]
+                        },
+                        {
+                            "synonyms": "",
+                            "en": "",
+                            "zh": "谢谢; 感谢",
+                            "pos": "int",
+                            "antonyms": ""
+                        }
+                    ]
+                }
+            },
+            "sentencesData": {
+                "status": 1,
+                "info": "notZh2En",
+                "data": {}
+            },
+            "isAutoMatch": false,
+            "Zh2En": false
+        },
+        "query": "thanks",
+        "result": "谢谢",
+        "tabSelect": "detail",
+        "dictionaryType": "oxford_buchong",
+        "notFound_show": false,
+        "phoneticShow": "",
+        "globalShowTranslateRecord": "",
+        "pronPrefer": {
+            "type": "usa_1",
+            "speaker": "male",
+            "speed": "standard"
+        },
+        "ServerRecord": "",
+        "ServerUIGS": {
+            "version": "new",
+            "type": "all",
+            "stype": "success",
+            "terminal": "web",
+            "fr": "default",
+            "direction": "etoz",
+            "from": "en",
+            "to": "zh-CHS",
+            "len": 6,
+            "qtype": "text",
+            "qctype": "qc_1",
+            "dict_cover": 1,
+            "detail": 1,
+            "wordCardCover": 1,
+            "wordCardEn": 1,
+            "wordCardCh": 0,
+            "wordCardMinor": 0,
+            "wordCardNetmean": 0,
+            "wordDeform": 1,
+            "keyword": 0,
+            "bilingual": 1,
+            "simple": 0,
+            "levelList": 1,
+            "synonym": 1,
+            "antonym": 0,
+            "conjugate": 0,
+            "rootaffix": 0,
+            "baike_sogou": 1,
+            "baike_wiki": 0,
+            "wordDifference": 0,
+            "word_phrase": 1,
+            "secondQuery": 0,
+            "dict_oxford": 0,
+            "dict_newcentury": 0,
+            "zhongkaotab": 1,
+            "gaokaotab": 0,
+            "CET4tab": 0,
+            "CET6tab": 0,
+            "kaoyantab": 0,
+            "network_tab": 0,
+            "yinying_tab": 1,
+            "tuozhan_tab": 0,
+            "one_pic": 0,
+            "more_pic": 0,
+            "no_pic": 0,
+            "uuid": "8b32f3a5-04b8-4b19-b09e-56694ed56d8b",
+            "from_type": 0,
+            "t_trans_ssr": 230
+        },
+        "ServerModelUIGS": {
+            "terminal": "web",
+            "type": "trans_model",
+            "pbtype": "pv",
+            "model_general": 1,
+            "model_medical": 1,
+            "model_finance": 1
+        },
+        "ServerSgtkn": "64F9C19DA67B14BDB6B19E0D04E0FF57B797C45C6755318D",
+        "suggShow": false,
+        "suggestion": "",
+        "suggDirection": "",
+        "usualTop": "",
+        "baseDict": "",
+        "wordCardClick": false,
+        "isFrInput": false,
+        "kanaTips": {
+            "show": false,
+            "left": "",
+            "top": "",
+            "type": "",
+            "arrowLeft": ""
+        },
+        "currSentenceIndex": -1,
+        "prefixStrObj": {
+            "prefixStr": "",
+            "oriPrefixStr": ""
+        },
+        "selectTransBox": {
+            "show": false,
+            "right": 0,
+            "top": 0,
+            "paraphraseInfo": {
+                "word": "",
+                "from": "",
+                "to": "",
+                "area": ""
+            }
+        },
+        "sentenceLoading": false,
+        "newSentenceInfo": {
+            "sentence": "",
+            "candidateIndex": 0
+        },
+        "moreTipInfo": {
+            "opacity": 0,
+            "zIndex": -1
+        },
+        "paraphraseShowInfo": {
+            "card": 0,
+            "query": "",
+            "card_dict": 0
+        },
+        "selectType": "",
+        "wordPos": 0,
+        "candidateWord": "",
+        "syntaxVisible": false,
+        "syntaxStatus": 0
+    },
+    "language": {
+        "from": "auto",
+        "to": "zh-CHS",
+        "detect": "en",
+        "model": "general",
+        "detectShow": false,
+        "langMap": {
+            "current": ""
+        },
+        "zh2en": false,
+        "fromItemList": [
+            {
+                "lang": "auto",
+                "text": "自动检测",
+                "play": false
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "ru",
+                "text": "俄语",
+                "play": true,
+                "abbr": "俄"
+            },
+            {
+                "lang": "fr",
+                "text": "法语",
+                "play": true,
+                "abbr": "法"
+            },
+            {
+                "lang": "th",
+                "text": "泰语",
+                "play": true,
+                "abbr": "泰"
+            }
+        ],
+        "toItemList": [
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "ko",
+                "text": "韩语",
+                "play": true,
+                "abbr": "韩"
+            },
+            {
+                "lang": "ru",
+                "text": "俄语",
+                "play": true,
+                "abbr": "俄"
+            },
+            {
+                "lang": "fr",
+                "text": "法语",
+                "play": true,
+                "abbr": "法"
+            }
+        ]
+    },
+    "voice": {
+        "from": {
+            "lang": "en",
+            "type": "from",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22thanks%22%2C%22spokenDialect%22%3A%22en%22%2C%22rate%22%3A%220.8%22%7D",
+            "list": [
+                {
+                    "type": "uk_0",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "θæŋks",
+                    "abbr": "英",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/2252_thanks_uk.mp3"
+                },
+                {
+                    "type": "usa_1",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "θæŋks",
+                    "abbr": "美",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/2252_thanks_usa.mp3"
+                }
+            ],
+            "stype": "phonetic",
+            "phoneticShow": [
+                {
+                    "text": "θæŋks",
+                    "type": "uk",
+                    "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/2252_thanks_uk.mp3"
+                }
+            ]
+        },
+        "to": {
+            "lang": "zh",
+            "type": "to",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22%E8%B0%A2%E8%B0%A2%22%2C%22spokenDialect%22%3A%22zh-CHS%22%2C%22rate%22%3A%220.8%22%7D",
+            "stype": "normal"
+        }
+    }
+}

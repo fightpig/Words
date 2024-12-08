@@ -1,0 +1,1526 @@
+{
+    "route": {
+        "name": "text",
+        "path": "/text",
+        "hash": "",
+        "query": {
+            "keyword": "telephone",
+            "transfrom": "auto",
+            "transto": "zh-CHS",
+            "model": "general",
+            "errcode": "s10"
+        },
+        "params": {},
+        "fullPath": "/text?keyword=telephone&transfrom=auto&transto=zh-CHS&model=general&errcode=s10",
+        "meta": {
+            "mtype": [
+                "textTranslate",
+                "language",
+                "voice"
+            ]
+        },
+        "from": {
+            "name": null,
+            "path": "/",
+            "hash": "",
+            "query": {},
+            "params": {},
+            "fullPath": "/",
+            "meta": {}
+        }
+    },
+    "common": {
+        "CONFIG": {
+            "wuid": 1733636494041,
+            "loginInfo": {},
+            "isIE": 0,
+            "isHitSsrSwitch": true,
+            "isHitWritebookSwitch": false,
+            "isHitAmsSwitch": true,
+            "promotionList": "{\n    \"pc_bottom\":{\n        \"imgsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\",\n        \"qcsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\"\n    },\n    \"pc_middle\":[\n        {\n            \"src\":\"//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c\",\n            \"bgColor\":\"#ffffff\",\n            \"link\":\"\"\n        }\n    ],\n    \"pc_survey\":{\n        \"icon\":\"//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750\",\n        \"link\":\"https://wj.qq.com/s2/8193148/806d/\"\n    }\n}",
+            "bannerData": [],
+            "isHitAsideSurvey": false,
+            "secretCode": 109984457,
+            "uuid": "3d0da895-8754-48b6-8e5d-fd553f13b0f4",
+            "referer": "",
+            "approveToken": "64F9C2BCCE127DD5DED8F6656CBA4177DFD6A0ED6755318E",
+            "loadTime": 1733636494043,
+            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0",
+            "fcp": "161.35.183.163",
+            "temporaryId": "",
+            "fileId": ""
+        },
+        "hotWords": [],
+        "isFromCollect": false,
+        "psdModify": {
+            "currentStep": 1,
+            "scode": "",
+            "username": ""
+        },
+        "loginStatus": true,
+        "feedBackModule": false,
+        "showPromotionPopup": {
+            "show": false,
+            "type": ""
+        },
+        "showPromotionPCDownload": false,
+        "showShareBomb": false,
+        "shareData": null,
+        "showAppDownLoad": false,
+        "showLoginDialog": false,
+        "showLoading": {
+            "show": false
+        },
+        "toast": {
+            "show": false,
+            "text": "",
+            "loading": false
+        },
+        "modelToast": {
+            "show": false,
+            "text": ""
+        },
+        "selectionGlobalShow": true,
+        "selectionInfo": {
+            "left": 0,
+            "top": 0,
+            "show": false,
+            "from": "",
+            "to": "",
+            "val": "",
+            "area": ""
+        },
+        "showConfirmDialog": false,
+        "promotionList": {
+            "pc_bottom": {
+                "imgsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png",
+                "qcsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png"
+            },
+            "pc_middle": [
+                {
+                    "src": "//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c",
+                    "bgColor": "#ffffff",
+                    "link": ""
+                }
+            ],
+            "pc_survey": {
+                "icon": "//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750",
+                "link": "https://wj.qq.com/s2/8193148/806d/"
+            }
+        },
+        "transTypeTxt": "text",
+        "fixedTabStatus": 0,
+        "bodyTop": 0,
+        "ifHideUserOperation": false
+    },
+    "textTranslate": {
+        "prevTransQuery": "",
+        "translateData": {
+            "translate": {
+                "zly": "zly",
+                "errorCode": "0",
+                "qc_type": "1",
+                "index": "content0",
+                "from": "en",
+                "source": "sogou",
+                "text": "telephone",
+                "to": "zh-CHS",
+                "id": "3d0da895-8754-48b6-8e5d-fd553f13b0f4",
+                "dit": "电话",
+                "orig_text": "telephone",
+                "md5": ""
+            },
+            "detect": {
+                "zly": "zly",
+                "detect": "en",
+                "errorCode": "0",
+                "language": "英语",
+                "id": "157a3fe0-b527-11ef-be88-391574e65ae0",
+                "text": "telephone"
+            },
+            "sgtkn": "64F9C2BECE127DD5DED8F6656CBA4177DFD6A0ED6755318E",
+            "wordCard": {
+                "title": "telephone",
+                "show": true,
+                "usualDict": [
+                    {
+                        "values": [
+                            "电话；电话机；电话设备；受话器"
+                        ],
+                        "pos": "n."
+                    },
+                    {
+                        "values": [
+                            "打电话给；通过电话联系；用电话通知；电话联络"
+                        ],
+                        "pos": "v."
+                    }
+                ],
+                "secondQuery": "",
+                "exchange": {
+                    "word_third": [
+                        "telephones"
+                    ],
+                    "word_ing": [
+                        "telephoning"
+                    ],
+                    "word_done": [
+                        "telephoned"
+                    ],
+                    "word_pl": [
+                        "telephones"
+                    ],
+                    "word_past": [
+                        "telephoned"
+                    ]
+                },
+                "levelList": [
+                    "小学",
+                    "初中",
+                    "高中",
+                    "四级",
+                    "六级",
+                    "考研"
+                ]
+            },
+            "detail": {
+                "synonym": [
+                    {
+                        "word_list": [
+                            "phone",
+                            "call"
+                        ],
+                        "pos": "n.",
+                        "mean": "电话；电话机；电话耳机"
+                    },
+                    {
+                        "word_list": [
+                            "make a phone call",
+                            "call up sb"
+                        ],
+                        "pos": "vi.",
+                        "mean": "打电话"
+                    }
+                ],
+                "affix": {
+                    "word": "telephone",
+                    "sub_affix_info_list": [
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "telegram",
+                                            "mean": "n. 电报"
+                                        },
+                                        {
+                                            "word": "telegraph",
+                                            "mean": "n. 电报；显示板；电报机"
+                                        },
+                                        {
+                                            "word": "telepathy",
+                                            "mean": "n. 传心；通灵"
+                                        },
+                                        {
+                                            "word": "telescope",
+                                            "mean": "n. 望远镜"
+                                        },
+                                        {
+                                            "word": "televise",
+                                            "mean": "v. 用电视播放；用电视放映"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "表示方位, \"远的, 远程的\"",
+                                    "affix_type": "prefix"
+                                }
+                            ],
+                            "affix": "tele-",
+                            "affix_mean": "远距离的"
+                        },
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "headphone",
+                                            "mean": "n. 双耳式耳机；戴在头上的收话器"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "名词后缀, 表示\"声音\"",
+                                    "affix_type": "suffix"
+                                }
+                            ],
+                            "affix": "-phone",
+                            "affix_mean": "声音"
+                        }
+                    ],
+                    "word_mean": "n. 电话"
+                },
+                "wordRootInfo": {
+                    "word_info_list": [
+                        {
+                            "word": "telephonic",
+                            "pos_mean_info_list": [
+                                {
+                                    "pos": "adj.",
+                                    "mean": "[通信] 电话的；用电话传送的；电话机的"
+                                }
+                            ]
+                        },
+                        {
+                            "word": "telephony",
+                            "pos_mean_info_list": [
+                                {
+                                    "pos": "n.",
+                                    "mean": "电话（学）；电话制造"
+                                }
+                            ]
+                        },
+                        {
+                            "word": "telemarketing",
+                            "pos_mean_info_list": [
+                                {
+                                    "pos": "n.",
+                                    "mean": "电话推销，电话销售"
+                                }
+                            ]
+                        },
+                        {
+                            "word": "telephonist",
+                            "pos_mean_info_list": [
+                                {
+                                    "pos": "n.",
+                                    "mean": "话务员；接线生"
+                                }
+                            ]
+                        }
+                    ],
+                    "root_word": "telephony"
+                },
+                "word_group": [
+                    {
+                        "brief_definition": "给某人打电话",
+                        "phrase": "telephone sb.",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "电话号码；大数目",
+                        "phrase": "telephone number",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "在打电话；在通电话",
+                        "phrase": "be on the telephone",
+                        "pos": "idm"
+                    },
+                    {
+                        "brief_definition": "电话交流；电话交谈",
+                        "phrase": "telephone call",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "电话簿",
+                        "phrase": "telephone directory",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "用电话；在打电话；装有电话机的",
+                        "phrase": "on the telephone",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "电话交换机",
+                        "phrase": "telephone exchange",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "电话簿",
+                        "phrase": "telephone book",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "电话接线员；话务员",
+                        "phrase": "telephone operator",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "电话银行业务系统",
+                        "phrase": "telephone banking",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "公用电话间",
+                        "phrase": "telephone box",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "电话捉人游戏",
+                        "phrase": "telephone tag",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "电话系统；有线电话系统",
+                        "phrase": "telephone system",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "电话服务；服务电话；电话业务",
+                        "phrase": "telephone service",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "电话公司",
+                        "phrase": "telephone company",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "电话采访；电话访谈；电话面试",
+                        "phrase": "telephone interview",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "电话谈话；电话交谈；电话对话",
+                        "phrase": "telephone conversation",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "公共电话",
+                        "phrase": "public telephone",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "电话亭；电话间",
+                        "phrase": "telephone booth",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "电话交谈；电话谈话；打电话",
+                        "phrase": "a telephone conversation",
+                        "pos": ""
+                    }
+                ],
+                "bilingual": [
+                    {
+                        "source": "Just after your <em>telephone</em> call.",
+                        "target": "就在你打电话之后。",
+                        "url": ""
+                    },
+                    {
+                        "source": "The <em>telephone</em> is still changing.",
+                        "target": "电话仍在不断变化。",
+                        "url": ""
+                    },
+                    {
+                        "source": "So, who invented the <em>telephone</em>?",
+                        "target": "那么，谁发明了电话？",
+                        "url": ""
+                    },
+                    {
+                        "source": "When was the <em>telephone</em> invented?",
+                        "target": "电话是什么时候发明的？",
+                        "url": ""
+                    },
+                    {
+                        "source": "The <em>telephone</em> was answered by the maid.",
+                        "target": "电话是由女仆接的。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Betty, what's your <em>telephone</em> number?",
+                        "target": "贝蒂，你的电话号码是多少？",
+                        "url": ""
+                    },
+                    {
+                        "source": "What's your <em>telephone</em> number, Li Xin?",
+                        "target": "你的电话号码是多少，李欣？",
+                        "url": ""
+                    },
+                    {
+                        "source": "Did you <em>telephone</em> your parents yesterday?",
+                        "target": "你昨天给父母打电话了吗？",
+                        "url": ""
+                    },
+                    {
+                        "source": "They talked to each other over the <em>telephone</em>!",
+                        "target": "它们通过电话互相交谈！",
+                        "url": ""
+                    },
+                    {
+                        "source": "The first <em>telephone</em> was a strange device.",
+                        "target": "第一个电话是一个奇怪的装置。",
+                        "url": ""
+                    }
+                ],
+                "baike": {
+                    "showMore": false,
+                    "list": [
+                        {
+                            "lemmaTitle": "telephone",
+                            "link": "https://baike.sogou.com/v3787150.htm?ch=sogou.fanyi",
+                            "abstract": "telephone（电话），指一种可以传送与接收声音的远程通信设备。早在十八世纪欧洲已有“电话”一词，用来指用线串成的话筒（以线串起杯子）。电话的出现要归功于亚历山大·格拉汉姆·贝尔，早期电话机的原理为：说话声音为空气里的复合振动，可传输到固体上，通过电脉冲于导电金属上传递。美国国会2002年6月15日269号决议确认安东尼奥·穆齐（Antonio Meucci ）为电话的发明人。穆齐于1860年首次向公众展示了他的发明，并在纽约的意大利语报纸上发表了关于这项发明的介绍。 另有一首同名歌曲。",
+                            "wapPic": "//img04.sogoucdn.com/v2/thumb/retype_exclude_gif/ext/auto/q/80/crop/xy/ai/w/140/h/140/resize/w/140?appid=201005&sign=ab6e1181db9d8f237a283395d3af452a&url=https%3A%2F%2Fpic.baike.soso.com%2Fugc%2Fbaikepic2%2F0%2F20221110102432-487452439_jpeg_989_659_247839.jpg%2F0",
+                            "pcPic": "//img01.sogoucdn.com/v2/thumb/retype_exclude_gif/ext/auto/q/80/crop/xy/ai/w/140/h/140/resize/w/140?appid=201005&sign=ab6e1181db9d8f237a283395d3af452a&url=https%3A%2F%2Fpic.baike.soso.com%2Fugc%2Fbaikepic2%2F0%2F20221110102432-487452439_jpeg_989_659_247839.jpg%2F0"
+                        },
+                        {
+                            "lemmaTitle": "telephone",
+                            "link": "https://baike.sogou.com/v148563298.htm?ch=sogou.fanyi",
+                            "abstract": "《Telephone》为韩国团体东方神起2011年推出的第五张日文录音室专辑里的歌曲。由Luna作词，Michele Vice-Maslin，Matt Tryggestad，C.J. Vanston作曲。收录于2011年9月28日发行的专辑《TONE》中。发行公司Avex trax。",
+                            "wapPic": "//img01.sogoucdn.com/v2/thumb/retype_exclude_gif/ext/auto/q/80/crop/xy/ai/w/140/h/140/resize/w/140?appid=201005&sign=d530a4d074ac36a3aae1e69c280a5ca3&url=https%3A%2F%2Fpic.baike.soso.com%2Fugc%2Fbaikepic2%2F14430%2F20220513180119-2108638360_jpeg_484_494_33901.jpg%2F0",
+                            "pcPic": "//img01.sogoucdn.com/v2/thumb/retype_exclude_gif/ext/auto/q/80/crop/xy/ai/w/140/h/140/resize/w/140?appid=201005&sign=d530a4d074ac36a3aae1e69c280a5ca3&url=https%3A%2F%2Fpic.baike.soso.com%2Fugc%2Fbaikepic2%2F14430%2F20220513180119-2108638360_jpeg_484_494_33901.jpg%2F0"
+                        }
+                    ]
+                }
+            },
+            "book": {
+                "yingyinNormal": [
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/c3652a60f61ce63a5e9067648ae2439c_44092.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/0c9e86b19008695d50dd9aae8f4f883e_70755.mp3",
+                        "isLavafox": true,
+                        "en": "Did you try calling her on the <em>telephone</em>? The <em>telephone</em>.",
+                        "zh": "你打过她家里电话吗？对呀，打座机。",
+                        "videoNameZh": "《生活大爆炸 第五季》",
+                        "videoNameEn": "《The Big Bang Theory Season 5》",
+                        "url": "http://bisentence_movie.sogou.com/7709896edc54c024cc3b6ad2644e69c6_8e5e9193d3745ef7b2eb955fd78afee9fe7ddfd5"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/b21f5975b6c4f0b3c33038710709a274_56412.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/2693aead88e279f37eb74647654802d6_43092.mp3",
+                        "isLavafox": true,
+                        "en": "You be ferocious! You be relentless! You be <em>telephone</em> terrorists!",
+                        "zh": "你们要凶残，你们要狠心，你们要做电话里的恐怖分子。",
+                        "videoNameZh": "《华尔街之狼》",
+                        "videoNameEn": "《The Wolf of Wall Street》",
+                        "url": "http://bisentence_movie.sogou.com/94450f48f1c8562a16bf926fdab47a89_9851529da9223e458dc7903446b42cae2f19513d"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/7eb0bec9540cbb2c5939554caf885c99_49670.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/79b40442c0b383b011272f0da3f2223c_46555.mp3",
+                        "isLavafox": true,
+                        "en": "How the hell did you get them up on that <em>telephone</em> wire?",
+                        "zh": "你他娘的怎么把我衣服弄到电话线上去了？",
+                        "videoNameZh": "《生活大爆炸 第二季》",
+                        "videoNameEn": "《The Big Bang Theory Season 2》",
+                        "url": "http://bisentence_movie.sogou.com/11bdecfd39a896075a548b1f4b8e30f4_96e5a7d5ccbcabb51ed6a4606e0c1127f6217d2e"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/efb46b0d09a0d16595177f67fa563c67_36206.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/4e909a6544c56698b44bafd47d17a413_37572.mp3",
+                        "isLavafox": true,
+                        "en": "Have we got any biscuits? No, but we've got a toy <em>telephone</em>. How much will that be?",
+                        "zh": "苏西，我们这里有没有饼干呀？没有，但是我们有一个玩具电话。那这个电话要多少钱呐？",
+                        "videoNameZh": "《100天养成流利口语》",
+                        "videoNameEn": "《Get fluent spoken English in 100 days》",
+                        "url": "http://bisentence_movie.sogou.com/801862feef7747f6ef362d216fd93671_0caea96703ad392b4305a64766cd98d3ac3b1cfb"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/a3f6ca8d0ebaa5b0956976d643673427_52102.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/e99b5aff2ce302fe421464624d788f19_52553.mp3",
+                        "isLavafox": true,
+                        "en": "Suzy, have we got any biscuits? No, but we've got a toy <em>telephone</em>. How much will that be?",
+                        "zh": "苏西，我们这里有没有饼干呀？没有，但是我们有一个玩具电话。那这个电话要多少钱呐？",
+                        "videoNameZh": "《小猪佩奇 第三季》",
+                        "videoNameEn": "《Peppa Pig Season 3》",
+                        "url": "http://bisentence_movie.sogou.com/3e8f4630ef260000e2081e442ea82e78_adf61a0077050c28fc590a91856a78e39b4d3257"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/a3f6ca8d0ebaa5b0956976d643673427_52102.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/654980d14f007b5aef1be6b60648ac92_34916.mp3",
+                        "isLavafox": true,
+                        "en": "A <em>telephone</em>. Peppa, that is the fire phone. It's only to be used when there is a fire. Fire. Fire.",
+                        "zh": "一个电话！佩奇，那个是消防电话，只能有在有火情的时候才能用。啊，着火了！着火了！",
+                        "videoNameZh": "《小猪佩奇 第三季》",
+                        "videoNameEn": "《Peppa Pig Season 3》",
+                        "url": "http://bisentence_movie.sogou.com/a73b6e68262b0fd3d5fcc4aec280b714_17a4e5efc82134d6a5b0a7243a61448705f4a91f"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/5784af55ab08e203ecc1fde609fc5bb5_17166.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/5f3b2d117cd3bb4b6a70210811da32be_52652.mp3",
+                        "isLavafox": true,
+                        "en": "Anyway, I'll <em>telephone</em> the bank in the morning and return your thousand pounds.",
+                        "zh": "总之，我早上会打电话给银行还您的一千镑。",
+                        "videoNameZh": "《唐顿庄园 第六季》",
+                        "videoNameEn": "《Downton Abbey Season 6》",
+                        "url": "http://bisentence_movie.sogou.com/05dc566e6f22552065ac50b6b6805a8b_14b90b6e02ba5dc11c8e1ab3d34fe23c8c1b9f14"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/5784af55ab08e203ecc1fde609fc5bb5_17166.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/55441c6e4273823368618192167b1e1e_49896.mp3",
+                        "isLavafox": true,
+                        "en": "We certainly have. And this is our next moment. I'll <em>telephone</em> and make an appointment.",
+                        "zh": "那是当然，这会是我们下一个共同经历，我会打电话预约的。",
+                        "videoNameZh": "《唐顿庄园 第六季》",
+                        "videoNameEn": "《Downton Abbey Season 6》",
+                        "url": "http://bisentence_movie.sogou.com/5725af85bfb77315cc9d55a303836564_e3c1376e057d747f75d35be8463c73b75ac04068"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/da05150e22afbf7831f12e08b25b79e2_34202.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/8a4ab68d38c78e72f2c8f273faef79bc_29740.mp3",
+                        "isLavafox": true,
+                        "en": "Not all of them, just the most basic. Television. <em>Telephone</em>. Radio. That's amazing.",
+                        "zh": "不是所有的电磁波，只有最常见的，电视，电话，广播。太厉害了。",
+                        "videoNameZh": "《超体》",
+                        "videoNameEn": "《Lucy》",
+                        "url": "http://bisentence_movie.sogou.com/058dd634b7de18f74fd05cc771c9131c_d8d8df8035a30cfa07198af54656abf94e892617"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/8005d54b57fe04f26a670220f9323bc7_59749.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/42b70950485f43f80ea7b02ac8aee899_51489.mp3",
+                        "isLavafox": true,
+                        "en": "And you're basing all this on a code name? On a whispered voice on the <em>telephone</em>? Come on, Mycroft.",
+                        "zh": "这一切都基于一个代号吗？基于电话里的一个声音吗？得了，麦考夫。",
+                        "videoNameZh": "《神探夏洛克 第四季》",
+                        "videoNameEn": "《Sherlock Season 4》",
+                        "url": "http://bisentence_movie.sogou.com/b4295a1a0618896e865e4a25628c63ca_c53a1400346f7f6ab32d4443969d069171a90d19"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/34d2d19c723ad11a5a6dcd6da67c9085_43190.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/058173baacc3c459482e328cf80453fd_70611.mp3",
+                        "isLavafox": true,
+                        "en": "I'll <em>telephone</em> and suggest we meet for luncheon. Then I'll ask him straight out to dismiss his valet. I won't say why.",
+                        "zh": "我会电话约他吃午餐，我会直接要他开除他的贴身男仆。我不会说为什么。",
+                        "videoNameZh": "《唐顿庄园 第四季》",
+                        "videoNameEn": "《Downton Abbey Season 4》",
+                        "url": "http://bisentence_movie.sogou.com/d3fd11c2a695ec9df069549c6e0ed2af_fcc15c6bc60c40cad9d50d1537ffc45da6d008df"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/5784af55ab08e203ecc1fde609fc5bb5_17166.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/d83a5cfd56e84e2322bff0417eac265a_32852.mp3",
+                        "isLavafox": true,
+                        "en": "And then one day she cornered the man who was installing the <em>telephone</em> here and that's how I got my first job in business.",
+                        "zh": "然后有一天，她堵住来这里装电话的人，我就是那样得到了第一份商业工作。",
+                        "videoNameZh": "《唐顿庄园 第六季》",
+                        "videoNameEn": "《Downton Abbey Season 6》",
+                        "url": "http://bisentence_movie.sogou.com/229744fdd57c923605672ef3c317a9f3_53a2682c25029913469b05d197f376f7b505d784"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/649fb0da5e02febcad57f332efe07876_46469.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/b44ba2fbc85f49edcce6156cb767922f_33461.mp3",
+                        "isLavafox": true,
+                        "en": "What's to know? Buy sell, high low, bears bulls. Yes Manhattan. Yeah <em>telephone</em> number of the stock, selling store.",
+                        "zh": "要通什么？买，卖，高，低，熊市，牛市。喂，曼哈顿麻烦帮我查个电话号码，股票商店。",
+                        "videoNameZh": "《老友记 第二季》",
+                        "videoNameEn": "《Friends Season 2》",
+                        "url": "http://bisentence_movie.sogou.com/ca71ff296faea340de7d7839c37e3ace_7cb0d42e850969749d2a0df94c7ee6535b0d9320"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/3bccca9abe5ab96bd7f3eaed6bd40cf2_52899.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/204e4702ea374c7a42876f40db1b9f09_66898.mp3",
+                        "isLavafox": true,
+                        "en": "Yeah, and it would probably be better than the last <em>telephone</em> job I had. You know, I probably wouldn't have to say spank as much.",
+                        "zh": "他一定比上次我做的电话行销工作还棒，或许我不必常常说“打我屁股吧”。",
+                        "videoNameZh": "《老友记 第七季》",
+                        "videoNameEn": "《Friends Season 7》",
+                        "url": "http://bisentence_movie.sogou.com/a3513726d2394e27bf0ab2772f2d6d18_4fcffd20bda9e1d844045bdd121b868eb9069e77"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/b21f5975b6c4f0b3c33038710709a274_56412.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/fe556dacd18d854748e63131fb8fbe87_16827.mp3",
+                        "isLavafox": true,
+                        "en": "And in the case of the <em>telephone</em>, it's up to each and every one of you, my highly trained Strattonites. My killers!",
+                        "zh": "电话也是一样，它们能否发挥作用 掌握在你们每个人手中，我的斯奥投资精英们，我的杀手们。",
+                        "videoNameZh": "《华尔街之狼》",
+                        "videoNameEn": "《The Wolf of Wall Street》",
+                        "url": "http://bisentence_movie.sogou.com/2b9075b5d3c9d344cf654bd31c775a0c_e628ae1468d482fe74a250f1667a21e9b47a7c7a"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/5dc3cf8cad26e071498ca907fcc13dc6_46983.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/1b4297bddf8efc61eeeff21138e4628e_69820.mp3",
+                        "isLavafox": true,
+                        "en": "A lovely plant, our computer, tinned food, hot water bottles, some winter clothes in case it gets a bit chilly, the <em>telephone</em>.",
+                        "zh": "一盆可爱的植物，我们的电脑，罐装食物，热水瓶。一些厚衣服，以防这里变冷，电话。",
+                        "videoNameZh": "《小猪佩奇 第四季》",
+                        "videoNameEn": "《Peppa Pig Season 4》",
+                        "url": "http://bisentence_movie.sogou.com/00f284034ff2c3a8e8bd54a40b5bfcb9_77ebf86ac7c7bfb89639606085472e3b27884c41"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/efb46b0d09a0d16595177f67fa563c67_36206.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/8ce166adaab0bb30b1c02e95b0e3c3c0_27199.mp3",
+                        "isLavafox": true,
+                        "en": "A lovely plant, our computer, tinned food, hot water bottles, some winter clothes in case it gets a bit chilly, the <em>telephone</em>.",
+                        "zh": "一盆可爱的植物，我们的电脑，罐装食物，热水瓶。一些厚衣服，以防这里变冷，电话。",
+                        "videoNameZh": "《100天养成流利口语》",
+                        "videoNameEn": "《Get fluent spoken English in 100 days》",
+                        "url": "http://bisentence_movie.sogou.com/5568e352fbc3818c63934aca44c9d1c0_ce5fe8d65acb574920ee129c802e1b4d245069ec"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/b73d6e20976b7ffe4e651b29ea5ddefc_31309.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/7231d4b612d4af81475a2d0272ea168e_12324.mp3",
+                        "isLavafox": true,
+                        "en": "Dear Mr. Pig, please pay your <em>telephone</em> bill. Oh. What's a bill? It sounds very boring. Bills are very boring.",
+                        "zh": "亲爱的猪先生，请你支付你的电话账单。噢天啊！什么是账单啊？它听上去非常的无聊。账单确实是非常的无聊。",
+                        "videoNameZh": "《粉红猪小妹 第二季》",
+                        "videoNameEn": "《Peppa Pig Season 2》",
+                        "url": "http://bisentence_movie.sogou.com/ecc58b0107b4bfd3be1513b062a96dbd_4b33b9d22cdd267193cf4b89b7541eeb906e68b4"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/b73d6e20976b7ffe4e651b29ea5ddefc_31309.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/1188c201a1dfee5f308fbe69b05d50cd_49996.mp3",
+                        "isLavafox": true,
+                        "en": "I am the king of the castle. Every castle needs a <em>telephone</em>. Hold this. Keep this string nice and tight and you can talk to the boys.",
+                        "zh": "我是城堡的国王，每一个城堡都需要一个电话。拿着这个。接下来你们拿紧着绳子，就可以跟男孩们说话了。",
+                        "videoNameZh": "《粉红猪小妹 第二季》",
+                        "videoNameEn": "《Peppa Pig Season 2》",
+                        "url": "http://bisentence_movie.sogou.com/38e7faa512bd3afdc66f39dc94456cde_e718fb8a89b9387d77eb6c02873ce61f8b6a9034"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/efb46b0d09a0d16595177f67fa563c67_36206.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/39b58f2afc675b35f615fbce931edd59_64890.mp3",
+                        "isLavafox": true,
+                        "en": "Think of all your friends waiting for you back home. Yes, I miss my friends. And I miss Goldie the fish. Can I <em>telephone</em> Goldie? OK, Peppa.",
+                        "zh": "想想那些等着你回家的朋友。是的，我想念我的朋友。我也想念金鱼金金，我可以打电话给金金吗？好的，佩奇。",
+                        "videoNameZh": "《100天养成流利口语》",
+                        "videoNameEn": "《Get fluent spoken English in 100 days》",
+                        "url": "http://bisentence_movie.sogou.com/98cbadfd6fdd25378d394fe523340e6a_5fa16dcc0b362dba7f8f1a88fcc29688e34ab624"
+                    }
+                ]
+            },
+            "pic": "",
+            "voice": {
+                "phonetic": [
+                    {
+                        "text": "ˈtelɪfəʊn",
+                        "type": "uk",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/2586_telephone_uk.mp3"
+                    },
+                    {
+                        "text": "ˈtelɪfoʊn",
+                        "type": "usa",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/2586_telephone_usa.mp3"
+                    }
+                ]
+            },
+            "dictType": "oxford_buchong",
+            "CET6": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 5,
+                        "pos": "n/v",
+                        "chinese": "电话",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "telephone",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2016.6-2023.6年8年间全六级试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight>考纲释义</highlight>\n精选实考、考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2016-2023年51套试卷，包括阅读、听力、翻译等所有题型。\n\n<highlight>真题例句</highlight>\n精选2016-2023年8年间全六级试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 1,
+                "total_exam_freq": 5,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "电话",
+                            "pos": "n/v",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "In his lifetime, Marconi foresaw the development of television and the fax machine, GPS, radar, and the portable hand-held <highlight>telephone</highlight>.",
+                                    "month": 6,
+                                    "source": "CET6",
+                                    "coll": "",
+                                    "sentence_trans": "Marconi在有生之年预见到了电视、传真机、GPS、雷达和便携式手持电话的发展。",
+                                    "year": 2021,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "The telegraph, the <highlight>telephone</highlight>, and radio were the obvious predecessors of the Internet, iPods, and mobile phones.",
+                                    "month": 6,
+                                    "source": "CET6",
+                                    "coll": "",
+                                    "sentence_trans": "电报、电话和收音机显然是互联网、ipod和移动电话的前身。",
+                                    "year": 2021,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "No decentralizing technology so far—not <highlight>telephones</highlight>, not television and not the internet—has dented that human desire to shake hands.",
+                                    "month": 12,
+                                    "source": "CET6",
+                                    "coll": "",
+                                    "sentence_trans": "到目前为止，还没有哪项去中心化的技术——电话、电视和互联网——削弱了人类握手的欲望。",
+                                    "year": 2020,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "word_affix": {
+                    "word": "telephone",
+                    "sub_affix_info_list": [
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "telegram",
+                                            "mean": "n. 电报"
+                                        },
+                                        {
+                                            "word": "telegraph",
+                                            "mean": "n. 电报；显示板；电报机"
+                                        },
+                                        {
+                                            "word": "telepathy",
+                                            "mean": "n. 传心；通灵"
+                                        },
+                                        {
+                                            "word": "telescope",
+                                            "mean": "n. 望远镜"
+                                        },
+                                        {
+                                            "word": "televise",
+                                            "mean": "v. 用电视播放；用电视放映"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "表示方位, \"远的, 远程的\"",
+                                    "affix_type": "prefix"
+                                }
+                            ],
+                            "affix": "tele-",
+                            "affix_mean": "远距离的"
+                        },
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "headphone",
+                                            "mean": "n. 双耳式耳机；戴在头上的收话器"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "名词后缀, 表示\"声音\"",
+                                    "affix_type": "suffix"
+                                }
+                            ],
+                            "affix": "-phone",
+                            "affix_mean": "声音"
+                        }
+                    ],
+                    "word_mean": "n. 电话"
+                },
+                "exchange_info": {
+                    "word_third": [
+                        "telephones"
+                    ],
+                    "word_ing": [
+                        "telephoning"
+                    ],
+                    "word_done": [
+                        "telephoned"
+                    ],
+                    "word_pl": [
+                        "telephones"
+                    ],
+                    "word_past": [
+                        "telephoned"
+                    ]
+                }
+            },
+            "CET4": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 2,
+                        "pos": "n/v",
+                        "chinese": "电话",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "telephone",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2016.6-2023.6年8年间全四级试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight>考纲释义</highlight>\n精选实考、考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2016-2023年51套试卷，包括阅读、听力、翻译等所有题型。\n\n<highlight>真题例句</highlight>\n精选2016-2023年8年间试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 1,
+                "total_exam_freq": 2,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "synonyms": "",
+                            "en": "",
+                            "zh": "电话",
+                            "pos": "n/v",
+                            "antonyms": ""
+                        }
+                    ]
+                },
+                "word_affix": {
+                    "word": "telephone",
+                    "sub_affix_info_list": [
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "telegram",
+                                            "mean": "n. 电报"
+                                        },
+                                        {
+                                            "word": "telegraph",
+                                            "mean": "n. 电报；显示板；电报机"
+                                        },
+                                        {
+                                            "word": "telepathy",
+                                            "mean": "n. 传心；通灵"
+                                        },
+                                        {
+                                            "word": "telescope",
+                                            "mean": "n. 望远镜"
+                                        },
+                                        {
+                                            "word": "televise",
+                                            "mean": "v. 用电视播放；用电视放映"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "表示方位, \"远的, 远程的\"",
+                                    "affix_type": "prefix"
+                                }
+                            ],
+                            "affix": "tele-",
+                            "affix_mean": "远距离的"
+                        },
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "headphone",
+                                            "mean": "n. 双耳式耳机；戴在头上的收话器"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "名词后缀, 表示\"声音\"",
+                                    "affix_type": "suffix"
+                                }
+                            ],
+                            "affix": "-phone",
+                            "affix_mean": "声音"
+                        }
+                    ],
+                    "word_mean": "n. 电话"
+                },
+                "exchange_info": {
+                    "word_third": [
+                        "telephones"
+                    ],
+                    "word_ing": [
+                        "telephoning"
+                    ],
+                    "word_done": [
+                        "telephoned"
+                    ],
+                    "word_pl": [
+                        "telephones"
+                    ],
+                    "word_past": [
+                        "telephoned"
+                    ]
+                }
+            },
+            "gaokao": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 4,
+                        "pos": "n/v",
+                        "chinese": "电话",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "telephone",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2015-2022年8年间全国卷和自主命题省市高考卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2015-2022年全国卷高考试卷，包括阅读、完形、单选、填空、听力、改错、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选各省市考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2015-2022年8年间全国卷和自主命题省市高考卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 1,
+                "total_exam_freq": 4,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "电话",
+                            "pos": "n/v",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "That's how powerful the <highlight>telephone</highlight> is.",
+                                    "month": -1,
+                                    "source": "全国卷2",
+                                    "coll": "",
+                                    "sentence_trans": "这就是电话的威力。",
+                                    "year": 2016,
+                                    "type": "完形填空",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "word_affix": {
+                    "word": "telephone",
+                    "sub_affix_info_list": [
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "telegram",
+                                            "mean": "n. 电报"
+                                        },
+                                        {
+                                            "word": "telegraph",
+                                            "mean": "n. 电报；显示板；电报机"
+                                        },
+                                        {
+                                            "word": "telepathy",
+                                            "mean": "n. 传心；通灵"
+                                        },
+                                        {
+                                            "word": "telescope",
+                                            "mean": "n. 望远镜"
+                                        },
+                                        {
+                                            "word": "televise",
+                                            "mean": "v. 用电视播放；用电视放映"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "表示方位, \"远的, 远程的\"",
+                                    "affix_type": "prefix"
+                                }
+                            ],
+                            "affix": "tele-",
+                            "affix_mean": "远距离的"
+                        },
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "headphone",
+                                            "mean": "n. 双耳式耳机；戴在头上的收话器"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "名词后缀, 表示\"声音\"",
+                                    "affix_type": "suffix"
+                                }
+                            ],
+                            "affix": "-phone",
+                            "affix_mean": "声音"
+                        }
+                    ],
+                    "word_mean": "n. 电话"
+                },
+                "exchange_info": {
+                    "word_third": [
+                        "telephones"
+                    ],
+                    "word_ing": [
+                        "telephoning"
+                    ],
+                    "word_done": [
+                        "telephoned"
+                    ],
+                    "word_pl": [
+                        "telephones"
+                    ],
+                    "word_past": [
+                        "telephoned"
+                    ]
+                }
+            },
+            "zhongkao": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 21,
+                        "pos": "cn/un",
+                        "chinese": "电话",
+                        "sense_tier_ratio": 53.85
+                    },
+                    {
+                        "sense_tier": 14,
+                        "pos": "cn/un",
+                        "chinese": "电话机",
+                        "sense_tier_ratio": 35.9
+                    },
+                    {
+                        "sense_tier": 4,
+                        "pos": "vi/vt",
+                        "chinese": "给…打电话",
+                        "sense_tier_ratio": 10.26
+                    }
+                ],
+                "word": "telephone",
+                "total_exam_freq": 39,
+                "direction_info": {
+                    "ranges": 4,
+                    "description": "数据源自2018-2021年4年间全国各省市中考试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2018-2021年全国重点省市中考试卷，包括听力、阅读、完形、单选、填空、改错、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选各省市考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2018-2021年4年间全国各省市中考试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 5,
+                "word_level_phrase_info": [
+                    {
+                        "brief_definition": "给某人打电话",
+                        "phrase": "telephone sb.",
+                        "pos": ""
+                    }
+                ],
+                "sense": {
+                    "sense_num": 3,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "电话",
+                            "pos": "cn/un",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "How you speak on the <highlight>telephone</highlight> is very important!",
+                                    "month": -1,
+                                    "source": "江西卷",
+                                    "coll": "",
+                                    "sentence_trans": "你在电话里如何说话是非常重要的！",
+                                    "year": 2019,
+                                    "type": "完形填空B",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "If you use good <highlight>telephone</highlight> skills, the caller will be happy.",
+                                    "month": -1,
+                                    "source": "江西卷",
+                                    "coll": "",
+                                    "sentence_trans": "如果你使用好的电话技巧，打电话的人会很高兴。",
+                                    "year": 2019,
+                                    "type": "完形填空B",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "My friend cried like a baby on the <highlight>telephone</highlight>.",
+                                    "month": -1,
+                                    "source": "新疆卷",
+                                    "coll": "",
+                                    "sentence_trans": "我的朋友在电话里哭得像个婴儿。",
+                                    "year": 2018,
+                                    "type": "完形填空",
+                                    "day": -1
+                                }
+                            ]
+                        },
+                        {
+                            "en": "",
+                            "zh": "电话机",
+                            "pos": "cn/un",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "She smiled, \"My parents are old. They can't get close to the <highlight>telephone</highlight> quickly. \"",
+                                    "month": -1,
+                                    "source": "贺州市卷",
+                                    "coll": "",
+                                    "sentence_trans": "她笑了，“我父母老了。他们无法很快靠近电话。”",
+                                    "year": 2021,
+                                    "type": "完形填空",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "It was about eight o'clock when my office <highlight>telephone</highlight> rang.",
+                                    "month": -1,
+                                    "source": "温州卷",
+                                    "coll": "",
+                                    "sentence_trans": "大约八点钟的时候，我办公室的电话响了。",
+                                    "year": 2018,
+                                    "type": "完形填空",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Most of us think the <highlight>telephone</highlight> was invented by Alexander Graham Bell.",
+                                    "month": -1,
+                                    "source": "广州市",
+                                    "coll": "",
+                                    "sentence_trans": "我们大多数人认为电话是亚历山大·格雷厄姆·贝尔发明的。",
+                                    "year": 2018,
+                                    "type": "阅读填空",
+                                    "day": -1
+                                }
+                            ]
+                        },
+                        {
+                            "en": "",
+                            "zh": "给…打电话",
+                            "pos": "vi/vt",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "<highlight>Telephone</highlight> him before visiting.",
+                                    "month": -1,
+                                    "source": "百色市卷",
+                                    "coll": "",
+                                    "sentence_trans": "拜访前给他打电话。",
+                                    "year": 2021,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "It is better to <highlight>telephone</highlight> before visiting someone at home.",
+                                    "month": -1,
+                                    "source": "百色市卷",
+                                    "coll": "",
+                                    "sentence_trans": "拜访别人之前最好先打个电话。",
+                                    "year": 2021,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "The coffee shop owner <highlight>telephoned</highlight> the police.",
+                                    "month": -1,
+                                    "source": "广元市卷",
+                                    "coll": "",
+                                    "sentence_trans": "咖啡店老板给警察打了电话。",
+                                    "year": 2021,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "word_affix": {
+                    "sub_affix_info_list": [
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "telegram",
+                                            "mean": "n. 电报"
+                                        },
+                                        {
+                                            "word": "telegraph",
+                                            "mean": "n. 电报；显示板；电报机"
+                                        },
+                                        {
+                                            "word": "telepathy",
+                                            "mean": "n. 传心；通灵"
+                                        },
+                                        {
+                                            "word": "telescope",
+                                            "mean": "n. 望远镜"
+                                        },
+                                        {
+                                            "word": "televise",
+                                            "mean": "v. 用电视播放；用电视放映"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "表示方位, \"远的, 远程的\"",
+                                    "affix_type": "prefix"
+                                }
+                            ],
+                            "affix": "tele-",
+                            "affix_mean": "远距离的"
+                        },
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "headphone",
+                                            "mean": "n. 双耳式耳机；戴在头上的收话器"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "名词后缀, 表示\"声音\"",
+                                    "affix_type": "suffix"
+                                }
+                            ],
+                            "affix": "-phone",
+                            "affix_mean": "声音"
+                        }
+                    ],
+                    "word": "telephone",
+                    "word_mean": "n. 电话"
+                }
+            },
+            "sentencesData": {
+                "status": 1,
+                "info": "notZh2En",
+                "data": {}
+            },
+            "isAutoMatch": false,
+            "Zh2En": false
+        },
+        "query": "telephone",
+        "result": "电话",
+        "tabSelect": "detail",
+        "dictionaryType": "oxford_buchong",
+        "notFound_show": false,
+        "phoneticShow": "",
+        "globalShowTranslateRecord": "",
+        "pronPrefer": {
+            "type": "usa_1",
+            "speaker": "male",
+            "speed": "standard"
+        },
+        "ServerRecord": "",
+        "ServerUIGS": {
+            "version": "new",
+            "type": "all",
+            "stype": "success",
+            "terminal": "web",
+            "fr": "default",
+            "direction": "etoz",
+            "from": "en",
+            "to": "zh-CHS",
+            "len": 9,
+            "qtype": "text",
+            "qctype": "qc_1",
+            "dict_cover": 1,
+            "detail": 1,
+            "wordCardCover": 1,
+            "wordCardEn": 1,
+            "wordCardCh": 0,
+            "wordCardMinor": 0,
+            "wordCardNetmean": 0,
+            "wordDeform": 1,
+            "keyword": 0,
+            "bilingual": 1,
+            "simple": 0,
+            "levelList": 1,
+            "synonym": 1,
+            "antonym": 0,
+            "conjugate": 1,
+            "rootaffix": 1,
+            "baike_sogou": 1,
+            "baike_wiki": 0,
+            "wordDifference": 0,
+            "word_phrase": 1,
+            "secondQuery": 0,
+            "dict_oxford": 0,
+            "dict_newcentury": 0,
+            "zhongkaotab": 1,
+            "gaokaotab": 1,
+            "CET4tab": 1,
+            "CET6tab": 1,
+            "kaoyantab": 0,
+            "network_tab": 0,
+            "yinying_tab": 1,
+            "tuozhan_tab": 0,
+            "one_pic": 0,
+            "more_pic": 0,
+            "no_pic": 0,
+            "uuid": "3d0da895-8754-48b6-8e5d-fd553f13b0f4",
+            "from_type": 0,
+            "t_trans_ssr": 190
+        },
+        "ServerModelUIGS": {
+            "terminal": "web",
+            "type": "trans_model",
+            "pbtype": "pv",
+            "model_general": 1,
+            "model_medical": 1,
+            "model_finance": 1
+        },
+        "ServerSgtkn": "64F9C2BECE127DD5DED8F6656CBA4177DFD6A0ED6755318E",
+        "suggShow": false,
+        "suggestion": "",
+        "suggDirection": "",
+        "usualTop": "",
+        "baseDict": "",
+        "wordCardClick": false,
+        "isFrInput": false,
+        "kanaTips": {
+            "show": false,
+            "left": "",
+            "top": "",
+            "type": "",
+            "arrowLeft": ""
+        },
+        "currSentenceIndex": -1,
+        "prefixStrObj": {
+            "prefixStr": "",
+            "oriPrefixStr": ""
+        },
+        "selectTransBox": {
+            "show": false,
+            "right": 0,
+            "top": 0,
+            "paraphraseInfo": {
+                "word": "",
+                "from": "",
+                "to": "",
+                "area": ""
+            }
+        },
+        "sentenceLoading": false,
+        "newSentenceInfo": {
+            "sentence": "",
+            "candidateIndex": 0
+        },
+        "moreTipInfo": {
+            "opacity": 0,
+            "zIndex": -1
+        },
+        "paraphraseShowInfo": {
+            "card": 0,
+            "query": "",
+            "card_dict": 0
+        },
+        "selectType": "",
+        "wordPos": 0,
+        "candidateWord": "",
+        "syntaxVisible": false,
+        "syntaxStatus": 0
+    },
+    "language": {
+        "from": "auto",
+        "to": "zh-CHS",
+        "detect": "en",
+        "model": "general",
+        "detectShow": false,
+        "langMap": {
+            "current": ""
+        },
+        "zh2en": false,
+        "fromItemList": [
+            {
+                "lang": "auto",
+                "text": "自动检测",
+                "play": false
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "ko",
+                "text": "韩语",
+                "play": true,
+                "abbr": "韩"
+            },
+            {
+                "lang": "ru",
+                "text": "俄语",
+                "play": true,
+                "abbr": "俄"
+            },
+            {
+                "lang": "fr",
+                "text": "法语",
+                "play": true,
+                "abbr": "法"
+            }
+        ],
+        "toItemList": [
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "fr",
+                "text": "法语",
+                "play": true,
+                "abbr": "法"
+            },
+            {
+                "lang": "ko",
+                "text": "韩语",
+                "play": true,
+                "abbr": "韩"
+            },
+            {
+                "lang": "ru",
+                "text": "俄语",
+                "play": true,
+                "abbr": "俄"
+            }
+        ]
+    },
+    "voice": {
+        "from": {
+            "lang": "en",
+            "type": "from",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22telephone%22%2C%22spokenDialect%22%3A%22en%22%2C%22rate%22%3A%220.8%22%7D",
+            "list": [
+                {
+                    "type": "uk_0",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "ˈtelɪfəʊn",
+                    "abbr": "英",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/2586_telephone_uk.mp3"
+                },
+                {
+                    "type": "usa_1",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "ˈtelɪfoʊn",
+                    "abbr": "美",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/2586_telephone_usa.mp3"
+                }
+            ],
+            "stype": "phonetic",
+            "phoneticShow": [
+                {
+                    "text": "ˈtelɪfəʊn",
+                    "type": "uk",
+                    "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/2586_telephone_uk.mp3"
+                },
+                {
+                    "text": "ˈtelɪfoʊn",
+                    "type": "usa",
+                    "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/2586_telephone_usa.mp3"
+                }
+            ]
+        },
+        "to": {
+            "lang": "zh",
+            "type": "to",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22%E7%94%B5%E8%AF%9D%22%2C%22spokenDialect%22%3A%22zh-CHS%22%2C%22rate%22%3A%220.8%22%7D",
+            "stype": "normal"
+        }
+    }
+}

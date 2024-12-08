@@ -1,0 +1,888 @@
+{
+    "route": {
+        "name": "text",
+        "path": "/text",
+        "hash": "",
+        "query": {
+            "keyword": "earthquake",
+            "transfrom": "auto",
+            "transto": "zh-CHS",
+            "model": "general",
+            "errcode": "s10"
+        },
+        "params": {},
+        "fullPath": "/text?keyword=earthquake&transfrom=auto&transto=zh-CHS&model=general&errcode=s10",
+        "meta": {
+            "mtype": [
+                "textTranslate",
+                "language",
+                "voice"
+            ]
+        },
+        "from": {
+            "name": null,
+            "path": "/",
+            "hash": "",
+            "query": {},
+            "params": {},
+            "fullPath": "/",
+            "meta": {}
+        }
+    },
+    "common": {
+        "CONFIG": {
+            "wuid": 1733637761102,
+            "loginInfo": {},
+            "isIE": 0,
+            "isHitSsrSwitch": true,
+            "isHitWritebookSwitch": false,
+            "isHitAmsSwitch": true,
+            "promotionList": "{\n    \"pc_bottom\":{\n        \"imgsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\",\n        \"qcsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\"\n    },\n    \"pc_middle\":[\n        {\n            \"src\":\"//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c\",\n            \"bgColor\":\"#ffffff\",\n            \"link\":\"\"\n        }\n    ],\n    \"pc_survey\":{\n        \"icon\":\"//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750\",\n        \"link\":\"https://wj.qq.com/s2/8193148/806d/\"\n    }\n}",
+            "bannerData": [],
+            "isHitAsideSurvey": false,
+            "secretCode": 109984457,
+            "uuid": "3be8c7bd-56ca-4c5d-a450-e66e3472354f",
+            "referer": "",
+            "approveToken": "64FF55577BA2CC656E6847D5908502A76F1E828D67553681",
+            "loadTime": 1733637761103,
+            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0",
+            "fcp": "159.223.67.164",
+            "temporaryId": "",
+            "fileId": ""
+        },
+        "hotWords": [],
+        "isFromCollect": false,
+        "psdModify": {
+            "currentStep": 1,
+            "scode": "",
+            "username": ""
+        },
+        "loginStatus": true,
+        "feedBackModule": false,
+        "showPromotionPopup": {
+            "show": false,
+            "type": ""
+        },
+        "showPromotionPCDownload": false,
+        "showShareBomb": false,
+        "shareData": null,
+        "showAppDownLoad": false,
+        "showLoginDialog": false,
+        "showLoading": {
+            "show": false
+        },
+        "toast": {
+            "show": false,
+            "text": "",
+            "loading": false
+        },
+        "modelToast": {
+            "show": false,
+            "text": ""
+        },
+        "selectionGlobalShow": true,
+        "selectionInfo": {
+            "left": 0,
+            "top": 0,
+            "show": false,
+            "from": "",
+            "to": "",
+            "val": "",
+            "area": ""
+        },
+        "showConfirmDialog": false,
+        "promotionList": {
+            "pc_bottom": {
+                "imgsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png",
+                "qcsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png"
+            },
+            "pc_middle": [
+                {
+                    "src": "//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c",
+                    "bgColor": "#ffffff",
+                    "link": ""
+                }
+            ],
+            "pc_survey": {
+                "icon": "//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750",
+                "link": "https://wj.qq.com/s2/8193148/806d/"
+            }
+        },
+        "transTypeTxt": "text",
+        "fixedTabStatus": 0,
+        "bodyTop": 0,
+        "ifHideUserOperation": false
+    },
+    "textTranslate": {
+        "prevTransQuery": "",
+        "translateData": {
+            "translate": {
+                "zly": "zly",
+                "errorCode": "0",
+                "qc_type": "1",
+                "index": "content0",
+                "from": "en",
+                "source": "sogou",
+                "text": "earthquake",
+                "to": "zh-CHS",
+                "id": "3be8c7bd-56ca-4c5d-a450-e66e3472354f",
+                "dit": "地震",
+                "orig_text": "earthquake",
+                "md5": ""
+            },
+            "detect": {
+                "zly": "zly",
+                "detect": "en",
+                "errorCode": "0",
+                "language": "英语",
+                "id": "08b4df60-b52a-11ef-8087-f5a3eb41f38e",
+                "text": "earthquake"
+            },
+            "sgtkn": "64FF555B7BA2CC656E6847D5908502A76F1E828D67553681",
+            "wordCard": {
+                "title": "earthquake",
+                "show": true,
+                "usualDict": [
+                    {
+                        "values": [
+                            "地震；强烈震荡；巨大冲击；社会或政治的剧变；颠覆性事件"
+                        ],
+                        "pos": "n."
+                    }
+                ],
+                "secondQuery": "",
+                "exchange": {
+                    "word_pl": [
+                        "earthquakes"
+                    ]
+                },
+                "levelList": [
+                    "初中",
+                    "高中",
+                    "四级",
+                    "六级",
+                    "考研",
+                    "雅思",
+                    "托福"
+                ]
+            },
+            "detail": {
+                "synonym": [
+                    {
+                        "word_list": [
+                            "temblor",
+                            "seismic event"
+                        ],
+                        "pos": "n.",
+                        "mean": "地震；大动荡"
+                    }
+                ],
+                "affix": {
+                    "word": "earthquake",
+                    "sub_affix_info_list": [
+                        {
+                            "affix": "earth",
+                            "affix_mean": "n. 地球"
+                        },
+                        {
+                            "affix": "quake",
+                            "affix_mean": "v. 震动"
+                        }
+                    ],
+                    "word_mean": "n. 地震"
+                },
+                "word_group": [
+                    {
+                        "brief_definition": "汶川地震",
+                        "phrase": "wenchuan earthquake",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "地震活动",
+                        "phrase": "earthquake activity",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "5.2级地震",
+                        "phrase": "5.2-magnitude earthquake",
+                        "pos": ""
+                    }
+                ],
+                "bilingual": [
+                    {
+                        "source": "We know an <em>earthquake</em> toppled Troy.",
+                        "target": "我们知道地震摧毁了特洛伊。",
+                        "url": ""
+                    },
+                    {
+                        "source": "What is difficult to do before an <em>earthquake</em>?",
+                        "target": "在地震前什么是难以做到的？",
+                        "url": ""
+                    },
+                    {
+                        "source": "Most of Chinatown was destroyed in the 1906 <em>earthquake</em>.",
+                        "target": "大部分唐人街在1906年的地震中被毁。",
+                        "url": ""
+                    },
+                    {
+                        "source": "It is also said that mice and snakes head for safer ground several days before an <em>earthquake</em>.",
+                        "target": "据说老鼠和蛇在地震前几天会前往更安全的地方。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Scientists think that the city was sent to the bottom of the sea after an <em>earthquake</em> and tsunami more than a thousand years ago.",
+                        "target": "科学家认为这座城市是在一千多年前的地震和海啸后沉入海底的。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Scientists use seismographs to study <em>earthquake</em> activity.",
+                        "target": "科学家使用地震仪研究地震活动。",
+                        "url": ""
+                    },
+                    {
+                        "source": "The seismograph recorded the <em>earthquake</em>'s magnitude accurately.",
+                        "target": "地震仪准确记录了地震的震级。",
+                        "url": ""
+                    },
+                    {
+                        "source": "The <em>earthquake</em> occurred at midnight.",
+                        "target": "地震在午夜发生。",
+                        "url": ""
+                    },
+                    {
+                        "source": "The <em>earthquake</em> made the house shake.",
+                        "target": "地震使房子抖动。",
+                        "url": ""
+                    },
+                    {
+                        "source": "The <em>earthquake</em> makes the building rock.",
+                        "target": "地震使大楼摇晃。",
+                        "url": ""
+                    }
+                ],
+                "baike": {
+                    "showMore": false,
+                    "list": [
+                        {
+                            "lemmaTitle": "地震",
+                            "link": "https://baike.sogou.com/v6550.htm?ch=sogou.fanyi",
+                            "abstract": "地震（英文：earthquake），又称地动、地振动，是地壳快速释放能量过程中造成的振动，期间会产生地震波的一种自然现象。地震时，最基本的现象是地面的连续振动，主要特征是明显的晃动。全世界主要有环太平洋地震带、欧亚地震带、中洋脊地震带三个地震带。中国地震主要分布在中国台湾、西南、西北、华北和东南沿海五个区域。 引起地震的主要原因是地球上板块与板块之间相互挤压碰撞，造成板块边沿及板块内部产生错动和破裂。地震开始发生的地点称为震源，震源正上方的地面称为震中。在震中区，地震波直接入射地面， 横波表现为左右摇晃，纵波表现为上下跳动，纵波传播速度比横波快。地震按成因可分为构造地震、火山地震、塌陷地震、诱发地震和人工地震；按震级大小可分为：大震（7级及以上）、强震或中强震（5-7级，含5级）、小震（3-5级，含3级）、弱震和微震（1-3级，含1级）、超微震（小于1级）。 地震常常造成严重人员伤亡，能引起火灾、水灾、有毒气体泄漏、细菌及放射性物质扩散，还可能造成海啸、滑坡、崩塌、地裂缝等次生灾害。 据统计，地球上每年约发生500多万次地震，其中绝大多数太小或太远，以至于人们感觉不到。发生地震时应就近躲避，震后迅速撤离到安全的地方；身处室内时，应躲在室内结实、不易倾倒、能掩护身体的物体下或物体旁；不要随便点明火，避开人流，不要乱挤乱拥。 2023年一季度，我国大陆地区共发生4级以上地震22次。2023年一季度，中国大陆地区共发生4级以上地震22次。",
+                            "wapPic": "//img03.sogoucdn.com/v2/thumb/retype_exclude_gif/ext/auto/q/80/crop/xy/ai/w/140/h/140/resize/w/140?appid=201005&sign=834189edf52766dc47e95f4459881d5f&url=https%3A%2F%2Fpic.baike.soso.com%2Fugc%2Fbaikepic2%2F0%2F20231120114336-1913128443_jpeg_1180_780_836890.jpg%2F0",
+                            "pcPic": "//img03.sogoucdn.com/v2/thumb/retype_exclude_gif/ext/auto/q/80/crop/xy/ai/w/140/h/140/resize/w/140?appid=201005&sign=834189edf52766dc47e95f4459881d5f&url=https%3A%2F%2Fpic.baike.soso.com%2Fugc%2Fbaikepic2%2F0%2F20231120114336-1913128443_jpeg_1180_780_836890.jpg%2F0"
+                        },
+                        {
+                            "lemmaTitle": "Earthquake",
+                            "link": "https://baike.sogou.com/v154531567.htm?ch=sogou.fanyi",
+                            "abstract": "Earthquake (Full Version) - Labrinth\nLabrinth come in\nLabrinth come in\nLabrinth come in\nLabrinth come in\nLadies and gentleman\nThis is something they call\nA ground-breaker (breaker )\nSo let me first apologize\nTo the shirts and the ties\nFor your make up\nCause I make you ugly\nAs soon as it drops\nWe're on a rampage\nBottles poppin' off\nBefore you know it\nThere's rubble and dust\nCuz we be f***ing it up\nSomebody say\n(You better run)\nYeah\nI predict an earthquake up in here\nSay yeah\nI predict an earthquake up in here\nCause we throw bombs on it throw bombs on it\nJust smash something yeah mosh for me\nYeah\nWe can make an earthquake up in here\nLadies and gentleman\nWhat you're about to witness\nIs no illusion\nAnd now we got the bass banging\nFrom here to Buckingham Palace\nThey're all moving\nHey Simon we're f***ing them up\nTurning them Psyhco\nEverybody rock\nLet's bring the house down to rubble and dust\nCuz we be f***ing it up\nSomebody say\nYou better run\nYeah\nI predict an earthquake up in here\nSay yeah\nI predict an earthquake up in here\nCause we throw bombs on it throw bombs on it\nJust smash something yeah mosh for me\nYeah\nWe can make an earthquake up in here\nI predict an earthquake up in here\nSay Yeah\nWe can make an earthquake up in here\nCause we throw bombs on it throw bombs on it\nJust smash something yeah mosh for me\nWe can predict an earthquake up in here\nSo Here We Go We Go\nHey yo Labrinth\nThis ones feeling like a straight 10\nOn the richter scale you know\nYeah\nFire fire\nWe about to set this place on fire\nWithout a match or lighter\nDon't do girlfriends\nOne nighters make 'em (ahh)\nC-minor if I want Christian\nOr Kurt Gieger I just phone up the designer\nDoing all nighters\nNo days off grey hairs and a little weight loss\nI Predict (Riots)\nI Predict (Chaos)\nI Predict (people)\nI Predict (aahh)\nDisturbing london got the whole city panicking\nI be nostradamus my n-n-n*ggah\nLabrinth\nYeah\nI predict an earthquake up in here\nSay yeah\nI predict an earthquake up in here\nCause we throw bombs on it throw bombs on it\nJust smash something yeah mosh for me\nYeah\nWe can make an earthquake up in here\nLabrinth come in\nLabrinth come in\nLabrinth come in\nLabrinth come in",
+                            "wapPic": "",
+                            "pcPic": ""
+                        }
+                    ]
+                }
+            },
+            "book": {
+                "yingyinNormal": [
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/ab18255ca7e77ff7cadaab56e4d92197_48116.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/026b5c5359d9141e69a2d72d39cde1eb_31506.mp3",
+                        "isLavafox": true,
+                        "en": "Just look at that meaty paw of yours. It's like an <em>earthquake</em> to them.",
+                        "zh": "瞧你那只贱肉爪，拍一下里面就是一场地震啊。",
+                        "videoNameZh": "《破产姐妹 第四季》",
+                        "videoNameEn": "《2 Broke Girls Season 4》",
+                        "url": "http://bisentence_movie.sogou.com/3bd6e19c9e00bb875210aeb61fee7489_f01be2077c7690469e1e7cf82716d690efdbfd34"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/fb38dfa5ed1adc3bc9fd0f6e8fdbfbba_22028.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/da21846fcfd9159cf07a698ad6ed462f_6553.mp3",
+                        "isLavafox": true,
+                        "en": "Hello, Chris. I'm here with Dr. Lawrence Hayes, executive director for <em>earthquake</em> studies at Caltech.",
+                        "zh": "你好，克里斯。现在坐在我身边的是加利福尼亚工学院地震研究室执行理事劳伦斯·海耶斯教授。",
+                        "videoNameZh": "《末日崩塌》",
+                        "videoNameEn": "《San Andreas》",
+                        "url": "http://bisentence_movie.sogou.com/8e08dab66ec8f50b5577ffb32cf7ec49_9d9d31ebf678f62467bfd013c6c942e88cbff16a"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/c3652a60f61ce63a5e9067648ae2439c_44092.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/ecbddf2076322170b43beb9d443fe3db_76135.mp3",
+                        "isLavafox": true,
+                        "en": "Fine. All righty! An 8.2 magnitude <em>earthquake</em> devastates Pasadena, reducing mighty edifices to dust, engulfing the city in flames.",
+                        "zh": "好吧。好嘞，一场8.2级的地震摧毁了帕萨迪纳市，高楼大厦被夷为平地，火灾在全城蔓延。",
+                        "videoNameZh": "《生活大爆炸 第五季》",
+                        "videoNameEn": "《The Big Bang Theory Season 5》",
+                        "url": "http://bisentence_movie.sogou.com/8fd29f847aeb8a63e22f4c6ca2951ee2_f3e6394b842673dbf9317ccb29802572b9443cf6"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/fb38dfa5ed1adc3bc9fd0f6e8fdbfbba_22028.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/0ef7c33918b8924b5955445662cfd263_48017.mp3",
+                        "isLavafox": true,
+                        "en": "Yeah. Yeah, but the <em>earthquake</em> that they felt was from movement along the fault line in the central valley. Their end of the fault line has not moved yet.",
+                        "zh": "是的，不过他们感受到的地震来自中央谷断层线的活动。而尾部的断层线还没有开始移动。",
+                        "videoNameZh": "《末日崩塌》",
+                        "videoNameEn": "《San Andreas》",
+                        "url": "http://bisentence_movie.sogou.com/1804749a073725cc3f0db7e6d8183827_2e96d0921d1561007566531d2aac0d4a66a6d73e"
+                    }
+                ]
+            },
+            "pic": "",
+            "voice": {
+                "phonetic": [
+                    {
+                        "text": "ˈɜːθkweɪk",
+                        "type": "uk",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/2418_earthquake_uk.mp3"
+                    },
+                    {
+                        "text": "ˈɜːrθkweɪk",
+                        "type": "usa",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/2418_earthquake_usa.mp3"
+                    }
+                ]
+            },
+            "dictType": "oxford_buchong",
+            "CET6": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 15,
+                        "pos": "n",
+                        "chinese": "地震",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "earthquake",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2016.6-2023.6年8年间全六级试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight>考纲释义</highlight>\n精选实考、考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2016-2023年51套试卷，包括阅读、听力、翻译等所有题型。\n\n<highlight>真题例句</highlight>\n精选2016-2023年8年间全六级试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 3,
+                "word_family": {
+                    "derivative_info_list": [
+                        {
+                            "derivative_info_list": [],
+                            "word": "earthquake",
+                            "mean": "n. 地震；大动荡"
+                        }
+                    ],
+                    "word": "quake",
+                    "mean": "v. 震动；摇晃；颤抖；哆嗦"
+                },
+                "total_exam_freq": 15,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "a sudden and violent shaking of the ground",
+                            "zh": "地震",
+                            "pos": "n",
+                            "synonyms": "quake,tremor",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "The <highlight>earthquake</highlight> zone is located by the North American Plate off the coast of Pacific British Columbia, Washington, Oregon and Northern California.",
+                                    "month": 12,
+                                    "source": "CET6",
+                                    "coll": "",
+                                    "sentence_trans": "这个地震带位于太平洋不列颠哥伦比亚省、华盛顿、俄勒冈和北加利福尼亚海岸外的北美板块。",
+                                    "year": 2019,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Remember the 9.1 <highlight>earthquake</highlight> and tsunami in the Indian Ocean off Sumatra in 2004?",
+                                    "month": 12,
+                                    "source": "CET6",
+                                    "coll": "",
+                                    "sentence_trans": "还记得2004年苏门答腊岛外印度洋发生的9.1级地震和海啸吗？",
+                                    "year": 2019,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "The region is engaged in a <highlight>earthquake</highlight>-and-tsunami (海啸) drill involving around 20,000 people.",
+                                    "month": 12,
+                                    "source": "CET6",
+                                    "coll": "",
+                                    "sentence_trans": "该地区正在开展2000人的地震和海啸演习。",
+                                    "year": 2019,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "word_affix": {
+                    "word": "earthquake",
+                    "sub_affix_info_list": [
+                        {
+                            "affix": "earth",
+                            "affix_mean": "n. 地球"
+                        },
+                        {
+                            "affix": "quake",
+                            "affix_mean": "v. 震动"
+                        }
+                    ],
+                    "word_mean": "n. 地震"
+                },
+                "exchange_info": {
+                    "word_pl": [
+                        "earthquakes"
+                    ]
+                }
+            },
+            "CET4": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 0,
+                        "pos": "n",
+                        "chinese": "地震",
+                        "sense_tier_ratio": 0
+                    }
+                ],
+                "word": "earthquake",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2016.6-2023.6年8年间全四级试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight>考纲释义</highlight>\n精选实考、考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2016-2023年51套试卷，包括阅读、听力、翻译等所有题型。\n\n<highlight>真题例句</highlight>\n精选2016-2023年8年间试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 1,
+                "total_exam_freq": 0,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "synonyms": "",
+                            "en": "a sudden and violent shaking of the ground",
+                            "zh": "地震",
+                            "pos": "n",
+                            "antonyms": ""
+                        }
+                    ]
+                },
+                "word_affix": {
+                    "word": "earthquake",
+                    "sub_affix_info_list": [
+                        {
+                            "affix": "earth",
+                            "affix_mean": "n. 地球"
+                        },
+                        {
+                            "affix": "quake",
+                            "affix_mean": "v. 震动"
+                        }
+                    ],
+                    "word_mean": "n. 地震"
+                },
+                "exchange_info": {
+                    "word_pl": [
+                        "earthquakes"
+                    ]
+                }
+            },
+            "gaokao": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 0,
+                        "pos": "cn",
+                        "chinese": "地震",
+                        "sense_tier_ratio": 0
+                    }
+                ],
+                "word": "earthquake",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2015-2022年8年间全国卷和自主命题省市高考卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2015-2022年全国卷高考试卷，包括阅读、完形、单选、填空、听力、改错、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选各省市考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2015-2022年8年间全国卷和自主命题省市高考卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 1,
+                "word_family": {
+                    "derivative_info_list": [
+                        {
+                            "derivative_info_list": [],
+                            "word": "earthquake",
+                            "mean": "n. 地震；大动荡"
+                        }
+                    ],
+                    "word": "quake",
+                    "mean": "v. 震动；摇晃；颤抖；哆嗦"
+                },
+                "total_exam_freq": 0,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "synonyms": "",
+                            "en": "",
+                            "zh": "地震",
+                            "pos": "cn",
+                            "antonyms": ""
+                        }
+                    ]
+                },
+                "word_affix": {
+                    "word": "earthquake",
+                    "sub_affix_info_list": [
+                        {
+                            "affix": "earth",
+                            "affix_mean": "n. 地球"
+                        },
+                        {
+                            "affix": "quake",
+                            "affix_mean": "v. 震动"
+                        }
+                    ],
+                    "word_mean": "n. 地震"
+                }
+            },
+            "zhongkao": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 27,
+                        "pos": "cn",
+                        "chinese": "地震",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "earthquake",
+                "direction_info": {
+                    "ranges": 4,
+                    "description": "数据源自2018-2021年4年间全国各省市中考试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2018-2021年全国重点省市中考试卷，包括听力、阅读、完形、单选、填空、改错、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选各省市考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2018-2021年4年间全国各省市中考试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 5,
+                "word_family": {
+                    "derivative_info_list": [
+                        {
+                            "derivative_info_list": [],
+                            "word": "earthquake",
+                            "mean": "n. 地震；大动荡"
+                        }
+                    ],
+                    "word": "quake",
+                    "mean": "v. 震动；摇晃；颤抖；哆嗦"
+                },
+                "total_exam_freq": 27,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "地震",
+                            "pos": "cn",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "After the <highlight>earthquake</highlight>, doctors and nurses \nwere too busy to take enough rest.",
+                                    "month": -1,
+                                    "source": "重庆市B卷",
+                                    "coll": "",
+                                    "sentence_trans": "地震发生后，医生和护士忙得无法休息。",
+                                    "year": 2021,
+                                    "type": "任务型阅读",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Janie joined in rebuilding homes in Italy after an <highlight>earthquake</highlight>.",
+                                    "month": -1,
+                                    "source": "台州市卷",
+                                    "coll": "",
+                                    "sentence_trans": "地震后，珍妮加入了意大利的房屋重建工作。",
+                                    "year": 2021,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Although I have lost everything in this terrible <highlight>earthquake</highlight>, I have not lost my life.",
+                                    "month": -1,
+                                    "source": "云南省昆明卷",
+                                    "coll": "",
+                                    "sentence_trans": "虽然我在这场可怕的地震中失去了一切，但我并没有失去生命。",
+                                    "year": 2018,
+                                    "type": "单项填空",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "word_affix": {
+                    "sub_affix_info_list": [
+                        {
+                            "affix": "earth",
+                            "affix_mean": "n. 地球"
+                        },
+                        {
+                            "affix": "quake",
+                            "affix_mean": "v. 震动"
+                        }
+                    ],
+                    "word": "earthquake",
+                    "word_mean": "n. 地震"
+                }
+            },
+            "sentencesData": {
+                "status": 1,
+                "info": "notZh2En",
+                "data": {}
+            },
+            "isAutoMatch": false,
+            "Zh2En": false
+        },
+        "query": "earthquake",
+        "result": "地震",
+        "tabSelect": "detail",
+        "dictionaryType": "oxford_buchong",
+        "notFound_show": false,
+        "phoneticShow": "",
+        "globalShowTranslateRecord": "",
+        "pronPrefer": {
+            "type": "usa_1",
+            "speaker": "male",
+            "speed": "standard"
+        },
+        "ServerRecord": "",
+        "ServerUIGS": {
+            "version": "new",
+            "type": "all",
+            "stype": "success",
+            "terminal": "web",
+            "fr": "default",
+            "direction": "etoz",
+            "from": "en",
+            "to": "zh-CHS",
+            "len": 10,
+            "qtype": "text",
+            "qctype": "qc_1",
+            "dict_cover": 1,
+            "detail": 1,
+            "wordCardCover": 1,
+            "wordCardEn": 1,
+            "wordCardCh": 0,
+            "wordCardMinor": 0,
+            "wordCardNetmean": 0,
+            "wordDeform": 1,
+            "keyword": 0,
+            "bilingual": 1,
+            "simple": 0,
+            "levelList": 1,
+            "synonym": 1,
+            "antonym": 0,
+            "conjugate": 0,
+            "rootaffix": 1,
+            "baike_sogou": 1,
+            "baike_wiki": 0,
+            "wordDifference": 0,
+            "word_phrase": 1,
+            "secondQuery": 0,
+            "dict_oxford": 0,
+            "dict_newcentury": 0,
+            "zhongkaotab": 1,
+            "gaokaotab": 1,
+            "CET4tab": 1,
+            "CET6tab": 1,
+            "kaoyantab": 0,
+            "network_tab": 0,
+            "yinying_tab": 1,
+            "tuozhan_tab": 0,
+            "one_pic": 0,
+            "more_pic": 0,
+            "no_pic": 0,
+            "uuid": "3be8c7bd-56ca-4c5d-a450-e66e3472354f",
+            "from_type": 0,
+            "t_trans_ssr": 133
+        },
+        "ServerModelUIGS": {
+            "terminal": "web",
+            "type": "trans_model",
+            "pbtype": "pv",
+            "model_general": 1,
+            "model_medical": 1,
+            "model_finance": 1
+        },
+        "ServerSgtkn": "64FF555B7BA2CC656E6847D5908502A76F1E828D67553681",
+        "suggShow": false,
+        "suggestion": "",
+        "suggDirection": "",
+        "usualTop": "",
+        "baseDict": "",
+        "wordCardClick": false,
+        "isFrInput": false,
+        "kanaTips": {
+            "show": false,
+            "left": "",
+            "top": "",
+            "type": "",
+            "arrowLeft": ""
+        },
+        "currSentenceIndex": -1,
+        "prefixStrObj": {
+            "prefixStr": "",
+            "oriPrefixStr": ""
+        },
+        "selectTransBox": {
+            "show": false,
+            "right": 0,
+            "top": 0,
+            "paraphraseInfo": {
+                "word": "",
+                "from": "",
+                "to": "",
+                "area": ""
+            }
+        },
+        "sentenceLoading": false,
+        "newSentenceInfo": {
+            "sentence": "",
+            "candidateIndex": 0
+        },
+        "moreTipInfo": {
+            "opacity": 0,
+            "zIndex": -1
+        },
+        "paraphraseShowInfo": {
+            "card": 0,
+            "query": "",
+            "card_dict": 0
+        },
+        "selectType": "",
+        "wordPos": 0,
+        "candidateWord": "",
+        "syntaxVisible": false,
+        "syntaxStatus": 0
+    },
+    "language": {
+        "from": "auto",
+        "to": "zh-CHS",
+        "detect": "en",
+        "model": "general",
+        "detectShow": false,
+        "langMap": {
+            "current": ""
+        },
+        "zh2en": false,
+        "fromItemList": [
+            {
+                "lang": "auto",
+                "text": "自动检测",
+                "play": false
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "tr",
+                "text": "土耳其语",
+                "play": false,
+                "abbr": "土"
+            },
+            {
+                "lang": "fr",
+                "text": "法语",
+                "play": true,
+                "abbr": "法"
+            },
+            {
+                "lang": "ru",
+                "text": "俄语",
+                "play": true,
+                "abbr": "俄"
+            }
+        ],
+        "toItemList": [
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "ko",
+                "text": "韩语",
+                "play": true,
+                "abbr": "韩"
+            },
+            {
+                "lang": "ru",
+                "text": "俄语",
+                "play": true,
+                "abbr": "俄"
+            },
+            {
+                "lang": "es",
+                "text": "西班牙语",
+                "play": true,
+                "abbr": "西"
+            }
+        ]
+    },
+    "voice": {
+        "from": {
+            "lang": "en",
+            "type": "from",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22earthquake%22%2C%22spokenDialect%22%3A%22en%22%2C%22rate%22%3A%220.8%22%7D",
+            "list": [
+                {
+                    "type": "uk_0",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "ˈɜːθkweɪk",
+                    "abbr": "英",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/2418_earthquake_uk.mp3"
+                },
+                {
+                    "type": "usa_1",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "ˈɜːrθkweɪk",
+                    "abbr": "美",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/2418_earthquake_usa.mp3"
+                }
+            ],
+            "stype": "phonetic",
+            "phoneticShow": [
+                {
+                    "text": "ˈɜːθkweɪk",
+                    "type": "uk",
+                    "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/2418_earthquake_uk.mp3"
+                },
+                {
+                    "text": "ˈɜːrθkweɪk",
+                    "type": "usa",
+                    "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/2418_earthquake_usa.mp3"
+                }
+            ]
+        },
+        "to": {
+            "lang": "zh",
+            "type": "to",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22%E5%9C%B0%E9%9C%87%22%2C%22spokenDialect%22%3A%22zh-CHS%22%2C%22rate%22%3A%220.8%22%7D",
+            "stype": "normal"
+        }
+    }
+}

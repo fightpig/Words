@@ -1,0 +1,3428 @@
+{
+    "route": {
+        "name": "text",
+        "path": "/text",
+        "hash": "",
+        "query": {
+            "keyword": "document",
+            "transfrom": "auto",
+            "transto": "zh-CHS",
+            "model": "general",
+            "errcode": "s10"
+        },
+        "params": {},
+        "fullPath": "/text?keyword=document&transfrom=auto&transto=zh-CHS&model=general&errcode=s10",
+        "meta": {
+            "mtype": [
+                "textTranslate",
+                "language",
+                "voice"
+            ]
+        },
+        "from": {
+            "name": null,
+            "path": "/",
+            "hash": "",
+            "query": {},
+            "params": {},
+            "fullPath": "/",
+            "meta": {}
+        }
+    },
+    "common": {
+        "CONFIG": {
+            "wuid": 1733635809307,
+            "loginInfo": {},
+            "isIE": 0,
+            "isHitSsrSwitch": true,
+            "isHitWritebookSwitch": false,
+            "isHitAmsSwitch": true,
+            "promotionList": "{\n    \"pc_bottom\":{\n        \"imgsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\",\n        \"qcsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\"\n    },\n    \"pc_middle\":[\n        {\n            \"src\":\"//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c\",\n            \"bgColor\":\"#ffffff\",\n            \"link\":\"\"\n        }\n    ],\n    \"pc_survey\":{\n        \"icon\":\"//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750\",\n        \"link\":\"https://wj.qq.com/s2/8193148/806d/\"\n    }\n}",
+            "bannerData": [],
+            "isHitAsideSurvey": false,
+            "secretCode": 109984457,
+            "uuid": "51ca33e6-6ea2-494d-994c-f28b5a084027",
+            "referer": "",
+            "approveToken": "64F70C3308C0A9070C0D23B086996E9B0CCE586767552EE1",
+            "loadTime": 1733635809309,
+            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0",
+            "fcp": "170.64.148.76",
+            "temporaryId": "",
+            "fileId": ""
+        },
+        "hotWords": [],
+        "isFromCollect": false,
+        "psdModify": {
+            "currentStep": 1,
+            "scode": "",
+            "username": ""
+        },
+        "loginStatus": true,
+        "feedBackModule": false,
+        "showPromotionPopup": {
+            "show": false,
+            "type": ""
+        },
+        "showPromotionPCDownload": false,
+        "showShareBomb": false,
+        "shareData": null,
+        "showAppDownLoad": false,
+        "showLoginDialog": false,
+        "showLoading": {
+            "show": false
+        },
+        "toast": {
+            "show": false,
+            "text": "",
+            "loading": false
+        },
+        "modelToast": {
+            "show": false,
+            "text": ""
+        },
+        "selectionGlobalShow": true,
+        "selectionInfo": {
+            "left": 0,
+            "top": 0,
+            "show": false,
+            "from": "",
+            "to": "",
+            "val": "",
+            "area": ""
+        },
+        "showConfirmDialog": false,
+        "promotionList": {
+            "pc_bottom": {
+                "imgsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png",
+                "qcsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png"
+            },
+            "pc_middle": [
+                {
+                    "src": "//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c",
+                    "bgColor": "#ffffff",
+                    "link": ""
+                }
+            ],
+            "pc_survey": {
+                "icon": "//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750",
+                "link": "https://wj.qq.com/s2/8193148/806d/"
+            }
+        },
+        "transTypeTxt": "text",
+        "fixedTabStatus": 0,
+        "bodyTop": 0,
+        "ifHideUserOperation": false
+    },
+    "textTranslate": {
+        "prevTransQuery": "",
+        "translateData": {
+            "translate": {
+                "zly": "zly",
+                "errorCode": "0",
+                "qc_type": "1",
+                "index": "content0",
+                "from": "en",
+                "source": "sogou",
+                "text": "document",
+                "to": "zh-CHS",
+                "id": "51ca33e6-6ea2-494d-994c-f28b5a084027",
+                "dit": "文件",
+                "orig_text": "document",
+                "md5": ""
+            },
+            "detect": {
+                "zly": "zly",
+                "detect": "en",
+                "errorCode": "0",
+                "language": "英语",
+                "id": "7d57faf0-b525-11ef-815c-a5faf10863bc",
+                "text": "document"
+            },
+            "sgtkn": "64F70C3608C0A9070C0D23B086996E9B0CCE586767552EE1",
+            "wordCard": {
+                "title": "document",
+                "show": true,
+                "usualDict": [
+                    {
+                        "values": [
+                            "文档；证件；公文；记录；资料；凭证；文献；档案"
+                        ],
+                        "pos": "n."
+                    },
+                    {
+                        "values": [
+                            "记录事实；记录事件；证明；提供书面证据；详细记载；归档；编制文件"
+                        ],
+                        "pos": "v."
+                    }
+                ],
+                "secondQuery": "",
+                "exchange": {
+                    "word_third": [
+                        "documents"
+                    ],
+                    "word_ing": [
+                        "documenting"
+                    ],
+                    "word_done": [
+                        "documented"
+                    ],
+                    "word_pl": [
+                        "documents"
+                    ],
+                    "word_past": [
+                        "documented"
+                    ]
+                },
+                "levelList": [
+                    "初中",
+                    "高中",
+                    "四级",
+                    "六级",
+                    "考研",
+                    "考博",
+                    "托福",
+                    "GRE"
+                ]
+            },
+            "detail": {
+                "synonym": [
+                    {
+                        "word_list": [
+                            "file",
+                            "paper"
+                        ],
+                        "pos": "n.",
+                        "mean": "文件，公文；文档；证件"
+                    }
+                ],
+                "affix": {
+                    "word": "document",
+                    "sub_affix_info_list": [
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "docile",
+                                            "mean": "adj. 驯服的；顺从的"
+                                        }
+                                    ],
+                                    "derivatives": "doct, doctr",
+                                    "affix_sense_chinese": "教(=teach)",
+                                    "affix_type": "stem"
+                                }
+                            ],
+                            "affix": "doc",
+                            "affix_mean": "教"
+                        },
+                        {
+                            "affix": "-u-",
+                            "affix_mean": ""
+                        },
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "apartment",
+                                            "mean": "n. 公寓套房; 一套公寓房间；一套公寓；公寓大楼；豪华公寓套房"
+                                        },
+                                        {
+                                            "word": "department",
+                                            "mean": "n. 部；处；司；系；专责；省；专长；特定方面"
+                                        },
+                                        {
+                                            "word": "equipment",
+                                            "mean": "n. 设备；器材；用具；装备；配备；知识；才能；素养；才智"
+                                        },
+                                        {
+                                            "word": "government",
+                                            "mean": "n. 政府；内阁；支配关系；控制；体制；政体；管理（国家、组织或人的）行为"
+                                        },
+                                        {
+                                            "word": "monument",
+                                            "mean": "n. 纪念物；纪念碑；纪念馆；纪念塔；纪念门；纪念像；丰碑；墓碑；遗址；历史遗迹"
+                                        },
+                                        {
+                                            "word": "pavement",
+                                            "mean": "n. 人行道；铺砌层；铺面；硬路面；裸露岩面；砾石滩"
+                                        },
+                                        {
+                                            "word": "pigment",
+                                            "mean": "n. 色素；颜料；涂料"
+                                        },
+                                        {
+                                            "word": "fragment",
+                                            "mean": "n. 碎片；碎块；破片；片段；片断；不完整的部分"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "名词后缀, 具体的物",
+                                    "affix_type": "suffix"
+                                },
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "accomplishment",
+                                            "mean": "n. 成就；成绩；完成；实现；才能；造诣；技能"
+                                        },
+                                        {
+                                            "word": "achievement",
+                                            "mean": "n. 成功；成就；达到；实现；纹章牌；学习成绩"
+                                        },
+                                        {
+                                            "word": "adjustment",
+                                            "mean": "n. 调整；调节；调节器；调解；适应"
+                                        },
+                                        {
+                                            "word": "advertisement",
+                                            "mean": "n. 广告；宣传；活广告；致读者；说明文字"
+                                        },
+                                        {
+                                            "word": "agreement",
+                                            "mean": "n. 协调一致；同意；一致意见；协定；一致；合同；契约；相容；呼应"
+                                        },
+                                        {
+                                            "word": "ailment",
+                                            "mean": "n. 微恙；小疾"
+                                        },
+                                        {
+                                            "word": "amazement",
+                                            "mean": "n. 惊愕；惊诧"
+                                        },
+                                        {
+                                            "word": "announcement",
+                                            "mean": "n. 宣告；通告；布告；启事；通知"
+                                        },
+                                        {
+                                            "word": "appointment",
+                                            "mean": "n. 约会；约定；任命；委派；家具；陈设；工作；岗位；被任命的人；受委任的人"
+                                        },
+                                        {
+                                            "word": "assessment",
+                                            "mean": "n. 评估；估计"
+                                        },
+                                        {
+                                            "word": "assignment",
+                                            "mean": "n. 任务；作业；归属；归因；转让；分配；指派；转让证书"
+                                        },
+                                        {
+                                            "word": "astonishment",
+                                            "mean": "n. 惊讶；惊愕"
+                                        },
+                                        {
+                                            "word": "augment",
+                                            "mean": "v. 增大；增加"
+                                        },
+                                        {
+                                            "word": "comment",
+                                            "mean": "n. 意见；评论；注释；注解；评注；议论；解说"
+                                        },
+                                        {
+                                            "word": "commitment",
+                                            "mean": "n. 献身；投入；约定；约束；义务；承诺；保证；拨出；留出"
+                                        },
+                                        {
+                                            "word": "complement",
+                                            "mean": "n. 补充；增强；足数；补足物；补足量；补语；补体；防御素；编制名额；定员"
+                                        },
+                                        {
+                                            "word": "compliment",
+                                            "mean": "n. 恭维；赞美；称赞；赞扬；敬意；祝贺；问候；尊重；致意"
+                                        },
+                                        {
+                                            "word": "confinement",
+                                            "mean": "n. 分娩；监禁；限制"
+                                        },
+                                        {
+                                            "word": "consignment",
+                                            "mean": "n. 托付物；委托物；寄存物；寄售物；托运物；寄售；委托；托运；交付；运送"
+                                        },
+                                        {
+                                            "word": "containment",
+                                            "mean": "n. 控制；抑制；封锁；遏制"
+                                        },
+                                        {
+                                            "word": "departmental",
+                                            "mean": "adj. 部门的"
+                                        },
+                                        {
+                                            "word": "development",
+                                            "mean": "n. 发展；开始；出现；显影；新发展；新产品；精品；新构想；新建楼区；发育（或成长、进化）的特定阶段"
+                                        },
+                                        {
+                                            "word": "disagreement",
+                                            "mean": "n. 意见不一；不同意；不一致；不符"
+                                        },
+                                        {
+                                            "word": "disillusionment",
+                                            "mean": "n. 失望；幻灭"
+                                        },
+                                        {
+                                            "word": "embarrassment",
+                                            "mean": "n. 尴尬；窘；难堪；经济困难；拮据；使人为难（或尴尬）的人"
+                                        },
+                                        {
+                                            "word": "embezzlement",
+                                            "mean": "n. 侵占；挪用；盗用；侵吞公款"
+                                        },
+                                        {
+                                            "word": "employment",
+                                            "mean": "n. 就业；受雇；应用；使用；工作；职业；雇用"
+                                        },
+                                        {
+                                            "word": "encroachment",
+                                            "mean": "n. 侵蚀；侵入；侵犯；侵占"
+                                        },
+                                        {
+                                            "word": "endorsement",
+                                            "mean": "n. 赞同；支持；认可；违章记录；背书；票据签字；对产品的推荐；保险单附加条款"
+                                        },
+                                        {
+                                            "word": "enforcement",
+                                            "mean": "n. 强制；执行；实施"
+                                        },
+                                        {
+                                            "word": "enjoyment",
+                                            "mean": "n. 享受；乐趣；享有；令人愉快的事物"
+                                        },
+                                        {
+                                            "word": "enrichment",
+                                            "mean": "n. 丰富；肥沃；浓缩；改进"
+                                        },
+                                        {
+                                            "word": "enrollment",
+                                            "mean": "n. 登记；注册；报名；入会；注册人数"
+                                        },
+                                        {
+                                            "word": "entertainment",
+                                            "mean": "n. 娱乐；娱乐活动；招待；款待；请客；文娱表演"
+                                        },
+                                        {
+                                            "word": "excitement",
+                                            "mean": "n. 兴奋；激动；性兴奋；令人兴奋的事"
+                                        },
+                                        {
+                                            "word": "experiment",
+                                            "mean": "n. 实验；试验"
+                                        },
+                                        {
+                                            "word": "figment",
+                                            "mean": "n. 臆造的事物"
+                                        },
+                                        {
+                                            "word": "filament",
+                                            "mean": "n. 丝；灯丝；丝极；花丝；暗条"
+                                        },
+                                        {
+                                            "word": "fragment",
+                                            "mean": "n. 碎片；碎块；破片；片段；片断；不完整的部分"
+                                        },
+                                        {
+                                            "word": "fragmentary",
+                                            "mean": "adj. 支离破碎的；由碎片组成的；不完整的"
+                                        },
+                                        {
+                                            "word": "fulfillment",
+                                            "mean": "n. 满意；满足；愉悦；实现（诺言的）履行；应验；对要求（或条件、需要的）满足；对任务（或职责、角色）的履行；执行"
+                                        },
+                                        {
+                                            "word": "impairment",
+                                            "mean": "n. 损伤；削弱"
+                                        },
+                                        {
+                                            "word": "imprisonment",
+                                            "mean": "n. 关押；监禁；禁锢"
+                                        },
+                                        {
+                                            "word": "increment",
+                                            "mean": "n. 增长；工资定量增长；定量加薪；正（或负）增量"
+                                        },
+                                        {
+                                            "word": "instrument",
+                                            "mean": "n. 仪器；器具；仪表；乐器；公文；文书；工具；方法；手段"
+                                        },
+                                        {
+                                            "word": "investment",
+                                            "mean": "n. 投资；包围；封锁；投入；付出；值得投资之物"
+                                        },
+                                        {
+                                            "word": "involvement",
+                                            "mean": "n. 卷入；牵连；参与；关联；牵扯"
+                                        },
+                                        {
+                                            "word": "management",
+                                            "mean": "n. 管理；欺骗；欺诈；管理层；管理人员；监控；经营管理；治疗"
+                                        },
+                                        {
+                                            "word": "measurement",
+                                            "mean": "n. 测量；数量；测量单位；度量制；尺寸"
+                                        },
+                                        {
+                                            "word": "mismanagement",
+                                            "mean": "n. 管理不善；处置失当"
+                                        },
+                                        {
+                                            "word": "ornament",
+                                            "mean": "n. 装饰品；增添光彩的品质；争光者；装饰；装饰音；礼拜用品；典礼用品"
+                                        },
+                                        {
+                                            "word": "parliament",
+                                            "mean": "n. 议会；全体议员；国会"
+                                        },
+                                        {
+                                            "word": "placement",
+                                            "mean": "n. 摆放；放置；安置；安排；安顿；实习岗位"
+                                        },
+                                        {
+                                            "word": "recruitment",
+                                            "mean": "n. 招募；征兵；招聘；招收；增长；募集"
+                                        },
+                                        {
+                                            "word": "reimbursement",
+                                            "mean": "n. 赔偿；偿还；补偿；退还"
+                                        },
+                                        {
+                                            "word": "reinforcement",
+                                            "mean": "n. 增援；增强；援军；增援部队；加深；增进；强化；增援力量；加固物；增强材料"
+                                        },
+                                        {
+                                            "word": "replacement",
+                                            "mean": "n. 替代；更换；复位；替代者；替代物；接替者"
+                                        },
+                                        {
+                                            "word": "requirement",
+                                            "mean": "n. 要求；必要条件；必需品"
+                                        },
+                                        {
+                                            "word": "resentment",
+                                            "mean": "n. 愤恨；怨恨"
+                                        },
+                                        {
+                                            "word": "retirement",
+                                            "mean": "n. 退休；退职；退役；退庭表决；引退；退隐；退休生活；退庭表决时间；停止参赛；退隐处"
+                                        },
+                                        {
+                                            "word": "sentiment",
+                                            "mean": "n. 观点；看法；感觉；情感；情绪；感伤；感想；愿望"
+                                        },
+                                        {
+                                            "word": "settlement",
+                                            "mean": "n. 正式协议；解决；定居点；财产赠与；结算；清账；沉降；定居；定居行动；和解"
+                                        },
+                                        {
+                                            "word": "supplement",
+                                            "mean": "n. 增补物；补充物；补角；补品；补给品；额外服务费用；增刊"
+                                        },
+                                        {
+                                            "word": "temperament",
+                                            "mean": "n. 气质；性情；性格；禀赋；调律；急躁脾气；容易兴奋（或激动）的性格；易变的性情"
+                                        },
+                                        {
+                                            "word": "torment",
+                                            "mean": "n. 折磨；痛苦；痛苦的原因"
+                                        },
+                                        {
+                                            "word": "tournament",
+                                            "mean": "n. 比赛；锦标赛；联赛；骑士马上比武大会；阅兵式"
+                                        },
+                                        {
+                                            "word": "treatment",
+                                            "mean": "n. 对待；待遇；美容护理；保健护理；治疗；处理；表现；讨论；疗程；医治"
+                                        },
+                                        {
+                                            "word": "movement",
+                                            "mean": "n. 动；移动；变动；团体；乐章；机械装置；可动装置；运动；活动；动向"
+                                        },
+                                        {
+                                            "word": "improvement",
+                                            "mean": "n. 进步的实例；改善；进步；增进；帮助改善之物"
+                                        },
+                                        {
+                                            "word": "refreshment",
+                                            "mean": "n. 饮料；点心；便餐；活力恢复"
+                                        },
+                                        {
+                                            "word": "advancement",
+                                            "mean": "n. 促进；发展；进步；提拔"
+                                        },
+                                        {
+                                            "word": "argument",
+                                            "mean": "n. 激烈的争吵；争执；争论；理由；证据；说理；论证；自变数；书的内容提要"
+                                        },
+                                        {
+                                            "word": "statement",
+                                            "mean": "n. 陈述；声明；报表；报道；账单；结算单；官方声明；供述；呈现"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "去动词化的抽象名词后缀, 通常表示\"某种行为或结果\"",
+                                    "affix_type": "suffix"
+                                }
+                            ],
+                            "affix": "-ment",
+                            "affix_mean": "具体的物"
+                        }
+                    ],
+                    "word_mean": "n. 文件"
+                },
+                "wordRootInfo": {
+                    "word_info_list": [
+                        {
+                            "word": "documentary",
+                            "pos_mean_info_list": [
+                                {
+                                    "pos": "adj.",
+                                    "mean": "记录的；文件的；记实的"
+                                },
+                                {
+                                    "pos": "n.",
+                                    "mean": "纪录片"
+                                }
+                            ]
+                        },
+                        {
+                            "word": "documental",
+                            "pos_mean_info_list": [
+                                {
+                                    "pos": "adj.",
+                                    "mean": "文件的，公文的"
+                                }
+                            ]
+                        },
+                        {
+                            "word": "documentation",
+                            "pos_mean_info_list": [
+                                {
+                                    "pos": "n.",
+                                    "mean": "文件材料"
+                                }
+                            ]
+                        },
+                        {
+                            "word": "documenter",
+                            "pos_mean_info_list": [
+                                {
+                                    "pos": "n.",
+                                    "mean": "资料员"
+                                }
+                            ]
+                        }
+                    ],
+                    "root_word": "document"
+                },
+                "word_difference_info": [
+                    {
+                        "common_mean": "文件",
+                        "word_list": [
+                            "document",
+                            " paper"
+                        ],
+                        "word_mean_info__list": [
+                            {
+                                "difference": "即可指法律性文件，也可指用作证明或消息来源的文件或记录等。",
+                                "word": "document"
+                            },
+                            {
+                                "difference": "普通用词，泛指成册供将来参考或使用的任何文件或公文等。",
+                                "word": "paper"
+                            }
+                        ]
+                    }
+                ],
+                "word_group": [
+                    {
+                        "brief_definition": "车辆注册证书",
+                        "phrase": "registration document",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "要约文件",
+                        "phrase": "offer document",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "公文包",
+                        "phrase": "document case",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "官方文件",
+                        "phrase": "official document",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "运输单据；运输单证",
+                        "phrase": "transport document",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "旅行文件；旅行文档；旅行证件",
+                        "phrase": "travel document",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "文档类型；文件类型",
+                        "phrase": "document type",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "标书；招标文件；投标文件",
+                        "phrase": "bidding document",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "法律文件；法律文档；合法文件",
+                        "phrase": "legal document",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "重要的文件；重要文件",
+                        "phrase": "important document",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "原始文档；原始文件；原始单据",
+                        "phrase": "original document",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "同一文件；相同的文件",
+                        "phrase": "same document",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "招标文件；投标文件；投标书文件",
+                        "phrase": "tender document",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "源文档；来源文件；在源文档",
+                        "phrase": "source document",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "html文档；html文件",
+                        "phrase": "html document",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "文本文档；文本文件",
+                        "phrase": "text document",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "相关文件；关联文件；有关文件",
+                        "phrase": "relevant document",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "证明文件；佐证文件；旁证证件",
+                        "phrase": "supporting document",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "鉴定文件；查验文件；识别文件",
+                        "phrase": "identification document",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "所附文件；附属单据；随附文件",
+                        "phrase": "attached document",
+                        "pos": ""
+                    }
+                ],
+                "bilingual": [
+                    {
+                        "source": "How do you save the <em>document</em>?",
+                        "target": "你如何保存文件？",
+                        "url": ""
+                    },
+                    {
+                        "source": "How do you print the <em>document</em>?",
+                        "target": "你如何打印文件？",
+                        "url": ""
+                    },
+                    {
+                        "source": "How do you open a new <em>document</em>?",
+                        "target": "你如何打开一个新文件？",
+                        "url": ""
+                    },
+                    {
+                        "source": "Finally, go and get your <em>document</em>.",
+                        "target": "最后，去拿你的文件。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Can you help me to save my <em>document</em>?",
+                        "target": "你能帮我保存文件吗？",
+                        "url": ""
+                    },
+                    {
+                        "source": "I want to learn how to print a <em>document</em>.",
+                        "target": "我想学习如何打印文件。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Put some paper in there to print your <em>document</em>.",
+                        "target": "放一些纸进去打印你的文件。",
+                        "url": ""
+                    },
+                    {
+                        "source": "This is a private <em>document</em>.",
+                        "target": "这是一份不公开的文件。",
+                        "url": ""
+                    },
+                    {
+                        "source": "I need to copy this <em>document</em>.",
+                        "target": "我需要复印这份文件。",
+                        "url": ""
+                    },
+                    {
+                        "source": "I need to print this <em>document</em>.",
+                        "target": "我需要打印这份文件。",
+                        "url": ""
+                    }
+                ],
+                "baike": {
+                    "showMore": false,
+                    "list": [
+                        {
+                            "lemmaTitle": "document",
+                            "link": "https://baike.sogou.com/v653350.htm?ch=sogou.fanyi",
+                            "abstract": "document是HTML语言中的一类对象，每个载入浏览器的HTML文档都会成为document。 document是一棵文档树的根，可为人们提供对文档数据的最初（或最顶层）的访问入口，使人们可以从脚本中对HTML页面中的所有元素进行访问。",
+                            "wapPic": "",
+                            "pcPic": ""
+                        }
+                    ]
+                }
+            },
+            "book": {
+                "yingyinNormal": [
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/f012eb5fd120cc2d5b68f18e3d0e7c8c_67362.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/a2bd3b13afdaf492f670b313a086f0a8_74955.mp3",
+                        "isLavafox": true,
+                        "en": "That is the equivalent of a <em>document</em>. Those are the 1992 rules.",
+                        "zh": "这就相当于文件。那是1992年的规定。",
+                        "videoNameZh": "《傲骨贤妻 第五季》",
+                        "videoNameEn": "《The Good Wife Season 5》",
+                        "url": "http://bisentence_movie.sogou.com/3f97625edeaee56611688a77d0bce941_c9d9728f10c5db27b9b0f08199f9434fc039f9fa"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/34d2d19c723ad11a5a6dcd6da67c9085_43190.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/ea3564527389dd819ca38799e87a6cd2_2871.mp3",
+                        "isLavafox": true,
+                        "en": "What's that? It means that the writer intended the <em>document</em> to serve as a will.",
+                        "zh": "这是什么意思？意思就是执笔人意将此文件作为遗嘱。",
+                        "videoNameZh": "《唐顿庄园 第四季》",
+                        "videoNameEn": "《Downton Abbey Season 4》",
+                        "url": "http://bisentence_movie.sogou.com/4bdfaa2800fa0b998cce5b96ccb99da9_812df1656ae70d95826d72bb3f34d6ee9e375f54"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/9a0d4fcdea6f5721a9e0b0fe2ee7da05_35555.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/66825156081e2cba90547616651129bf_48834.mp3",
+                        "isLavafox": true,
+                        "en": "Ms. Vick, as your counsel was informed, by signing this <em>document</em>, you hereby verify the confession you provide today pertaining to the crimes you're accused of after your arrest one week ago.",
+                        "zh": "维克女士，已经通知了你的律师，来签署这份文件 你在这将确认一周前被逮捕归案后你所提供的有关你被指控的罪行的供诉。",
+                        "videoNameZh": "《网络谜踪》",
+                        "videoNameEn": "《Searching》",
+                        "url": "http://bisentence_movie.sogou.com/221b305c662524498e9ac8c04c4a7c71_c36c1c17a3d336d83aafe3a4a809915fd9a19f02"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/65861602801590fdaf378b1d1c997a40_10433.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/c3cfbce9cf906122e760249a291aface_1176.mp3",
+                        "isLavafox": true,
+                        "en": "What's that for? Well, I gotta <em>document</em> this before that dealer gets off his break. I see.",
+                        "zh": "那是干嘛的？照相存证，免得发牌员落跑了。解了。",
+                        "videoNameZh": "《老友记 第五季》",
+                        "videoNameEn": "《Friends Season 5》",
+                        "url": "http://bisentence_movie.sogou.com/d06852669ec77b69fdb85436ebeadc4c_9b38f0118ebe7e5605db331b5aae12cce96d9fd8"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/cc6a483c42fe75c06f21bb86096c4218_21245.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/bb8280733b39e092ae39659b5772782b_24629.mp3",
+                        "isLavafox": true,
+                        "en": "May seem like a strange word to be in that <em>document</em> but he was sort of... He was an artist.",
+                        "zh": "这个词出现在\"独立宣言\"中，似乎有些怪异，但是他似乎是，是个艺术家。",
+                        "videoNameZh": "《当幸福来敲门》",
+                        "videoNameEn": "《The Pursuit of Happyness》",
+                        "url": "http://bisentence_movie.sogou.com/1222a4b6c8df3b07fadc3e321eadb483_4f6e920e0df06ef10492662e403ba53bf1b5124d"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/dfdc97c7eab31e173bc0bccd4824440f_23407.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/debc408fab0997e58d092e63fc2386c5_72472.mp3",
+                        "isLavafox": true,
+                        "en": "All right, now all that's left is for us to sign and date the <em>document</em>, and we will officially no longer be roommates.",
+                        "zh": "好了，最后只剩下签上名，写上日期，我们就正式解除室友关系了。",
+                        "videoNameZh": "《生活大爆炸 第九季》",
+                        "videoNameEn": "《The Big Bang Theory Season 9》",
+                        "url": "http://bisentence_movie.sogou.com/712486ac7af81554ede1e064636b2045_700794033e814a4628552e4b78d713301a396d9d"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/8b3da16ecbe350aacc1a7e4a01d210bc_49869.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/caa2f071e1a5c92dbd052d17b3c1459c_31167.mp3",
+                        "isLavafox": true,
+                        "en": "According to the <em>document</em> you drew up, Sheldon, the selection of a new takeout restaurant requires public hearings and a 60-day comment period.",
+                        "zh": "谢尔顿，根据你所制定的条例，选择一家新的外卖餐厅需进行公开听证会和为期六十天的评议审核。",
+                        "videoNameZh": "《生活大爆炸 第四季》",
+                        "videoNameEn": "《The Big Bang Theory Season 4》",
+                        "url": "http://bisentence_movie.sogou.com/8fe519735168c878cd2c6d79b56d232c_3a8ecfe2ea33a9fd881746870bca65b695cd3d92"
+                    }
+                ]
+            },
+            "pic": "",
+            "voice": {
+                "phonetic": [
+                    {
+                        "text": "ˈdɒkjumənt , ˈdɒkjument",
+                        "type": "uk",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/485_document_uk.mp3"
+                    },
+                    {
+                        "text": "ˈdɑːkjumənt , ˈdɑːkjument",
+                        "type": "usa",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/485_document_usa.mp3"
+                    }
+                ]
+            },
+            "dictType": "oxford_buchong",
+            "kaoyan": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 3,
+                        "pos": "n",
+                        "chinese": "文件",
+                        "sense_tier_ratio": 100
+                    },
+                    {
+                        "sense_tier": 0,
+                        "pos": "v",
+                        "chinese": "记录; 记载",
+                        "sense_tier_ratio": 0
+                    }
+                ],
+                "word": "document",
+                "direction_info": {
+                    "ranges": 12,
+                    "description": "数据源自2012-2023年12年间全国考研试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2012-2023年全国考研英语一和考研英语二共24套考研试卷，包括阅读、完型填空、翻译、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选全国考研考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2012-2023年12年间全国考研英语一和考研英语二试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 1,
+                "word_family": {
+                    "derivative_info_list": [
+                        {
+                            "derivative_info_list": [],
+                            "word": "documentary",
+                            "mean": "adj. 文件的；文献的；由文件组成的；纪实的"
+                        },
+                        {
+                            "derivative_info_list": [],
+                            "word": "undocumented",
+                            "mean": "adj. 未登记的；未注册的；无证明文件的；非法的；无证的"
+                        }
+                    ],
+                    "word": "document",
+                    "mean": "n. 文件"
+                },
+                "total_exam_freq": 3,
+                "sense": {
+                    "sense_num": 2,
+                    "sense_info_list": [
+                        {
+                            "en": "an official paper or book that gives information about something, or that can be used as evidence or proof of something",
+                            "zh": "文件",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "It listed many <highlight>documents</highlight> in code that had been captured from the French army of Spain.",
+                                    "month": -1,
+                                    "source": "英语一",
+                                    "coll": "",
+                                    "sentence_trans": "它列举了许多从法国西班牙军队那里缴获的密码文件。",
+                                    "year": 2022,
+                                    "type": "翻译",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Planning <highlight>documents</highlight> pledged that the great legacy of the Games would be to lever a nation of sport lovers away from their couches.",
+                                    "month": -1,
+                                    "source": "英语二",
+                                    "coll": "",
+                                    "sentence_trans": "规划文件承诺，奥运会的伟大遗产将让全国的体育爱好者从沙发上站起来（投身到运动中去）。",
+                                    "year": 2017,
+                                    "type": "阅读理解A",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Citizens still have a right to expect private <highlight>documents</highlight> to remain private and protected by the Constitution's prohibition on unreasonable searches.",
+                                    "month": -1,
+                                    "source": "英语一",
+                                    "coll": "",
+                                    "sentence_trans": "公民仍然有权要求私人文件保持私密性，并受到宪法禁止不合理搜查私人文件的保护。",
+                                    "year": 2015,
+                                    "type": "阅读理解A",
+                                    "day": -1
+                                }
+                            ]
+                        },
+                        {
+                            "synonyms": "",
+                            "en": "",
+                            "zh": "记录; 记载",
+                            "pos": "v",
+                            "antonyms": ""
+                        }
+                    ]
+                },
+                "word_affix": {
+                    "word": "document",
+                    "sub_affix_info_list": [
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "docile",
+                                            "mean": "adj. 驯服的；顺从的"
+                                        }
+                                    ],
+                                    "derivatives": "doct, doctr",
+                                    "affix_sense_chinese": "教(=teach)",
+                                    "affix_type": "stem"
+                                }
+                            ],
+                            "affix": "doc",
+                            "affix_mean": "教"
+                        },
+                        {
+                            "affix": "-u-",
+                            "affix_mean": ""
+                        },
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "apartment",
+                                            "mean": "n. 公寓套房; 一套公寓房间；一套公寓；公寓大楼；豪华公寓套房"
+                                        },
+                                        {
+                                            "word": "department",
+                                            "mean": "n. 部；处；司；系；专责；省；专长；特定方面"
+                                        },
+                                        {
+                                            "word": "equipment",
+                                            "mean": "n. 设备；器材；用具；装备；配备；知识；才能；素养；才智"
+                                        },
+                                        {
+                                            "word": "government",
+                                            "mean": "n. 政府；内阁；支配关系；控制；体制；政体；管理（国家、组织或人的）行为"
+                                        },
+                                        {
+                                            "word": "monument",
+                                            "mean": "n. 纪念物；纪念碑；纪念馆；纪念塔；纪念门；纪念像；丰碑；墓碑；遗址；历史遗迹"
+                                        },
+                                        {
+                                            "word": "pavement",
+                                            "mean": "n. 人行道；铺砌层；铺面；硬路面；裸露岩面；砾石滩"
+                                        },
+                                        {
+                                            "word": "pigment",
+                                            "mean": "n. 色素；颜料；涂料"
+                                        },
+                                        {
+                                            "word": "fragment",
+                                            "mean": "n. 碎片；碎块；破片；片段；片断；不完整的部分"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "名词后缀, 具体的物",
+                                    "affix_type": "suffix"
+                                },
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "accomplishment",
+                                            "mean": "n. 成就；成绩；完成；实现；才能；造诣；技能"
+                                        },
+                                        {
+                                            "word": "achievement",
+                                            "mean": "n. 成功；成就；达到；实现；纹章牌；学习成绩"
+                                        },
+                                        {
+                                            "word": "adjustment",
+                                            "mean": "n. 调整；调节；调节器；调解；适应"
+                                        },
+                                        {
+                                            "word": "advertisement",
+                                            "mean": "n. 广告；宣传；活广告；致读者；说明文字"
+                                        },
+                                        {
+                                            "word": "agreement",
+                                            "mean": "n. 协调一致；同意；一致意见；协定；一致；合同；契约；相容；呼应"
+                                        },
+                                        {
+                                            "word": "ailment",
+                                            "mean": "n. 微恙；小疾"
+                                        },
+                                        {
+                                            "word": "amazement",
+                                            "mean": "n. 惊愕；惊诧"
+                                        },
+                                        {
+                                            "word": "announcement",
+                                            "mean": "n. 宣告；通告；布告；启事；通知"
+                                        },
+                                        {
+                                            "word": "appointment",
+                                            "mean": "n. 约会；约定；任命；委派；家具；陈设；工作；岗位；被任命的人；受委任的人"
+                                        },
+                                        {
+                                            "word": "assessment",
+                                            "mean": "n. 评估；估计"
+                                        },
+                                        {
+                                            "word": "assignment",
+                                            "mean": "n. 任务；作业；归属；归因；转让；分配；指派；转让证书"
+                                        },
+                                        {
+                                            "word": "astonishment",
+                                            "mean": "n. 惊讶；惊愕"
+                                        },
+                                        {
+                                            "word": "augment",
+                                            "mean": "v. 增大；增加"
+                                        },
+                                        {
+                                            "word": "comment",
+                                            "mean": "n. 意见；评论；注释；注解；评注；议论；解说"
+                                        },
+                                        {
+                                            "word": "commitment",
+                                            "mean": "n. 献身；投入；约定；约束；义务；承诺；保证；拨出；留出"
+                                        },
+                                        {
+                                            "word": "complement",
+                                            "mean": "n. 补充；增强；足数；补足物；补足量；补语；补体；防御素；编制名额；定员"
+                                        },
+                                        {
+                                            "word": "compliment",
+                                            "mean": "n. 恭维；赞美；称赞；赞扬；敬意；祝贺；问候；尊重；致意"
+                                        },
+                                        {
+                                            "word": "confinement",
+                                            "mean": "n. 分娩；监禁；限制"
+                                        },
+                                        {
+                                            "word": "consignment",
+                                            "mean": "n. 托付物；委托物；寄存物；寄售物；托运物；寄售；委托；托运；交付；运送"
+                                        },
+                                        {
+                                            "word": "containment",
+                                            "mean": "n. 控制；抑制；封锁；遏制"
+                                        },
+                                        {
+                                            "word": "departmental",
+                                            "mean": "adj. 部门的"
+                                        },
+                                        {
+                                            "word": "development",
+                                            "mean": "n. 发展；开始；出现；显影；新发展；新产品；精品；新构想；新建楼区；发育（或成长、进化）的特定阶段"
+                                        },
+                                        {
+                                            "word": "disagreement",
+                                            "mean": "n. 意见不一；不同意；不一致；不符"
+                                        },
+                                        {
+                                            "word": "disillusionment",
+                                            "mean": "n. 失望；幻灭"
+                                        },
+                                        {
+                                            "word": "embarrassment",
+                                            "mean": "n. 尴尬；窘；难堪；经济困难；拮据；使人为难（或尴尬）的人"
+                                        },
+                                        {
+                                            "word": "embezzlement",
+                                            "mean": "n. 侵占；挪用；盗用；侵吞公款"
+                                        },
+                                        {
+                                            "word": "employment",
+                                            "mean": "n. 就业；受雇；应用；使用；工作；职业；雇用"
+                                        },
+                                        {
+                                            "word": "encroachment",
+                                            "mean": "n. 侵蚀；侵入；侵犯；侵占"
+                                        },
+                                        {
+                                            "word": "endorsement",
+                                            "mean": "n. 赞同；支持；认可；违章记录；背书；票据签字；对产品的推荐；保险单附加条款"
+                                        },
+                                        {
+                                            "word": "enforcement",
+                                            "mean": "n. 强制；执行；实施"
+                                        },
+                                        {
+                                            "word": "enjoyment",
+                                            "mean": "n. 享受；乐趣；享有；令人愉快的事物"
+                                        },
+                                        {
+                                            "word": "enrichment",
+                                            "mean": "n. 丰富；肥沃；浓缩；改进"
+                                        },
+                                        {
+                                            "word": "enrollment",
+                                            "mean": "n. 登记；注册；报名；入会；注册人数"
+                                        },
+                                        {
+                                            "word": "entertainment",
+                                            "mean": "n. 娱乐；娱乐活动；招待；款待；请客；文娱表演"
+                                        },
+                                        {
+                                            "word": "excitement",
+                                            "mean": "n. 兴奋；激动；性兴奋；令人兴奋的事"
+                                        },
+                                        {
+                                            "word": "experiment",
+                                            "mean": "n. 实验；试验"
+                                        },
+                                        {
+                                            "word": "figment",
+                                            "mean": "n. 臆造的事物"
+                                        },
+                                        {
+                                            "word": "filament",
+                                            "mean": "n. 丝；灯丝；丝极；花丝；暗条"
+                                        },
+                                        {
+                                            "word": "fragment",
+                                            "mean": "n. 碎片；碎块；破片；片段；片断；不完整的部分"
+                                        },
+                                        {
+                                            "word": "fragmentary",
+                                            "mean": "adj. 支离破碎的；由碎片组成的；不完整的"
+                                        },
+                                        {
+                                            "word": "fulfillment",
+                                            "mean": "n. 满意；满足；愉悦；实现（诺言的）履行；应验；对要求（或条件、需要的）满足；对任务（或职责、角色）的履行；执行"
+                                        },
+                                        {
+                                            "word": "impairment",
+                                            "mean": "n. 损伤；削弱"
+                                        },
+                                        {
+                                            "word": "imprisonment",
+                                            "mean": "n. 关押；监禁；禁锢"
+                                        },
+                                        {
+                                            "word": "increment",
+                                            "mean": "n. 增长；工资定量增长；定量加薪；正（或负）增量"
+                                        },
+                                        {
+                                            "word": "instrument",
+                                            "mean": "n. 仪器；器具；仪表；乐器；公文；文书；工具；方法；手段"
+                                        },
+                                        {
+                                            "word": "investment",
+                                            "mean": "n. 投资；包围；封锁；投入；付出；值得投资之物"
+                                        },
+                                        {
+                                            "word": "involvement",
+                                            "mean": "n. 卷入；牵连；参与；关联；牵扯"
+                                        },
+                                        {
+                                            "word": "management",
+                                            "mean": "n. 管理；欺骗；欺诈；管理层；管理人员；监控；经营管理；治疗"
+                                        },
+                                        {
+                                            "word": "measurement",
+                                            "mean": "n. 测量；数量；测量单位；度量制；尺寸"
+                                        },
+                                        {
+                                            "word": "mismanagement",
+                                            "mean": "n. 管理不善；处置失当"
+                                        },
+                                        {
+                                            "word": "ornament",
+                                            "mean": "n. 装饰品；增添光彩的品质；争光者；装饰；装饰音；礼拜用品；典礼用品"
+                                        },
+                                        {
+                                            "word": "parliament",
+                                            "mean": "n. 议会；全体议员；国会"
+                                        },
+                                        {
+                                            "word": "placement",
+                                            "mean": "n. 摆放；放置；安置；安排；安顿；实习岗位"
+                                        },
+                                        {
+                                            "word": "recruitment",
+                                            "mean": "n. 招募；征兵；招聘；招收；增长；募集"
+                                        },
+                                        {
+                                            "word": "reimbursement",
+                                            "mean": "n. 赔偿；偿还；补偿；退还"
+                                        },
+                                        {
+                                            "word": "reinforcement",
+                                            "mean": "n. 增援；增强；援军；增援部队；加深；增进；强化；增援力量；加固物；增强材料"
+                                        },
+                                        {
+                                            "word": "replacement",
+                                            "mean": "n. 替代；更换；复位；替代者；替代物；接替者"
+                                        },
+                                        {
+                                            "word": "requirement",
+                                            "mean": "n. 要求；必要条件；必需品"
+                                        },
+                                        {
+                                            "word": "resentment",
+                                            "mean": "n. 愤恨；怨恨"
+                                        },
+                                        {
+                                            "word": "retirement",
+                                            "mean": "n. 退休；退职；退役；退庭表决；引退；退隐；退休生活；退庭表决时间；停止参赛；退隐处"
+                                        },
+                                        {
+                                            "word": "sentiment",
+                                            "mean": "n. 观点；看法；感觉；情感；情绪；感伤；感想；愿望"
+                                        },
+                                        {
+                                            "word": "settlement",
+                                            "mean": "n. 正式协议；解决；定居点；财产赠与；结算；清账；沉降；定居；定居行动；和解"
+                                        },
+                                        {
+                                            "word": "supplement",
+                                            "mean": "n. 增补物；补充物；补角；补品；补给品；额外服务费用；增刊"
+                                        },
+                                        {
+                                            "word": "temperament",
+                                            "mean": "n. 气质；性情；性格；禀赋；调律；急躁脾气；容易兴奋（或激动）的性格；易变的性情"
+                                        },
+                                        {
+                                            "word": "torment",
+                                            "mean": "n. 折磨；痛苦；痛苦的原因"
+                                        },
+                                        {
+                                            "word": "tournament",
+                                            "mean": "n. 比赛；锦标赛；联赛；骑士马上比武大会；阅兵式"
+                                        },
+                                        {
+                                            "word": "treatment",
+                                            "mean": "n. 对待；待遇；美容护理；保健护理；治疗；处理；表现；讨论；疗程；医治"
+                                        },
+                                        {
+                                            "word": "movement",
+                                            "mean": "n. 动；移动；变动；团体；乐章；机械装置；可动装置；运动；活动；动向"
+                                        },
+                                        {
+                                            "word": "improvement",
+                                            "mean": "n. 进步的实例；改善；进步；增进；帮助改善之物"
+                                        },
+                                        {
+                                            "word": "refreshment",
+                                            "mean": "n. 饮料；点心；便餐；活力恢复"
+                                        },
+                                        {
+                                            "word": "advancement",
+                                            "mean": "n. 促进；发展；进步；提拔"
+                                        },
+                                        {
+                                            "word": "argument",
+                                            "mean": "n. 激烈的争吵；争执；争论；理由；证据；说理；论证；自变数；书的内容提要"
+                                        },
+                                        {
+                                            "word": "statement",
+                                            "mean": "n. 陈述；声明；报表；报道；账单；结算单；官方声明；供述；呈现"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "去动词化的抽象名词后缀, 通常表示\"某种行为或结果\"",
+                                    "affix_type": "suffix"
+                                }
+                            ],
+                            "affix": "-ment",
+                            "affix_mean": "具体的物"
+                        }
+                    ],
+                    "word_mean": "n. 文件"
+                },
+                "word_usage": [
+                    {
+                        "usage": "作名词时，意为“文档”，是可数名词；作动词时，意为“记录”，后接名词。"
+                    }
+                ]
+            },
+            "CET6": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 6,
+                        "pos": "n/v",
+                        "chinese": "文件; 记录; 记载",
+                        "sense_tier_ratio": 75
+                    },
+                    {
+                        "sense_tier": 1,
+                        "pos": "n",
+                        "chinese": "[计算机]文档; 文件",
+                        "sense_tier_ratio": 12.5
+                    },
+                    {
+                        "sense_tier": 1,
+                        "pos": "v",
+                        "chinese": "证明",
+                        "sense_tier_ratio": 12.5
+                    }
+                ],
+                "word": "document",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2016.6-2023.6年8年间全六级试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight>考纲释义</highlight>\n精选实考、考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2016-2023年51套试卷，包括阅读、听力、翻译等所有题型。\n\n<highlight>真题例句</highlight>\n精选2016-2023年8年间全六级试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 2,
+                "word_family": {
+                    "derivative_info_list": [
+                        {
+                            "derivative_info_list": [],
+                            "word": "documentary",
+                            "mean": "adj. 文件的；文献的；由文件组成的；纪实的"
+                        },
+                        {
+                            "derivative_info_list": [],
+                            "word": "documentation",
+                            "mean": "n. 文件；文献；分类；评注"
+                        }
+                    ],
+                    "word": "document",
+                    "mean": "n. 文件"
+                },
+                "total_exam_freq": 8,
+                "sense": {
+                    "sense_num": 3,
+                    "sense_info_list": [
+                        {
+                            "en": "an official paper or book that gives information about something, or that can be used as evidence or proof of something",
+                            "zh": "文件; 记录; 记载",
+                            "pos": "n/v",
+                            "synonyms": "record",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "Companies should stipulate that they will never ask for passwords, be consistent, <highlight>document</highlight> decisions.",
+                                    "month": 12,
+                                    "source": "CET6",
+                                    "coll": "",
+                                    "sentence_trans": "公司应该规定他们永远不会要求密码，保持一致，记录决策。",
+                                    "year": 2021,
+                                    "type": "阅读理解C",
+                                    "day": -1
+                                }
+                            ]
+                        },
+                        {
+                            "synonyms": "",
+                            "en": "a computer file that contains text that has a name that identifies it",
+                            "zh": "[计算机]文档; 文件",
+                            "pos": "n",
+                            "antonyms": ""
+                        },
+                        {
+                            "synonyms": "",
+                            "en": "support or accompany with documentation",
+                            "zh": "证明",
+                            "pos": "v",
+                            "antonyms": ""
+                        }
+                    ]
+                },
+                "word_affix": {
+                    "word": "document",
+                    "sub_affix_info_list": [
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "docile",
+                                            "mean": "adj. 驯服的；顺从的"
+                                        }
+                                    ],
+                                    "derivatives": "doct, doctr",
+                                    "affix_sense_chinese": "教(=teach)",
+                                    "affix_type": "stem"
+                                }
+                            ],
+                            "affix": "doc",
+                            "affix_mean": "教"
+                        },
+                        {
+                            "affix": "-u-",
+                            "affix_mean": ""
+                        },
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "apartment",
+                                            "mean": "n. 公寓套房; 一套公寓房间；一套公寓；公寓大楼；豪华公寓套房"
+                                        },
+                                        {
+                                            "word": "department",
+                                            "mean": "n. 部；处；司；系；专责；省；专长；特定方面"
+                                        },
+                                        {
+                                            "word": "equipment",
+                                            "mean": "n. 设备；器材；用具；装备；配备；知识；才能；素养；才智"
+                                        },
+                                        {
+                                            "word": "government",
+                                            "mean": "n. 政府；内阁；支配关系；控制；体制；政体；管理（国家、组织或人的）行为"
+                                        },
+                                        {
+                                            "word": "monument",
+                                            "mean": "n. 纪念物；纪念碑；纪念馆；纪念塔；纪念门；纪念像；丰碑；墓碑；遗址；历史遗迹"
+                                        },
+                                        {
+                                            "word": "pavement",
+                                            "mean": "n. 人行道；铺砌层；铺面；硬路面；裸露岩面；砾石滩"
+                                        },
+                                        {
+                                            "word": "pigment",
+                                            "mean": "n. 色素；颜料；涂料"
+                                        },
+                                        {
+                                            "word": "fragment",
+                                            "mean": "n. 碎片；碎块；破片；片段；片断；不完整的部分"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "名词后缀, 具体的物",
+                                    "affix_type": "suffix"
+                                },
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "accomplishment",
+                                            "mean": "n. 成就；成绩；完成；实现；才能；造诣；技能"
+                                        },
+                                        {
+                                            "word": "achievement",
+                                            "mean": "n. 成功；成就；达到；实现；纹章牌；学习成绩"
+                                        },
+                                        {
+                                            "word": "adjustment",
+                                            "mean": "n. 调整；调节；调节器；调解；适应"
+                                        },
+                                        {
+                                            "word": "advertisement",
+                                            "mean": "n. 广告；宣传；活广告；致读者；说明文字"
+                                        },
+                                        {
+                                            "word": "agreement",
+                                            "mean": "n. 协调一致；同意；一致意见；协定；一致；合同；契约；相容；呼应"
+                                        },
+                                        {
+                                            "word": "ailment",
+                                            "mean": "n. 微恙；小疾"
+                                        },
+                                        {
+                                            "word": "amazement",
+                                            "mean": "n. 惊愕；惊诧"
+                                        },
+                                        {
+                                            "word": "announcement",
+                                            "mean": "n. 宣告；通告；布告；启事；通知"
+                                        },
+                                        {
+                                            "word": "appointment",
+                                            "mean": "n. 约会；约定；任命；委派；家具；陈设；工作；岗位；被任命的人；受委任的人"
+                                        },
+                                        {
+                                            "word": "assessment",
+                                            "mean": "n. 评估；估计"
+                                        },
+                                        {
+                                            "word": "assignment",
+                                            "mean": "n. 任务；作业；归属；归因；转让；分配；指派；转让证书"
+                                        },
+                                        {
+                                            "word": "astonishment",
+                                            "mean": "n. 惊讶；惊愕"
+                                        },
+                                        {
+                                            "word": "augment",
+                                            "mean": "v. 增大；增加"
+                                        },
+                                        {
+                                            "word": "comment",
+                                            "mean": "n. 意见；评论；注释；注解；评注；议论；解说"
+                                        },
+                                        {
+                                            "word": "commitment",
+                                            "mean": "n. 献身；投入；约定；约束；义务；承诺；保证；拨出；留出"
+                                        },
+                                        {
+                                            "word": "complement",
+                                            "mean": "n. 补充；增强；足数；补足物；补足量；补语；补体；防御素；编制名额；定员"
+                                        },
+                                        {
+                                            "word": "compliment",
+                                            "mean": "n. 恭维；赞美；称赞；赞扬；敬意；祝贺；问候；尊重；致意"
+                                        },
+                                        {
+                                            "word": "confinement",
+                                            "mean": "n. 分娩；监禁；限制"
+                                        },
+                                        {
+                                            "word": "consignment",
+                                            "mean": "n. 托付物；委托物；寄存物；寄售物；托运物；寄售；委托；托运；交付；运送"
+                                        },
+                                        {
+                                            "word": "containment",
+                                            "mean": "n. 控制；抑制；封锁；遏制"
+                                        },
+                                        {
+                                            "word": "departmental",
+                                            "mean": "adj. 部门的"
+                                        },
+                                        {
+                                            "word": "development",
+                                            "mean": "n. 发展；开始；出现；显影；新发展；新产品；精品；新构想；新建楼区；发育（或成长、进化）的特定阶段"
+                                        },
+                                        {
+                                            "word": "disagreement",
+                                            "mean": "n. 意见不一；不同意；不一致；不符"
+                                        },
+                                        {
+                                            "word": "disillusionment",
+                                            "mean": "n. 失望；幻灭"
+                                        },
+                                        {
+                                            "word": "embarrassment",
+                                            "mean": "n. 尴尬；窘；难堪；经济困难；拮据；使人为难（或尴尬）的人"
+                                        },
+                                        {
+                                            "word": "embezzlement",
+                                            "mean": "n. 侵占；挪用；盗用；侵吞公款"
+                                        },
+                                        {
+                                            "word": "employment",
+                                            "mean": "n. 就业；受雇；应用；使用；工作；职业；雇用"
+                                        },
+                                        {
+                                            "word": "encroachment",
+                                            "mean": "n. 侵蚀；侵入；侵犯；侵占"
+                                        },
+                                        {
+                                            "word": "endorsement",
+                                            "mean": "n. 赞同；支持；认可；违章记录；背书；票据签字；对产品的推荐；保险单附加条款"
+                                        },
+                                        {
+                                            "word": "enforcement",
+                                            "mean": "n. 强制；执行；实施"
+                                        },
+                                        {
+                                            "word": "enjoyment",
+                                            "mean": "n. 享受；乐趣；享有；令人愉快的事物"
+                                        },
+                                        {
+                                            "word": "enrichment",
+                                            "mean": "n. 丰富；肥沃；浓缩；改进"
+                                        },
+                                        {
+                                            "word": "enrollment",
+                                            "mean": "n. 登记；注册；报名；入会；注册人数"
+                                        },
+                                        {
+                                            "word": "entertainment",
+                                            "mean": "n. 娱乐；娱乐活动；招待；款待；请客；文娱表演"
+                                        },
+                                        {
+                                            "word": "excitement",
+                                            "mean": "n. 兴奋；激动；性兴奋；令人兴奋的事"
+                                        },
+                                        {
+                                            "word": "experiment",
+                                            "mean": "n. 实验；试验"
+                                        },
+                                        {
+                                            "word": "figment",
+                                            "mean": "n. 臆造的事物"
+                                        },
+                                        {
+                                            "word": "filament",
+                                            "mean": "n. 丝；灯丝；丝极；花丝；暗条"
+                                        },
+                                        {
+                                            "word": "fragment",
+                                            "mean": "n. 碎片；碎块；破片；片段；片断；不完整的部分"
+                                        },
+                                        {
+                                            "word": "fragmentary",
+                                            "mean": "adj. 支离破碎的；由碎片组成的；不完整的"
+                                        },
+                                        {
+                                            "word": "fulfillment",
+                                            "mean": "n. 满意；满足；愉悦；实现（诺言的）履行；应验；对要求（或条件、需要的）满足；对任务（或职责、角色）的履行；执行"
+                                        },
+                                        {
+                                            "word": "impairment",
+                                            "mean": "n. 损伤；削弱"
+                                        },
+                                        {
+                                            "word": "imprisonment",
+                                            "mean": "n. 关押；监禁；禁锢"
+                                        },
+                                        {
+                                            "word": "increment",
+                                            "mean": "n. 增长；工资定量增长；定量加薪；正（或负）增量"
+                                        },
+                                        {
+                                            "word": "instrument",
+                                            "mean": "n. 仪器；器具；仪表；乐器；公文；文书；工具；方法；手段"
+                                        },
+                                        {
+                                            "word": "investment",
+                                            "mean": "n. 投资；包围；封锁；投入；付出；值得投资之物"
+                                        },
+                                        {
+                                            "word": "involvement",
+                                            "mean": "n. 卷入；牵连；参与；关联；牵扯"
+                                        },
+                                        {
+                                            "word": "management",
+                                            "mean": "n. 管理；欺骗；欺诈；管理层；管理人员；监控；经营管理；治疗"
+                                        },
+                                        {
+                                            "word": "measurement",
+                                            "mean": "n. 测量；数量；测量单位；度量制；尺寸"
+                                        },
+                                        {
+                                            "word": "mismanagement",
+                                            "mean": "n. 管理不善；处置失当"
+                                        },
+                                        {
+                                            "word": "ornament",
+                                            "mean": "n. 装饰品；增添光彩的品质；争光者；装饰；装饰音；礼拜用品；典礼用品"
+                                        },
+                                        {
+                                            "word": "parliament",
+                                            "mean": "n. 议会；全体议员；国会"
+                                        },
+                                        {
+                                            "word": "placement",
+                                            "mean": "n. 摆放；放置；安置；安排；安顿；实习岗位"
+                                        },
+                                        {
+                                            "word": "recruitment",
+                                            "mean": "n. 招募；征兵；招聘；招收；增长；募集"
+                                        },
+                                        {
+                                            "word": "reimbursement",
+                                            "mean": "n. 赔偿；偿还；补偿；退还"
+                                        },
+                                        {
+                                            "word": "reinforcement",
+                                            "mean": "n. 增援；增强；援军；增援部队；加深；增进；强化；增援力量；加固物；增强材料"
+                                        },
+                                        {
+                                            "word": "replacement",
+                                            "mean": "n. 替代；更换；复位；替代者；替代物；接替者"
+                                        },
+                                        {
+                                            "word": "requirement",
+                                            "mean": "n. 要求；必要条件；必需品"
+                                        },
+                                        {
+                                            "word": "resentment",
+                                            "mean": "n. 愤恨；怨恨"
+                                        },
+                                        {
+                                            "word": "retirement",
+                                            "mean": "n. 退休；退职；退役；退庭表决；引退；退隐；退休生活；退庭表决时间；停止参赛；退隐处"
+                                        },
+                                        {
+                                            "word": "sentiment",
+                                            "mean": "n. 观点；看法；感觉；情感；情绪；感伤；感想；愿望"
+                                        },
+                                        {
+                                            "word": "settlement",
+                                            "mean": "n. 正式协议；解决；定居点；财产赠与；结算；清账；沉降；定居；定居行动；和解"
+                                        },
+                                        {
+                                            "word": "supplement",
+                                            "mean": "n. 增补物；补充物；补角；补品；补给品；额外服务费用；增刊"
+                                        },
+                                        {
+                                            "word": "temperament",
+                                            "mean": "n. 气质；性情；性格；禀赋；调律；急躁脾气；容易兴奋（或激动）的性格；易变的性情"
+                                        },
+                                        {
+                                            "word": "torment",
+                                            "mean": "n. 折磨；痛苦；痛苦的原因"
+                                        },
+                                        {
+                                            "word": "tournament",
+                                            "mean": "n. 比赛；锦标赛；联赛；骑士马上比武大会；阅兵式"
+                                        },
+                                        {
+                                            "word": "treatment",
+                                            "mean": "n. 对待；待遇；美容护理；保健护理；治疗；处理；表现；讨论；疗程；医治"
+                                        },
+                                        {
+                                            "word": "movement",
+                                            "mean": "n. 动；移动；变动；团体；乐章；机械装置；可动装置；运动；活动；动向"
+                                        },
+                                        {
+                                            "word": "improvement",
+                                            "mean": "n. 进步的实例；改善；进步；增进；帮助改善之物"
+                                        },
+                                        {
+                                            "word": "refreshment",
+                                            "mean": "n. 饮料；点心；便餐；活力恢复"
+                                        },
+                                        {
+                                            "word": "advancement",
+                                            "mean": "n. 促进；发展；进步；提拔"
+                                        },
+                                        {
+                                            "word": "argument",
+                                            "mean": "n. 激烈的争吵；争执；争论；理由；证据；说理；论证；自变数；书的内容提要"
+                                        },
+                                        {
+                                            "word": "statement",
+                                            "mean": "n. 陈述；声明；报表；报道；账单；结算单；官方声明；供述；呈现"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "去动词化的抽象名词后缀, 通常表示\"某种行为或结果\"",
+                                    "affix_type": "suffix"
+                                }
+                            ],
+                            "affix": "-ment",
+                            "affix_mean": "具体的物"
+                        }
+                    ],
+                    "word_mean": "n. 文件"
+                },
+                "exchange_info": {
+                    "word_third": [
+                        "documents"
+                    ],
+                    "word_ing": [
+                        "documenting"
+                    ],
+                    "word_done": [
+                        "documented"
+                    ],
+                    "word_pl": [
+                        "documents"
+                    ],
+                    "word_past": [
+                        "documented"
+                    ]
+                }
+            },
+            "CET4": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 11,
+                        "pos": "n/v",
+                        "chinese": "文件; 记录; 记载",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "document",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2016.6-2023.6年8年间全四级试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight>考纲释义</highlight>\n精选实考、考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2016-2023年51套试卷，包括阅读、听力、翻译等所有题型。\n\n<highlight>真题例句</highlight>\n精选2016-2023年8年间试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 3,
+                "word_family": {
+                    "derivative_info_list": [
+                        {
+                            "derivative_info_list": [],
+                            "word": "documentary",
+                            "mean": "adj. 文件的；文献的；由文件组成的；纪实的"
+                        },
+                        {
+                            "derivative_info_list": [],
+                            "word": "undocumented",
+                            "mean": "adj. 未登记的；未注册的；无证明文件的；非法的；无证的"
+                        }
+                    ],
+                    "word": "document",
+                    "mean": "n. 文件"
+                },
+                "total_exam_freq": 11,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "an official paper or book that gives information about something; or that can be used as evidence or proof of something",
+                            "zh": "文件; 记录; 记载",
+                            "pos": "n/v",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "Wouldn't it be nice if there was genuine, scientifically <highlight>documented</highlight> truth to the expression \"what doesn't kill you makes you stronger\"?",
+                                    "month": 6,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "如果“杀不死你的东西会让你变得更强大”这句话有真实的、科学记录的真理，那不是很好吗？",
+                                    "year": 2021,
+                                    "type": "阅读理解B",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Archiving practices have changed greatly since the 1970s, and we keep our high value <highlight>documents</highlight> in a safe that I don't even have access to.",
+                                    "month": 6,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "自20世纪70年代以来，存档方式已经发生了很大的变化，而且我们把高价值文件保存在一个我都无法进入的保险箱里。",
+                                    "year": 2018,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Finally, the FBI received a tip that the stolen <highlight>document</highlight> was located very close to Washington, D. C. Their art crime team recovered the letter but were unable to press charges because the time of limitations had ended.",
+                                    "month": 6,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "最后，联邦调查局(FBI)收到线索，被盗文件的位置离华盛顿特区非常近。他们的艺术犯罪小组找回了这封信，但由于诉讼时效已经结束，无法提出指控。",
+                                    "year": 2018,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "word_affix": {
+                    "word": "document",
+                    "sub_affix_info_list": [
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "docile",
+                                            "mean": "adj. 驯服的；顺从的"
+                                        }
+                                    ],
+                                    "derivatives": "doct, doctr",
+                                    "affix_sense_chinese": "教(=teach)",
+                                    "affix_type": "stem"
+                                }
+                            ],
+                            "affix": "doc",
+                            "affix_mean": "教"
+                        },
+                        {
+                            "affix": "-u-",
+                            "affix_mean": ""
+                        },
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "apartment",
+                                            "mean": "n. 公寓套房; 一套公寓房间；一套公寓；公寓大楼；豪华公寓套房"
+                                        },
+                                        {
+                                            "word": "department",
+                                            "mean": "n. 部；处；司；系；专责；省；专长；特定方面"
+                                        },
+                                        {
+                                            "word": "equipment",
+                                            "mean": "n. 设备；器材；用具；装备；配备；知识；才能；素养；才智"
+                                        },
+                                        {
+                                            "word": "government",
+                                            "mean": "n. 政府；内阁；支配关系；控制；体制；政体；管理（国家、组织或人的）行为"
+                                        },
+                                        {
+                                            "word": "monument",
+                                            "mean": "n. 纪念物；纪念碑；纪念馆；纪念塔；纪念门；纪念像；丰碑；墓碑；遗址；历史遗迹"
+                                        },
+                                        {
+                                            "word": "pavement",
+                                            "mean": "n. 人行道；铺砌层；铺面；硬路面；裸露岩面；砾石滩"
+                                        },
+                                        {
+                                            "word": "pigment",
+                                            "mean": "n. 色素；颜料；涂料"
+                                        },
+                                        {
+                                            "word": "fragment",
+                                            "mean": "n. 碎片；碎块；破片；片段；片断；不完整的部分"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "名词后缀, 具体的物",
+                                    "affix_type": "suffix"
+                                },
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "accomplishment",
+                                            "mean": "n. 成就；成绩；完成；实现；才能；造诣；技能"
+                                        },
+                                        {
+                                            "word": "achievement",
+                                            "mean": "n. 成功；成就；达到；实现；纹章牌；学习成绩"
+                                        },
+                                        {
+                                            "word": "adjustment",
+                                            "mean": "n. 调整；调节；调节器；调解；适应"
+                                        },
+                                        {
+                                            "word": "advertisement",
+                                            "mean": "n. 广告；宣传；活广告；致读者；说明文字"
+                                        },
+                                        {
+                                            "word": "agreement",
+                                            "mean": "n. 协调一致；同意；一致意见；协定；一致；合同；契约；相容；呼应"
+                                        },
+                                        {
+                                            "word": "ailment",
+                                            "mean": "n. 微恙；小疾"
+                                        },
+                                        {
+                                            "word": "amazement",
+                                            "mean": "n. 惊愕；惊诧"
+                                        },
+                                        {
+                                            "word": "announcement",
+                                            "mean": "n. 宣告；通告；布告；启事；通知"
+                                        },
+                                        {
+                                            "word": "appointment",
+                                            "mean": "n. 约会；约定；任命；委派；家具；陈设；工作；岗位；被任命的人；受委任的人"
+                                        },
+                                        {
+                                            "word": "assessment",
+                                            "mean": "n. 评估；估计"
+                                        },
+                                        {
+                                            "word": "assignment",
+                                            "mean": "n. 任务；作业；归属；归因；转让；分配；指派；转让证书"
+                                        },
+                                        {
+                                            "word": "astonishment",
+                                            "mean": "n. 惊讶；惊愕"
+                                        },
+                                        {
+                                            "word": "augment",
+                                            "mean": "v. 增大；增加"
+                                        },
+                                        {
+                                            "word": "comment",
+                                            "mean": "n. 意见；评论；注释；注解；评注；议论；解说"
+                                        },
+                                        {
+                                            "word": "commitment",
+                                            "mean": "n. 献身；投入；约定；约束；义务；承诺；保证；拨出；留出"
+                                        },
+                                        {
+                                            "word": "complement",
+                                            "mean": "n. 补充；增强；足数；补足物；补足量；补语；补体；防御素；编制名额；定员"
+                                        },
+                                        {
+                                            "word": "compliment",
+                                            "mean": "n. 恭维；赞美；称赞；赞扬；敬意；祝贺；问候；尊重；致意"
+                                        },
+                                        {
+                                            "word": "confinement",
+                                            "mean": "n. 分娩；监禁；限制"
+                                        },
+                                        {
+                                            "word": "consignment",
+                                            "mean": "n. 托付物；委托物；寄存物；寄售物；托运物；寄售；委托；托运；交付；运送"
+                                        },
+                                        {
+                                            "word": "containment",
+                                            "mean": "n. 控制；抑制；封锁；遏制"
+                                        },
+                                        {
+                                            "word": "departmental",
+                                            "mean": "adj. 部门的"
+                                        },
+                                        {
+                                            "word": "development",
+                                            "mean": "n. 发展；开始；出现；显影；新发展；新产品；精品；新构想；新建楼区；发育（或成长、进化）的特定阶段"
+                                        },
+                                        {
+                                            "word": "disagreement",
+                                            "mean": "n. 意见不一；不同意；不一致；不符"
+                                        },
+                                        {
+                                            "word": "disillusionment",
+                                            "mean": "n. 失望；幻灭"
+                                        },
+                                        {
+                                            "word": "embarrassment",
+                                            "mean": "n. 尴尬；窘；难堪；经济困难；拮据；使人为难（或尴尬）的人"
+                                        },
+                                        {
+                                            "word": "embezzlement",
+                                            "mean": "n. 侵占；挪用；盗用；侵吞公款"
+                                        },
+                                        {
+                                            "word": "employment",
+                                            "mean": "n. 就业；受雇；应用；使用；工作；职业；雇用"
+                                        },
+                                        {
+                                            "word": "encroachment",
+                                            "mean": "n. 侵蚀；侵入；侵犯；侵占"
+                                        },
+                                        {
+                                            "word": "endorsement",
+                                            "mean": "n. 赞同；支持；认可；违章记录；背书；票据签字；对产品的推荐；保险单附加条款"
+                                        },
+                                        {
+                                            "word": "enforcement",
+                                            "mean": "n. 强制；执行；实施"
+                                        },
+                                        {
+                                            "word": "enjoyment",
+                                            "mean": "n. 享受；乐趣；享有；令人愉快的事物"
+                                        },
+                                        {
+                                            "word": "enrichment",
+                                            "mean": "n. 丰富；肥沃；浓缩；改进"
+                                        },
+                                        {
+                                            "word": "enrollment",
+                                            "mean": "n. 登记；注册；报名；入会；注册人数"
+                                        },
+                                        {
+                                            "word": "entertainment",
+                                            "mean": "n. 娱乐；娱乐活动；招待；款待；请客；文娱表演"
+                                        },
+                                        {
+                                            "word": "excitement",
+                                            "mean": "n. 兴奋；激动；性兴奋；令人兴奋的事"
+                                        },
+                                        {
+                                            "word": "experiment",
+                                            "mean": "n. 实验；试验"
+                                        },
+                                        {
+                                            "word": "figment",
+                                            "mean": "n. 臆造的事物"
+                                        },
+                                        {
+                                            "word": "filament",
+                                            "mean": "n. 丝；灯丝；丝极；花丝；暗条"
+                                        },
+                                        {
+                                            "word": "fragment",
+                                            "mean": "n. 碎片；碎块；破片；片段；片断；不完整的部分"
+                                        },
+                                        {
+                                            "word": "fragmentary",
+                                            "mean": "adj. 支离破碎的；由碎片组成的；不完整的"
+                                        },
+                                        {
+                                            "word": "fulfillment",
+                                            "mean": "n. 满意；满足；愉悦；实现（诺言的）履行；应验；对要求（或条件、需要的）满足；对任务（或职责、角色）的履行；执行"
+                                        },
+                                        {
+                                            "word": "impairment",
+                                            "mean": "n. 损伤；削弱"
+                                        },
+                                        {
+                                            "word": "imprisonment",
+                                            "mean": "n. 关押；监禁；禁锢"
+                                        },
+                                        {
+                                            "word": "increment",
+                                            "mean": "n. 增长；工资定量增长；定量加薪；正（或负）增量"
+                                        },
+                                        {
+                                            "word": "instrument",
+                                            "mean": "n. 仪器；器具；仪表；乐器；公文；文书；工具；方法；手段"
+                                        },
+                                        {
+                                            "word": "investment",
+                                            "mean": "n. 投资；包围；封锁；投入；付出；值得投资之物"
+                                        },
+                                        {
+                                            "word": "involvement",
+                                            "mean": "n. 卷入；牵连；参与；关联；牵扯"
+                                        },
+                                        {
+                                            "word": "management",
+                                            "mean": "n. 管理；欺骗；欺诈；管理层；管理人员；监控；经营管理；治疗"
+                                        },
+                                        {
+                                            "word": "measurement",
+                                            "mean": "n. 测量；数量；测量单位；度量制；尺寸"
+                                        },
+                                        {
+                                            "word": "mismanagement",
+                                            "mean": "n. 管理不善；处置失当"
+                                        },
+                                        {
+                                            "word": "ornament",
+                                            "mean": "n. 装饰品；增添光彩的品质；争光者；装饰；装饰音；礼拜用品；典礼用品"
+                                        },
+                                        {
+                                            "word": "parliament",
+                                            "mean": "n. 议会；全体议员；国会"
+                                        },
+                                        {
+                                            "word": "placement",
+                                            "mean": "n. 摆放；放置；安置；安排；安顿；实习岗位"
+                                        },
+                                        {
+                                            "word": "recruitment",
+                                            "mean": "n. 招募；征兵；招聘；招收；增长；募集"
+                                        },
+                                        {
+                                            "word": "reimbursement",
+                                            "mean": "n. 赔偿；偿还；补偿；退还"
+                                        },
+                                        {
+                                            "word": "reinforcement",
+                                            "mean": "n. 增援；增强；援军；增援部队；加深；增进；强化；增援力量；加固物；增强材料"
+                                        },
+                                        {
+                                            "word": "replacement",
+                                            "mean": "n. 替代；更换；复位；替代者；替代物；接替者"
+                                        },
+                                        {
+                                            "word": "requirement",
+                                            "mean": "n. 要求；必要条件；必需品"
+                                        },
+                                        {
+                                            "word": "resentment",
+                                            "mean": "n. 愤恨；怨恨"
+                                        },
+                                        {
+                                            "word": "retirement",
+                                            "mean": "n. 退休；退职；退役；退庭表决；引退；退隐；退休生活；退庭表决时间；停止参赛；退隐处"
+                                        },
+                                        {
+                                            "word": "sentiment",
+                                            "mean": "n. 观点；看法；感觉；情感；情绪；感伤；感想；愿望"
+                                        },
+                                        {
+                                            "word": "settlement",
+                                            "mean": "n. 正式协议；解决；定居点；财产赠与；结算；清账；沉降；定居；定居行动；和解"
+                                        },
+                                        {
+                                            "word": "supplement",
+                                            "mean": "n. 增补物；补充物；补角；补品；补给品；额外服务费用；增刊"
+                                        },
+                                        {
+                                            "word": "temperament",
+                                            "mean": "n. 气质；性情；性格；禀赋；调律；急躁脾气；容易兴奋（或激动）的性格；易变的性情"
+                                        },
+                                        {
+                                            "word": "torment",
+                                            "mean": "n. 折磨；痛苦；痛苦的原因"
+                                        },
+                                        {
+                                            "word": "tournament",
+                                            "mean": "n. 比赛；锦标赛；联赛；骑士马上比武大会；阅兵式"
+                                        },
+                                        {
+                                            "word": "treatment",
+                                            "mean": "n. 对待；待遇；美容护理；保健护理；治疗；处理；表现；讨论；疗程；医治"
+                                        },
+                                        {
+                                            "word": "movement",
+                                            "mean": "n. 动；移动；变动；团体；乐章；机械装置；可动装置；运动；活动；动向"
+                                        },
+                                        {
+                                            "word": "improvement",
+                                            "mean": "n. 进步的实例；改善；进步；增进；帮助改善之物"
+                                        },
+                                        {
+                                            "word": "refreshment",
+                                            "mean": "n. 饮料；点心；便餐；活力恢复"
+                                        },
+                                        {
+                                            "word": "advancement",
+                                            "mean": "n. 促进；发展；进步；提拔"
+                                        },
+                                        {
+                                            "word": "argument",
+                                            "mean": "n. 激烈的争吵；争执；争论；理由；证据；说理；论证；自变数；书的内容提要"
+                                        },
+                                        {
+                                            "word": "statement",
+                                            "mean": "n. 陈述；声明；报表；报道；账单；结算单；官方声明；供述；呈现"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "去动词化的抽象名词后缀, 通常表示\"某种行为或结果\"",
+                                    "affix_type": "suffix"
+                                }
+                            ],
+                            "affix": "-ment",
+                            "affix_mean": "具体的物"
+                        }
+                    ],
+                    "word_mean": "n. 文件"
+                },
+                "exchange_info": {
+                    "word_third": [
+                        "documents"
+                    ],
+                    "word_ing": [
+                        "documenting"
+                    ],
+                    "word_done": [
+                        "documented"
+                    ],
+                    "word_pl": [
+                        "documents"
+                    ],
+                    "word_past": [
+                        "documented"
+                    ]
+                }
+            },
+            "gaokao": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 1,
+                        "pos": "v",
+                        "chinese": "记录; 记载",
+                        "sense_tier_ratio": 100
+                    },
+                    {
+                        "sense_tier": 0,
+                        "pos": "n",
+                        "chinese": "文件; 文献",
+                        "sense_tier_ratio": 0
+                    }
+                ],
+                "word": "document",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2015-2022年8年间全国卷和自主命题省市高考卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2015-2022年全国卷高考试卷，包括阅读、完形、单选、填空、听力、改错、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选各省市考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2015-2022年8年间全国卷和自主命题省市高考卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 1,
+                "word_family": {
+                    "derivative_info_list": [
+                        {
+                            "derivative_info_list": [],
+                            "word": "documentary",
+                            "mean": "adj. 文件的；文献的；由文件组成的；纪实的"
+                        }
+                    ],
+                    "word": "document",
+                    "mean": "n. 文件"
+                },
+                "total_exam_freq": 1,
+                "sense": {
+                    "sense_num": 2,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "记录; 记载",
+                            "pos": "v",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "He <highlight>documented</highlight> his journey as he set about treating nature as a brand to be marketed to young people.",
+                                    "month": -1,
+                                    "source": "浙江卷",
+                                    "coll": "",
+                                    "sentence_trans": "他记录了他的旅程，因为他开始把大自然作为一个品牌，向年轻人推销。",
+                                    "year": 2021,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                }
+                            ]
+                        },
+                        {
+                            "synonyms": "",
+                            "en": "",
+                            "zh": "文件; 文献",
+                            "pos": "n",
+                            "antonyms": ""
+                        }
+                    ]
+                },
+                "word_affix": {
+                    "word": "document",
+                    "sub_affix_info_list": [
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "docile",
+                                            "mean": "adj. 驯服的；顺从的"
+                                        }
+                                    ],
+                                    "derivatives": "doct, doctr",
+                                    "affix_sense_chinese": "教(=teach)",
+                                    "affix_type": "stem"
+                                }
+                            ],
+                            "affix": "doc",
+                            "affix_mean": "教"
+                        },
+                        {
+                            "affix": "-u-",
+                            "affix_mean": ""
+                        },
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "apartment",
+                                            "mean": "n. 公寓套房; 一套公寓房间；一套公寓；公寓大楼；豪华公寓套房"
+                                        },
+                                        {
+                                            "word": "department",
+                                            "mean": "n. 部；处；司；系；专责；省；专长；特定方面"
+                                        },
+                                        {
+                                            "word": "equipment",
+                                            "mean": "n. 设备；器材；用具；装备；配备；知识；才能；素养；才智"
+                                        },
+                                        {
+                                            "word": "government",
+                                            "mean": "n. 政府；内阁；支配关系；控制；体制；政体；管理（国家、组织或人的）行为"
+                                        },
+                                        {
+                                            "word": "monument",
+                                            "mean": "n. 纪念物；纪念碑；纪念馆；纪念塔；纪念门；纪念像；丰碑；墓碑；遗址；历史遗迹"
+                                        },
+                                        {
+                                            "word": "pavement",
+                                            "mean": "n. 人行道；铺砌层；铺面；硬路面；裸露岩面；砾石滩"
+                                        },
+                                        {
+                                            "word": "pigment",
+                                            "mean": "n. 色素；颜料；涂料"
+                                        },
+                                        {
+                                            "word": "fragment",
+                                            "mean": "n. 碎片；碎块；破片；片段；片断；不完整的部分"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "名词后缀, 具体的物",
+                                    "affix_type": "suffix"
+                                },
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "accomplishment",
+                                            "mean": "n. 成就；成绩；完成；实现；才能；造诣；技能"
+                                        },
+                                        {
+                                            "word": "achievement",
+                                            "mean": "n. 成功；成就；达到；实现；纹章牌；学习成绩"
+                                        },
+                                        {
+                                            "word": "adjustment",
+                                            "mean": "n. 调整；调节；调节器；调解；适应"
+                                        },
+                                        {
+                                            "word": "advertisement",
+                                            "mean": "n. 广告；宣传；活广告；致读者；说明文字"
+                                        },
+                                        {
+                                            "word": "agreement",
+                                            "mean": "n. 协调一致；同意；一致意见；协定；一致；合同；契约；相容；呼应"
+                                        },
+                                        {
+                                            "word": "ailment",
+                                            "mean": "n. 微恙；小疾"
+                                        },
+                                        {
+                                            "word": "amazement",
+                                            "mean": "n. 惊愕；惊诧"
+                                        },
+                                        {
+                                            "word": "announcement",
+                                            "mean": "n. 宣告；通告；布告；启事；通知"
+                                        },
+                                        {
+                                            "word": "appointment",
+                                            "mean": "n. 约会；约定；任命；委派；家具；陈设；工作；岗位；被任命的人；受委任的人"
+                                        },
+                                        {
+                                            "word": "assessment",
+                                            "mean": "n. 评估；估计"
+                                        },
+                                        {
+                                            "word": "assignment",
+                                            "mean": "n. 任务；作业；归属；归因；转让；分配；指派；转让证书"
+                                        },
+                                        {
+                                            "word": "astonishment",
+                                            "mean": "n. 惊讶；惊愕"
+                                        },
+                                        {
+                                            "word": "augment",
+                                            "mean": "v. 增大；增加"
+                                        },
+                                        {
+                                            "word": "comment",
+                                            "mean": "n. 意见；评论；注释；注解；评注；议论；解说"
+                                        },
+                                        {
+                                            "word": "commitment",
+                                            "mean": "n. 献身；投入；约定；约束；义务；承诺；保证；拨出；留出"
+                                        },
+                                        {
+                                            "word": "complement",
+                                            "mean": "n. 补充；增强；足数；补足物；补足量；补语；补体；防御素；编制名额；定员"
+                                        },
+                                        {
+                                            "word": "compliment",
+                                            "mean": "n. 恭维；赞美；称赞；赞扬；敬意；祝贺；问候；尊重；致意"
+                                        },
+                                        {
+                                            "word": "confinement",
+                                            "mean": "n. 分娩；监禁；限制"
+                                        },
+                                        {
+                                            "word": "consignment",
+                                            "mean": "n. 托付物；委托物；寄存物；寄售物；托运物；寄售；委托；托运；交付；运送"
+                                        },
+                                        {
+                                            "word": "containment",
+                                            "mean": "n. 控制；抑制；封锁；遏制"
+                                        },
+                                        {
+                                            "word": "departmental",
+                                            "mean": "adj. 部门的"
+                                        },
+                                        {
+                                            "word": "development",
+                                            "mean": "n. 发展；开始；出现；显影；新发展；新产品；精品；新构想；新建楼区；发育（或成长、进化）的特定阶段"
+                                        },
+                                        {
+                                            "word": "disagreement",
+                                            "mean": "n. 意见不一；不同意；不一致；不符"
+                                        },
+                                        {
+                                            "word": "disillusionment",
+                                            "mean": "n. 失望；幻灭"
+                                        },
+                                        {
+                                            "word": "embarrassment",
+                                            "mean": "n. 尴尬；窘；难堪；经济困难；拮据；使人为难（或尴尬）的人"
+                                        },
+                                        {
+                                            "word": "embezzlement",
+                                            "mean": "n. 侵占；挪用；盗用；侵吞公款"
+                                        },
+                                        {
+                                            "word": "employment",
+                                            "mean": "n. 就业；受雇；应用；使用；工作；职业；雇用"
+                                        },
+                                        {
+                                            "word": "encroachment",
+                                            "mean": "n. 侵蚀；侵入；侵犯；侵占"
+                                        },
+                                        {
+                                            "word": "endorsement",
+                                            "mean": "n. 赞同；支持；认可；违章记录；背书；票据签字；对产品的推荐；保险单附加条款"
+                                        },
+                                        {
+                                            "word": "enforcement",
+                                            "mean": "n. 强制；执行；实施"
+                                        },
+                                        {
+                                            "word": "enjoyment",
+                                            "mean": "n. 享受；乐趣；享有；令人愉快的事物"
+                                        },
+                                        {
+                                            "word": "enrichment",
+                                            "mean": "n. 丰富；肥沃；浓缩；改进"
+                                        },
+                                        {
+                                            "word": "enrollment",
+                                            "mean": "n. 登记；注册；报名；入会；注册人数"
+                                        },
+                                        {
+                                            "word": "entertainment",
+                                            "mean": "n. 娱乐；娱乐活动；招待；款待；请客；文娱表演"
+                                        },
+                                        {
+                                            "word": "excitement",
+                                            "mean": "n. 兴奋；激动；性兴奋；令人兴奋的事"
+                                        },
+                                        {
+                                            "word": "experiment",
+                                            "mean": "n. 实验；试验"
+                                        },
+                                        {
+                                            "word": "figment",
+                                            "mean": "n. 臆造的事物"
+                                        },
+                                        {
+                                            "word": "filament",
+                                            "mean": "n. 丝；灯丝；丝极；花丝；暗条"
+                                        },
+                                        {
+                                            "word": "fragment",
+                                            "mean": "n. 碎片；碎块；破片；片段；片断；不完整的部分"
+                                        },
+                                        {
+                                            "word": "fragmentary",
+                                            "mean": "adj. 支离破碎的；由碎片组成的；不完整的"
+                                        },
+                                        {
+                                            "word": "fulfillment",
+                                            "mean": "n. 满意；满足；愉悦；实现（诺言的）履行；应验；对要求（或条件、需要的）满足；对任务（或职责、角色）的履行；执行"
+                                        },
+                                        {
+                                            "word": "impairment",
+                                            "mean": "n. 损伤；削弱"
+                                        },
+                                        {
+                                            "word": "imprisonment",
+                                            "mean": "n. 关押；监禁；禁锢"
+                                        },
+                                        {
+                                            "word": "increment",
+                                            "mean": "n. 增长；工资定量增长；定量加薪；正（或负）增量"
+                                        },
+                                        {
+                                            "word": "instrument",
+                                            "mean": "n. 仪器；器具；仪表；乐器；公文；文书；工具；方法；手段"
+                                        },
+                                        {
+                                            "word": "investment",
+                                            "mean": "n. 投资；包围；封锁；投入；付出；值得投资之物"
+                                        },
+                                        {
+                                            "word": "involvement",
+                                            "mean": "n. 卷入；牵连；参与；关联；牵扯"
+                                        },
+                                        {
+                                            "word": "management",
+                                            "mean": "n. 管理；欺骗；欺诈；管理层；管理人员；监控；经营管理；治疗"
+                                        },
+                                        {
+                                            "word": "measurement",
+                                            "mean": "n. 测量；数量；测量单位；度量制；尺寸"
+                                        },
+                                        {
+                                            "word": "mismanagement",
+                                            "mean": "n. 管理不善；处置失当"
+                                        },
+                                        {
+                                            "word": "ornament",
+                                            "mean": "n. 装饰品；增添光彩的品质；争光者；装饰；装饰音；礼拜用品；典礼用品"
+                                        },
+                                        {
+                                            "word": "parliament",
+                                            "mean": "n. 议会；全体议员；国会"
+                                        },
+                                        {
+                                            "word": "placement",
+                                            "mean": "n. 摆放；放置；安置；安排；安顿；实习岗位"
+                                        },
+                                        {
+                                            "word": "recruitment",
+                                            "mean": "n. 招募；征兵；招聘；招收；增长；募集"
+                                        },
+                                        {
+                                            "word": "reimbursement",
+                                            "mean": "n. 赔偿；偿还；补偿；退还"
+                                        },
+                                        {
+                                            "word": "reinforcement",
+                                            "mean": "n. 增援；增强；援军；增援部队；加深；增进；强化；增援力量；加固物；增强材料"
+                                        },
+                                        {
+                                            "word": "replacement",
+                                            "mean": "n. 替代；更换；复位；替代者；替代物；接替者"
+                                        },
+                                        {
+                                            "word": "requirement",
+                                            "mean": "n. 要求；必要条件；必需品"
+                                        },
+                                        {
+                                            "word": "resentment",
+                                            "mean": "n. 愤恨；怨恨"
+                                        },
+                                        {
+                                            "word": "retirement",
+                                            "mean": "n. 退休；退职；退役；退庭表决；引退；退隐；退休生活；退庭表决时间；停止参赛；退隐处"
+                                        },
+                                        {
+                                            "word": "sentiment",
+                                            "mean": "n. 观点；看法；感觉；情感；情绪；感伤；感想；愿望"
+                                        },
+                                        {
+                                            "word": "settlement",
+                                            "mean": "n. 正式协议；解决；定居点；财产赠与；结算；清账；沉降；定居；定居行动；和解"
+                                        },
+                                        {
+                                            "word": "supplement",
+                                            "mean": "n. 增补物；补充物；补角；补品；补给品；额外服务费用；增刊"
+                                        },
+                                        {
+                                            "word": "temperament",
+                                            "mean": "n. 气质；性情；性格；禀赋；调律；急躁脾气；容易兴奋（或激动）的性格；易变的性情"
+                                        },
+                                        {
+                                            "word": "torment",
+                                            "mean": "n. 折磨；痛苦；痛苦的原因"
+                                        },
+                                        {
+                                            "word": "tournament",
+                                            "mean": "n. 比赛；锦标赛；联赛；骑士马上比武大会；阅兵式"
+                                        },
+                                        {
+                                            "word": "treatment",
+                                            "mean": "n. 对待；待遇；美容护理；保健护理；治疗；处理；表现；讨论；疗程；医治"
+                                        },
+                                        {
+                                            "word": "movement",
+                                            "mean": "n. 动；移动；变动；团体；乐章；机械装置；可动装置；运动；活动；动向"
+                                        },
+                                        {
+                                            "word": "improvement",
+                                            "mean": "n. 进步的实例；改善；进步；增进；帮助改善之物"
+                                        },
+                                        {
+                                            "word": "refreshment",
+                                            "mean": "n. 饮料；点心；便餐；活力恢复"
+                                        },
+                                        {
+                                            "word": "advancement",
+                                            "mean": "n. 促进；发展；进步；提拔"
+                                        },
+                                        {
+                                            "word": "argument",
+                                            "mean": "n. 激烈的争吵；争执；争论；理由；证据；说理；论证；自变数；书的内容提要"
+                                        },
+                                        {
+                                            "word": "statement",
+                                            "mean": "n. 陈述；声明；报表；报道；账单；结算单；官方声明；供述；呈现"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "去动词化的抽象名词后缀, 通常表示\"某种行为或结果\"",
+                                    "affix_type": "suffix"
+                                }
+                            ],
+                            "affix": "-ment",
+                            "affix_mean": "具体的物"
+                        }
+                    ],
+                    "word_mean": "n. 文件"
+                }
+            },
+            "zhongkao": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 2,
+                        "pos": "cn",
+                        "chinese": "文件",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "document",
+                "direction_info": {
+                    "ranges": 4,
+                    "description": "数据源自2018-2021年4年间全国各省市中考试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2018-2021年全国重点省市中考试卷，包括听力、阅读、完形、单选、填空、改错、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选各省市考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2018-2021年4年间全国各省市中考试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 1,
+                "word_family": {
+                    "derivative_info_list": [
+                        {
+                            "derivative_info_list": [],
+                            "word": "documentary",
+                            "mean": "adj. 文件的；文献的；由文件组成的；纪实的"
+                        }
+                    ],
+                    "word": "document",
+                    "mean": "n. 文件"
+                },
+                "total_exam_freq": 2,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "文件",
+                            "pos": "cn",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "The Civil Code gathers them into one unified <highlight>document</highlight> and makes improvements.",
+                                    "month": -1,
+                                    "source": "达州市卷",
+                                    "coll": "",
+                                    "sentence_trans": "《民法典》将它们汇集到一个统一的文件中，并进行了改进。",
+                                    "year": 2021,
+                                    "type": "词汇运用",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "I make a copy of important <highlight>documents</highlight>.",
+                                    "month": -1,
+                                    "source": "潍坊市卷",
+                                    "coll": "",
+                                    "sentence_trans": "我复印了一份重要文件。",
+                                    "year": 2019,
+                                    "type": "完形填空",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "word_affix": {
+                    "sub_affix_info_list": [
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "docile",
+                                            "mean": "adj. 驯服的；顺从的"
+                                        }
+                                    ],
+                                    "derivatives": "doct, doctr",
+                                    "affix_sense_chinese": "教(=teach)",
+                                    "affix_type": "stem"
+                                }
+                            ],
+                            "affix": "doc",
+                            "affix_mean": "教"
+                        },
+                        {
+                            "affix": "-u-",
+                            "affix_mean": ""
+                        },
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "apartment",
+                                            "mean": "n. 公寓套房; 一套公寓房间；一套公寓；公寓大楼；豪华公寓套房"
+                                        },
+                                        {
+                                            "word": "department",
+                                            "mean": "n. 部；处；司；系；专责；省；专长；特定方面"
+                                        },
+                                        {
+                                            "word": "equipment",
+                                            "mean": "n. 设备；器材；用具；装备；配备；知识；才能；素养；才智"
+                                        },
+                                        {
+                                            "word": "government",
+                                            "mean": "n. 政府；内阁；支配关系；控制；体制；政体；管理（国家、组织或人的）行为"
+                                        },
+                                        {
+                                            "word": "monument",
+                                            "mean": "n. 纪念物；纪念碑；纪念馆；纪念塔；纪念门；纪念像；丰碑；墓碑；遗址；历史遗迹"
+                                        },
+                                        {
+                                            "word": "pavement",
+                                            "mean": "n. 人行道；铺砌层；铺面；硬路面；裸露岩面；砾石滩"
+                                        },
+                                        {
+                                            "word": "pigment",
+                                            "mean": "n. 色素；颜料；涂料"
+                                        },
+                                        {
+                                            "word": "fragment",
+                                            "mean": "n. 碎片；碎块；破片；片段；片断；不完整的部分"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "名词后缀, 具体的物",
+                                    "affix_type": "suffix"
+                                },
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "accomplishment",
+                                            "mean": "n. 成就；成绩；完成；实现；才能；造诣；技能"
+                                        },
+                                        {
+                                            "word": "achievement",
+                                            "mean": "n. 成功；成就；达到；实现；纹章牌；学习成绩"
+                                        },
+                                        {
+                                            "word": "adjustment",
+                                            "mean": "n. 调整；调节；调节器；调解；适应"
+                                        },
+                                        {
+                                            "word": "advertisement",
+                                            "mean": "n. 广告；宣传；活广告；致读者；说明文字"
+                                        },
+                                        {
+                                            "word": "agreement",
+                                            "mean": "n. 协调一致；同意；一致意见；协定；一致；合同；契约；相容；呼应"
+                                        },
+                                        {
+                                            "word": "ailment",
+                                            "mean": "n. 微恙；小疾"
+                                        },
+                                        {
+                                            "word": "amazement",
+                                            "mean": "n. 惊愕；惊诧"
+                                        },
+                                        {
+                                            "word": "announcement",
+                                            "mean": "n. 宣告；通告；布告；启事；通知"
+                                        },
+                                        {
+                                            "word": "appointment",
+                                            "mean": "n. 约会；约定；任命；委派；家具；陈设；工作；岗位；被任命的人；受委任的人"
+                                        },
+                                        {
+                                            "word": "assessment",
+                                            "mean": "n. 评估；估计"
+                                        },
+                                        {
+                                            "word": "assignment",
+                                            "mean": "n. 任务；作业；归属；归因；转让；分配；指派；转让证书"
+                                        },
+                                        {
+                                            "word": "astonishment",
+                                            "mean": "n. 惊讶；惊愕"
+                                        },
+                                        {
+                                            "word": "augment",
+                                            "mean": "v. 增大；增加"
+                                        },
+                                        {
+                                            "word": "comment",
+                                            "mean": "n. 意见；评论；注释；注解；评注；议论；解说"
+                                        },
+                                        {
+                                            "word": "commitment",
+                                            "mean": "n. 献身；投入；约定；约束；义务；承诺；保证；拨出；留出"
+                                        },
+                                        {
+                                            "word": "complement",
+                                            "mean": "n. 补充；增强；足数；补足物；补足量；补语；补体；防御素；编制名额；定员"
+                                        },
+                                        {
+                                            "word": "compliment",
+                                            "mean": "n. 恭维；赞美；称赞；赞扬；敬意；祝贺；问候；尊重；致意"
+                                        },
+                                        {
+                                            "word": "confinement",
+                                            "mean": "n. 分娩；监禁；限制"
+                                        },
+                                        {
+                                            "word": "consignment",
+                                            "mean": "n. 托付物；委托物；寄存物；寄售物；托运物；寄售；委托；托运；交付；运送"
+                                        },
+                                        {
+                                            "word": "containment",
+                                            "mean": "n. 控制；抑制；封锁；遏制"
+                                        },
+                                        {
+                                            "word": "departmental",
+                                            "mean": "adj. 部门的"
+                                        },
+                                        {
+                                            "word": "development",
+                                            "mean": "n. 发展；开始；出现；显影；新发展；新产品；精品；新构想；新建楼区；发育（或成长、进化）的特定阶段"
+                                        },
+                                        {
+                                            "word": "disagreement",
+                                            "mean": "n. 意见不一；不同意；不一致；不符"
+                                        },
+                                        {
+                                            "word": "disillusionment",
+                                            "mean": "n. 失望；幻灭"
+                                        },
+                                        {
+                                            "word": "embarrassment",
+                                            "mean": "n. 尴尬；窘；难堪；经济困难；拮据；使人为难（或尴尬）的人"
+                                        },
+                                        {
+                                            "word": "embezzlement",
+                                            "mean": "n. 侵占；挪用；盗用；侵吞公款"
+                                        },
+                                        {
+                                            "word": "employment",
+                                            "mean": "n. 就业；受雇；应用；使用；工作；职业；雇用"
+                                        },
+                                        {
+                                            "word": "encroachment",
+                                            "mean": "n. 侵蚀；侵入；侵犯；侵占"
+                                        },
+                                        {
+                                            "word": "endorsement",
+                                            "mean": "n. 赞同；支持；认可；违章记录；背书；票据签字；对产品的推荐；保险单附加条款"
+                                        },
+                                        {
+                                            "word": "enforcement",
+                                            "mean": "n. 强制；执行；实施"
+                                        },
+                                        {
+                                            "word": "enjoyment",
+                                            "mean": "n. 享受；乐趣；享有；令人愉快的事物"
+                                        },
+                                        {
+                                            "word": "enrichment",
+                                            "mean": "n. 丰富；肥沃；浓缩；改进"
+                                        },
+                                        {
+                                            "word": "enrollment",
+                                            "mean": "n. 登记；注册；报名；入会；注册人数"
+                                        },
+                                        {
+                                            "word": "entertainment",
+                                            "mean": "n. 娱乐；娱乐活动；招待；款待；请客；文娱表演"
+                                        },
+                                        {
+                                            "word": "excitement",
+                                            "mean": "n. 兴奋；激动；性兴奋；令人兴奋的事"
+                                        },
+                                        {
+                                            "word": "experiment",
+                                            "mean": "n. 实验；试验"
+                                        },
+                                        {
+                                            "word": "figment",
+                                            "mean": "n. 臆造的事物"
+                                        },
+                                        {
+                                            "word": "filament",
+                                            "mean": "n. 丝；灯丝；丝极；花丝；暗条"
+                                        },
+                                        {
+                                            "word": "fragment",
+                                            "mean": "n. 碎片；碎块；破片；片段；片断；不完整的部分"
+                                        },
+                                        {
+                                            "word": "fragmentary",
+                                            "mean": "adj. 支离破碎的；由碎片组成的；不完整的"
+                                        },
+                                        {
+                                            "word": "fulfillment",
+                                            "mean": "n. 满意；满足；愉悦；实现（诺言的）履行；应验；对要求（或条件、需要的）满足；对任务（或职责、角色）的履行；执行"
+                                        },
+                                        {
+                                            "word": "impairment",
+                                            "mean": "n. 损伤；削弱"
+                                        },
+                                        {
+                                            "word": "imprisonment",
+                                            "mean": "n. 关押；监禁；禁锢"
+                                        },
+                                        {
+                                            "word": "increment",
+                                            "mean": "n. 增长；工资定量增长；定量加薪；正（或负）增量"
+                                        },
+                                        {
+                                            "word": "instrument",
+                                            "mean": "n. 仪器；器具；仪表；乐器；公文；文书；工具；方法；手段"
+                                        },
+                                        {
+                                            "word": "investment",
+                                            "mean": "n. 投资；包围；封锁；投入；付出；值得投资之物"
+                                        },
+                                        {
+                                            "word": "involvement",
+                                            "mean": "n. 卷入；牵连；参与；关联；牵扯"
+                                        },
+                                        {
+                                            "word": "management",
+                                            "mean": "n. 管理；欺骗；欺诈；管理层；管理人员；监控；经营管理；治疗"
+                                        },
+                                        {
+                                            "word": "measurement",
+                                            "mean": "n. 测量；数量；测量单位；度量制；尺寸"
+                                        },
+                                        {
+                                            "word": "mismanagement",
+                                            "mean": "n. 管理不善；处置失当"
+                                        },
+                                        {
+                                            "word": "ornament",
+                                            "mean": "n. 装饰品；增添光彩的品质；争光者；装饰；装饰音；礼拜用品；典礼用品"
+                                        },
+                                        {
+                                            "word": "parliament",
+                                            "mean": "n. 议会；全体议员；国会"
+                                        },
+                                        {
+                                            "word": "placement",
+                                            "mean": "n. 摆放；放置；安置；安排；安顿；实习岗位"
+                                        },
+                                        {
+                                            "word": "recruitment",
+                                            "mean": "n. 招募；征兵；招聘；招收；增长；募集"
+                                        },
+                                        {
+                                            "word": "reimbursement",
+                                            "mean": "n. 赔偿；偿还；补偿；退还"
+                                        },
+                                        {
+                                            "word": "reinforcement",
+                                            "mean": "n. 增援；增强；援军；增援部队；加深；增进；强化；增援力量；加固物；增强材料"
+                                        },
+                                        {
+                                            "word": "replacement",
+                                            "mean": "n. 替代；更换；复位；替代者；替代物；接替者"
+                                        },
+                                        {
+                                            "word": "requirement",
+                                            "mean": "n. 要求；必要条件；必需品"
+                                        },
+                                        {
+                                            "word": "resentment",
+                                            "mean": "n. 愤恨；怨恨"
+                                        },
+                                        {
+                                            "word": "retirement",
+                                            "mean": "n. 退休；退职；退役；退庭表决；引退；退隐；退休生活；退庭表决时间；停止参赛；退隐处"
+                                        },
+                                        {
+                                            "word": "sentiment",
+                                            "mean": "n. 观点；看法；感觉；情感；情绪；感伤；感想；愿望"
+                                        },
+                                        {
+                                            "word": "settlement",
+                                            "mean": "n. 正式协议；解决；定居点；财产赠与；结算；清账；沉降；定居；定居行动；和解"
+                                        },
+                                        {
+                                            "word": "supplement",
+                                            "mean": "n. 增补物；补充物；补角；补品；补给品；额外服务费用；增刊"
+                                        },
+                                        {
+                                            "word": "temperament",
+                                            "mean": "n. 气质；性情；性格；禀赋；调律；急躁脾气；容易兴奋（或激动）的性格；易变的性情"
+                                        },
+                                        {
+                                            "word": "torment",
+                                            "mean": "n. 折磨；痛苦；痛苦的原因"
+                                        },
+                                        {
+                                            "word": "tournament",
+                                            "mean": "n. 比赛；锦标赛；联赛；骑士马上比武大会；阅兵式"
+                                        },
+                                        {
+                                            "word": "treatment",
+                                            "mean": "n. 对待；待遇；美容护理；保健护理；治疗；处理；表现；讨论；疗程；医治"
+                                        },
+                                        {
+                                            "word": "movement",
+                                            "mean": "n. 动；移动；变动；团体；乐章；机械装置；可动装置；运动；活动；动向"
+                                        },
+                                        {
+                                            "word": "improvement",
+                                            "mean": "n. 进步的实例；改善；进步；增进；帮助改善之物"
+                                        },
+                                        {
+                                            "word": "refreshment",
+                                            "mean": "n. 饮料；点心；便餐；活力恢复"
+                                        },
+                                        {
+                                            "word": "advancement",
+                                            "mean": "n. 促进；发展；进步；提拔"
+                                        },
+                                        {
+                                            "word": "argument",
+                                            "mean": "n. 激烈的争吵；争执；争论；理由；证据；说理；论证；自变数；书的内容提要"
+                                        },
+                                        {
+                                            "word": "statement",
+                                            "mean": "n. 陈述；声明；报表；报道；账单；结算单；官方声明；供述；呈现"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "去动词化的抽象名词后缀, 通常表示\"某种行为或结果\"",
+                                    "affix_type": "suffix"
+                                }
+                            ],
+                            "affix": "-ment",
+                            "affix_mean": "具体的物"
+                        }
+                    ],
+                    "word": "document",
+                    "word_mean": "n. 文件"
+                }
+            },
+            "sentencesData": {
+                "status": 1,
+                "info": "notZh2En",
+                "data": {}
+            },
+            "isAutoMatch": false,
+            "Zh2En": false
+        },
+        "query": "document",
+        "result": "文件",
+        "tabSelect": "detail",
+        "dictionaryType": "oxford_buchong",
+        "notFound_show": false,
+        "phoneticShow": "",
+        "globalShowTranslateRecord": "",
+        "pronPrefer": {
+            "type": "usa_1",
+            "speaker": "male",
+            "speed": "standard"
+        },
+        "ServerRecord": "",
+        "ServerUIGS": {
+            "version": "new",
+            "type": "all",
+            "stype": "success",
+            "terminal": "web",
+            "fr": "default",
+            "direction": "etoz",
+            "from": "en",
+            "to": "zh-CHS",
+            "len": 8,
+            "qtype": "text",
+            "qctype": "qc_1",
+            "dict_cover": 1,
+            "detail": 1,
+            "wordCardCover": 1,
+            "wordCardEn": 1,
+            "wordCardCh": 0,
+            "wordCardMinor": 0,
+            "wordCardNetmean": 0,
+            "wordDeform": 1,
+            "keyword": 0,
+            "bilingual": 1,
+            "simple": 0,
+            "levelList": 1,
+            "synonym": 1,
+            "antonym": 0,
+            "conjugate": 1,
+            "rootaffix": 1,
+            "baike_sogou": 1,
+            "baike_wiki": 0,
+            "wordDifference": 1,
+            "word_phrase": 1,
+            "secondQuery": 0,
+            "dict_oxford": 0,
+            "dict_newcentury": 0,
+            "zhongkaotab": 1,
+            "gaokaotab": 1,
+            "CET4tab": 1,
+            "CET6tab": 1,
+            "kaoyantab": 1,
+            "network_tab": 0,
+            "yinying_tab": 1,
+            "tuozhan_tab": 0,
+            "one_pic": 0,
+            "more_pic": 0,
+            "no_pic": 0,
+            "uuid": "51ca33e6-6ea2-494d-994c-f28b5a084027",
+            "from_type": 0,
+            "t_trans_ssr": 181
+        },
+        "ServerModelUIGS": {
+            "terminal": "web",
+            "type": "trans_model",
+            "pbtype": "pv",
+            "model_general": 1,
+            "model_medical": 1,
+            "model_finance": 1
+        },
+        "ServerSgtkn": "64F70C3608C0A9070C0D23B086996E9B0CCE586767552EE1",
+        "suggShow": false,
+        "suggestion": "",
+        "suggDirection": "",
+        "usualTop": "",
+        "baseDict": "",
+        "wordCardClick": false,
+        "isFrInput": false,
+        "kanaTips": {
+            "show": false,
+            "left": "",
+            "top": "",
+            "type": "",
+            "arrowLeft": ""
+        },
+        "currSentenceIndex": -1,
+        "prefixStrObj": {
+            "prefixStr": "",
+            "oriPrefixStr": ""
+        },
+        "selectTransBox": {
+            "show": false,
+            "right": 0,
+            "top": 0,
+            "paraphraseInfo": {
+                "word": "",
+                "from": "",
+                "to": "",
+                "area": ""
+            }
+        },
+        "sentenceLoading": false,
+        "newSentenceInfo": {
+            "sentence": "",
+            "candidateIndex": 0
+        },
+        "moreTipInfo": {
+            "opacity": 0,
+            "zIndex": -1
+        },
+        "paraphraseShowInfo": {
+            "card": 0,
+            "query": "",
+            "card_dict": 0
+        },
+        "selectType": "",
+        "wordPos": 0,
+        "candidateWord": "",
+        "syntaxVisible": false,
+        "syntaxStatus": 0
+    },
+    "language": {
+        "from": "auto",
+        "to": "zh-CHS",
+        "detect": "en",
+        "model": "general",
+        "detectShow": false,
+        "langMap": {
+            "current": ""
+        },
+        "zh2en": false,
+        "fromItemList": [
+            {
+                "lang": "auto",
+                "text": "自动检测",
+                "play": false
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "ru",
+                "text": "俄语",
+                "play": true,
+                "abbr": "俄"
+            },
+            {
+                "lang": "th",
+                "text": "泰语",
+                "play": true,
+                "abbr": "泰"
+            },
+            {
+                "lang": "cs",
+                "text": "捷克语",
+                "play": true,
+                "abbr": "捷克"
+            }
+        ],
+        "toItemList": [
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "vi",
+                "text": "越南语",
+                "play": true,
+                "abbr": "越"
+            },
+            {
+                "lang": "ko",
+                "text": "韩语",
+                "play": true,
+                "abbr": "韩"
+            },
+            {
+                "lang": "es",
+                "text": "西班牙语",
+                "play": true,
+                "abbr": "西"
+            }
+        ]
+    },
+    "voice": {
+        "from": {
+            "lang": "en",
+            "type": "from",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22document%22%2C%22spokenDialect%22%3A%22en%22%2C%22rate%22%3A%220.8%22%7D",
+            "list": [
+                {
+                    "type": "uk_0",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "ˈdɒkjumənt , ˈdɒkjument",
+                    "abbr": "英",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/485_document_uk.mp3"
+                },
+                {
+                    "type": "usa_1",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "ˈdɑːkjumənt , ˈdɑːkjument",
+                    "abbr": "美",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/485_document_usa.mp3"
+                }
+            ],
+            "stype": "phonetic",
+            "phoneticShow": [
+                {
+                    "text": "ˈdɒkjumənt , ˈdɒkjument",
+                    "type": "uk",
+                    "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/485_document_uk.mp3"
+                },
+                {
+                    "text": "ˈdɑːkjumənt , ˈdɑːkjument",
+                    "type": "usa",
+                    "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/485_document_usa.mp3"
+                }
+            ]
+        },
+        "to": {
+            "lang": "zh",
+            "type": "to",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22%E6%96%87%E4%BB%B6%22%2C%22spokenDialect%22%3A%22zh-CHS%22%2C%22rate%22%3A%220.8%22%7D",
+            "stype": "normal"
+        }
+    }
+}

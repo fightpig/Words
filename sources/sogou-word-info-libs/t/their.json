@@ -1,0 +1,939 @@
+{
+    "route": {
+        "name": "text",
+        "path": "/text",
+        "hash": "",
+        "query": {
+            "keyword": "their",
+            "transfrom": "auto",
+            "transto": "zh-CHS",
+            "model": "general",
+            "errcode": "s10"
+        },
+        "params": {},
+        "fullPath": "/text?keyword=their&transfrom=auto&transto=zh-CHS&model=general&errcode=s10",
+        "meta": {
+            "mtype": [
+                "textTranslate",
+                "language",
+                "voice"
+            ]
+        },
+        "from": {
+            "name": null,
+            "path": "/",
+            "hash": "",
+            "query": {},
+            "params": {},
+            "fullPath": "/",
+            "meta": {}
+        }
+    },
+    "common": {
+        "CONFIG": {
+            "wuid": 1733636492981,
+            "loginInfo": {},
+            "isIE": 0,
+            "isHitSsrSwitch": true,
+            "isHitWritebookSwitch": false,
+            "isHitAmsSwitch": true,
+            "promotionList": "{\n    \"pc_bottom\":{\n        \"imgsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\",\n        \"qcsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\"\n    },\n    \"pc_middle\":[\n        {\n            \"src\":\"//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c\",\n            \"bgColor\":\"#ffffff\",\n            \"link\":\"\"\n        }\n    ],\n    \"pc_survey\":{\n        \"icon\":\"//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750\",\n        \"link\":\"https://wj.qq.com/s2/8193148/806d/\"\n    }\n}",
+            "bannerData": [],
+            "isHitAsideSurvey": false,
+            "secretCode": 109984457,
+            "uuid": "352fb426-c69c-47a7-85d5-1112ac09e523",
+            "referer": "",
+            "approveToken": "64F9C1650DC3AD040F0927B4BC5B612F0F9D7F7C6755318C",
+            "loadTime": 1733636492982,
+            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0",
+            "fcp": "161.35.183.163",
+            "temporaryId": "",
+            "fileId": ""
+        },
+        "hotWords": [],
+        "isFromCollect": false,
+        "psdModify": {
+            "currentStep": 1,
+            "scode": "",
+            "username": ""
+        },
+        "loginStatus": true,
+        "feedBackModule": false,
+        "showPromotionPopup": {
+            "show": false,
+            "type": ""
+        },
+        "showPromotionPCDownload": false,
+        "showShareBomb": false,
+        "shareData": null,
+        "showAppDownLoad": false,
+        "showLoginDialog": false,
+        "showLoading": {
+            "show": false
+        },
+        "toast": {
+            "show": false,
+            "text": "",
+            "loading": false
+        },
+        "modelToast": {
+            "show": false,
+            "text": ""
+        },
+        "selectionGlobalShow": true,
+        "selectionInfo": {
+            "left": 0,
+            "top": 0,
+            "show": false,
+            "from": "",
+            "to": "",
+            "val": "",
+            "area": ""
+        },
+        "showConfirmDialog": false,
+        "promotionList": {
+            "pc_bottom": {
+                "imgsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png",
+                "qcsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png"
+            },
+            "pc_middle": [
+                {
+                    "src": "//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c",
+                    "bgColor": "#ffffff",
+                    "link": ""
+                }
+            ],
+            "pc_survey": {
+                "icon": "//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750",
+                "link": "https://wj.qq.com/s2/8193148/806d/"
+            }
+        },
+        "transTypeTxt": "text",
+        "fixedTabStatus": 0,
+        "bodyTop": 0,
+        "ifHideUserOperation": false
+    },
+    "textTranslate": {
+        "prevTransQuery": "",
+        "translateData": {
+            "translate": {
+                "zly": "zly",
+                "errorCode": "0",
+                "qc_type": "1",
+                "index": "content0",
+                "from": "en",
+                "source": "sogou",
+                "text": "their",
+                "to": "zh-CHS",
+                "id": "352fb426-c69c-47a7-85d5-1112ac09e523",
+                "dit": "他们的",
+                "orig_text": "their",
+                "md5": ""
+            },
+            "detect": {
+                "zly": "zly",
+                "detect": "en",
+                "errorCode": "0",
+                "language": "英语",
+                "id": "14d96c00-b527-11ef-9ec7-b93b2d13ff24",
+                "text": "their"
+            },
+            "sgtkn": "64F9C1710DC3AD040F0927B4BC5B612F0F9D7F7C6755318C",
+            "wordCard": {
+                "title": "their",
+                "show": true,
+                "usualDict": [
+                    {
+                        "values": [
+                            "他们的；她们的；它们的；其（某人或某些人所拥有的）；归他（她、它）所有的；阁下；大人；（用于泛指）某人的"
+                        ],
+                        "pos": "det."
+                    }
+                ],
+                "secondQuery": "",
+                "exchange": {},
+                "levelList": [
+                    "小学",
+                    "初中",
+                    "高中",
+                    "四级",
+                    "考研"
+                ]
+            },
+            "detail": {
+                "word_group": [
+                    {
+                        "brief_definition": "群策群力；共同努力",
+                        "phrase": "put their heads together",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "迫使某人屈从；使某事物处于被控制地位",
+                        "phrase": "bring something to their knees",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "使…在能力最强时卒逝",
+                        "phrase": "cut someone off in their prime",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "使不再痛苦；使放心",
+                        "phrase": "put someone out of their misery",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "相信某人说的话是真的",
+                        "phrase": "take someone at their word",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "促使某人参与激烈竞争；促使某人处于反对者的地位",
+                        "phrase": "give someone a run for their money",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "使…失去优势地位；杀…的威风",
+                        "phrase": "knock someone off their perch",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "解雇；开除",
+                        "phrase": "give someone their cards",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "打乱…的工作进度；打扰",
+                        "phrase": "put someone off their stroke",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "说话虽严厉；内心无恶意",
+                        "phrase": "someone's bark is worse than their bite",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "促使某人参与激烈竞争；促使某人处于反对者的地位",
+                        "phrase": "give someone a good run for their money",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "使陶醉；迷倒",
+                        "phrase": "sweep someone off their feet",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "使某人走得精疲力竭",
+                        "phrase": "walk someone off their feet",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "以牙还牙；以其治人之道还治其人之身",
+                        "phrase": "give someone a taste of their own medicine",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "测试某人（或某物）的性能",
+                        "phrase": "put something through their paces",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "促使某人参与激烈竞争；促使某人处于反对者的地位",
+                        "phrase": "give something a run for their money",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "在某人尴尬不备时逮个正着",
+                        "phrase": "catch someone with their trousers down",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "使…在能力最强时卒逝",
+                        "phrase": "cut someone down in their prime",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "使不再痛苦；使放心",
+                        "phrase": "put something out of their misery",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "使恢复知觉；使恢复理智",
+                        "phrase": "bring someone to their senses",
+                        "pos": ""
+                    }
+                ],
+                "bilingual": [
+                    {
+                        "source": "Yes, it's on <em>their</em> bed!",
+                        "target": "是的，在他们的床上！",
+                        "url": ""
+                    },
+                    {
+                        "source": "These people hurt <em>their</em> pets.",
+                        "target": "这些人伤害了他们的宠物。",
+                        "url": ""
+                    },
+                    {
+                        "source": "<em>Their</em> birthdays are in January.",
+                        "target": "他们的生日在一月。",
+                        "url": ""
+                    },
+                    {
+                        "source": "They share <em>their</em> ideas about it.",
+                        "target": "他们分享他们的想法。",
+                        "url": ""
+                    },
+                    {
+                        "source": "<em>Their</em> troubles were finally over.",
+                        "target": "他们的烦恼终于结束了。",
+                        "url": ""
+                    },
+                    {
+                        "source": "<em>Their</em> friends might sponsor them.",
+                        "target": "他们的朋友可能会赞助他们。",
+                        "url": ""
+                    },
+                    {
+                        "source": "<em>Their</em> coach is pleased with them.",
+                        "target": "他们的教练对他们很满意。",
+                        "url": ""
+                    },
+                    {
+                        "source": "<em>Their</em> parents enjoyed the concert.",
+                        "target": "他们的父母喜欢这场音乐会。",
+                        "url": ""
+                    },
+                    {
+                        "source": "<em>Their</em> house is beside a small lake.",
+                        "target": "他们的房子在一个小湖旁边。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Housework is a waste of <em>their</em> time.",
+                        "target": "家务是浪费他们的时间。",
+                        "url": ""
+                    }
+                ],
+                "baike": {
+                    "showMore": false,
+                    "list": [
+                        {
+                            "lemmaTitle": "their",
+                            "link": "https://baike.sogou.com/v101597858.htm?ch=sogou.fanyi",
+                            "abstract": "their（英 [ðeə]，美 [ðer]），英语单词，作限定词为他们的；她们的；它们的。短语搭配有put their heads together（群策群力）。例句为“Because of their seeds, raspberries contain a little more protein, iron and zinc.（由于其种子的缘故，树莓含有更多的蛋白质、铁和锌。）”",
+                            "wapPic": "",
+                            "pcPic": ""
+                        }
+                    ]
+                }
+            },
+            "book": {
+                "yingyinNormal": [
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/8199bd85552f0e821d70b6963e25250e_36444.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/c5ae49fac42f7237fa8edba7358dfa43_48506.mp3",
+                        "isLavafox": true,
+                        "en": "You snuck onto <em>their</em> boat?",
+                        "zh": "你偷偷溜上了他们的船？",
+                        "videoNameZh": "《愤怒的小鸟》",
+                        "videoNameEn": "《Angry Birds》",
+                        "url": "http://bisentence_movie.sogou.com/7de5dce5739386a613ecf90f27240853_d8fbbd4a5a5401212e7ce107613f55e6e2a1173b"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/ddeda38701415f391059f60a14ca0ada_53507.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/de72351e24e4f215520531dd305b6713_7445.mp3",
+                        "isLavafox": true,
+                        "en": "Oh, I like <em>their</em> emergency room.",
+                        "zh": "我好喜欢他们的急诊室。",
+                        "videoNameZh": "《生活大爆炸 第八季》",
+                        "videoNameEn": "《The Big Bang Theory Season 8》",
+                        "url": "http://bisentence_movie.sogou.com/98ff511d07e143864935415a1bcee2b0_fddf61833367edfde05220a35bbc9605cbb8e70b"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/1a0871c791ff910d9034a539e70accc7_35582.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/a84da82c3f6153ff63d13beefa8084d4_46463.mp3",
+                        "isLavafox": true,
+                        "en": "Manny, don't squash <em>their</em> creativity.",
+                        "zh": "蛮尼，不要扼杀他们的创意。",
+                        "videoNameZh": "《冰川时代2》",
+                        "videoNameEn": "《Ice Age: The Meltdown》",
+                        "url": "http://bisentence_movie.sogou.com/021c39c1d76d56ba3b0500433f5f66e4_efacc6cf828dcd38f849d46bc6de2239fd36dfeb"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/c3652a60f61ce63a5e9067648ae2439c_44092.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/728066aa942bf615ae6d26d943358851_71367.mp3",
+                        "isLavafox": true,
+                        "en": "Well, <em>their</em> technology isn't that bad.",
+                        "zh": "他们的技术也没那么糟啦。",
+                        "videoNameZh": "《生活大爆炸 第五季》",
+                        "videoNameEn": "《The Big Bang Theory Season 5》",
+                        "url": "http://bisentence_movie.sogou.com/f486c4a3d8407cd4a77be6878503c6d1_38b8f70f031f55d9e352f61b06ce903b3c31224a"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/629af26ee246702b04dae9c64fe5736b_64581.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/3c0d18ecfe0ba5ec609e714ad9995463_29899.mp3",
+                        "isLavafox": true,
+                        "en": "Peppa and George are wearing <em>their</em> boots!",
+                        "zh": "佩佩和乔治在穿他们的靴子！",
+                        "videoNameZh": "《小猪佩奇（精选版）》",
+                        "videoNameEn": "《Peppa Pig》",
+                        "url": "http://bisentence_movie.sogou.com/e48e4ee2b69a7112300f0e969c6a7c2c_bc3ec631134e393db490c622874385eae00eb537"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/629af26ee246702b04dae9c64fe5736b_64581.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/6baac87d513f71dc76fe284f9c451601_35972.mp3",
+                        "isLavafox": true,
+                        "en": "Peppa and George love <em>their</em> paddling pool.",
+                        "zh": "佩佩和乔治喜欢他们的戏水池。",
+                        "videoNameZh": "《小猪佩奇（精选版）》",
+                        "videoNameEn": "《Peppa Pig》",
+                        "url": "http://bisentence_movie.sogou.com/006d4c7f44e28793f444d74b2585f53b_3341e92b3e5884c19312a49b32c6c119d6f7940a"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/90d695a9e78539f7e946c7586f56f1f7_47628.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/3e1c089d6e0bfb068417ae28346426b6_39160.mp3",
+                        "isLavafox": true,
+                        "en": "I needed <em>their</em> help, and they needed mine.",
+                        "zh": "我需要他们的帮助，他们也是。",
+                        "videoNameZh": "《阿凡达》",
+                        "videoNameEn": "《Avatar》",
+                        "url": "http://bisentence_movie.sogou.com/84bc392a98cbd5e467a80c8a28148288_d74213ef8c02d6eebf5e8e8d55a521f950b2bce5"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/ce4704185ed874d2da0aa0211b7c5d4d_3508.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/d9ea26e66f19bd2733d54b9c80be6afe_70596.mp3",
+                        "isLavafox": true,
+                        "en": "No, of course. We need to earn <em>their</em> trust.",
+                        "zh": "当然，我们需要赢得他们的信任。",
+                        "videoNameZh": "《纸牌屋 第三季》",
+                        "videoNameEn": "《House of Cards Season 3》",
+                        "url": "http://bisentence_movie.sogou.com/e6d67a901f73072019a224b1f028552f_84b761108b95d5dabc33cd6a114a56b837853784"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/aa7a748a86497e02e2b0a5098f3017b8_12619.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/4030eda82bb440bc056a3dfb8b3ba87c_70171.mp3",
+                        "isLavafox": true,
+                        "en": "Yeah, I do. I'm <em>their</em> teacher. Good for you.",
+                        "zh": "嗯，我可以，我可是他们的老师。挺好的。",
+                        "videoNameZh": "《女孩成长记 第一季》",
+                        "videoNameEn": "《Girl Meets World Season 1》",
+                        "url": "http://bisentence_movie.sogou.com/14e151c1f9e6ac4c2912885bd73d09f2_c6616490e4502667ef1cc4891994143a51af5065"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/8199bd85552f0e821d70b6963e25250e_36444.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/234844ea942e9550f3c03b3c07f2409e_53932.mp3",
+                        "isLavafox": true,
+                        "en": "And there are strange devices on <em>their</em> boat!",
+                        "zh": "而且他们的船上有各式各样奇怪的道具！",
+                        "videoNameZh": "《愤怒的小鸟》",
+                        "videoNameEn": "《Angry Birds》",
+                        "url": "http://bisentence_movie.sogou.com/305a632d5f446d72a01a58322f224f23_728ab1b20beaecca1361d28d156e7a9516353cea"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/a3f6ca8d0ebaa5b0956976d643673427_52102.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/0cf3d323c105f8d2d64eb31939ab58c5_26709.mp3",
+                        "isLavafox": true,
+                        "en": "Peppa and George are playing in <em>their</em> bedroom.",
+                        "zh": "佩奇和乔治在他们的卧室里玩。",
+                        "videoNameZh": "《小猪佩奇 第三季》",
+                        "videoNameEn": "《Peppa Pig Season 3》",
+                        "url": "http://bisentence_movie.sogou.com/5837df05b0660c3c6cae5cacaa6f19a5_3178b96216e06205eaceab45f04d40a4591358d1"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/791389553cedc2dca8e4f0bcddd956ec_6163.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/d5fd81adb63dd50641f4d0772fd1e78e_42590.mp3",
+                        "isLavafox": true,
+                        "en": "I became <em>their</em> father and they became my sons.",
+                        "zh": "于是我就变成他们的父亲，他们成为了我的孩子。",
+                        "videoNameZh": "《忍者神龟：变种时代》",
+                        "videoNameEn": "《Teenage Mutant Ninja Turtles》",
+                        "url": "http://bisentence_movie.sogou.com/259770dc5b06958d4e9130a407471ffd_ab59e0577ec26dd3d1f53c806ccfcdf1c0e85b77"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/83e0370672cc8e17126df5af8e37dc5d_28711.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/6880f9b8fb1cbc15fd3ab0a5ca10839c_62180.mp3",
+                        "isLavafox": true,
+                        "en": "Liars! Cheats! Falsifiers! Off with <em>their</em> heads!",
+                        "zh": "骗子！骗子！砍下他们的头！",
+                        "videoNameZh": "《爱丽丝梦游仙境》",
+                        "videoNameEn": "《Alice in Wonderland》",
+                        "url": "http://bisentence_movie.sogou.com/aeb96c181b1085da02f89689bcb0f1e9_3771d5e01b43772b3610eaf1085e08a7485aca63"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/0ce3ba1d09aadca7b93fbf3633e423d4_26694.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/77d3f574bf8181f8dbbd214d7fc86849_36351.mp3",
+                        "isLavafox": true,
+                        "en": "In <em>their</em> DNA, can you elaborate on that, please?",
+                        "zh": "他们的DNA，您能详细说一下吗？",
+                        "videoNameZh": "《疯狂动物城》",
+                        "videoNameEn": "《Zootopia》",
+                        "url": "http://bisentence_movie.sogou.com/638d720fb790dc3c1c4d84bd66502792_6e7b58d65150317574cc44e51bae7a6014f518fa"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/070fb26d3af178b3f2a1532fb08bc392_61512.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/e67e66d75c05b6a66751f636e9c933d8_29540.mp3",
+                        "isLavafox": true,
+                        "en": "Katniss Everdeen is a symbol. <em>Their</em> Mocking-jay.",
+                        "zh": "凯妮丝是一个象征，他们的嘲笑鸟。",
+                        "videoNameZh": "《饥饿游戏2：星火燎原》",
+                        "videoNameEn": "《The Hunger Games: Catching Fire》",
+                        "url": "http://bisentence_movie.sogou.com/7d2acd8d963a6fc05cd399d417d5671d_e6e70380e76ba0fd14e929b1005f6e9fe658f28d"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/83bcab8039fa5140ba0e29ca21fce0eb_17113.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/4edac8ea7abc8048a756626451c66992_17026.mp3",
+                        "isLavafox": true,
+                        "en": "They've got money, right? I don't want <em>their</em> money!",
+                        "zh": "他们有钱，对吧？但我不想要他们的钱。",
+                        "videoNameZh": "《遇见你之前》",
+                        "videoNameEn": "《Me before you》",
+                        "url": "http://bisentence_movie.sogou.com/971fcfd1ab3d2ca4368c76a18d116111_f3f18a5eb5d00f412d5953526dcfb254a6e38949"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/a3f6ca8d0ebaa5b0956976d643673427_52102.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/0e31d9e0ff9c5ac495c79154ef882263_29297.mp3",
+                        "isLavafox": true,
+                        "en": "Those aren't <em>their</em> names. Grand Pig has chickens. Wow.",
+                        "zh": "这不是他们的名字。猪奶奶养了几只鸡。哇。",
+                        "videoNameZh": "《小猪佩奇 第三季》",
+                        "videoNameEn": "《Peppa Pig Season 3》",
+                        "url": "http://bisentence_movie.sogou.com/24e9504ecbd25926187e57654122cfa2_4ac62d8ca97b8d8b72728374e414817b378bae20"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/abd937b2672222a78ae14a2575251d2d_52124.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/52c49a32dfb8376dee4ac706968dc3fc_40794.mp3",
+                        "isLavafox": true,
+                        "en": "We fought hard! <em>Their</em> warlock use your fel against us.",
+                        "zh": "我们尽力了！他们的法师，用您的魔能对付我们。",
+                        "videoNameZh": "《魔兽》",
+                        "videoNameEn": "《Warcraft》",
+                        "url": "http://bisentence_movie.sogou.com/8fe12aaa681f83398065397f058e274a_f48ae0e07ed47c3de0c0f42330d42ed3e9b25c17"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/178d946ef640c7de6e0f6c8df29d5810_67890.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/5842011e09200521d5a8c4513b5f5ba4_45029.mp3",
+                        "isLavafox": true,
+                        "en": "It's not <em>their</em> pain you're afraid of. It's yours Charles.",
+                        "zh": "你害怕的不是他们的痛苦，你害怕的是你自己的。",
+                        "videoNameZh": "《X战警：逆转未来》",
+                        "videoNameEn": "《X-Men: Days of Future Past》",
+                        "url": "http://bisentence_movie.sogou.com/b71248b91d048fe996b4bdbd3d0339ee_13388ee39938d2b354729318c64a94a91fd0b08c"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/dbdbb1f16ce20882bb55c8e5f1e43c10_60336.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/2118d872dbd180903f44d2819d07a42a_37987.mp3",
+                        "isLavafox": true,
+                        "en": "I've discovered that <em>their</em> journeys were similar to mine.",
+                        "zh": "我发现他们的旅程和我类似。",
+                        "videoNameZh": "《成功的原则》",
+                        "videoNameEn": "《Principles for Success》",
+                        "url": "http://bisentence_movie.sogou.com/1c35e3b2902e27d8b2cd4b5b3c9c18fd_5eac9b8edd67e6a3803fabba4956c69c93c639e9"
+                    }
+                ]
+            },
+            "pic": "",
+            "voice": {
+                "phonetic": [
+                    {
+                        "text": "ðeə",
+                        "type": "uk",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/35_their_uk.mp3"
+                    },
+                    {
+                        "text": "ðer",
+                        "type": "usa",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/35_their_usa.mp3"
+                    }
+                ]
+            },
+            "dictType": "oxford_buchong",
+            "gaokao": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 248,
+                        "pos": "pron",
+                        "chinese": "他/她/它们的",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "their",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2015-2022年8年间全国卷和自主命题省市高考卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2015-2022年全国卷高考试卷，包括阅读、完形、单选、填空、听力、改错、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选各省市考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2015-2022年8年间全国卷和自主命题省市高考卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 5,
+                "total_exam_freq": 248,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "他/她/它们的",
+                            "pos": "pron",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "Discover how architects, product designers and scientists use similar skills in <highlight>their</highlight> work.",
+                                    "month": -1,
+                                    "source": "新高考II卷",
+                                    "coll": "",
+                                    "sentence_trans": "了解建筑师、产品设计师和科学家如何在工作中使用类似的技能。",
+                                    "year": 2021,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "They had watched <highlight>their</highlight> mother in the kitchen.",
+                                    "month": -1,
+                                    "source": "新高考II卷",
+                                    "coll": "",
+                                    "sentence_trans": "他们在厨房里看着他们的母亲。",
+                                    "year": 2021,
+                                    "type": "读后续写",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "One reason is that most people are not even aware of <highlight>their</highlight> mispronunciations.",
+                                    "month": -1,
+                                    "source": "新高考II卷",
+                                    "coll": "",
+                                    "sentence_trans": "一个原因是大多数人甚至没有意识到他们的发音错误。",
+                                    "year": 2021,
+                                    "type": "听力",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            "zhongkao": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 1595,
+                        "pos": "adj",
+                        "chinese": "他们的; 她们的; 它们的",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "their",
+                "direction_info": {
+                    "ranges": 4,
+                    "description": "数据源自2018-2021年4年间全国各省市中考试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2018-2021年全国重点省市中考试卷，包括听力、阅读、完形、单选、填空、改错、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选各省市考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2018-2021年4年间全国各省市中考试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 5,
+                "total_exam_freq": 1595,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "他们的; 她们的; 它们的",
+                            "pos": "adj",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "This means that parents often don't know if <highlight>their</highlight> children are playing violent or scary games.",
+                                    "month": -1,
+                                    "source": "衢州市卷",
+                                    "coll": "",
+                                    "sentence_trans": "这意味着父母通常不知道他们的孩子是否在玩暴力或恐怖的游戏。",
+                                    "year": 2021,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "And best of all, if we all wore uniforms, kids wouldn't tease each other about <highlight>their</highlight> clothes.",
+                                    "month": -1,
+                                    "source": "天水市卷",
+                                    "coll": "",
+                                    "sentence_trans": "最棒的是，如果我们都穿校服，孩子们就不会因为他们你的衣服而互相取笑了。",
+                                    "year": 2021,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Hundreds of companies have closed <highlight>their</highlight> factories until the disease is more under control.",
+                                    "month": -1,
+                                    "source": "锦州卷",
+                                    "coll": "",
+                                    "sentence_trans": "数百家公司已经关闭了他们的工厂，直到疾病得到更好的控制。",
+                                    "year": 2020,
+                                    "type": "短文填空",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            "sentencesData": {
+                "status": 1,
+                "info": "notZh2En",
+                "data": {}
+            },
+            "isAutoMatch": false,
+            "Zh2En": false
+        },
+        "query": "their",
+        "result": "他们的",
+        "tabSelect": "detail",
+        "dictionaryType": "oxford_buchong",
+        "notFound_show": false,
+        "phoneticShow": "",
+        "globalShowTranslateRecord": "",
+        "pronPrefer": {
+            "type": "usa_1",
+            "speaker": "male",
+            "speed": "standard"
+        },
+        "ServerRecord": "",
+        "ServerUIGS": {
+            "version": "new",
+            "type": "all",
+            "stype": "success",
+            "terminal": "web",
+            "fr": "default",
+            "direction": "etoz",
+            "from": "en",
+            "to": "zh-CHS",
+            "len": 5,
+            "qtype": "text",
+            "qctype": "qc_1",
+            "dict_cover": 1,
+            "detail": 1,
+            "wordCardCover": 1,
+            "wordCardEn": 1,
+            "wordCardCh": 0,
+            "wordCardMinor": 0,
+            "wordCardNetmean": 0,
+            "wordDeform": 0,
+            "keyword": 0,
+            "bilingual": 1,
+            "simple": 0,
+            "levelList": 1,
+            "synonym": 0,
+            "antonym": 0,
+            "conjugate": 0,
+            "rootaffix": 0,
+            "baike_sogou": 1,
+            "baike_wiki": 0,
+            "wordDifference": 0,
+            "word_phrase": 1,
+            "secondQuery": 0,
+            "dict_oxford": 0,
+            "dict_newcentury": 0,
+            "zhongkaotab": 1,
+            "gaokaotab": 1,
+            "CET4tab": 0,
+            "CET6tab": 0,
+            "kaoyantab": 0,
+            "network_tab": 0,
+            "yinying_tab": 1,
+            "tuozhan_tab": 0,
+            "one_pic": 0,
+            "more_pic": 0,
+            "no_pic": 0,
+            "uuid": "352fb426-c69c-47a7-85d5-1112ac09e523",
+            "from_type": 0,
+            "t_trans_ssr": 151
+        },
+        "ServerModelUIGS": {
+            "terminal": "web",
+            "type": "trans_model",
+            "pbtype": "pv",
+            "model_general": 1,
+            "model_medical": 1,
+            "model_finance": 1
+        },
+        "ServerSgtkn": "64F9C1710DC3AD040F0927B4BC5B612F0F9D7F7C6755318C",
+        "suggShow": false,
+        "suggestion": "",
+        "suggDirection": "",
+        "usualTop": "",
+        "baseDict": "",
+        "wordCardClick": false,
+        "isFrInput": false,
+        "kanaTips": {
+            "show": false,
+            "left": "",
+            "top": "",
+            "type": "",
+            "arrowLeft": ""
+        },
+        "currSentenceIndex": -1,
+        "prefixStrObj": {
+            "prefixStr": "",
+            "oriPrefixStr": ""
+        },
+        "selectTransBox": {
+            "show": false,
+            "right": 0,
+            "top": 0,
+            "paraphraseInfo": {
+                "word": "",
+                "from": "",
+                "to": "",
+                "area": ""
+            }
+        },
+        "sentenceLoading": false,
+        "newSentenceInfo": {
+            "sentence": "",
+            "candidateIndex": 0
+        },
+        "moreTipInfo": {
+            "opacity": 0,
+            "zIndex": -1
+        },
+        "paraphraseShowInfo": {
+            "card": 0,
+            "query": "",
+            "card_dict": 0
+        },
+        "selectType": "",
+        "wordPos": 0,
+        "candidateWord": "",
+        "syntaxVisible": false,
+        "syntaxStatus": 0
+    },
+    "language": {
+        "from": "auto",
+        "to": "zh-CHS",
+        "detect": "en",
+        "model": "general",
+        "detectShow": false,
+        "langMap": {
+            "current": ""
+        },
+        "zh2en": false,
+        "fromItemList": [
+            {
+                "lang": "auto",
+                "text": "自动检测",
+                "play": false
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "th",
+                "text": "泰语",
+                "play": true,
+                "abbr": "泰"
+            },
+            {
+                "lang": "fr",
+                "text": "法语",
+                "play": true,
+                "abbr": "法"
+            },
+            {
+                "lang": "vi",
+                "text": "越南语",
+                "play": true,
+                "abbr": "越"
+            }
+        ],
+        "toItemList": [
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "vi",
+                "text": "越南语",
+                "play": true,
+                "abbr": "越"
+            },
+            {
+                "lang": "ru",
+                "text": "俄语",
+                "play": true,
+                "abbr": "俄"
+            },
+            {
+                "lang": "fr",
+                "text": "法语",
+                "play": true,
+                "abbr": "法"
+            }
+        ]
+    },
+    "voice": {
+        "from": {
+            "lang": "en",
+            "type": "from",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22their%22%2C%22spokenDialect%22%3A%22en%22%2C%22rate%22%3A%220.8%22%7D",
+            "list": [
+                {
+                    "type": "uk_0",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "ðeə",
+                    "abbr": "英",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/35_their_uk.mp3"
+                },
+                {
+                    "type": "usa_1",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "ðer",
+                    "abbr": "美",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/35_their_usa.mp3"
+                }
+            ],
+            "stype": "phonetic",
+            "phoneticShow": [
+                {
+                    "text": "ðeə",
+                    "type": "uk",
+                    "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/35_their_uk.mp3"
+                },
+                {
+                    "text": "ðer",
+                    "type": "usa",
+                    "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/35_their_usa.mp3"
+                }
+            ]
+        },
+        "to": {
+            "lang": "zh",
+            "type": "to",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22%E4%BB%96%E4%BB%AC%E7%9A%84%22%2C%22spokenDialect%22%3A%22zh-CHS%22%2C%22rate%22%3A%220.8%22%7D",
+            "stype": "normal"
+        }
+    }
+}

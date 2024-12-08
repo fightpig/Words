@@ -1,0 +1,2630 @@
+{
+    "route": {
+        "name": "text",
+        "path": "/text",
+        "hash": "",
+        "query": {
+            "keyword": "helpful",
+            "transfrom": "auto",
+            "transto": "zh-CHS",
+            "model": "general",
+            "errcode": "s10"
+        },
+        "params": {},
+        "fullPath": "/text?keyword=helpful&transfrom=auto&transto=zh-CHS&model=general&errcode=s10",
+        "meta": {
+            "mtype": [
+                "textTranslate",
+                "language",
+                "voice"
+            ]
+        },
+        "from": {
+            "name": null,
+            "path": "/",
+            "hash": "",
+            "query": {},
+            "params": {},
+            "fullPath": "/",
+            "meta": {}
+        }
+    },
+    "common": {
+        "CONFIG": {
+            "wuid": 1733636202652,
+            "loginInfo": {},
+            "isIE": 0,
+            "isHitSsrSwitch": true,
+            "isHitWritebookSwitch": false,
+            "isHitAmsSwitch": true,
+            "promotionList": "{\n    \"pc_bottom\":{\n        \"imgsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\",\n        \"qcsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\"\n    },\n    \"pc_middle\":[\n        {\n            \"src\":\"//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c\",\n            \"bgColor\":\"#ffffff\",\n            \"link\":\"\"\n        }\n    ],\n    \"pc_survey\":{\n        \"icon\":\"//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750\",\n        \"link\":\"https://wj.qq.com/s2/8193148/806d/\"\n    }\n}",
+            "bannerData": [],
+            "isHitAsideSurvey": false,
+            "secretCode": 109984457,
+            "uuid": "f3636254-80d1-439a-b2c8-ab085c37e052",
+            "referer": "",
+            "approveToken": "64F897E494553B919A9FB2223B9EC7E29A361A786755306A",
+            "loadTime": 1733636202654,
+            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0",
+            "fcp": "161.35.183.163",
+            "temporaryId": "",
+            "fileId": ""
+        },
+        "hotWords": [],
+        "isFromCollect": false,
+        "psdModify": {
+            "currentStep": 1,
+            "scode": "",
+            "username": ""
+        },
+        "loginStatus": true,
+        "feedBackModule": false,
+        "showPromotionPopup": {
+            "show": false,
+            "type": ""
+        },
+        "showPromotionPCDownload": false,
+        "showShareBomb": false,
+        "shareData": null,
+        "showAppDownLoad": false,
+        "showLoginDialog": false,
+        "showLoading": {
+            "show": false
+        },
+        "toast": {
+            "show": false,
+            "text": "",
+            "loading": false
+        },
+        "modelToast": {
+            "show": false,
+            "text": ""
+        },
+        "selectionGlobalShow": true,
+        "selectionInfo": {
+            "left": 0,
+            "top": 0,
+            "show": false,
+            "from": "",
+            "to": "",
+            "val": "",
+            "area": ""
+        },
+        "showConfirmDialog": false,
+        "promotionList": {
+            "pc_bottom": {
+                "imgsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png",
+                "qcsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png"
+            },
+            "pc_middle": [
+                {
+                    "src": "//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c",
+                    "bgColor": "#ffffff",
+                    "link": ""
+                }
+            ],
+            "pc_survey": {
+                "icon": "//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750",
+                "link": "https://wj.qq.com/s2/8193148/806d/"
+            }
+        },
+        "transTypeTxt": "text",
+        "fixedTabStatus": 0,
+        "bodyTop": 0,
+        "ifHideUserOperation": false
+    },
+    "textTranslate": {
+        "prevTransQuery": "",
+        "translateData": {
+            "translate": {
+                "zly": "zly",
+                "errorCode": "0",
+                "qc_type": "1",
+                "index": "content0",
+                "from": "en",
+                "source": "sogou",
+                "text": "helpful",
+                "to": "zh-CHS",
+                "id": "f3636254-80d1-439a-b2c8-ab085c37e052",
+                "dit": "有益的",
+                "orig_text": "helpful",
+                "md5": ""
+            },
+            "detect": {
+                "zly": "zly",
+                "detect": "en",
+                "errorCode": "0",
+                "language": "英语",
+                "id": "67cd30a0-b526-11ef-9cc1-7f363b4650e9",
+                "text": "helpful"
+            },
+            "sgtkn": "64F897E894553B919A9FB2223B9EC7E29A361A786755306A",
+            "wordCard": {
+                "title": "helpful",
+                "show": true,
+                "usualDict": [
+                    {
+                        "values": [
+                            "有助益的；有帮助的；提供帮助的；有用的；有益的；有助于改善的；愿意帮忙的"
+                        ],
+                        "pos": "adj."
+                    }
+                ],
+                "secondQuery": "",
+                "exchange": {},
+                "levelList": [
+                    "小学",
+                    "初中",
+                    "高中",
+                    "四级",
+                    "六级",
+                    "考研",
+                    "托福"
+                ]
+            },
+            "detail": {
+                "synonym": [
+                    {
+                        "word_list": [
+                            "useful",
+                            "beneficial",
+                            "advantageous",
+                            "conducive",
+                            "assistant"
+                        ],
+                        "pos": "adj.",
+                        "mean": "有帮助的；有益的"
+                    }
+                ],
+                "antonym": [
+                    {
+                        "word_list": [
+                            "unhelpful"
+                        ],
+                        "pos": "",
+                        "mean": ""
+                    }
+                ],
+                "affix": {
+                    "word": "helpful",
+                    "sub_affix_info_list": [
+                        {
+                            "affix": "help",
+                            "affix_mean": "v. 帮助"
+                        },
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "awful",
+                                            "mean": "adj. 糟糕的；令人不快的；令人惊叹的；可怕的；极；恐怖的；不安的；太；不舒服的"
+                                        },
+                                        {
+                                            "word": "beautiful",
+                                            "mean": "adj. 美的；美丽的；令人愉悦的；完美的；出色的"
+                                        },
+                                        {
+                                            "word": "bountiful",
+                                            "mean": "adj. 大量的；丰富的；充足的；慷慨的"
+                                        },
+                                        {
+                                            "word": "careful",
+                                            "mean": "adj. 小心的；谨慎的；深思熟虑的；审慎的；焦虑的；忧虑的；关切的；挂念的"
+                                        },
+                                        {
+                                            "word": "cheerful",
+                                            "mean": "adj. 开心的；愉快的；乐观的；令人愉快的；令人振奋的"
+                                        },
+                                        {
+                                            "word": "colorful",
+                                            "mean": "adj. 富于色彩的；颜色鲜艳的；富有趣味的；生动的；绘声绘色的；丰富多彩的；不光彩的；粗鲁无礼的；放浪形骸的；粗俗的"
+                                        },
+                                        {
+                                            "word": "deceitful",
+                                            "mean": "adj. 欺诈的；欺骗的"
+                                        },
+                                        {
+                                            "word": "delightful",
+                                            "mean": "adj. 可喜的；令人愉快的；迷人的"
+                                        },
+                                        {
+                                            "word": "distasteful",
+                                            "mean": "adj. 讨厌的；不合口味的；使人不愉快的；味道差的"
+                                        },
+                                        {
+                                            "word": "doubtful",
+                                            "mean": "adj. 拿不准的；不能肯定的；疑惑的；怀疑的；可疑的；不确定的；不确知的；未决的；不大可能的；未必会的"
+                                        },
+                                        {
+                                            "word": "eventful",
+                                            "mean": "adj. 多趣事的；多兴奋之事的"
+                                        },
+                                        {
+                                            "word": "faithful",
+                                            "mean": "adj. 忠实的；忠诚的；守信的；虔诚的；如实的；忠于原文的；准确可靠的；忠贞的；可靠的；可信赖的"
+                                        },
+                                        {
+                                            "word": "fanciful",
+                                            "mean": "adj. 不现实的；爱想像的；稀奇古怪的；花哨的；空想的；臆造的"
+                                        },
+                                        {
+                                            "word": "fateful",
+                                            "mean": "adj. 决定性的；重大的；灾难性的；致命的"
+                                        },
+                                        {
+                                            "word": "fearful",
+                                            "mean": "adj. 惧怕的；胆怯的；担心的；担忧的；极大的；可怕的；恐怖的；吓人的；令人恐惧的"
+                                        },
+                                        {
+                                            "word": "forceful",
+                                            "mean": "adj. 强有力的；坚强的；有力的"
+                                        },
+                                        {
+                                            "word": "forgetful",
+                                            "mean": "adj. 健忘的；易忘的"
+                                        },
+                                        {
+                                            "word": "fruitful",
+                                            "mean": "adj. 结很多果实的；富饶的；卓有成效的；多产的；有收益的；多子多孙的"
+                                        },
+                                        {
+                                            "word": "gleeful",
+                                            "mean": "adj. 欢快的；兴高采烈的；欣喜的"
+                                        },
+                                        {
+                                            "word": "graceful",
+                                            "mean": "adj. 优雅的；雅致的"
+                                        },
+                                        {
+                                            "word": "grateful",
+                                            "mean": "adj. 感激的；感谢的；受欢迎的；令人获得快意的"
+                                        },
+                                        {
+                                            "word": "harmful",
+                                            "mean": "adj. 有害的；造成伤害的"
+                                        },
+                                        {
+                                            "word": "hopeful",
+                                            "mean": "adj. 有希望的；充满希望的；乐观的"
+                                        },
+                                        {
+                                            "word": "joyful",
+                                            "mean": "adj. 快乐的；高兴的；令人高兴的；令人快乐的"
+                                        },
+                                        {
+                                            "word": "meaningful",
+                                            "mean": "adj. 有意义的；重要的；有益的；严肃的；富有意味的"
+                                        },
+                                        {
+                                            "word": "merciful",
+                                            "mean": "adj. 慈悲的；仁慈的；带来幸运的；给人解脱的"
+                                        },
+                                        {
+                                            "word": "mirthful",
+                                            "mean": "adj. 高兴的；愉快的；令人欢乐的"
+                                        },
+                                        {
+                                            "word": "mournful",
+                                            "mean": "adj. 忧伤的；悲痛的；遗憾的"
+                                        },
+                                        {
+                                            "word": "painful",
+                                            "mean": "adj. 疼痛的；引起疼痛的；令人不快的；使人烦恼的；费事的；极坏的"
+                                        },
+                                        {
+                                            "word": "peaceful",
+                                            "mean": "adj. 安宁的；宁静的；平静的；和平的；爱好和平的"
+                                        },
+                                        {
+                                            "word": "pitiful",
+                                            "mean": "adj. 可怜的；令人同情的；小的；穷的；不足的；富于同情心的"
+                                        },
+                                        {
+                                            "word": "plentiful",
+                                            "mean": "adj. 大量的；丰产的；丰富的"
+                                        },
+                                        {
+                                            "word": "purposeful",
+                                            "mean": "adj. 坚定的；有决心的；果断的；有目的的；有益的；有用的；故意的；蓄意的"
+                                        },
+                                        {
+                                            "word": "resentful",
+                                            "mean": "adj. 气愤的；感到愤愤不平的；表示愤恨的"
+                                        },
+                                        {
+                                            "word": "shameful",
+                                            "mean": "adj. 可耻的；丢脸的"
+                                        },
+                                        {
+                                            "word": "spiteful",
+                                            "mean": "adj. 怀恨的；恶意的"
+                                        },
+                                        {
+                                            "word": "successful",
+                                            "mean": "adj. 成功的；有成就的；受欢迎的；赚了钱的"
+                                        },
+                                        {
+                                            "word": "tactful",
+                                            "mean": "adj. 机智的；灵活的；圆通的"
+                                        },
+                                        {
+                                            "word": "tasteful",
+                                            "mean": "adj. 有鉴赏力的；趣味高雅的；得体的"
+                                        },
+                                        {
+                                            "word": "tearful",
+                                            "mean": "adj. 流泪的；哭泣的；爱哭的；快要哭的；催人泪下的；令人伤心的；使人流泪的"
+                                        },
+                                        {
+                                            "word": "thankful",
+                                            "mean": "adj. 欣慰的；感谢（或感激）的"
+                                        },
+                                        {
+                                            "word": "thoughtful",
+                                            "mean": "adj. 沉思的；思考的；体贴的；考虑周到的；关心别人的；经缜密思考的；注意的"
+                                        },
+                                        {
+                                            "word": "hopefully",
+                                            "mean": "adv. 满怀希望地；有希望地；希望是；有望"
+                                        },
+                                        {
+                                            "word": "powerful",
+                                            "mean": "adj. 强大的；强有力的；大功率的；效力大的；有影响力的；影响大的"
+                                        },
+                                        {
+                                            "word": "respectful",
+                                            "mean": "adj. 恭敬的；表示尊敬的"
+                                        },
+                                        {
+                                            "word": "skillful",
+                                            "mean": "adj. 熟练的；有技巧的"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "形容词后缀, 具有某种性质/倾向",
+                                    "affix_type": "suffix"
+                                },
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "handful",
+                                            "mean": "n. 一把；难控制的人；难对付的人；少数；少量"
+                                        },
+                                        {
+                                            "word": "spoonful",
+                                            "mean": "n. 一匙；一匙的量"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "抽象动词的名词后缀, 表示\"充满…(容器名词)的量\"",
+                                    "affix_type": "suffix"
+                                },
+                                {
+                                    "sample": [],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "表形容词, \"有…的, 充满…的\"",
+                                    "affix_type": "suffix"
+                                }
+                            ],
+                            "affix": "-ful",
+                            "affix_mean": "形容词后缀"
+                        }
+                    ],
+                    "word_mean": "adj. 给予帮助的"
+                },
+                "wordRootInfo": {
+                    "word_info_list": [
+                        {
+                            "word": "helpless",
+                            "pos_mean_info_list": [
+                                {
+                                    "pos": "adj.",
+                                    "mean": "无助的；无能的；没用的"
+                                }
+                            ]
+                        },
+                        {
+                            "word": "helping",
+                            "pos_mean_info_list": [
+                                {
+                                    "pos": "adj.",
+                                    "mean": "辅助的；给予帮助的"
+                                },
+                                {
+                                    "pos": "n.",
+                                    "mean": "帮助，协助；一份食物"
+                                },
+                                {
+                                    "pos": "v.",
+                                    "mean": "帮助；扶持（help的ing形式）"
+                                }
+                            ]
+                        },
+                        {
+                            "word": "helplessly",
+                            "pos_mean_info_list": [
+                                {
+                                    "pos": "adv.",
+                                    "mean": "无助地；无能为力地"
+                                }
+                            ]
+                        },
+                        {
+                            "word": "helpfully",
+                            "pos_mean_info_list": [
+                                {
+                                    "pos": "adv.",
+                                    "mean": "有益地；有用地"
+                                }
+                            ]
+                        },
+                        {
+                            "word": "help",
+                            "pos_mean_info_list": [
+                                {
+                                    "pos": "n.",
+                                    "mean": "帮助；补救办法；帮忙者；有益的东西"
+                                },
+                                {
+                                    "pos": "vi.",
+                                    "mean": "帮助；有用；招待"
+                                },
+                                {
+                                    "pos": "vt.",
+                                    "mean": "帮助；促进；治疗；补救"
+                                }
+                            ]
+                        },
+                        {
+                            "word": "helper",
+                            "pos_mean_info_list": [
+                                {
+                                    "pos": "n.",
+                                    "mean": "助手，帮手"
+                                }
+                            ]
+                        },
+                        {
+                            "word": "helpdesk",
+                            "pos_mean_info_list": [
+                                {
+                                    "pos": "n.",
+                                    "mean": "帮助台；超文本文档帮助信息"
+                                }
+                            ]
+                        },
+                        {
+                            "word": "helpfulness",
+                            "pos_mean_info_list": [
+                                {
+                                    "pos": "n.",
+                                    "mean": "有益；有助"
+                                }
+                            ]
+                        }
+                    ],
+                    "root_word": "help"
+                },
+                "word_group": [
+                    {
+                        "brief_definition": "利于；有助于；对...是有帮助的",
+                        "phrase": "helpful to",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "有益于；对…有利",
+                        "phrase": "be helpful to",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "有用的建议",
+                        "phrase": "helpful suggestion",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "有益的行动；有益的举动",
+                        "phrase": "helpful action",
+                        "pos": ""
+                    }
+                ],
+                "bilingual": [
+                    {
+                        "source": "Here are some <em>helpful</em> tips.",
+                        "target": "这里有一些有用的建议。",
+                        "url": ""
+                    },
+                    {
+                        "source": "He gave me some <em>helpful</em> tips.",
+                        "target": "他给了我一些有用的提示。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Your advice is really <em>helpful</em> to me.",
+                        "target": "你的建议对我来说真的很有用的。",
+                        "url": ""
+                    },
+                    {
+                        "source": "This book is very <em>helpful</em> for my research.",
+                        "target": "这本书对我的研究非常有用的。",
+                        "url": ""
+                    },
+                    {
+                        "source": "This tool is very <em>helpful</em> during the repair.",
+                        "target": "这个工具在修理过程中非常有用的。",
+                        "url": ""
+                    },
+                    {
+                        "source": "This information is very <em>helpful</em> for planning our trip.",
+                        "target": "这些信息对我们计划旅行非常有用的。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Rain and in the doorway might give you <em>helpful</em> information.",
+                        "target": "雨和在门口可能会给你有用的信息。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Be a <em>helpful</em> study fellow (伙伴) if you want to be a good friend.",
+                        "target": "如果你想成为一个好朋友，就做一个有用的学习伙伴。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Clara made some very <em>helpful</em> suggestions.",
+                        "target": "克拉拉提出了一些非常有用的建议。",
+                        "url": "simple example"
+                    },
+                    {
+                        "source": "During the lesson we use a lot of useful and <em>helpful</em> material: tapes, video, and lots of different books.",
+                        "target": "在这节课中，我们使用了许多有用的材料:磁带、录像和许多不同的书籍。",
+                        "url": "simple example"
+                    }
+                ]
+            },
+            "book": {
+                "yingyinNormal": [
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/649fb0da5e02febcad57f332efe07876_46469.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/d104290cdff12189dfdf9a76aefc9ba2_32610.mp3",
+                        "isLavafox": true,
+                        "en": "You know what, I think I'm gonna go to my room and read Cosmo, maybe there's something <em>helpful</em> in there.",
+                        "zh": "我想我要回房去看时尚杂志了，或许会读到什么有用的。",
+                        "videoNameZh": "《老友记 第二季》",
+                        "videoNameEn": "《Friends Season 2》",
+                        "url": "http://bisentence_movie.sogou.com/f596118b5c5d94e4897f8cf811e61b5b_fde3bbe2802997138efc0ff1683e871a1020b49a"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/f7d7167294560b5a445295985c93469c_14515.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/82c680b3a4477f43fddb026b5756fb83_76401.mp3",
+                        "isLavafox": true,
+                        "en": "That's not <em>helpful</em>. It's fun to think about, but it's not <em>helpful</em>.",
+                        "zh": "这个建议完全没有帮助，虽然想起来爽翻了，但没有实质帮助。",
+                        "videoNameZh": "《生活大爆炸 第十季》",
+                        "videoNameEn": "《The Big Bang Theory Season 10》",
+                        "url": "http://bisentence_movie.sogou.com/f5798b88f141f41d2a3fdc8e12af99f3_7e2ce009a7e303a0401e56ac20c3ff35c69af293"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/39e50807a5a1191398262e04787ff184_62485.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/4b27793bd5ceb2f2bc0659e59f77d61a_49833.mp3",
+                        "isLavafox": true,
+                        "en": "Excuse me, but I think we've both found that <em>helpful</em> at times.",
+                        "zh": "但是我相信，我们都觉察到那有时候很管用。",
+                        "videoNameZh": "《生活大爆炸 第一季》",
+                        "videoNameEn": "《The Big Bang Theory Season 1》",
+                        "url": "http://bisentence_movie.sogou.com/943b6cffe73f3d1d9c71378c53a72eba_1a7ad1634ee509cea28ea256460024b08693e5bb"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/f7d7167294560b5a445295985c93469c_14515.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/08dee963a6f53efcfcbf1f3886aa9652_73276.mp3",
+                        "isLavafox": true,
+                        "en": "That's super <em>helpful</em>, Amy. Thanks a lot. I can't wait to do that.",
+                        "zh": "你这席话我受益良多，谢谢你全家啊，真想立刻让你扫描。",
+                        "videoNameZh": "《生活大爆炸 第十季》",
+                        "videoNameEn": "《The Big Bang Theory Season 10》",
+                        "url": "http://bisentence_movie.sogou.com/7776020d8137ce4fd7d9ce334b98198e_4c33214c822f21a8ebb15a196e8315340c2ae277"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/070fb26d3af178b3f2a1532fb08bc392_61512.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/fc40a1f2ba6055998d79b06cc9c45200_37838.mp3",
+                        "isLavafox": true,
+                        "en": "Keep me alive for the next six hours. That would be extremely <em>helpful</em>.",
+                        "zh": "确保接下来的六小时我能活着，这一点至关重要。",
+                        "videoNameZh": "《饥饿游戏2：星火燎原》",
+                        "videoNameEn": "《The Hunger Games: Catching Fire》",
+                        "url": "http://bisentence_movie.sogou.com/9a8d88ba640e866bb59c923e2552a2ad_b88b98cca447eae8fd6ee16be67984540bab1a5d"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/7eb0bec9540cbb2c5939554caf885c99_49670.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/130d0365283d2768f3a1f5d166b271d5_10322.mp3",
+                        "isLavafox": true,
+                        "en": "Your scan data will be very <em>helpful</em> to my research. You have a remarkable brain.",
+                        "zh": "你的扫描资料会对我的研究非常有帮助，你有一颗非比寻常的大脑。",
+                        "videoNameZh": "《生活大爆炸 第二季》",
+                        "videoNameEn": "《The Big Bang Theory Season 2》",
+                        "url": "http://bisentence_movie.sogou.com/8e4f09c00ad5f428bdbb0109455f5557_c1b2dd8de3452fae7faface83a542a69fb8e326b"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/dde03d29cdf9f1eb3170279dd5ad8ff2_46072.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/416a8b93a81cdf23eb25ad4fe6d46668_18151.mp3",
+                        "isLavafox": true,
+                        "en": "Well, Private Dorchester reporting for duty. You are just so <em>helpful</em> tonight, Gloria.",
+                        "zh": "二等兵多切斯特前来报到，你今晚真是乐于助人啊，歌洛莉亚。",
+                        "videoNameZh": "《摩登家庭 第六季》",
+                        "videoNameEn": "《Modern Family Season 6》",
+                        "url": "http://bisentence_movie.sogou.com/fd595fbaaa2dc8f035492b98f0f9ef49_d948dbdba7789eb76fde02544e1d860d89033300"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/c3652a60f61ce63a5e9067648ae2439c_44092.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/7f073ac47fbf4cd6a8e1710f20d1a4ac_55473.mp3",
+                        "isLavafox": true,
+                        "en": "Yeah, I actually have information about Raj that would be <em>helpful</em> with this discussion.",
+                        "zh": "我知道一些关于拉杰的事，也许对你们的讨论有帮助。",
+                        "videoNameZh": "《生活大爆炸 第五季》",
+                        "videoNameEn": "《The Big Bang Theory Season 5》",
+                        "url": "http://bisentence_movie.sogou.com/bd68e12cce74e0ae8d448ad395691a8b_38d6cef9c2432f809981f07b6f6bd46b54b34d9e"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/34d2d19c723ad11a5a6dcd6da67c9085_43190.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/f01f747405b1970978077513664d7724_54493.mp3",
+                        "isLavafox": true,
+                        "en": "But Mr Branson believes you could be very <em>helpful</em>, my lady, and as the agent, he should know.",
+                        "zh": "但是布兰森先生相信您可以帮上大忙，小姐，他是代理人，应该很清楚。",
+                        "videoNameZh": "《唐顿庄园 第四季》",
+                        "videoNameEn": "《Downton Abbey Season 4》",
+                        "url": "http://bisentence_movie.sogou.com/4f904c90a121c3e43608dc78e269e8ef_cac861b4ee4ea88897e730d55ebce353365b7ecd"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/c147f8d54a969778fef4aa74fdb25c24_34800.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/e669878b77a5e20d6309d15389bcbb7b_70965.mp3",
+                        "isLavafox": true,
+                        "en": "I spoke with the president, and I said that I'm willing to assist in any way if it would be <em>helpful</em>.",
+                        "zh": "我和总统谈过，我说我愿提供任何协助。",
+                        "videoNameZh": "《纸牌屋 第四季》",
+                        "videoNameEn": "《House of Cards Season 4》",
+                        "url": "http://bisentence_movie.sogou.com/1ab463e090bca45e83bae7a4fb78bb92_a6c8894e90e38344bf3c9464099be455982d0302"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/f012eb5fd120cc2d5b68f18e3d0e7c8c_67362.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/03ef648b890fda159fbeff3af81fb733_24126.mp3",
+                        "isLavafox": true,
+                        "en": "No. Not since the fourth-years tried to scare us. It would be <em>helpful</em> if you could get closer to them.",
+                        "zh": "没有，最新消息就是四年律师试图恐吓我们。如果能同他们拉近距离，将会大有益处。",
+                        "videoNameZh": "《傲骨贤妻 第五季》",
+                        "videoNameEn": "《The Good Wife Season 5》",
+                        "url": "http://bisentence_movie.sogou.com/ac01ee258568eb64635d3afaa3fbbdc6_3dcff398a1baa863561aaf1fc6b3563f8d8e7222"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/21d26cfef0cd26f0813072491b08dd5a_57364.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/8565dd4fe7b27a1f2d7ae28a2377d85b_24051.mp3",
+                        "isLavafox": true,
+                        "en": "Good to know. Yeah, a few more <em>helpful</em> hints like that, you may find yourself on the Council of Ladies.",
+                        "zh": "知道这个太好了，你再多说点这类的金玉良言，就可以名正言顺地加入姐妹顾问团了。",
+                        "videoNameZh": "《生活大爆炸 第六季》",
+                        "videoNameEn": "《The Big Bang Theory Season 6》",
+                        "url": "http://bisentence_movie.sogou.com/f84f42332a0d243bc4a29999646296f0_8429c0d203b577d81182aeae60f01636b5cf97fc"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/f7d7167294560b5a445295985c93469c_14515.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/86ae152c720cbca8b6434976eee4cc1c_50992.mp3",
+                        "isLavafox": true,
+                        "en": "But I am ready to be <em>helpful</em>. In fact, I'm gonna go vacuum. Actually I just did that this morning. Okay.",
+                        "zh": "但我已经准备帮忙了。其实，我现在就去吸地板。我今早才吸过一遍。好吧。",
+                        "videoNameZh": "《生活大爆炸 第十季》",
+                        "videoNameEn": "《The Big Bang Theory Season 10》",
+                        "url": "http://bisentence_movie.sogou.com/6bcfcf1d634786b9198dbc191b066678_1ad00aef1702093098e9a94355518351f15ed052"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/21d26cfef0cd26f0813072491b08dd5a_57364.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/d7c4a05255c18b0a88d9ba41e1c9ca34_16557.mp3",
+                        "isLavafox": true,
+                        "en": "Really? Yes. You were very natural in front of the camera, and I found your suggestions extremely <em>helpful</em>.",
+                        "zh": "真的吗？真的，你在镜头面前表现得很自然，而且我觉得你建议非常有用。",
+                        "videoNameZh": "《生活大爆炸 第六季》",
+                        "videoNameEn": "《The Big Bang Theory Season 6》",
+                        "url": "http://bisentence_movie.sogou.com/8a98a38373f17d2166816d6c7afe9834_9c981735050b13ec34bce8d200db6de6301e10aa"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/f7d7167294560b5a445295985c93469c_14515.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/404011be786cce39ac254200fe4190ad_41887.mp3",
+                        "isLavafox": true,
+                        "en": "You're up. This is getting old fast, Dolores, knock it off. Do you really think calling me names is <em>helpful</em>?",
+                        "zh": "你去吧。谢小妹妹，老娘快没耐心了，别再唧唧歪歪！你真的觉得这么乱叫我有用吗？",
+                        "videoNameZh": "《生活大爆炸 第十季》",
+                        "videoNameEn": "《The Big Bang Theory Season 10》",
+                        "url": "http://bisentence_movie.sogou.com/60dc82dab4a2ac2465187e7c0543891f_1b53c32f1bb63406bac2da58aa1256e362606806"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/7eb0bec9540cbb2c5939554caf885c99_49670.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/0625f88ea52eba017ca2b3b659f3fbf5_39764.mp3",
+                        "isLavafox": true,
+                        "en": "Anyway, should you have any interaction with her, it would be most <em>helpful</em> that she not see you as a sexual rival.",
+                        "zh": "而且你应该多和她接触一下，好让她别感觉到你是她的性竞争对手。",
+                        "videoNameZh": "《生活大爆炸 第二季》",
+                        "videoNameEn": "《The Big Bang Theory Season 2》",
+                        "url": "http://bisentence_movie.sogou.com/bba8d195e91a75bed24da0c57ad0ca51_1c8d1ee42f8ce3e2a2e8d43741340dadc60305d3"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/68eeb648a2ff0cbf1b553571b1bde0b8_47107.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/08597a02bb0380efd51437cd8caa992a_7450.mp3",
+                        "isLavafox": true,
+                        "en": "Well, guess you could say you had a \"Sax\" Scandal, then. A sax scandal, I'm running with that. Oh, thanks a lot for that. Very <em>helpful</em>.",
+                        "zh": "看来可以写有“萨”[性]丑闻啊。“萨”丑闻——我要用这个标题。谢谢你全家。很有帮助。",
+                        "videoNameZh": "《摩登家庭 第八季》",
+                        "videoNameEn": "《Modern Family Season 8》",
+                        "url": "http://bisentence_movie.sogou.com/3a081464dfc3fd5e4ac49124207f77e4_8c4a27f36bf9b8dc57aac6054e42d255f5ec25e7"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/b73d6e20976b7ffe4e651b29ea5ddefc_31309.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/a1748366708fee8bff9c44a2468a4f7b_69509.mp3",
+                        "isLavafox": true,
+                        "en": "It's better if you put them side-by-side. No, this way, Emily. This is the right way, Emily. No, Emily. Like this. You're all being very <em>helpful</em>.",
+                        "zh": "像这样，并排放会比较好一点。不对，这样放比较好。要这样搭积木才对。不是那样的，要像这样。你们都那么乐于助人真好。",
+                        "videoNameZh": "《粉红猪小妹 第二季》",
+                        "videoNameEn": "《Peppa Pig Season 2》",
+                        "url": "http://bisentence_movie.sogou.com/7fae8a0746dcad9ca1c5caddeaa5b664_0f64883ecb992eb0ba20a18da1fedb4333502494"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/21d26cfef0cd26f0813072491b08dd5a_57364.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/e400e9774c7bc681169313ee144bc16d_45763.mp3",
+                        "isLavafox": true,
+                        "en": "We each get five minutes to talk about our problems. We'll take turns. Each turn will consist of a statement and a <em>helpful</em> response from the friend.",
+                        "zh": "我们每人有5分钟说自己的麻烦，轮流说，每一轮包括自我陈述以及朋友提出的有益建议。",
+                        "videoNameZh": "《生活大爆炸 第六季》",
+                        "videoNameEn": "《The Big Bang Theory Season 6》",
+                        "url": "http://bisentence_movie.sogou.com/f08896aa03acfe3d664fb8c74d119737_e1c2b4d1582af71884eb5a9c22da5a0e6f077e1e"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/69e52acd9e09b6a2ed378507a165e971_14638.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/e0a824593c136706373d1f0ad6cbd35b_47936.mp3",
+                        "isLavafox": true,
+                        "en": "Right. Right. These are my steps, and I'm not going to relinquish them without a fight, though it would be <em>helpful</em> if there was one more person in our crowd.",
+                        "zh": "是的，这是我的台阶，我不能一点反击都没有就投降认输，但如果有多一个人的话，会更有帮助。",
+                        "videoNameZh": "《绯闻女孩 第一季》",
+                        "videoNameEn": "《Gossip Girl Season 1》",
+                        "url": "http://bisentence_movie.sogou.com/36ee3911ddcfee6e2a98c7ab79583521_7b2fab77e9334749bdf385831f100aed2cae6f2f"
+                    }
+                ]
+            },
+            "pic": "",
+            "voice": {
+                "phonetic": [
+                    {
+                        "text": "ˈhelpfl",
+                        "type": "uk",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/3544_helpful_uk.mp3"
+                    },
+                    {
+                        "text": "ˈhelpfl",
+                        "type": "usa",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/3544_helpful_usa.mp3"
+                    }
+                ]
+            },
+            "dictType": "oxford_buchong",
+            "kaoyan": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 5,
+                        "pos": "adj",
+                        "chinese": "有帮助的; 有用的",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "helpful",
+                "direction_info": {
+                    "ranges": 12,
+                    "description": "数据源自2012-2023年12年间全国考研试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2012-2023年全国考研英语一和考研英语二共24套考研试卷，包括阅读、完型填空、翻译、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选全国考研考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2012-2023年12年间全国考研英语一和考研英语二试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 1,
+                "word_family": {
+                    "derivative_info_list": [
+                        {
+                            "derivative_info_list": [],
+                            "word": "helping",
+                            "mean": "n. 一份；一客"
+                        },
+                        {
+                            "derivative_info_list": [
+                                {
+                                    "derivative_info_list": [],
+                                    "word": "unhelpful",
+                                    "mean": "adj. 无帮助的；无用的"
+                                }
+                            ],
+                            "word": "helpful",
+                            "mean": "adj. 给予帮助的；乐于帮助的；有用的；有益的"
+                        }
+                    ],
+                    "word": "help",
+                    "mean": "v. 帮助；援助；资助；救助；给（人）拿；无法避免；忍不住；情不自禁；有益于；对（情况或问题）有帮助"
+                },
+                "total_exam_freq": 5,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "有帮助的; 有用的",
+                            "pos": "adj",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "We think of it simply as a healthy and <highlight>helpful</highlight> flow of intelligent thought.",
+                                    "month": -1,
+                                    "source": "英语一",
+                                    "coll": "",
+                                    "sentence_trans": "我们认为它只是一种健康而有用的智能思想流。",
+                                    "year": 2016,
+                                    "type": "翻译",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "As an executive coach, I've seen image upgrades be particularly <highlight>helpful</highlight> during transitions.",
+                                    "month": -1,
+                                    "source": "英语一",
+                                    "coll": "",
+                                    "sentence_trans": "作为一名高管教练，我看到形象升级在过渡期间特别有用。",
+                                    "year": 2016,
+                                    "type": "阅读理解B",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Two- and three-dimensional maps are <highlight>helpful</highlight> tools in planning excavations, illustrating how sites look, and presenting the results of archaeological research.",
+                                    "month": -1,
+                                    "source": "英语一",
+                                    "coll": "",
+                                    "sentence_trans": "二维和三维地图是规划挖掘、说明遗址外观和展示考古研究结果的有用工具。",
+                                    "year": 2014,
+                                    "type": "阅读理解B",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "word_affix": {
+                    "word": "helpful",
+                    "sub_affix_info_list": [
+                        {
+                            "affix": "help",
+                            "affix_mean": "v. 帮助"
+                        },
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "awful",
+                                            "mean": "adj. 糟糕的；令人不快的；令人惊叹的；可怕的；极；恐怖的；不安的；太；不舒服的"
+                                        },
+                                        {
+                                            "word": "beautiful",
+                                            "mean": "adj. 美的；美丽的；令人愉悦的；完美的；出色的"
+                                        },
+                                        {
+                                            "word": "bountiful",
+                                            "mean": "adj. 大量的；丰富的；充足的；慷慨的"
+                                        },
+                                        {
+                                            "word": "careful",
+                                            "mean": "adj. 小心的；谨慎的；深思熟虑的；审慎的；焦虑的；忧虑的；关切的；挂念的"
+                                        },
+                                        {
+                                            "word": "cheerful",
+                                            "mean": "adj. 开心的；愉快的；乐观的；令人愉快的；令人振奋的"
+                                        },
+                                        {
+                                            "word": "colorful",
+                                            "mean": "adj. 富于色彩的；颜色鲜艳的；富有趣味的；生动的；绘声绘色的；丰富多彩的；不光彩的；粗鲁无礼的；放浪形骸的；粗俗的"
+                                        },
+                                        {
+                                            "word": "deceitful",
+                                            "mean": "adj. 欺诈的；欺骗的"
+                                        },
+                                        {
+                                            "word": "delightful",
+                                            "mean": "adj. 可喜的；令人愉快的；迷人的"
+                                        },
+                                        {
+                                            "word": "distasteful",
+                                            "mean": "adj. 讨厌的；不合口味的；使人不愉快的；味道差的"
+                                        },
+                                        {
+                                            "word": "doubtful",
+                                            "mean": "adj. 拿不准的；不能肯定的；疑惑的；怀疑的；可疑的；不确定的；不确知的；未决的；不大可能的；未必会的"
+                                        },
+                                        {
+                                            "word": "eventful",
+                                            "mean": "adj. 多趣事的；多兴奋之事的"
+                                        },
+                                        {
+                                            "word": "faithful",
+                                            "mean": "adj. 忠实的；忠诚的；守信的；虔诚的；如实的；忠于原文的；准确可靠的；忠贞的；可靠的；可信赖的"
+                                        },
+                                        {
+                                            "word": "fanciful",
+                                            "mean": "adj. 不现实的；爱想像的；稀奇古怪的；花哨的；空想的；臆造的"
+                                        },
+                                        {
+                                            "word": "fateful",
+                                            "mean": "adj. 决定性的；重大的；灾难性的；致命的"
+                                        },
+                                        {
+                                            "word": "fearful",
+                                            "mean": "adj. 惧怕的；胆怯的；担心的；担忧的；极大的；可怕的；恐怖的；吓人的；令人恐惧的"
+                                        },
+                                        {
+                                            "word": "forceful",
+                                            "mean": "adj. 强有力的；坚强的；有力的"
+                                        },
+                                        {
+                                            "word": "forgetful",
+                                            "mean": "adj. 健忘的；易忘的"
+                                        },
+                                        {
+                                            "word": "fruitful",
+                                            "mean": "adj. 结很多果实的；富饶的；卓有成效的；多产的；有收益的；多子多孙的"
+                                        },
+                                        {
+                                            "word": "gleeful",
+                                            "mean": "adj. 欢快的；兴高采烈的；欣喜的"
+                                        },
+                                        {
+                                            "word": "graceful",
+                                            "mean": "adj. 优雅的；雅致的"
+                                        },
+                                        {
+                                            "word": "grateful",
+                                            "mean": "adj. 感激的；感谢的；受欢迎的；令人获得快意的"
+                                        },
+                                        {
+                                            "word": "harmful",
+                                            "mean": "adj. 有害的；造成伤害的"
+                                        },
+                                        {
+                                            "word": "hopeful",
+                                            "mean": "adj. 有希望的；充满希望的；乐观的"
+                                        },
+                                        {
+                                            "word": "joyful",
+                                            "mean": "adj. 快乐的；高兴的；令人高兴的；令人快乐的"
+                                        },
+                                        {
+                                            "word": "meaningful",
+                                            "mean": "adj. 有意义的；重要的；有益的；严肃的；富有意味的"
+                                        },
+                                        {
+                                            "word": "merciful",
+                                            "mean": "adj. 慈悲的；仁慈的；带来幸运的；给人解脱的"
+                                        },
+                                        {
+                                            "word": "mirthful",
+                                            "mean": "adj. 高兴的；愉快的；令人欢乐的"
+                                        },
+                                        {
+                                            "word": "mournful",
+                                            "mean": "adj. 忧伤的；悲痛的；遗憾的"
+                                        },
+                                        {
+                                            "word": "painful",
+                                            "mean": "adj. 疼痛的；引起疼痛的；令人不快的；使人烦恼的；费事的；极坏的"
+                                        },
+                                        {
+                                            "word": "peaceful",
+                                            "mean": "adj. 安宁的；宁静的；平静的；和平的；爱好和平的"
+                                        },
+                                        {
+                                            "word": "pitiful",
+                                            "mean": "adj. 可怜的；令人同情的；小的；穷的；不足的；富于同情心的"
+                                        },
+                                        {
+                                            "word": "plentiful",
+                                            "mean": "adj. 大量的；丰产的；丰富的"
+                                        },
+                                        {
+                                            "word": "purposeful",
+                                            "mean": "adj. 坚定的；有决心的；果断的；有目的的；有益的；有用的；故意的；蓄意的"
+                                        },
+                                        {
+                                            "word": "resentful",
+                                            "mean": "adj. 气愤的；感到愤愤不平的；表示愤恨的"
+                                        },
+                                        {
+                                            "word": "shameful",
+                                            "mean": "adj. 可耻的；丢脸的"
+                                        },
+                                        {
+                                            "word": "spiteful",
+                                            "mean": "adj. 怀恨的；恶意的"
+                                        },
+                                        {
+                                            "word": "successful",
+                                            "mean": "adj. 成功的；有成就的；受欢迎的；赚了钱的"
+                                        },
+                                        {
+                                            "word": "tactful",
+                                            "mean": "adj. 机智的；灵活的；圆通的"
+                                        },
+                                        {
+                                            "word": "tasteful",
+                                            "mean": "adj. 有鉴赏力的；趣味高雅的；得体的"
+                                        },
+                                        {
+                                            "word": "tearful",
+                                            "mean": "adj. 流泪的；哭泣的；爱哭的；快要哭的；催人泪下的；令人伤心的；使人流泪的"
+                                        },
+                                        {
+                                            "word": "thankful",
+                                            "mean": "adj. 欣慰的；感谢（或感激）的"
+                                        },
+                                        {
+                                            "word": "thoughtful",
+                                            "mean": "adj. 沉思的；思考的；体贴的；考虑周到的；关心别人的；经缜密思考的；注意的"
+                                        },
+                                        {
+                                            "word": "hopefully",
+                                            "mean": "adv. 满怀希望地；有希望地；希望是；有望"
+                                        },
+                                        {
+                                            "word": "powerful",
+                                            "mean": "adj. 强大的；强有力的；大功率的；效力大的；有影响力的；影响大的"
+                                        },
+                                        {
+                                            "word": "respectful",
+                                            "mean": "adj. 恭敬的；表示尊敬的"
+                                        },
+                                        {
+                                            "word": "skillful",
+                                            "mean": "adj. 熟练的；有技巧的"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "形容词后缀, 具有某种性质/倾向",
+                                    "affix_type": "suffix"
+                                },
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "handful",
+                                            "mean": "n. 一把；难控制的人；难对付的人；少数；少量"
+                                        },
+                                        {
+                                            "word": "spoonful",
+                                            "mean": "n. 一匙；一匙的量"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "抽象动词的名词后缀, 表示\"充满…(容器名词)的量\"",
+                                    "affix_type": "suffix"
+                                },
+                                {
+                                    "sample": [],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "表形容词, \"有…的, 充满…的\"",
+                                    "affix_type": "suffix"
+                                }
+                            ],
+                            "affix": "-ful",
+                            "affix_mean": "形容词后缀"
+                        }
+                    ],
+                    "word_mean": "adj. 给予帮助的"
+                }
+            },
+            "CET6": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 9,
+                        "pos": "adj",
+                        "chinese": "有益的",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "helpful",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2016.6-2023.6年8年间全六级试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight>考纲释义</highlight>\n精选实考、考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2016-2023年51套试卷，包括阅读、听力、翻译等所有题型。\n\n<highlight>真题例句</highlight>\n精选2016-2023年8年间全六级试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 2,
+                "word_family": {
+                    "derivative_info_list": [
+                        {
+                            "derivative_info_list": [],
+                            "word": "helpless",
+                            "mean": "adj. 无法保护自己的；无能为力的；无法控制的"
+                        },
+                        {
+                            "derivative_info_list": [],
+                            "word": "helper",
+                            "mean": "n. 帮手；助手"
+                        },
+                        {
+                            "derivative_info_list": [
+                                {
+                                    "derivative_info_list": [],
+                                    "word": "unhelpful",
+                                    "mean": "adj. 无帮助的；无用的"
+                                }
+                            ],
+                            "word": "helpful",
+                            "mean": "adj. 给予帮助的；乐于帮助的；有用的；有益的"
+                        }
+                    ],
+                    "word": "help",
+                    "mean": "v. 帮助；援助；资助；救助；给（人）拿；无法避免；忍不住；情不自禁；有益于；对（情况或问题）有帮助"
+                },
+                "total_exam_freq": 9,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "able to improve a particular situation",
+                            "zh": "有益的",
+                            "pos": "adj",
+                            "synonyms": "useful",
+                            "antonyms": "useless",
+                            "examination_example": [
+                                {
+                                    "sentence": "In many circumstances, social connection is actually more <highlight>helpful</highlight> to your daily life than understanding the truth of a particular fact or idea.",
+                                    "month": 12,
+                                    "source": "CET6",
+                                    "coll": "",
+                                    "sentence_trans": "在许多情况下，社会联系实际上比了解特定事实或想法的真相更有助于你的日常生活。",
+                                    "year": 2021,
+                                    "type": "阅读理解B",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Perhaps, if we continue to improve information-processing machines, we'll soon have <highlight>helpful</highlight> rational assistants.",
+                                    "month": 6,
+                                    "source": "CET6",
+                                    "coll": "",
+                                    "sentence_trans": "如果我们不断完善机器处理信息的能力，用不了多久我们就可能会拥有“理性的”得力助手。",
+                                    "year": 2019,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "word_affix": {
+                    "word": "helpful",
+                    "sub_affix_info_list": [
+                        {
+                            "affix": "help",
+                            "affix_mean": "v. 帮助"
+                        },
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "awful",
+                                            "mean": "adj. 糟糕的；令人不快的；令人惊叹的；可怕的；极；恐怖的；不安的；太；不舒服的"
+                                        },
+                                        {
+                                            "word": "beautiful",
+                                            "mean": "adj. 美的；美丽的；令人愉悦的；完美的；出色的"
+                                        },
+                                        {
+                                            "word": "bountiful",
+                                            "mean": "adj. 大量的；丰富的；充足的；慷慨的"
+                                        },
+                                        {
+                                            "word": "careful",
+                                            "mean": "adj. 小心的；谨慎的；深思熟虑的；审慎的；焦虑的；忧虑的；关切的；挂念的"
+                                        },
+                                        {
+                                            "word": "cheerful",
+                                            "mean": "adj. 开心的；愉快的；乐观的；令人愉快的；令人振奋的"
+                                        },
+                                        {
+                                            "word": "colorful",
+                                            "mean": "adj. 富于色彩的；颜色鲜艳的；富有趣味的；生动的；绘声绘色的；丰富多彩的；不光彩的；粗鲁无礼的；放浪形骸的；粗俗的"
+                                        },
+                                        {
+                                            "word": "deceitful",
+                                            "mean": "adj. 欺诈的；欺骗的"
+                                        },
+                                        {
+                                            "word": "delightful",
+                                            "mean": "adj. 可喜的；令人愉快的；迷人的"
+                                        },
+                                        {
+                                            "word": "distasteful",
+                                            "mean": "adj. 讨厌的；不合口味的；使人不愉快的；味道差的"
+                                        },
+                                        {
+                                            "word": "doubtful",
+                                            "mean": "adj. 拿不准的；不能肯定的；疑惑的；怀疑的；可疑的；不确定的；不确知的；未决的；不大可能的；未必会的"
+                                        },
+                                        {
+                                            "word": "eventful",
+                                            "mean": "adj. 多趣事的；多兴奋之事的"
+                                        },
+                                        {
+                                            "word": "faithful",
+                                            "mean": "adj. 忠实的；忠诚的；守信的；虔诚的；如实的；忠于原文的；准确可靠的；忠贞的；可靠的；可信赖的"
+                                        },
+                                        {
+                                            "word": "fanciful",
+                                            "mean": "adj. 不现实的；爱想像的；稀奇古怪的；花哨的；空想的；臆造的"
+                                        },
+                                        {
+                                            "word": "fateful",
+                                            "mean": "adj. 决定性的；重大的；灾难性的；致命的"
+                                        },
+                                        {
+                                            "word": "fearful",
+                                            "mean": "adj. 惧怕的；胆怯的；担心的；担忧的；极大的；可怕的；恐怖的；吓人的；令人恐惧的"
+                                        },
+                                        {
+                                            "word": "forceful",
+                                            "mean": "adj. 强有力的；坚强的；有力的"
+                                        },
+                                        {
+                                            "word": "forgetful",
+                                            "mean": "adj. 健忘的；易忘的"
+                                        },
+                                        {
+                                            "word": "fruitful",
+                                            "mean": "adj. 结很多果实的；富饶的；卓有成效的；多产的；有收益的；多子多孙的"
+                                        },
+                                        {
+                                            "word": "gleeful",
+                                            "mean": "adj. 欢快的；兴高采烈的；欣喜的"
+                                        },
+                                        {
+                                            "word": "graceful",
+                                            "mean": "adj. 优雅的；雅致的"
+                                        },
+                                        {
+                                            "word": "grateful",
+                                            "mean": "adj. 感激的；感谢的；受欢迎的；令人获得快意的"
+                                        },
+                                        {
+                                            "word": "harmful",
+                                            "mean": "adj. 有害的；造成伤害的"
+                                        },
+                                        {
+                                            "word": "hopeful",
+                                            "mean": "adj. 有希望的；充满希望的；乐观的"
+                                        },
+                                        {
+                                            "word": "joyful",
+                                            "mean": "adj. 快乐的；高兴的；令人高兴的；令人快乐的"
+                                        },
+                                        {
+                                            "word": "meaningful",
+                                            "mean": "adj. 有意义的；重要的；有益的；严肃的；富有意味的"
+                                        },
+                                        {
+                                            "word": "merciful",
+                                            "mean": "adj. 慈悲的；仁慈的；带来幸运的；给人解脱的"
+                                        },
+                                        {
+                                            "word": "mirthful",
+                                            "mean": "adj. 高兴的；愉快的；令人欢乐的"
+                                        },
+                                        {
+                                            "word": "mournful",
+                                            "mean": "adj. 忧伤的；悲痛的；遗憾的"
+                                        },
+                                        {
+                                            "word": "painful",
+                                            "mean": "adj. 疼痛的；引起疼痛的；令人不快的；使人烦恼的；费事的；极坏的"
+                                        },
+                                        {
+                                            "word": "peaceful",
+                                            "mean": "adj. 安宁的；宁静的；平静的；和平的；爱好和平的"
+                                        },
+                                        {
+                                            "word": "pitiful",
+                                            "mean": "adj. 可怜的；令人同情的；小的；穷的；不足的；富于同情心的"
+                                        },
+                                        {
+                                            "word": "plentiful",
+                                            "mean": "adj. 大量的；丰产的；丰富的"
+                                        },
+                                        {
+                                            "word": "purposeful",
+                                            "mean": "adj. 坚定的；有决心的；果断的；有目的的；有益的；有用的；故意的；蓄意的"
+                                        },
+                                        {
+                                            "word": "resentful",
+                                            "mean": "adj. 气愤的；感到愤愤不平的；表示愤恨的"
+                                        },
+                                        {
+                                            "word": "shameful",
+                                            "mean": "adj. 可耻的；丢脸的"
+                                        },
+                                        {
+                                            "word": "spiteful",
+                                            "mean": "adj. 怀恨的；恶意的"
+                                        },
+                                        {
+                                            "word": "successful",
+                                            "mean": "adj. 成功的；有成就的；受欢迎的；赚了钱的"
+                                        },
+                                        {
+                                            "word": "tactful",
+                                            "mean": "adj. 机智的；灵活的；圆通的"
+                                        },
+                                        {
+                                            "word": "tasteful",
+                                            "mean": "adj. 有鉴赏力的；趣味高雅的；得体的"
+                                        },
+                                        {
+                                            "word": "tearful",
+                                            "mean": "adj. 流泪的；哭泣的；爱哭的；快要哭的；催人泪下的；令人伤心的；使人流泪的"
+                                        },
+                                        {
+                                            "word": "thankful",
+                                            "mean": "adj. 欣慰的；感谢（或感激）的"
+                                        },
+                                        {
+                                            "word": "thoughtful",
+                                            "mean": "adj. 沉思的；思考的；体贴的；考虑周到的；关心别人的；经缜密思考的；注意的"
+                                        },
+                                        {
+                                            "word": "hopefully",
+                                            "mean": "adv. 满怀希望地；有希望地；希望是；有望"
+                                        },
+                                        {
+                                            "word": "powerful",
+                                            "mean": "adj. 强大的；强有力的；大功率的；效力大的；有影响力的；影响大的"
+                                        },
+                                        {
+                                            "word": "respectful",
+                                            "mean": "adj. 恭敬的；表示尊敬的"
+                                        },
+                                        {
+                                            "word": "skillful",
+                                            "mean": "adj. 熟练的；有技巧的"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "形容词后缀, 具有某种性质/倾向",
+                                    "affix_type": "suffix"
+                                },
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "handful",
+                                            "mean": "n. 一把；难控制的人；难对付的人；少数；少量"
+                                        },
+                                        {
+                                            "word": "spoonful",
+                                            "mean": "n. 一匙；一匙的量"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "抽象动词的名词后缀, 表示\"充满…(容器名词)的量\"",
+                                    "affix_type": "suffix"
+                                },
+                                {
+                                    "sample": [],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "表形容词, \"有…的, 充满…的\"",
+                                    "affix_type": "suffix"
+                                }
+                            ],
+                            "affix": "-ful",
+                            "affix_mean": "形容词后缀"
+                        }
+                    ],
+                    "word_mean": "adj. 给予帮助的"
+                }
+            },
+            "CET4": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 9,
+                        "pos": "adj",
+                        "chinese": "有益的",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "helpful",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2016.6-2023.6年8年间全四级试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight>考纲释义</highlight>\n精选实考、考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2016-2023年51套试卷，包括阅读、听力、翻译等所有题型。\n\n<highlight>真题例句</highlight>\n精选2016-2023年8年间试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 2,
+                "word_family": {
+                    "derivative_info_list": [
+                        {
+                            "derivative_info_list": [
+                                {
+                                    "derivative_info_list": [],
+                                    "word": "helplessness",
+                                    "mean": "n. 无能为力；无可奈何状态"
+                                }
+                            ],
+                            "word": "helpless",
+                            "mean": "adj. 无法保护自己的；无能为力的；无法控制的"
+                        },
+                        {
+                            "derivative_info_list": [],
+                            "word": "helper",
+                            "mean": "n. 帮手；助手"
+                        },
+                        {
+                            "derivative_info_list": [
+                                {
+                                    "derivative_info_list": [],
+                                    "word": "unhelpful",
+                                    "mean": "adj. 无帮助的；无用的"
+                                }
+                            ],
+                            "word": "helpful",
+                            "mean": "adj. 给予帮助的；乐于帮助的；有用的；有益的"
+                        }
+                    ],
+                    "word": "help",
+                    "mean": "v. 帮助；援助；资助；救助；给（人）拿；无法避免；忍不住；情不自禁；有益于；对（情况或问题）有帮助"
+                },
+                "total_exam_freq": 9,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "able to improve a particular situation",
+                            "zh": "有益的",
+                            "pos": "adj",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "I'm arguing that the concept of balance has never been <highlight>helpful</highlight>, because it's too limiting.",
+                                    "month": 9,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "我认为平衡的概念从来都不是有益的，因为它太局限了。",
+                                    "year": 2020,
+                                    "type": "阅读理解C",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "A balanced breakfast is really <highlight>helpful</highlight>, but getting regular meals throughout the day is more important to leave blood sugar stable through the day, which helps control weight and hunger levels.",
+                                    "month": 12,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "均衡的早餐真的很有帮助，但一整天的规律饮食，对保持全天血糖稳定更重要，而且有助于控制体重和饥饿水平。",
+                                    "year": 2019,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "It was <highlight>helpful</highlight> to maintaining a nation's tradition.",
+                                    "month": 6,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "这有助于保持一个国家的传统。",
+                                    "year": 2016,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "word_affix": {
+                    "word": "helpful",
+                    "sub_affix_info_list": [
+                        {
+                            "affix": "help",
+                            "affix_mean": "v. 帮助"
+                        },
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "awful",
+                                            "mean": "adj. 糟糕的；令人不快的；令人惊叹的；可怕的；极；恐怖的；不安的；太；不舒服的"
+                                        },
+                                        {
+                                            "word": "beautiful",
+                                            "mean": "adj. 美的；美丽的；令人愉悦的；完美的；出色的"
+                                        },
+                                        {
+                                            "word": "bountiful",
+                                            "mean": "adj. 大量的；丰富的；充足的；慷慨的"
+                                        },
+                                        {
+                                            "word": "careful",
+                                            "mean": "adj. 小心的；谨慎的；深思熟虑的；审慎的；焦虑的；忧虑的；关切的；挂念的"
+                                        },
+                                        {
+                                            "word": "cheerful",
+                                            "mean": "adj. 开心的；愉快的；乐观的；令人愉快的；令人振奋的"
+                                        },
+                                        {
+                                            "word": "colorful",
+                                            "mean": "adj. 富于色彩的；颜色鲜艳的；富有趣味的；生动的；绘声绘色的；丰富多彩的；不光彩的；粗鲁无礼的；放浪形骸的；粗俗的"
+                                        },
+                                        {
+                                            "word": "deceitful",
+                                            "mean": "adj. 欺诈的；欺骗的"
+                                        },
+                                        {
+                                            "word": "delightful",
+                                            "mean": "adj. 可喜的；令人愉快的；迷人的"
+                                        },
+                                        {
+                                            "word": "distasteful",
+                                            "mean": "adj. 讨厌的；不合口味的；使人不愉快的；味道差的"
+                                        },
+                                        {
+                                            "word": "doubtful",
+                                            "mean": "adj. 拿不准的；不能肯定的；疑惑的；怀疑的；可疑的；不确定的；不确知的；未决的；不大可能的；未必会的"
+                                        },
+                                        {
+                                            "word": "eventful",
+                                            "mean": "adj. 多趣事的；多兴奋之事的"
+                                        },
+                                        {
+                                            "word": "faithful",
+                                            "mean": "adj. 忠实的；忠诚的；守信的；虔诚的；如实的；忠于原文的；准确可靠的；忠贞的；可靠的；可信赖的"
+                                        },
+                                        {
+                                            "word": "fanciful",
+                                            "mean": "adj. 不现实的；爱想像的；稀奇古怪的；花哨的；空想的；臆造的"
+                                        },
+                                        {
+                                            "word": "fateful",
+                                            "mean": "adj. 决定性的；重大的；灾难性的；致命的"
+                                        },
+                                        {
+                                            "word": "fearful",
+                                            "mean": "adj. 惧怕的；胆怯的；担心的；担忧的；极大的；可怕的；恐怖的；吓人的；令人恐惧的"
+                                        },
+                                        {
+                                            "word": "forceful",
+                                            "mean": "adj. 强有力的；坚强的；有力的"
+                                        },
+                                        {
+                                            "word": "forgetful",
+                                            "mean": "adj. 健忘的；易忘的"
+                                        },
+                                        {
+                                            "word": "fruitful",
+                                            "mean": "adj. 结很多果实的；富饶的；卓有成效的；多产的；有收益的；多子多孙的"
+                                        },
+                                        {
+                                            "word": "gleeful",
+                                            "mean": "adj. 欢快的；兴高采烈的；欣喜的"
+                                        },
+                                        {
+                                            "word": "graceful",
+                                            "mean": "adj. 优雅的；雅致的"
+                                        },
+                                        {
+                                            "word": "grateful",
+                                            "mean": "adj. 感激的；感谢的；受欢迎的；令人获得快意的"
+                                        },
+                                        {
+                                            "word": "harmful",
+                                            "mean": "adj. 有害的；造成伤害的"
+                                        },
+                                        {
+                                            "word": "hopeful",
+                                            "mean": "adj. 有希望的；充满希望的；乐观的"
+                                        },
+                                        {
+                                            "word": "joyful",
+                                            "mean": "adj. 快乐的；高兴的；令人高兴的；令人快乐的"
+                                        },
+                                        {
+                                            "word": "meaningful",
+                                            "mean": "adj. 有意义的；重要的；有益的；严肃的；富有意味的"
+                                        },
+                                        {
+                                            "word": "merciful",
+                                            "mean": "adj. 慈悲的；仁慈的；带来幸运的；给人解脱的"
+                                        },
+                                        {
+                                            "word": "mirthful",
+                                            "mean": "adj. 高兴的；愉快的；令人欢乐的"
+                                        },
+                                        {
+                                            "word": "mournful",
+                                            "mean": "adj. 忧伤的；悲痛的；遗憾的"
+                                        },
+                                        {
+                                            "word": "painful",
+                                            "mean": "adj. 疼痛的；引起疼痛的；令人不快的；使人烦恼的；费事的；极坏的"
+                                        },
+                                        {
+                                            "word": "peaceful",
+                                            "mean": "adj. 安宁的；宁静的；平静的；和平的；爱好和平的"
+                                        },
+                                        {
+                                            "word": "pitiful",
+                                            "mean": "adj. 可怜的；令人同情的；小的；穷的；不足的；富于同情心的"
+                                        },
+                                        {
+                                            "word": "plentiful",
+                                            "mean": "adj. 大量的；丰产的；丰富的"
+                                        },
+                                        {
+                                            "word": "purposeful",
+                                            "mean": "adj. 坚定的；有决心的；果断的；有目的的；有益的；有用的；故意的；蓄意的"
+                                        },
+                                        {
+                                            "word": "resentful",
+                                            "mean": "adj. 气愤的；感到愤愤不平的；表示愤恨的"
+                                        },
+                                        {
+                                            "word": "shameful",
+                                            "mean": "adj. 可耻的；丢脸的"
+                                        },
+                                        {
+                                            "word": "spiteful",
+                                            "mean": "adj. 怀恨的；恶意的"
+                                        },
+                                        {
+                                            "word": "successful",
+                                            "mean": "adj. 成功的；有成就的；受欢迎的；赚了钱的"
+                                        },
+                                        {
+                                            "word": "tactful",
+                                            "mean": "adj. 机智的；灵活的；圆通的"
+                                        },
+                                        {
+                                            "word": "tasteful",
+                                            "mean": "adj. 有鉴赏力的；趣味高雅的；得体的"
+                                        },
+                                        {
+                                            "word": "tearful",
+                                            "mean": "adj. 流泪的；哭泣的；爱哭的；快要哭的；催人泪下的；令人伤心的；使人流泪的"
+                                        },
+                                        {
+                                            "word": "thankful",
+                                            "mean": "adj. 欣慰的；感谢（或感激）的"
+                                        },
+                                        {
+                                            "word": "thoughtful",
+                                            "mean": "adj. 沉思的；思考的；体贴的；考虑周到的；关心别人的；经缜密思考的；注意的"
+                                        },
+                                        {
+                                            "word": "hopefully",
+                                            "mean": "adv. 满怀希望地；有希望地；希望是；有望"
+                                        },
+                                        {
+                                            "word": "powerful",
+                                            "mean": "adj. 强大的；强有力的；大功率的；效力大的；有影响力的；影响大的"
+                                        },
+                                        {
+                                            "word": "respectful",
+                                            "mean": "adj. 恭敬的；表示尊敬的"
+                                        },
+                                        {
+                                            "word": "skillful",
+                                            "mean": "adj. 熟练的；有技巧的"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "形容词后缀, 具有某种性质/倾向",
+                                    "affix_type": "suffix"
+                                },
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "handful",
+                                            "mean": "n. 一把；难控制的人；难对付的人；少数；少量"
+                                        },
+                                        {
+                                            "word": "spoonful",
+                                            "mean": "n. 一匙；一匙的量"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "抽象动词的名词后缀, 表示\"充满…(容器名词)的量\"",
+                                    "affix_type": "suffix"
+                                },
+                                {
+                                    "sample": [],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "表形容词, \"有…的, 充满…的\"",
+                                    "affix_type": "suffix"
+                                }
+                            ],
+                            "affix": "-ful",
+                            "affix_mean": "形容词后缀"
+                        }
+                    ],
+                    "word_mean": "adj. 给予帮助的"
+                }
+            },
+            "gaokao": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 7,
+                        "pos": "adj",
+                        "chinese": "有帮助的; 有益的",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "helpful",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2015-2022年8年间全国卷和自主命题省市高考卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2015-2022年全国卷高考试卷，包括阅读、完形、单选、填空、听力、改错、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选各省市考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2015-2022年8年间全国卷和自主命题省市高考卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 2,
+                "word_family": {
+                    "derivative_info_list": [
+                        {
+                            "derivative_info_list": [
+                                {
+                                    "derivative_info_list": [],
+                                    "word": "helplessly",
+                                    "mean": "adv. 无助地；无能为力地"
+                                }
+                            ],
+                            "word": "helpless",
+                            "mean": "adj. 无法保护自己的；无能为力的；无法控制的"
+                        },
+                        {
+                            "derivative_info_list": [],
+                            "word": "helpful",
+                            "mean": "adj. 给予帮助的；乐于帮助的；有用的；有益的"
+                        }
+                    ],
+                    "word": "help",
+                    "mean": "v. 帮助；援助；资助；救助；给（人）拿；无法避免；忍不住；情不自禁；有益于；对（情况或问题）有帮助"
+                },
+                "total_exam_freq": 7,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "有帮助的; 有益的",
+                            "pos": "adj",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "Firstly, doing housework is <highlight>helpful</highlight> for us to be a responsible person.",
+                                    "month": -1,
+                                    "source": "全国乙卷",
+                                    "coll": "",
+                                    "sentence_trans": "首先，做家务有助于我们成为一个负责任的人。",
+                                    "year": 2021,
+                                    "type": "改错",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "They are less <highlight>helpful</highlight> in cities seriously jammed.",
+                                    "month": -1,
+                                    "source": "浙江卷",
+                                    "coll": "",
+                                    "sentence_trans": "在严重拥挤的城市里，它们就没那么有用了。",
+                                    "year": 2020,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "It was a trait (特点) others found <highlight>helpful</highlight>, and I soon had friends who wanted to make things with me.",
+                                    "month": -1,
+                                    "source": "浙江卷",
+                                    "coll": "",
+                                    "sentence_trans": "这是别人发现的一个有用的特点，我很快就有了想和我一起做事情的朋友。",
+                                    "year": 2020,
+                                    "type": "任务型阅读",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "word_affix": {
+                    "word": "helpful",
+                    "sub_affix_info_list": [
+                        {
+                            "affix": "help",
+                            "affix_mean": "v. 帮助"
+                        },
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "awful",
+                                            "mean": "adj. 糟糕的；令人不快的；令人惊叹的；可怕的；极；恐怖的；不安的；太；不舒服的"
+                                        },
+                                        {
+                                            "word": "beautiful",
+                                            "mean": "adj. 美的；美丽的；令人愉悦的；完美的；出色的"
+                                        },
+                                        {
+                                            "word": "bountiful",
+                                            "mean": "adj. 大量的；丰富的；充足的；慷慨的"
+                                        },
+                                        {
+                                            "word": "careful",
+                                            "mean": "adj. 小心的；谨慎的；深思熟虑的；审慎的；焦虑的；忧虑的；关切的；挂念的"
+                                        },
+                                        {
+                                            "word": "cheerful",
+                                            "mean": "adj. 开心的；愉快的；乐观的；令人愉快的；令人振奋的"
+                                        },
+                                        {
+                                            "word": "colorful",
+                                            "mean": "adj. 富于色彩的；颜色鲜艳的；富有趣味的；生动的；绘声绘色的；丰富多彩的；不光彩的；粗鲁无礼的；放浪形骸的；粗俗的"
+                                        },
+                                        {
+                                            "word": "deceitful",
+                                            "mean": "adj. 欺诈的；欺骗的"
+                                        },
+                                        {
+                                            "word": "delightful",
+                                            "mean": "adj. 可喜的；令人愉快的；迷人的"
+                                        },
+                                        {
+                                            "word": "distasteful",
+                                            "mean": "adj. 讨厌的；不合口味的；使人不愉快的；味道差的"
+                                        },
+                                        {
+                                            "word": "doubtful",
+                                            "mean": "adj. 拿不准的；不能肯定的；疑惑的；怀疑的；可疑的；不确定的；不确知的；未决的；不大可能的；未必会的"
+                                        },
+                                        {
+                                            "word": "eventful",
+                                            "mean": "adj. 多趣事的；多兴奋之事的"
+                                        },
+                                        {
+                                            "word": "faithful",
+                                            "mean": "adj. 忠实的；忠诚的；守信的；虔诚的；如实的；忠于原文的；准确可靠的；忠贞的；可靠的；可信赖的"
+                                        },
+                                        {
+                                            "word": "fanciful",
+                                            "mean": "adj. 不现实的；爱想像的；稀奇古怪的；花哨的；空想的；臆造的"
+                                        },
+                                        {
+                                            "word": "fateful",
+                                            "mean": "adj. 决定性的；重大的；灾难性的；致命的"
+                                        },
+                                        {
+                                            "word": "fearful",
+                                            "mean": "adj. 惧怕的；胆怯的；担心的；担忧的；极大的；可怕的；恐怖的；吓人的；令人恐惧的"
+                                        },
+                                        {
+                                            "word": "forceful",
+                                            "mean": "adj. 强有力的；坚强的；有力的"
+                                        },
+                                        {
+                                            "word": "forgetful",
+                                            "mean": "adj. 健忘的；易忘的"
+                                        },
+                                        {
+                                            "word": "fruitful",
+                                            "mean": "adj. 结很多果实的；富饶的；卓有成效的；多产的；有收益的；多子多孙的"
+                                        },
+                                        {
+                                            "word": "gleeful",
+                                            "mean": "adj. 欢快的；兴高采烈的；欣喜的"
+                                        },
+                                        {
+                                            "word": "graceful",
+                                            "mean": "adj. 优雅的；雅致的"
+                                        },
+                                        {
+                                            "word": "grateful",
+                                            "mean": "adj. 感激的；感谢的；受欢迎的；令人获得快意的"
+                                        },
+                                        {
+                                            "word": "harmful",
+                                            "mean": "adj. 有害的；造成伤害的"
+                                        },
+                                        {
+                                            "word": "hopeful",
+                                            "mean": "adj. 有希望的；充满希望的；乐观的"
+                                        },
+                                        {
+                                            "word": "joyful",
+                                            "mean": "adj. 快乐的；高兴的；令人高兴的；令人快乐的"
+                                        },
+                                        {
+                                            "word": "meaningful",
+                                            "mean": "adj. 有意义的；重要的；有益的；严肃的；富有意味的"
+                                        },
+                                        {
+                                            "word": "merciful",
+                                            "mean": "adj. 慈悲的；仁慈的；带来幸运的；给人解脱的"
+                                        },
+                                        {
+                                            "word": "mirthful",
+                                            "mean": "adj. 高兴的；愉快的；令人欢乐的"
+                                        },
+                                        {
+                                            "word": "mournful",
+                                            "mean": "adj. 忧伤的；悲痛的；遗憾的"
+                                        },
+                                        {
+                                            "word": "painful",
+                                            "mean": "adj. 疼痛的；引起疼痛的；令人不快的；使人烦恼的；费事的；极坏的"
+                                        },
+                                        {
+                                            "word": "peaceful",
+                                            "mean": "adj. 安宁的；宁静的；平静的；和平的；爱好和平的"
+                                        },
+                                        {
+                                            "word": "pitiful",
+                                            "mean": "adj. 可怜的；令人同情的；小的；穷的；不足的；富于同情心的"
+                                        },
+                                        {
+                                            "word": "plentiful",
+                                            "mean": "adj. 大量的；丰产的；丰富的"
+                                        },
+                                        {
+                                            "word": "purposeful",
+                                            "mean": "adj. 坚定的；有决心的；果断的；有目的的；有益的；有用的；故意的；蓄意的"
+                                        },
+                                        {
+                                            "word": "resentful",
+                                            "mean": "adj. 气愤的；感到愤愤不平的；表示愤恨的"
+                                        },
+                                        {
+                                            "word": "shameful",
+                                            "mean": "adj. 可耻的；丢脸的"
+                                        },
+                                        {
+                                            "word": "spiteful",
+                                            "mean": "adj. 怀恨的；恶意的"
+                                        },
+                                        {
+                                            "word": "successful",
+                                            "mean": "adj. 成功的；有成就的；受欢迎的；赚了钱的"
+                                        },
+                                        {
+                                            "word": "tactful",
+                                            "mean": "adj. 机智的；灵活的；圆通的"
+                                        },
+                                        {
+                                            "word": "tasteful",
+                                            "mean": "adj. 有鉴赏力的；趣味高雅的；得体的"
+                                        },
+                                        {
+                                            "word": "tearful",
+                                            "mean": "adj. 流泪的；哭泣的；爱哭的；快要哭的；催人泪下的；令人伤心的；使人流泪的"
+                                        },
+                                        {
+                                            "word": "thankful",
+                                            "mean": "adj. 欣慰的；感谢（或感激）的"
+                                        },
+                                        {
+                                            "word": "thoughtful",
+                                            "mean": "adj. 沉思的；思考的；体贴的；考虑周到的；关心别人的；经缜密思考的；注意的"
+                                        },
+                                        {
+                                            "word": "hopefully",
+                                            "mean": "adv. 满怀希望地；有希望地；希望是；有望"
+                                        },
+                                        {
+                                            "word": "powerful",
+                                            "mean": "adj. 强大的；强有力的；大功率的；效力大的；有影响力的；影响大的"
+                                        },
+                                        {
+                                            "word": "respectful",
+                                            "mean": "adj. 恭敬的；表示尊敬的"
+                                        },
+                                        {
+                                            "word": "skillful",
+                                            "mean": "adj. 熟练的；有技巧的"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "形容词后缀, 具有某种性质/倾向",
+                                    "affix_type": "suffix"
+                                },
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "handful",
+                                            "mean": "n. 一把；难控制的人；难对付的人；少数；少量"
+                                        },
+                                        {
+                                            "word": "spoonful",
+                                            "mean": "n. 一匙；一匙的量"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "抽象动词的名词后缀, 表示\"充满…(容器名词)的量\"",
+                                    "affix_type": "suffix"
+                                },
+                                {
+                                    "sample": [],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "表形容词, \"有…的, 充满…的\"",
+                                    "affix_type": "suffix"
+                                }
+                            ],
+                            "affix": "-ful",
+                            "affix_mean": "形容词后缀"
+                        }
+                    ],
+                    "word_mean": "adj. 给予帮助的"
+                }
+            },
+            "zhongkao": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 122,
+                        "pos": "adj",
+                        "chinese": "有帮助的; 有益的",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "helpful",
+                "direction_info": {
+                    "ranges": 4,
+                    "description": "数据源自2018-2021年4年间全国各省市中考试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2018-2021年全国重点省市中考试卷，包括听力、阅读、完形、单选、填空、改错、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选各省市考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2018-2021年4年间全国各省市中考试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 5,
+                "word_family": {
+                    "derivative_info_list": [
+                        {
+                            "derivative_info_list": [],
+                            "word": "helpless",
+                            "mean": "adj. 无法保护自己的；无能为力的；无法控制的"
+                        },
+                        {
+                            "derivative_info_list": [],
+                            "word": "helping",
+                            "mean": "n. 一份；一客"
+                        },
+                        {
+                            "derivative_info_list": [],
+                            "word": "helper",
+                            "mean": "n. 帮手；助手"
+                        },
+                        {
+                            "derivative_info_list": [],
+                            "word": "helpful",
+                            "mean": "adj. 给予帮助的；乐于帮助的；有用的；有益的"
+                        }
+                    ],
+                    "word": "help",
+                    "mean": "v. 帮助；援助；资助；救助；给（人）拿；无法避免；忍不住；情不自禁；有益于；对（情况或问题）有帮助"
+                },
+                "total_exam_freq": 122,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "有帮助的; 有益的",
+                            "pos": "adj",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "He is kind and <highlight>helpful</highlight>.",
+                                    "month": -1,
+                                    "source": "南宁卷",
+                                    "coll": "",
+                                    "sentence_trans": "他善良，乐于助人。",
+                                    "year": 2020,
+                                    "type": "情景交际",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "The students are very <highlight>helpful</highlight>.",
+                                    "month": -1,
+                                    "source": "广州市",
+                                    "coll": "",
+                                    "sentence_trans": "学生们非常乐于助人。",
+                                    "year": 2018,
+                                    "type": "单词拼写",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "A study of 2,000 teenagers in the US showed that eating breakfast daily is <highlight>helpful</highlight> to young people.",
+                                    "month": -1,
+                                    "source": "齐齐哈尔卷",
+                                    "coll": "",
+                                    "sentence_trans": "一项对美国2000名青少年的研究表明，每天吃早餐对年轻人有帮助。",
+                                    "year": 2018,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "word_affix": {
+                    "sub_affix_info_list": [
+                        {
+                            "affix": "help",
+                            "affix_mean": "v. 帮助"
+                        },
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "awful",
+                                            "mean": "adj. 糟糕的；令人不快的；令人惊叹的；可怕的；极；恐怖的；不安的；太；不舒服的"
+                                        },
+                                        {
+                                            "word": "beautiful",
+                                            "mean": "adj. 美的；美丽的；令人愉悦的；完美的；出色的"
+                                        },
+                                        {
+                                            "word": "bountiful",
+                                            "mean": "adj. 大量的；丰富的；充足的；慷慨的"
+                                        },
+                                        {
+                                            "word": "careful",
+                                            "mean": "adj. 小心的；谨慎的；深思熟虑的；审慎的；焦虑的；忧虑的；关切的；挂念的"
+                                        },
+                                        {
+                                            "word": "cheerful",
+                                            "mean": "adj. 开心的；愉快的；乐观的；令人愉快的；令人振奋的"
+                                        },
+                                        {
+                                            "word": "colorful",
+                                            "mean": "adj. 富于色彩的；颜色鲜艳的；富有趣味的；生动的；绘声绘色的；丰富多彩的；不光彩的；粗鲁无礼的；放浪形骸的；粗俗的"
+                                        },
+                                        {
+                                            "word": "deceitful",
+                                            "mean": "adj. 欺诈的；欺骗的"
+                                        },
+                                        {
+                                            "word": "delightful",
+                                            "mean": "adj. 可喜的；令人愉快的；迷人的"
+                                        },
+                                        {
+                                            "word": "distasteful",
+                                            "mean": "adj. 讨厌的；不合口味的；使人不愉快的；味道差的"
+                                        },
+                                        {
+                                            "word": "doubtful",
+                                            "mean": "adj. 拿不准的；不能肯定的；疑惑的；怀疑的；可疑的；不确定的；不确知的；未决的；不大可能的；未必会的"
+                                        },
+                                        {
+                                            "word": "eventful",
+                                            "mean": "adj. 多趣事的；多兴奋之事的"
+                                        },
+                                        {
+                                            "word": "faithful",
+                                            "mean": "adj. 忠实的；忠诚的；守信的；虔诚的；如实的；忠于原文的；准确可靠的；忠贞的；可靠的；可信赖的"
+                                        },
+                                        {
+                                            "word": "fanciful",
+                                            "mean": "adj. 不现实的；爱想像的；稀奇古怪的；花哨的；空想的；臆造的"
+                                        },
+                                        {
+                                            "word": "fateful",
+                                            "mean": "adj. 决定性的；重大的；灾难性的；致命的"
+                                        },
+                                        {
+                                            "word": "fearful",
+                                            "mean": "adj. 惧怕的；胆怯的；担心的；担忧的；极大的；可怕的；恐怖的；吓人的；令人恐惧的"
+                                        },
+                                        {
+                                            "word": "forceful",
+                                            "mean": "adj. 强有力的；坚强的；有力的"
+                                        },
+                                        {
+                                            "word": "forgetful",
+                                            "mean": "adj. 健忘的；易忘的"
+                                        },
+                                        {
+                                            "word": "fruitful",
+                                            "mean": "adj. 结很多果实的；富饶的；卓有成效的；多产的；有收益的；多子多孙的"
+                                        },
+                                        {
+                                            "word": "gleeful",
+                                            "mean": "adj. 欢快的；兴高采烈的；欣喜的"
+                                        },
+                                        {
+                                            "word": "graceful",
+                                            "mean": "adj. 优雅的；雅致的"
+                                        },
+                                        {
+                                            "word": "grateful",
+                                            "mean": "adj. 感激的；感谢的；受欢迎的；令人获得快意的"
+                                        },
+                                        {
+                                            "word": "harmful",
+                                            "mean": "adj. 有害的；造成伤害的"
+                                        },
+                                        {
+                                            "word": "hopeful",
+                                            "mean": "adj. 有希望的；充满希望的；乐观的"
+                                        },
+                                        {
+                                            "word": "joyful",
+                                            "mean": "adj. 快乐的；高兴的；令人高兴的；令人快乐的"
+                                        },
+                                        {
+                                            "word": "meaningful",
+                                            "mean": "adj. 有意义的；重要的；有益的；严肃的；富有意味的"
+                                        },
+                                        {
+                                            "word": "merciful",
+                                            "mean": "adj. 慈悲的；仁慈的；带来幸运的；给人解脱的"
+                                        },
+                                        {
+                                            "word": "mirthful",
+                                            "mean": "adj. 高兴的；愉快的；令人欢乐的"
+                                        },
+                                        {
+                                            "word": "mournful",
+                                            "mean": "adj. 忧伤的；悲痛的；遗憾的"
+                                        },
+                                        {
+                                            "word": "painful",
+                                            "mean": "adj. 疼痛的；引起疼痛的；令人不快的；使人烦恼的；费事的；极坏的"
+                                        },
+                                        {
+                                            "word": "peaceful",
+                                            "mean": "adj. 安宁的；宁静的；平静的；和平的；爱好和平的"
+                                        },
+                                        {
+                                            "word": "pitiful",
+                                            "mean": "adj. 可怜的；令人同情的；小的；穷的；不足的；富于同情心的"
+                                        },
+                                        {
+                                            "word": "plentiful",
+                                            "mean": "adj. 大量的；丰产的；丰富的"
+                                        },
+                                        {
+                                            "word": "purposeful",
+                                            "mean": "adj. 坚定的；有决心的；果断的；有目的的；有益的；有用的；故意的；蓄意的"
+                                        },
+                                        {
+                                            "word": "resentful",
+                                            "mean": "adj. 气愤的；感到愤愤不平的；表示愤恨的"
+                                        },
+                                        {
+                                            "word": "shameful",
+                                            "mean": "adj. 可耻的；丢脸的"
+                                        },
+                                        {
+                                            "word": "spiteful",
+                                            "mean": "adj. 怀恨的；恶意的"
+                                        },
+                                        {
+                                            "word": "successful",
+                                            "mean": "adj. 成功的；有成就的；受欢迎的；赚了钱的"
+                                        },
+                                        {
+                                            "word": "tactful",
+                                            "mean": "adj. 机智的；灵活的；圆通的"
+                                        },
+                                        {
+                                            "word": "tasteful",
+                                            "mean": "adj. 有鉴赏力的；趣味高雅的；得体的"
+                                        },
+                                        {
+                                            "word": "tearful",
+                                            "mean": "adj. 流泪的；哭泣的；爱哭的；快要哭的；催人泪下的；令人伤心的；使人流泪的"
+                                        },
+                                        {
+                                            "word": "thankful",
+                                            "mean": "adj. 欣慰的；感谢（或感激）的"
+                                        },
+                                        {
+                                            "word": "thoughtful",
+                                            "mean": "adj. 沉思的；思考的；体贴的；考虑周到的；关心别人的；经缜密思考的；注意的"
+                                        },
+                                        {
+                                            "word": "hopefully",
+                                            "mean": "adv. 满怀希望地；有希望地；希望是；有望"
+                                        },
+                                        {
+                                            "word": "powerful",
+                                            "mean": "adj. 强大的；强有力的；大功率的；效力大的；有影响力的；影响大的"
+                                        },
+                                        {
+                                            "word": "respectful",
+                                            "mean": "adj. 恭敬的；表示尊敬的"
+                                        },
+                                        {
+                                            "word": "skillful",
+                                            "mean": "adj. 熟练的；有技巧的"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "形容词后缀, 具有某种性质/倾向",
+                                    "affix_type": "suffix"
+                                },
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "handful",
+                                            "mean": "n. 一把；难控制的人；难对付的人；少数；少量"
+                                        },
+                                        {
+                                            "word": "spoonful",
+                                            "mean": "n. 一匙；一匙的量"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "抽象动词的名词后缀, 表示\"充满…(容器名词)的量\"",
+                                    "affix_type": "suffix"
+                                },
+                                {
+                                    "sample": [],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "表形容词, \"有…的, 充满…的\"",
+                                    "affix_type": "suffix"
+                                }
+                            ],
+                            "affix": "-ful",
+                            "affix_mean": "形容词后缀"
+                        }
+                    ],
+                    "word": "helpful",
+                    "word_mean": "adj. 给予帮助的"
+                }
+            },
+            "sentencesData": {
+                "status": 1,
+                "info": "notZh2En",
+                "data": {}
+            },
+            "isAutoMatch": false,
+            "Zh2En": false
+        },
+        "query": "helpful",
+        "result": "有益的",
+        "tabSelect": "detail",
+        "dictionaryType": "oxford_buchong",
+        "notFound_show": false,
+        "phoneticShow": "",
+        "globalShowTranslateRecord": "",
+        "pronPrefer": {
+            "type": "usa_1",
+            "speaker": "male",
+            "speed": "standard"
+        },
+        "ServerRecord": "",
+        "ServerUIGS": {
+            "version": "new",
+            "type": "all",
+            "stype": "success",
+            "terminal": "web",
+            "fr": "default",
+            "direction": "etoz",
+            "from": "en",
+            "to": "zh-CHS",
+            "len": 7,
+            "qtype": "text",
+            "qctype": "qc_1",
+            "dict_cover": 1,
+            "detail": 1,
+            "wordCardCover": 1,
+            "wordCardEn": 1,
+            "wordCardCh": 0,
+            "wordCardMinor": 0,
+            "wordCardNetmean": 0,
+            "wordDeform": 0,
+            "keyword": 0,
+            "bilingual": 1,
+            "simple": 0,
+            "levelList": 1,
+            "synonym": 1,
+            "antonym": 1,
+            "conjugate": 1,
+            "rootaffix": 1,
+            "baike_sogou": 0,
+            "baike_wiki": 0,
+            "wordDifference": 0,
+            "word_phrase": 1,
+            "secondQuery": 0,
+            "dict_oxford": 0,
+            "dict_newcentury": 0,
+            "zhongkaotab": 1,
+            "gaokaotab": 1,
+            "CET4tab": 1,
+            "CET6tab": 1,
+            "kaoyantab": 1,
+            "network_tab": 0,
+            "yinying_tab": 1,
+            "tuozhan_tab": 0,
+            "one_pic": 0,
+            "more_pic": 0,
+            "no_pic": 0,
+            "uuid": "f3636254-80d1-439a-b2c8-ab085c37e052",
+            "from_type": 0,
+            "t_trans_ssr": 169
+        },
+        "ServerModelUIGS": {
+            "terminal": "web",
+            "type": "trans_model",
+            "pbtype": "pv",
+            "model_general": 1,
+            "model_medical": 1,
+            "model_finance": 1
+        },
+        "ServerSgtkn": "64F897E894553B919A9FB2223B9EC7E29A361A786755306A",
+        "suggShow": false,
+        "suggestion": "",
+        "suggDirection": "",
+        "usualTop": "",
+        "baseDict": "",
+        "wordCardClick": false,
+        "isFrInput": false,
+        "kanaTips": {
+            "show": false,
+            "left": "",
+            "top": "",
+            "type": "",
+            "arrowLeft": ""
+        },
+        "currSentenceIndex": -1,
+        "prefixStrObj": {
+            "prefixStr": "",
+            "oriPrefixStr": ""
+        },
+        "selectTransBox": {
+            "show": false,
+            "right": 0,
+            "top": 0,
+            "paraphraseInfo": {
+                "word": "",
+                "from": "",
+                "to": "",
+                "area": ""
+            }
+        },
+        "sentenceLoading": false,
+        "newSentenceInfo": {
+            "sentence": "",
+            "candidateIndex": 0
+        },
+        "moreTipInfo": {
+            "opacity": 0,
+            "zIndex": -1
+        },
+        "paraphraseShowInfo": {
+            "card": 0,
+            "query": "",
+            "card_dict": 0
+        },
+        "selectType": "",
+        "wordPos": 0,
+        "candidateWord": "",
+        "syntaxVisible": false,
+        "syntaxStatus": 0
+    },
+    "language": {
+        "from": "auto",
+        "to": "zh-CHS",
+        "detect": "en",
+        "model": "general",
+        "detectShow": false,
+        "langMap": {
+            "current": ""
+        },
+        "zh2en": false,
+        "fromItemList": [
+            {
+                "lang": "auto",
+                "text": "自动检测",
+                "play": false
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "ru",
+                "text": "俄语",
+                "play": true,
+                "abbr": "俄"
+            },
+            {
+                "lang": "th",
+                "text": "泰语",
+                "play": true,
+                "abbr": "泰"
+            },
+            {
+                "lang": "fr",
+                "text": "法语",
+                "play": true,
+                "abbr": "法"
+            }
+        ],
+        "toItemList": [
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "vi",
+                "text": "越南语",
+                "play": true,
+                "abbr": "越"
+            },
+            {
+                "lang": "ru",
+                "text": "俄语",
+                "play": true,
+                "abbr": "俄"
+            },
+            {
+                "lang": "ko",
+                "text": "韩语",
+                "play": true,
+                "abbr": "韩"
+            }
+        ]
+    },
+    "voice": {
+        "from": {
+            "lang": "en",
+            "type": "from",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22helpful%22%2C%22spokenDialect%22%3A%22en%22%2C%22rate%22%3A%220.8%22%7D",
+            "list": [
+                {
+                    "type": "uk_0",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "ˈhelpfl",
+                    "abbr": "英",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/3544_helpful_uk.mp3"
+                },
+                {
+                    "type": "usa_1",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "ˈhelpfl",
+                    "abbr": "美",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/3544_helpful_usa.mp3"
+                }
+            ],
+            "stype": "phonetic",
+            "phoneticShow": [
+                {
+                    "text": "ˈhelpfl",
+                    "type": "uk",
+                    "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/3544_helpful_uk.mp3"
+                }
+            ]
+        },
+        "to": {
+            "lang": "zh",
+            "type": "to",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22%E6%9C%89%E7%9B%8A%E7%9A%84%22%2C%22spokenDialect%22%3A%22zh-CHS%22%2C%22rate%22%3A%220.8%22%7D",
+            "stype": "normal"
+        }
+    }
+}

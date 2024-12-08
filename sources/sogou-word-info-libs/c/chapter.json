@@ -1,0 +1,970 @@
+{
+    "route": {
+        "name": "text",
+        "path": "/text",
+        "hash": "",
+        "query": {
+            "keyword": "chapter",
+            "transfrom": "auto",
+            "transto": "zh-CHS",
+            "model": "general",
+            "errcode": "s10"
+        },
+        "params": {},
+        "fullPath": "/text?keyword=chapter&transfrom=auto&transto=zh-CHS&model=general&errcode=s10",
+        "meta": {
+            "mtype": [
+                "textTranslate",
+                "language",
+                "voice"
+            ]
+        },
+        "from": {
+            "name": null,
+            "path": "/",
+            "hash": "",
+            "query": {},
+            "params": {},
+            "fullPath": "/",
+            "meta": {}
+        }
+    },
+    "common": {
+        "CONFIG": {
+            "wuid": 1733637504165,
+            "loginInfo": {},
+            "isIE": 0,
+            "isHitSsrSwitch": true,
+            "isHitWritebookSwitch": false,
+            "isHitAmsSwitch": true,
+            "promotionList": "{\n    \"pc_bottom\":{\n        \"imgsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\",\n        \"qcsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\"\n    },\n    \"pc_middle\":[\n        {\n            \"src\":\"//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c\",\n            \"bgColor\":\"#ffffff\",\n            \"link\":\"\"\n        }\n    ],\n    \"pc_survey\":{\n        \"icon\":\"//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750\",\n        \"link\":\"https://wj.qq.com/s2/8193148/806d/\"\n    }\n}",
+            "bannerData": [],
+            "isHitAsideSurvey": false,
+            "secretCode": 109984457,
+            "uuid": "097c3926-8df3-4097-98e1-7d1fc3ddca87",
+            "referer": "",
+            "approveToken": "64FE10AA8D513C959E9BB52671047A169EF0381067553580",
+            "loadTime": 1733637504167,
+            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0",
+            "fcp": "159.223.67.164",
+            "temporaryId": "",
+            "fileId": ""
+        },
+        "hotWords": [],
+        "isFromCollect": false,
+        "psdModify": {
+            "currentStep": 1,
+            "scode": "",
+            "username": ""
+        },
+        "loginStatus": true,
+        "feedBackModule": false,
+        "showPromotionPopup": {
+            "show": false,
+            "type": ""
+        },
+        "showPromotionPCDownload": false,
+        "showShareBomb": false,
+        "shareData": null,
+        "showAppDownLoad": false,
+        "showLoginDialog": false,
+        "showLoading": {
+            "show": false
+        },
+        "toast": {
+            "show": false,
+            "text": "",
+            "loading": false
+        },
+        "modelToast": {
+            "show": false,
+            "text": ""
+        },
+        "selectionGlobalShow": true,
+        "selectionInfo": {
+            "left": 0,
+            "top": 0,
+            "show": false,
+            "from": "",
+            "to": "",
+            "val": "",
+            "area": ""
+        },
+        "showConfirmDialog": false,
+        "promotionList": {
+            "pc_bottom": {
+                "imgsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png",
+                "qcsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png"
+            },
+            "pc_middle": [
+                {
+                    "src": "//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c",
+                    "bgColor": "#ffffff",
+                    "link": ""
+                }
+            ],
+            "pc_survey": {
+                "icon": "//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750",
+                "link": "https://wj.qq.com/s2/8193148/806d/"
+            }
+        },
+        "transTypeTxt": "text",
+        "fixedTabStatus": 0,
+        "bodyTop": 0,
+        "ifHideUserOperation": false
+    },
+    "textTranslate": {
+        "prevTransQuery": "",
+        "translateData": {
+            "translate": {
+                "zly": "zly",
+                "errorCode": "0",
+                "qc_type": "1",
+                "index": "content0",
+                "from": "en",
+                "source": "sogou",
+                "text": "chapter",
+                "to": "zh-CHS",
+                "id": "097c3926-8df3-4097-98e1-7d1fc3ddca87",
+                "dit": "回",
+                "orig_text": "chapter",
+                "md5": ""
+            },
+            "detect": {
+                "zly": "zly",
+                "detect": "en",
+                "errorCode": "0",
+                "language": "英语",
+                "id": "6f8f8ce0-b529-11ef-ab23-cb563c7d55d6",
+                "text": "chapter"
+            },
+            "sgtkn": "64FE10B08D513C959E9BB52671047A169EF0381067553580",
+            "wordCard": {
+                "title": "chapter",
+                "show": true,
+                "usualDict": [
+                    {
+                        "values": [
+                            "章节；（人生或历史的）时期；阶段；分会；地方分支；（宗教团体的）理事会；（骑士团的）领导层；（书籍的）一系列事件"
+                        ],
+                        "pos": "n."
+                    },
+                    {
+                        "values": [
+                            "将（文本、论述等）分章节安排；给…分章"
+                        ],
+                        "pos": "v."
+                    }
+                ],
+                "secondQuery": "",
+                "exchange": {
+                    "word_pl": [
+                        "chapters"
+                    ]
+                },
+                "levelList": [
+                    "高中",
+                    "四级",
+                    "六级",
+                    "考研"
+                ]
+            },
+            "detail": {
+                "synonym": [
+                    {
+                        "word_list": [
+                            "Zhang",
+                            "volte"
+                        ],
+                        "pos": "n.",
+                        "mean": "章，回；分会；人生或历史上的重要时期"
+                    }
+                ],
+                "word_group": [
+                    {
+                        "brief_definition": "确切出处；精确典据",
+                        "phrase": "chapter and verse",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "教士会堂；大学兄弟会会所；女生联谊会会所",
+                        "phrase": "chapter house",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "接踵而来的灾祸",
+                        "phrase": "a chapter of accidents",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "最后章节；最终章节；最终章",
+                        "phrase": "final chapter",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "前一章",
+                        "phrase": "previous chapter",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "前言",
+                        "phrase": "introductory chapter",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "地方分会；地方宪章",
+                        "phrase": "local chapter",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "命名空间",
+                        "phrase": "end chapter",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "写一章",
+                        "phrase": "write chapter",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "在……的章节",
+                        "phrase": "chapter in…",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "...的章节",
+                        "phrase": "chapter of…",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "错误章节；错误的章节；错误散落的章节",
+                        "phrase": "error-strewn chapter",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "完结篇章",
+                        "phrase": "close chapter",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "我频频出错的章节",
+                        "phrase": "my error-strewn chapter",
+                        "pos": ""
+                    }
+                ],
+                "bilingual": [
+                    {
+                        "source": "He opened a new <em>chapter</em>.",
+                        "target": "他开启了新的一章。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Please read the first <em>chapter</em>.",
+                        "target": "请先阅读第一章。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Please skip to the next <em>chapter</em>.",
+                        "target": "请换页到下一章。",
+                        "url": ""
+                    },
+                    {
+                        "source": "We started reading <em>Chapter</em> One.",
+                        "target": "我们开始阅读第一章。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Today we will study <em>chapter</em> three.",
+                        "target": "我们今天要学习第三章。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Have you finished reading <em>chapter</em> three?",
+                        "target": "你读完第三章了吗？",
+                        "url": ""
+                    },
+                    {
+                        "source": "We discussed <em>Chapter</em> One in class.",
+                        "target": "我们在课堂上讨论了第一章。",
+                        "url": ""
+                    },
+                    {
+                        "source": "<em>Chapter</em> three introduces basic concepts.",
+                        "target": "第三章介绍了基本概念。",
+                        "url": ""
+                    },
+                    {
+                        "source": "The content of <em>chapter</em> three is interesting.",
+                        "target": "第三章的内容很有趣。",
+                        "url": ""
+                    },
+                    {
+                        "source": "He opens the book to read a new <em>chapter</em>.",
+                        "target": "他打开书本阅读新的一章。",
+                        "url": ""
+                    }
+                ],
+                "baike": {
+                    "showMore": false,
+                    "list": [
+                        {
+                            "lemmaTitle": "chapter",
+                            "link": "https://baike.sogou.com/v168040047.htm?ch=sogou.fanyi",
+                            "abstract": "chapter（英 [ˈtʃæptə]，美 [ˈtʃæptər]），英语单词，作名词为章；回；特定时期。短语搭配有chapter and verse（确切出处；精确典据）、chapter house（教士会堂）。例句为“I'm still reading the last chapter（我还在读最后一章）”。 chapter相关近义词有Zhang、volte。",
+                            "wapPic": "",
+                            "pcPic": ""
+                        }
+                    ]
+                }
+            },
+            "book": {
+                "yingyinNormal": [
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/c147f8d54a969778fef4aa74fdb25c24_34800.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/300db806cffd9505da29eafe5c5a2405_66113.mp3",
+                        "isLavafox": true,
+                        "en": "There was a <em>chapter</em> on visualization that really interested me.",
+                        "zh": "有一章关于想象的令我很感兴趣。",
+                        "videoNameZh": "《纸牌屋 第四季》",
+                        "videoNameEn": "《House of Cards Season 4》",
+                        "url": "http://bisentence_movie.sogou.com/d72c3cb6b650a431c19d4788df70df9a_76464bf9ea2554db87ef777fb222fc3af6cc8c69"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/b6871753bac5738b5d523cab5247cac2_31186.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/5d3d786bbd064345946ddf2e6c2708b8_17678.mp3",
+                        "isLavafox": true,
+                        "en": "Huh. Everyone take out your Scaring textbooks and open them to <em>chapter</em> one.",
+                        "zh": "大家拿出惊吓课本，打开到第1章。",
+                        "videoNameZh": "《怪兽大学》",
+                        "videoNameEn": "《Monsters University》",
+                        "url": "http://bisentence_movie.sogou.com/57b21ba01a92572f9554df6dc72c6199_6b868a7051b003aca7dddc0783601806e034493c"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/aa7a748a86497e02e2b0a5098f3017b8_12619.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/f1a1e4393cd0a3945f78a0ecb3febdde_52726.mp3",
+                        "isLavafox": true,
+                        "en": "You mean read? <em>Chapter</em> one. Oh, I'm bored out of my mind. Let's go to a movie.",
+                        "zh": "你是说阅读吗？第一章。我已经无聊死了，我们去看电影吧。",
+                        "videoNameZh": "《女孩成长记 第一季》",
+                        "videoNameEn": "《Girl Meets World Season 1》",
+                        "url": "http://bisentence_movie.sogou.com/491fb7b150f1959dafdb4a064c02fab8_2a7988d725e41a23f358b16b2986aa7c4830dde4"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/7eb0bec9540cbb2c5939554caf885c99_49670.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/dc5576b898d2822087c9664d0aea2be9_49779.mp3",
+                        "isLavafox": true,
+                        "en": "University policy manual, <em>chapter</em> Four, Subsection Two: \"mediation of interdepartmental disputes.\"",
+                        "zh": "学校工作手册，第四章，第二节，\"协调院系间的矛盾\"。",
+                        "videoNameZh": "《生活大爆炸 第二季》",
+                        "videoNameEn": "《The Big Bang Theory Season 2》",
+                        "url": "http://bisentence_movie.sogou.com/a5796b3a1212af4da0374069608bc61b_86998daf53b13bdb5288c6b4de3257e2a3ef24ad"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/ae9d6f2f04858f0af8517ff08116148e_6738.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/8ce65c65cf73c23c61810bfecd4ff7d2_73944.mp3",
+                        "isLavafox": true,
+                        "en": "<em>Chapter</em> One: Crushing defeats. Godzilla versus Japan. Japan loses, Riley. Really loses.",
+                        "zh": "第一章：镇压失败者。哥斯拉对战日本。日本输了，莱丽。输得落花流水。",
+                        "videoNameZh": "《女孩成长记 第三季》",
+                        "videoNameEn": "《Girl Meets World Season 3》",
+                        "url": "http://bisentence_movie.sogou.com/0333e5382e85f85ebc19c61e9f03be8c_9bf924c3136813deefb1fb5cda9e5292693881ac"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/a3f6ca8d0ebaa5b0956976d643673427_52102.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/b8bfcd710c51c11507a236f4ccc984ba_5512.mp3",
+                        "isLavafox": true,
+                        "en": "Oh. My new book \"how to run a lighthouse\", <em>chapter</em> 1. Oh, I'll read the rest tomorrow. Better turn the light out.",
+                        "zh": "哦，我的新书，如何管理灯塔第一章。哦，剩下的我明天再看吧，我还是把灯关了吧。",
+                        "videoNameZh": "《小猪佩奇 第三季》",
+                        "videoNameEn": "《Peppa Pig Season 3》",
+                        "url": "http://bisentence_movie.sogou.com/658f6c820dc767190470dbc8debdc3e3_849a2272cd0fc6b9ad944000be9c809df0f926c9"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/a86e6e98cc64448e528c65f2085efa0f_30194.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/9adb1512d3c69c7314613d86e0029d85_52574.mp3",
+                        "isLavafox": true,
+                        "en": "Did you get to the <em>chapter</em> where she staged the Easter egg hunt with no eggs to see how long I'd keep looking?",
+                        "zh": "你看到有一章，她弄了个寻找复活节彩蛋的活动，其实根本没蛋，只是想看我能找多久么?",
+                        "videoNameZh": "《生活大爆炸 第7季》",
+                        "videoNameEn": "《The Big Bang Theory Season 7》",
+                        "url": "http://bisentence_movie.sogou.com/61d2f8a91a52a91ed1980b5c098c6b87_082ca951b21c83f6b2e606dcba372b7db50a6ea7"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/a3f6ca8d0ebaa5b0956976d643673427_52102.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/7cc0b2ef6d7222874e5259f665757c8e_56631.mp3",
+                        "isLavafox": true,
+                        "en": "Concrete is a construction material composed of sand, water and chemical admixtures. <em>Chapter</em> one, sand. Peppa, George and Mommy Pig have fallen asleep.",
+                        "zh": "混凝土它是盖房子用的一种材料，由沙子水，还有化学添加剂组成。第一章，沙子。佩奇，乔治，还有猪妈妈都睡着了。",
+                        "videoNameZh": "《小猪佩奇 第三季》",
+                        "videoNameEn": "《Peppa Pig Season 3》",
+                        "url": "http://bisentence_movie.sogou.com/0bf526ce56d25b6eae2ac802eae4945b_c4e8a3822ae9e3dd00ef97fbcdff0fbded7cd076"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/79503c1e736da4c03e70d85340fb568d_45273.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/61af00b6dd2e3e3b21ae51e3b366de04_34899.mp3",
+                        "isLavafox": true,
+                        "en": "I thank you for allowing me to be a part of your conclusion of this <em>chapter</em> of your lives and the commencement of your next <em>chapter</em> to say that I'm honored doesn't even begin to quantify the depth of gratitude that really companies an honorary doctorate from Harvard.",
+                        "zh": "感谢你们，让我有机会与你们共度人生这一华丽篇章的谢幕时刻并开启新的篇章。仅仅用荣幸一词无法表达出我对同时授予我的哈佛大学荣誉博士学位的感激之情。",
+                        "videoNameZh": "《奥普拉演讲》",
+                        "videoNameEn": "《Oprah Winfrey Speech at Harvard》",
+                        "url": "http://bisentence_movie.sogou.com/eeea0deeaf5cdddc37b072db28db9134_7139e8736be11852cccf961abfe471440fbafbba"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/32d369945d659bbcebcc4b948ad1fe77_13656.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/0ed377a213e42f93a145358a5dd3cb56_47426.mp3",
+                        "isLavafox": true,
+                        "en": "This merger's gonna be a whole new <em>chapter</em> for us. We're going to bring British intelligence out of the Dark Ages into the light.",
+                        "zh": "这次合并将会开启一个全新篇章，我们将带领英国情报部走出黑暗，步入光明。",
+                        "videoNameZh": "《007幽灵党》",
+                        "videoNameEn": "《Spectre》",
+                        "url": "http://bisentence_movie.sogou.com/34ef7d40ab085a179c238d1362317b7f_a44d43462eaab99a054e9c568017e4e80bcbcb0b"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/c134fbc99fdb7bc42310297d5819974d_6452.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/7452f672ceb3f1901829cac1494b6e69_27191.mp3",
+                        "isLavafox": true,
+                        "en": "As Jeremy ends one <em>chapter</em> and begins another, The road ahead will continue to test his perseverance. But his faith will forever guide him.",
+                        "zh": "随着林书豪翻开新的篇章，前面的路将不断地考验他的毅力，他的信念将永远指引他",
+                        "videoNameZh": "《林来疯》",
+                        "videoNameEn": "《Linsanity》",
+                        "url": "http://bisentence_movie.sogou.com/a9bb265f12d8a502caae1bf2d2ba9a8c_3146b4563a1802ae9fc5eff5f4063b7b65ddc6d3"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/69e52acd9e09b6a2ed378507a165e971_14638.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/3184846f4da6fc0d909cc6075080aaa6_67965.mp3",
+                        "isLavafox": true,
+                        "en": "Huh. Guess I missed a <em>chapter</em>, or four. Don't all of you hate each other? Yes. Absolutely. No.",
+                        "zh": "我想我错过什么了，或者...还不止一个... 你们不是憎恨对方的吗？当然。不太好。",
+                        "videoNameZh": "《绯闻女孩 第一季》",
+                        "videoNameEn": "《Gossip Girl Season 1》",
+                        "url": "http://bisentence_movie.sogou.com/2cbfed03f6707718878aa7a9bdfe3a2f_59fcf2010bb74384a87bba347438c66084629d4d"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/ef2251c62fc1b53f995cf777893bc2ff_45162.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/494196f8b48ae49d95a372ff7239ae79_24744.mp3",
+                        "isLavafox": true,
+                        "en": "Don't step out of the sunlight for no reason. Let's start this new <em>chapter</em> with a clean slate.",
+                        "zh": "别无缘无故没事找事。我们忘记过去，展开新的合作。",
+                        "videoNameZh": "《纸牌屋 第二季》",
+                        "videoNameEn": "《House of Cards Season 2》",
+                        "url": "http://bisentence_movie.sogou.com/b134890ac47d81a210e50b7884e4868d_84ef74fe32480595a78402e034c870f5e44feb73"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/c147f8d54a969778fef4aa74fdb25c24_34800.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/26e8d3ec385b9a15e4f9aa6b7d8edf7d_72620.mp3",
+                        "isLavafox": true,
+                        "en": "So my father did what he had to do. He went to a meeting and begged the leader of that <em>chapter</em> to talk to the owner of the bank.",
+                        "zh": "所以父亲就做了他不得不做的，他参加了一次会议并乞求那个分会的领导在银行行长面前说句话。",
+                        "videoNameZh": "《纸牌屋 第四季》",
+                        "videoNameEn": "《House of Cards Season 4》",
+                        "url": "http://bisentence_movie.sogou.com/645a11593d4f095da8bfd2797d105994_fec06f6dea98a11b69ea90da20160abd0660f64d"
+                    }
+                ]
+            },
+            "pic": "",
+            "voice": {
+                "phonetic": [
+                    {
+                        "text": "ˈtʃæptər",
+                        "type": "uk",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/898_chapter_uk.mp3"
+                    },
+                    {
+                        "text": "ˈtʃæptə(r)",
+                        "type": "usa",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/898_chapter_usa.mp3"
+                    }
+                ]
+            },
+            "dictType": "oxford_buchong",
+            "kaoyan": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 0,
+                        "pos": "n",
+                        "chinese": "章(节); 回",
+                        "sense_tier_ratio": 0
+                    }
+                ],
+                "word": "chapter",
+                "direction_info": {
+                    "ranges": 12,
+                    "description": "数据源自2012-2023年12年间全国考研试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2012-2023年全国考研英语一和考研英语二共24套考研试卷，包括阅读、完型填空、翻译、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选全国考研考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2012-2023年12年间全国考研英语一和考研英语二试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 1,
+                "total_exam_freq": 0,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "synonyms": "",
+                            "en": "",
+                            "zh": "章(节); 回",
+                            "pos": "n",
+                            "antonyms": ""
+                        }
+                    ]
+                }
+            },
+            "CET6": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 2,
+                        "pos": "n",
+                        "chinese": "章节",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "chapter",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2016.6-2023.6年8年间全六级试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight>考纲释义</highlight>\n精选实考、考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2016-2023年51套试卷，包括阅读、听力、翻译等所有题型。\n\n<highlight>真题例句</highlight>\n精选2016-2023年8年间全六级试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 1,
+                "total_exam_freq": 2,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "synonyms": "part",
+                            "en": "a main division of a book",
+                            "zh": "章节",
+                            "pos": "n",
+                            "antonyms": ""
+                        }
+                    ]
+                },
+                "exchange_info": {
+                    "word_pl": [
+                        "chapters"
+                    ]
+                }
+            },
+            "CET4": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 1,
+                        "pos": "n",
+                        "chinese": "章节",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "chapter",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2016.6-2023.6年8年间全四级试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight>考纲释义</highlight>\n精选实考、考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2016-2023年51套试卷，包括阅读、听力、翻译等所有题型。\n\n<highlight>真题例句</highlight>\n精选2016-2023年8年间试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 1,
+                "total_exam_freq": 1,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "synonyms": "",
+                            "en": "a main division of a book",
+                            "zh": "章节",
+                            "pos": "n",
+                            "antonyms": ""
+                        }
+                    ]
+                },
+                "exchange_info": {
+                    "word_pl": [
+                        "chapters"
+                    ]
+                }
+            },
+            "gaokao": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 4,
+                        "pos": "n",
+                        "chinese": "章; 篇; 回; 部分",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "chapter",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2015-2022年8年间全国卷和自主命题省市高考卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2015-2022年全国卷高考试卷，包括阅读、完形、单选、填空、听力、改错、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选各省市考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2015-2022年8年间全国卷和自主命题省市高考卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 1,
+                "total_exam_freq": 4,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "章; 篇; 回; 部分",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "I'm still reading the last <highlight>chapter</highlight>.",
+                                    "month": -1,
+                                    "source": "天津卷",
+                                    "coll": "",
+                                    "sentence_trans": "我还在读最后一章。",
+                                    "year": 2021,
+                                    "type": "单项选择",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "In the former case you may be able to read a <highlight>chapter</highlight>.",
+                                    "month": -1,
+                                    "source": "新高考II卷",
+                                    "coll": "",
+                                    "sentence_trans": "在前一种情况下，你可以读一章。",
+                                    "year": 2021,
+                                    "type": "任务型阅读",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "I quickly graduated from typical children's books to ones with fewer pictures and longer <highlight>chapters</highlight>.",
+                                    "month": -1,
+                                    "source": "浙江卷",
+                                    "coll": "",
+                                    "sentence_trans": "我很快就从典型的儿童读物逐渐过渡到图片较少、章节较长的读物。",
+                                    "year": 2020,
+                                    "type": "任务型阅读",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            "zhongkao": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 1,
+                        "pos": "n",
+                        "chinese": "章; 篇; 回; 部分; 时期",
+                        "sense_tier_ratio": 50
+                    },
+                    {
+                        "sense_tier": 1,
+                        "pos": "n",
+                        "chinese": "分会",
+                        "sense_tier_ratio": 50
+                    }
+                ],
+                "word": "chapter",
+                "direction_info": {
+                    "ranges": 4,
+                    "description": "数据源自2018-2021年4年间全国各省市中考试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2018-2021年全国重点省市中考试卷，包括听力、阅读、完形、单选、填空、改错、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选各省市考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2018-2021年4年间全国各省市中考试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 1,
+                "total_exam_freq": 2,
+                "sense": {
+                    "sense_num": 2,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "章; 篇; 回; 部分; 时期",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "Rowling put the first two <highlight>chapters</highlight> online on May 26, with daily writing to follow until July 10.",
+                                    "month": -1,
+                                    "source": "泸州市卷",
+                                    "coll": "",
+                                    "sentence_trans": "罗琳于 5 月 26 日将前两章放到网上，每天写作，一直持续到 7 月 10 日。",
+                                    "year": 2021,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                }
+                            ]
+                        },
+                        {
+                            "en": "",
+                            "zh": "分会",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "Welcome to the Walla Walla Wallaby Foundation of America，Washington <highlight>chapter</highlight>.",
+                                    "month": -1,
+                                    "source": "南京卷",
+                                    "coll": "",
+                                    "sentence_trans": "欢迎来到美国瓦拉瓦拉瓦拉比基金会华盛顿分会。",
+                                    "year": 2020,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            "sentencesData": {
+                "status": 1,
+                "info": "notZh2En",
+                "data": {}
+            },
+            "isAutoMatch": false,
+            "Zh2En": false
+        },
+        "query": "chapter",
+        "result": "回",
+        "tabSelect": "detail",
+        "dictionaryType": "oxford_buchong",
+        "notFound_show": false,
+        "phoneticShow": "",
+        "globalShowTranslateRecord": "",
+        "pronPrefer": {
+            "type": "usa_1",
+            "speaker": "male",
+            "speed": "standard"
+        },
+        "ServerRecord": "",
+        "ServerUIGS": {
+            "version": "new",
+            "type": "all",
+            "stype": "success",
+            "terminal": "web",
+            "fr": "default",
+            "direction": "etoz",
+            "from": "en",
+            "to": "zh-CHS",
+            "len": 7,
+            "qtype": "text",
+            "qctype": "qc_1",
+            "dict_cover": 1,
+            "detail": 1,
+            "wordCardCover": 1,
+            "wordCardEn": 1,
+            "wordCardCh": 0,
+            "wordCardMinor": 0,
+            "wordCardNetmean": 0,
+            "wordDeform": 1,
+            "keyword": 0,
+            "bilingual": 1,
+            "simple": 0,
+            "levelList": 1,
+            "synonym": 1,
+            "antonym": 0,
+            "conjugate": 0,
+            "rootaffix": 0,
+            "baike_sogou": 1,
+            "baike_wiki": 0,
+            "wordDifference": 0,
+            "word_phrase": 1,
+            "secondQuery": 0,
+            "dict_oxford": 0,
+            "dict_newcentury": 0,
+            "zhongkaotab": 1,
+            "gaokaotab": 1,
+            "CET4tab": 1,
+            "CET6tab": 1,
+            "kaoyantab": 1,
+            "network_tab": 0,
+            "yinying_tab": 1,
+            "tuozhan_tab": 0,
+            "one_pic": 0,
+            "more_pic": 0,
+            "no_pic": 0,
+            "uuid": "097c3926-8df3-4097-98e1-7d1fc3ddca87",
+            "from_type": 0,
+            "t_trans_ssr": 142
+        },
+        "ServerModelUIGS": {
+            "terminal": "web",
+            "type": "trans_model",
+            "pbtype": "pv",
+            "model_general": 1,
+            "model_medical": 1,
+            "model_finance": 1
+        },
+        "ServerSgtkn": "64FE10B08D513C959E9BB52671047A169EF0381067553580",
+        "suggShow": false,
+        "suggestion": "",
+        "suggDirection": "",
+        "usualTop": "",
+        "baseDict": "",
+        "wordCardClick": false,
+        "isFrInput": false,
+        "kanaTips": {
+            "show": false,
+            "left": "",
+            "top": "",
+            "type": "",
+            "arrowLeft": ""
+        },
+        "currSentenceIndex": -1,
+        "prefixStrObj": {
+            "prefixStr": "",
+            "oriPrefixStr": ""
+        },
+        "selectTransBox": {
+            "show": false,
+            "right": 0,
+            "top": 0,
+            "paraphraseInfo": {
+                "word": "",
+                "from": "",
+                "to": "",
+                "area": ""
+            }
+        },
+        "sentenceLoading": false,
+        "newSentenceInfo": {
+            "sentence": "",
+            "candidateIndex": 0
+        },
+        "moreTipInfo": {
+            "opacity": 0,
+            "zIndex": -1
+        },
+        "paraphraseShowInfo": {
+            "card": 0,
+            "query": "",
+            "card_dict": 0
+        },
+        "selectType": "",
+        "wordPos": 0,
+        "candidateWord": "",
+        "syntaxVisible": false,
+        "syntaxStatus": 0
+    },
+    "language": {
+        "from": "auto",
+        "to": "zh-CHS",
+        "detect": "en",
+        "model": "general",
+        "detectShow": false,
+        "langMap": {
+            "current": ""
+        },
+        "zh2en": false,
+        "fromItemList": [
+            {
+                "lang": "auto",
+                "text": "自动检测",
+                "play": false
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "es",
+                "text": "西班牙语",
+                "play": true,
+                "abbr": "西"
+            },
+            {
+                "lang": "fr",
+                "text": "法语",
+                "play": true,
+                "abbr": "法"
+            },
+            {
+                "lang": "ru",
+                "text": "俄语",
+                "play": true,
+                "abbr": "俄"
+            }
+        ],
+        "toItemList": [
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "vi",
+                "text": "越南语",
+                "play": true,
+                "abbr": "越"
+            },
+            {
+                "lang": "ru",
+                "text": "俄语",
+                "play": true,
+                "abbr": "俄"
+            },
+            {
+                "lang": "ko",
+                "text": "韩语",
+                "play": true,
+                "abbr": "韩"
+            }
+        ]
+    },
+    "voice": {
+        "from": {
+            "lang": "en",
+            "type": "from",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22chapter%22%2C%22spokenDialect%22%3A%22en%22%2C%22rate%22%3A%220.8%22%7D",
+            "list": [
+                {
+                    "type": "uk_0",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "ˈtʃæptər",
+                    "abbr": "英",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/898_chapter_uk.mp3"
+                },
+                {
+                    "type": "usa_1",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "ˈtʃæptə(r)",
+                    "abbr": "美",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/898_chapter_usa.mp3"
+                }
+            ],
+            "stype": "phonetic",
+            "phoneticShow": [
+                {
+                    "text": "ˈtʃæptər",
+                    "type": "uk",
+                    "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/898_chapter_uk.mp3"
+                },
+                {
+                    "text": "ˈtʃæptə(r)",
+                    "type": "usa",
+                    "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/898_chapter_usa.mp3"
+                }
+            ]
+        },
+        "to": {
+            "lang": "zh",
+            "type": "to",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22%E5%9B%9E%22%2C%22spokenDialect%22%3A%22zh-CHS%22%2C%22rate%22%3A%220.8%22%7D",
+            "stype": "normal"
+        }
+    }
+}

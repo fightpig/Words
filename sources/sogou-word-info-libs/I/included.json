@@ -1,0 +1,764 @@
+{
+    "route": {
+        "name": "text",
+        "path": "/text",
+        "hash": "",
+        "query": {
+            "keyword": "included",
+            "transfrom": "auto",
+            "transto": "zh-CHS",
+            "model": "general",
+            "errcode": "s10"
+        },
+        "params": {},
+        "fullPath": "/text?keyword=included&transfrom=auto&transto=zh-CHS&model=general&errcode=s10",
+        "meta": {
+            "mtype": [
+                "textTranslate",
+                "language",
+                "voice"
+            ]
+        },
+        "from": {
+            "name": null,
+            "path": "/",
+            "hash": "",
+            "query": {},
+            "params": {},
+            "fullPath": "/",
+            "meta": {}
+        }
+    },
+    "common": {
+        "CONFIG": {
+            "wuid": 1733636287253,
+            "loginInfo": {},
+            "isIE": 0,
+            "isHitSsrSwitch": true,
+            "isHitWritebookSwitch": false,
+            "isHitAmsSwitch": true,
+            "promotionList": "{\n    \"pc_bottom\":{\n        \"imgsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\",\n        \"qcsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\"\n    },\n    \"pc_middle\":[\n        {\n            \"src\":\"//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c\",\n            \"bgColor\":\"#ffffff\",\n            \"link\":\"\"\n        }\n    ],\n    \"pc_survey\":{\n        \"icon\":\"//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750\",\n        \"link\":\"https://wj.qq.com/s2/8193148/806d/\"\n    }\n}",
+            "bannerData": [],
+            "isHitAsideSurvey": false,
+            "secretCode": 109984457,
+            "uuid": "1f9092c5-19c4-42d4-9c4d-9d3e0e0080ef",
+            "referer": "",
+            "approveToken": "64F8F088C41977DDD5D0FE6E72C493F5D64B1669675530BF",
+            "loadTime": 1733636287255,
+            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0",
+            "fcp": "161.35.183.163",
+            "temporaryId": "",
+            "fileId": ""
+        },
+        "hotWords": [],
+        "isFromCollect": false,
+        "psdModify": {
+            "currentStep": 1,
+            "scode": "",
+            "username": ""
+        },
+        "loginStatus": true,
+        "feedBackModule": false,
+        "showPromotionPopup": {
+            "show": false,
+            "type": ""
+        },
+        "showPromotionPCDownload": false,
+        "showShareBomb": false,
+        "shareData": null,
+        "showAppDownLoad": false,
+        "showLoginDialog": false,
+        "showLoading": {
+            "show": false
+        },
+        "toast": {
+            "show": false,
+            "text": "",
+            "loading": false
+        },
+        "modelToast": {
+            "show": false,
+            "text": ""
+        },
+        "selectionGlobalShow": true,
+        "selectionInfo": {
+            "left": 0,
+            "top": 0,
+            "show": false,
+            "from": "",
+            "to": "",
+            "val": "",
+            "area": ""
+        },
+        "showConfirmDialog": false,
+        "promotionList": {
+            "pc_bottom": {
+                "imgsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png",
+                "qcsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png"
+            },
+            "pc_middle": [
+                {
+                    "src": "//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c",
+                    "bgColor": "#ffffff",
+                    "link": ""
+                }
+            ],
+            "pc_survey": {
+                "icon": "//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750",
+                "link": "https://wj.qq.com/s2/8193148/806d/"
+            }
+        },
+        "transTypeTxt": "text",
+        "fixedTabStatus": 0,
+        "bodyTop": 0,
+        "ifHideUserOperation": false
+    },
+    "textTranslate": {
+        "prevTransQuery": "",
+        "translateData": {
+            "translate": {
+                "zly": "zly",
+                "errorCode": "0",
+                "qc_type": "1",
+                "index": "content0",
+                "from": "en",
+                "source": "sogou",
+                "text": "included",
+                "to": "zh-CHS",
+                "id": "1f9092c5-19c4-42d4-9c4d-9d3e0e0080ef",
+                "dit": "包括",
+                "orig_text": "included",
+                "md5": ""
+            },
+            "detect": {
+                "zly": "zly",
+                "detect": "en",
+                "errorCode": "0",
+                "language": "英语",
+                "id": "9a39f910-b526-11ef-ae86-2f664d2a0b64",
+                "text": "included"
+            },
+            "sgtkn": "64F8F08DC41977DDD5D0FE6E72C493F5D64B1669675530BF",
+            "wordCard": {
+                "title": "included",
+                "show": true,
+                "usualDict": [
+                    {
+                        "values": [
+                            "包括的；已包括的；含有的；内含的"
+                        ],
+                        "pos": "adj."
+                    },
+                    {
+                        "values": [
+                            "囊括；涵盖；计入；包含在内；（include的过去式和过去分词）"
+                        ],
+                        "pos": "v."
+                    }
+                ],
+                "secondQuery": "",
+                "exchange": {
+                    "word_proto": [
+                        "include"
+                    ]
+                },
+                "levelList": [
+                    "初中",
+                    "高中",
+                    "四级",
+                    "六级",
+                    "考研"
+                ]
+            },
+            "detail": {
+                "synonym": [
+                    {
+                        "word_list": [
+                            "inbuilt"
+                        ],
+                        "pos": "adj.",
+                        "mean": "包括的；内藏的"
+                    }
+                ],
+                "antonym": [
+                    {
+                        "word_list": [
+                            "exclude"
+                        ],
+                        "pos": "",
+                        "mean": ""
+                    }
+                ],
+                "wordRootInfo": {
+                    "word_info_list": [
+                        {
+                            "word": "inclusive",
+                            "pos_mean_info_list": [
+                                {
+                                    "pos": "adj.",
+                                    "mean": "包括的，包含的"
+                                }
+                            ]
+                        },
+                        {
+                            "word": "inclusion",
+                            "pos_mean_info_list": [
+                                {
+                                    "pos": "n.",
+                                    "mean": "包含；内含物"
+                                }
+                            ]
+                        },
+                        {
+                            "word": "include",
+                            "pos_mean_info_list": [
+                                {
+                                    "pos": "vt.",
+                                    "mean": "包含，包括"
+                                }
+                            ]
+                        }
+                    ],
+                    "root_word": "include"
+                },
+                "word_group": [
+                    {
+                        "brief_definition": "包括；包含；纳入",
+                        "phrase": "included in",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "夹角；包含角",
+                        "phrase": "included angle",
+                        "pos": ""
+                    }
+                ],
+                "bilingual": [
+                    {
+                        "source": "Two dives and lunch <em>included</em>.",
+                        "target": "包括两次潜水和午餐。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Some of their great achievements <em>included</em> building towns and roads.",
+                        "target": "他们的一些伟大成就包括建造城镇和道路。",
+                        "url": ""
+                    },
+                    {
+                        "source": "She even <em>included</em> me in her study group although we were in separate classes.",
+                        "target": "尽管我们在不同的班级，她甚至把我包括在她的学习小组里。",
+                        "url": ""
+                    },
+                    {
+                        "source": "The dowry <em>included</em> jewelry and land.",
+                        "target": "嫁妆包括珠宝和土地。",
+                        "url": ""
+                    },
+                    {
+                        "source": "The fleet <em>included</em> destroyers and cruisers.",
+                        "target": "舰队包括驱逐舰和巡洋舰。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Columbus's fleet <em>included</em> the Santa Maria.",
+                        "target": "哥伦布的船队包括圣玛利亚号。",
+                        "url": ""
+                    },
+                    {
+                        "source": "The celebration <em>included</em> fireworks and a parade.",
+                        "target": "庆祝活动包括烟花和游行。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Her dowry <em>included</em> some antiques and jewelry.",
+                        "target": "她的嫁妆包括一些古董和珠宝。",
+                        "url": ""
+                    },
+                    {
+                        "source": "The coat of arms <em>included</em> a chevron gules.",
+                        "target": "纹章上包括一条红色的倒V形条纹。",
+                        "url": ""
+                    },
+                    {
+                        "source": "The indictment <em>included</em> multiple charges of fraud.",
+                        "target": "起诉书包括多项欺诈指控。",
+                        "url": ""
+                    }
+                ],
+                "baike": {
+                    "showMore": false,
+                    "list": [
+                        {
+                            "lemmaTitle": "活力社区",
+                            "link": "https://baike.sogou.com/v71503081.htm?ch=sogou.fanyi",
+                            "abstract": "活力社区是一家成立于2006年的公益组织，秉承“每个孩子都有充满活力的未来”这一愿景，致力于为处境不利的儿童，特别是流动与留守儿童创造安全、有爱且有益的成长环境。通过支持伙伴机构和个人开展符合儿童早期发展阶段特征的亲子活动和课程，让更多流动、留守儿童及其家庭持续获得早期亲子教育的机会，为其未来健康成长打下坚实基础。",
+                            "wapPic": "//img02.sogoucdn.com/v2/thumb/retype_exclude_gif/ext/auto/q/80/crop/xy/ai/w/140/h/140/resize/w/140?appid=201005&sign=a8e55b782dc0e2bc89cb28cbbcd718ea&url=http%3A%2F%2Fpic.baike.soso.com%2Fugc%2Fbaikepic2%2F11266%2F20200719205419-608979426_jpeg_723_414_46470.jpg%2F0",
+                            "pcPic": "//img02.sogoucdn.com/v2/thumb/retype_exclude_gif/ext/auto/q/80/crop/xy/ai/w/140/h/140/resize/w/140?appid=201005&sign=a8e55b782dc0e2bc89cb28cbbcd718ea&url=http%3A%2F%2Fpic.baike.soso.com%2Fugc%2Fbaikepic2%2F11266%2F20200719205419-608979426_jpeg_723_414_46470.jpg%2F0"
+                        }
+                    ]
+                }
+            },
+            "book": {
+                "yingyinNormal": [
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/89af515bc1904b2f30182572c2d73a41_25401.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/cf841ceaca1cd5177c5bd994eca2fe7a_26164.mp3",
+                        "isLavafox": true,
+                        "en": "I wonder if that <em>included</em> him.",
+                        "zh": "其中包括他自己吗？",
+                        "videoNameZh": "《美国队长2》",
+                        "videoNameEn": "《Captain America: The Winter Soldier》",
+                        "url": "http://bisentence_movie.sogou.com/c69b592200776321df153a4cc4159a60_35a9b6cc7dfdb96850f4a6c86771c7bb3f6e5f01"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/31f6231322d43401815661ceeacf3a87_49136.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/1f7dd29f7625364aafada18660ec64fd_64897.mp3",
+                        "isLavafox": true,
+                        "en": "Six were saved from the water myself <em>included</em>. Six out of 1,500.",
+                        "zh": "有六人获救，包括我在内，一千五百人，才活了六个。",
+                        "videoNameZh": "《泰坦尼克号》",
+                        "videoNameEn": "《Titanic》",
+                        "url": "http://bisentence_movie.sogou.com/9a4dbab4ce2290bbdebabbccf6210812_6fcd51ebdb62d205e9c6e43960636a7070c848ec"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/b630caafa2606557856da7a333933a5d_54182.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/f941db9007b7068f8cf5e3a0d9c105ac_14793.mp3",
+                        "isLavafox": true,
+                        "en": "Some popular early main ingredients <em>included</em> blueberry, anchovy, oyster, kidney bean and grape.",
+                        "zh": "早期流行的主材料包括蓝莓，凤尾鱼，牡蛎，四季豆，还有葡萄。",
+                        "videoNameZh": "《生活大爆炸 第三季》",
+                        "videoNameEn": "《The Big Bang Theory Season 3》",
+                        "url": "http://bisentence_movie.sogou.com/c3ff4bb8b48e9e3a8aa5396bfdf20a3b_722ea63dd1892e9822663db7e02c64b696e96476"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/368277e4523e7b27b12887e16057df56_64015.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/d3b79b3594265aadc0c21c009a94be94_55099.mp3",
+                        "isLavafox": true,
+                        "en": "All our hosts are here for you. Myself <em>included</em>. We could stay here a while if you like. Take as long as you want.",
+                        "zh": "所有招待员都是为你服务的，包括我自己，只要你想，我们可以在这里再待一会儿，你想多久就多久。",
+                        "videoNameZh": "《西部世界 第一季》",
+                        "videoNameEn": "《Westworld Season 1》",
+                        "url": "http://bisentence_movie.sogou.com/bea5330a56291a5c3507baff89bfc6b0_e53a6238d61bcc5d703810f20271284619247409"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/39e50807a5a1191398262e04787ff184_62485.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/5c81792c5477e7e045e58c6389e23110_62440.mp3",
+                        "isLavafox": true,
+                        "en": "I'm uncomfortable having been <em>included</em> in your lie to Penny.",
+                        "zh": "卷入了你对潘妮的欺骗事件，我感到很不舒服。",
+                        "videoNameZh": "《生活大爆炸 第一季》",
+                        "videoNameEn": "《The Big Bang Theory Season 1》",
+                        "url": "http://bisentence_movie.sogou.com/8b1a4d2e33cb67cb57980abc26292a29_f2c6237a3c6ea20a7373e2c4eb6d582b7700b254"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/34d2d19c723ad11a5a6dcd6da67c9085_43190.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/a9c9b3ecebe7cccf94dee8754d3d0b21_71535.mp3",
+                        "isLavafox": true,
+                        "en": "Not at all, m'lord. But before the war they wouldn't usually have been <em>included</em>.",
+                        "zh": "当然不是，老爷，但在战前，厨房佣人一般要被排除在外。",
+                        "videoNameZh": "《唐顿庄园 第四季》",
+                        "videoNameEn": "《Downton Abbey Season 4》",
+                        "url": "http://bisentence_movie.sogou.com/7c630eba4b6c45435e304fa4dfd3d6a3_4c2c406dfec62fb6324da9b7749d3a75b90bbb72"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/659ebdbad5fdd9f9876f9f9ae88da0ad_60299.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/98e1286f236bee4b9c3148138bad4100_10034.mp3",
+                        "isLavafox": true,
+                        "en": "I asked for 50 computers. That's keyboards,cases, monitors, and power <em>included</em>. Not just boards.",
+                        "zh": "我想要50台电脑，有键盘、机箱、显示器，并且装了电源，而不只是电路板。",
+                        "videoNameZh": "《乔布斯》",
+                        "videoNameEn": "《Jobs》",
+                        "url": "http://bisentence_movie.sogou.com/4e51cd5113a64449c31f38d232245e37_56a552259e0dff3e41269edb80a6cacf39492940"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/886b76b0c552c22c57062be63cf27261_37722.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/fab7d669075e9cf46c23adebe0ea6cd4_22311.mp3",
+                        "isLavafox": true,
+                        "en": "All the appliances are <em>included</em>. There's a lot of light, a new kitchen. I think you guys would be very happy here.",
+                        "zh": "电器用品全部都包含，光线充足，还有新的厨房。我想你们俩住在这里一定会很快乐。",
+                        "videoNameZh": "《老友记 第九季》",
+                        "videoNameEn": "《Friends Season 9》",
+                        "url": "http://bisentence_movie.sogou.com/d51c33c7c12f806cd1d5cff9d253080e_8c4b24a2864838204704595ea980ab46dabf26a6"
+                    }
+                ]
+            },
+            "pic": "",
+            "voice": {
+                "phonetic": [
+                    {
+                        "text": "ɪnˈkluːdɪd",
+                        "type": "uk",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/710_included_uk.mp3"
+                    },
+                    {
+                        "text": "ɪnˈkluːdɪd",
+                        "type": "usa",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/710_included_usa.mp3"
+                    }
+                ]
+            },
+            "dictType": "oxford_buchong",
+            "CET4": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 2,
+                        "pos": "adj",
+                        "chinese": "被包含的; 被列入的",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "included",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2016.6-2023.6年8年间全四级试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight>考纲释义</highlight>\n精选实考、考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2016-2023年51套试卷，包括阅读、听力、翻译等所有题型。\n\n<highlight>真题例句</highlight>\n精选2016-2023年8年间试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 1,
+                "total_exam_freq": 2,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "contained as part of something",
+                            "zh": "被包含的; 被列入的",
+                            "pos": "adj",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "Are you only looking for flights or a package holiday with everything <highlight>included</highlight>?",
+                                    "month": 12,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "你是只找航班还是包价度假？",
+                                    "year": 2020,
+                                    "type": "听力",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "In fact, vaguely-stated possibilities of winning a prized were more effective than options with hard odds <highlight>included</highlight>.",
+                                    "month": 12,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "事实上，含糊其辞的获奖可能性比包含硬赔率的选项更有效。",
+                                    "year": 2016,
+                                    "type": "阅读理解C",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            "zhongkao": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 2,
+                        "pos": "adj",
+                        "chinese": "被包含的; 被列入的",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "included",
+                "direction_info": {
+                    "ranges": 4,
+                    "description": "数据源自2018-2021年4年间全国各省市中考试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2018-2021年全国重点省市中考试卷，包括听力、阅读、完形、单选、填空、改错、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选各省市考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2018-2021年4年间全国各省市中考试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 1,
+                "total_exam_freq": 2,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "被包含的; 被列入的",
+                            "pos": "adj",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "All of a sudden I was a part of that, and it felt good to be so <highlight>included</highlight>.",
+                                    "month": -1,
+                                    "source": "北京市",
+                                    "coll": "",
+                                    "sentence_trans": "突然间，我成了其中的一员，能如此融入其中感觉真好。",
+                                    "year": 2020,
+                                    "type": "完型",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "￡2 per activity, not <highlight>included</highlight> in standard prices.",
+                                    "month": -1,
+                                    "source": "连云港卷",
+                                    "coll": "",
+                                    "sentence_trans": "每项活动2英镑，不包含在标准价格中。",
+                                    "year": 2020,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            "sentencesData": {
+                "status": 1,
+                "info": "notZh2En",
+                "data": {}
+            },
+            "isAutoMatch": false,
+            "Zh2En": false
+        },
+        "query": "included",
+        "result": "包括",
+        "tabSelect": "detail",
+        "dictionaryType": "oxford_buchong",
+        "notFound_show": false,
+        "phoneticShow": "",
+        "globalShowTranslateRecord": "",
+        "pronPrefer": {
+            "type": "usa_1",
+            "speaker": "male",
+            "speed": "standard"
+        },
+        "ServerRecord": "",
+        "ServerUIGS": {
+            "version": "new",
+            "type": "all",
+            "stype": "success",
+            "terminal": "web",
+            "fr": "default",
+            "direction": "etoz",
+            "from": "en",
+            "to": "zh-CHS",
+            "len": 8,
+            "qtype": "text",
+            "qctype": "qc_1",
+            "dict_cover": 1,
+            "detail": 1,
+            "wordCardCover": 1,
+            "wordCardEn": 1,
+            "wordCardCh": 0,
+            "wordCardMinor": 0,
+            "wordCardNetmean": 0,
+            "wordDeform": 1,
+            "keyword": 0,
+            "bilingual": 1,
+            "simple": 0,
+            "levelList": 1,
+            "synonym": 1,
+            "antonym": 1,
+            "conjugate": 1,
+            "rootaffix": 0,
+            "baike_sogou": 1,
+            "baike_wiki": 0,
+            "wordDifference": 0,
+            "word_phrase": 1,
+            "secondQuery": 0,
+            "dict_oxford": 0,
+            "dict_newcentury": 0,
+            "zhongkaotab": 1,
+            "gaokaotab": 0,
+            "CET4tab": 1,
+            "CET6tab": 0,
+            "kaoyantab": 0,
+            "network_tab": 0,
+            "yinying_tab": 1,
+            "tuozhan_tab": 0,
+            "one_pic": 0,
+            "more_pic": 0,
+            "no_pic": 0,
+            "uuid": "1f9092c5-19c4-42d4-9c4d-9d3e0e0080ef",
+            "from_type": 0,
+            "t_trans_ssr": 152
+        },
+        "ServerModelUIGS": {
+            "terminal": "web",
+            "type": "trans_model",
+            "pbtype": "pv",
+            "model_general": 1,
+            "model_medical": 1,
+            "model_finance": 1
+        },
+        "ServerSgtkn": "64F8F08DC41977DDD5D0FE6E72C493F5D64B1669675530BF",
+        "suggShow": false,
+        "suggestion": "",
+        "suggDirection": "",
+        "usualTop": "",
+        "baseDict": "",
+        "wordCardClick": false,
+        "isFrInput": false,
+        "kanaTips": {
+            "show": false,
+            "left": "",
+            "top": "",
+            "type": "",
+            "arrowLeft": ""
+        },
+        "currSentenceIndex": -1,
+        "prefixStrObj": {
+            "prefixStr": "",
+            "oriPrefixStr": ""
+        },
+        "selectTransBox": {
+            "show": false,
+            "right": 0,
+            "top": 0,
+            "paraphraseInfo": {
+                "word": "",
+                "from": "",
+                "to": "",
+                "area": ""
+            }
+        },
+        "sentenceLoading": false,
+        "newSentenceInfo": {
+            "sentence": "",
+            "candidateIndex": 0
+        },
+        "moreTipInfo": {
+            "opacity": 0,
+            "zIndex": -1
+        },
+        "paraphraseShowInfo": {
+            "card": 0,
+            "query": "",
+            "card_dict": 0
+        },
+        "selectType": "",
+        "wordPos": 0,
+        "candidateWord": "",
+        "syntaxVisible": false,
+        "syntaxStatus": 0
+    },
+    "language": {
+        "from": "auto",
+        "to": "zh-CHS",
+        "detect": "en",
+        "model": "general",
+        "detectShow": false,
+        "langMap": {
+            "current": ""
+        },
+        "zh2en": false,
+        "fromItemList": [
+            {
+                "lang": "auto",
+                "text": "自动检测",
+                "play": false
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "fr",
+                "text": "法语",
+                "play": true,
+                "abbr": "法"
+            },
+            {
+                "lang": "ru",
+                "text": "俄语",
+                "play": true,
+                "abbr": "俄"
+            },
+            {
+                "lang": "vi",
+                "text": "越南语",
+                "play": true,
+                "abbr": "越"
+            }
+        ],
+        "toItemList": [
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "ru",
+                "text": "俄语",
+                "play": true,
+                "abbr": "俄"
+            },
+            {
+                "lang": "fr",
+                "text": "法语",
+                "play": true,
+                "abbr": "法"
+            },
+            {
+                "lang": "ko",
+                "text": "韩语",
+                "play": true,
+                "abbr": "韩"
+            }
+        ]
+    },
+    "voice": {
+        "from": {
+            "lang": "en",
+            "type": "from",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22included%22%2C%22spokenDialect%22%3A%22en%22%2C%22rate%22%3A%220.8%22%7D",
+            "list": [
+                {
+                    "type": "uk_0",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "ɪnˈkluːdɪd",
+                    "abbr": "英",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/710_included_uk.mp3"
+                },
+                {
+                    "type": "usa_1",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "ɪnˈkluːdɪd",
+                    "abbr": "美",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/710_included_usa.mp3"
+                }
+            ],
+            "stype": "phonetic",
+            "phoneticShow": [
+                {
+                    "text": "ɪnˈkluːdɪd",
+                    "type": "uk",
+                    "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/710_included_uk.mp3"
+                }
+            ]
+        },
+        "to": {
+            "lang": "zh",
+            "type": "to",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22%E5%8C%85%E6%8B%AC%22%2C%22spokenDialect%22%3A%22zh-CHS%22%2C%22rate%22%3A%220.8%22%7D",
+            "stype": "normal"
+        }
+    }
+}

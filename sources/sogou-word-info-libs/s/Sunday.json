@@ -1,0 +1,935 @@
+{
+    "route": {
+        "name": "text",
+        "path": "/text",
+        "hash": "",
+        "query": {
+            "keyword": "Sunday",
+            "transfrom": "auto",
+            "transto": "zh-CHS",
+            "model": "general",
+            "errcode": "s10"
+        },
+        "params": {},
+        "fullPath": "/text?keyword=Sunday&transfrom=auto&transto=zh-CHS&model=general&errcode=s10",
+        "meta": {
+            "mtype": [
+                "textTranslate",
+                "language",
+                "voice"
+            ]
+        },
+        "from": {
+            "name": null,
+            "path": "/",
+            "hash": "",
+            "query": {},
+            "params": {},
+            "fullPath": "/",
+            "meta": {}
+        }
+    },
+    "common": {
+        "CONFIG": {
+            "wuid": 1733636492986,
+            "loginInfo": {},
+            "isIE": 0,
+            "isHitSsrSwitch": true,
+            "isHitWritebookSwitch": false,
+            "isHitAmsSwitch": true,
+            "promotionList": "{\n    \"pc_bottom\":{\n        \"imgsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\",\n        \"qcsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\"\n    },\n    \"pc_middle\":[\n        {\n            \"src\":\"//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c\",\n            \"bgColor\":\"#ffffff\",\n            \"link\":\"\"\n        }\n    ],\n    \"pc_survey\":{\n        \"icon\":\"//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750\",\n        \"link\":\"https://wj.qq.com/s2/8193148/806d/\"\n    }\n}",
+            "bannerData": [],
+            "isHitAsideSurvey": false,
+            "secretCode": 109984457,
+            "uuid": "fb29e38c-fd56-4b36-9974-af584bf692f7",
+            "referer": "",
+            "approveToken": "64F9C16A0FCEA10903042BB9B05681AB03FE2A766755318C",
+            "loadTime": 1733636492988,
+            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0",
+            "fcp": "161.35.183.163",
+            "temporaryId": "",
+            "fileId": ""
+        },
+        "hotWords": [],
+        "isFromCollect": false,
+        "psdModify": {
+            "currentStep": 1,
+            "scode": "",
+            "username": ""
+        },
+        "loginStatus": true,
+        "feedBackModule": false,
+        "showPromotionPopup": {
+            "show": false,
+            "type": ""
+        },
+        "showPromotionPCDownload": false,
+        "showShareBomb": false,
+        "shareData": null,
+        "showAppDownLoad": false,
+        "showLoginDialog": false,
+        "showLoading": {
+            "show": false
+        },
+        "toast": {
+            "show": false,
+            "text": "",
+            "loading": false
+        },
+        "modelToast": {
+            "show": false,
+            "text": ""
+        },
+        "selectionGlobalShow": true,
+        "selectionInfo": {
+            "left": 0,
+            "top": 0,
+            "show": false,
+            "from": "",
+            "to": "",
+            "val": "",
+            "area": ""
+        },
+        "showConfirmDialog": false,
+        "promotionList": {
+            "pc_bottom": {
+                "imgsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png",
+                "qcsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png"
+            },
+            "pc_middle": [
+                {
+                    "src": "//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c",
+                    "bgColor": "#ffffff",
+                    "link": ""
+                }
+            ],
+            "pc_survey": {
+                "icon": "//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750",
+                "link": "https://wj.qq.com/s2/8193148/806d/"
+            }
+        },
+        "transTypeTxt": "text",
+        "fixedTabStatus": 0,
+        "bodyTop": 0,
+        "ifHideUserOperation": false
+    },
+    "textTranslate": {
+        "prevTransQuery": "",
+        "translateData": {
+            "translate": {
+                "zly": "zly",
+                "errorCode": "0",
+                "qc_type": "1",
+                "index": "content0",
+                "from": "en",
+                "source": "sogou",
+                "text": "Sunday",
+                "to": "zh-CHS",
+                "id": "fb29e38c-fd56-4b36-9974-af584bf692f7",
+                "dit": "星期日",
+                "orig_text": "Sunday",
+                "md5": ""
+            },
+            "detect": {
+                "zly": "zly",
+                "detect": "en",
+                "errorCode": "0",
+                "language": "英语",
+                "id": "14d944f0-b527-11ef-abf7-6960f5435571",
+                "text": "Sunday"
+            },
+            "sgtkn": "64F9C1810FCEA10903042BB9B05681AB03FE2A766755318D",
+            "wordCard": {
+                "title": "Sunday",
+                "show": true,
+                "usualDict": [
+                    {
+                        "values": [
+                            "星期日；星期天；周日；礼拜天；星期日报；周日特刊；星期日出版的报纸"
+                        ],
+                        "pos": "n."
+                    }
+                ],
+                "secondQuery": "",
+                "exchange": {
+                    "word_pl": [
+                        "Sundays"
+                    ]
+                },
+                "levelList": [
+                    "小学",
+                    "初中",
+                    "高中",
+                    "四级",
+                    "考研"
+                ]
+            },
+            "detail": {
+                "word_group": [
+                    {
+                        "brief_definition": "主日学校，星期日学校",
+                        "phrase": "Sunday school",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "复活节日",
+                        "phrase": "Easter Sunday",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "阵亡将士纪念日。亦称POPPY DAY",
+                        "phrase": "Remembrance Sunday",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "最厉害的一击；最厉害的一招，杀手锏",
+                        "phrase": "Sunday punch",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "圣灵降临节。亦称PENTECOST",
+                        "phrase": "Whit Sunday",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "受难主日",
+                        "phrase": "Passion Sunday",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "复活节后的第一个星期日",
+                        "phrase": "Low Sunday",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "最好的衣服",
+                        "phrase": "Sunday best",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "省亲星期日",
+                        "phrase": "Mothering Sunday",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "血腥星期日；血腥星期天",
+                        "phrase": "Bloody Sunday",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "棕榈主日",
+                        "phrase": "Palm Sunday",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "业余画家",
+                        "phrase": "Sunday painter",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "三一节",
+                        "phrase": "Trinity Sunday",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "星期日司机",
+                        "phrase": "Sunday driver",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "降临主日",
+                        "phrase": "Advent Sunday",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "星期日惯例",
+                        "phrase": "Sunday observance",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "祈祷日前主日",
+                        "phrase": "Rogation Sunday",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "大斋节中第四个星期日",
+                        "phrase": "Refreshment Sunday",
+                        "pos": "n."
+                    }
+                ],
+                "bilingual": [
+                    {
+                        "source": "<em>Sunday</em> is a rest day.",
+                        "target": "星期天是休息日。",
+                        "url": ""
+                    },
+                    {
+                        "source": "On <em>Sunday</em> I'll read my books.",
+                        "target": "星期天我读书。",
+                        "url": ""
+                    },
+                    {
+                        "source": "<em>Sunday</em> is the day of the sun.",
+                        "target": "星期天是太阳日。",
+                        "url": ""
+                    },
+                    {
+                        "source": "What will you do on <em>Sunday</em>?",
+                        "target": "你星期天会做什么？",
+                        "url": ""
+                    },
+                    {
+                        "source": "I don't go to school on <em>Sunday</em>.",
+                        "target": "我星期天不上学。",
+                        "url": ""
+                    },
+                    {
+                        "source": "On <em>Sunday</em> I played basketball.",
+                        "target": "星期天我打了篮球。",
+                        "url": ""
+                    },
+                    {
+                        "source": "They play sports on <em>Sunday</em>.",
+                        "target": "他们星期天进行体育活动。",
+                        "url": ""
+                    },
+                    {
+                        "source": "It's on the second <em>Sunday</em> in May.",
+                        "target": "在五月的第二个星期天。",
+                        "url": ""
+                    },
+                    {
+                        "source": "This holiday is always on a <em>Sunday</em>.",
+                        "target": "这个节日总是在星期天。",
+                        "url": ""
+                    },
+                    {
+                        "source": "We're going to see Grandma on <em>Sunday</em>.",
+                        "target": "我们星期天要去看奶奶。",
+                        "url": ""
+                    }
+                ],
+                "baike": {
+                    "showMore": true,
+                    "list": [
+                        {
+                            "lemmaTitle": "sunday",
+                            "link": "https://baike.sogou.com/v64347007.htm?ch=sogou.fanyi",
+                            "abstract": "sunday（英[ˈsʌndeɪ]，美[ˈsʌndeɪ]），英语单词。作名词时，释义为星期日，礼拜日；星期日报。做副词时，释义为在星期日；每星期日。短语搭配为Sunday school（星期日学校）。例句为“We are going to the Dream City this sunday.（这个星期天我们要去梦想之城。）” 其复数为sundays。",
+                            "wapPic": "",
+                            "pcPic": ""
+                        },
+                        {
+                            "lemmaTitle": "sunday",
+                            "link": "https://baike.sogou.com/v64347009.htm?ch=sogou.fanyi",
+                            "abstract": "sunday，星期日，英国人在教堂里做礼拜的日子。有以这个词命名的电影，这部影片是根据真实事件改编的。",
+                            "wapPic": "//img03.sogoucdn.com/v2/thumb/retype_exclude_gif/ext/auto/q/80/crop/xy/ai/w/140/h/140/resize/w/140?appid=201005&sign=8f83aadbfe99e8264ea3298cc2808cbe&url=https%3A%2F%2Fpic.baike.soso.com%2Fugc%2Fbaikepic2%2F13286%2F20220506141513-824153499_jpeg_200_284_13736.jpg%2F0",
+                            "pcPic": "//img03.sogoucdn.com/v2/thumb/retype_exclude_gif/ext/auto/q/80/crop/xy/ai/w/140/h/140/resize/w/140?appid=201005&sign=8f83aadbfe99e8264ea3298cc2808cbe&url=https%3A%2F%2Fpic.baike.soso.com%2Fugc%2Fbaikepic2%2F13286%2F20220506141513-824153499_jpeg_200_284_13736.jpg%2F0"
+                        }
+                    ]
+                }
+            },
+            "book": {
+                "yingyinNormal": [
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/39e50807a5a1191398262e04787ff184_62485.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/1526615e899c8b0b24e4c0d463649efe_12992.mp3",
+                        "isLavafox": true,
+                        "en": "At 6:30 in the morning? Yes. On <em>Sunday</em>? Yes.",
+                        "zh": "早上六点半？是的。还是星期天？是的。",
+                        "videoNameZh": "《生活大爆炸 第一季》",
+                        "videoNameEn": "《The Big Bang Theory Season 1》",
+                        "url": "http://bisentence_movie.sogou.com/d2a75ae12403b2a4674542b9777ef64a_8e52a3262473a09e3206595e7ebfe4825b15ad4f"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/6a0f1af500949aabdf79e8935d4a7230_22265.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/42020e0b120dd361d0005aa99e453f70_3783.mp3",
+                        "isLavafox": true,
+                        "en": "Hey. Hey. So, I got us reservations for <em>Sunday</em> night, okay. How about Ernie's at 9:00?",
+                        "zh": "我订了星期天晚上的餐厅，厄尼之家，九点行吗？",
+                        "videoNameZh": "《老友记 第四季》",
+                        "videoNameEn": "《Friends Season 4》",
+                        "url": "http://bisentence_movie.sogou.com/33b3d7c90acfd321a1fd6af52b61ac14_e491f402d11af175740ab2920af7f73fa62cf641"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/6a0f1af500949aabdf79e8935d4a7230_22265.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/b8a01c7018f1904704989b236ce9dbc5_40052.mp3",
+                        "isLavafox": true,
+                        "en": "What should be the most wonderful day of my life is rapidly turning into just <em>Sunday</em> with a spectacular amount of food.",
+                        "zh": "一生中最快乐的日子，变成被食物淹死的星期天。",
+                        "videoNameZh": "《老友记 第四季》",
+                        "videoNameEn": "《Friends Season 4》",
+                        "url": "http://bisentence_movie.sogou.com/b82f49c518109d470d50efbd992582be_dbc99b26ecfa2841c6aae27c330f66a788f5d7d4"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/69e52acd9e09b6a2ed378507a165e971_14638.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/fbdf42028280cdcfe2578f4d5bd3c01a_2321.mp3",
+                        "isLavafox": true,
+                        "en": "I'm sure it'll be fine. Um, see you Saturday. Oh, actually, it's <em>Sunday</em>. Can I call you? Okay. Okay.",
+                        "zh": "我当然愿意，星期六见。其实是星期天。我能打给你吗？可以啊。好吧。",
+                        "videoNameZh": "《绯闻女孩 第一季》",
+                        "videoNameEn": "《Gossip Girl Season 1》",
+                        "url": "http://bisentence_movie.sogou.com/402fff7329c71fba10d67fc02a112921_77f294ad132fc3572b658f9bc7767a0916cd0046"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/69e52acd9e09b6a2ed378507a165e971_14638.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/c0eb6aa2280028f8b07f7e8d9cf9f9e4_57774.mp3",
+                        "isLavafox": true,
+                        "en": "I called you. Blair, it's <em>Sunday</em> morning. Coffee, croissants, breakfast at tiffany's. It's our tradition.",
+                        "zh": "我给你打过电话了，布来尔，今天是星期天早上，咖啡，面包，在提凡尼吃早餐，我们的传统。",
+                        "videoNameZh": "《绯闻女孩 第一季》",
+                        "videoNameEn": "《Gossip Girl Season 1》",
+                        "url": "http://bisentence_movie.sogou.com/5cc865535f3f795bdc73483f1e3c1683_7924a38b89471446e4d87e747598a025f353cb43"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/c3652a60f61ce63a5e9067648ae2439c_44092.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/553d043661af0fdc7869e92c467089dd_73168.mp3",
+                        "isLavafox": true,
+                        "en": "What I was going to suggest is if that you're willing to wait until <em>Sunday</em> morning, the Google satellite will be over Pasadena. You can have your wedding photographed from space.",
+                        "zh": "我想建议的是，如果你们愿意等到星期天早上结婚，谷歌的卫星会经过帕萨迪纳上空，卫星将会从太空拍下你们婚礼的照片。",
+                        "videoNameZh": "《生活大爆炸 第五季》",
+                        "videoNameEn": "《The Big Bang Theory Season 5》",
+                        "url": "http://bisentence_movie.sogou.com/2bf86e77e890bcf7f4af3fa0c2bc6c0c_9047595aedc58f34c3b46964794080752fc2fd2a"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/b630caafa2606557856da7a333933a5d_54182.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/32de5b8e2e81eac01a2cd3d277ca6c2b_3499.mp3",
+                        "isLavafox": true,
+                        "en": "Pay attention, Leonard. That's why she can't play on <em>Sunday</em>.",
+                        "zh": "注意力集中点，莱纳德。这是她周日不能来的原因。",
+                        "videoNameZh": "《生活大爆炸 第三季》",
+                        "videoNameEn": "《The Big Bang Theory Season 3》",
+                        "url": "http://bisentence_movie.sogou.com/f501a1b3c4bf4790a05a91dc9c175c6a_36dc91d110ea20e43f4a374f6a7e6bbf2789c075"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/b630caafa2606557856da7a333933a5d_54182.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/149a3ebaaa3e5050deaf10e1cd1fa1b2_3582.mp3",
+                        "isLavafox": true,
+                        "en": "Oh, gee, Sheldon, I don't think we can play on <em>Sunday</em>.",
+                        "zh": "天呐，谢尔顿，我不认为我们周日能来玩。",
+                        "videoNameZh": "《生活大爆炸 第三季》",
+                        "videoNameEn": "《The Big Bang Theory Season 3》",
+                        "url": "http://bisentence_movie.sogou.com/0f89941b7f4e25b5da05bec390d94c35_8d14c7995d5932e6b19d0f0a5f15442e30c372b6"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/8b3da16ecbe350aacc1a7e4a01d210bc_49869.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/6b5422d38857c612c66c85e3f8a6e008_8343.mp3",
+                        "isLavafox": true,
+                        "en": "And the park for one hour every other <em>Sunday</em> for fresh air.",
+                        "zh": "隔周周日送我去公园呼吸新鲜空气。",
+                        "videoNameZh": "《生活大爆炸 第四季》",
+                        "videoNameEn": "《The Big Bang Theory Season 4》",
+                        "url": "http://bisentence_movie.sogou.com/668328d646c18703f8d6b4e167b8ebd5_eec77d02f38f0481e23e986cf6c6057bb24ef8d2"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/d67496d18ec93ce1f31c004316546728_12072.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/0abed1d562b7e73132d0a707a43eefd1_37255.mp3",
+                        "isLavafox": true,
+                        "en": "You should ask for candles for a <em>Sunday</em> Treat, not dumb jeans.",
+                        "zh": "你该要蜡烛作为周日特享的，而不是臭牛仔裤。",
+                        "videoNameZh": "《房间》",
+                        "videoNameEn": "《Room》",
+                        "url": "http://bisentence_movie.sogou.com/c33c6265c4b210f5c703da890a0d6825_5bf0f7fe0da7b7db20ef0319fa7818b4453c1ada"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/ab33377d84b5796f50bb8f1f447070e8_26275.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/8307091c77b5030275770fcf3b659095_64565.mp3",
+                        "isLavafox": true,
+                        "en": "Okay, I'm a chef on a <em>Sunday</em> afternoon setting the menu at a big restaurant.",
+                        "zh": "我是个厨师，周日下午正在大餐馆定着菜单。",
+                        "videoNameZh": "《大空头》",
+                        "videoNameEn": "《The Big Short》",
+                        "url": "http://bisentence_movie.sogou.com/0781a12926f298c3257dc171a5395cdd_235d68c5b4cec0079ae86f4632ef2efb6668611f"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/658cb5af1f2c25ef894d7429bd1ba9af_103.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/8bfffc0e1a0c2d6bc52a7357703ad94e_53893.mp3",
+                        "isLavafox": true,
+                        "en": "So why was your whole family home that night? We had dinner there every <em>Sunday</em>.",
+                        "zh": "为什么那晚你全家都在家？我们每周日都一起吃晚餐。",
+                        "videoNameZh": "《疑犯追踪 第四季》",
+                        "videoNameEn": "《Person of Interest Season 4》",
+                        "url": "http://bisentence_movie.sogou.com/1feb4434ffb39277b07326cbe23297a5_dcbd1b4226697827f39936636d683cf8e4c689b4"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/b0aac413f69a971e58772352502a07e3_67340.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/72b94b56dd2d09f054c42dbf84dc0f6f_64027.mp3",
+                        "isLavafox": true,
+                        "en": "Do you know what day you bought it, ma'am? <em>Sunday</em> before her birthday. August 16.",
+                        "zh": "你知道你是哪天买的吗，女士？我女儿生日之前的那个周日，八月十六号。",
+                        "videoNameZh": "《傲骨贤妻第七季》",
+                        "videoNameEn": "《The Good Wife Season 7》",
+                        "url": "http://bisentence_movie.sogou.com/ad88c38cafa0c2be5f41bf378ca214c2_f8d7707fe9b196c8ab30812a52dea8bb76e7f7d4"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/21d26cfef0cd26f0813072491b08dd5a_57364.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/0c24d1245c16ddcf31dc14c35e205913_1186.mp3",
+                        "isLavafox": true,
+                        "en": "All right. Well, you guys have fun. I guess I'll see you <em>Sunday</em> night. Yeah. Okay.",
+                        "zh": "好吧，那祝你们玩得开心，那估计是周日晚再见了吧。是的。行。",
+                        "videoNameZh": "《生活大爆炸 第六季》",
+                        "videoNameEn": "《The Big Bang Theory Season 6》",
+                        "url": "http://bisentence_movie.sogou.com/4d6dc6c780b608891b6650df7e72fb18_1ceb4bfbee2f82fa5b2d80ca2b8354b6a4ec6776"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/b630caafa2606557856da7a333933a5d_54182.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/858df06d6a50200a9fff5877896ccda3_27693.mp3",
+                        "isLavafox": true,
+                        "en": "Okay, but only if you come to <em>Sunday</em> dinner at my house wearing a yarmulke. It's a date.",
+                        "zh": "好吧，除非你肯戴着犹太小帽礼拜天来我家吃晚餐。一言为定。",
+                        "videoNameZh": "《生活大爆炸 第三季》",
+                        "videoNameEn": "《The Big Bang Theory Season 3》",
+                        "url": "http://bisentence_movie.sogou.com/7a490c2c21abd6b33beb7fcaf5d7e1f1_488c94ffecab7d13e0d2b9d18bc9449f8e3b00b6"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/ddeda38701415f391059f60a14ca0ada_53507.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/9c726c05b485f9c2364a1509c48da3b1_40959.mp3",
+                        "isLavafox": true,
+                        "en": "I just wanted to know if that's okay. You and I had talked about going to brunch on <em>Sunday</em>.",
+                        "zh": "我想询问下你意见，因为我们之前说周日要一起吃早午餐。",
+                        "videoNameZh": "《生活大爆炸 第八季》",
+                        "videoNameEn": "《The Big Bang Theory Season 8》",
+                        "url": "http://bisentence_movie.sogou.com/912634755bcb12bc04de3d7dcfa7d4ce_eac1d7d2deff40954bdb1795b9ab6a76dd591123"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/c3652a60f61ce63a5e9067648ae2439c_44092.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/c0b8f99ac902455980bec5299332d76f_74815.mp3",
+                        "isLavafox": true,
+                        "en": "Okay, so we know we're going to do it <em>Sunday</em> morning. Now we need to find a good place for the satellite to see us.",
+                        "zh": "好，仪式的时间定在周日早上，现在得找一个卫星照得到我们的好位置。",
+                        "videoNameZh": "《生活大爆炸 第五季》",
+                        "videoNameEn": "《The Big Bang Theory Season 5》",
+                        "url": "http://bisentence_movie.sogou.com/7b52457d309a9ca588a788c475b16eef_155dedc79e88d258deadc2187ea1f088f7d82521"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/69e52acd9e09b6a2ed378507a165e971_14638.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/345c9b0649a202a718a009ef5cdb3017_26415.mp3",
+                        "isLavafox": true,
+                        "en": "Is there really anything better than a lazy <em>Sunday</em>? Reading the paper in bed, sipping coffee, scrambling an egg or two.",
+                        "zh": "有什么比慵懒的周日更令人惬意的吗？躺在床上读读报，品品咖啡，来一两个炒蛋。",
+                        "videoNameZh": "《绯闻女孩 第一季》",
+                        "videoNameEn": "《Gossip Girl Season 1》",
+                        "url": "http://bisentence_movie.sogou.com/078296dd6a13b7f8b0ce61d683464cb6_b31d5a17355756493cc97e1ed6b1031e906761a2"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/ed16ac8524b2f1f0c1489640f8396c3f_47421.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/fcb21285ecf6cfe1c28f4c2acc2a30eb_22017.mp3",
+                        "isLavafox": true,
+                        "en": "Hey, I think I'm gonna head to the office for a little bit. On a <em>Sunday</em>? Yeah. Want to make sure I'm prepared for tomorrow.",
+                        "zh": "我要去一趟办公室。周日也去吗？对呀。我想为明天做好准备。",
+                        "videoNameZh": "《生活大爆炸 第十一季》",
+                        "videoNameEn": "《The Big Bang Theory Season 11》",
+                        "url": "http://bisentence_movie.sogou.com/d4fa027f916e61898577765c776db16f_62fd3a116a5519025fb0e591c6eae2dbe5c9e062"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/7527e2a9ec38f59ad126037938e4289c_52101.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/b1b07e9f5214616cc9672c775a1fd082_69483.mp3",
+                        "isLavafox": true,
+                        "en": "I mean I've always had this picture of me and my next wife in bed on <em>Sunday</em> and, my kid comes running in and leaps up onto the bed.",
+                        "zh": "我一直想像着我跟未来的太太躺在床上，我的孩子跑过来跳到床上。",
+                        "videoNameZh": "《老友记 第八季》",
+                        "videoNameEn": "《Friends Season 8》",
+                        "url": "http://bisentence_movie.sogou.com/20f09697c0bcff42f759267eb1a8eadf_1ec76775cec0e1e79a716d749eb29b8b325bff74"
+                    }
+                ]
+            },
+            "pic": "",
+            "voice": {
+                "phonetic": [
+                    {
+                        "text": "ˈsʌndeɪ",
+                        "type": "uk",
+                        "filename": ""
+                    },
+                    {
+                        "text": "ˈsʌndeɪ",
+                        "type": "usa",
+                        "filename": ""
+                    }
+                ]
+            },
+            "dictType": "oxford_buchong",
+            "gaokao": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 10,
+                        "pos": "n",
+                        "chinese": "星期日; 礼拜天",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "Sunday",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2015-2022年8年间全国卷和自主命题省市高考卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2015-2022年全国卷高考试卷，包括阅读、完形、单选、填空、听力、改错、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选各省市考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2015-2022年8年间全国卷和自主命题省市高考卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 2,
+                "total_exam_freq": 10,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "星期日; 礼拜天",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "What did the woman do last <highlight>Sunday</highlight>?",
+                                    "month": -1,
+                                    "source": "天津卷",
+                                    "coll": "",
+                                    "sentence_trans": "这位女士上周日做了什么？",
+                                    "year": 2021,
+                                    "type": "听力",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "And on <highlight>Sunday</highlight>, we're going to do some shopping.",
+                                    "month": -1,
+                                    "source": "全国卷1",
+                                    "coll": "",
+                                    "sentence_trans": "星期天，我们要去购物。",
+                                    "year": 2016,
+                                    "type": "听力",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "It seemed that something clicked with the girls between Saturday and <highlight>Sunday</highlight>.",
+                                    "month": -1,
+                                    "source": "全国卷2",
+                                    "coll": "",
+                                    "sentence_trans": "星期六和星期天之间，女孩们似乎有了某种默契。",
+                                    "year": 2015,
+                                    "type": "完形填空",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            "zhongkao": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 134,
+                        "pos": "n",
+                        "chinese": "星期日",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "Sunday",
+                "direction_info": {
+                    "ranges": 4,
+                    "description": "数据源自2018-2021年4年间全国各省市中考试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2018-2021年全国重点省市中考试卷，包括听力、阅读、完形、单选、填空、改错、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选各省市考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2018-2021年4年间全国各省市中考试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 5,
+                "total_exam_freq": 134,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "星期日",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "A: Frank, I didn’t see you in the soccer game last <highlight>Sunday</highlight>.",
+                                    "month": -1,
+                                    "source": "遂宁市卷",
+                                    "coll": "",
+                                    "sentence_trans": "答：弗兰克，上周日的足球比赛中我没有看到你。",
+                                    "year": 2021,
+                                    "type": "口语运用",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "A: Mom, could I invite my friends to my birthday party this <highlight>Sunday</highlight>?",
+                                    "month": -1,
+                                    "source": "益阳市卷",
+                                    "coll": "",
+                                    "sentence_trans": "答：妈妈，我能邀请我的朋友参加这个星期天的生日派对吗？",
+                                    "year": 2021,
+                                    "type": "完成对话",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Amy and Annie will go on a natural history walk next <highlight>Sunday</highlight>.",
+                                    "month": -1,
+                                    "source": "苏州卷",
+                                    "coll": "",
+                                    "sentence_trans": "艾米和安妮下周日将进行一次自然历史徒步旅行。",
+                                    "year": 2019,
+                                    "type": "词汇检测",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            "sentencesData": {
+                "status": 1,
+                "info": "notZh2En",
+                "data": {}
+            },
+            "isAutoMatch": false,
+            "Zh2En": false
+        },
+        "query": "Sunday",
+        "result": "星期日",
+        "tabSelect": "detail",
+        "dictionaryType": "oxford_buchong",
+        "notFound_show": false,
+        "phoneticShow": "",
+        "globalShowTranslateRecord": "",
+        "pronPrefer": {
+            "type": "usa_1",
+            "speaker": "male",
+            "speed": "standard"
+        },
+        "ServerRecord": "",
+        "ServerUIGS": {
+            "version": "new",
+            "type": "all",
+            "stype": "success",
+            "terminal": "web",
+            "fr": "default",
+            "direction": "etoz",
+            "from": "en",
+            "to": "zh-CHS",
+            "len": 6,
+            "qtype": "text",
+            "qctype": "qc_1",
+            "dict_cover": 1,
+            "detail": 1,
+            "wordCardCover": 1,
+            "wordCardEn": 1,
+            "wordCardCh": 0,
+            "wordCardMinor": 0,
+            "wordCardNetmean": 0,
+            "wordDeform": 1,
+            "keyword": 0,
+            "bilingual": 1,
+            "simple": 0,
+            "levelList": 1,
+            "synonym": 0,
+            "antonym": 0,
+            "conjugate": 0,
+            "rootaffix": 0,
+            "baike_sogou": 1,
+            "baike_wiki": 0,
+            "wordDifference": 0,
+            "word_phrase": 1,
+            "secondQuery": 0,
+            "dict_oxford": 0,
+            "dict_newcentury": 0,
+            "zhongkaotab": 1,
+            "gaokaotab": 1,
+            "CET4tab": 0,
+            "CET6tab": 0,
+            "kaoyantab": 0,
+            "network_tab": 0,
+            "yinying_tab": 1,
+            "tuozhan_tab": 0,
+            "one_pic": 0,
+            "more_pic": 0,
+            "no_pic": 0,
+            "uuid": "fb29e38c-fd56-4b36-9974-af584bf692f7",
+            "from_type": 0,
+            "t_trans_ssr": 179
+        },
+        "ServerModelUIGS": {
+            "terminal": "web",
+            "type": "trans_model",
+            "pbtype": "pv",
+            "model_general": 1,
+            "model_medical": 1,
+            "model_finance": 1
+        },
+        "ServerSgtkn": "64F9C1810FCEA10903042BB9B05681AB03FE2A766755318D",
+        "suggShow": false,
+        "suggestion": "",
+        "suggDirection": "",
+        "usualTop": "",
+        "baseDict": "",
+        "wordCardClick": false,
+        "isFrInput": false,
+        "kanaTips": {
+            "show": false,
+            "left": "",
+            "top": "",
+            "type": "",
+            "arrowLeft": ""
+        },
+        "currSentenceIndex": -1,
+        "prefixStrObj": {
+            "prefixStr": "",
+            "oriPrefixStr": ""
+        },
+        "selectTransBox": {
+            "show": false,
+            "right": 0,
+            "top": 0,
+            "paraphraseInfo": {
+                "word": "",
+                "from": "",
+                "to": "",
+                "area": ""
+            }
+        },
+        "sentenceLoading": false,
+        "newSentenceInfo": {
+            "sentence": "",
+            "candidateIndex": 0
+        },
+        "moreTipInfo": {
+            "opacity": 0,
+            "zIndex": -1
+        },
+        "paraphraseShowInfo": {
+            "card": 0,
+            "query": "",
+            "card_dict": 0
+        },
+        "selectType": "",
+        "wordPos": 0,
+        "candidateWord": "",
+        "syntaxVisible": false,
+        "syntaxStatus": 0
+    },
+    "language": {
+        "from": "auto",
+        "to": "zh-CHS",
+        "detect": "en",
+        "model": "general",
+        "detectShow": false,
+        "langMap": {
+            "current": ""
+        },
+        "zh2en": false,
+        "fromItemList": [
+            {
+                "lang": "auto",
+                "text": "自动检测",
+                "play": false
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "ru",
+                "text": "俄语",
+                "play": true,
+                "abbr": "俄"
+            },
+            {
+                "lang": "fr",
+                "text": "法语",
+                "play": true,
+                "abbr": "法"
+            },
+            {
+                "lang": "th",
+                "text": "泰语",
+                "play": true,
+                "abbr": "泰"
+            }
+        ],
+        "toItemList": [
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "ko",
+                "text": "韩语",
+                "play": true,
+                "abbr": "韩"
+            },
+            {
+                "lang": "ru",
+                "text": "俄语",
+                "play": true,
+                "abbr": "俄"
+            },
+            {
+                "lang": "fr",
+                "text": "法语",
+                "play": true,
+                "abbr": "法"
+            }
+        ]
+    },
+    "voice": {
+        "from": {
+            "lang": "en",
+            "type": "from",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22Sunday%22%2C%22spokenDialect%22%3A%22en%22%2C%22rate%22%3A%220.8%22%7D",
+            "list": [
+                {
+                    "type": "uk_0",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "ˈsʌndeɪ",
+                    "abbr": "英",
+                    "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22Sunday%22%2C%22spokenDialect%22%3A%22en%22%2C%22rate%22%3A%220.8%22%7D"
+                },
+                {
+                    "type": "usa_1",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "ˈsʌndeɪ",
+                    "abbr": "美",
+                    "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22Sunday%22%2C%22spokenDialect%22%3A%22en%22%2C%22rate%22%3A%220.8%22%7D"
+                }
+            ],
+            "stype": "phonetic",
+            "phoneticShow": [
+                {
+                    "text": "ˈsʌndeɪ",
+                    "type": "uk",
+                    "filename": ""
+                }
+            ]
+        },
+        "to": {
+            "lang": "zh",
+            "type": "to",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22%E6%98%9F%E6%9C%9F%E6%97%A5%22%2C%22spokenDialect%22%3A%22zh-CHS%22%2C%22rate%22%3A%220.8%22%7D",
+            "stype": "normal"
+        }
+    }
+}

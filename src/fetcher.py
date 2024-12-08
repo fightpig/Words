@@ -2,6 +2,7 @@ import json
 import os
 import time
 from collections import defaultdict
+from multiprocessing import Pool
 from pathlib import Path
 from typing import List
 
@@ -344,6 +345,7 @@ def test_oxford_5000():
 
 def test_sogou():
     cn = 0
+    pool = Pool(50)
     for line in read_file("../sources/word-book/oxford3000/words-3000.txt"):
         if line.strip().startswith("#"):
             continue
@@ -357,6 +359,12 @@ def test_sogou():
             save_json_path=f"../sources/sogou-word-info-libs/{word[0]}/{word}.json",
         )
         ic(cn, my_word)
+        # pool.apply_async(
+        #     Sogou.fetch,
+        #     args=(word, True, f"../sources/sogou-word-info-libs/{word[0]}/{word}.json"),
+        # )
+    # pool.close()
+    # pool.join()
 
 
 def test_bing():

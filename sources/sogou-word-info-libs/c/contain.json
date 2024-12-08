@@ -1,0 +1,3344 @@
+{
+    "route": {
+        "name": "text",
+        "path": "/text",
+        "hash": "",
+        "query": {
+            "keyword": "contain",
+            "transfrom": "auto",
+            "transto": "zh-CHS",
+            "model": "general",
+            "errcode": "s10"
+        },
+        "params": {},
+        "fullPath": "/text?keyword=contain&transfrom=auto&transto=zh-CHS&model=general&errcode=s10",
+        "meta": {
+            "mtype": [
+                "textTranslate",
+                "language",
+                "voice"
+            ]
+        },
+        "from": {
+            "name": null,
+            "path": "/",
+            "hash": "",
+            "query": {},
+            "params": {},
+            "fullPath": "/",
+            "meta": {}
+        }
+    },
+    "common": {
+        "CONFIG": {
+            "wuid": 1733635568443,
+            "loginInfo": {},
+            "isIE": 0,
+            "isHitSsrSwitch": true,
+            "isHitWritebookSwitch": false,
+            "isHitAmsSwitch": true,
+            "promotionList": "{\n    \"pc_bottom\":{\n        \"imgsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\",\n        \"qcsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\"\n    },\n    \"pc_middle\":[\n        {\n            \"src\":\"//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c\",\n            \"bgColor\":\"#ffffff\",\n            \"link\":\"\"\n        }\n    ],\n    \"pc_survey\":{\n        \"icon\":\"//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750\",\n        \"link\":\"https://wj.qq.com/s2/8193148/806d/\"\n    }\n}",
+            "bannerData": [],
+            "isHitAsideSurvey": false,
+            "secretCode": 109984457,
+            "uuid": "653975ca-9a83-41f8-83e3-8c27d7cd8a72",
+            "referer": "",
+            "approveToken": "64F625AB866E00AAA2A48A1ADE9B5E9AA2DDEE0167552DF0",
+            "loadTime": 1733635568445,
+            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0",
+            "fcp": "170.64.148.76",
+            "temporaryId": "",
+            "fileId": ""
+        },
+        "hotWords": [],
+        "isFromCollect": false,
+        "psdModify": {
+            "currentStep": 1,
+            "scode": "",
+            "username": ""
+        },
+        "loginStatus": true,
+        "feedBackModule": false,
+        "showPromotionPopup": {
+            "show": false,
+            "type": ""
+        },
+        "showPromotionPCDownload": false,
+        "showShareBomb": false,
+        "shareData": null,
+        "showAppDownLoad": false,
+        "showLoginDialog": false,
+        "showLoading": {
+            "show": false
+        },
+        "toast": {
+            "show": false,
+            "text": "",
+            "loading": false
+        },
+        "modelToast": {
+            "show": false,
+            "text": ""
+        },
+        "selectionGlobalShow": true,
+        "selectionInfo": {
+            "left": 0,
+            "top": 0,
+            "show": false,
+            "from": "",
+            "to": "",
+            "val": "",
+            "area": ""
+        },
+        "showConfirmDialog": false,
+        "promotionList": {
+            "pc_bottom": {
+                "imgsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png",
+                "qcsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png"
+            },
+            "pc_middle": [
+                {
+                    "src": "//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c",
+                    "bgColor": "#ffffff",
+                    "link": ""
+                }
+            ],
+            "pc_survey": {
+                "icon": "//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750",
+                "link": "https://wj.qq.com/s2/8193148/806d/"
+            }
+        },
+        "transTypeTxt": "text",
+        "fixedTabStatus": 0,
+        "bodyTop": 0,
+        "ifHideUserOperation": false
+    },
+    "textTranslate": {
+        "prevTransQuery": "",
+        "translateData": {
+            "translate": {
+                "zly": "zly",
+                "errorCode": "0",
+                "qc_type": "1",
+                "index": "content0",
+                "from": "en",
+                "source": "sogou",
+                "text": "contain",
+                "to": "zh-CHS",
+                "id": "653975ca-9a83-41f8-83e3-8c27d7cd8a72",
+                "dit": "包含",
+                "orig_text": "contain",
+                "md5": ""
+            },
+            "detect": {
+                "zly": "zly",
+                "detect": "en",
+                "errorCode": "0",
+                "language": "英语",
+                "id": "edc70cf0-b524-11ef-83b0-6b27ee2acc8c",
+                "text": "contain"
+            },
+            "sgtkn": "64F625B2866E00AAA2A48A1ADE9B5E9AA2DDEE0167552DF0",
+            "wordCard": {
+                "title": "contain",
+                "show": true,
+                "usualDict": [
+                    {
+                        "values": [
+                            "包含；含有；包括；容纳；控制；抑制；克制；阻止；防止…蔓延；防止…恶化"
+                        ],
+                        "pos": "v."
+                    }
+                ],
+                "secondQuery": "",
+                "exchange": {
+                    "word_third": [
+                        "contains"
+                    ],
+                    "word_ing": [
+                        "containing"
+                    ],
+                    "word_done": [
+                        "contained"
+                    ],
+                    "word_past": [
+                        "contained"
+                    ]
+                },
+                "levelList": [
+                    "初中",
+                    "高中",
+                    "四级",
+                    "六级",
+                    "考研",
+                    "考博",
+                    "托福",
+                    "GRE"
+                ]
+            },
+            "detail": {
+                "synonym": [
+                    {
+                        "word_list": [
+                            "involve",
+                            "possess",
+                            "regulate",
+                            "manage",
+                            "accept"
+                        ],
+                        "pos": "vt.",
+                        "mean": "包含；控制；容纳；牵制"
+                    },
+                    {
+                        "word_list": [
+                            "restrain oneself",
+                            "abstain"
+                        ],
+                        "pos": "vi.",
+                        "mean": "含有；自制"
+                    }
+                ],
+                "affix": {
+                    "word": "contain",
+                    "sub_affix_info_list": [
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "concede",
+                                            "mean": "v. 承认…为事实；放弃；让与；拱手让出；认；承认；承认（比赛；竞赛）失败；给予；赋予"
+                                        },
+                                        {
+                                            "word": "conceive",
+                                            "mean": "v. 使受孕；想出；构思；设想；想象；认为；怀孕；形成；怀有；体验到"
+                                        },
+                                        {
+                                            "word": "concentrate",
+                                            "mean": "v. 全神贯注；全力以赴；聚精会神；集中；聚集；浓缩；注重；集合"
+                                        },
+                                        {
+                                            "word": "concentric",
+                                            "mean": "adj. 同中心的；同轴的"
+                                        },
+                                        {
+                                            "word": "conception",
+                                            "mean": "n. 怀孕；怀胎；受精；观点；想法；看法；认识；观念；构想；理解"
+                                        },
+                                        {
+                                            "word": "conceptual",
+                                            "mean": "adj. 概念的；概念上的"
+                                        },
+                                        {
+                                            "word": "concern",
+                                            "mean": "v. 涉及；关于；使担忧；使烦恼；使不安；关心；影响；关系到；从事；喜爱"
+                                        },
+                                        {
+                                            "word": "concession",
+                                            "mean": "n. 让步；让予物；给予物；优惠折扣；特许权；给予；认可；让出；准予；认可的表示"
+                                        },
+                                        {
+                                            "word": "concise",
+                                            "mean": "adj. 简洁的；简明的；简练的"
+                                        },
+                                        {
+                                            "word": "conclude",
+                                            "mean": "v. 使结束；作出结论；推断；断定；总结；结束；下结论；订立；缔结；决定"
+                                        },
+                                        {
+                                            "word": "concord",
+                                            "mean": "n. 一致；协调；和睦；和谐；协和音；（Concord）康科德；各种葡萄甜点"
+                                        },
+                                        {
+                                            "word": "concrete",
+                                            "mean": "adj. 具体存在的；实在的；有形的；具体的；明确的；确定的；确实的；物质的"
+                                        },
+                                        {
+                                            "word": "concur",
+                                            "mean": "v. 持相同见解；同意；同时发生；赞同；赞成"
+                                        },
+                                        {
+                                            "word": "condescend",
+                                            "mean": "v. 显示优越感；以恩赐的态度相待；屈尊；俯就"
+                                        },
+                                        {
+                                            "word": "condition",
+                                            "mean": "n. 情况；状态；状况；环境；条件；前提；病；疾病；身份"
+                                        },
+                                        {
+                                            "word": "condole",
+                                            "mean": "v. 表示同情；慰问；吊唁"
+                                        },
+                                        {
+                                            "word": "condone",
+                                            "mean": "v. 宽容；容忍；宽恕；批准；同意"
+                                        },
+                                        {
+                                            "word": "conduct",
+                                            "mean": "n. 行为方式；举止；品行；管理；处理；引导"
+                                        },
+                                        {
+                                            "word": "confederate",
+                                            "mean": "adj. 联合的；联盟的；南部邦联的"
+                                        },
+                                        {
+                                            "word": "confer",
+                                            "mean": "v. 授予；商议；协商；讨论；交流意见"
+                                        },
+                                        {
+                                            "word": "confide",
+                                            "mean": "v. 吐露（秘密；私事）；倾诉；因信任（某人）而向其吐露（秘密；把…托付给"
+                                        },
+                                        {
+                                            "word": "configuration",
+                                            "mean": "n. 构造；结构；配置；布局；构型"
+                                        },
+                                        {
+                                            "word": "confine",
+                                            "mean": "v. 限制；使局限；禁闭；监禁；关押；禁止离开；无法离开；卧床分娩"
+                                        },
+                                        {
+                                            "word": "confirm",
+                                            "mean": "v. 证实；确定；施坚信礼；施坚振礼；批准；认可；加强；巩固；确认"
+                                        },
+                                        {
+                                            "word": "conflate",
+                                            "mean": "v. 合而为一"
+                                        },
+                                        {
+                                            "word": "conflict",
+                                            "mean": "n. 意见不一；争论；武装冲突；抵触；武装斗争；战争；冲突；矛盾"
+                                        },
+                                        {
+                                            "word": "conform",
+                                            "mean": "v. 遵守；顺从；符合；相似；成一致；遵守社会接受的习俗"
+                                        },
+                                        {
+                                            "word": "confound",
+                                            "mean": "v. 使惊讶；使困惑；使糊涂；使不知所措；混淆；证明（理论；期望；预言）错误；驳倒；击败；挫败；推翻"
+                                        },
+                                        {
+                                            "word": "confront",
+                                            "mean": "v. 面对；面临；对抗；正视；使面对；临到…头上；使面临；使遭遇；处理"
+                                        },
+                                        {
+                                            "word": "confuse",
+                                            "mean": "v. 使迷惑；使困惑；混淆；误认；使更复杂；使难懂"
+                                        },
+                                        {
+                                            "word": "congenial",
+                                            "mean": "adj. 志趣相投的；情投意合的；适意的；合意的；相宜的"
+                                        },
+                                        {
+                                            "word": "congest",
+                                            "mean": "vt. 使充血"
+                                        },
+                                        {
+                                            "word": "congratulate",
+                                            "mean": "v. 向…道贺；祝贺；恭喜；自豪；感到满足；称赞；赞美；自我庆幸"
+                                        },
+                                        {
+                                            "word": "congratulation",
+                                            "mean": "n. 祝词；贺词；祝贺；恭喜"
+                                        },
+                                        {
+                                            "word": "congregate",
+                                            "mean": "v. 集合；聚集"
+                                        },
+                                        {
+                                            "word": "congress",
+                                            "mean": "n. 代表会议；国家立法机关；国会；议会；协会；组织；团体；聚集；聚会"
+                                        },
+                                        {
+                                            "word": "conjunction",
+                                            "mean": "n. 【语法】 连（接）词（如and；同时发生；【天文；占星】 合"
+                                        },
+                                        {
+                                            "word": "connect",
+                                            "mean": "v. 连接；联结；联系；结合；通电；联运；联姻；通水；使联系；连接以供通行"
+                                        },
+                                        {
+                                            "word": "connote",
+                                            "mean": "v. 意味着；有…的含意；暗示；意味着…的结果"
+                                        },
+                                        {
+                                            "word": "conquer",
+                                            "mean": "v. 击败；征服；攻占；战胜；破除；克服；成功地攀登；博得（一个人或一群人）的喜爱"
+                                        },
+                                        {
+                                            "word": "conquest",
+                                            "mean": "n. 征服；攻占；战胜；克服；被征服的领土；掠取地；征服英国；破除；成功攀登"
+                                        },
+                                        {
+                                            "word": "conscience",
+                                            "mean": "n. 良心；良知；道德心"
+                                        },
+                                        {
+                                            "word": "conscientious",
+                                            "mean": "adj. 凭良心办事的；认真的；勤勤恳恳的；负责的；尽责的；认真负责的；凭良心的；与良心有关的"
+                                        },
+                                        {
+                                            "word": "conscious",
+                                            "mean": "adj. 清醒的；感到的；意识到的；敏感的；知道的；察觉的；了解的；不自然的；关心…的；对… 感兴趣的"
+                                        },
+                                        {
+                                            "word": "consecrate",
+                                            "mean": "v. 奉（某事物；尤指教堂）为神圣；供奉；奉献；使（面包；酒）圣化；使变体；任命…就圣职；仅将某物用作…"
+                                        },
+                                        {
+                                            "word": "consecutive",
+                                            "mean": "adj. 连续的；不断的；接连而来的；连贯的；按逻辑顺序的；结果的"
+                                        },
+                                        {
+                                            "word": "consensus",
+                                            "mean": "n. 一致"
+                                        },
+                                        {
+                                            "word": "consent",
+                                            "mean": "n. 同意；赞成；准许"
+                                        },
+                                        {
+                                            "word": "consequence",
+                                            "mean": "n. 结果；后果；影响；重要性；重大；意义；连环问答式叙事游戏；显要；显赫"
+                                        },
+                                        {
+                                            "word": "consequent",
+                                            "mean": "adj. 作为结果的；由…而起的；随之发生的；顺向的；逻辑上一致的；合乎逻辑的"
+                                        },
+                                        {
+                                            "word": "conserve",
+                                            "mean": "v. 保护；保存；节约；防止浪费；使（量；如能量、质量）守恒；保持（某氨基酸、核苷或其序列）不变；保藏；用糖保存；将…制成蜜饯"
+                                        },
+                                        {
+                                            "word": "consign",
+                                            "mean": "v. 把…委托给；交付；托管；寄售；托售；托运；运送；打发；放逐"
+                                        },
+                                        {
+                                            "word": "consist",
+                                            "mean": "v. 由…组成；由…构成；一致；符合；以…为基本特色"
+                                        },
+                                        {
+                                            "word": "consolidate",
+                                            "mean": "v. 巩固；强化；使坚强；使结实；整合；加强；合并"
+                                        },
+                                        {
+                                            "word": "consonant",
+                                            "mean": "n. 辅音；辅音字母"
+                                        },
+                                        {
+                                            "word": "consortium",
+                                            "mean": "n. 协会；联合；联盟；配偶的相互权利"
+                                        },
+                                        {
+                                            "word": "conspicuous",
+                                            "mean": "adj. 显而易见的；明显的；显著的；引人注目的；出众的；值得注意的"
+                                        },
+                                        {
+                                            "word": "conspire",
+                                            "mean": "v. 阴谋；密谋；共谋；合作；协同；凑合起来；共同促成"
+                                        },
+                                        {
+                                            "word": "constancy",
+                                            "mean": "n. 忠诚；忠实；可靠；坚定不移；恒久不变；始终如一；不屈不挠"
+                                        },
+                                        {
+                                            "word": "constant",
+                                            "mean": "adj. 不断的；连续的；不变的；始终如一的；忠诚的；忠实的；忠贞的"
+                                        },
+                                        {
+                                            "word": "constrict",
+                                            "mean": "v. 使缩窄；使收缩；压缩；收紧；收缩；限制；约束；缩窄；变紧；盘绕以使窒息"
+                                        },
+                                        {
+                                            "word": "construct",
+                                            "mean": "v. 建筑；建造；建立；构筑；构成；组成；形成；造；作"
+                                        },
+                                        {
+                                            "word": "construe",
+                                            "mean": "v. 解释；说明；诠释；分析（文章、句子或词的）语法；逐字翻译；直译；口译"
+                                        },
+                                        {
+                                            "word": "consume",
+                                            "mean": "v. 吃；喝；摄取；吸引；购买；消费；用完；耗尽；消耗；毁灭"
+                                        },
+                                        {
+                                            "word": "consummate",
+                                            "mean": "v. 使完；完成"
+                                        },
+                                        {
+                                            "word": "consumption",
+                                            "mean": "n. 耗尽；消耗；销蚀性疾病；身体耗损；痨病；消费；消费量；消耗量；吃；喝"
+                                        },
+                                        {
+                                            "word": "contact",
+                                            "mean": "n. 接触；见面；联系；交往；关系；触点；隐形眼镜；接头；接触器；传达"
+                                        },
+                                        {
+                                            "word": "contagious",
+                                            "mean": "adj. 接触传染（性）的；触染（性）的；可能带有人际传染疾病的；可能带触染原的；有感染力的；可能蔓延开的"
+                                        },
+                                        {
+                                            "word": "contemporary",
+                                            "mean": "adj. 生活在同时代的；同时代发生的；当代的；源自同时代的；属于同时期的；现代（派）的"
+                                        },
+                                        {
+                                            "word": "contend",
+                                            "mean": "v. 奋斗；斗争；搏斗；声称；主张；辩论；竞争；争夺；争取"
+                                        },
+                                        {
+                                            "word": "contention",
+                                            "mean": "n. 争论；争辩；争执；论点"
+                                        },
+                                        {
+                                            "word": "context",
+                                            "mean": "n. 环境；背景；来龙去脉；上下文；语境"
+                                        },
+                                        {
+                                            "word": "continent",
+                                            "mean": "n. 洲；大陆；欧洲大陆"
+                                        },
+                                        {
+                                            "word": "contingency",
+                                            "mean": "n. 可能发生的事件；不确定的事件；偶然性；意外；应急储备；可能性；不测；应急措施；应急开支"
+                                        },
+                                        {
+                                            "word": "continue",
+                                            "mean": "v. 继续；坚持下去；恢复；重新开始；持续；延续；坚持；留任；使继续；维持原状"
+                                        },
+                                        {
+                                            "word": "contour",
+                                            "mean": "n. 轮廓；外形；周线；围线；等高线；恒值线；升降曲线；变化方式"
+                                        },
+                                        {
+                                            "word": "contract",
+                                            "mean": "n. 合同；契约；合同法；契约法；暗杀协议；定约；定约墩数；婚约"
+                                        },
+                                        {
+                                            "word": "contribute",
+                                            "mean": "v. 捐；捐助；捐献；贡献；有助于；促成；促使；提议；发表意见；投"
+                                        },
+                                        {
+                                            "word": "convene",
+                                            "mean": "v. 召集；集合；集会"
+                                        },
+                                        {
+                                            "word": "convenience",
+                                            "mean": "n. 方便；便利；公共厕所；便利性；方便性；便利设施；使生活方便舒适的设备"
+                                        },
+                                        {
+                                            "word": "convenient",
+                                            "mean": "adj. 方便的；合适的；省事的；近便的；合宜的；易于到达的；适时的"
+                                        },
+                                        {
+                                            "word": "convention",
+                                            "mean": "n. 准则；惯例；国际协议；公约；大会；会议；社会习俗；得体行为；约定；政党代表大会"
+                                        },
+                                        {
+                                            "word": "converse",
+                                            "mean": "v. 谈话；交谈"
+                                        },
+                                        {
+                                            "word": "conversion",
+                                            "mean": "n. 转变；转换；转化；带球触地得分后再踢定位球得分；侵权行为；非法挪用；皈依；改变宗教；悔改后皈依；房屋的改建"
+                                        },
+                                        {
+                                            "word": "convert",
+                                            "mean": "v. 使…转变；改变；以…得分；转换；改变宗教信仰；说服…改变信仰；使皈依；兑换；对…作换算"
+                                        },
+                                        {
+                                            "word": "convict",
+                                            "mean": "v. 宣判…有罪"
+                                        },
+                                        {
+                                            "word": "convince",
+                                            "mean": "v. 使确信；使信服；说服"
+                                        }
+                                    ],
+                                    "derivatives": "co-",
+                                    "affix_sense_chinese": "指在程度/尺寸方面\"共同\";  与...一起",
+                                    "affix_type": "prefix"
+                                },
+                                {
+                                    "sample": [],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "表强调",
+                                    "affix_type": "prefix"
+                                }
+                            ],
+                            "affix": "con-",
+                            "affix_mean": "共同, 一起"
+                        },
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "abstain",
+                                            "mean": "v. 克制；有意回避；弃权；戒酒"
+                                        },
+                                        {
+                                            "word": "detain",
+                                            "mean": "v. 拘留；扣押；吸引…注意力以羁绊；使（病人；伤员）留院治疗"
+                                        },
+                                        {
+                                            "word": "maintain",
+                                            "mean": "v. 维持；保持；扶养；负担；坚持；断言；主张；维护；将… 维持；养护"
+                                        },
+                                        {
+                                            "word": "obtain",
+                                            "mean": "v. 得到；获得；通用；流行；合乎习俗；得到公认"
+                                        },
+                                        {
+                                            "word": "retain",
+                                            "mean": "v. 保持；保留；记住；保持不变；挡住；继续雇用；吸收并保留；拦住；付定金聘定"
+                                        },
+                                        {
+                                            "word": "sustain",
+                                            "mean": "v. 支持；支撑；忍受；经受（不愉快的事情；尤指伤痛）；认可；赞成；确认；保持；使持续不断；（演员）充分表演（角色"
+                                        }
+                                    ],
+                                    "derivatives": "ten, tin",
+                                    "affix_sense_chinese": "拿住, 保持, 维持",
+                                    "affix_type": "stem"
+                                }
+                            ],
+                            "affix": "tain",
+                            "affix_mean": "拿住"
+                        }
+                    ],
+                    "word_mean": "v. 包含"
+                },
+                "wordRootInfo": {
+                    "word_info_list": [
+                        {
+                            "word": "contained",
+                            "pos_mean_info_list": [
+                                {
+                                    "pos": "adj.",
+                                    "mean": "泰然自若的，从容的；被控制的"
+                                },
+                                {
+                                    "pos": "v.",
+                                    "mean": "包含；遏制（contain的过去分词）；容纳"
+                                }
+                            ]
+                        },
+                        {
+                            "word": "container",
+                            "pos_mean_info_list": [
+                                {
+                                    "pos": "n.",
+                                    "mean": "集装箱；容器"
+                                }
+                            ]
+                        },
+                        {
+                            "word": "containment",
+                            "pos_mean_info_list": [
+                                {
+                                    "pos": "n.",
+                                    "mean": "包含；牵制；容量；密闭度"
+                                }
+                            ]
+                        }
+                    ],
+                    "root_word": "contain"
+                },
+                "word_difference_info": [
+                    {
+                        "common_mean": "包括；包含",
+                        "word_list": [
+                            "hold",
+                            " contain",
+                            " involve",
+                            " embrace",
+                            " comprise",
+                            " comprehend",
+                            " include"
+                        ],
+                        "word_mean_info__list": [
+                            {
+                                "difference": "常和contain换用。指能够容纳或有足够的容纳量。强调包容能力。",
+                                "word": "hold"
+                            },
+                            {
+                                "difference": "普通用词，所涉及的物体常常是其组成部分或内容。强调包容关系。既可指具体有形的东西，也可指抽象无形的东西。",
+                                "word": "contain"
+                            },
+                            {
+                                "difference": "把包含因整体的性质决定的成分或结果。所包括的往往是无形的，不可触知的东西，多用作引申。",
+                                "word": "involve"
+                            },
+                            {
+                                "difference": "正式用词，指把某事物纳入整个之中。",
+                                "word": "embrace"
+                            },
+                            {
+                                "difference": "书面用词，暗指一个整体包括不同部分所组成，可与include交换使用。",
+                                "word": "comprise"
+                            },
+                            {
+                                "difference": "正工用词，指包含在整体范围以内。",
+                                "word": "comprehend"
+                            },
+                            {
+                                "difference": "普通用词，指一整体包含着各独立的部分，也指某东西包含另一东西的某一部分。",
+                                "word": "include"
+                            }
+                        ]
+                    }
+                ],
+                "word_group": [
+                    {
+                        "brief_definition": "据说含有；据说包括；据说载列",
+                        "phrase": "said to contain",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "含酒精",
+                        "phrase": "contain alcohol",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "包含参考",
+                        "phrase": "contain reference",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "包含单词",
+                        "phrase": "contain word",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "消息包含",
+                        "phrase": "message contain",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "包含项（目）",
+                        "phrase": "contain item",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "包含的情感",
+                        "phrase": "contain emotion",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "包含愤怒；含怒",
+                        "phrase": "contain anger",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "克制兴奋",
+                        "phrase": "contain excitement",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "签名包含",
+                        "phrase": "signature contain",
+                        "pos": ""
+                    }
+                ],
+                "bilingual": [
+                    {
+                        "source": "What shops do they <em>contain</em>?",
+                        "target": "它们包含哪些商店？",
+                        "url": ""
+                    },
+                    {
+                        "source": "The class audio CDs <em>contain</em> the recordings.",
+                        "target": "课堂音频光盘包含录音。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Newspapers often <em>contain</em> both fact and opinion.",
+                        "target": "报纸通常包含事实和观点。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Good news stories should <em>contain</em> only true facts and not opinions.",
+                        "target": "好的新闻故事应该只包含真实的事实而不是观点。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Interestingly, the letters did not <em>contain</em> the usual warnings to children.",
+                        "target": "有趣的是，这些信件没有包含通常对孩子的警告。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Fable usually <em>contain</em> moral lessons.",
+                        "target": "寓言通常包含道德教训。",
+                        "url": ""
+                    },
+                    {
+                        "source": "The primary key cannot <em>contain</em> null values.",
+                        "target": "主键不能包含空值。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Many English words <em>contain</em> the schwa sound.",
+                        "target": "许多英语单词包含中性元音。",
+                        "url": ""
+                    },
+                    {
+                        "source": "The password must <em>contain</em> at least one digit.",
+                        "target": "密码必须包含至少一个数字。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Many organic compounds <em>contain</em> a benzene ring.",
+                        "target": "许多有机化合物都包含苯环。",
+                        "url": ""
+                    }
+                ]
+            },
+            "book": {
+                "yingyinNormal": [
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/c676cdc0ecc67d4131523051bf80ff7d_20824.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/e8f5580f93a5a0991a52bea13a47fe36_33380.mp3",
+                        "isLavafox": true,
+                        "en": "These sugar-flavored leaves <em>contain</em> proteins, mineral salts and vitamins.",
+                        "zh": "这些带甜味的叶片，富含蛋白质，矿物盐和维他命。",
+                        "videoNameZh": "《海洋星球》",
+                        "videoNameEn": "《Planet Ocean》",
+                        "url": "http://bisentence_movie.sogou.com/0349d40f316e762db90e3867ce1248a3_3720a26e9a0bfa58ff37c4e81102d9046090df43"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/c676cdc0ecc67d4131523051bf80ff7d_20824.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/f1f1b0b976b855413321bccb6300d9d7_51312.mp3",
+                        "isLavafox": true,
+                        "en": "Who knows where our boxes are going and what they <em>contain</em>?",
+                        "zh": "谁都不知道箱里是什么，将运往何处。",
+                        "videoNameZh": "《海洋星球》",
+                        "videoNameEn": "《Planet Ocean》",
+                        "url": "http://bisentence_movie.sogou.com/886793de87dbbdb600df6e796286e874_ca5472c0a5f4c86aaada90b947a7717dda3757ad"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/cf2616af116b548887696dabfcc2fd97_68323.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/b997d9da60e9272b3c23e2200bc13a2d_46621.mp3",
+                        "isLavafox": true,
+                        "en": "America is leading the fight to <em>contain</em> and combat the Ebola epidemic in West Africa.",
+                        "zh": "美国正在领导着控制并战胜西非埃博拉疫情的努力。",
+                        "videoNameZh": "《奥巴马每周电视讲话》",
+                        "videoNameEn": "《Your Weekly Address》",
+                        "url": "http://bisentence_movie.sogou.com/a764ee0536a6a288890449b419bebd0f_ed2d5a0b736a1c20bb7c64096ef6566bfc6a513b"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/886b76b0c552c22c57062be63cf27261_37722.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/318a8de117683e3a5320c5d7e1b7900b_22638.mp3",
+                        "isLavafox": true,
+                        "en": "Wow. So glad I changed. I almost wore my threadbare robe that can't <em>contain</em> my breasts.",
+                        "zh": "哇，幸好我有换衣服。我差一点就穿上那件连胸部都遮不住的破睡袍。",
+                        "videoNameZh": "《老友记 第九季》",
+                        "videoNameEn": "《Friends Season 9》",
+                        "url": "http://bisentence_movie.sogou.com/9b25f6fc66d6b84b1e13707059d216a3_f58e35f932a872b663d33b6b959f9eb70efcd068"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/dfdc97c7eab31e173bc0bccd4824440f_23407.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/9b2f8401b73e18eb6e31b6cfdc59792d_40701.mp3",
+                        "isLavafox": true,
+                        "en": "You know what they don't sell at The <em>Contain</em>er Store? Something large enough to <em>contain</em> my disappointment.",
+                        "zh": "你知道容器大卖场里没有卖什么吗？大到可以装下我满心失望的东西。",
+                        "videoNameZh": "《生活大爆炸 第九季》",
+                        "videoNameEn": "《The Big Bang Theory Season 9》",
+                        "url": "http://bisentence_movie.sogou.com/0ba5d23c450fae88224e1341c901dc89_91f2e58234ad2fb0413c3184f6a543e4d2a9ccf3"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/8005d54b57fe04f26a670220f9323bc7_59749.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/d51e3a5e8cfec13b20c8b2755b928f6e_22788.mp3",
+                        "isLavafox": true,
+                        "en": "It's a secure and very secret installation whose sole purpose is to <em>contain</em> what we call the un<em>contain</em>ables.",
+                        "zh": "那里很安全也很隐秘，唯一的用处就是关押我们认为无法关押住的人。",
+                        "videoNameZh": "《神探夏洛克 第四季》",
+                        "videoNameEn": "《Sherlock Season 4》",
+                        "url": "http://bisentence_movie.sogou.com/db463bcc70efcf3c47b5da866d0e55c0_65f90ac7925ca975b1e875826bc14fc3ad5ea91e"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/b630caafa2606557856da7a333933a5d_54182.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/1f6a69ca76f84c8c38424816ffd0a63b_38043.mp3",
+                        "isLavafox": true,
+                        "en": "This is Bath and Body Works on Colorado Boulevard. They sell scented soaps and lotions, some of which <em>contain</em> glitter.",
+                        "zh": "而这是科罗拉多大街的Bath and Body Works沐浴乳商店，他们卖香皂和乳液，外加一些小闪饰品。",
+                        "videoNameZh": "《生活大爆炸 第三季》",
+                        "videoNameEn": "《The Big Bang Theory Season 3》",
+                        "url": "http://bisentence_movie.sogou.com/d24b284e48bbdc89d15a733c424867f6_89d55569e61468bde94c0d036e16e59b8f3fc798"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/c3652a60f61ce63a5e9067648ae2439c_44092.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/d5d225ba6f681b5cbcf24f3fdf79dc8d_73278.mp3",
+                        "isLavafox": true,
+                        "en": "Paraffin candles may <em>contain</em> carcinogens. Unless lung cancer is the ambiance you were going for at your dinfast. Dinfast.",
+                        "zh": "石蜡蜡烛可能含有致癌物，当然啦，你要是想吃顿早晚餐还搭上肺癌的话，我也不拦你。早晚餐。",
+                        "videoNameZh": "《生活大爆炸 第五季》",
+                        "videoNameEn": "《The Big Bang Theory Season 5》",
+                        "url": "http://bisentence_movie.sogou.com/1ceb72ff3a10c9c43011b49e420f42bf_d6775151204a288fad718c6d44c0903dcb8fe17b"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/35a31fd01d1fc930cd41c58daa5742c9_47480.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/44c75298f8e13922249be09345520165_68963.mp3",
+                        "isLavafox": true,
+                        "en": "A group of all languages related in this way is called a language family, which can <em>contain</em> many branches and sub-families.",
+                        "zh": "以同一原始母语演化而来的不同语言称为一个语系，它可能包括很多分支和子系。",
+                        "videoNameZh": "《TED教育》",
+                        "videoNameEn": "《TED-Ed》",
+                        "url": "http://bisentence_movie.sogou.com/14a9e0d0c4533de5da94602b287e073a_6cfa17927e23d83b0328994ed584c4bec5b4978b"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/68eeb648a2ff0cbf1b553571b1bde0b8_47107.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/904cdc43552e94ba65aad8a5b9227084_9183.mp3",
+                        "isLavafox": true,
+                        "en": "In the workplace, we women have been told to suppress it, <em>contain</em> it, ignore it. Well, you know what I say? Grab it! Grab it.",
+                        "zh": "在工作场所，我们女性被要求谦让、容忍、无视。你知道我怎么说吗？抓住机会！抓住机会！",
+                        "videoNameZh": "《摩登家庭 第八季》",
+                        "videoNameEn": "《Modern Family Season 8》",
+                        "url": "http://bisentence_movie.sogou.com/2b4e7c4aaaa0ed0a9078220e162cc714_09bb4f1e1a74bd301f0cc8ef2a781dff291f083a"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/e574772298d86ce4760490f82f7d97cd_58042.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/41effd42f4355682c1c001becd73d6d1_3754.mp3",
+                        "isLavafox": true,
+                        "en": "The letters Héctor wrote home for his daughter, Coco <em>contain</em> the lyrics for all of your favorite songs, not just Remember Me.",
+                        "zh": "还有埃克托写给他女儿可可的信，里面有所有人都喜欢的歌曲的歌词，不止是《记住我》。",
+                        "videoNameZh": "《寻梦环游记》",
+                        "videoNameEn": "《Coco》",
+                        "url": "http://bisentence_movie.sogou.com/66fe16b1b8e366a3efd39dbbf893a361_3136c552d466b2eb217426f3d200406c7582ca15"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/658cb5af1f2c25ef894d7429bd1ba9af_103.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/74eac063ff8473ac510d92a63409d5b8_67806.mp3",
+                        "isLavafox": true,
+                        "en": "Those stolen NYPD files <em>contain</em> every member of Elias' organization, his business associates, and the structure of his operation.",
+                        "zh": "那些被偷走的纽约警局文件中有全部以利亚组织的成员名单，生意伙伴以及运作架构。",
+                        "videoNameZh": "《疑犯追踪 第四季》",
+                        "videoNameEn": "《Person of Interest Season 4》",
+                        "url": "http://bisentence_movie.sogou.com/5a693634f58bfc51467497e7f12230e8_d56c9b0ed5cefedac34d0e40638815bf67d11db4"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/583ff1c0d1a2d3090f47f8d0bd821282_35584.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/8b2a00302dadb089bc8fc8fd6b208d6e_22303.mp3",
+                        "isLavafox": true,
+                        "en": "Lane had a ledger. It <em>contain</em> the identities of his operatives, his terrorist associates, the entire inner workings of the Syndicate.",
+                        "zh": "莱恩有一份账册，详细记录了执行人员和恐怖分子合伙人的身份，以及辛迪加内部运作情况。",
+                        "videoNameZh": "《碟中谍5：神秘国度》",
+                        "videoNameEn": "《Mission Impossible: Rogue Nation》",
+                        "url": "http://bisentence_movie.sogou.com/6094e615e67842c77e19fa205d562cdc_9d9fd5695c2c5d5761defa52f16e3710b49a4fed"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/cf2616af116b548887696dabfcc2fd97_68323.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/7c0f4e6fa30b889a5f27f0890b7fb4a2_41869.mp3",
+                        "isLavafox": true,
+                        "en": "Whether it's to degrade and ultimately destroy a group of terrorists or to <em>contain</em> and combat a threat like the Ebola epidemic in Africa, we ask a lot of our troops.",
+                        "zh": "无论是打击和消灭恐怖组织，还是抗击非洲的埃博拉病毒，我们都动用了大量的军队。",
+                        "videoNameZh": "《奥巴马每周电视讲话》",
+                        "videoNameEn": "《Your Weekly Address》",
+                        "url": "http://bisentence_movie.sogou.com/533be99b01e79cbcc6a5f84c6d42ba5c_c7dd5524656ef13fc5116cb04dbf795df3174b7c"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/cf2616af116b548887696dabfcc2fd97_68323.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/1eb11d6c6a3feed4881848bf03ff9527_45076.mp3",
+                        "isLavafox": true,
+                        "en": "Our medical experts tell us that the best way to stop this disease is to stop it at its source before it spreads even wider and becomes even more difficult to <em>contain</em>.",
+                        "zh": "我们的医疗专家告诉我们，控制这一疾病的最好的方式是在源头上控制它，在它蔓延更广和变得更难控制之前。",
+                        "videoNameZh": "《奥巴马每周电视讲话》",
+                        "videoNameEn": "《Your Weekly Address》",
+                        "url": "http://bisentence_movie.sogou.com/a26b0e9fbe1b72d339c50c9daccd05f2_8c531d80dee12eb4ffd964df589f0157dc660657"
+                    }
+                ]
+            },
+            "pic": "",
+            "voice": {
+                "phonetic": [
+                    {
+                        "text": "kənˈteɪn",
+                        "type": "uk",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/2030_contain_uk.mp3"
+                    },
+                    {
+                        "text": "kənˈteɪn",
+                        "type": "usa",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/2030_contain_usa.mp3"
+                    }
+                ]
+            },
+            "dictType": "oxford_buchong",
+            "kaoyan": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 7,
+                        "pos": "v",
+                        "chinese": "包含; 容纳",
+                        "sense_tier_ratio": 100
+                    },
+                    {
+                        "sense_tier": 0,
+                        "pos": "v",
+                        "chinese": "控制; 抑制; 遏制",
+                        "sense_tier_ratio": 0
+                    }
+                ],
+                "word": "contain",
+                "direction_info": {
+                    "ranges": 12,
+                    "description": "数据源自2012-2023年12年间全国考研试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2012-2023年全国考研英语一和考研英语二共24套考研试卷，包括阅读、完型填空、翻译、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选全国考研考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2012-2023年12年间全国考研英语一和考研英语二试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 2,
+                "word_family": {
+                    "derivative_info_list": [
+                        {
+                            "derivative_info_list": [],
+                            "word": "container",
+                            "mean": "n. 容器；集装箱"
+                        }
+                    ],
+                    "word": "contain",
+                    "mean": "v. 包含；包括；含有；容纳；控制；抑制；克制；阻止；由…组成；可被除尽"
+                },
+                "total_exam_freq": 7,
+                "sense": {
+                    "sense_num": 2,
+                    "sense_info_list": [
+                        {
+                            "en": "have or hold someone or something within",
+                            "zh": "包含; 容纳",
+                            "pos": "v",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "And supermarkets <highlight>contain</highlight> a lot of stuff.",
+                                    "month": -1,
+                                    "source": "英语二",
+                                    "coll": "",
+                                    "sentence_trans": "超市里有很多东西。",
+                                    "year": 2016,
+                                    "type": "翻译",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "A smartphone may <highlight>contain</highlight> an arrestee's reading history, financial history, medical history and comprehensive records of recent correspondence.",
+                                    "month": -1,
+                                    "source": "英语一",
+                                    "coll": "",
+                                    "sentence_trans": "一部智能手机可能包含被捕者的阅读历史、财务历史、医疗历史和最近通信的全面记录。",
+                                    "year": 2015,
+                                    "type": "阅读理解A",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Surveys and test samples have also become important for understanding the larger landscapes that <highlight>contain</highlight> archaeological sites.",
+                                    "month": -1,
+                                    "source": "英语一",
+                                    "coll": "",
+                                    "sentence_trans": "勘测和抽样分析对了解包含考古遗址的更大面积区域的地形特征都有重要作用。",
+                                    "year": 2014,
+                                    "type": "阅读理解B",
+                                    "day": -1
+                                }
+                            ]
+                        },
+                        {
+                            "synonyms": "",
+                            "en": "control or restrain oneself or a feeling",
+                            "zh": "控制; 抑制; 遏制",
+                            "pos": "v",
+                            "antonyms": ""
+                        }
+                    ]
+                },
+                "word_affix": {
+                    "word": "contain",
+                    "sub_affix_info_list": [
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "concede",
+                                            "mean": "v. 承认…为事实；放弃；让与；拱手让出；认；承认；承认（比赛；竞赛）失败；给予；赋予"
+                                        },
+                                        {
+                                            "word": "conceive",
+                                            "mean": "v. 使受孕；想出；构思；设想；想象；认为；怀孕；形成；怀有；体验到"
+                                        },
+                                        {
+                                            "word": "concentrate",
+                                            "mean": "v. 全神贯注；全力以赴；聚精会神；集中；聚集；浓缩；注重；集合"
+                                        },
+                                        {
+                                            "word": "concentric",
+                                            "mean": "adj. 同中心的；同轴的"
+                                        },
+                                        {
+                                            "word": "conception",
+                                            "mean": "n. 怀孕；怀胎；受精；观点；想法；看法；认识；观念；构想；理解"
+                                        },
+                                        {
+                                            "word": "conceptual",
+                                            "mean": "adj. 概念的；概念上的"
+                                        },
+                                        {
+                                            "word": "concern",
+                                            "mean": "v. 涉及；关于；使担忧；使烦恼；使不安；关心；影响；关系到；从事；喜爱"
+                                        },
+                                        {
+                                            "word": "concession",
+                                            "mean": "n. 让步；让予物；给予物；优惠折扣；特许权；给予；认可；让出；准予；认可的表示"
+                                        },
+                                        {
+                                            "word": "concise",
+                                            "mean": "adj. 简洁的；简明的；简练的"
+                                        },
+                                        {
+                                            "word": "conclude",
+                                            "mean": "v. 使结束；作出结论；推断；断定；总结；结束；下结论；订立；缔结；决定"
+                                        },
+                                        {
+                                            "word": "concord",
+                                            "mean": "n. 一致；协调；和睦；和谐；协和音；（Concord）康科德；各种葡萄甜点"
+                                        },
+                                        {
+                                            "word": "concrete",
+                                            "mean": "adj. 具体存在的；实在的；有形的；具体的；明确的；确定的；确实的；物质的"
+                                        },
+                                        {
+                                            "word": "concur",
+                                            "mean": "v. 持相同见解；同意；同时发生；赞同；赞成"
+                                        },
+                                        {
+                                            "word": "condescend",
+                                            "mean": "v. 显示优越感；以恩赐的态度相待；屈尊；俯就"
+                                        },
+                                        {
+                                            "word": "condition",
+                                            "mean": "n. 情况；状态；状况；环境；条件；前提；病；疾病；身份"
+                                        },
+                                        {
+                                            "word": "condole",
+                                            "mean": "v. 表示同情；慰问；吊唁"
+                                        },
+                                        {
+                                            "word": "condone",
+                                            "mean": "v. 宽容；容忍；宽恕；批准；同意"
+                                        },
+                                        {
+                                            "word": "conduct",
+                                            "mean": "n. 行为方式；举止；品行；管理；处理；引导"
+                                        },
+                                        {
+                                            "word": "confederate",
+                                            "mean": "adj. 联合的；联盟的；南部邦联的"
+                                        },
+                                        {
+                                            "word": "confer",
+                                            "mean": "v. 授予；商议；协商；讨论；交流意见"
+                                        },
+                                        {
+                                            "word": "confide",
+                                            "mean": "v. 吐露（秘密；私事）；倾诉；因信任（某人）而向其吐露（秘密；把…托付给"
+                                        },
+                                        {
+                                            "word": "configuration",
+                                            "mean": "n. 构造；结构；配置；布局；构型"
+                                        },
+                                        {
+                                            "word": "confine",
+                                            "mean": "v. 限制；使局限；禁闭；监禁；关押；禁止离开；无法离开；卧床分娩"
+                                        },
+                                        {
+                                            "word": "confirm",
+                                            "mean": "v. 证实；确定；施坚信礼；施坚振礼；批准；认可；加强；巩固；确认"
+                                        },
+                                        {
+                                            "word": "conflate",
+                                            "mean": "v. 合而为一"
+                                        },
+                                        {
+                                            "word": "conflict",
+                                            "mean": "n. 意见不一；争论；武装冲突；抵触；武装斗争；战争；冲突；矛盾"
+                                        },
+                                        {
+                                            "word": "conform",
+                                            "mean": "v. 遵守；顺从；符合；相似；成一致；遵守社会接受的习俗"
+                                        },
+                                        {
+                                            "word": "confound",
+                                            "mean": "v. 使惊讶；使困惑；使糊涂；使不知所措；混淆；证明（理论；期望；预言）错误；驳倒；击败；挫败；推翻"
+                                        },
+                                        {
+                                            "word": "confront",
+                                            "mean": "v. 面对；面临；对抗；正视；使面对；临到…头上；使面临；使遭遇；处理"
+                                        },
+                                        {
+                                            "word": "confuse",
+                                            "mean": "v. 使迷惑；使困惑；混淆；误认；使更复杂；使难懂"
+                                        },
+                                        {
+                                            "word": "congenial",
+                                            "mean": "adj. 志趣相投的；情投意合的；适意的；合意的；相宜的"
+                                        },
+                                        {
+                                            "word": "congest",
+                                            "mean": "vt. 使充血"
+                                        },
+                                        {
+                                            "word": "congratulate",
+                                            "mean": "v. 向…道贺；祝贺；恭喜；自豪；感到满足；称赞；赞美；自我庆幸"
+                                        },
+                                        {
+                                            "word": "congratulation",
+                                            "mean": "n. 祝词；贺词；祝贺；恭喜"
+                                        },
+                                        {
+                                            "word": "congregate",
+                                            "mean": "v. 集合；聚集"
+                                        },
+                                        {
+                                            "word": "congress",
+                                            "mean": "n. 代表会议；国家立法机关；国会；议会；协会；组织；团体；聚集；聚会"
+                                        },
+                                        {
+                                            "word": "conjunction",
+                                            "mean": "n. 【语法】 连（接）词（如and；同时发生；【天文；占星】 合"
+                                        },
+                                        {
+                                            "word": "connect",
+                                            "mean": "v. 连接；联结；联系；结合；通电；联运；联姻；通水；使联系；连接以供通行"
+                                        },
+                                        {
+                                            "word": "connote",
+                                            "mean": "v. 意味着；有…的含意；暗示；意味着…的结果"
+                                        },
+                                        {
+                                            "word": "conquer",
+                                            "mean": "v. 击败；征服；攻占；战胜；破除；克服；成功地攀登；博得（一个人或一群人）的喜爱"
+                                        },
+                                        {
+                                            "word": "conquest",
+                                            "mean": "n. 征服；攻占；战胜；克服；被征服的领土；掠取地；征服英国；破除；成功攀登"
+                                        },
+                                        {
+                                            "word": "conscience",
+                                            "mean": "n. 良心；良知；道德心"
+                                        },
+                                        {
+                                            "word": "conscientious",
+                                            "mean": "adj. 凭良心办事的；认真的；勤勤恳恳的；负责的；尽责的；认真负责的；凭良心的；与良心有关的"
+                                        },
+                                        {
+                                            "word": "conscious",
+                                            "mean": "adj. 清醒的；感到的；意识到的；敏感的；知道的；察觉的；了解的；不自然的；关心…的；对… 感兴趣的"
+                                        },
+                                        {
+                                            "word": "consecrate",
+                                            "mean": "v. 奉（某事物；尤指教堂）为神圣；供奉；奉献；使（面包；酒）圣化；使变体；任命…就圣职；仅将某物用作…"
+                                        },
+                                        {
+                                            "word": "consecutive",
+                                            "mean": "adj. 连续的；不断的；接连而来的；连贯的；按逻辑顺序的；结果的"
+                                        },
+                                        {
+                                            "word": "consensus",
+                                            "mean": "n. 一致"
+                                        },
+                                        {
+                                            "word": "consent",
+                                            "mean": "n. 同意；赞成；准许"
+                                        },
+                                        {
+                                            "word": "consequence",
+                                            "mean": "n. 结果；后果；影响；重要性；重大；意义；连环问答式叙事游戏；显要；显赫"
+                                        },
+                                        {
+                                            "word": "consequent",
+                                            "mean": "adj. 作为结果的；由…而起的；随之发生的；顺向的；逻辑上一致的；合乎逻辑的"
+                                        },
+                                        {
+                                            "word": "conserve",
+                                            "mean": "v. 保护；保存；节约；防止浪费；使（量；如能量、质量）守恒；保持（某氨基酸、核苷或其序列）不变；保藏；用糖保存；将…制成蜜饯"
+                                        },
+                                        {
+                                            "word": "consign",
+                                            "mean": "v. 把…委托给；交付；托管；寄售；托售；托运；运送；打发；放逐"
+                                        },
+                                        {
+                                            "word": "consist",
+                                            "mean": "v. 由…组成；由…构成；一致；符合；以…为基本特色"
+                                        },
+                                        {
+                                            "word": "consolidate",
+                                            "mean": "v. 巩固；强化；使坚强；使结实；整合；加强；合并"
+                                        },
+                                        {
+                                            "word": "consonant",
+                                            "mean": "n. 辅音；辅音字母"
+                                        },
+                                        {
+                                            "word": "consortium",
+                                            "mean": "n. 协会；联合；联盟；配偶的相互权利"
+                                        },
+                                        {
+                                            "word": "conspicuous",
+                                            "mean": "adj. 显而易见的；明显的；显著的；引人注目的；出众的；值得注意的"
+                                        },
+                                        {
+                                            "word": "conspire",
+                                            "mean": "v. 阴谋；密谋；共谋；合作；协同；凑合起来；共同促成"
+                                        },
+                                        {
+                                            "word": "constancy",
+                                            "mean": "n. 忠诚；忠实；可靠；坚定不移；恒久不变；始终如一；不屈不挠"
+                                        },
+                                        {
+                                            "word": "constant",
+                                            "mean": "adj. 不断的；连续的；不变的；始终如一的；忠诚的；忠实的；忠贞的"
+                                        },
+                                        {
+                                            "word": "constrict",
+                                            "mean": "v. 使缩窄；使收缩；压缩；收紧；收缩；限制；约束；缩窄；变紧；盘绕以使窒息"
+                                        },
+                                        {
+                                            "word": "construct",
+                                            "mean": "v. 建筑；建造；建立；构筑；构成；组成；形成；造；作"
+                                        },
+                                        {
+                                            "word": "construe",
+                                            "mean": "v. 解释；说明；诠释；分析（文章、句子或词的）语法；逐字翻译；直译；口译"
+                                        },
+                                        {
+                                            "word": "consume",
+                                            "mean": "v. 吃；喝；摄取；吸引；购买；消费；用完；耗尽；消耗；毁灭"
+                                        },
+                                        {
+                                            "word": "consummate",
+                                            "mean": "v. 使完；完成"
+                                        },
+                                        {
+                                            "word": "consumption",
+                                            "mean": "n. 耗尽；消耗；销蚀性疾病；身体耗损；痨病；消费；消费量；消耗量；吃；喝"
+                                        },
+                                        {
+                                            "word": "contact",
+                                            "mean": "n. 接触；见面；联系；交往；关系；触点；隐形眼镜；接头；接触器；传达"
+                                        },
+                                        {
+                                            "word": "contagious",
+                                            "mean": "adj. 接触传染（性）的；触染（性）的；可能带有人际传染疾病的；可能带触染原的；有感染力的；可能蔓延开的"
+                                        },
+                                        {
+                                            "word": "contemporary",
+                                            "mean": "adj. 生活在同时代的；同时代发生的；当代的；源自同时代的；属于同时期的；现代（派）的"
+                                        },
+                                        {
+                                            "word": "contend",
+                                            "mean": "v. 奋斗；斗争；搏斗；声称；主张；辩论；竞争；争夺；争取"
+                                        },
+                                        {
+                                            "word": "contention",
+                                            "mean": "n. 争论；争辩；争执；论点"
+                                        },
+                                        {
+                                            "word": "context",
+                                            "mean": "n. 环境；背景；来龙去脉；上下文；语境"
+                                        },
+                                        {
+                                            "word": "continent",
+                                            "mean": "n. 洲；大陆；欧洲大陆"
+                                        },
+                                        {
+                                            "word": "contingency",
+                                            "mean": "n. 可能发生的事件；不确定的事件；偶然性；意外；应急储备；可能性；不测；应急措施；应急开支"
+                                        },
+                                        {
+                                            "word": "continue",
+                                            "mean": "v. 继续；坚持下去；恢复；重新开始；持续；延续；坚持；留任；使继续；维持原状"
+                                        },
+                                        {
+                                            "word": "contour",
+                                            "mean": "n. 轮廓；外形；周线；围线；等高线；恒值线；升降曲线；变化方式"
+                                        },
+                                        {
+                                            "word": "contract",
+                                            "mean": "n. 合同；契约；合同法；契约法；暗杀协议；定约；定约墩数；婚约"
+                                        },
+                                        {
+                                            "word": "contribute",
+                                            "mean": "v. 捐；捐助；捐献；贡献；有助于；促成；促使；提议；发表意见；投"
+                                        },
+                                        {
+                                            "word": "convene",
+                                            "mean": "v. 召集；集合；集会"
+                                        },
+                                        {
+                                            "word": "convenience",
+                                            "mean": "n. 方便；便利；公共厕所；便利性；方便性；便利设施；使生活方便舒适的设备"
+                                        },
+                                        {
+                                            "word": "convenient",
+                                            "mean": "adj. 方便的；合适的；省事的；近便的；合宜的；易于到达的；适时的"
+                                        },
+                                        {
+                                            "word": "convention",
+                                            "mean": "n. 准则；惯例；国际协议；公约；大会；会议；社会习俗；得体行为；约定；政党代表大会"
+                                        },
+                                        {
+                                            "word": "converse",
+                                            "mean": "v. 谈话；交谈"
+                                        },
+                                        {
+                                            "word": "conversion",
+                                            "mean": "n. 转变；转换；转化；带球触地得分后再踢定位球得分；侵权行为；非法挪用；皈依；改变宗教；悔改后皈依；房屋的改建"
+                                        },
+                                        {
+                                            "word": "convert",
+                                            "mean": "v. 使…转变；改变；以…得分；转换；改变宗教信仰；说服…改变信仰；使皈依；兑换；对…作换算"
+                                        },
+                                        {
+                                            "word": "convict",
+                                            "mean": "v. 宣判…有罪"
+                                        },
+                                        {
+                                            "word": "convince",
+                                            "mean": "v. 使确信；使信服；说服"
+                                        }
+                                    ],
+                                    "derivatives": "co-",
+                                    "affix_sense_chinese": "指在程度/尺寸方面\"共同\";  与...一起",
+                                    "affix_type": "prefix"
+                                },
+                                {
+                                    "sample": [],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "表强调",
+                                    "affix_type": "prefix"
+                                }
+                            ],
+                            "affix": "con-",
+                            "affix_mean": "共同, 一起"
+                        },
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "abstain",
+                                            "mean": "v. 克制；有意回避；弃权；戒酒"
+                                        },
+                                        {
+                                            "word": "detain",
+                                            "mean": "v. 拘留；扣押；吸引…注意力以羁绊；使（病人；伤员）留院治疗"
+                                        },
+                                        {
+                                            "word": "maintain",
+                                            "mean": "v. 维持；保持；扶养；负担；坚持；断言；主张；维护；将… 维持；养护"
+                                        },
+                                        {
+                                            "word": "obtain",
+                                            "mean": "v. 得到；获得；通用；流行；合乎习俗；得到公认"
+                                        },
+                                        {
+                                            "word": "retain",
+                                            "mean": "v. 保持；保留；记住；保持不变；挡住；继续雇用；吸收并保留；拦住；付定金聘定"
+                                        },
+                                        {
+                                            "word": "sustain",
+                                            "mean": "v. 支持；支撑；忍受；经受（不愉快的事情；尤指伤痛）；认可；赞成；确认；保持；使持续不断；（演员）充分表演（角色"
+                                        }
+                                    ],
+                                    "derivatives": "ten, tin",
+                                    "affix_sense_chinese": "拿住, 保持, 维持",
+                                    "affix_type": "stem"
+                                }
+                            ],
+                            "affix": "tain",
+                            "affix_mean": "拿住"
+                        }
+                    ],
+                    "word_mean": "v. 包含"
+                },
+                "word_usage": [
+                    {
+                        "usage": "contain作动词指“某物包含、含有或容纳……”时，不用于进行时。"
+                    }
+                ]
+            },
+            "CET6": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 18,
+                        "pos": "v",
+                        "chinese": "包含; 容纳",
+                        "sense_tier_ratio": 94.74
+                    },
+                    {
+                        "sense_tier": 1,
+                        "pos": "v",
+                        "chinese": "阻止",
+                        "sense_tier_ratio": 5.26
+                    }
+                ],
+                "word": "contain",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2016.6-2023.6年8年间全六级试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight>考纲释义</highlight>\n精选实考、考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2016-2023年51套试卷，包括阅读、听力、翻译等所有题型。\n\n<highlight>真题例句</highlight>\n精选2016-2023年8年间全六级试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 4,
+                "word_family": {
+                    "derivative_info_list": [
+                        {
+                            "derivative_info_list": [],
+                            "word": "container",
+                            "mean": "n. 容器；集装箱"
+                        }
+                    ],
+                    "word": "contain",
+                    "mean": "v. 包含；包括；含有；容纳；控制；抑制；克制；阻止；由…组成；可被除尽"
+                },
+                "total_exam_freq": 19,
+                "sense": {
+                    "sense_num": 2,
+                    "sense_info_list": [
+                        {
+                            "en": "have or hold someone or something within",
+                            "zh": "包含; 容纳",
+                            "pos": "v",
+                            "synonyms": "include,involve,carry",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "In another study, researchers found that reading scientific articles <highlight>containing</highlight> jargon led people to doubt the actual science.",
+                                    "month": 6,
+                                    "source": "CET6",
+                                    "coll": "",
+                                    "sentence_trans": "在另一项研究中，研究人员发现，阅读包含行话的科学文章会导致人们怀疑真正的科学。",
+                                    "year": 2021,
+                                    "type": "听力",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "What do researchers find about people reading scientific articles <highlight>containing</highlight> jargon terms?",
+                                    "month": 6,
+                                    "source": "CET6",
+                                    "coll": "",
+                                    "sentence_trans": "当人们阅读含有术语的科学文章时，研究人员发现了什么？",
+                                    "year": 2021,
+                                    "type": "听力",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Just 18 percent of 2,413 books in the total collection <highlight>contained</highlight> any representation of non-white people.",
+                                    "month": 6,
+                                    "source": "CET6",
+                                    "coll": "",
+                                    "sentence_trans": "在2413本书中，只有18%的书包含了非白人的代表。",
+                                    "year": 2021,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "A country <highlight>contains</highlight> the noblest productions of sculpture and architecture.",
+                                    "month": 6,
+                                    "source": "CET6",
+                                    "coll": "",
+                                    "sentence_trans": "这个国家拥有最高贵的雕塑和建筑作品。",
+                                    "year": 2017,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                }
+                            ]
+                        },
+                        {
+                            "synonyms": "prevent",
+                            "en": "prevent a severe problem from increasing in extent or intensity",
+                            "zh": "阻止",
+                            "pos": "v",
+                            "antonyms": ""
+                        }
+                    ]
+                },
+                "word_affix": {
+                    "word": "contain",
+                    "sub_affix_info_list": [
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "concede",
+                                            "mean": "v. 承认…为事实；放弃；让与；拱手让出；认；承认；承认（比赛；竞赛）失败；给予；赋予"
+                                        },
+                                        {
+                                            "word": "conceive",
+                                            "mean": "v. 使受孕；想出；构思；设想；想象；认为；怀孕；形成；怀有；体验到"
+                                        },
+                                        {
+                                            "word": "concentrate",
+                                            "mean": "v. 全神贯注；全力以赴；聚精会神；集中；聚集；浓缩；注重；集合"
+                                        },
+                                        {
+                                            "word": "concentric",
+                                            "mean": "adj. 同中心的；同轴的"
+                                        },
+                                        {
+                                            "word": "conception",
+                                            "mean": "n. 怀孕；怀胎；受精；观点；想法；看法；认识；观念；构想；理解"
+                                        },
+                                        {
+                                            "word": "conceptual",
+                                            "mean": "adj. 概念的；概念上的"
+                                        },
+                                        {
+                                            "word": "concern",
+                                            "mean": "v. 涉及；关于；使担忧；使烦恼；使不安；关心；影响；关系到；从事；喜爱"
+                                        },
+                                        {
+                                            "word": "concession",
+                                            "mean": "n. 让步；让予物；给予物；优惠折扣；特许权；给予；认可；让出；准予；认可的表示"
+                                        },
+                                        {
+                                            "word": "concise",
+                                            "mean": "adj. 简洁的；简明的；简练的"
+                                        },
+                                        {
+                                            "word": "conclude",
+                                            "mean": "v. 使结束；作出结论；推断；断定；总结；结束；下结论；订立；缔结；决定"
+                                        },
+                                        {
+                                            "word": "concord",
+                                            "mean": "n. 一致；协调；和睦；和谐；协和音；（Concord）康科德；各种葡萄甜点"
+                                        },
+                                        {
+                                            "word": "concrete",
+                                            "mean": "adj. 具体存在的；实在的；有形的；具体的；明确的；确定的；确实的；物质的"
+                                        },
+                                        {
+                                            "word": "concur",
+                                            "mean": "v. 持相同见解；同意；同时发生；赞同；赞成"
+                                        },
+                                        {
+                                            "word": "condescend",
+                                            "mean": "v. 显示优越感；以恩赐的态度相待；屈尊；俯就"
+                                        },
+                                        {
+                                            "word": "condition",
+                                            "mean": "n. 情况；状态；状况；环境；条件；前提；病；疾病；身份"
+                                        },
+                                        {
+                                            "word": "condole",
+                                            "mean": "v. 表示同情；慰问；吊唁"
+                                        },
+                                        {
+                                            "word": "condone",
+                                            "mean": "v. 宽容；容忍；宽恕；批准；同意"
+                                        },
+                                        {
+                                            "word": "conduct",
+                                            "mean": "n. 行为方式；举止；品行；管理；处理；引导"
+                                        },
+                                        {
+                                            "word": "confederate",
+                                            "mean": "adj. 联合的；联盟的；南部邦联的"
+                                        },
+                                        {
+                                            "word": "confer",
+                                            "mean": "v. 授予；商议；协商；讨论；交流意见"
+                                        },
+                                        {
+                                            "word": "confide",
+                                            "mean": "v. 吐露（秘密；私事）；倾诉；因信任（某人）而向其吐露（秘密；把…托付给"
+                                        },
+                                        {
+                                            "word": "configuration",
+                                            "mean": "n. 构造；结构；配置；布局；构型"
+                                        },
+                                        {
+                                            "word": "confine",
+                                            "mean": "v. 限制；使局限；禁闭；监禁；关押；禁止离开；无法离开；卧床分娩"
+                                        },
+                                        {
+                                            "word": "confirm",
+                                            "mean": "v. 证实；确定；施坚信礼；施坚振礼；批准；认可；加强；巩固；确认"
+                                        },
+                                        {
+                                            "word": "conflate",
+                                            "mean": "v. 合而为一"
+                                        },
+                                        {
+                                            "word": "conflict",
+                                            "mean": "n. 意见不一；争论；武装冲突；抵触；武装斗争；战争；冲突；矛盾"
+                                        },
+                                        {
+                                            "word": "conform",
+                                            "mean": "v. 遵守；顺从；符合；相似；成一致；遵守社会接受的习俗"
+                                        },
+                                        {
+                                            "word": "confound",
+                                            "mean": "v. 使惊讶；使困惑；使糊涂；使不知所措；混淆；证明（理论；期望；预言）错误；驳倒；击败；挫败；推翻"
+                                        },
+                                        {
+                                            "word": "confront",
+                                            "mean": "v. 面对；面临；对抗；正视；使面对；临到…头上；使面临；使遭遇；处理"
+                                        },
+                                        {
+                                            "word": "confuse",
+                                            "mean": "v. 使迷惑；使困惑；混淆；误认；使更复杂；使难懂"
+                                        },
+                                        {
+                                            "word": "congenial",
+                                            "mean": "adj. 志趣相投的；情投意合的；适意的；合意的；相宜的"
+                                        },
+                                        {
+                                            "word": "congest",
+                                            "mean": "vt. 使充血"
+                                        },
+                                        {
+                                            "word": "congratulate",
+                                            "mean": "v. 向…道贺；祝贺；恭喜；自豪；感到满足；称赞；赞美；自我庆幸"
+                                        },
+                                        {
+                                            "word": "congratulation",
+                                            "mean": "n. 祝词；贺词；祝贺；恭喜"
+                                        },
+                                        {
+                                            "word": "congregate",
+                                            "mean": "v. 集合；聚集"
+                                        },
+                                        {
+                                            "word": "congress",
+                                            "mean": "n. 代表会议；国家立法机关；国会；议会；协会；组织；团体；聚集；聚会"
+                                        },
+                                        {
+                                            "word": "conjunction",
+                                            "mean": "n. 【语法】 连（接）词（如and；同时发生；【天文；占星】 合"
+                                        },
+                                        {
+                                            "word": "connect",
+                                            "mean": "v. 连接；联结；联系；结合；通电；联运；联姻；通水；使联系；连接以供通行"
+                                        },
+                                        {
+                                            "word": "connote",
+                                            "mean": "v. 意味着；有…的含意；暗示；意味着…的结果"
+                                        },
+                                        {
+                                            "word": "conquer",
+                                            "mean": "v. 击败；征服；攻占；战胜；破除；克服；成功地攀登；博得（一个人或一群人）的喜爱"
+                                        },
+                                        {
+                                            "word": "conquest",
+                                            "mean": "n. 征服；攻占；战胜；克服；被征服的领土；掠取地；征服英国；破除；成功攀登"
+                                        },
+                                        {
+                                            "word": "conscience",
+                                            "mean": "n. 良心；良知；道德心"
+                                        },
+                                        {
+                                            "word": "conscientious",
+                                            "mean": "adj. 凭良心办事的；认真的；勤勤恳恳的；负责的；尽责的；认真负责的；凭良心的；与良心有关的"
+                                        },
+                                        {
+                                            "word": "conscious",
+                                            "mean": "adj. 清醒的；感到的；意识到的；敏感的；知道的；察觉的；了解的；不自然的；关心…的；对… 感兴趣的"
+                                        },
+                                        {
+                                            "word": "consecrate",
+                                            "mean": "v. 奉（某事物；尤指教堂）为神圣；供奉；奉献；使（面包；酒）圣化；使变体；任命…就圣职；仅将某物用作…"
+                                        },
+                                        {
+                                            "word": "consecutive",
+                                            "mean": "adj. 连续的；不断的；接连而来的；连贯的；按逻辑顺序的；结果的"
+                                        },
+                                        {
+                                            "word": "consensus",
+                                            "mean": "n. 一致"
+                                        },
+                                        {
+                                            "word": "consent",
+                                            "mean": "n. 同意；赞成；准许"
+                                        },
+                                        {
+                                            "word": "consequence",
+                                            "mean": "n. 结果；后果；影响；重要性；重大；意义；连环问答式叙事游戏；显要；显赫"
+                                        },
+                                        {
+                                            "word": "consequent",
+                                            "mean": "adj. 作为结果的；由…而起的；随之发生的；顺向的；逻辑上一致的；合乎逻辑的"
+                                        },
+                                        {
+                                            "word": "conserve",
+                                            "mean": "v. 保护；保存；节约；防止浪费；使（量；如能量、质量）守恒；保持（某氨基酸、核苷或其序列）不变；保藏；用糖保存；将…制成蜜饯"
+                                        },
+                                        {
+                                            "word": "consign",
+                                            "mean": "v. 把…委托给；交付；托管；寄售；托售；托运；运送；打发；放逐"
+                                        },
+                                        {
+                                            "word": "consist",
+                                            "mean": "v. 由…组成；由…构成；一致；符合；以…为基本特色"
+                                        },
+                                        {
+                                            "word": "consolidate",
+                                            "mean": "v. 巩固；强化；使坚强；使结实；整合；加强；合并"
+                                        },
+                                        {
+                                            "word": "consonant",
+                                            "mean": "n. 辅音；辅音字母"
+                                        },
+                                        {
+                                            "word": "consortium",
+                                            "mean": "n. 协会；联合；联盟；配偶的相互权利"
+                                        },
+                                        {
+                                            "word": "conspicuous",
+                                            "mean": "adj. 显而易见的；明显的；显著的；引人注目的；出众的；值得注意的"
+                                        },
+                                        {
+                                            "word": "conspire",
+                                            "mean": "v. 阴谋；密谋；共谋；合作；协同；凑合起来；共同促成"
+                                        },
+                                        {
+                                            "word": "constancy",
+                                            "mean": "n. 忠诚；忠实；可靠；坚定不移；恒久不变；始终如一；不屈不挠"
+                                        },
+                                        {
+                                            "word": "constant",
+                                            "mean": "adj. 不断的；连续的；不变的；始终如一的；忠诚的；忠实的；忠贞的"
+                                        },
+                                        {
+                                            "word": "constrict",
+                                            "mean": "v. 使缩窄；使收缩；压缩；收紧；收缩；限制；约束；缩窄；变紧；盘绕以使窒息"
+                                        },
+                                        {
+                                            "word": "construct",
+                                            "mean": "v. 建筑；建造；建立；构筑；构成；组成；形成；造；作"
+                                        },
+                                        {
+                                            "word": "construe",
+                                            "mean": "v. 解释；说明；诠释；分析（文章、句子或词的）语法；逐字翻译；直译；口译"
+                                        },
+                                        {
+                                            "word": "consume",
+                                            "mean": "v. 吃；喝；摄取；吸引；购买；消费；用完；耗尽；消耗；毁灭"
+                                        },
+                                        {
+                                            "word": "consummate",
+                                            "mean": "v. 使完；完成"
+                                        },
+                                        {
+                                            "word": "consumption",
+                                            "mean": "n. 耗尽；消耗；销蚀性疾病；身体耗损；痨病；消费；消费量；消耗量；吃；喝"
+                                        },
+                                        {
+                                            "word": "contact",
+                                            "mean": "n. 接触；见面；联系；交往；关系；触点；隐形眼镜；接头；接触器；传达"
+                                        },
+                                        {
+                                            "word": "contagious",
+                                            "mean": "adj. 接触传染（性）的；触染（性）的；可能带有人际传染疾病的；可能带触染原的；有感染力的；可能蔓延开的"
+                                        },
+                                        {
+                                            "word": "contemporary",
+                                            "mean": "adj. 生活在同时代的；同时代发生的；当代的；源自同时代的；属于同时期的；现代（派）的"
+                                        },
+                                        {
+                                            "word": "contend",
+                                            "mean": "v. 奋斗；斗争；搏斗；声称；主张；辩论；竞争；争夺；争取"
+                                        },
+                                        {
+                                            "word": "contention",
+                                            "mean": "n. 争论；争辩；争执；论点"
+                                        },
+                                        {
+                                            "word": "context",
+                                            "mean": "n. 环境；背景；来龙去脉；上下文；语境"
+                                        },
+                                        {
+                                            "word": "continent",
+                                            "mean": "n. 洲；大陆；欧洲大陆"
+                                        },
+                                        {
+                                            "word": "contingency",
+                                            "mean": "n. 可能发生的事件；不确定的事件；偶然性；意外；应急储备；可能性；不测；应急措施；应急开支"
+                                        },
+                                        {
+                                            "word": "continue",
+                                            "mean": "v. 继续；坚持下去；恢复；重新开始；持续；延续；坚持；留任；使继续；维持原状"
+                                        },
+                                        {
+                                            "word": "contour",
+                                            "mean": "n. 轮廓；外形；周线；围线；等高线；恒值线；升降曲线；变化方式"
+                                        },
+                                        {
+                                            "word": "contract",
+                                            "mean": "n. 合同；契约；合同法；契约法；暗杀协议；定约；定约墩数；婚约"
+                                        },
+                                        {
+                                            "word": "contribute",
+                                            "mean": "v. 捐；捐助；捐献；贡献；有助于；促成；促使；提议；发表意见；投"
+                                        },
+                                        {
+                                            "word": "convene",
+                                            "mean": "v. 召集；集合；集会"
+                                        },
+                                        {
+                                            "word": "convenience",
+                                            "mean": "n. 方便；便利；公共厕所；便利性；方便性；便利设施；使生活方便舒适的设备"
+                                        },
+                                        {
+                                            "word": "convenient",
+                                            "mean": "adj. 方便的；合适的；省事的；近便的；合宜的；易于到达的；适时的"
+                                        },
+                                        {
+                                            "word": "convention",
+                                            "mean": "n. 准则；惯例；国际协议；公约；大会；会议；社会习俗；得体行为；约定；政党代表大会"
+                                        },
+                                        {
+                                            "word": "converse",
+                                            "mean": "v. 谈话；交谈"
+                                        },
+                                        {
+                                            "word": "conversion",
+                                            "mean": "n. 转变；转换；转化；带球触地得分后再踢定位球得分；侵权行为；非法挪用；皈依；改变宗教；悔改后皈依；房屋的改建"
+                                        },
+                                        {
+                                            "word": "convert",
+                                            "mean": "v. 使…转变；改变；以…得分；转换；改变宗教信仰；说服…改变信仰；使皈依；兑换；对…作换算"
+                                        },
+                                        {
+                                            "word": "convict",
+                                            "mean": "v. 宣判…有罪"
+                                        },
+                                        {
+                                            "word": "convince",
+                                            "mean": "v. 使确信；使信服；说服"
+                                        }
+                                    ],
+                                    "derivatives": "co-",
+                                    "affix_sense_chinese": "指在程度/尺寸方面\"共同\";  与...一起",
+                                    "affix_type": "prefix"
+                                },
+                                {
+                                    "sample": [],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "表强调",
+                                    "affix_type": "prefix"
+                                }
+                            ],
+                            "affix": "con-",
+                            "affix_mean": "共同, 一起"
+                        },
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "abstain",
+                                            "mean": "v. 克制；有意回避；弃权；戒酒"
+                                        },
+                                        {
+                                            "word": "detain",
+                                            "mean": "v. 拘留；扣押；吸引…注意力以羁绊；使（病人；伤员）留院治疗"
+                                        },
+                                        {
+                                            "word": "maintain",
+                                            "mean": "v. 维持；保持；扶养；负担；坚持；断言；主张；维护；将… 维持；养护"
+                                        },
+                                        {
+                                            "word": "obtain",
+                                            "mean": "v. 得到；获得；通用；流行；合乎习俗；得到公认"
+                                        },
+                                        {
+                                            "word": "retain",
+                                            "mean": "v. 保持；保留；记住；保持不变；挡住；继续雇用；吸收并保留；拦住；付定金聘定"
+                                        },
+                                        {
+                                            "word": "sustain",
+                                            "mean": "v. 支持；支撑；忍受；经受（不愉快的事情；尤指伤痛）；认可；赞成；确认；保持；使持续不断；（演员）充分表演（角色"
+                                        }
+                                    ],
+                                    "derivatives": "ten, tin",
+                                    "affix_sense_chinese": "拿住, 保持, 维持",
+                                    "affix_type": "stem"
+                                }
+                            ],
+                            "affix": "tain",
+                            "affix_mean": "拿住"
+                        }
+                    ],
+                    "word_mean": "v. 包含"
+                },
+                "disambiguation": [
+                    {
+                        "disambiguation_list": [
+                            {
+                                "word": "comprehend",
+                                "sense_disambiguation": "正工用词, 指包含在整体范围以内。"
+                            },
+                            {
+                                "word": "contain",
+                                "sense_disambiguation": "普通用词, 所涉及的物体常常是其组成部分或内容。强调包容关系。既可指具体有形的东西, 也可指抽象无形的东西。"
+                            },
+                            {
+                                "word": "embrace",
+                                "sense_disambiguation": "正式用词, 指把某事物纳入整个之中。"
+                            },
+                            {
+                                "word": "hold",
+                                "sense_disambiguation": "常和 contain 换用。指能够容纳或有足够的容纳量。强调包容能力。"
+                            },
+                            {
+                                "word": "include",
+                                "sense_disambiguation": "普通用词, 指一整体包含着各独立的部分, 也指某东西包含另一东西的某一部分。"
+                            },
+                            {
+                                "word": "involve",
+                                "sense_disambiguation": "把包含因整体的性质决定的成分或结果。所包括的往往是无形的, 不可触知的东西, 多用作引申。"
+                            }
+                        ],
+                        "sense_group": "包括"
+                    }
+                ],
+                "exchange_info": {
+                    "word_third": [
+                        "contains"
+                    ],
+                    "word_ing": [
+                        "containing"
+                    ],
+                    "word_done": [
+                        "contained"
+                    ],
+                    "word_past": [
+                        "contained"
+                    ]
+                }
+            },
+            "CET4": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 13,
+                        "pos": "v",
+                        "chinese": "包含; 容纳",
+                        "sense_tier_ratio": 92.86
+                    },
+                    {
+                        "sense_tier": 1,
+                        "pos": "v",
+                        "chinese": "克制; 抑制(情感)",
+                        "sense_tier_ratio": 7.14
+                    }
+                ],
+                "word": "contain",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2016.6-2023.6年8年间全四级试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight>考纲释义</highlight>\n精选实考、考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2016-2023年51套试卷，包括阅读、听力、翻译等所有题型。\n\n<highlight>真题例句</highlight>\n精选2016-2023年8年间试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 3,
+                "word_family": {
+                    "derivative_info_list": [
+                        {
+                            "derivative_info_list": [],
+                            "word": "container",
+                            "mean": "n. 容器；集装箱"
+                        }
+                    ],
+                    "word": "contain",
+                    "mean": "v. 包含；包括；含有；容纳；控制；抑制；克制；阻止；由…组成；可被除尽"
+                },
+                "total_exam_freq": 14,
+                "sense": {
+                    "sense_num": 2,
+                    "sense_info_list": [
+                        {
+                            "en": "have or hold someone or something within",
+                            "zh": "包含; 容纳",
+                            "pos": "v",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "A recent investigation into the sugar content of' adult' breakfast cereals found that some cereals <highlight>contain</highlight> more than three-quarters of the recommended daily amount of free sugars in each portion.",
+                                    "month": 12,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "最近一项对成人早餐麦片含糖量的调查发现，一些早餐谷物片中，每份所含游离糖达到每日推荐摄入量的四分之三。",
+                                    "year": 2019,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "These studies showed that their water did <highlight>contain</highlight> microplastics, but far less than the Orb study suggested Regardless, the World Health Organization has launched a review into the potential health risks of drinking water from plastic bottles.",
+                                    "month": 12,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "这些研究表明，他们的水里确实含有微塑料，但远远低于Orb机构测出的含量数据。但是不管怎样，世界卫生组织已经对塑料瓶饮用水的潜在健康风险展开了一项审查。",
+                                    "year": 2019,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "PepsiCo claims a packet of its chips now <highlight>contains</highlight> less salt than a slice of white bread. However, its new 10-year plan makes clear it believes it still has a long way to go.",
+                                    "month": 12,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "百事公司声称其一包薯片的含盐量现在比一片白面包还要少。但是，其新的10年计划明确表示，它相信自己还有很长的路要走。",
+                                    "year": 2018,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                }
+                            ]
+                        },
+                        {
+                            "synonyms": "",
+                            "en": "control or restrain oneself or a feeling",
+                            "zh": "克制; 抑制(情感)",
+                            "pos": "v",
+                            "antonyms": ""
+                        }
+                    ]
+                },
+                "word_affix": {
+                    "word": "contain",
+                    "sub_affix_info_list": [
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "concede",
+                                            "mean": "v. 承认…为事实；放弃；让与；拱手让出；认；承认；承认（比赛；竞赛）失败；给予；赋予"
+                                        },
+                                        {
+                                            "word": "conceive",
+                                            "mean": "v. 使受孕；想出；构思；设想；想象；认为；怀孕；形成；怀有；体验到"
+                                        },
+                                        {
+                                            "word": "concentrate",
+                                            "mean": "v. 全神贯注；全力以赴；聚精会神；集中；聚集；浓缩；注重；集合"
+                                        },
+                                        {
+                                            "word": "concentric",
+                                            "mean": "adj. 同中心的；同轴的"
+                                        },
+                                        {
+                                            "word": "conception",
+                                            "mean": "n. 怀孕；怀胎；受精；观点；想法；看法；认识；观念；构想；理解"
+                                        },
+                                        {
+                                            "word": "conceptual",
+                                            "mean": "adj. 概念的；概念上的"
+                                        },
+                                        {
+                                            "word": "concern",
+                                            "mean": "v. 涉及；关于；使担忧；使烦恼；使不安；关心；影响；关系到；从事；喜爱"
+                                        },
+                                        {
+                                            "word": "concession",
+                                            "mean": "n. 让步；让予物；给予物；优惠折扣；特许权；给予；认可；让出；准予；认可的表示"
+                                        },
+                                        {
+                                            "word": "concise",
+                                            "mean": "adj. 简洁的；简明的；简练的"
+                                        },
+                                        {
+                                            "word": "conclude",
+                                            "mean": "v. 使结束；作出结论；推断；断定；总结；结束；下结论；订立；缔结；决定"
+                                        },
+                                        {
+                                            "word": "concord",
+                                            "mean": "n. 一致；协调；和睦；和谐；协和音；（Concord）康科德；各种葡萄甜点"
+                                        },
+                                        {
+                                            "word": "concrete",
+                                            "mean": "adj. 具体存在的；实在的；有形的；具体的；明确的；确定的；确实的；物质的"
+                                        },
+                                        {
+                                            "word": "concur",
+                                            "mean": "v. 持相同见解；同意；同时发生；赞同；赞成"
+                                        },
+                                        {
+                                            "word": "condescend",
+                                            "mean": "v. 显示优越感；以恩赐的态度相待；屈尊；俯就"
+                                        },
+                                        {
+                                            "word": "condition",
+                                            "mean": "n. 情况；状态；状况；环境；条件；前提；病；疾病；身份"
+                                        },
+                                        {
+                                            "word": "condole",
+                                            "mean": "v. 表示同情；慰问；吊唁"
+                                        },
+                                        {
+                                            "word": "condone",
+                                            "mean": "v. 宽容；容忍；宽恕；批准；同意"
+                                        },
+                                        {
+                                            "word": "conduct",
+                                            "mean": "n. 行为方式；举止；品行；管理；处理；引导"
+                                        },
+                                        {
+                                            "word": "confederate",
+                                            "mean": "adj. 联合的；联盟的；南部邦联的"
+                                        },
+                                        {
+                                            "word": "confer",
+                                            "mean": "v. 授予；商议；协商；讨论；交流意见"
+                                        },
+                                        {
+                                            "word": "confide",
+                                            "mean": "v. 吐露（秘密；私事）；倾诉；因信任（某人）而向其吐露（秘密；把…托付给"
+                                        },
+                                        {
+                                            "word": "configuration",
+                                            "mean": "n. 构造；结构；配置；布局；构型"
+                                        },
+                                        {
+                                            "word": "confine",
+                                            "mean": "v. 限制；使局限；禁闭；监禁；关押；禁止离开；无法离开；卧床分娩"
+                                        },
+                                        {
+                                            "word": "confirm",
+                                            "mean": "v. 证实；确定；施坚信礼；施坚振礼；批准；认可；加强；巩固；确认"
+                                        },
+                                        {
+                                            "word": "conflate",
+                                            "mean": "v. 合而为一"
+                                        },
+                                        {
+                                            "word": "conflict",
+                                            "mean": "n. 意见不一；争论；武装冲突；抵触；武装斗争；战争；冲突；矛盾"
+                                        },
+                                        {
+                                            "word": "conform",
+                                            "mean": "v. 遵守；顺从；符合；相似；成一致；遵守社会接受的习俗"
+                                        },
+                                        {
+                                            "word": "confound",
+                                            "mean": "v. 使惊讶；使困惑；使糊涂；使不知所措；混淆；证明（理论；期望；预言）错误；驳倒；击败；挫败；推翻"
+                                        },
+                                        {
+                                            "word": "confront",
+                                            "mean": "v. 面对；面临；对抗；正视；使面对；临到…头上；使面临；使遭遇；处理"
+                                        },
+                                        {
+                                            "word": "confuse",
+                                            "mean": "v. 使迷惑；使困惑；混淆；误认；使更复杂；使难懂"
+                                        },
+                                        {
+                                            "word": "congenial",
+                                            "mean": "adj. 志趣相投的；情投意合的；适意的；合意的；相宜的"
+                                        },
+                                        {
+                                            "word": "congest",
+                                            "mean": "vt. 使充血"
+                                        },
+                                        {
+                                            "word": "congratulate",
+                                            "mean": "v. 向…道贺；祝贺；恭喜；自豪；感到满足；称赞；赞美；自我庆幸"
+                                        },
+                                        {
+                                            "word": "congratulation",
+                                            "mean": "n. 祝词；贺词；祝贺；恭喜"
+                                        },
+                                        {
+                                            "word": "congregate",
+                                            "mean": "v. 集合；聚集"
+                                        },
+                                        {
+                                            "word": "congress",
+                                            "mean": "n. 代表会议；国家立法机关；国会；议会；协会；组织；团体；聚集；聚会"
+                                        },
+                                        {
+                                            "word": "conjunction",
+                                            "mean": "n. 【语法】 连（接）词（如and；同时发生；【天文；占星】 合"
+                                        },
+                                        {
+                                            "word": "connect",
+                                            "mean": "v. 连接；联结；联系；结合；通电；联运；联姻；通水；使联系；连接以供通行"
+                                        },
+                                        {
+                                            "word": "connote",
+                                            "mean": "v. 意味着；有…的含意；暗示；意味着…的结果"
+                                        },
+                                        {
+                                            "word": "conquer",
+                                            "mean": "v. 击败；征服；攻占；战胜；破除；克服；成功地攀登；博得（一个人或一群人）的喜爱"
+                                        },
+                                        {
+                                            "word": "conquest",
+                                            "mean": "n. 征服；攻占；战胜；克服；被征服的领土；掠取地；征服英国；破除；成功攀登"
+                                        },
+                                        {
+                                            "word": "conscience",
+                                            "mean": "n. 良心；良知；道德心"
+                                        },
+                                        {
+                                            "word": "conscientious",
+                                            "mean": "adj. 凭良心办事的；认真的；勤勤恳恳的；负责的；尽责的；认真负责的；凭良心的；与良心有关的"
+                                        },
+                                        {
+                                            "word": "conscious",
+                                            "mean": "adj. 清醒的；感到的；意识到的；敏感的；知道的；察觉的；了解的；不自然的；关心…的；对… 感兴趣的"
+                                        },
+                                        {
+                                            "word": "consecrate",
+                                            "mean": "v. 奉（某事物；尤指教堂）为神圣；供奉；奉献；使（面包；酒）圣化；使变体；任命…就圣职；仅将某物用作…"
+                                        },
+                                        {
+                                            "word": "consecutive",
+                                            "mean": "adj. 连续的；不断的；接连而来的；连贯的；按逻辑顺序的；结果的"
+                                        },
+                                        {
+                                            "word": "consensus",
+                                            "mean": "n. 一致"
+                                        },
+                                        {
+                                            "word": "consent",
+                                            "mean": "n. 同意；赞成；准许"
+                                        },
+                                        {
+                                            "word": "consequence",
+                                            "mean": "n. 结果；后果；影响；重要性；重大；意义；连环问答式叙事游戏；显要；显赫"
+                                        },
+                                        {
+                                            "word": "consequent",
+                                            "mean": "adj. 作为结果的；由…而起的；随之发生的；顺向的；逻辑上一致的；合乎逻辑的"
+                                        },
+                                        {
+                                            "word": "conserve",
+                                            "mean": "v. 保护；保存；节约；防止浪费；使（量；如能量、质量）守恒；保持（某氨基酸、核苷或其序列）不变；保藏；用糖保存；将…制成蜜饯"
+                                        },
+                                        {
+                                            "word": "consign",
+                                            "mean": "v. 把…委托给；交付；托管；寄售；托售；托运；运送；打发；放逐"
+                                        },
+                                        {
+                                            "word": "consist",
+                                            "mean": "v. 由…组成；由…构成；一致；符合；以…为基本特色"
+                                        },
+                                        {
+                                            "word": "consolidate",
+                                            "mean": "v. 巩固；强化；使坚强；使结实；整合；加强；合并"
+                                        },
+                                        {
+                                            "word": "consonant",
+                                            "mean": "n. 辅音；辅音字母"
+                                        },
+                                        {
+                                            "word": "consortium",
+                                            "mean": "n. 协会；联合；联盟；配偶的相互权利"
+                                        },
+                                        {
+                                            "word": "conspicuous",
+                                            "mean": "adj. 显而易见的；明显的；显著的；引人注目的；出众的；值得注意的"
+                                        },
+                                        {
+                                            "word": "conspire",
+                                            "mean": "v. 阴谋；密谋；共谋；合作；协同；凑合起来；共同促成"
+                                        },
+                                        {
+                                            "word": "constancy",
+                                            "mean": "n. 忠诚；忠实；可靠；坚定不移；恒久不变；始终如一；不屈不挠"
+                                        },
+                                        {
+                                            "word": "constant",
+                                            "mean": "adj. 不断的；连续的；不变的；始终如一的；忠诚的；忠实的；忠贞的"
+                                        },
+                                        {
+                                            "word": "constrict",
+                                            "mean": "v. 使缩窄；使收缩；压缩；收紧；收缩；限制；约束；缩窄；变紧；盘绕以使窒息"
+                                        },
+                                        {
+                                            "word": "construct",
+                                            "mean": "v. 建筑；建造；建立；构筑；构成；组成；形成；造；作"
+                                        },
+                                        {
+                                            "word": "construe",
+                                            "mean": "v. 解释；说明；诠释；分析（文章、句子或词的）语法；逐字翻译；直译；口译"
+                                        },
+                                        {
+                                            "word": "consume",
+                                            "mean": "v. 吃；喝；摄取；吸引；购买；消费；用完；耗尽；消耗；毁灭"
+                                        },
+                                        {
+                                            "word": "consummate",
+                                            "mean": "v. 使完；完成"
+                                        },
+                                        {
+                                            "word": "consumption",
+                                            "mean": "n. 耗尽；消耗；销蚀性疾病；身体耗损；痨病；消费；消费量；消耗量；吃；喝"
+                                        },
+                                        {
+                                            "word": "contact",
+                                            "mean": "n. 接触；见面；联系；交往；关系；触点；隐形眼镜；接头；接触器；传达"
+                                        },
+                                        {
+                                            "word": "contagious",
+                                            "mean": "adj. 接触传染（性）的；触染（性）的；可能带有人际传染疾病的；可能带触染原的；有感染力的；可能蔓延开的"
+                                        },
+                                        {
+                                            "word": "contemporary",
+                                            "mean": "adj. 生活在同时代的；同时代发生的；当代的；源自同时代的；属于同时期的；现代（派）的"
+                                        },
+                                        {
+                                            "word": "contend",
+                                            "mean": "v. 奋斗；斗争；搏斗；声称；主张；辩论；竞争；争夺；争取"
+                                        },
+                                        {
+                                            "word": "contention",
+                                            "mean": "n. 争论；争辩；争执；论点"
+                                        },
+                                        {
+                                            "word": "context",
+                                            "mean": "n. 环境；背景；来龙去脉；上下文；语境"
+                                        },
+                                        {
+                                            "word": "continent",
+                                            "mean": "n. 洲；大陆；欧洲大陆"
+                                        },
+                                        {
+                                            "word": "contingency",
+                                            "mean": "n. 可能发生的事件；不确定的事件；偶然性；意外；应急储备；可能性；不测；应急措施；应急开支"
+                                        },
+                                        {
+                                            "word": "continue",
+                                            "mean": "v. 继续；坚持下去；恢复；重新开始；持续；延续；坚持；留任；使继续；维持原状"
+                                        },
+                                        {
+                                            "word": "contour",
+                                            "mean": "n. 轮廓；外形；周线；围线；等高线；恒值线；升降曲线；变化方式"
+                                        },
+                                        {
+                                            "word": "contract",
+                                            "mean": "n. 合同；契约；合同法；契约法；暗杀协议；定约；定约墩数；婚约"
+                                        },
+                                        {
+                                            "word": "contribute",
+                                            "mean": "v. 捐；捐助；捐献；贡献；有助于；促成；促使；提议；发表意见；投"
+                                        },
+                                        {
+                                            "word": "convene",
+                                            "mean": "v. 召集；集合；集会"
+                                        },
+                                        {
+                                            "word": "convenience",
+                                            "mean": "n. 方便；便利；公共厕所；便利性；方便性；便利设施；使生活方便舒适的设备"
+                                        },
+                                        {
+                                            "word": "convenient",
+                                            "mean": "adj. 方便的；合适的；省事的；近便的；合宜的；易于到达的；适时的"
+                                        },
+                                        {
+                                            "word": "convention",
+                                            "mean": "n. 准则；惯例；国际协议；公约；大会；会议；社会习俗；得体行为；约定；政党代表大会"
+                                        },
+                                        {
+                                            "word": "converse",
+                                            "mean": "v. 谈话；交谈"
+                                        },
+                                        {
+                                            "word": "conversion",
+                                            "mean": "n. 转变；转换；转化；带球触地得分后再踢定位球得分；侵权行为；非法挪用；皈依；改变宗教；悔改后皈依；房屋的改建"
+                                        },
+                                        {
+                                            "word": "convert",
+                                            "mean": "v. 使…转变；改变；以…得分；转换；改变宗教信仰；说服…改变信仰；使皈依；兑换；对…作换算"
+                                        },
+                                        {
+                                            "word": "convict",
+                                            "mean": "v. 宣判…有罪"
+                                        },
+                                        {
+                                            "word": "convince",
+                                            "mean": "v. 使确信；使信服；说服"
+                                        }
+                                    ],
+                                    "derivatives": "co-",
+                                    "affix_sense_chinese": "指在程度/尺寸方面\"共同\";  与...一起",
+                                    "affix_type": "prefix"
+                                },
+                                {
+                                    "sample": [],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "表强调",
+                                    "affix_type": "prefix"
+                                }
+                            ],
+                            "affix": "con-",
+                            "affix_mean": "共同, 一起"
+                        },
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "abstain",
+                                            "mean": "v. 克制；有意回避；弃权；戒酒"
+                                        },
+                                        {
+                                            "word": "detain",
+                                            "mean": "v. 拘留；扣押；吸引…注意力以羁绊；使（病人；伤员）留院治疗"
+                                        },
+                                        {
+                                            "word": "maintain",
+                                            "mean": "v. 维持；保持；扶养；负担；坚持；断言；主张；维护；将… 维持；养护"
+                                        },
+                                        {
+                                            "word": "obtain",
+                                            "mean": "v. 得到；获得；通用；流行；合乎习俗；得到公认"
+                                        },
+                                        {
+                                            "word": "retain",
+                                            "mean": "v. 保持；保留；记住；保持不变；挡住；继续雇用；吸收并保留；拦住；付定金聘定"
+                                        },
+                                        {
+                                            "word": "sustain",
+                                            "mean": "v. 支持；支撑；忍受；经受（不愉快的事情；尤指伤痛）；认可；赞成；确认；保持；使持续不断；（演员）充分表演（角色"
+                                        }
+                                    ],
+                                    "derivatives": "ten, tin",
+                                    "affix_sense_chinese": "拿住, 保持, 维持",
+                                    "affix_type": "stem"
+                                }
+                            ],
+                            "affix": "tain",
+                            "affix_mean": "拿住"
+                        }
+                    ],
+                    "word_mean": "v. 包含"
+                },
+                "disambiguation": [
+                    {
+                        "disambiguation_list": [
+                            {
+                                "word": "comprehend",
+                                "sense_disambiguation": "正工用词，指包含在整体范围以内。"
+                            },
+                            {
+                                "word": "contain",
+                                "sense_disambiguation": "普通用词，所涉及的物体常常是其组成部分或内容。强调包容关系。既可指具体有形的东西，也可指抽象无形的东西。"
+                            },
+                            {
+                                "word": "embrace",
+                                "sense_disambiguation": "正式用词，指把某事物纳入整个之中。"
+                            },
+                            {
+                                "word": "hold",
+                                "sense_disambiguation": "常和 contain 换用。指能够容纳或有足够的容纳量。强调包容能力。"
+                            },
+                            {
+                                "word": "include",
+                                "sense_disambiguation": "普通用词，指一整体包含着各独立的部分，也指某东西包含另一东西的某一部分。"
+                            },
+                            {
+                                "word": "involve",
+                                "sense_disambiguation": "把包含因整体的性质决定的成分或结果。所包括的往往是无形的，不可触知的东西，多用作引申。"
+                            }
+                        ],
+                        "sense_group": "包括"
+                    }
+                ],
+                "exchange_info": {
+                    "word_third": [
+                        "contains"
+                    ],
+                    "word_ing": [
+                        "containing"
+                    ],
+                    "word_done": [
+                        "contained"
+                    ],
+                    "word_past": [
+                        "contained"
+                    ]
+                }
+            },
+            "gaokao": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 3,
+                        "pos": "v",
+                        "chinese": "包含; 容纳",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "contain",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2015-2022年8年间全国卷和自主命题省市高考卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2015-2022年全国卷高考试卷，包括阅读、完形、单选、填空、听力、改错、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选各省市考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2015-2022年8年间全国卷和自主命题省市高考卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 1,
+                "word_family": {
+                    "derivative_info_list": [
+                        {
+                            "derivative_info_list": [],
+                            "word": "container",
+                            "mean": "n. 容器；集装箱"
+                        }
+                    ],
+                    "word": "contain",
+                    "mean": "v. 包含；包括；含有；容纳；控制；抑制；克制；阻止；由…组成；可被除尽"
+                },
+                "total_exam_freq": 3,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "have or hold someone or something within",
+                            "zh": "包含; 容纳",
+                            "pos": "v",
+                            "synonyms": "include,involve,carry",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "When we were asleep we had to <highlight>contain</highlight> them in a large room, otherwise they'd get up to mischief.",
+                                    "month": -1,
+                                    "source": "新高考II卷",
+                                    "coll": "",
+                                    "sentence_trans": "当我们睡着的时候，我们必须把他们关在一个大房间里，否则他们会起恶作剧。",
+                                    "year": 2021,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "A history book which may <highlight>contain</highlight> the facts in story form will be easier to read than one dealing with scientific subjects.",
+                                    "month": -1,
+                                    "source": "新高考II卷",
+                                    "coll": "",
+                                    "sentence_trans": "一本可能以故事形式包含事实的历史书比一本涉及科学主题的历史书更容易阅读。",
+                                    "year": 2021,
+                                    "type": "七选五",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Because of their seeds, raspberries <highlight>contain</highlight> a little more protein (蛋白质), iron and zinc (not that fruits have much protein).",
+                                    "month": -1,
+                                    "source": "全国卷2",
+                                    "coll": "",
+                                    "sentence_trans": "由于其种子的缘故，树莓含有更多的蛋白质、铁和锌（水果中没有多少蛋白质）。",
+                                    "year": 2018,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "word_affix": {
+                    "word": "contain",
+                    "sub_affix_info_list": [
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "concede",
+                                            "mean": "v. 承认…为事实；放弃；让与；拱手让出；认；承认；承认（比赛；竞赛）失败；给予；赋予"
+                                        },
+                                        {
+                                            "word": "conceive",
+                                            "mean": "v. 使受孕；想出；构思；设想；想象；认为；怀孕；形成；怀有；体验到"
+                                        },
+                                        {
+                                            "word": "concentrate",
+                                            "mean": "v. 全神贯注；全力以赴；聚精会神；集中；聚集；浓缩；注重；集合"
+                                        },
+                                        {
+                                            "word": "concentric",
+                                            "mean": "adj. 同中心的；同轴的"
+                                        },
+                                        {
+                                            "word": "conception",
+                                            "mean": "n. 怀孕；怀胎；受精；观点；想法；看法；认识；观念；构想；理解"
+                                        },
+                                        {
+                                            "word": "conceptual",
+                                            "mean": "adj. 概念的；概念上的"
+                                        },
+                                        {
+                                            "word": "concern",
+                                            "mean": "v. 涉及；关于；使担忧；使烦恼；使不安；关心；影响；关系到；从事；喜爱"
+                                        },
+                                        {
+                                            "word": "concession",
+                                            "mean": "n. 让步；让予物；给予物；优惠折扣；特许权；给予；认可；让出；准予；认可的表示"
+                                        },
+                                        {
+                                            "word": "concise",
+                                            "mean": "adj. 简洁的；简明的；简练的"
+                                        },
+                                        {
+                                            "word": "conclude",
+                                            "mean": "v. 使结束；作出结论；推断；断定；总结；结束；下结论；订立；缔结；决定"
+                                        },
+                                        {
+                                            "word": "concord",
+                                            "mean": "n. 一致；协调；和睦；和谐；协和音；（Concord）康科德；各种葡萄甜点"
+                                        },
+                                        {
+                                            "word": "concrete",
+                                            "mean": "adj. 具体存在的；实在的；有形的；具体的；明确的；确定的；确实的；物质的"
+                                        },
+                                        {
+                                            "word": "concur",
+                                            "mean": "v. 持相同见解；同意；同时发生；赞同；赞成"
+                                        },
+                                        {
+                                            "word": "condescend",
+                                            "mean": "v. 显示优越感；以恩赐的态度相待；屈尊；俯就"
+                                        },
+                                        {
+                                            "word": "condition",
+                                            "mean": "n. 情况；状态；状况；环境；条件；前提；病；疾病；身份"
+                                        },
+                                        {
+                                            "word": "condole",
+                                            "mean": "v. 表示同情；慰问；吊唁"
+                                        },
+                                        {
+                                            "word": "condone",
+                                            "mean": "v. 宽容；容忍；宽恕；批准；同意"
+                                        },
+                                        {
+                                            "word": "conduct",
+                                            "mean": "n. 行为方式；举止；品行；管理；处理；引导"
+                                        },
+                                        {
+                                            "word": "confederate",
+                                            "mean": "adj. 联合的；联盟的；南部邦联的"
+                                        },
+                                        {
+                                            "word": "confer",
+                                            "mean": "v. 授予；商议；协商；讨论；交流意见"
+                                        },
+                                        {
+                                            "word": "confide",
+                                            "mean": "v. 吐露（秘密；私事）；倾诉；因信任（某人）而向其吐露（秘密；把…托付给"
+                                        },
+                                        {
+                                            "word": "configuration",
+                                            "mean": "n. 构造；结构；配置；布局；构型"
+                                        },
+                                        {
+                                            "word": "confine",
+                                            "mean": "v. 限制；使局限；禁闭；监禁；关押；禁止离开；无法离开；卧床分娩"
+                                        },
+                                        {
+                                            "word": "confirm",
+                                            "mean": "v. 证实；确定；施坚信礼；施坚振礼；批准；认可；加强；巩固；确认"
+                                        },
+                                        {
+                                            "word": "conflate",
+                                            "mean": "v. 合而为一"
+                                        },
+                                        {
+                                            "word": "conflict",
+                                            "mean": "n. 意见不一；争论；武装冲突；抵触；武装斗争；战争；冲突；矛盾"
+                                        },
+                                        {
+                                            "word": "conform",
+                                            "mean": "v. 遵守；顺从；符合；相似；成一致；遵守社会接受的习俗"
+                                        },
+                                        {
+                                            "word": "confound",
+                                            "mean": "v. 使惊讶；使困惑；使糊涂；使不知所措；混淆；证明（理论；期望；预言）错误；驳倒；击败；挫败；推翻"
+                                        },
+                                        {
+                                            "word": "confront",
+                                            "mean": "v. 面对；面临；对抗；正视；使面对；临到…头上；使面临；使遭遇；处理"
+                                        },
+                                        {
+                                            "word": "confuse",
+                                            "mean": "v. 使迷惑；使困惑；混淆；误认；使更复杂；使难懂"
+                                        },
+                                        {
+                                            "word": "congenial",
+                                            "mean": "adj. 志趣相投的；情投意合的；适意的；合意的；相宜的"
+                                        },
+                                        {
+                                            "word": "congest",
+                                            "mean": "vt. 使充血"
+                                        },
+                                        {
+                                            "word": "congratulate",
+                                            "mean": "v. 向…道贺；祝贺；恭喜；自豪；感到满足；称赞；赞美；自我庆幸"
+                                        },
+                                        {
+                                            "word": "congratulation",
+                                            "mean": "n. 祝词；贺词；祝贺；恭喜"
+                                        },
+                                        {
+                                            "word": "congregate",
+                                            "mean": "v. 集合；聚集"
+                                        },
+                                        {
+                                            "word": "congress",
+                                            "mean": "n. 代表会议；国家立法机关；国会；议会；协会；组织；团体；聚集；聚会"
+                                        },
+                                        {
+                                            "word": "conjunction",
+                                            "mean": "n. 【语法】 连（接）词（如and；同时发生；【天文；占星】 合"
+                                        },
+                                        {
+                                            "word": "connect",
+                                            "mean": "v. 连接；联结；联系；结合；通电；联运；联姻；通水；使联系；连接以供通行"
+                                        },
+                                        {
+                                            "word": "connote",
+                                            "mean": "v. 意味着；有…的含意；暗示；意味着…的结果"
+                                        },
+                                        {
+                                            "word": "conquer",
+                                            "mean": "v. 击败；征服；攻占；战胜；破除；克服；成功地攀登；博得（一个人或一群人）的喜爱"
+                                        },
+                                        {
+                                            "word": "conquest",
+                                            "mean": "n. 征服；攻占；战胜；克服；被征服的领土；掠取地；征服英国；破除；成功攀登"
+                                        },
+                                        {
+                                            "word": "conscience",
+                                            "mean": "n. 良心；良知；道德心"
+                                        },
+                                        {
+                                            "word": "conscientious",
+                                            "mean": "adj. 凭良心办事的；认真的；勤勤恳恳的；负责的；尽责的；认真负责的；凭良心的；与良心有关的"
+                                        },
+                                        {
+                                            "word": "conscious",
+                                            "mean": "adj. 清醒的；感到的；意识到的；敏感的；知道的；察觉的；了解的；不自然的；关心…的；对… 感兴趣的"
+                                        },
+                                        {
+                                            "word": "consecrate",
+                                            "mean": "v. 奉（某事物；尤指教堂）为神圣；供奉；奉献；使（面包；酒）圣化；使变体；任命…就圣职；仅将某物用作…"
+                                        },
+                                        {
+                                            "word": "consecutive",
+                                            "mean": "adj. 连续的；不断的；接连而来的；连贯的；按逻辑顺序的；结果的"
+                                        },
+                                        {
+                                            "word": "consensus",
+                                            "mean": "n. 一致"
+                                        },
+                                        {
+                                            "word": "consent",
+                                            "mean": "n. 同意；赞成；准许"
+                                        },
+                                        {
+                                            "word": "consequence",
+                                            "mean": "n. 结果；后果；影响；重要性；重大；意义；连环问答式叙事游戏；显要；显赫"
+                                        },
+                                        {
+                                            "word": "consequent",
+                                            "mean": "adj. 作为结果的；由…而起的；随之发生的；顺向的；逻辑上一致的；合乎逻辑的"
+                                        },
+                                        {
+                                            "word": "conserve",
+                                            "mean": "v. 保护；保存；节约；防止浪费；使（量；如能量、质量）守恒；保持（某氨基酸、核苷或其序列）不变；保藏；用糖保存；将…制成蜜饯"
+                                        },
+                                        {
+                                            "word": "consign",
+                                            "mean": "v. 把…委托给；交付；托管；寄售；托售；托运；运送；打发；放逐"
+                                        },
+                                        {
+                                            "word": "consist",
+                                            "mean": "v. 由…组成；由…构成；一致；符合；以…为基本特色"
+                                        },
+                                        {
+                                            "word": "consolidate",
+                                            "mean": "v. 巩固；强化；使坚强；使结实；整合；加强；合并"
+                                        },
+                                        {
+                                            "word": "consonant",
+                                            "mean": "n. 辅音；辅音字母"
+                                        },
+                                        {
+                                            "word": "consortium",
+                                            "mean": "n. 协会；联合；联盟；配偶的相互权利"
+                                        },
+                                        {
+                                            "word": "conspicuous",
+                                            "mean": "adj. 显而易见的；明显的；显著的；引人注目的；出众的；值得注意的"
+                                        },
+                                        {
+                                            "word": "conspire",
+                                            "mean": "v. 阴谋；密谋；共谋；合作；协同；凑合起来；共同促成"
+                                        },
+                                        {
+                                            "word": "constancy",
+                                            "mean": "n. 忠诚；忠实；可靠；坚定不移；恒久不变；始终如一；不屈不挠"
+                                        },
+                                        {
+                                            "word": "constant",
+                                            "mean": "adj. 不断的；连续的；不变的；始终如一的；忠诚的；忠实的；忠贞的"
+                                        },
+                                        {
+                                            "word": "constrict",
+                                            "mean": "v. 使缩窄；使收缩；压缩；收紧；收缩；限制；约束；缩窄；变紧；盘绕以使窒息"
+                                        },
+                                        {
+                                            "word": "construct",
+                                            "mean": "v. 建筑；建造；建立；构筑；构成；组成；形成；造；作"
+                                        },
+                                        {
+                                            "word": "construe",
+                                            "mean": "v. 解释；说明；诠释；分析（文章、句子或词的）语法；逐字翻译；直译；口译"
+                                        },
+                                        {
+                                            "word": "consume",
+                                            "mean": "v. 吃；喝；摄取；吸引；购买；消费；用完；耗尽；消耗；毁灭"
+                                        },
+                                        {
+                                            "word": "consummate",
+                                            "mean": "v. 使完；完成"
+                                        },
+                                        {
+                                            "word": "consumption",
+                                            "mean": "n. 耗尽；消耗；销蚀性疾病；身体耗损；痨病；消费；消费量；消耗量；吃；喝"
+                                        },
+                                        {
+                                            "word": "contact",
+                                            "mean": "n. 接触；见面；联系；交往；关系；触点；隐形眼镜；接头；接触器；传达"
+                                        },
+                                        {
+                                            "word": "contagious",
+                                            "mean": "adj. 接触传染（性）的；触染（性）的；可能带有人际传染疾病的；可能带触染原的；有感染力的；可能蔓延开的"
+                                        },
+                                        {
+                                            "word": "contemporary",
+                                            "mean": "adj. 生活在同时代的；同时代发生的；当代的；源自同时代的；属于同时期的；现代（派）的"
+                                        },
+                                        {
+                                            "word": "contend",
+                                            "mean": "v. 奋斗；斗争；搏斗；声称；主张；辩论；竞争；争夺；争取"
+                                        },
+                                        {
+                                            "word": "contention",
+                                            "mean": "n. 争论；争辩；争执；论点"
+                                        },
+                                        {
+                                            "word": "context",
+                                            "mean": "n. 环境；背景；来龙去脉；上下文；语境"
+                                        },
+                                        {
+                                            "word": "continent",
+                                            "mean": "n. 洲；大陆；欧洲大陆"
+                                        },
+                                        {
+                                            "word": "contingency",
+                                            "mean": "n. 可能发生的事件；不确定的事件；偶然性；意外；应急储备；可能性；不测；应急措施；应急开支"
+                                        },
+                                        {
+                                            "word": "continue",
+                                            "mean": "v. 继续；坚持下去；恢复；重新开始；持续；延续；坚持；留任；使继续；维持原状"
+                                        },
+                                        {
+                                            "word": "contour",
+                                            "mean": "n. 轮廓；外形；周线；围线；等高线；恒值线；升降曲线；变化方式"
+                                        },
+                                        {
+                                            "word": "contract",
+                                            "mean": "n. 合同；契约；合同法；契约法；暗杀协议；定约；定约墩数；婚约"
+                                        },
+                                        {
+                                            "word": "contribute",
+                                            "mean": "v. 捐；捐助；捐献；贡献；有助于；促成；促使；提议；发表意见；投"
+                                        },
+                                        {
+                                            "word": "convene",
+                                            "mean": "v. 召集；集合；集会"
+                                        },
+                                        {
+                                            "word": "convenience",
+                                            "mean": "n. 方便；便利；公共厕所；便利性；方便性；便利设施；使生活方便舒适的设备"
+                                        },
+                                        {
+                                            "word": "convenient",
+                                            "mean": "adj. 方便的；合适的；省事的；近便的；合宜的；易于到达的；适时的"
+                                        },
+                                        {
+                                            "word": "convention",
+                                            "mean": "n. 准则；惯例；国际协议；公约；大会；会议；社会习俗；得体行为；约定；政党代表大会"
+                                        },
+                                        {
+                                            "word": "converse",
+                                            "mean": "v. 谈话；交谈"
+                                        },
+                                        {
+                                            "word": "conversion",
+                                            "mean": "n. 转变；转换；转化；带球触地得分后再踢定位球得分；侵权行为；非法挪用；皈依；改变宗教；悔改后皈依；房屋的改建"
+                                        },
+                                        {
+                                            "word": "convert",
+                                            "mean": "v. 使…转变；改变；以…得分；转换；改变宗教信仰；说服…改变信仰；使皈依；兑换；对…作换算"
+                                        },
+                                        {
+                                            "word": "convict",
+                                            "mean": "v. 宣判…有罪"
+                                        },
+                                        {
+                                            "word": "convince",
+                                            "mean": "v. 使确信；使信服；说服"
+                                        }
+                                    ],
+                                    "derivatives": "co-",
+                                    "affix_sense_chinese": "指在程度/尺寸方面\"共同\";  与...一起",
+                                    "affix_type": "prefix"
+                                },
+                                {
+                                    "sample": [],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "表强调",
+                                    "affix_type": "prefix"
+                                }
+                            ],
+                            "affix": "con-",
+                            "affix_mean": "共同, 一起"
+                        },
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "abstain",
+                                            "mean": "v. 克制；有意回避；弃权；戒酒"
+                                        },
+                                        {
+                                            "word": "detain",
+                                            "mean": "v. 拘留；扣押；吸引…注意力以羁绊；使（病人；伤员）留院治疗"
+                                        },
+                                        {
+                                            "word": "maintain",
+                                            "mean": "v. 维持；保持；扶养；负担；坚持；断言；主张；维护；将… 维持；养护"
+                                        },
+                                        {
+                                            "word": "obtain",
+                                            "mean": "v. 得到；获得；通用；流行；合乎习俗；得到公认"
+                                        },
+                                        {
+                                            "word": "retain",
+                                            "mean": "v. 保持；保留；记住；保持不变；挡住；继续雇用；吸收并保留；拦住；付定金聘定"
+                                        },
+                                        {
+                                            "word": "sustain",
+                                            "mean": "v. 支持；支撑；忍受；经受（不愉快的事情；尤指伤痛）；认可；赞成；确认；保持；使持续不断；（演员）充分表演（角色"
+                                        }
+                                    ],
+                                    "derivatives": "ten, tin",
+                                    "affix_sense_chinese": "拿住, 保持, 维持",
+                                    "affix_type": "stem"
+                                }
+                            ],
+                            "affix": "tain",
+                            "affix_mean": "拿住"
+                        }
+                    ],
+                    "word_mean": "v. 包含"
+                },
+                "disambiguation": [
+                    {
+                        "disambiguation_list": [
+                            {
+                                "word": "comprehend",
+                                "sense_disambiguation": "正工用词，指包含在整体范围以内。"
+                            },
+                            {
+                                "word": "contain",
+                                "sense_disambiguation": "普通用词，所涉及的物体常常是其组成部分或内容。强调包容关系。既可指具体有形的东西，也可指抽象无形的东西。"
+                            },
+                            {
+                                "word": "embrace",
+                                "sense_disambiguation": "正式用词，指把某事物纳入整个之中。"
+                            },
+                            {
+                                "word": "hold",
+                                "sense_disambiguation": "常和 contain 换用。指能够容纳或有足够的容纳量。强调包容能力。"
+                            },
+                            {
+                                "word": "include",
+                                "sense_disambiguation": "普通用词，指一整体包含着各独立的部分，也指某东西包含另一东西的某一部分。"
+                            },
+                            {
+                                "word": "involve",
+                                "sense_disambiguation": "把包含因整体的性质决定的成分或结果。所包括的往往是无形的，不可触知的东西，多用作引申。"
+                            }
+                        ],
+                        "sense_group": "包括"
+                    }
+                ],
+                "exchange_info": {
+                    "word_third": [
+                        "contains"
+                    ],
+                    "word_ing": [
+                        "containing"
+                    ],
+                    "word_done": [
+                        "contained"
+                    ],
+                    "word_past": [
+                        "contained"
+                    ]
+                }
+            },
+            "sentencesData": {
+                "status": 1,
+                "info": "notZh2En",
+                "data": {}
+            },
+            "isAutoMatch": false,
+            "Zh2En": false
+        },
+        "query": "contain",
+        "result": "包含",
+        "tabSelect": "detail",
+        "dictionaryType": "oxford_buchong",
+        "notFound_show": false,
+        "phoneticShow": "",
+        "globalShowTranslateRecord": "",
+        "pronPrefer": {
+            "type": "usa_1",
+            "speaker": "male",
+            "speed": "standard"
+        },
+        "ServerRecord": "",
+        "ServerUIGS": {
+            "version": "new",
+            "type": "all",
+            "stype": "success",
+            "terminal": "web",
+            "fr": "default",
+            "direction": "etoz",
+            "from": "en",
+            "to": "zh-CHS",
+            "len": 7,
+            "qtype": "text",
+            "qctype": "qc_1",
+            "dict_cover": 1,
+            "detail": 1,
+            "wordCardCover": 1,
+            "wordCardEn": 1,
+            "wordCardCh": 0,
+            "wordCardMinor": 0,
+            "wordCardNetmean": 0,
+            "wordDeform": 1,
+            "keyword": 0,
+            "bilingual": 1,
+            "simple": 0,
+            "levelList": 1,
+            "synonym": 1,
+            "antonym": 0,
+            "conjugate": 1,
+            "rootaffix": 1,
+            "baike_sogou": 0,
+            "baike_wiki": 0,
+            "wordDifference": 1,
+            "word_phrase": 1,
+            "secondQuery": 0,
+            "dict_oxford": 0,
+            "dict_newcentury": 0,
+            "zhongkaotab": 0,
+            "gaokaotab": 1,
+            "CET4tab": 1,
+            "CET6tab": 1,
+            "kaoyantab": 1,
+            "network_tab": 0,
+            "yinying_tab": 1,
+            "tuozhan_tab": 0,
+            "one_pic": 0,
+            "more_pic": 0,
+            "no_pic": 0,
+            "uuid": "653975ca-9a83-41f8-83e3-8c27d7cd8a72",
+            "from_type": 0,
+            "t_trans_ssr": 168
+        },
+        "ServerModelUIGS": {
+            "terminal": "web",
+            "type": "trans_model",
+            "pbtype": "pv",
+            "model_general": 1,
+            "model_medical": 1,
+            "model_finance": 1
+        },
+        "ServerSgtkn": "64F625B2866E00AAA2A48A1ADE9B5E9AA2DDEE0167552DF0",
+        "suggShow": false,
+        "suggestion": "",
+        "suggDirection": "",
+        "usualTop": "",
+        "baseDict": "",
+        "wordCardClick": false,
+        "isFrInput": false,
+        "kanaTips": {
+            "show": false,
+            "left": "",
+            "top": "",
+            "type": "",
+            "arrowLeft": ""
+        },
+        "currSentenceIndex": -1,
+        "prefixStrObj": {
+            "prefixStr": "",
+            "oriPrefixStr": ""
+        },
+        "selectTransBox": {
+            "show": false,
+            "right": 0,
+            "top": 0,
+            "paraphraseInfo": {
+                "word": "",
+                "from": "",
+                "to": "",
+                "area": ""
+            }
+        },
+        "sentenceLoading": false,
+        "newSentenceInfo": {
+            "sentence": "",
+            "candidateIndex": 0
+        },
+        "moreTipInfo": {
+            "opacity": 0,
+            "zIndex": -1
+        },
+        "paraphraseShowInfo": {
+            "card": 0,
+            "query": "",
+            "card_dict": 0
+        },
+        "selectType": "",
+        "wordPos": 0,
+        "candidateWord": "",
+        "syntaxVisible": false,
+        "syntaxStatus": 0
+    },
+    "language": {
+        "from": "auto",
+        "to": "zh-CHS",
+        "detect": "en",
+        "model": "general",
+        "detectShow": false,
+        "langMap": {
+            "current": ""
+        },
+        "zh2en": false,
+        "fromItemList": [
+            {
+                "lang": "auto",
+                "text": "自动检测",
+                "play": false
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "ko",
+                "text": "韩语",
+                "play": true,
+                "abbr": "韩"
+            },
+            {
+                "lang": "fr",
+                "text": "法语",
+                "play": true,
+                "abbr": "法"
+            },
+            {
+                "lang": "ru",
+                "text": "俄语",
+                "play": true,
+                "abbr": "俄"
+            }
+        ],
+        "toItemList": [
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "ko",
+                "text": "韩语",
+                "play": true,
+                "abbr": "韩"
+            },
+            {
+                "lang": "vi",
+                "text": "越南语",
+                "play": true,
+                "abbr": "越"
+            },
+            {
+                "lang": "fr",
+                "text": "法语",
+                "play": true,
+                "abbr": "法"
+            }
+        ]
+    },
+    "voice": {
+        "from": {
+            "lang": "en",
+            "type": "from",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22contain%22%2C%22spokenDialect%22%3A%22en%22%2C%22rate%22%3A%220.8%22%7D",
+            "list": [
+                {
+                    "type": "uk_0",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "kənˈteɪn",
+                    "abbr": "英",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/2030_contain_uk.mp3"
+                },
+                {
+                    "type": "usa_1",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "kənˈteɪn",
+                    "abbr": "美",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/2030_contain_usa.mp3"
+                }
+            ],
+            "stype": "phonetic",
+            "phoneticShow": [
+                {
+                    "text": "kənˈteɪn",
+                    "type": "uk",
+                    "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/2030_contain_uk.mp3"
+                }
+            ]
+        },
+        "to": {
+            "lang": "zh",
+            "type": "to",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22%E5%8C%85%E5%90%AB%22%2C%22spokenDialect%22%3A%22zh-CHS%22%2C%22rate%22%3A%220.8%22%7D",
+            "stype": "normal"
+        }
+    }
+}

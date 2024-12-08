@@ -1,0 +1,1899 @@
+{
+    "route": {
+        "name": "text",
+        "path": "/text",
+        "hash": "",
+        "query": {
+            "keyword": "test",
+            "transfrom": "auto",
+            "transto": "zh-CHS",
+            "model": "general",
+            "errcode": "s10"
+        },
+        "params": {},
+        "fullPath": "/text?keyword=test&transfrom=auto&transto=zh-CHS&model=general&errcode=s10",
+        "meta": {
+            "mtype": [
+                "textTranslate",
+                "language",
+                "voice"
+            ]
+        },
+        "from": {
+            "name": null,
+            "path": "/",
+            "hash": "",
+            "query": {},
+            "params": {},
+            "fullPath": "/",
+            "meta": {}
+        }
+    },
+    "common": {
+        "CONFIG": {
+            "wuid": 1733636492989,
+            "loginInfo": {},
+            "isIE": 0,
+            "isHitSsrSwitch": true,
+            "isHitWritebookSwitch": false,
+            "isHitAmsSwitch": true,
+            "promotionList": "{\n    \"pc_bottom\":{\n        \"imgsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\",\n        \"qcsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\"\n    },\n    \"pc_middle\":[\n        {\n            \"src\":\"//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c\",\n            \"bgColor\":\"#ffffff\",\n            \"link\":\"\"\n        }\n    ],\n    \"pc_survey\":{\n        \"icon\":\"//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750\",\n        \"link\":\"https://wj.qq.com/s2/8193148/806d/\"\n    }\n}",
+            "bannerData": [],
+            "isHitAsideSurvey": false,
+            "secretCode": 109984457,
+            "uuid": "9929b724-4396-4b53-b75c-74c0a733878e",
+            "referer": "",
+            "approveToken": "64F9C16F05DCB21A111638AAA3459F71113799AD6755318C",
+            "loadTime": 1733636492991,
+            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0",
+            "fcp": "161.35.183.163",
+            "temporaryId": "",
+            "fileId": ""
+        },
+        "hotWords": [],
+        "isFromCollect": false,
+        "psdModify": {
+            "currentStep": 1,
+            "scode": "",
+            "username": ""
+        },
+        "loginStatus": true,
+        "feedBackModule": false,
+        "showPromotionPopup": {
+            "show": false,
+            "type": ""
+        },
+        "showPromotionPCDownload": false,
+        "showShareBomb": false,
+        "shareData": null,
+        "showAppDownLoad": false,
+        "showLoginDialog": false,
+        "showLoading": {
+            "show": false
+        },
+        "toast": {
+            "show": false,
+            "text": "",
+            "loading": false
+        },
+        "modelToast": {
+            "show": false,
+            "text": ""
+        },
+        "selectionGlobalShow": true,
+        "selectionInfo": {
+            "left": 0,
+            "top": 0,
+            "show": false,
+            "from": "",
+            "to": "",
+            "val": "",
+            "area": ""
+        },
+        "showConfirmDialog": false,
+        "promotionList": {
+            "pc_bottom": {
+                "imgsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png",
+                "qcsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png"
+            },
+            "pc_middle": [
+                {
+                    "src": "//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c",
+                    "bgColor": "#ffffff",
+                    "link": ""
+                }
+            ],
+            "pc_survey": {
+                "icon": "//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750",
+                "link": "https://wj.qq.com/s2/8193148/806d/"
+            }
+        },
+        "transTypeTxt": "text",
+        "fixedTabStatus": 0,
+        "bodyTop": 0,
+        "ifHideUserOperation": false
+    },
+    "textTranslate": {
+        "prevTransQuery": "",
+        "translateData": {
+            "translate": {
+                "zly": "zly",
+                "errorCode": "0",
+                "qc_type": "1",
+                "index": "content0",
+                "from": "en",
+                "source": "sogou",
+                "text": "test",
+                "to": "zh-CHS",
+                "id": "9929b724-4396-4b53-b75c-74c0a733878e",
+                "dit": "试验",
+                "orig_text": "test",
+                "md5": ""
+            },
+            "detect": {
+                "zly": "zly",
+                "detect": "en",
+                "errorCode": "0",
+                "language": "英语",
+                "id": "14d9ba20-b527-11ef-bc7a-df1ecdfccb5c",
+                "text": "test"
+            },
+            "sgtkn": "64F9C18005DCB21A111638AAA3459F71113799AD6755318C",
+            "wordCard": {
+                "title": "test",
+                "show": true,
+                "usualDict": [
+                    {
+                        "values": [
+                            "测试；测验；考试；试验；检验；化验；考查；评估；（医疗上的）检查；诊断；实验；（用于科学实验的）试剂；标准；准则"
+                        ],
+                        "pos": "n."
+                    },
+                    {
+                        "values": [
+                            "测试；检验；试验；测验；考查；检查；分析；化验；检测；审查；试用"
+                        ],
+                        "pos": "v."
+                    }
+                ],
+                "secondQuery": "",
+                "exchange": {
+                    "word_third": [
+                        "tests"
+                    ],
+                    "word_ing": [
+                        "testing"
+                    ],
+                    "word_done": [
+                        "tested"
+                    ],
+                    "word_pl": [
+                        "tests"
+                    ],
+                    "word_past": [
+                        "tested"
+                    ]
+                },
+                "levelList": [
+                    "小学",
+                    "初中",
+                    "高中",
+                    "四级",
+                    "六级",
+                    "考研"
+                ]
+            },
+            "detail": {
+                "synonym": [
+                    {
+                        "word_list": [
+                            "monitoring",
+                            "experiment",
+                            "proof",
+                            "try"
+                        ],
+                        "pos": "n.",
+                        "mean": "试验；检验"
+                    },
+                    {
+                        "word_list": [
+                            "proof",
+                            "try out"
+                        ],
+                        "pos": "vt.",
+                        "mean": "试验；测试"
+                    },
+                    {
+                        "word_list": [
+                            "try out",
+                            "try on"
+                        ],
+                        "pos": "vi.",
+                        "mean": "试验；测试"
+                    }
+                ],
+                "wordRootInfo": {
+                    "word_info_list": [
+                        {
+                            "word": "testing",
+                            "pos_mean_info_list": [
+                                {
+                                    "pos": "adj.",
+                                    "mean": "试验的；棘手的"
+                                },
+                                {
+                                    "pos": "n.",
+                                    "mean": "[试验] 测试"
+                                },
+                                {
+                                    "pos": "v.",
+                                    "mean": "测验；考查；受考验（test的ing形式）"
+                                }
+                            ]
+                        },
+                        {
+                            "word": "tested",
+                            "pos_mean_info_list": [
+                                {
+                                    "pos": "adj.",
+                                    "mean": "经受过考验的；经验定的"
+                                },
+                                {
+                                    "pos": "v.",
+                                    "mean": "考验（test的过去分词）；测验"
+                                }
+                            ]
+                        },
+                        {
+                            "word": "tester",
+                            "pos_mean_info_list": [
+                                {
+                                    "pos": "n.",
+                                    "mean": "天盖；检验器；试验员"
+                                }
+                            ]
+                        },
+                        {
+                            "word": "testee",
+                            "pos_mean_info_list": [
+                                {
+                                    "pos": "n.",
+                                    "mean": "应考人，测验对象"
+                                }
+                            ]
+                        }
+                    ],
+                    "root_word": "test"
+                },
+                "word_difference_info": [
+                    {
+                        "common_mean": "试验",
+                        "word_list": [
+                            "test",
+                            " experiment",
+                            " trial",
+                            " try"
+                        ],
+                        "word_mean_info__list": [
+                            {
+                                "difference": "普通用词，含义广，指用科学方法对某物质进行测试以估价其性质或效能等。",
+                                "word": "test"
+                            },
+                            {
+                                "difference": "多指用科学方法在实验室内进行较系统的操作实验以验证、解释或说明某一理论、定理或某一观点等。",
+                                "word": "experiment"
+                            },
+                            {
+                                "difference": "指为观察、研究某事物以区别其真伪、优劣或效果等而进行较长时间的试验或试用过程。",
+                                "word": "trial"
+                            },
+                            {
+                                "difference": "普通用词，多用于口语或非正式场合，指试一试。",
+                                "word": "try"
+                            }
+                        ]
+                    },
+                    {
+                        "common_mean": "考试",
+                        "word_list": [
+                            "examination",
+                            " test",
+                            " quiz",
+                            " exam"
+                        ],
+                        "word_mean_info__list": [
+                            {
+                                "difference": "通常指为检查学生知识或能力而举行的正式考试，有时也指临时考试。",
+                                "word": "examination"
+                            },
+                            {
+                                "difference": "多指有具体目的的临时性考试或小考。",
+                                "word": "test"
+                            },
+                            {
+                                "difference": "指时间较短，随时进行的口头或书面的非正式测验。",
+                                "word": "quiz"
+                            },
+                            {
+                                "difference": "系examination的缩略形式，口语用词，通俗。",
+                                "word": "exam"
+                            }
+                        ]
+                    }
+                ],
+                "word_group": [
+                    {
+                        "brief_definition": "验血",
+                        "phrase": "blood test",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "试车；试验；试用",
+                        "phrase": "test drive",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "彻底检验；考验",
+                        "phrase": "test out",
+                        "pos": "phr.v"
+                    },
+                    {
+                        "brief_definition": "测试结果；试验结果；检验结果",
+                        "phrase": "test result",
+                        "pos": "phr."
+                    },
+                    {
+                        "brief_definition": "研究生管理学入学考试",
+                        "phrase": "Graduate Management Admission Test",
+                        "pos": "phr."
+                    },
+                    {
+                        "brief_definition": "汽车驾驶员行车执照考试",
+                        "phrase": "driving test",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "试（题）卷；试纸",
+                        "phrase": "test paper",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "最终的考试；最终的测试；终极测试",
+                        "phrase": "final test",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "进行测试",
+                        "phrase": "have a test",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "听力测试",
+                        "phrase": "listening test",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "突击测试",
+                        "phrase": "surprise test",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "参加考试",
+                        "phrase": "take the test",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "测试样本；试验样本；测试样品",
+                        "phrase": "test sample",
+                        "pos": "phr."
+                    },
+                    {
+                        "brief_definition": "图灵测试",
+                        "phrase": "Turing test",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "分班考试, 分级考试",
+                        "phrase": "placement test",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "经得起时间的考验",
+                        "phrase": "stand the test of time",
+                        "pos": "idm"
+                    },
+                    {
+                        "brief_definition": "摸清底细",
+                        "phrase": "test the waters",
+                        "pos": "idm"
+                    },
+                    {
+                        "brief_definition": "试飞",
+                        "phrase": "flight test",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "试管；试管的；实验（性）的",
+                        "phrase": "test tube",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "道路试验；路试；检验",
+                        "phrase": "road test",
+                        "pos": "n."
+                    }
+                ],
+                "bilingual": [
+                    {
+                        "source": "The spelling <em>test</em> was a dream.",
+                        "target": "拼写测试就像做梦一样。",
+                        "url": ""
+                    },
+                    {
+                        "source": "The spelling <em>test</em> was a piece of cake.",
+                        "target": "拼写测试非常容易。",
+                        "url": ""
+                    },
+                    {
+                        "source": "I have a listening <em>test</em> next week.",
+                        "target": "我下周有一个听力测试。",
+                        "url": ""
+                    },
+                    {
+                        "source": "It's an amazing <em>test</em> of strength.",
+                        "target": "这是一个惊人的力量测试。",
+                        "url": ""
+                    },
+                    {
+                        "source": "After the <em>test</em> you can do the Fun and Games lesson.",
+                        "target": "测试后你可以进行趣味游戏课。",
+                        "url": ""
+                    },
+                    {
+                        "source": "He's come up with a new way to <em>test</em> his ideas.",
+                        "target": "他想出了一个测试他想法的新方法。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Her new Ebola <em>test</em> is safe to transport and easy to use.",
+                        "target": "她的新埃博拉测试安全易用，便于运输。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Liquid silk fibers could be used to make an Ebola <em>test</em> that did not need to be refrigerated.",
+                        "target": "液态蚕丝纤维可以用来制作不需要冷藏的埃博拉测试。",
+                        "url": ""
+                    },
+                    {
+                        "source": "As a <em>test</em>, six people lived in a Mars-like environment in Hawaii for a year before \"returning to Earth\" recently.",
+                        "target": "作为测试，六个人在夏威夷的类似火星的环境中生活了一年，最近“返回地球”。",
+                        "url": ""
+                    },
+                    {
+                        "source": "The <em>test</em>er worked late to finish the <em>test</em> cases.",
+                        "target": "测试员加班完成了测试用例。",
+                        "url": ""
+                    }
+                ],
+                "baike": {
+                    "showMore": true,
+                    "list": [
+                        {
+                            "lemmaTitle": "test",
+                            "link": "https://baike.sogou.com/v153792502.htm?ch=sogou.fanyi",
+                            "abstract": "test，意为测试，在中学课本中有出现，一般都以“学科名称+test”的形式出现，如：English test,Chinese test等。 还有一种解释是在软件中出现，一般用于检测软件好坏程度的单词当中。 此单词通俗易懂，意思简单。",
+                            "wapPic": "//img01.sogoucdn.com/v2/thumb/retype_exclude_gif/ext/auto/q/80/crop/xy/ai/w/140/h/140/resize/w/140?appid=201005&sign=e8781f0712a4c893a6653d658500487f&url=https%3A%2F%2Fpic.baike.soso.com%2Fugc%2Fbaikepic2%2F11637%2F20220609202505-440527148_png_1327_877_102205.jpg%2F0",
+                            "pcPic": "//img03.sogoucdn.com/v2/thumb/retype_exclude_gif/ext/auto/q/80/crop/xy/ai/w/140/h/140/resize/w/140?appid=201005&sign=e8781f0712a4c893a6653d658500487f&url=https%3A%2F%2Fpic.baike.soso.com%2Fugc%2Fbaikepic2%2F11637%2F20220609202505-440527148_png_1327_877_102205.jpg%2F0"
+                        },
+                        {
+                            "lemmaTitle": "test",
+                            "link": "https://baike.sogou.com/v64825130.htm?ch=sogou.fanyi",
+                            "abstract": "Test命令将两个操作数进行逻辑与运算，并根据运算结果设置相关的标志位。但是，Test命令的两个操作数不会被改变。运算结果在设置过相关标记位后会被丢弃。",
+                            "wapPic": "",
+                            "pcPic": ""
+                        }
+                    ]
+                }
+            },
+            "book": {
+                "yingyinNormal": [
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/47650e924c1da36531b1a1e48bb9219d_7103.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/bb4c02ff007ba95f89037e7df64f1aed_66141.mp3",
+                        "isLavafox": true,
+                        "en": "What were your <em>test</em> results?",
+                        "zh": "你的测试结果是什么？",
+                        "videoNameZh": "《分歧者：异类觉醒》",
+                        "videoNameEn": "《Divergent》",
+                        "url": "http://bisentence_movie.sogou.com/908387150c55ccafffa00f2fdbaa9cd4_2dd60d1b3e36b1a5edbc6caf1a3cd18aa64fbc98"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/69e52acd9e09b6a2ed378507a165e971_14638.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/695f34c653e979a86d42fcdf8084536d_57504.mp3",
+                        "isLavafox": true,
+                        "en": "Just take the <em>test</em>, B. Stop it.",
+                        "zh": "总之自己测试一下，B。别拿出来。",
+                        "videoNameZh": "《绯闻女孩 第一季》",
+                        "videoNameEn": "《Gossip Girl Season 1》",
+                        "url": "http://bisentence_movie.sogou.com/22ec3686e3c1b0b2dec5faee5adbaa78_599bbd9c7c90bb063f24bfcda398659f22ef66a9"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/b6871753bac5738b5d523cab5247cac2_31186.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/a7bea963757c2318c5ce96011feb0e43_13571.mp3",
+                        "isLavafox": true,
+                        "en": "Looks like the professor is about to <em>test</em> a door!",
+                        "zh": "看来教授要测试门了。",
+                        "videoNameZh": "《怪兽大学》",
+                        "videoNameEn": "《Monsters University》",
+                        "url": "http://bisentence_movie.sogou.com/82f2e0b3290760dc245ca057da3a3852_213c29a48b14a23d28b47313d359c3be9686b946"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/801dfe77494721a1ea27b2da97ba5878_52038.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/3d7d68d4117e240872faf5e9ce4008ba_48220.mp3",
+                        "isLavafox": true,
+                        "en": "I'd like to climb your hair, <em>test</em> that out.",
+                        "zh": "我也想爬上你的头发测试一下。",
+                        "videoNameZh": "《白日梦想家》",
+                        "videoNameEn": "《The Secret Life of Walter Mitty》",
+                        "url": "http://bisentence_movie.sogou.com/7bd2d18858ecc592ab99d0ae6d7e82c0_de61bdfeda4c50df404c9e1a4ea104aab7da9ba9"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/dfdc97c7eab31e173bc0bccd4824440f_23407.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/58131f1bfa00713905b5b8f35921031b_71556.mp3",
+                        "isLavafox": true,
+                        "en": "Not because of a <em>test</em> or a Web site, but because...",
+                        "zh": "不能因为一场测试或某个网站，而是因为...",
+                        "videoNameZh": "《生活大爆炸 第九季》",
+                        "videoNameEn": "《The Big Bang Theory Season 9》",
+                        "url": "http://bisentence_movie.sogou.com/e944fcdde95fc74210698377a1987891_509c9336517b1b304e6cf619eefe73839b6e857d"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/69e52acd9e09b6a2ed378507a165e971_14638.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/7e1e53c66811ab49bc422ca85648bca8_27592.mp3",
+                        "isLavafox": true,
+                        "en": "Yes, I've been very stressed. I had that chem <em>test</em> on Friday.",
+                        "zh": "是的，我最近烦躁，我星期五就作了测试。",
+                        "videoNameZh": "《绯闻女孩 第一季》",
+                        "videoNameEn": "《Gossip Girl Season 1》",
+                        "url": "http://bisentence_movie.sogou.com/6c6b1256a90900e2432a197b5e6efe47_5c2dea286e1ce6f6a37440ea4f17def4d2563f8e"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/8b3da16ecbe350aacc1a7e4a01d210bc_49869.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/31f6c0301554173eba09a8dcae5361ef_31344.mp3",
+                        "isLavafox": true,
+                        "en": "Bravery <em>test</em>. First one to take his hand out is the sidekick.",
+                        "zh": "勇敢度测试，先把手拿出来的人就是跟班。",
+                        "videoNameZh": "《生活大爆炸 第四季》",
+                        "videoNameEn": "《The Big Bang Theory Season 4》",
+                        "url": "http://bisentence_movie.sogou.com/ed04ff58295364d03f253d55b82ec61b_0294429e5a7eda1ca6293298441133dd0d2e9e16"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/886b76b0c552c22c57062be63cf27261_37722.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/b305ed4c01130a4a6a109c078ac0f942_54692.mp3",
+                        "isLavafox": true,
+                        "en": "That was a <em>test</em>, and you just failed. Damn it! Rookie mistake!",
+                        "zh": "那是个测试，你没过关。该死的！新手失误！",
+                        "videoNameZh": "《老友记 第九季》",
+                        "videoNameEn": "《Friends Season 9》",
+                        "url": "http://bisentence_movie.sogou.com/df90c7c86b5d5361520486d1581ef179_f9ff4b0583336d61e8cc83ef115832921508ebd5"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/47650e924c1da36531b1a1e48bb9219d_7103.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/a5b241427cbd09cb3eb80581c3459bdc_50927.mp3",
+                        "isLavafox": true,
+                        "en": "That's not supposed to be a choice. The <em>test</em> should tell us what to do.",
+                        "zh": "根本没有所谓的选择，测试应该告诉我们做什么。",
+                        "videoNameZh": "《分歧者：异类觉醒》",
+                        "videoNameEn": "《Divergent》",
+                        "url": "http://bisentence_movie.sogou.com/2f2cb9444b52379ba8a37037a0c615bc_e555fba8d868e0491bf2fa3b230511aa4bcc384d"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/b0aac413f69a971e58772352502a07e3_67340.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/cc04a7bdc7afcba89730e9e3bbd1c6b1_12220.mp3",
+                        "isLavafox": true,
+                        "en": "And yet weren't there two accidents on your <em>test</em> track during a rainstorm?",
+                        "zh": "但在暴风雨中的测试中是不是出现过两次事故？",
+                        "videoNameZh": "《傲骨贤妻第七季》",
+                        "videoNameEn": "《The Good Wife Season 7》",
+                        "url": "http://bisentence_movie.sogou.com/5b3125b774c978b19d887dc4a5fc4d19_afe45bfa3a2c473ed0115a2a7e1954ca12ccaa6a"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/8b3da16ecbe350aacc1a7e4a01d210bc_49869.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/984adf3c779b194841b1658b61cef1ae_29514.mp3",
+                        "isLavafox": true,
+                        "en": "Are you crazy? Perhaps. Are you scared? No. But it's a stupid <em>test</em>.",
+                        "zh": "你疯了吗？也许吧，你怕了吗？没有，但这测试很白痴。",
+                        "videoNameZh": "《生活大爆炸 第四季》",
+                        "videoNameEn": "《The Big Bang Theory Season 4》",
+                        "url": "http://bisentence_movie.sogou.com/af6825bc44954089668dd897f307bd3f_ebf4630be5d16b5fbe4c8308defe1ccfd66ed8ea"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/69e52acd9e09b6a2ed378507a165e971_14638.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/62e5c7c659d7413fb3ac419fbf196c10_47939.mp3",
+                        "isLavafox": true,
+                        "en": "Just take the <em>test</em>. You need to know if you and Chuck are gonna have a baby.",
+                        "zh": "测试一下，你要确定一下，你是不是怀了恰克的孩子。",
+                        "videoNameZh": "《绯闻女孩 第一季》",
+                        "videoNameEn": "《Gossip Girl Season 1》",
+                        "url": "http://bisentence_movie.sogou.com/0e57dced52483fe73b57fc9fd450e43e_e1c3b8540dad3a8da59361fe2531ec9442b84941"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/14b4db1d01990f1eebbc67159676e6fd_60172.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/fd192e302a94909e8768e000e17c1171_10282.mp3",
+                        "isLavafox": true,
+                        "en": "This place, it's not what we thought it was. It's not a prison, it's a <em>test</em>.",
+                        "zh": "这地方，并不是我们想的那样，这不是牢笼，是个测试。",
+                        "videoNameZh": "《移动迷宫》",
+                        "videoNameEn": "《The Maze Runner》",
+                        "url": "http://bisentence_movie.sogou.com/8712306bf81570de8931566270c0cfb6_aa7e2c6b3b530715c25042a42c0299e1ce12e6f1"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/47650e924c1da36531b1a1e48bb9219d_7103.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/6ba2f56fdb8a6838d2a426959831d2ca_40375.mp3",
+                        "isLavafox": true,
+                        "en": "I had to ask you something. You weren't sick the day you took your aptitude <em>test</em>, were you?",
+                        "zh": "我要问你一些事，你派别倾向测试那天并没有生病，对吧？",
+                        "videoNameZh": "《分歧者：异类觉醒》",
+                        "videoNameEn": "《Divergent》",
+                        "url": "http://bisentence_movie.sogou.com/25eff9157fb6300e52a670256b02c10f_2179164bb8674d6c9e4063668f4054527c9f38b8"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/aa7a748a86497e02e2b0a5098f3017b8_12619.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/236dae324a34770dcb60d755c167fe9f_76415.mp3",
+                        "isLavafox": true,
+                        "en": "You paid that? Free trial. I took the <em>test</em> to see if I qualify for the free trial.",
+                        "zh": "你付款了吗？免费试听，我做了测试，看看我符不符合免费试听资格。",
+                        "videoNameZh": "《女孩成长记 第一季》",
+                        "videoNameEn": "《Girl Meets World Season 1》",
+                        "url": "http://bisentence_movie.sogou.com/8c1a852bc8321d9e6f141327481e0d04_75f1840c74798faf1491f940f228d0592268e794"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/2932ffdc99c11566a817682dbb06e964_57579.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/205a45fff3330f543980c45133ed13cf_18255.mp3",
+                        "isLavafox": true,
+                        "en": "We have only three passing scores on the deep space navigation <em>test</em>. Alai, Bean and Ender.",
+                        "zh": "只有三个学员通过了深空导航测试，有阿莱和小豆子，还有安德。",
+                        "videoNameZh": "《安德的游戏》",
+                        "videoNameEn": "《Enders Game》",
+                        "url": "http://bisentence_movie.sogou.com/bd5faa1bfcdfca00c984a565fe0d4418_95ff96c21f6159b8d440fd7832ffb232069ffc1d"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/ddeda38701415f391059f60a14ca0ada_53507.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/d0a338e6e15a55e292007eb457712673_39667.mp3",
+                        "isLavafox": true,
+                        "en": "Let's just take the <em>test</em>. No, no, no, I don't want to. Oh, well, 'cause you know we're gonna do bad.",
+                        "zh": "我们接受测试。不，我不想。因为你知道我们的分数会很差。",
+                        "videoNameZh": "《生活大爆炸 第八季》",
+                        "videoNameEn": "《The Big Bang Theory Season 8》",
+                        "url": "http://bisentence_movie.sogou.com/a004a388add4e561bb4bf0f9371b26ce_7daa9a793b40825c1064e79a38baa44857b02783"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/ee318beaabea53079a9d1c2783f6396b_8824.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/86e99dd7978fb377d29cca6c5697b800_61111.mp3",
+                        "isLavafox": true,
+                        "en": "Surrender your gun and badge. And your next baseline <em>test</em> is out of my hands. Thank you, madam.",
+                        "zh": "把你的枪和警徽交出来。你下次基准测试我就管不着了。谢谢长官。",
+                        "videoNameZh": "《银翼杀手》",
+                        "videoNameEn": "《Blade Runner 2049》",
+                        "url": "http://bisentence_movie.sogou.com/1b7e5a30d4631fd85c258df08a2bda0b_d6f37a4d22b890dc4e47ffa4bf7c47291d47e94d"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/368277e4523e7b27b12887e16057df56_64015.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/a19cc34d7a6054ed325ad130bed52643_3876.mp3",
+                        "isLavafox": true,
+                        "en": "Our hosts began to pass the Turing <em>test</em> after the first year. But that wasn't enough for Arnold.",
+                        "zh": "第一年后，接待员们开始通过了图灵测试，但是阿诺德不满足于此。",
+                        "videoNameZh": "《西部世界 第一季》",
+                        "videoNameEn": "《Westworld Season 1》",
+                        "url": "http://bisentence_movie.sogou.com/412aa157914ab33c06f41ebdae96740e_21c732973c275179aec20af71a8bcf7d76575824"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/ddeda38701415f391059f60a14ca0ada_53507.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/0a86f3cff494a2a9539ba21003e5fda5_16188.mp3",
+                        "isLavafox": true,
+                        "en": "The answer is one simple <em>test</em> away. You know, it's like when I thought there was a possum in my closet.",
+                        "zh": "一个简单测试便知答案，就像那次我以为我的衣柜里有负鼠一样。",
+                        "videoNameZh": "《生活大爆炸 第八季》",
+                        "videoNameEn": "《The Big Bang Theory Season 8》",
+                        "url": "http://bisentence_movie.sogou.com/4faed07a7af4886f66183939da29cab7_7baea32e3c411448644aa286b5b83006ee934dc7"
+                    }
+                ]
+            },
+            "pic": "",
+            "voice": {
+                "phonetic": [
+                    {
+                        "text": "test",
+                        "type": "uk",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/277_test_uk.mp3"
+                    },
+                    {
+                        "text": "test",
+                        "type": "usa",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/277_test_usa.mp3"
+                    }
+                ]
+            },
+            "dictType": "oxford_buchong",
+            "kaoyan": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 15,
+                        "pos": "n/v",
+                        "chinese": "试验; 测试",
+                        "sense_tier_ratio": 46.88
+                    },
+                    {
+                        "sense_tier": 9,
+                        "pos": "n/v",
+                        "chinese": "测验; 考试",
+                        "sense_tier_ratio": 28.12
+                    },
+                    {
+                        "sense_tier": 4,
+                        "pos": "n/v",
+                        "chinese": "[医学]化验; 检查",
+                        "sense_tier_ratio": 12.5
+                    },
+                    {
+                        "sense_tier": 4,
+                        "pos": "n/v",
+                        "chinese": "考验; 检验",
+                        "sense_tier_ratio": 12.5
+                    }
+                ],
+                "word": "test",
+                "word_level_phrase_info": [
+                    {
+                        "brief_definition": "研究生管理学入学考试",
+                        "phrase": "Graduate Management Admission Test",
+                        "pos": "phr"
+                    },
+                    {
+                        "brief_definition": "实验室测试",
+                        "phrase": "laboratory test",
+                        "pos": "phr"
+                    },
+                    {
+                        "brief_definition": "测试样本；试验样本；测试样品",
+                        "phrase": "test sample",
+                        "pos": "phr"
+                    }
+                ],
+                "direction_info": {
+                    "ranges": 12,
+                    "description": "数据源自2012-2023年12年间全国考研试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2012-2023年全国考研英语一和考研英语二共24套考研试卷，包括阅读、完型填空、翻译、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选全国考研考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2012-2023年12年间全国考研英语一和考研英语二试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 5,
+                "word_family": {
+                    "derivative_info_list": [
+                        {
+                            "derivative_info_list": [],
+                            "word": "tester",
+                            "mean": "n. 试验者；测试者；天盖；华盖；测试仪；测试器；考官；试用（产）品"
+                        },
+                        {
+                            "derivative_info_list": [],
+                            "word": "testing",
+                            "mean": "v. 试验；测验；化验；考验；（test的现在分词）"
+                        },
+                        {
+                            "derivative_info_list": [],
+                            "word": "tested",
+                            "mean": "v. 试验；测验；化验；考验；（test的过去分词）"
+                        }
+                    ],
+                    "word": "test",
+                    "mean": "n. 试验；测试；烤钵；灰皿；甲壳；介壳；被囊；检验；标准"
+                },
+                "total_exam_freq": 32,
+                "sense": {
+                    "sense_num": 4,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "试验; 测试",
+                            "pos": "n/v",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "Surveys and <highlight>test</highlight> samples have also become important for understanding the larger landscapes that contain archaeological sites.",
+                                    "month": -1,
+                                    "source": "英语一",
+                                    "coll": "",
+                                    "sentence_trans": "调查和测试样本对于了解包含考古遗址的更大景观也变得很重要。",
+                                    "year": 2014,
+                                    "type": "阅读理解B",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "They often include a certain amount of digging to <highlight>test</highlight> for buried materials at selected points across a landscape.",
+                                    "month": -1,
+                                    "source": "英语一",
+                                    "coll": "",
+                                    "sentence_trans": "它们通常包括一定量的挖掘，以测试景观中选定点的掩埋材料。",
+                                    "year": 2014,
+                                    "type": "阅读理解B",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "To <highlight>test</highlight> this idea, he turned to the university-admissions process.",
+                                    "month": -1,
+                                    "source": "英语一",
+                                    "coll": "",
+                                    "sentence_trans": "为了验证这个想法，他转向了大学招生程序。",
+                                    "year": 2013,
+                                    "type": "完型填空",
+                                    "day": -1
+                                }
+                            ]
+                        },
+                        {
+                            "en": "",
+                            "zh": "测验; 考试",
+                            "pos": "n/v",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "At a New Hampshire high school learning is not something of books and <highlight>tests</highlight> and mechanical memorization, but practical.",
+                                    "month": -1,
+                                    "source": "英语二",
+                                    "coll": "",
+                                    "sentence_trans": "在新罕布什尔州一所高中里学习不是书本、考试和机械记忆，而是实践。",
+                                    "year": 2018,
+                                    "type": "阅读理解A",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "The bar exam is truly a stern enough <highlight>test</highlight> for a would-be lawyer.",
+                                    "month": -1,
+                                    "source": "英语一",
+                                    "coll": "",
+                                    "sentence_trans": "律师考试对一个想成为律师的人来说确实是一个足够严峻的考验。",
+                                    "year": 2014,
+                                    "type": "阅读理解A",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Some students might do well on state <highlight>tests</highlight> without completing their homework.",
+                                    "month": -1,
+                                    "source": "英语二",
+                                    "coll": "",
+                                    "sentence_trans": "有些学生可能在没有完成作业的情况下，在州考中表现不错。",
+                                    "year": 2012,
+                                    "type": "阅读理解A",
+                                    "day": -1
+                                }
+                            ]
+                        },
+                        {
+                            "en": "the result of a medical examination or analytical procedure",
+                            "zh": "[医学]化验; 检查",
+                            "pos": "n/v",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "Courts should restrict access to genetic <highlight>tests</highlight>.",
+                                    "month": -1,
+                                    "source": "英语二",
+                                    "coll": "",
+                                    "sentence_trans": "法院应该限制基因测试。",
+                                    "year": 2012,
+                                    "type": "阅读理解A",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Genetic <highlight>tests</highlight> are not reliable",
+                                    "month": -1,
+                                    "source": "英语二",
+                                    "coll": "",
+                                    "sentence_trans": "基因测试不可靠。",
+                                    "year": 2012,
+                                    "type": "阅读理解A",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Last year a federal task-force urged reform for patents related to genetic <highlight>tests</highlight>.",
+                                    "month": -1,
+                                    "source": "英语二",
+                                    "coll": "",
+                                    "sentence_trans": "去年，一个联邦特别工作组敦促改革与基因测试相关的专利。",
+                                    "year": 2012,
+                                    "type": "阅读理解A",
+                                    "day": -1
+                                }
+                            ]
+                        },
+                        {
+                            "en": "an event or situation that reveals the strength or quality of someone or something by putting them under strain",
+                            "zh": "考验; 检验",
+                            "pos": "n/v",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "Australia's MAAL (multinational anti-avoidance law), and India's SEP (significant economic presence) <highlight>test</highlight>, to name but a few.",
+                                    "month": -1,
+                                    "source": "英语一",
+                                    "coll": "",
+                                    "sentence_trans": "仅举几个例子，澳大利亚的多国反避税法和印度的重要经济存在测试。",
+                                    "year": 2020,
+                                    "type": "阅读理解A",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Legal scholars say the Vermont case will offer a precedent-setting <highlight>test</highlight> of how far those powers extend.",
+                                    "month": -1,
+                                    "source": "英语一",
+                                    "coll": "",
+                                    "sentence_trans": "但法律学者表示，佛蒙特州案将为这些权力的延伸提供一个创先例的测试。",
+                                    "year": 2012,
+                                    "type": "阅读理解A",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "In the author's view, the Vermont case will <highlight>test</highlight> the limits of states’ power over nuclear issues.",
+                                    "month": -1,
+                                    "source": "英语一",
+                                    "coll": "",
+                                    "sentence_trans": "在作者看来，佛蒙特案将考验各州在核问题上的权力极限。",
+                                    "year": 2012,
+                                    "type": "阅读理解A",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            "CET6": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 54,
+                        "pos": "n/v",
+                        "chinese": "测验; 考试",
+                        "sense_tier_ratio": 87.1
+                    },
+                    {
+                        "sense_tier": 4,
+                        "pos": "n/v",
+                        "chinese": "试验; 检验",
+                        "sense_tier_ratio": 6.45
+                    },
+                    {
+                        "sense_tier": 2,
+                        "pos": "n/v",
+                        "chinese": "[医学]化验; 检查",
+                        "sense_tier_ratio": 3.23
+                    },
+                    {
+                        "sense_tier": 2,
+                        "pos": "n/v",
+                        "chinese": "考验; 艰难处境",
+                        "sense_tier_ratio": 3.23
+                    }
+                ],
+                "word": "test",
+                "total_exam_freq": 62,
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2016.6-2023.6年8年间全六级试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight>考纲释义</highlight>\n精选实考、考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2016-2023年51套试卷，包括阅读、听力、翻译等所有题型。\n\n<highlight>真题例句</highlight>\n精选2016-2023年8年间全六级试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 5,
+                "word_family": {
+                    "derivative_info_list": [
+                        {
+                            "derivative_info_list": [],
+                            "word": "tester",
+                            "mean": "n. 试验者；测试者；天盖；华盖；测试仪；测试器；考官；试用（产）品"
+                        }
+                    ],
+                    "word": "test",
+                    "mean": "n. 试验；测试；烤钵；灰皿；甲壳；介壳；被囊；检验；标准"
+                },
+                "word_level_phrase_info": [
+                    {
+                        "brief_definition": "测试结果；试验结果；检验结果",
+                        "phrase": "test result",
+                        "pos": "phr"
+                    }
+                ],
+                "sense": {
+                    "sense_num": 4,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "测验; 考试",
+                            "pos": "n/v",
+                            "synonyms": "exam,quiz",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "In a statement, the high street retailer defended itself by saying that the burnt clothing had failed safety <highlight>tests</highlight>.",
+                                    "month": 12,
+                                    "source": "CET6",
+                                    "coll": "",
+                                    "sentence_trans": "在一份声明中，高街零售商为自己辩护说，烧毁的衣服没有通过安全测试。",
+                                    "year": 2021,
+                                    "type": "阅读理解B",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "The products to which the media are referring have been <highlight>tested</highlight> in external laboratories.",
+                                    "month": 12,
+                                    "source": "CET6",
+                                    "coll": "",
+                                    "sentence_trans": "媒体所指的产品已经在外部实验室进行了测试。",
+                                    "year": 2021,
+                                    "type": "阅读理解B",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "<highlight>Test</highlight>-oriented teaching.",
+                                    "month": 6,
+                                    "source": "CET6",
+                                    "coll": "",
+                                    "sentence_trans": "应试教学。",
+                                    "year": 2021,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                }
+                            ]
+                        },
+                        {
+                            "en": "",
+                            "zh": "试验; 检验",
+                            "pos": "n/v",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "A laboratory and <highlight>test</highlight> range was already set up there.",
+                                    "month": 6,
+                                    "source": "CET6",
+                                    "coll": "",
+                                    "sentence_trans": "那里已经建立了一个实验室和检验场。",
+                                    "year": 2021,
+                                    "type": "听力",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "This was recently <highlight>tested</highlight> in research, which analyzed the teams of 73 new companies across a range of industries such as IT, medicine and energy.",
+                                    "month": 6,
+                                    "source": "CET6",
+                                    "coll": "",
+                                    "sentence_trans": "这一点最近在研究中得到了验证，该研究分析了IT、医药和能源等一系列行业73家新公司的团队。",
+                                    "year": 2021,
+                                    "type": "听力",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "After the time of <highlight>testing</highlight> comes a time of reflection and then of action.",
+                                    "month": 6,
+                                    "source": "CET6",
+                                    "coll": "",
+                                    "sentence_trans": "在测试时间之后是反思时间，然后是行动时间。",
+                                    "year": 2021,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                }
+                            ]
+                        },
+                        {
+                            "synonyms": "",
+                            "en": "the result of a medical examination or analytical procedure",
+                            "zh": "[医学]化验; 检查",
+                            "pos": "n/v",
+                            "antonyms": ""
+                        },
+                        {
+                            "synonyms": "trial,experiment,evaluation",
+                            "en": "an event or situation that reveals the strength or quality of someone or something by putting them under strain",
+                            "zh": "考验; 艰难处境",
+                            "pos": "n/v",
+                            "antonyms": ""
+                        }
+                    ]
+                },
+                "word_usage": [
+                    {
+                        "usage": "test可以是名词，可以是动词，作为名词时前面要加冠词the或a，如put to the test(试验)。"
+                    }
+                ],
+                "exchange_info": {
+                    "word_third": [
+                        "tests"
+                    ],
+                    "word_ing": [
+                        "testing"
+                    ],
+                    "word_done": [
+                        "tested"
+                    ],
+                    "word_pl": [
+                        "tests"
+                    ],
+                    "word_past": [
+                        "tested"
+                    ]
+                }
+            },
+            "CET4": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 47,
+                        "pos": "n/v",
+                        "chinese": "测验; 考试",
+                        "sense_tier_ratio": 90.38
+                    },
+                    {
+                        "sense_tier": 5,
+                        "pos": "n/v",
+                        "chinese": "[医学]化验; 检查",
+                        "sense_tier_ratio": 9.62
+                    },
+                    {
+                        "sense_tier": 0,
+                        "pos": "n/v",
+                        "chinese": "考验; 艰难处境",
+                        "sense_tier_ratio": 0
+                    }
+                ],
+                "word": "test",
+                "word_level_phrase_info": [
+                    {
+                        "brief_definition": "验血",
+                        "phrase": "blood test",
+                        "pos": "n"
+                    },
+                    {
+                        "brief_definition": "试车；试验；试用",
+                        "phrase": "test drive",
+                        "pos": "n"
+                    },
+                    {
+                        "brief_definition": "对...进行测试",
+                        "phrase": "test out",
+                        "pos": "vphr"
+                    }
+                ],
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2016.6-2023.6年8年间全四级试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight>考纲释义</highlight>\n精选实考、考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2016-2023年51套试卷，包括阅读、听力、翻译等所有题型。\n\n<highlight>真题例句</highlight>\n精选2016-2023年8年间试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 5,
+                "word_family": {
+                    "derivative_info_list": [
+                        {
+                            "derivative_info_list": [],
+                            "word": "tester",
+                            "mean": "n. 试验者；测试者；天盖；华盖；测试仪；测试器；考官；试用（产）品"
+                        }
+                    ],
+                    "word": "test",
+                    "mean": "n. 试验；测试；烤钵；灰皿；甲壳；介壳；被囊；检验；标准"
+                },
+                "total_exam_freq": 52,
+                "sense": {
+                    "sense_num": 3,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "测验; 考试",
+                            "pos": "n/v",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "What do we learn about many of the students in the second <highlight>test</highlight> group after the phone rang?",
+                                    "month": 9,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "在电话响了之后，我们对第二组的很多学生了解到了什么？",
+                                    "year": 2020,
+                                    "type": "听力",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Making last-minute preparations for <highlight>tests</highlight> may be less effective than sleeping.",
+                                    "month": 6,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "为考试做最后一分钟的准备可能不如睡觉有效。",
+                                    "year": 2016,
+                                    "type": "听力",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "You are not allowed to drive a car unsupervised until you have passed a driving <highlight>test</highlight>.",
+                                    "month": 6,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "在你通过驾驶考试之前，不允许在无人监督的情况下驾驶汽车。",
+                                    "year": 2016,
+                                    "type": "听力",
+                                    "day": -1
+                                }
+                            ]
+                        },
+                        {
+                            "en": "the result of a medical examination or analytical procedure",
+                            "zh": "[医学]化验; 检查",
+                            "pos": "n/v",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "You can <highlight>test</highlight> yourself by drinking a large glass of milk.",
+                                    "month": 12,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "你可以喝一大杯牛奶来测试自己。",
+                                    "year": 2020,
+                                    "type": "听力",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "To <highlight>test</highlight> their eyesight using a phone app.",
+                                    "month": 9,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "用手机应用程序测试他们的视力。",
+                                    "year": 2020,
+                                    "type": "听力",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "A study found that patients got <highlight>tests</highlight> and treatments faster if they were cared for by iPad-equipped residents.",
+                                    "month": 6,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "一项研究发现，如果患者得到配备iPad的居民的照料，他们可以更快地接受化验和治疗。",
+                                    "year": 2016,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                }
+                            ]
+                        },
+                        {
+                            "synonyms": "",
+                            "en": "an event or situation that reveals the strength or quality of someone or something by putting them under strain",
+                            "zh": "考验; 艰难处境",
+                            "pos": "n/v",
+                            "antonyms": ""
+                        }
+                    ]
+                },
+                "word_usage": [
+                    {
+                        "usage": "test可以是名词，可以是动词，作为名词时前面要加冠词the或a，如put to the test(试验)。"
+                    }
+                ],
+                "exchange_info": {
+                    "word_third": [
+                        "tests"
+                    ],
+                    "word_ing": [
+                        "testing"
+                    ],
+                    "word_done": [
+                        "tested"
+                    ],
+                    "word_pl": [
+                        "tests"
+                    ],
+                    "word_past": [
+                        "tested"
+                    ]
+                }
+            },
+            "gaokao": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 23,
+                        "pos": "n/v",
+                        "chinese": "测验; 考试",
+                        "sense_tier_ratio": 95.83
+                    },
+                    {
+                        "sense_tier": 1,
+                        "pos": "n/v",
+                        "chinese": "考验; 艰难处境",
+                        "sense_tier_ratio": 4.17
+                    }
+                ],
+                "word": "test",
+                "word_level_phrase_info": [
+                    {
+                        "brief_definition": "验血",
+                        "phrase": "blood test",
+                        "pos": "phr."
+                    }
+                ],
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2015-2022年8年间全国卷和自主命题省市高考卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2015-2022年全国卷高考试卷，包括阅读、完形、单选、填空、听力、改错、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选各省市考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2015-2022年8年间全国卷和自主命题省市高考卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 5,
+                "word_family": {
+                    "derivative_info_list": [
+                        {
+                            "derivative_info_list": [],
+                            "word": "testing",
+                            "mean": "v. 试验；测验；化验；考验；（test的现在分词）"
+                        }
+                    ],
+                    "word": "test",
+                    "mean": "n. 试验；测试；烤钵；灰皿；甲壳；介壳；被囊；检验；标准"
+                },
+                "total_exam_freq": 24,
+                "sense": {
+                    "sense_num": 2,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "测验; 考试",
+                            "pos": "n/v",
+                            "synonyms": "exam,quiz",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "The researchers then <highlight>tested</highlight> how the monkeys combined— or added — the symbols to get the reward.",
+                                    "month": -1,
+                                    "source": "全国卷3",
+                                    "coll": "",
+                                    "sentence_trans": "然后，研究人员测试了这些猴子是如何结合或添加这些符号来获得奖励的。",
+                                    "year": 2019,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "The Transition is now going through crash <highlight>tests</highlight> to make sure it meets federal safety standards.",
+                                    "month": -1,
+                                    "source": "全国卷2",
+                                    "coll": "",
+                                    "sentence_trans": "目前“过渡号”汽车正在进行碰撞测试，以确保它符合联邦安全标准。",
+                                    "year": 2017,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "To <highlight>test</highlight> for that possibility, Dr. Berger looked at how people spread a particular set of news stories.",
+                                    "month": -1,
+                                    "source": "全国卷3",
+                                    "coll": "",
+                                    "sentence_trans": "为了测试这种可能性，伯杰博士观察了人们如何传播一组特定的新闻故事。",
+                                    "year": 2016,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                }
+                            ]
+                        },
+                        {
+                            "en": "an event or situation that reveals the strength or quality of someone or something by putting them under strain",
+                            "zh": "考验; 艰难处境",
+                            "pos": "n/v",
+                            "synonyms": "trial,experiment,evaluation",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "At some point in all of our lives, we'll have our trust <highlight>tested</highlight> or violated.",
+                                    "month": -1,
+                                    "source": "全国卷1",
+                                    "coll": "",
+                                    "sentence_trans": "在我们生命中的某个时刻，我们的信任会受到考验或被侵犯。",
+                                    "year": 2015,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "exchange_info": {
+                    "word_third": [
+                        "tests"
+                    ],
+                    "word_ing": [
+                        "testing"
+                    ],
+                    "word_done": [
+                        "tested"
+                    ],
+                    "word_pl": [
+                        "tests"
+                    ],
+                    "word_past": [
+                        "tested"
+                    ]
+                }
+            },
+            "zhongkao": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 106,
+                        "pos": "n/v",
+                        "chinese": "测验; 考试",
+                        "sense_tier_ratio": 54.92
+                    },
+                    {
+                        "sense_tier": 85,
+                        "pos": "n/v",
+                        "chinese": "试验; 测试",
+                        "sense_tier_ratio": 44.04
+                    },
+                    {
+                        "sense_tier": 2,
+                        "pos": "n/v",
+                        "chinese": "考验; 检验",
+                        "sense_tier_ratio": 1.04
+                    }
+                ],
+                "word": "test",
+                "total_exam_freq": 193,
+                "direction_info": {
+                    "ranges": 4,
+                    "description": "数据源自2018-2021年4年间全国各省市中考试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2018-2021年全国重点省市中考试卷，包括听力、阅读、完形、单选、填空、改错、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选各省市考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2018-2021年4年间全国各省市中考试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 5,
+                "word_family": {
+                    "derivative_info_list": [
+                        {
+                            "derivative_info_list": [],
+                            "word": "testing",
+                            "mean": "v. 试验；测验；化验；考验；（test的现在分词）"
+                        },
+                        {
+                            "derivative_info_list": [],
+                            "word": "tested",
+                            "mean": "v. 试验；测验；化验；考验；（test的过去分词）"
+                        }
+                    ],
+                    "word": "test",
+                    "mean": "n. 试验；测试；烤钵；灰皿；甲壳；介壳；被囊；检验；标准"
+                },
+                "word_level_phrase_info": [
+                    {
+                        "brief_definition": "验血",
+                        "phrase": "blood test",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "试车；试验；试用",
+                        "phrase": "test drive",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "测试结果；试验结果；检验结果",
+                        "phrase": "test result",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "彻底检验；考验",
+                        "phrase": "test out",
+                        "pos": "phr.v."
+                    },
+                    {
+                        "brief_definition": "汽车驾驶员行车执照考试",
+                        "phrase": "driving test",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "最终的考试；最终的测试；终极测试",
+                        "phrase": "final test",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "进行测试",
+                        "phrase": "have a test",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "听力测试",
+                        "phrase": "listening test",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "突击测试",
+                        "phrase": "surprise test",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "参加考试",
+                        "phrase": "take the test",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "试（题）卷；试纸",
+                        "phrase": "test paper",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "图灵测试",
+                        "phrase": "Turing test",
+                        "pos": ""
+                    }
+                ],
+                "sense": {
+                    "sense_num": 3,
+                    "sense_info_list": [
+                        {
+                            "en": "an examination of somebody's knowledge or ability",
+                            "zh": "测验; 考试",
+                            "pos": "n/v",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "The kid is doing his lessons carefully in order to pass the <highlight>test</highlight>.",
+                                    "month": -1,
+                                    "source": "福建省卷",
+                                    "coll": "",
+                                    "sentence_trans": "为了通过考试，这孩子正在认真地做功课。",
+                                    "year": 2020,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "He is going to take the Chinese <highlight>test</highlight> this year.",
+                                    "month": -1,
+                                    "source": "黄冈市卷",
+                                    "coll": "",
+                                    "sentence_trans": "他今年将参加语文考试。",
+                                    "year": 2018,
+                                    "type": "阅读填空",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "What's better for learning, hands-on projects or <highlight>tests</highlight>?",
+                                    "month": -1,
+                                    "source": "山西省卷",
+                                    "coll": "",
+                                    "sentence_trans": "哪种方式更利于学习，是动手项目还是考试?",
+                                    "year": 2018,
+                                    "type": "综合阅读",
+                                    "day": -1
+                                }
+                            ]
+                        },
+                        {
+                            "en": "",
+                            "zh": "试验; 测试",
+                            "pos": "n/v",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "Such systems are going through <highlight>tests</highlight> in a small number of stores.",
+                                    "month": -1,
+                                    "source": "重庆市B卷",
+                                    "coll": "",
+                                    "sentence_trans": "这种系统正在少数商店进行测试。",
+                                    "year": 2020,
+                                    "type": "补全对话",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "The scientists invited 42 university students to take part in a <highlight>test</highlight>.",
+                                    "month": -1,
+                                    "source": "成都市B卷",
+                                    "coll": "",
+                                    "sentence_trans": "科学家邀请了42名大学生来参加一项测试。",
+                                    "year": 2020,
+                                    "type": "听力",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Put a smoke alarm in your house and <highlight>test</highlight> it every month.",
+                                    "month": -1,
+                                    "source": "山西省卷",
+                                    "coll": "",
+                                    "sentence_trans": "在你家里装一个烟雾报警器，每个月测试一次。",
+                                    "year": 2019,
+                                    "type": "单词填写",
+                                    "day": -1
+                                }
+                            ]
+                        },
+                        {
+                            "en": "an event or situation that reveals the strength or quality of someone or something by putting them under strain",
+                            "zh": "考验; 检验",
+                            "pos": "n/v",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "King Solomon will <highlight>test</highlight> whether Amram's story is true．",
+                                    "month": -1,
+                                    "source": "南京市卷",
+                                    "coll": "",
+                                    "sentence_trans": "所罗门王将检验暗兰的故事是否真实。",
+                                    "year": 2019,
+                                    "type": "口语应用",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "To <highlight>test</highlight> this, some researchers did an experiment.",
+                                    "month": -1,
+                                    "source": "衡阳市卷",
+                                    "coll": "",
+                                    "sentence_trans": "为了验证这一点，一些研究人员做了一个实验。",
+                                    "year": 2018,
+                                    "type": "完形填空",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "word_usage": [
+                    {
+                        "usage": "test可以是名词，可以是动词，作为名词时前面要加冠词the或a，如put to the test(试验)。"
+                    }
+                ]
+            },
+            "sentencesData": {
+                "status": 1,
+                "info": "notZh2En",
+                "data": {}
+            },
+            "isAutoMatch": false,
+            "Zh2En": false
+        },
+        "query": "test",
+        "result": "试验",
+        "tabSelect": "detail",
+        "dictionaryType": "oxford_buchong",
+        "notFound_show": false,
+        "phoneticShow": "",
+        "globalShowTranslateRecord": "",
+        "pronPrefer": {
+            "type": "usa_1",
+            "speaker": "male",
+            "speed": "standard"
+        },
+        "ServerRecord": "",
+        "ServerUIGS": {
+            "version": "new",
+            "type": "all",
+            "stype": "success",
+            "terminal": "web",
+            "fr": "default",
+            "direction": "etoz",
+            "from": "en",
+            "to": "zh-CHS",
+            "len": 4,
+            "qtype": "text",
+            "qctype": "qc_1",
+            "dict_cover": 1,
+            "detail": 1,
+            "wordCardCover": 1,
+            "wordCardEn": 1,
+            "wordCardCh": 0,
+            "wordCardMinor": 0,
+            "wordCardNetmean": 0,
+            "wordDeform": 1,
+            "keyword": 0,
+            "bilingual": 1,
+            "simple": 0,
+            "levelList": 1,
+            "synonym": 1,
+            "antonym": 0,
+            "conjugate": 1,
+            "rootaffix": 0,
+            "baike_sogou": 1,
+            "baike_wiki": 0,
+            "wordDifference": 1,
+            "word_phrase": 1,
+            "secondQuery": 0,
+            "dict_oxford": 0,
+            "dict_newcentury": 0,
+            "zhongkaotab": 1,
+            "gaokaotab": 1,
+            "CET4tab": 1,
+            "CET6tab": 1,
+            "kaoyantab": 1,
+            "network_tab": 0,
+            "yinying_tab": 1,
+            "tuozhan_tab": 0,
+            "one_pic": 0,
+            "more_pic": 0,
+            "no_pic": 0,
+            "uuid": "9929b724-4396-4b53-b75c-74c0a733878e",
+            "from_type": 0,
+            "t_trans_ssr": 162
+        },
+        "ServerModelUIGS": {
+            "terminal": "web",
+            "type": "trans_model",
+            "pbtype": "pv",
+            "model_general": 1,
+            "model_medical": 1,
+            "model_finance": 1
+        },
+        "ServerSgtkn": "64F9C18005DCB21A111638AAA3459F71113799AD6755318C",
+        "suggShow": false,
+        "suggestion": "",
+        "suggDirection": "",
+        "usualTop": "",
+        "baseDict": "",
+        "wordCardClick": false,
+        "isFrInput": false,
+        "kanaTips": {
+            "show": false,
+            "left": "",
+            "top": "",
+            "type": "",
+            "arrowLeft": ""
+        },
+        "currSentenceIndex": -1,
+        "prefixStrObj": {
+            "prefixStr": "",
+            "oriPrefixStr": ""
+        },
+        "selectTransBox": {
+            "show": false,
+            "right": 0,
+            "top": 0,
+            "paraphraseInfo": {
+                "word": "",
+                "from": "",
+                "to": "",
+                "area": ""
+            }
+        },
+        "sentenceLoading": false,
+        "newSentenceInfo": {
+            "sentence": "",
+            "candidateIndex": 0
+        },
+        "moreTipInfo": {
+            "opacity": 0,
+            "zIndex": -1
+        },
+        "paraphraseShowInfo": {
+            "card": 0,
+            "query": "",
+            "card_dict": 0
+        },
+        "selectType": "",
+        "wordPos": 0,
+        "candidateWord": "",
+        "syntaxVisible": false,
+        "syntaxStatus": 0
+    },
+    "language": {
+        "from": "auto",
+        "to": "zh-CHS",
+        "detect": "en",
+        "model": "general",
+        "detectShow": false,
+        "langMap": {
+            "current": ""
+        },
+        "zh2en": false,
+        "fromItemList": [
+            {
+                "lang": "auto",
+                "text": "自动检测",
+                "play": false
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "ru",
+                "text": "俄语",
+                "play": true,
+                "abbr": "俄"
+            },
+            {
+                "lang": "th",
+                "text": "泰语",
+                "play": true,
+                "abbr": "泰"
+            },
+            {
+                "lang": "vi",
+                "text": "越南语",
+                "play": true,
+                "abbr": "越"
+            }
+        ],
+        "toItemList": [
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "vi",
+                "text": "越南语",
+                "play": true,
+                "abbr": "越"
+            },
+            {
+                "lang": "ko",
+                "text": "韩语",
+                "play": true,
+                "abbr": "韩"
+            },
+            {
+                "lang": "ru",
+                "text": "俄语",
+                "play": true,
+                "abbr": "俄"
+            }
+        ]
+    },
+    "voice": {
+        "from": {
+            "lang": "en",
+            "type": "from",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22test%22%2C%22spokenDialect%22%3A%22en%22%2C%22rate%22%3A%220.8%22%7D",
+            "list": [
+                {
+                    "type": "uk_0",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "test",
+                    "abbr": "英",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/277_test_uk.mp3"
+                },
+                {
+                    "type": "usa_1",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "test",
+                    "abbr": "美",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/277_test_usa.mp3"
+                }
+            ],
+            "stype": "phonetic",
+            "phoneticShow": [
+                {
+                    "text": "test",
+                    "type": "uk",
+                    "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/277_test_uk.mp3"
+                }
+            ]
+        },
+        "to": {
+            "lang": "zh",
+            "type": "to",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22%E8%AF%95%E9%AA%8C%22%2C%22spokenDialect%22%3A%22zh-CHS%22%2C%22rate%22%3A%220.8%22%7D",
+            "stype": "normal"
+        }
+    }
+}

@@ -1,0 +1,1222 @@
+{
+    "route": {
+        "name": "text",
+        "path": "/text",
+        "hash": "",
+        "query": {
+            "keyword": "team",
+            "transfrom": "auto",
+            "transto": "zh-CHS",
+            "model": "general",
+            "errcode": "s10"
+        },
+        "params": {},
+        "fullPath": "/text?keyword=team&transfrom=auto&transto=zh-CHS&model=general&errcode=s10",
+        "meta": {
+            "mtype": [
+                "textTranslate",
+                "language",
+                "voice"
+            ]
+        },
+        "from": {
+            "name": null,
+            "path": "/",
+            "hash": "",
+            "query": {},
+            "params": {},
+            "fullPath": "/",
+            "meta": {}
+        }
+    },
+    "common": {
+        "CONFIG": {
+            "wuid": 1733636492987,
+            "loginInfo": {},
+            "isIE": 0,
+            "isHitSsrSwitch": true,
+            "isHitWritebookSwitch": false,
+            "isHitAmsSwitch": true,
+            "promotionList": "{\n    \"pc_bottom\":{\n        \"imgsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\",\n        \"qcsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\"\n    },\n    \"pc_middle\":[\n        {\n            \"src\":\"//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c\",\n            \"bgColor\":\"#ffffff\",\n            \"link\":\"\"\n        }\n    ],\n    \"pc_survey\":{\n        \"icon\":\"//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750\",\n        \"link\":\"https://wj.qq.com/s2/8193148/806d/\"\n    }\n}",
+            "bannerData": [],
+            "isHitAsideSurvey": false,
+            "secretCode": 109984457,
+            "uuid": "91b341dc-442d-4a26-95bb-f7a61fc6dad4",
+            "referer": "",
+            "approveToken": "64F9C16D458AE74D45406DFDF613C0D6467BD5076755318C",
+            "loadTime": 1733636492989,
+            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0",
+            "fcp": "161.35.183.163",
+            "temporaryId": "",
+            "fileId": ""
+        },
+        "hotWords": [],
+        "isFromCollect": false,
+        "psdModify": {
+            "currentStep": 1,
+            "scode": "",
+            "username": ""
+        },
+        "loginStatus": true,
+        "feedBackModule": false,
+        "showPromotionPopup": {
+            "show": false,
+            "type": ""
+        },
+        "showPromotionPCDownload": false,
+        "showShareBomb": false,
+        "shareData": null,
+        "showAppDownLoad": false,
+        "showLoginDialog": false,
+        "showLoading": {
+            "show": false
+        },
+        "toast": {
+            "show": false,
+            "text": "",
+            "loading": false
+        },
+        "modelToast": {
+            "show": false,
+            "text": ""
+        },
+        "selectionGlobalShow": true,
+        "selectionInfo": {
+            "left": 0,
+            "top": 0,
+            "show": false,
+            "from": "",
+            "to": "",
+            "val": "",
+            "area": ""
+        },
+        "showConfirmDialog": false,
+        "promotionList": {
+            "pc_bottom": {
+                "imgsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png",
+                "qcsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png"
+            },
+            "pc_middle": [
+                {
+                    "src": "//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c",
+                    "bgColor": "#ffffff",
+                    "link": ""
+                }
+            ],
+            "pc_survey": {
+                "icon": "//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750",
+                "link": "https://wj.qq.com/s2/8193148/806d/"
+            }
+        },
+        "transTypeTxt": "text",
+        "fixedTabStatus": 0,
+        "bodyTop": 0,
+        "ifHideUserOperation": false
+    },
+    "textTranslate": {
+        "prevTransQuery": "",
+        "translateData": {
+            "translate": {
+                "zly": "zly",
+                "errorCode": "0",
+                "qc_type": "1",
+                "index": "content0",
+                "from": "en",
+                "source": "sogou",
+                "text": "team",
+                "to": "zh-CHS",
+                "id": "91b341dc-442d-4a26-95bb-f7a61fc6dad4",
+                "dit": "组",
+                "orig_text": "team",
+                "md5": ""
+            },
+            "detect": {
+                "zly": "zly",
+                "detect": "en",
+                "errorCode": "0",
+                "language": "英语",
+                "id": "14d96c00-b527-11ef-bba2-79dd5a11337e",
+                "text": "team"
+            },
+            "sgtkn": "64F9C17A458AE74D45406DFDF613C0D6467BD5076755318C",
+            "wordCard": {
+                "title": "team",
+                "show": true,
+                "usualDict": [
+                    {
+                        "values": [
+                            "队；队伍；运动队；比赛队伍；团队；团体；组；小组；班；一组牲口；驾马的一组"
+                        ],
+                        "pos": "n."
+                    },
+                    {
+                        "values": [
+                            "协作；合作；结成一队；组队；与…搭配；配合；联合；使成为伙伴；使配对"
+                        ],
+                        "pos": "v."
+                    }
+                ],
+                "secondQuery": "",
+                "exchange": {
+                    "word_third": [
+                        "teams"
+                    ],
+                    "word_ing": [
+                        "teaming"
+                    ],
+                    "word_done": [
+                        "teamed"
+                    ],
+                    "word_pl": [
+                        "teams"
+                    ],
+                    "word_past": [
+                        "teamed"
+                    ]
+                },
+                "levelList": [
+                    "小学",
+                    "初中",
+                    "高中",
+                    "四级",
+                    "六级",
+                    "考研"
+                ]
+            },
+            "detail": {
+                "synonym": [
+                    {
+                        "word_list": [
+                            "group",
+                            "crew",
+                            "suit"
+                        ],
+                        "pos": "n.",
+                        "mean": "队；组"
+                    },
+                    {
+                        "word_list": [
+                            "partner"
+                        ],
+                        "pos": "vt.",
+                        "mean": "使合作"
+                    },
+                    {
+                        "word_list": [
+                            "work together",
+                            "co-operate"
+                        ],
+                        "pos": "vi.",
+                        "mean": "合作"
+                    }
+                ],
+                "word_group": [
+                    {
+                        "brief_definition": "团队精神；合作精神；团结精神",
+                        "phrase": "team spirit",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "团队运动；团队体育运动",
+                        "phrase": "team sport",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "加入, 组队",
+                        "phrase": "team up",
+                        "pos": "coll"
+                    },
+                    {
+                        "brief_definition": "合作；联手；一起组队",
+                        "phrase": "team up with",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "通力合作者",
+                        "phrase": "team player",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "梦之队；最佳阵容；最佳组合",
+                        "phrase": "dream team",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "车轮战分组；一起工作的两个人",
+                        "phrase": "tag team",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "特别队",
+                        "phrase": "special team",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "老虎团队；猛虎组合",
+                        "phrase": "tiger team",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "特警小队",
+                        "phrase": "SWAT team",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "青年队；预备队；二队",
+                        "phrase": "farm team",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "牧师团",
+                        "phrase": "team ministry",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "医疗抢救组",
+                        "phrase": "crash team",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "管理团队；经营团队；精英团队",
+                        "phrase": "management team",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "项目团队；项目小组；项目组",
+                        "phrase": "project team",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "足球团队；足球队；橄榄球队",
+                        "phrase": "football team",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "科研小组；科研团队；研究团队",
+                        "phrase": "research team",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "支持团队；后援队伍；技术支持团队",
+                        "phrase": "support team",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "国家队",
+                        "phrase": "national team",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "篮球团队；篮球队；篮球球队",
+                        "phrase": "basketball team",
+                        "pos": ""
+                    }
+                ],
+                "bilingual": [
+                    {
+                        "source": "He is the <em>team</em> leader.",
+                        "target": "他是团队的领导。",
+                        "url": ""
+                    },
+                    {
+                        "source": "We are a great <em>team</em>.",
+                        "target": "我们是一个很棒的团队。",
+                        "url": ""
+                    },
+                    {
+                        "source": "The entire <em>team</em> is here.",
+                        "target": "整个团队都在这里。",
+                        "url": ""
+                    },
+                    {
+                        "source": "He is in charge of the <em>team</em>.",
+                        "target": "他负责这个团队。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Soccer is about <em>team</em> effort.",
+                        "target": "足球是关于团队合作的。",
+                        "url": ""
+                    },
+                    {
+                        "source": "He always puts the <em>team</em> first.",
+                        "target": "他总是把团队放在第一位。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Take part in your <em>team</em> sport event.",
+                        "target": "参加你的团队运动活动。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Yeah, way to help out the <em>team</em>!",
+                        "target": "是啊，真是帮了团队的大忙！",
+                        "url": ""
+                    },
+                    {
+                        "source": "Ali meets with his <em>team</em> every day.",
+                        "target": "阿里每天与他的团队会面。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Sports require skill and <em>team</em> work.",
+                        "target": "运动需要技巧和团队合作。",
+                        "url": ""
+                    }
+                ],
+                "baike": {
+                    "showMore": true,
+                    "list": [
+                        {
+                            "lemmaTitle": "Team",
+                            "link": "https://baike.sogou.com/v154894093.htm?ch=sogou.fanyi",
+                            "abstract": "Team（英[tiːm]，美[tiːm]），英文单词，作名词为队；组；班等。作动词为结成一队；协作；配合等。短语搭配有team spirit（团队精神；合作精神；团结精神）。例句为“Work in a team for six months.（在团队中工作六个月。）”。 该单词的复数形式为teams，名词类近义词为group、crew、suit，及物动词类近义词为partner，不及物动词类近义词为work together、co-operate。",
+                            "wapPic": "",
+                            "pcPic": ""
+                        },
+                        {
+                            "lemmaTitle": "team",
+                            "link": "https://baike.sogou.com/v148061489.htm?ch=sogou.fanyi",
+                            "abstract": "Team是一首由新西兰才女Lorde于2013年9月13日创作的专辑《Pure Heroine》中的第三首单曲。 team 是专辑《纯粹女英雄》的第六首歌，这首歌为我们描绘了一个充满魔幻色彩的世界，也就是歌曲《Royals》说let me live that fantasy里的fantasy world。对于这首歌的mv，据lorde的说法，是她有天梦到一个属于青少年自己的世界，在那里面是有等级制度的，而且有入会仪式。在那里，男孩的权力没有女孩大，女孩在那里都是女王。在这个世界里，到处长满热带植物，又很潮湿，而且是一个废墟。lorde说其实入会仪式并不需要别人的同意，只要是所谓的失败者都能进入。在那里失败的人最强大。",
+                            "wapPic": "//img04.sogoucdn.com/v2/thumb/retype_exclude_gif/ext/auto/q/80/crop/xy/ai/w/140/h/140/resize/w/140?appid=201005&sign=65fe76053200e2354529af212506f688&url=https%3A%2F%2Fpic.baike.soso.com%2Fugc%2Fbaikepic2%2F16529%2F20220513174041-1190447932_jpeg_2000_2000_286590.jpg%2F0",
+                            "pcPic": "//img04.sogoucdn.com/v2/thumb/retype_exclude_gif/ext/auto/q/80/crop/xy/ai/w/140/h/140/resize/w/140?appid=201005&sign=65fe76053200e2354529af212506f688&url=https%3A%2F%2Fpic.baike.soso.com%2Fugc%2Fbaikepic2%2F16529%2F20220513174041-1190447932_jpeg_2000_2000_286590.jpg%2F0"
+                        }
+                    ]
+                }
+            },
+            "book": {
+                "yingyinNormal": [
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/c147f8d54a969778fef4aa74fdb25c24_34800.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/26e5392c1bb62af1c418153d141ecf0e_51868.mp3",
+                        "isLavafox": true,
+                        "en": "I've already put together my <em>team</em>.",
+                        "zh": "我已经组织了团队。",
+                        "videoNameZh": "《纸牌屋 第四季》",
+                        "videoNameEn": "《House of Cards Season 4》",
+                        "url": "http://bisentence_movie.sogou.com/16f1739d3a0ac52b9d9d5ec14e25aeb7_b9f357ea23abe18314b0f5d686bff9016d0f2b4a"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/3702b1723a78bf8946165e8448c07c6e_37479.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/60cd94292362297a2fefd3fbdc2e935f_20584.mp3",
+                        "isLavafox": true,
+                        "en": "And Paul's <em>team</em> brought the mathematics to life.",
+                        "zh": "而保罗的团队将该数学运算变成了现实。",
+                        "videoNameZh": "《《星际穿越》中的科学》",
+                        "videoNameEn": "《The Science of Interstellar》",
+                        "url": "http://bisentence_movie.sogou.com/77a8bf1c3babda8e04f103fe63dc5f46_2009498138c1c9ab3adfd71ade157d2ea8de43c0"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/b6871753bac5738b5d523cab5247cac2_31186.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/24817c77e2809c21ea4541e811279005_10438.mp3",
+                        "isLavafox": true,
+                        "en": "What if we disguised a new <em>team</em> to look like the old <em>team</em>? Oh, no, no. We are not cheating.",
+                        "zh": "要是我们偷天换日，伪装得像旧团队？不行，我们不能作弊",
+                        "videoNameZh": "《怪兽大学》",
+                        "videoNameEn": "《Monsters University》",
+                        "url": "http://bisentence_movie.sogou.com/3163784c990c3ea9fd785e5d4fdab541_80cd159ec6b6e51dee8d0f634b6dc60d2746199d"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/b8e3fa22c678301d25ef950edfe99a4c_10622.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/8bb0e387c0cb97ad76473edf1a38803c_40045.mp3",
+                        "isLavafox": true,
+                        "en": "Your men are shot to shit. What are you gonna do for a <em>team</em>?",
+                        "zh": "你的人伤得不轻，你要怎么组建团队？",
+                        "videoNameZh": "《敢死队3》",
+                        "videoNameEn": "《The Expendables 3》",
+                        "url": "http://bisentence_movie.sogou.com/22ef4f65891fcbac247c8f9b76307ffa_5de7d2076cf002797e9bb4831ed6aa1b2c955e25"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/55f99b4ef7d3c537807d0574227c87bd_13386.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/67bdfb60da08bfaa7c59a3752a941aa6_18321.mp3",
+                        "isLavafox": true,
+                        "en": "That's his MO, isn't it? I mean, what are we, a <em>team</em>?",
+                        "zh": "这是他的管理方法，我们算什么？一个团队？",
+                        "videoNameZh": "《复仇者联盟》",
+                        "videoNameEn": "《The Avengers》",
+                        "url": "http://bisentence_movie.sogou.com/e51fb3de00b4a22b5337cd221de241bc_5162c5543e7699b1ebbdff6e1485ba1b4e65d370"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/368277e4523e7b27b12887e16057df56_64015.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/1949806e4ea102a92ffa6e7a3c1c2734_43952.mp3",
+                        "isLavafox": true,
+                        "en": "We can try. No. My <em>team</em> will take over the investigation now.",
+                        "zh": "我们可以试试。不行，现在由我的团队接手调查。",
+                        "videoNameZh": "《西部世界 第一季》",
+                        "videoNameEn": "《Westworld Season 1》",
+                        "url": "http://bisentence_movie.sogou.com/1658eeb810519ec72cf4d76fc2f9e1ae_b3d2b9ae7573e97b2c00f2c7dcac9005cf9d08c8"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/2fc568581b153aece2290fc09ef18467_13355.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/d224f3fefe28748cccad879abca08cfc_36055.mp3",
+                        "isLavafox": true,
+                        "en": "So you're going for artificial intelligence and you don't want to tell the <em>team</em>?",
+                        "zh": "所以你要研究人工智能，还不想告诉团队？",
+                        "videoNameZh": "《复仇者联盟2：奥创纪元》",
+                        "videoNameEn": "《Avengers: Age of Ultron》",
+                        "url": "http://bisentence_movie.sogou.com/b231ac5741177efe62aac63ecbec5a47_d4ffc13f9df063b3c4728ab27bac5ac45b2f89d4"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/790daa8f93a1187ab951e0ec819d8f48_46441.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/807e5cf9321a0e39b8aeb94c0d51cb87_65730.mp3",
+                        "isLavafox": true,
+                        "en": "It's about being a <em>team</em> and sticking together, no matter what!",
+                        "zh": "作为一个团队无论发生什么事情，我们应该一直团结在一起！",
+                        "videoNameZh": "《海绵宝宝历险记：海绵出水》",
+                        "videoNameEn": "《The SpongeBob Movie: Sponge Out of Water》",
+                        "url": "http://bisentence_movie.sogou.com/d168bbb9c271cd1ad2ce8d272f934735_093f77986cde952a53ee2e57a0c381d9fa858e66"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/c147f8d54a969778fef4aa74fdb25c24_34800.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/808178d3dd6ab2dc9f52701ad420f5d6_76291.mp3",
+                        "isLavafox": true,
+                        "en": "It was a <em>team</em> effort. Who is your source? I can't. You know that.",
+                        "zh": "那是团队合作的成果，是谁告诉你的？我不能透露，你懂的。",
+                        "videoNameZh": "《纸牌屋 第四季》",
+                        "videoNameEn": "《House of Cards Season 4》",
+                        "url": "http://bisentence_movie.sogou.com/ecd67a36b26d8d7e8f7eab83f32bc415_7a6b510eb5dbe9d16b6ccc5f78ad0a75d19493a4"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/ce4704185ed874d2da0aa0211b7c5d4d_3508.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/0772926a986185b51aed4cf54d980cb2_66549.mp3",
+                        "isLavafox": true,
+                        "en": "As head of this <em>team</em>, and I think I speak for everyone, we have done…",
+                        "zh": "作为团队领袖，我认为我可以代表所有人说我们已经...",
+                        "videoNameZh": "《纸牌屋 第三季》",
+                        "videoNameEn": "《House of Cards Season 3》",
+                        "url": "http://bisentence_movie.sogou.com/d1049e50bd0fc59f3174369e332086b1_239073127f4659ec04102dfcf91180edbfb7fc3a"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/68eeb648a2ff0cbf1b553571b1bde0b8_47107.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/ca319b5fb0c62ea687e77b39df255b28_66181.mp3",
+                        "isLavafox": true,
+                        "en": "Tell the creative <em>team</em> to get their giggles out. I'll be ready for them in 10.",
+                        "zh": "让创意团队别嬉皮笑脸了，我十分钟后就能见他们。",
+                        "videoNameZh": "《摩登家庭 第八季》",
+                        "videoNameEn": "《Modern Family Season 8》",
+                        "url": "http://bisentence_movie.sogou.com/6442c7200f8ce8bc9c432f98278f39c7_cca7f50a4cc602f6a3d1181e8dbd0bd082a00b32"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/5a7c198a7b1e11c0a115b97ef4c88325_3060.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/1de65165c45d14ada9ec710b8f4fc095_19004.mp3",
+                        "isLavafox": true,
+                        "en": "Oh My Gosh. Duke find our lost ball. What a great <em>team</em> we're gonna be.",
+                        "zh": "天呐，杜克找到我们丢的球了，我们一定会成为最佳团队。",
+                        "videoNameZh": "《爱宠大机密》",
+                        "videoNameEn": "《The Secret Life of Pets》",
+                        "url": "http://bisentence_movie.sogou.com/cb301d9071e9114ca3a8ea7e42ac1a42_61a059711788c0ecbb28009d62f6a16e4d493df0"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/f9cf90b2f80fc9b4d2968cd441a42c77_36232.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/4adffae5b8140d70d3b9b8e60af5538c_21678.mp3",
+                        "isLavafox": true,
+                        "en": "Maybe they're not your friends. That was my whole point about <em>team</em> today.",
+                        "zh": "也许他们不是你真正的朋友。这也就是我说的团队合作。",
+                        "videoNameZh": "《歌舞青春》",
+                        "videoNameEn": "《High School Musical》",
+                        "url": "http://bisentence_movie.sogou.com/dd31bdab38dcdbbd594f651809dfff9f_b2fe43ac5708edf520d9eebe8a09777750417950"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/6eb44e6b184aef9609d792a739b27dd9_60807.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/29574aad67f620247adeaf3720342414_4282.mp3",
+                        "isLavafox": true,
+                        "en": "I assumed you might say that. Which is why I've taken the liberty of gathering your <em>team</em>.",
+                        "zh": "我就知道你会这么说，所以我擅自集合了你的团队。",
+                        "videoNameZh": "《速度与激情7》",
+                        "videoNameEn": "《Fast & Furious 7》",
+                        "url": "http://bisentence_movie.sogou.com/a3831ae2dec1c142a77530e82676f115_e4db7a8ae67aded3f4cbe2c00e6c7214997414e3"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/ce4704185ed874d2da0aa0211b7c5d4d_3508.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/2f54d73c3f294dfac54eaab96da94655_14856.mp3",
+                        "isLavafox": true,
+                        "en": "And I can work with the political <em>team</em>, coordinate with House leg directors, chiefs of staff.",
+                        "zh": "我能配合政治团队协调，国会立法主任和幕僚长。",
+                        "videoNameZh": "《纸牌屋 第三季》",
+                        "videoNameEn": "《House of Cards Season 3》",
+                        "url": "http://bisentence_movie.sogou.com/17e1c7ebc87e412f841ba5877f4ecc1f_dbb3a97e5505a559ef55f74455573a9030519d76"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/a86e6e98cc64448e528c65f2085efa0f_30194.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/7fbfff02379569c1271b1ab0f37cf6f8_72504.mp3",
+                        "isLavafox": true,
+                        "en": "Amy, I was off by a factor of 10,000. But the Chinese <em>team</em> found the element.",
+                        "zh": "Amy 我算差了十万八千里，但中国团队发现了那个元素。",
+                        "videoNameZh": "《生活大爆炸 第7季》",
+                        "videoNameEn": "《The Big Bang Theory Season 7》",
+                        "url": "http://bisentence_movie.sogou.com/538b2e1e2cd7dfd7c0e1568f9fc6d03b_1d0769e4df23fd3f9c4a68cf7fd0b5d7b2b579af"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/ce4704185ed874d2da0aa0211b7c5d4d_3508.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/f3b849e2cc6a6109831b2bf3e658daa2_60193.mp3",
+                        "isLavafox": true,
+                        "en": "For the past five months, my <em>team</em> has sat at this very table, developing America Works.",
+                        "zh": "过去五个月，我的团队就坐在这儿，起草美国就业法案。",
+                        "videoNameZh": "《纸牌屋 第三季》",
+                        "videoNameEn": "《House of Cards Season 3》",
+                        "url": "http://bisentence_movie.sogou.com/003dac7582a7dbfecd7e21b249c36ae2_bce10a50f0026b52a11e3d40fa32f24d2d40bb03"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/790daa8f93a1187ab951e0ec819d8f48_46441.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/8dc53fd4ac6ae8f23e273e58cb15e2ba_16810.mp3",
+                        "isLavafox": true,
+                        "en": "We? But even failure hurts a little less when you do it as a <em>team</em>, right?",
+                        "zh": "我们？但当你身处团队中时即使失败也不觉得那么沮丧了，不是吗？",
+                        "videoNameZh": "《海绵宝宝历险记：海绵出水》",
+                        "videoNameEn": "《The SpongeBob Movie: Sponge Out of Water》",
+                        "url": "http://bisentence_movie.sogou.com/03e42cd916c26f9394f33f6311c22554_17bd29040c3a0c6f2fd275580c4f044d0d71dff6"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/368277e4523e7b27b12887e16057df56_64015.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/c387afacb67a35b200ae1848277b8bba_52487.mp3",
+                        "isLavafox": true,
+                        "en": "Every time your <em>team</em> rolls out an update, there's a possibility of a critical failure.",
+                        "zh": "每次你的团队运行一次更新，都有出现重大故障的可能性。",
+                        "videoNameZh": "《西部世界 第一季》",
+                        "videoNameEn": "《Westworld Season 1》",
+                        "url": "http://bisentence_movie.sogou.com/af9257204d34dbaa25108de1d19fe345_13462334ea6c84063c5f7b5c4241097b86c46c40"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/368277e4523e7b27b12887e16057df56_64015.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/34f67121213eec7ccaef1ddaee7abba7_40656.mp3",
+                        "isLavafox": true,
+                        "en": "Your <em>team</em>? Are you kidding me? Look, this guy couldn't debug a balled-up napkin.",
+                        "zh": "你的团队？你开玩笑吗？听着，这家伙连个揉成团的纸巾都打不开。",
+                        "videoNameZh": "《西部世界 第一季》",
+                        "videoNameEn": "《Westworld Season 1》",
+                        "url": "http://bisentence_movie.sogou.com/e2dc3c4d2641eafe3690fea16ce76967_5074d71c90fa2c75c1ca1bf48322537115a4b16d"
+                    }
+                ]
+            },
+            "pic": "",
+            "voice": {
+                "phonetic": [
+                    {
+                        "text": "tiːm",
+                        "type": "uk",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/679_team_uk.mp3"
+                    },
+                    {
+                        "text": "tiːm",
+                        "type": "usa",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/679_team_usa.mp3"
+                    }
+                ]
+            },
+            "dictType": "oxford_buchong",
+            "CET6": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 61,
+                        "pos": "n/v",
+                        "chinese": "团队; 一组; 组队",
+                        "sense_tier_ratio": 98.39
+                    },
+                    {
+                        "sense_tier": 1,
+                        "pos": "n/v",
+                        "chinese": "组队配合工作",
+                        "sense_tier_ratio": 1.61
+                    }
+                ],
+                "word": "team",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2016.6-2023.6年8年间全六级试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight>考纲释义</highlight>\n精选实考、考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2016-2023年51套试卷，包括阅读、听力、翻译等所有题型。\n\n<highlight>真题例句</highlight>\n精选2016-2023年8年间全六级试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 5,
+                "word_family": {
+                    "derivative_info_list": [
+                        {
+                            "derivative_info_list": [],
+                            "word": "teamwork",
+                            "mean": "n. 协同工作；配合"
+                        }
+                    ],
+                    "word": "team",
+                    "mean": "n. 队；组；班；联畜；一组牲口"
+                },
+                "total_exam_freq": 62,
+                "sense": {
+                    "sense_num": 2,
+                    "sense_info_list": [
+                        {
+                            "en": "a group of persons who work or play together",
+                            "zh": "团队; 一组; 组队",
+                            "pos": "n/v",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "But what is yet to be demonstrated is whether the founder's passion leads to increased <highlight>team</highlight> performance.",
+                                    "month": 6,
+                                    "source": "CET6",
+                                    "coll": "",
+                                    "sentence_trans": "但还有待证明的是，创始人的激情是否会导致团队绩效的提高。",
+                                    "year": 2021,
+                                    "type": "听力",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Entrepreneurial <highlight>teams</highlight> generally progress through three phases.",
+                                    "month": 6,
+                                    "source": "CET6",
+                                    "coll": "",
+                                    "sentence_trans": "创业团队通常会经历三个阶段。",
+                                    "year": 2021,
+                                    "type": "听力",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "How long did your <highlight>team</highlight> spend in the jungle?",
+                                    "month": 6,
+                                    "source": "CET6",
+                                    "coll": "",
+                                    "sentence_trans": "你的团队在丛林里呆了多长时间？",
+                                    "year": 2021,
+                                    "type": "听力",
+                                    "day": -1
+                                }
+                            ]
+                        },
+                        {
+                            "synonyms": "",
+                            "en": "act together to achieve something",
+                            "zh": "组队配合工作",
+                            "pos": "n/v",
+                            "antonyms": ""
+                        }
+                    ]
+                },
+                "exchange_info": {
+                    "word_third": [
+                        "teams"
+                    ],
+                    "word_ing": [
+                        "teaming"
+                    ],
+                    "word_done": [
+                        "teamed"
+                    ],
+                    "word_pl": [
+                        "teams"
+                    ],
+                    "word_past": [
+                        "teamed"
+                    ]
+                }
+            },
+            "CET4": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 85,
+                        "pos": "n/v",
+                        "chinese": "团队; 一组; 组队",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "team",
+                "total_exam_freq": 85,
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2016.6-2023.6年8年间全四级试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight>考纲释义</highlight>\n精选实考、考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2016-2023年51套试卷，包括阅读、听力、翻译等所有题型。\n\n<highlight>真题例句</highlight>\n精选2016-2023年8年间试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 5,
+                "word_family": {
+                    "derivative_info_list": [
+                        {
+                            "derivative_info_list": [],
+                            "word": "teamwork",
+                            "mean": "n. 协同工作；配合"
+                        }
+                    ],
+                    "word": "team",
+                    "mean": "n. 队；组；班；联畜；一组牲口"
+                },
+                "word_level_phrase_info": [
+                    {
+                        "brief_definition": "组队",
+                        "phrase": "team up",
+                        "pos": "phr"
+                    }
+                ],
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "a group of persons who work or play together",
+                            "zh": "团队; 一组; 组队",
+                            "pos": "n/v",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "Many companies now look to these \"ultimate professionals\" to solve problems their full-time <highlight>teams</highlight> can't.",
+                                    "month": 6,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "许多公司现在指望这些“终极专业人员”来解决他们全职团队无法解决的问题。",
+                                    "year": 2021,
+                                    "type": "阅读理解C",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "For the experiment, Foran's <highlight>team</highlight> went to a shopping center, a mall, two office buildings, and a coffee shop.",
+                                    "month": 12,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "在这个实验中，福伦的团队去了一个购物中心、一个大型购物商场、两栋办公楼和一家咖啡店。",
+                                    "year": 2020,
+                                    "type": "听力",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Researching this phenomenon, another <highlight>team</highlight> asked volunteers to watch boring, sad, or neutral films, during which they could self-administer electric shocks.",
+                                    "month": 12,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "在研究这一现象时，另一个团队要求志愿者观看无聊、悲伤或中性的电影，在此期间他们可以自我实施电击。",
+                                    "year": 2020,
+                                    "type": "阅读理解C",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "exchange_info": {
+                    "word_third": [
+                        "teams"
+                    ],
+                    "word_ing": [
+                        "teaming"
+                    ],
+                    "word_done": [
+                        "teamed"
+                    ],
+                    "word_pl": [
+                        "teams"
+                    ],
+                    "word_past": [
+                        "teamed"
+                    ]
+                }
+            },
+            "gaokao": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 35,
+                        "pos": "n",
+                        "chinese": "队; 组; 团队",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "team",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2015-2022年8年间全国卷和自主命题省市高考卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2015-2022年全国卷高考试卷，包括阅读、完形、单选、填空、听力、改错、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选各省市考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2015-2022年8年间全国卷和自主命题省市高考卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 5,
+                "word_family": {
+                    "derivative_info_list": [
+                        {
+                            "derivative_info_list": [],
+                            "word": "teamwork",
+                            "mean": "n. 协同工作；配合"
+                        }
+                    ],
+                    "word": "team",
+                    "mean": "n. 队；组；班；联畜；一组牲口"
+                },
+                "total_exam_freq": 35,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "队; 组; 团队",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "As she was leaving, she was eager to say goodbye to each of us in the nursing <highlight>team</highlight>.",
+                                    "month": -1,
+                                    "source": "全国乙卷",
+                                    "coll": "",
+                                    "sentence_trans": "当她要离开的时候，她渴望和护理团队的每一个人道别。",
+                                    "year": 2021,
+                                    "type": "完形填空",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "She was grateful for everything that the medical and nursing <highlight>team</highlight> had done for her.",
+                                    "month": -1,
+                                    "source": "全国乙卷",
+                                    "coll": "",
+                                    "sentence_trans": "她感谢医疗和护理团队为她所做的一切。",
+                                    "year": 2021,
+                                    "type": "完形填空",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "The collapse was disastrous, requiring the emergency medical <highlight>team</highlight> and good teamwork.",
+                                    "month": -1,
+                                    "source": "全国乙卷",
+                                    "coll": "",
+                                    "sentence_trans": "塌陷是灾难性的，需要紧急医疗队和良好的团队合作。",
+                                    "year": 2021,
+                                    "type": "完形填空",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            "zhongkao": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 230,
+                        "pos": "cn",
+                        "chinese": "队; 组",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "team",
+                "word_level_phrase_info": [
+                    {
+                        "brief_definition": "团队精神；合作精神；团结精神",
+                        "phrase": "team spirit",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "团队运动；团队体育运动",
+                        "phrase": "team sport",
+                        "pos": ""
+                    }
+                ],
+                "direction_info": {
+                    "ranges": 4,
+                    "description": "数据源自2018-2021年4年间全国各省市中考试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2018-2021年全国重点省市中考试卷，包括听力、阅读、完形、单选、填空、改错、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选各省市考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2018-2021年4年间全国各省市中考试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 5,
+                "word_family": {
+                    "derivative_info_list": [
+                        {
+                            "derivative_info_list": [],
+                            "word": "teamwork",
+                            "mean": "n. 协同工作；配合"
+                        }
+                    ],
+                    "word": "team",
+                    "mean": "n. 队；组；班；联畜；一组牲口"
+                },
+                "total_exam_freq": 230,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "队; 组",
+                            "pos": "cn",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "It provides an opportunity to build a medical <highlight>team</highlight>",
+                                    "month": -1,
+                                    "source": "北京市",
+                                    "coll": "",
+                                    "sentence_trans": "它提供了组建医疗团队的机会。",
+                                    "year": 2020,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Have the <highlight>team</highlight> members line up between the two large buckets.",
+                                    "month": -1,
+                                    "source": "广东卷",
+                                    "coll": "",
+                                    "sentence_trans": "让团队成员在两个大水桶之间排队。",
+                                    "year": 2020,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "This activity will allow <highlight>team</highlight> members to learn about each other.",
+                                    "month": -1,
+                                    "source": "广东卷",
+                                    "coll": "",
+                                    "sentence_trans": "这项活动将使团队成员相互了解。",
+                                    "year": 2020,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            "sentencesData": {
+                "status": 1,
+                "info": "notZh2En",
+                "data": {}
+            },
+            "isAutoMatch": false,
+            "Zh2En": false
+        },
+        "query": "team",
+        "result": "组",
+        "tabSelect": "detail",
+        "dictionaryType": "oxford_buchong",
+        "notFound_show": false,
+        "phoneticShow": "",
+        "globalShowTranslateRecord": "",
+        "pronPrefer": {
+            "type": "usa_1",
+            "speaker": "male",
+            "speed": "standard"
+        },
+        "ServerRecord": "",
+        "ServerUIGS": {
+            "version": "new",
+            "type": "all",
+            "stype": "success",
+            "terminal": "web",
+            "fr": "default",
+            "direction": "etoz",
+            "from": "en",
+            "to": "zh-CHS",
+            "len": 4,
+            "qtype": "text",
+            "qctype": "qc_1",
+            "dict_cover": 1,
+            "detail": 1,
+            "wordCardCover": 1,
+            "wordCardEn": 1,
+            "wordCardCh": 0,
+            "wordCardMinor": 0,
+            "wordCardNetmean": 0,
+            "wordDeform": 1,
+            "keyword": 0,
+            "bilingual": 1,
+            "simple": 0,
+            "levelList": 1,
+            "synonym": 1,
+            "antonym": 0,
+            "conjugate": 0,
+            "rootaffix": 0,
+            "baike_sogou": 1,
+            "baike_wiki": 0,
+            "wordDifference": 0,
+            "word_phrase": 1,
+            "secondQuery": 0,
+            "dict_oxford": 0,
+            "dict_newcentury": 0,
+            "zhongkaotab": 1,
+            "gaokaotab": 1,
+            "CET4tab": 1,
+            "CET6tab": 1,
+            "kaoyantab": 0,
+            "network_tab": 0,
+            "yinying_tab": 1,
+            "tuozhan_tab": 0,
+            "one_pic": 0,
+            "more_pic": 0,
+            "no_pic": 0,
+            "uuid": "91b341dc-442d-4a26-95bb-f7a61fc6dad4",
+            "from_type": 0,
+            "t_trans_ssr": 166
+        },
+        "ServerModelUIGS": {
+            "terminal": "web",
+            "type": "trans_model",
+            "pbtype": "pv",
+            "model_general": 1,
+            "model_medical": 1,
+            "model_finance": 1
+        },
+        "ServerSgtkn": "64F9C17A458AE74D45406DFDF613C0D6467BD5076755318C",
+        "suggShow": false,
+        "suggestion": "",
+        "suggDirection": "",
+        "usualTop": "",
+        "baseDict": "",
+        "wordCardClick": false,
+        "isFrInput": false,
+        "kanaTips": {
+            "show": false,
+            "left": "",
+            "top": "",
+            "type": "",
+            "arrowLeft": ""
+        },
+        "currSentenceIndex": -1,
+        "prefixStrObj": {
+            "prefixStr": "",
+            "oriPrefixStr": ""
+        },
+        "selectTransBox": {
+            "show": false,
+            "right": 0,
+            "top": 0,
+            "paraphraseInfo": {
+                "word": "",
+                "from": "",
+                "to": "",
+                "area": ""
+            }
+        },
+        "sentenceLoading": false,
+        "newSentenceInfo": {
+            "sentence": "",
+            "candidateIndex": 0
+        },
+        "moreTipInfo": {
+            "opacity": 0,
+            "zIndex": -1
+        },
+        "paraphraseShowInfo": {
+            "card": 0,
+            "query": "",
+            "card_dict": 0
+        },
+        "selectType": "",
+        "wordPos": 0,
+        "candidateWord": "",
+        "syntaxVisible": false,
+        "syntaxStatus": 0
+    },
+    "language": {
+        "from": "auto",
+        "to": "zh-CHS",
+        "detect": "en",
+        "model": "general",
+        "detectShow": false,
+        "langMap": {
+            "current": ""
+        },
+        "zh2en": false,
+        "fromItemList": [
+            {
+                "lang": "auto",
+                "text": "自动检测",
+                "play": false
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "ru",
+                "text": "俄语",
+                "play": true,
+                "abbr": "俄"
+            },
+            {
+                "lang": "fr",
+                "text": "法语",
+                "play": true,
+                "abbr": "法"
+            },
+            {
+                "lang": "th",
+                "text": "泰语",
+                "play": true,
+                "abbr": "泰"
+            }
+        ],
+        "toItemList": [
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "vi",
+                "text": "越南语",
+                "play": true,
+                "abbr": "越"
+            },
+            {
+                "lang": "ko",
+                "text": "韩语",
+                "play": true,
+                "abbr": "韩"
+            },
+            {
+                "lang": "ru",
+                "text": "俄语",
+                "play": true,
+                "abbr": "俄"
+            }
+        ]
+    },
+    "voice": {
+        "from": {
+            "lang": "en",
+            "type": "from",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22team%22%2C%22spokenDialect%22%3A%22en%22%2C%22rate%22%3A%220.8%22%7D",
+            "list": [
+                {
+                    "type": "uk_0",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "tiːm",
+                    "abbr": "英",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/679_team_uk.mp3"
+                },
+                {
+                    "type": "usa_1",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "tiːm",
+                    "abbr": "美",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/679_team_usa.mp3"
+                }
+            ],
+            "stype": "phonetic",
+            "phoneticShow": [
+                {
+                    "text": "tiːm",
+                    "type": "uk",
+                    "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/679_team_uk.mp3"
+                }
+            ]
+        },
+        "to": {
+            "lang": "zh",
+            "type": "to",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22%E7%BB%84%22%2C%22spokenDialect%22%3A%22zh-CHS%22%2C%22rate%22%3A%220.8%22%7D",
+            "stype": "normal"
+        }
+    }
+}
