@@ -1,0 +1,867 @@
+{
+    "route": {
+        "name": "text",
+        "path": "/text",
+        "hash": "",
+        "query": {
+            "keyword": "yeah",
+            "transfrom": "auto",
+            "transto": "zh-CHS",
+            "model": "general",
+            "errcode": "s10"
+        },
+        "params": {},
+        "fullPath": "/text?keyword=yeah&transfrom=auto&transto=zh-CHS&model=general&errcode=s10",
+        "meta": {
+            "mtype": [
+                "textTranslate",
+                "language",
+                "voice"
+            ]
+        },
+        "from": {
+            "name": null,
+            "path": "/",
+            "hash": "",
+            "query": {},
+            "params": {},
+            "fullPath": "/",
+            "meta": {}
+        }
+    },
+    "common": {
+        "CONFIG": {
+            "wuid": 1733634892234,
+            "loginInfo": {},
+            "isIE": 0,
+            "isHitSsrSwitch": true,
+            "isHitWritebookSwitch": false,
+            "isHitAmsSwitch": true,
+            "promotionList": "{\n    \"pc_bottom\":{\n        \"imgsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\",\n        \"qcsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\"\n    },\n    \"pc_middle\":[\n        {\n            \"src\":\"//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c\",\n            \"bgColor\":\"#ffffff\",\n            \"link\":\"\"\n        }\n    ],\n    \"pc_survey\":{\n        \"icon\":\"//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750\",\n        \"link\":\"https://wj.qq.com/s2/8193148/806d/\"\n    }\n}",
+            "bannerData": [],
+            "isHitAsideSurvey": false,
+            "secretCode": 109984457,
+            "uuid": "b46cb580-4fad-4afb-a62a-c72fc161b158",
+            "referer": "",
+            "approveToken": "64F38A2663BED37971775AC922998F617268D33067552B4C",
+            "loadTime": 1733634892236,
+            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0",
+            "fcp": "170.64.148.76",
+            "temporaryId": "",
+            "fileId": ""
+        },
+        "hotWords": [],
+        "isFromCollect": false,
+        "psdModify": {
+            "currentStep": 1,
+            "scode": "",
+            "username": ""
+        },
+        "loginStatus": true,
+        "feedBackModule": false,
+        "showPromotionPopup": {
+            "show": false,
+            "type": ""
+        },
+        "showPromotionPCDownload": false,
+        "showShareBomb": false,
+        "shareData": null,
+        "showAppDownLoad": false,
+        "showLoginDialog": false,
+        "showLoading": {
+            "show": false
+        },
+        "toast": {
+            "show": false,
+            "text": "",
+            "loading": false
+        },
+        "modelToast": {
+            "show": false,
+            "text": ""
+        },
+        "selectionGlobalShow": true,
+        "selectionInfo": {
+            "left": 0,
+            "top": 0,
+            "show": false,
+            "from": "",
+            "to": "",
+            "val": "",
+            "area": ""
+        },
+        "showConfirmDialog": false,
+        "promotionList": {
+            "pc_bottom": {
+                "imgsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png",
+                "qcsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png"
+            },
+            "pc_middle": [
+                {
+                    "src": "//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c",
+                    "bgColor": "#ffffff",
+                    "link": ""
+                }
+            ],
+            "pc_survey": {
+                "icon": "//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750",
+                "link": "https://wj.qq.com/s2/8193148/806d/"
+            }
+        },
+        "transTypeTxt": "text",
+        "fixedTabStatus": 0,
+        "bodyTop": 0,
+        "ifHideUserOperation": false
+    },
+    "textTranslate": {
+        "prevTransQuery": "",
+        "translateData": {
+            "translate": {
+                "zly": "zly",
+                "errorCode": "0",
+                "qc_type": "1",
+                "index": "content0",
+                "from": "en",
+                "source": "sogou",
+                "text": "yeah",
+                "to": "zh-CHS",
+                "id": "b46cb580-4fad-4afb-a62a-c72fc161b158",
+                "dit": "是",
+                "orig_text": "yeah",
+                "md5": ""
+            },
+            "detect": {
+                "zly": "zly",
+                "detect": "en",
+                "errorCode": "0",
+                "language": "英语",
+                "id": "5ab9e5f0-b523-11ef-9d86-8bbb0b8cafc4",
+                "text": "yeah"
+            },
+            "sgtkn": "64F38A2C63BED37971775AC922998F617268D33067552B4C",
+            "wordCard": {
+                "title": "yeah",
+                "show": true,
+                "usualDict": [
+                    {
+                        "values": [
+                            "是的；嗯；行；对；确实；是这样；好吧；行了；得了"
+                        ],
+                        "pos": "excl."
+                    },
+                    {
+                        "values": [
+                            "是的（表示同意或肯定）；当然；确实；好的；对"
+                        ],
+                        "pos": "n."
+                    }
+                ],
+                "secondQuery": "",
+                "exchange": {},
+                "levelList": [
+                    "小学",
+                    "初中",
+                    "四级",
+                    "六级"
+                ]
+            },
+            "detail": {
+                "synonym": [
+                    {
+                        "word_list": [
+                            "yes",
+                            "yep",
+                            "yeh"
+                        ],
+                        "pos": "adv.",
+                        "mean": "是"
+                    }
+                ],
+                "word_group": [
+                    {
+                        "brief_definition": "是的；当然；对",
+                        "phrase": "oh yeah",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "是的打赌",
+                        "phrase": "yeah bet",
+                        "pos": ""
+                    }
+                ],
+                "bilingual": [
+                    {
+                        "source": "<em>Yeah</em>, way to help out the team!",
+                        "target": "是啊，真是帮了团队的大忙！",
+                        "url": ""
+                    },
+                    {
+                        "source": "<em>Yeah</em>, his face always turned red when he talked to girls!",
+                        "target": "是啊，他和女生说话时脸总是红！",
+                        "url": ""
+                    },
+                    {
+                        "source": "\"<em>Yeah</em>,\" Jon agreed, flopping back wearily in the chair opposite him.",
+                        "target": "“是啊，”乔恩同意道，疲惫地靠在对面的椅子上。",
+                        "url": ""
+                    },
+                    {
+                        "source": "<em>Yeah</em>, I think so too.",
+                        "target": "是啊，我也这么认为。",
+                        "url": ""
+                    },
+                    {
+                        "source": "<em>Yeah</em>, I like this movie.",
+                        "target": "是啊，我喜欢这部电影。",
+                        "url": ""
+                    },
+                    {
+                        "source": "<em>Yeah</em>, that's a great idea.",
+                        "target": "是啊，那真是个好主意。",
+                        "url": ""
+                    },
+                    {
+                        "source": "<em>Yeah</em>, we should leave early.",
+                        "target": "是啊，我们应该早点出发。",
+                        "url": ""
+                    },
+                    {
+                        "source": "<em>Yeah</em>, I have finished my homework.",
+                        "target": "是啊，我已经完成了作业。",
+                        "url": ""
+                    },
+                    {
+                        "source": "<em>Yeah</em>, I heard you're a talented piano player.",
+                        "target": "是啊，我听说你是个很有天赋的钢琴演奏家。",
+                        "url": ""
+                    },
+                    {
+                        "source": "<em>Yeah</em>, he loves to have other kids to play with.",
+                        "target": "是啊，他喜欢和其他孩子一起玩。",
+                        "url": ""
+                    }
+                ],
+                "baike": {
+                    "showMore": true,
+                    "list": [
+                        {
+                            "lemmaTitle": "yeah",
+                            "link": "https://baike.sogou.com/v154949516.htm?ch=sogou.fanyi",
+                            "abstract": "yeah（英[jeə]，美[jeə]），英语单词，作惊叹词为是；噢；是吗。作名词为肯定的回答；同意；赞成。短语搭配有oh yeah（是的）。例句为“Yeah. I can see what you mean.（是的，我明白你的意思。）” yeah副词类近义词有yes、yep等。",
+                            "wapPic": "//img04.sogoucdn.com/v2/thumb/retype_exclude_gif/ext/auto/q/80/crop/xy/ai/w/140/h/140/resize/w/140?appid=201005&sign=bde56e6d026cc816a527804272992581&url=https%3A%2F%2Fpic.baike.soso.com%2Fugc%2Fbaikepic2%2F0%2F20240507000457-877788901_png_777_525_5077.jpg%2F0",
+                            "pcPic": "//img01.sogoucdn.com/v2/thumb/retype_exclude_gif/ext/auto/q/80/crop/xy/ai/w/140/h/140/resize/w/140?appid=201005&sign=bde56e6d026cc816a527804272992581&url=https%3A%2F%2Fpic.baike.soso.com%2Fugc%2Fbaikepic2%2F0%2F20240507000457-877788901_png_777_525_5077.jpg%2F0"
+                        },
+                        {
+                            "lemmaTitle": "yeah",
+                            "link": "https://baike.sogou.com/v711008.htm?ch=sogou.fanyi",
+                            "abstract": "网络互动剧《Y.E.A.H》，该剧利用最先进的在线视频互动技术，强调网友参与整个剧集的发展。定位是80后的一群人，没有雄厚的家庭背景，没有离奇的身世，就像你身边的朋友。男主角是个宅男，玩网络游戏、追漫画连载，女主角喜欢时尚却买不起名牌，只能成天和A货打交道。平凡生活中的精彩，才是真正的80后电视剧。",
+                            "wapPic": "//img03.sogoucdn.com/v2/thumb/retype_exclude_gif/ext/auto/q/80/crop/xy/ai/w/140/h/140/resize/w/140?appid=201005&sign=69481abbc40813c40277bfcb97b64adb&url=http%3A%2F%2Fpic.baike.soso.com%2Fugc%2Fbaikepic2%2F7752%2Fcut-20211021150916-184542050_jpg_679_453_58213.jpg%2F0",
+                            "pcPic": "//img03.sogoucdn.com/v2/thumb/retype_exclude_gif/ext/auto/q/80/crop/xy/ai/w/140/h/140/resize/w/140?appid=201005&sign=69481abbc40813c40277bfcb97b64adb&url=http%3A%2F%2Fpic.baike.soso.com%2Fugc%2Fbaikepic2%2F7752%2Fcut-20211021150916-184542050_jpg_679_453_58213.jpg%2F0"
+                        }
+                    ]
+                }
+            },
+            "book": {
+                "yingyinNormal": [
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/790daa8f93a1187ab951e0ec819d8f48_46441.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/87a08ecb44a40540a2daf76a960c23e6_14319.mp3",
+                        "isLavafox": true,
+                        "en": "<em>Yeah</em>. <em>Yeah</em>, too soon, huh?",
+                        "zh": "是啊，太早了，是吗？",
+                        "videoNameZh": "《海绵宝宝历险记：海绵出水》",
+                        "videoNameEn": "《The SpongeBob Movie: Sponge Out of Water》",
+                        "url": "http://bisentence_movie.sogou.com/152df9704c1fe61187e2c3df2920aff3_b4ac76e870cf3f01e5b254900b3fd2cfb92135e5"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/886b76b0c552c22c57062be63cf27261_37722.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/d39f76827960fb1a1be711f57f8abf8b_74405.mp3",
+                        "isLavafox": true,
+                        "en": "Hey, honey. I missed you today. Oh, <em>yeah</em>? <em>Yeah</em>. Hey.",
+                        "zh": "嗨，亲爱的，我今天好想你。喔,是吗？是啊。",
+                        "videoNameZh": "《老友记 第九季》",
+                        "videoNameEn": "《Friends Season 9》",
+                        "url": "http://bisentence_movie.sogou.com/7cc956a3482bfbecbbfd489e4d7a83e1_ccd2de765b0c279aed48c193ecefeb6df0366dcc"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/69e52acd9e09b6a2ed378507a165e971_14638.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/5b43185274a4d1aa1e3770e19c462273_46079.mp3",
+                        "isLavafox": true,
+                        "en": "<em>Yeah</em>, except when it involves Chuck. <em>Yeah</em>, pretty much.",
+                        "zh": "是啊，但如果是恰克，就另当别论了。是这么回事。",
+                        "videoNameZh": "《绯闻女孩 第一季》",
+                        "videoNameEn": "《Gossip Girl Season 1》",
+                        "url": "http://bisentence_movie.sogou.com/853cad093c07d85016055425d2ddebc6_f6b58db3cee2e5ac61119d97eaaf547af7008686"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/5bb981942caf87340ead3bfbb6c619e6_40098.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/c92fefdf15eb8546447ad7b5a8d11c6d_4039.mp3",
+                        "isLavafox": true,
+                        "en": "<em>Yeah</em>, I guess we did.",
+                        "zh": "是啊。",
+                        "videoNameZh": "《海绵宝宝历险记》",
+                        "videoNameEn": "《The SpongeBob SquarePants Movie》",
+                        "url": "http://bisentence_movie.sogou.com/42c541c8cd3b624ec631fefc18c5be77_e7c746cea02846fa9e2e7e116bb564d4219342e2"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/886b76b0c552c22c57062be63cf27261_37722.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/3ce1293c5a5e57e9508afaaad1881832_22392.mp3",
+                        "isLavafox": true,
+                        "en": "<em>Yeah</em>, she's not so cute.",
+                        "zh": "是啊，她不太可爱。",
+                        "videoNameZh": "《老友记 第九季》",
+                        "videoNameEn": "《Friends Season 9》",
+                        "url": "http://bisentence_movie.sogou.com/ab7766d3a9df8c58a0b67e247a18fbf9_9ed77ca73b789314318815e8980724ead6f01a3f"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/dde03d29cdf9f1eb3170279dd5ad8ff2_46072.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/ed8bfadb06987b795b413844025db92c_74666.mp3",
+                        "isLavafox": true,
+                        "en": "<em>Yeah</em>, I'm the problem today.",
+                        "zh": "是啊，今天的麻烦精是我呢。",
+                        "videoNameZh": "《摩登家庭 第六季》",
+                        "videoNameEn": "《Modern Family Season 6》",
+                        "url": "http://bisentence_movie.sogou.com/5e2b5356097c19bfb8f61f236e8df883_3e5b4b24b547ad8e15116808abc0090fecc9c8d5"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/8b3da16ecbe350aacc1a7e4a01d210bc_49869.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/d50949a15341eece1b4a4354bf3134db_16079.mp3",
+                        "isLavafox": true,
+                        "en": "<em>Yeah</em>, bitches are the worst.",
+                        "zh": "是啊，找个婊子可就太糟了。",
+                        "videoNameZh": "《生活大爆炸 第四季》",
+                        "videoNameEn": "《The Big Bang Theory Season 4》",
+                        "url": "http://bisentence_movie.sogou.com/113476e74351d3dae8fe7be78e223433_6fe30fb102e1b48dc855845b1299942b922b9ff8"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/21d26cfef0cd26f0813072491b08dd5a_57364.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/7b4cc3939407cb9f5ca9e3184dcd70f3_35705.mp3",
+                        "isLavafox": true,
+                        "en": "<em>Yeah</em>, that's when it started.",
+                        "zh": "是啊，她到那年纪\"才开始\"。",
+                        "videoNameZh": "《生活大爆炸 第六季》",
+                        "videoNameEn": "《The Big Bang Theory Season 6》",
+                        "url": "http://bisentence_movie.sogou.com/362b83e494b5f36819bf20360cf7dfe0_c550e0242291251a234fa98b127355fc3083ad35"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/f7d7167294560b5a445295985c93469c_14515.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/811843af33f74dea2ffa841e02825eb3_53680.mp3",
+                        "isLavafox": true,
+                        "en": "<em>Yeah</em>, maybe your dad's right.",
+                        "zh": "是啊，或许你爸是对的。",
+                        "videoNameZh": "《生活大爆炸 第十季》",
+                        "videoNameEn": "《The Big Bang Theory Season 10》",
+                        "url": "http://bisentence_movie.sogou.com/98c62219c72925bb9bb0674d75caf8dc_8297f626b0b88b1963a325c5ed9baccc3e3bd750"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/a501422482fd89e64251ebd1c480bc0a_8623.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/575ddb1892d88986e4a0376a27126562_59243.mp3",
+                        "isLavafox": true,
+                        "en": "You'll have a good time. <em>Yeah</em>.",
+                        "zh": "你会很享受的。是啊。",
+                        "videoNameZh": "《欲望都市2》",
+                        "videoNameEn": "《Sex and the City 2》",
+                        "url": "http://bisentence_movie.sogou.com/309361b5f575932d6bf685553e5d4f34_5ef1441b8f351c4e93fc75618d5567f0d7705296"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/a86e6e98cc64448e528c65f2085efa0f_30194.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/c353c6502ab6e618119c45f7e7e487b9_72604.mp3",
+                        "isLavafox": true,
+                        "en": "<em>Yeah</em>, it's nothing to cry about.",
+                        "zh": "是啊，不要哭。",
+                        "videoNameZh": "《生活大爆炸 第7季》",
+                        "videoNameEn": "《The Big Bang Theory Season 7》",
+                        "url": "http://bisentence_movie.sogou.com/5db260436563b8c957c686dbefcced6a_0c7b0f63707a3af4308fc034fb896563376a17a5"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/39e50807a5a1191398262e04787ff184_62485.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/3616af2142ed17ef4dc3691d9dcfe2f9_41467.mp3",
+                        "isLavafox": true,
+                        "en": "A party? <em>Yeah</em>. A boy-girl party?",
+                        "zh": "派对？是啊，是‘男女’派对？",
+                        "videoNameZh": "《生活大爆炸 第一季》",
+                        "videoNameEn": "《The Big Bang Theory Season 1》",
+                        "url": "http://bisentence_movie.sogou.com/a09e28b1e569b303ea5cc30f8f2f5e8d_66cf01da06c0791119d9606f0421cf600a8d8261"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/83bcab8039fa5140ba0e29ca21fce0eb_17113.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/fa258695636ad695cb4820d2fde7b461_4483.mp3",
+                        "isLavafox": true,
+                        "en": "Are they all appalled? Yes. <em>Yeah</em>.",
+                        "zh": "他们是不是都震惊了？是啊，没错。",
+                        "videoNameZh": "《遇见你之前》",
+                        "videoNameEn": "《Me before you》",
+                        "url": "http://bisentence_movie.sogou.com/98b8514e366de7e6e744f75d2b54d2ee_2a02e53ddeaa4f9fc4724574d83f5bbaef5efc57"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/882c4a955031459b92686f70d94deed1_14165.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/df1428dbd1a2e697dbbbb8b823ae5ac8_2575.mp3",
+                        "isLavafox": true,
+                        "en": "That and an excess of wine. <em>Yeah</em>.",
+                        "zh": "加上饮酒过量。是啊。",
+                        "videoNameZh": "《马可波罗 第一季》",
+                        "videoNameEn": "《Marco Polo Season 1》",
+                        "url": "http://bisentence_movie.sogou.com/6084d9955334330a4906b6206173df2b_e7e069acc658ad8a3a310777acfb63b3eb092b17"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/95bf83fa9c39ec4f55b8511dc0c4ed29_55630.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/b9d2ad18eafa681b8dc609045a57aecf_64860.mp3",
+                        "isLavafox": true,
+                        "en": "<em>Yeah</em>, it's almost definitely him.",
+                        "zh": "是啊，差不多就是他了。",
+                        "videoNameZh": "《老友记 第十季》",
+                        "videoNameEn": "《Friends Season 10》",
+                        "url": "http://bisentence_movie.sogou.com/0114809ad66874982e55a9b819584188_74cb18d6e03df6f71864383ad289c22f853b5b82"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/95bf83fa9c39ec4f55b8511dc0c4ed29_55630.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/281d6fae6bc370cc978a0d2aa3b420c5_36506.mp3",
+                        "isLavafox": true,
+                        "en": "Oh, <em>yeah</em>. That's true. I haven't.",
+                        "zh": "还真是啊，我没有。",
+                        "videoNameZh": "《老友记 第十季》",
+                        "videoNameEn": "《Friends Season 10》",
+                        "url": "http://bisentence_movie.sogou.com/3892cb1379f00201358569e58846c9f4_25eaa852c5355354c052fdd230eedf7679c1dc7c"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/14b4db1d01990f1eebbc67159676e6fd_60172.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/7c4aea181f1b21a90cbeabf15add9ec8_55773.mp3",
+                        "isLavafox": true,
+                        "en": "<em>Yeah</em>, well, he's still an asshole.",
+                        "zh": "是啊，他就是个混蛋。",
+                        "videoNameZh": "《移动迷宫》",
+                        "videoNameEn": "《The Maze Runner》",
+                        "url": "http://bisentence_movie.sogou.com/c17fdccf55adc245cf9d66b5056168ff_eea632a202fae1e61037217a1647f398effbca1a"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/90d695a9e78539f7e946c7586f56f1f7_47628.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/6f554d9ba6ac90b1dea028fae4757544_6348.mp3",
+                        "isLavafox": true,
+                        "en": "<em>Yeah</em>, they've got great muscle tone.",
+                        "zh": "是啊，他们的肌张力很出色。",
+                        "videoNameZh": "《阿凡达》",
+                        "videoNameEn": "《Avatar》",
+                        "url": "http://bisentence_movie.sogou.com/b3bd0224c7e2ffb3bc868d0962cad41c_eaae6f2a73e34d0132846c349dc6b7cb3d953ea4"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/ca940f411633b0de0be4ac84edea3b87_62478.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/1926cfe014ba4abf4fb1fb0f68721880_32793.mp3",
+                        "isLavafox": true,
+                        "en": "<em>Yeah</em>, like we just weren't ourselves.",
+                        "zh": "是啊，我们都好像不是自己了。",
+                        "videoNameZh": "《博物馆奇妙夜3》",
+                        "videoNameEn": "《Night at the Museum: Secret of the Tomb》",
+                        "url": "http://bisentence_movie.sogou.com/835767a08638467ff20901004b546966_3534b9a0219ea60218b1338ebf4d081558acaaea"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/ae9d6f2f04858f0af8517ff08116148e_6738.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/7c8f4b8c71ab10b2440b08fa40f58b7a_72764.mp3",
+                        "isLavafox": true,
+                        "en": "It's good to see her again, huh? <em>Yeah</em>.",
+                        "zh": "又见到她真好啊，是不是？是啊。",
+                        "videoNameZh": "《女孩成长记 第三季》",
+                        "videoNameEn": "《Girl Meets World Season 3》",
+                        "url": "http://bisentence_movie.sogou.com/909b603efa26f8f3401ffa70a590ace1_4e9ab50cef45be2f18fdfa86029b3de28a76bc15"
+                    }
+                ]
+            },
+            "pic": "",
+            "voice": {
+                "phonetic": [
+                    {
+                        "text": "jeə",
+                        "type": "uk",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/2880_yeah_uk.mp3"
+                    },
+                    {
+                        "text": "jeə",
+                        "type": "usa",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/2880_yeah_usa.mp3"
+                    }
+                ]
+            },
+            "dictType": "oxford_buchong",
+            "CET6": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 12,
+                        "pos": "excl/n",
+                        "chinese": "是; 是的",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "yeah",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2016.6-2023.6年8年间全六级试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight>考纲释义</highlight>\n精选实考、考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2016-2023年51套试卷，包括阅读、听力、翻译等所有题型。\n\n<highlight>真题例句</highlight>\n精选2016-2023年8年间全六级试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 3,
+                "total_exam_freq": 12,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "是; 是的",
+                            "pos": "excl/n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "<highlight>Yeah</highlight>, I can see that.",
+                                    "month": 12,
+                                    "source": "CET6",
+                                    "coll": "",
+                                    "sentence_trans": "是的，我知道。",
+                                    "year": 2020,
+                                    "type": "听力",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "<highlight>Yeah</highlight> That's much too large a topic.",
+                                    "month": 12,
+                                    "source": "CET6",
+                                    "coll": "",
+                                    "sentence_trans": "是的，这个话题太大了。",
+                                    "year": 2018,
+                                    "type": "听力",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "<highlight>Yeah</highlight>, I can see your point, but in the United States we have many private universities.",
+                                    "month": 6,
+                                    "source": "CET6",
+                                    "coll": "",
+                                    "sentence_trans": "是的，我明白你的意思，但在美国我们有很多私立大学。",
+                                    "year": 2016,
+                                    "type": "听力",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            "CET4": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 23,
+                        "pos": "excl/n",
+                        "chinese": "是; 是的",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "yeah",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2016.6-2023.6年8年间全四级试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight>考纲释义</highlight>\n精选实考、考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2016-2023年51套试卷，包括阅读、听力、翻译等所有题型。\n\n<highlight>真题例句</highlight>\n精选2016-2023年8年间试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 5,
+                "total_exam_freq": 23,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "是; 是的",
+                            "pos": "excl/n",
+                            "synonyms": "okay",
+                            "antonyms": "no, scarcely",
+                            "examination_example": [
+                                {
+                                    "sentence": "<highlight>Yeah</highlight>, I suppose you're right.",
+                                    "month": 6,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "是的，我认为你是对的。",
+                                    "year": 2017,
+                                    "type": "听力",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "<highlight>Yeah</highlight>, there's only two weeks to go.",
+                                    "month": 6,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "是的，只剩两周了。",
+                                    "year": 2017,
+                                    "type": "听力",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "<highlight>Yeah</highlight>. I can see what you mean.",
+                                    "month": 6,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "是的，我明白你的意思。",
+                                    "year": 2016,
+                                    "type": "听力",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            "sentencesData": {
+                "status": 1,
+                "info": "notZh2En",
+                "data": {}
+            },
+            "isAutoMatch": false,
+            "Zh2En": false
+        },
+        "query": "yeah",
+        "result": "是",
+        "tabSelect": "detail",
+        "dictionaryType": "oxford_buchong",
+        "notFound_show": false,
+        "phoneticShow": "",
+        "globalShowTranslateRecord": "",
+        "pronPrefer": {
+            "type": "usa_1",
+            "speaker": "male",
+            "speed": "standard"
+        },
+        "ServerRecord": "",
+        "ServerUIGS": {
+            "version": "new",
+            "type": "all",
+            "stype": "success",
+            "terminal": "web",
+            "fr": "default",
+            "direction": "etoz",
+            "from": "en",
+            "to": "zh-CHS",
+            "len": 4,
+            "qtype": "text",
+            "qctype": "qc_1",
+            "dict_cover": 1,
+            "detail": 1,
+            "wordCardCover": 1,
+            "wordCardEn": 1,
+            "wordCardCh": 0,
+            "wordCardMinor": 0,
+            "wordCardNetmean": 0,
+            "wordDeform": 0,
+            "keyword": 0,
+            "bilingual": 1,
+            "simple": 0,
+            "levelList": 1,
+            "synonym": 1,
+            "antonym": 0,
+            "conjugate": 0,
+            "rootaffix": 0,
+            "baike_sogou": 1,
+            "baike_wiki": 0,
+            "wordDifference": 0,
+            "word_phrase": 1,
+            "secondQuery": 0,
+            "dict_oxford": 0,
+            "dict_newcentury": 0,
+            "zhongkaotab": 0,
+            "gaokaotab": 0,
+            "CET4tab": 1,
+            "CET6tab": 1,
+            "kaoyantab": 0,
+            "network_tab": 0,
+            "yinying_tab": 1,
+            "tuozhan_tab": 0,
+            "one_pic": 0,
+            "more_pic": 0,
+            "no_pic": 0,
+            "uuid": "b46cb580-4fad-4afb-a62a-c72fc161b158",
+            "from_type": 0,
+            "t_trans_ssr": 157
+        },
+        "ServerModelUIGS": {
+            "terminal": "web",
+            "type": "trans_model",
+            "pbtype": "pv",
+            "model_general": 1,
+            "model_medical": 1,
+            "model_finance": 1
+        },
+        "ServerSgtkn": "64F38A2C63BED37971775AC922998F617268D33067552B4C",
+        "suggShow": false,
+        "suggestion": "",
+        "suggDirection": "",
+        "usualTop": "",
+        "baseDict": "",
+        "wordCardClick": false,
+        "isFrInput": false,
+        "kanaTips": {
+            "show": false,
+            "left": "",
+            "top": "",
+            "type": "",
+            "arrowLeft": ""
+        },
+        "currSentenceIndex": -1,
+        "prefixStrObj": {
+            "prefixStr": "",
+            "oriPrefixStr": ""
+        },
+        "selectTransBox": {
+            "show": false,
+            "right": 0,
+            "top": 0,
+            "paraphraseInfo": {
+                "word": "",
+                "from": "",
+                "to": "",
+                "area": ""
+            }
+        },
+        "sentenceLoading": false,
+        "newSentenceInfo": {
+            "sentence": "",
+            "candidateIndex": 0
+        },
+        "moreTipInfo": {
+            "opacity": 0,
+            "zIndex": -1
+        },
+        "paraphraseShowInfo": {
+            "card": 0,
+            "query": "",
+            "card_dict": 0
+        },
+        "selectType": "",
+        "wordPos": 0,
+        "candidateWord": "",
+        "syntaxVisible": false,
+        "syntaxStatus": 0
+    },
+    "language": {
+        "from": "auto",
+        "to": "zh-CHS",
+        "detect": "en",
+        "model": "general",
+        "detectShow": false,
+        "langMap": {
+            "current": ""
+        },
+        "zh2en": false,
+        "fromItemList": [
+            {
+                "lang": "auto",
+                "text": "自动检测",
+                "play": false
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "ru",
+                "text": "俄语",
+                "play": true,
+                "abbr": "俄"
+            },
+            {
+                "lang": "fr",
+                "text": "法语",
+                "play": true,
+                "abbr": "法"
+            },
+            {
+                "lang": "th",
+                "text": "泰语",
+                "play": true,
+                "abbr": "泰"
+            }
+        ],
+        "toItemList": [
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "vi",
+                "text": "越南语",
+                "play": true,
+                "abbr": "越"
+            },
+            {
+                "lang": "ru",
+                "text": "俄语",
+                "play": true,
+                "abbr": "俄"
+            },
+            {
+                "lang": "fr",
+                "text": "法语",
+                "play": true,
+                "abbr": "法"
+            }
+        ]
+    },
+    "voice": {
+        "from": {
+            "lang": "en",
+            "type": "from",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22yeah%22%2C%22spokenDialect%22%3A%22en%22%2C%22rate%22%3A%220.8%22%7D",
+            "list": [
+                {
+                    "type": "uk_0",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "jeə",
+                    "abbr": "英",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/2880_yeah_uk.mp3"
+                },
+                {
+                    "type": "usa_1",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "jeə",
+                    "abbr": "美",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/2880_yeah_usa.mp3"
+                }
+            ],
+            "stype": "phonetic",
+            "phoneticShow": [
+                {
+                    "text": "jeə",
+                    "type": "uk",
+                    "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/2880_yeah_uk.mp3"
+                }
+            ]
+        },
+        "to": {
+            "lang": "zh",
+            "type": "to",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22%E6%98%AF%22%2C%22spokenDialect%22%3A%22zh-CHS%22%2C%22rate%22%3A%220.8%22%7D",
+            "stype": "normal"
+        }
+    }
+}

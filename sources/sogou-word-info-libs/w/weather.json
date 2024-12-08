@@ -1,0 +1,1734 @@
+{
+    "route": {
+        "name": "text",
+        "path": "/text",
+        "hash": "",
+        "query": {
+            "keyword": "weather",
+            "transfrom": "auto",
+            "transto": "zh-CHS",
+            "model": "general",
+            "errcode": "s10"
+        },
+        "params": {},
+        "fullPath": "/text?keyword=weather&transfrom=auto&transto=zh-CHS&model=general&errcode=s10",
+        "meta": {
+            "mtype": [
+                "textTranslate",
+                "language",
+                "voice"
+            ]
+        },
+        "from": {
+            "name": null,
+            "path": "/",
+            "hash": "",
+            "query": {},
+            "params": {},
+            "fullPath": "/",
+            "meta": {}
+        }
+    },
+    "common": {
+        "CONFIG": {
+            "wuid": 1733634765597,
+            "loginInfo": {},
+            "isIE": 0,
+            "isHitSsrSwitch": true,
+            "isHitWritebookSwitch": false,
+            "isHitAmsSwitch": true,
+            "promotionList": "{\n    \"pc_bottom\":{\n        \"imgsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\",\n        \"qcsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\"\n    },\n    \"pc_middle\":[\n        {\n            \"src\":\"//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c\",\n            \"bgColor\":\"#ffffff\",\n            \"link\":\"\"\n        }\n    ],\n    \"pc_survey\":{\n        \"icon\":\"//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750\",\n        \"link\":\"https://wj.qq.com/s2/8193148/806d/\"\n    }\n}",
+            "bannerData": [],
+            "isHitAsideSurvey": false,
+            "secretCode": 109984457,
+            "uuid": "ac02c4de-c706-4f20-b3d2-5d70c83b39e9",
+            "referer": "",
+            "approveToken": "64F30EF270ACFD6B606648DB2C3FFE1860DBDF2367552ACD",
+            "loadTime": 1733634765599,
+            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0",
+            "fcp": "170.64.148.76",
+            "temporaryId": "",
+            "fileId": ""
+        },
+        "hotWords": [],
+        "isFromCollect": false,
+        "psdModify": {
+            "currentStep": 1,
+            "scode": "",
+            "username": ""
+        },
+        "loginStatus": true,
+        "feedBackModule": false,
+        "showPromotionPopup": {
+            "show": false,
+            "type": ""
+        },
+        "showPromotionPCDownload": false,
+        "showShareBomb": false,
+        "shareData": null,
+        "showAppDownLoad": false,
+        "showLoginDialog": false,
+        "showLoading": {
+            "show": false
+        },
+        "toast": {
+            "show": false,
+            "text": "",
+            "loading": false
+        },
+        "modelToast": {
+            "show": false,
+            "text": ""
+        },
+        "selectionGlobalShow": true,
+        "selectionInfo": {
+            "left": 0,
+            "top": 0,
+            "show": false,
+            "from": "",
+            "to": "",
+            "val": "",
+            "area": ""
+        },
+        "showConfirmDialog": false,
+        "promotionList": {
+            "pc_bottom": {
+                "imgsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png",
+                "qcsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png"
+            },
+            "pc_middle": [
+                {
+                    "src": "//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c",
+                    "bgColor": "#ffffff",
+                    "link": ""
+                }
+            ],
+            "pc_survey": {
+                "icon": "//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750",
+                "link": "https://wj.qq.com/s2/8193148/806d/"
+            }
+        },
+        "transTypeTxt": "text",
+        "fixedTabStatus": 0,
+        "bodyTop": 0,
+        "ifHideUserOperation": false
+    },
+    "textTranslate": {
+        "prevTransQuery": "",
+        "translateData": {
+            "translate": {
+                "zly": "zly",
+                "errorCode": "0",
+                "qc_type": "1",
+                "index": "content0",
+                "from": "en",
+                "source": "sogou",
+                "text": "weather",
+                "to": "zh-CHS",
+                "id": "ac02c4de-c706-4f20-b3d2-5d70c83b39e9",
+                "dit": "天气",
+                "orig_text": "weather",
+                "md5": ""
+            },
+            "detect": {
+                "zly": "zly",
+                "detect": "en",
+                "errorCode": "0",
+                "language": "英语",
+                "id": "0f3ec730-b523-11ef-b7f2-3bd23c306383",
+                "text": "weather"
+            },
+            "sgtkn": "64F30EF870ACFD6B606648DB2C3FFE1860DBDF2367552ACD",
+            "wordCard": {
+                "title": "weather",
+                "show": true,
+                "usualDict": [
+                    {
+                        "values": [
+                            "天气；气象；天气状况；气象条件；恶劣天气；自然环境中的力量；[海]上风面；向风侧；风向；（船只的）顶风航行能力"
+                        ],
+                        "pos": "n."
+                    },
+                    {
+                        "values": [
+                            "经受住；安全度过（困难或危机）；风干；风化；受到风雨侵蚀；使受风吹雨打；（因受风吹、日晒、雨淋等）使退色；使变色；使变形；经受住；平安地渡过（困难）；安全绕过；航行越过…的上风面"
+                        ],
+                        "pos": "v."
+                    },
+                    {
+                        "values": [
+                            "露天的；[海]上风的；向风一侧的"
+                        ],
+                        "pos": "adj."
+                    }
+                ],
+                "secondQuery": "",
+                "exchange": {
+                    "word_third": [
+                        "weathers"
+                    ],
+                    "word_ing": [
+                        "weathering"
+                    ],
+                    "word_done": [
+                        "weathered"
+                    ],
+                    "word_past": [
+                        "weathered"
+                    ]
+                },
+                "levelList": [
+                    "小学",
+                    "初中",
+                    "高中",
+                    "四级",
+                    "六级",
+                    "考研",
+                    "托福",
+                    "GRE"
+                ]
+            },
+            "detail": {
+                "synonym": [
+                    {
+                        "word_list": [
+                            "climate",
+                            "situation"
+                        ],
+                        "pos": "n.",
+                        "mean": "天气；气象；气候；处境"
+                    },
+                    {
+                        "word_list": [
+                            "last out",
+                            "eat into"
+                        ],
+                        "pos": "vt.",
+                        "mean": "经受住；使风化；侵蚀；使受风吹雨打"
+                    },
+                    {
+                        "word_list": [
+                            "bloom out",
+                            "effloresce"
+                        ],
+                        "pos": "vi.",
+                        "mean": "风化；受侵蚀；经受风雨"
+                    },
+                    {
+                        "word_list": [
+                            "outdoor",
+                            "unroofed"
+                        ],
+                        "pos": "adj.",
+                        "mean": "露天的；迎风的"
+                    }
+                ],
+                "wordRootInfo": {
+                    "word_info_list": [
+                        {
+                            "word": "weathered",
+                            "pos_mean_info_list": [
+                                {
+                                    "pos": "adj.",
+                                    "mean": "风化的；倾斜的"
+                                },
+                                {
+                                    "pos": "v.",
+                                    "mean": "暴露于空气之中；使退色（weather的过去分词）"
+                                }
+                            ]
+                        },
+                        {
+                            "word": "weatherproof",
+                            "pos_mean_info_list": [
+                                {
+                                    "pos": "adj.",
+                                    "mean": "防风雨的；不受天气影响的"
+                                },
+                                {
+                                    "pos": "n.",
+                                    "mean": "雨衣"
+                                },
+                                {
+                                    "pos": "vt.",
+                                    "mean": "使……能耐风雨"
+                                }
+                            ]
+                        },
+                        {
+                            "word": "weatherly",
+                            "pos_mean_info_list": [
+                                {
+                                    "pos": "adj.",
+                                    "mean": "能抢风航行的；能驶向上风的"
+                                }
+                            ]
+                        },
+                        {
+                            "word": "weatherman",
+                            "pos_mean_info_list": [
+                                {
+                                    "pos": "n.",
+                                    "mean": "气象员；天气预报员"
+                                }
+                            ]
+                        },
+                        {
+                            "word": "weatherliness",
+                            "pos_mean_info_list": [
+                                {
+                                    "pos": "n.",
+                                    "mean": "顶风能力；抗风暴能力"
+                                }
+                            ]
+                        },
+                        {
+                            "word": "weatherstrip",
+                            "pos_mean_info_list": [
+                                {
+                                    "pos": "n.",
+                                    "mean": "挡风雨条"
+                                }
+                            ]
+                        }
+                    ],
+                    "root_word": "weather"
+                },
+                "word_difference_info": [],
+                "word_group": [
+                    {
+                        "brief_definition": "极端天气；极端气象；极端气候",
+                        "phrase": "extreme weather",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "略有不适, 身体不舒服, 不得劲",
+                        "phrase": "under the weather",
+                        "pos": "idm"
+                    },
+                    {
+                        "brief_definition": "气象站",
+                        "phrase": "weather station",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "温暖的天气",
+                        "phrase": "warm weather",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "天气报告；天气预报；气象报告",
+                        "phrase": "weather report",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "好天气；晴天",
+                        "phrase": "fine weather",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "天气模式；天气的模式；天气型",
+                        "phrase": "weather pattern",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "天气预报",
+                        "phrase": "weather forecast",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "天气卫星；气象卫星；气候卫星",
+                        "phrase": "weather satellite",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "寒冷天气",
+                        "phrase": "cold weather",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "不论天气好坏, 风雨无阻",
+                        "phrase": "in all weathers",
+                        "pos": "idm"
+                    },
+                    {
+                        "brief_definition": "气象图；天气图",
+                        "phrase": "weather map",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "气象图；天气图",
+                        "phrase": "weather chart",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "气象气球",
+                        "phrase": "weather balloon",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "仔细观察",
+                        "phrase": "keep a weather eye on",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "晴雨表；气压计",
+                        "phrase": "weather glass",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "对（任务，问题）小题大做",
+                        "phrase": "make heavy weather of",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "晴雨盒",
+                        "phrase": "weather house",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "上风舵",
+                        "phrase": "weather helm",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "墙顶盖瓦；护墙瓦",
+                        "phrase": "weather tile",
+                        "pos": "n."
+                    }
+                ],
+                "bilingual": [
+                    {
+                        "source": "Be careful with the <em>weather</em>.",
+                        "target": "小心天气。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Look at the <em>weather</em> table.",
+                        "target": "看看天气表。",
+                        "url": ""
+                    },
+                    {
+                        "source": "The <em>weather</em> must be cold.",
+                        "target": "天气一定很冷。",
+                        "url": ""
+                    },
+                    {
+                        "source": "The <em>weather</em> is still cold.",
+                        "target": "天气依然寒冷。",
+                        "url": ""
+                    },
+                    {
+                        "source": "But the <em>weather</em> was so cold.",
+                        "target": "但是天气很冷。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Because the <em>weather</em> is nice.",
+                        "target": "因为天气很好。",
+                        "url": ""
+                    },
+                    {
+                        "source": "How was the <em>weather</em> there?",
+                        "target": "那里的天气怎么样？",
+                        "url": ""
+                    },
+                    {
+                        "source": "The <em>weather</em> is beautiful today!",
+                        "target": "今天天气很好！",
+                        "url": ""
+                    },
+                    {
+                        "source": "Look at the world <em>weather</em> map.",
+                        "target": "看看世界天气图。",
+                        "url": ""
+                    },
+                    {
+                        "source": "The <em>weather</em> has been appalling.",
+                        "target": "天气一直很糟糕。",
+                        "url": ""
+                    }
+                ],
+                "baike": {
+                    "showMore": false,
+                    "list": [
+                        {
+                            "lemmaTitle": "weather",
+                            "link": "https://baike.sogou.com/v33593010.htm?ch=sogou.fanyi",
+                            "abstract": "weather，英语单词，名词、动词、形容词，作名词时译为“天气；气象；气候；处境，人名；(英)韦瑟”，作动词时译为“经受住；使风化；侵蚀；使受风吹雨打，风化；受侵蚀；经受风雨”，作形容词时译为“露天的；迎风的”。",
+                            "wapPic": "",
+                            "pcPic": ""
+                        }
+                    ]
+                }
+            },
+            "book": {
+                "yingyinNormal": [
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/629af26ee246702b04dae9c64fe5736b_64581.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/0e6fe7dbf08587ade1a5d1c2ce524901_3612.mp3",
+                        "isLavafox": true,
+                        "en": "Thank you, Ms. Rabbit! Enjoy the <em>weather</em>!",
+                        "zh": "谢谢你，兔小姐！享受这天气吧！",
+                        "videoNameZh": "《小猪佩奇（精选版）》",
+                        "videoNameEn": "《Peppa Pig》",
+                        "url": "http://bisentence_movie.sogou.com/6ce636ac6f14fcb41a5ad83fc3e880a1_ea54b0ac75b1e87ce2a83fe138d278df7da78e90"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/7ce921a8f001372a4cffb71c4b10216a_5918.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/aa26a27297602b6e8ba491f3dc2ee18c_27790.mp3",
+                        "isLavafox": true,
+                        "en": "I hope the <em>weather</em> stays fine for your sport.",
+                        "zh": "我希望天气为你的捕猎保持晴朗。",
+                        "videoNameZh": "《傲慢与偏见》",
+                        "videoNameEn": "《Pride & Prejudice》",
+                        "url": "http://bisentence_movie.sogou.com/a99c5ef9d5b852460260c53e5e057c8b_f8c931e6324cb2981b88c2c3a4b7229d1d802cc8"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/3cc7f04bc4e6bde5cc691b286df1a676_37630.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/8899d5edb1238cf057175a5b0098447c_66109.mp3",
+                        "isLavafox": true,
+                        "en": "God, what a great day! What? <em>Weather</em>-wise.",
+                        "zh": "多美好的一天啊。什么？我是指天气。",
+                        "videoNameZh": "《老友记第一季》",
+                        "videoNameEn": "《Friends Season 1》",
+                        "url": "http://bisentence_movie.sogou.com/f698032823cf68c14714642095105f06_cd984acd78809f3859e27ece09c92c642a5954e8"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/eb018cf49e3f89f3bef3ea53525e6ccf_56032.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/6be645cbb558ab30c0e203f55cf94cb4_10368.mp3",
+                        "isLavafox": true,
+                        "en": "Nice try. You're gonna have to find some other way to not have sex with me tonight. And it's not <em>weather</em> girl, it's <em>weather</em> woman.",
+                        "zh": "你想得美。今晚你得用其他的理由来拒绝和我滚床单了。这不是天气预报女孩，这是天气预报女郎。",
+                        "videoNameZh": "《生活大爆炸 第十二季》",
+                        "videoNameEn": "《The Big Bang Theory Season 12》",
+                        "url": "http://bisentence_movie.sogou.com/7e3acf32b398f0012071349011b30ba4_c8ae89b96071bc97b74e8249690d232747e1fd0d"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/b630caafa2606557856da7a333933a5d_54182.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/c4748753d3322ab72f9690b66778adc0_59335.mp3",
+                        "isLavafox": true,
+                        "en": "The big boobed <em>weather</em> girl on Channel 2? That's the one.",
+                        "zh": "就是第二台的那个爆乳天气女郎吗？就是她。",
+                        "videoNameZh": "《生活大爆炸 第三季》",
+                        "videoNameEn": "《The Big Bang Theory Season 3》",
+                        "url": "http://bisentence_movie.sogou.com/1a7cf8fb02cc8513e3a5799aefc90937_6dc57a7be52325222f6c50e66f1bca28b5215809"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/8a5b25dfe5e482fce849895959f35aba_1648.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/37ae675e164414ca0c305b48cc6ff9e7_40923.mp3",
+                        "isLavafox": true,
+                        "en": "Hey, I didn't stalk her. I mean. Okay, I asked for the news, not the <em>weather</em>.",
+                        "zh": "我没有跟踪她。我是问新闻，不是问天气。",
+                        "videoNameZh": "《老友记 第三季》",
+                        "videoNameEn": "《Friends Season 3》",
+                        "url": "http://bisentence_movie.sogou.com/d2b2fe4836cd42c7b55dc179353f03ac_0b8ae801759715af087c1c717c6d100501695f6e"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/0ce5a45f0c4dc6ea7a59b6540f05828e_40864.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/105031dbaa61a3452beacb73293f6e87_21402.mp3",
+                        "isLavafox": true,
+                        "en": "0600 hours. <em>Weather</em> today is clear. Rain in the evening. Heil Hitler.",
+                        "zh": "0600小时，今天天气晴朗，晚上有雨，希特勒万岁！",
+                        "videoNameZh": "《模仿游戏》",
+                        "videoNameEn": "《The Imitation Game》",
+                        "url": "http://bisentence_movie.sogou.com/0cd2e5a998d7e4dac897cfcd85eac1a2_27e6cd3c0f1a1d241a70cf768ebca2d1cafdaa7d"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/eb018cf49e3f89f3bef3ea53525e6ccf_56032.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/e847d7ea3f3b9a9804bb884164ac93f9_3428.mp3",
+                        "isLavafox": true,
+                        "en": "Man, that is one hot <em>weather</em> girl. How come if I say that I get in trouble?",
+                        "zh": "天，这个天气预报女孩可真辣。凭什么我说这种话就得送命？",
+                        "videoNameZh": "《生活大爆炸 第十二季》",
+                        "videoNameEn": "《The Big Bang Theory Season 12》",
+                        "url": "http://bisentence_movie.sogou.com/c790ecd66bb7d6f7446d3aabdb255ce2_9114dda73dfa5db7a53db10aa509bf7a4917c55f"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/ce4704185ed874d2da0aa0211b7c5d4d_3508.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/9cf15ea18e78d1278c77495ce8d3b0ce_73514.mp3",
+                        "isLavafox": true,
+                        "en": "Robert. Sorry I'm running late. We hit some <em>weather</em> on the way back from Iowa.",
+                        "zh": "罗伯特。抱歉我来晚了。我们从爱荷华州回来时天气不太好。",
+                        "videoNameZh": "《纸牌屋 第三季》",
+                        "videoNameEn": "《House of Cards Season 3》",
+                        "url": "http://bisentence_movie.sogou.com/2916897039914c2c01fae70cf7f67498_6da588d631852c44d7d723d8b7a5c6eb04e968b6"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/801dfe77494721a1ea27b2da97ba5878_52038.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/3ab7d7f798bd31eb2ab9814fc06c1794_43857.mp3",
+                        "isLavafox": true,
+                        "en": "The <em>weather</em> doesn't look so great. It's not. Looks like there's a storm moving in.",
+                        "zh": "天气不是太好。是不太好。它看起来像一场风暴雨即将到来。",
+                        "videoNameZh": "《白日梦想家》",
+                        "videoNameEn": "《The Secret Life of Walter Mitty》",
+                        "url": "http://bisentence_movie.sogou.com/1878d72c132029a86fb93e646643532e_8482024ce1a237be9fcab0de168f99bdadd2c1c9"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/21d26cfef0cd26f0813072491b08dd5a_57364.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/398ec5980eab5fb3e1932e4e783bda2e_38001.mp3",
+                        "isLavafox": true,
+                        "en": "Yeah, well, Bernadette's a little under the <em>weather</em> and my mom's kind of under my dentist.",
+                        "zh": "天气转凉，伯纳黛特身体不适，我妈则被我的牙医压在了身下。",
+                        "videoNameZh": "《生活大爆炸 第六季》",
+                        "videoNameEn": "《The Big Bang Theory Season 6》",
+                        "url": "http://bisentence_movie.sogou.com/9e361e78dd2362c8837041538222b5ba_3c13994a6b6dd465a77386afb89db7cd72ae22aa"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/8ebc69621c845dba3ee412feb5096db1_6534.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/05025f541a9309189a311254c929e69a_5333.mp3",
+                        "isLavafox": true,
+                        "en": "I mean, they're trying, but <em>weather</em> being what it is, they wouldn't get here in time to say good-bye anyway.",
+                        "zh": "他们想来的，不过这种天气反正也赶不及过来跟我道别了。",
+                        "videoNameZh": "《我们这一天 第一季》",
+                        "videoNameEn": "《This Is Us Season 1》",
+                        "url": "http://bisentence_movie.sogou.com/37e3635b972e3a9974e667281ef0dc9e_aa871da2fda47b346a859db44c7b3f99bfa5794f"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/a3f6ca8d0ebaa5b0956976d643673427_52102.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/908749fa4dedcf8ef62ebac6716e1c2c_51133.mp3",
+                        "isLavafox": true,
+                        "en": "Me, too. The <em>weather</em> forecast says it's going to be sunny. Good night, Peppa. Good night, George.",
+                        "zh": "我也是！天气预报说了明天会是个大晴天。晚安，佩奇。晚安，乔治。",
+                        "videoNameZh": "《小猪佩奇 第三季》",
+                        "videoNameEn": "《Peppa Pig Season 3》",
+                        "url": "http://bisentence_movie.sogou.com/50e98e441e2ae343aee5492b8b4bbd39_c81460de41f170e128997e1f67a844d2670396d6"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/7eb0bec9540cbb2c5939554caf885c99_49670.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/4c8792338f45b02ebbc17beb94ec6209_48980.mp3",
+                        "isLavafox": true,
+                        "en": "So, do you find the <em>weather</em> satisfying? Are you currently sharing in the triumph of some local sports team?",
+                        "zh": "你觉得今天天气好吗？我们本地的球队赢球了你是否为之一振？",
+                        "videoNameZh": "《生活大爆炸 第二季》",
+                        "videoNameEn": "《The Big Bang Theory Season 2》",
+                        "url": "http://bisentence_movie.sogou.com/750479a83693f9c39499b910e7734ced_16e131984e5bc023f930a5fd9dfb8310ce57b8d1"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/68eeb648a2ff0cbf1b553571b1bde0b8_47107.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/248951e862d9d3e3708ab1a291ac6a96_1761.mp3",
+                        "isLavafox": true,
+                        "en": "You really want to leave things like that? From now on, we're getting our <em>weather</em> from Tricia Tazaki!",
+                        "zh": "你真不把话说完吗？从今以后我们只看特利西亚·田崎的天气预报！",
+                        "videoNameZh": "《摩登家庭 第八季》",
+                        "videoNameEn": "《Modern Family Season 8》",
+                        "url": "http://bisentence_movie.sogou.com/02f14df52b1219b30e3e5927c8101073_df136220f9d7a6be61f3c078c60c97b397cc0daf"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/308599783f7d199e32488196c011e97b_50044.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/989b49ddf82d857c65e561e6d114a6ff_26631.mp3",
+                        "isLavafox": true,
+                        "en": "I like it here. It's quiet. Nice <em>weather</em>, and no extradition. So what are you doing here, cop?",
+                        "zh": "我喜欢这里，很安静，天气不错，也不用怕被引渡，你来这做什么，警官？",
+                        "videoNameZh": "《速度与激情6》",
+                        "videoNameEn": "《Fast and Furious 6》",
+                        "url": "http://bisentence_movie.sogou.com/1919198e291792bec1359a46ffda1fb5_391c56fd04ebff63d65df38965552a1cbca7343d"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/8bd5925a0703fedbe2527370ecba88dc_61614.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/af77786f975b2a7ab6ede6108d4d3bbf_10234.mp3",
+                        "isLavafox": true,
+                        "en": "With so many people on the move, things can get complicated, especially when the <em>weather</em> intervenes.",
+                        "zh": "有这么多人要出门旅行，情况会变得复杂，尤其是当天气因素掺杂其中时。",
+                        "videoNameZh": "《中国春节》",
+                        "videoNameEn": "《Chinese New Year》",
+                        "url": "http://bisentence_movie.sogou.com/b63c11d4cc3d27aeed39b3c067bd67ac_f5f41b8d69592e9bee5618b1f8e15c5c5390cb67"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/ae9d6f2f04858f0af8517ff08116148e_6738.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/9b6be9db2166e7bede1f6031ceff1082_67113.mp3",
+                        "isLavafox": true,
+                        "en": "Thunder! Lightning! Yeah, this ain't about the <em>weather</em>. You like the same boy. You have to make a decision.",
+                        "zh": "雷鸣！电闪！跟天气没关系，你们喜欢同一个男生，你们要做出决定。",
+                        "videoNameZh": "《女孩成长记 第三季》",
+                        "videoNameEn": "《Girl Meets World Season 3》",
+                        "url": "http://bisentence_movie.sogou.com/dadb40cabc1a2df556521668d8716ff2_3ef2f4c716e51354bdcc518049a578e8a4dfff3e"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/84db3d779d7851ae88ef308619fcf09a_6035.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/a31d924e4bd8194ea100955d88bf7d20_9822.mp3",
+                        "isLavafox": true,
+                        "en": "All of this data provides a picture of what the wind conditions and <em>weather</em> conditions are like across the country.",
+                        "zh": "所有的数据汇聚成，一幅整个国家风况的样子的以及天气情况的图片",
+                        "videoNameZh": "《透视美国》",
+                        "videoNameEn": "《America Revealed》",
+                        "url": "http://bisentence_movie.sogou.com/3b5af84f898bea6de5c2e2d7ba905e5c_63ff1308403e7d802121f38e9aedc8e182695cb0"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/dde03d29cdf9f1eb3170279dd5ad8ff2_46072.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/ee5a8f66e84dfd7dc2ce2403fd2cc692_70042.mp3",
+                        "isLavafox": true,
+                        "en": "I just feel so bad. You have both shown me such kindness this week, and I repay you with bad <em>weather</em> over Tampa.",
+                        "zh": "这样我会很内疚，你们这星期对我这么好，我却只给你们带来坏天气。",
+                        "videoNameZh": "《摩登家庭 第六季》",
+                        "videoNameEn": "《Modern Family Season 6》",
+                        "url": "http://bisentence_movie.sogou.com/af4ac6f1b265d3b6aaee81c93f183491_015019ba8ef1c2fb45bc28a648b20d122d3b9981"
+                    }
+                ]
+            },
+            "pic": {
+                "expandData": {
+                    "title": "天气",
+                    "titleEn": "weather",
+                    "morePic": [
+                        {
+                            "title": "天气",
+                            "titleEn": "weather",
+                            "titlePh": "ˈweðə",
+                            "titleNoteEn": "The weather is too cold for me.",
+                            "titleNoteZh": "这天气对我来说太冷了。",
+                            "wordZh": "晴朗的",
+                            "wordEn": "sunny",
+                            "wordPron": "ˈsʌni",
+                            "wordPic": "http://img01.sogoucdn.com/app/a/100520091/20190122190501",
+                            "wordNum": "00"
+                        },
+                        {
+                            "title": "天气",
+                            "titleEn": "weather",
+                            "titlePh": "ˈweðə",
+                            "titleNoteEn": "The weather is too cold for me.",
+                            "titleNoteZh": "这天气对我来说太冷了。",
+                            "wordZh": "阴天的",
+                            "wordEn": "cloudy",
+                            "wordPron": "ˈklaʊdi",
+                            "wordPic": "http://img01.sogoucdn.com/app/a/100520091/20190117194842",
+                            "wordNum": "00"
+                        },
+                        {
+                            "title": "天气",
+                            "titleEn": "weather",
+                            "titlePh": "ˈweðə",
+                            "titleNoteEn": "The weather is too cold for me.",
+                            "titleNoteZh": "这天气对我来说太冷了。",
+                            "wordZh": "下雨的",
+                            "wordEn": "rainy",
+                            "wordPron": "reɪn",
+                            "wordPic": "http://img02.sogoucdn.com/app/a/100520091/20190124125055",
+                            "wordNum": "00"
+                        },
+                        {
+                            "title": "天气",
+                            "titleEn": "weather",
+                            "titlePh": "ˈweðə",
+                            "titleNoteEn": "The weather is too cold for me.",
+                            "titleNoteZh": "这天气对我来说太冷了。",
+                            "wordZh": "下雪的",
+                            "wordEn": "snowy",
+                            "wordPron": "ˈsnəʊi",
+                            "wordPic": "http://img04.sogoucdn.com/app/a/100520091/20190118130830",
+                            "wordNum": "00"
+                        },
+                        {
+                            "title": "天气",
+                            "titleEn": "weather",
+                            "titlePh": "ˈweðə",
+                            "titleNoteEn": "The weather is too cold for me.",
+                            "titleNoteZh": "这天气对我来说太冷了。",
+                            "wordZh": "刮风的",
+                            "wordEn": "windy",
+                            "wordPron": "ˈwɪndi",
+                            "wordPic": "http://img03.sogoucdn.com/app/a/100520091/20190118133117",
+                            "wordNum": "00"
+                        },
+                        {
+                            "title": "天气",
+                            "titleEn": "weather",
+                            "titlePh": "ˈweðə",
+                            "titleNoteEn": "The weather is too cold for me.",
+                            "titleNoteZh": "这天气对我来说太冷了。",
+                            "wordZh": "有雾的",
+                            "wordEn": "foggy",
+                            "wordPron": "ˈfɒɡi",
+                            "wordPic": "http://img02.sogoucdn.com/app/a/100520091/20190117195055",
+                            "wordNum": "00"
+                        },
+                        {
+                            "title": "天气",
+                            "titleEn": "weather",
+                            "titlePh": "ˈweðə",
+                            "titleNoteEn": "The weather is too cold for me.",
+                            "titleNoteZh": "这天气对我来说太冷了。",
+                            "wordZh": "霾",
+                            "wordEn": "haze",
+                            "wordPron": "heɪz",
+                            "wordPic": "http://img01.sogoucdn.com/app/a/100520091/20190117195152",
+                            "wordNum": "00"
+                        },
+                        {
+                            "title": "天气",
+                            "titleEn": "weather",
+                            "titlePh": "ˈweðə",
+                            "titleNoteEn": "The weather is too cold for me.",
+                            "titleNoteZh": "这天气对我来说太冷了。",
+                            "wordZh": "阵雨",
+                            "wordEn": "shower",
+                            "wordPron": "ˈʃaʊə",
+                            "wordPic": "http://img03.sogoucdn.com/app/a/100520091/20190124131351",
+                            "wordNum": "00"
+                        },
+                        {
+                            "title": "天气",
+                            "titleEn": "weather",
+                            "titlePh": "ˈweðə",
+                            "titleNoteEn": "The weather is too cold for me.",
+                            "titleNoteZh": "这天气对我来说太冷了。",
+                            "wordZh": "暴风雨",
+                            "wordEn": "storm",
+                            "wordPron": "stɔːm",
+                            "wordPic": "http://img02.sogoucdn.com/app/a/100520091/20190118131135",
+                            "wordNum": "00"
+                        },
+                        {
+                            "title": "天气",
+                            "titleEn": "weather",
+                            "titlePh": "ˈweðə",
+                            "titleNoteEn": "The weather is too cold for me.",
+                            "titleNoteZh": "这天气对我来说太冷了。",
+                            "wordZh": "暴风雪",
+                            "wordEn": "blizzard",
+                            "wordPron": "ˈblɪzəd",
+                            "wordPic": "http://img04.sogoucdn.com/app/a/100520091/20190124125354",
+                            "wordNum": "00"
+                        },
+                        {
+                            "title": "天气",
+                            "titleEn": "weather",
+                            "titlePh": "ˈweðə",
+                            "titleNoteEn": "The weather is too cold for me.",
+                            "titleNoteZh": "这天气对我来说太冷了。",
+                            "wordZh": "冰雹",
+                            "wordEn": "hail",
+                            "wordPron": "heɪl",
+                            "wordPic": "http://img03.sogoucdn.com/app/a/100520091/20190118132027",
+                            "wordNum": "00"
+                        },
+                        {
+                            "title": "天气",
+                            "titleEn": "weather",
+                            "titlePh": "ˈweðə",
+                            "titleNoteEn": "The weather is too cold for me.",
+                            "titleNoteZh": "这天气对我来说太冷了。",
+                            "wordZh": "霜冻的",
+                            "wordEn": "frosty",
+                            "wordPron": "ˈfrɒsti",
+                            "wordPic": "http://img03.sogoucdn.com/app/a/100520091/20190128182654",
+                            "wordNum": "00"
+                        },
+                        {
+                            "title": "天气",
+                            "titleEn": "weather",
+                            "titlePh": "ˈweðə",
+                            "titleNoteEn": "The weather is too cold for me.",
+                            "titleNoteZh": "这天气对我来说太冷了。",
+                            "wordZh": "沙尘暴",
+                            "wordEn": "sandstorm",
+                            "wordPron": "ˈsændstɔːm",
+                            "wordPic": "http://img04.sogoucdn.com/app/a/100520091/20190118130617",
+                            "wordNum": "00"
+                        },
+                        {
+                            "title": "天气",
+                            "titleEn": "weather",
+                            "titlePh": "ˈweðə",
+                            "titleNoteEn": "The weather is too cold for me.",
+                            "titleNoteZh": "这天气对我来说太冷了。",
+                            "wordZh": "微风",
+                            "wordEn": "breeze",
+                            "wordPron": "briːz",
+                            "wordPic": "http://img02.sogoucdn.com/app/a/100520091/20190128182831",
+                            "wordNum": "00"
+                        },
+                        {
+                            "title": "天气",
+                            "titleEn": "weather",
+                            "titlePh": "ˈweðə",
+                            "titleNoteEn": "The weather is too cold for me.",
+                            "titleNoteZh": "这天气对我来说太冷了。",
+                            "wordZh": "大风",
+                            "wordEn": "gale",
+                            "wordPron": "ɡeɪl",
+                            "wordPic": "http://img03.sogoucdn.com/app/a/100520091/20190124134240",
+                            "wordNum": "00"
+                        },
+                        {
+                            "title": "天气",
+                            "titleEn": "weather",
+                            "titlePh": "ˈweðə",
+                            "titleNoteEn": "The weather is too cold for me.",
+                            "titleNoteZh": "这天气对我来说太冷了。",
+                            "wordZh": "飓风",
+                            "wordEn": "hurricane",
+                            "wordPron": "ˈhʌrɪkən",
+                            "wordPic": "http://img02.sogoucdn.com/app/a/100520091/20190118133458",
+                            "wordNum": "00"
+                        },
+                        {
+                            "title": "天气",
+                            "titleEn": "weather",
+                            "titlePh": "ˈweðə",
+                            "titleNoteEn": "The weather is too cold for me.",
+                            "titleNoteZh": "这天气对我来说太冷了。",
+                            "wordZh": "龙卷风",
+                            "wordEn": "tornado",
+                            "wordPron": "tɔːˈneɪdəʊ",
+                            "wordPic": "http://img01.sogoucdn.com/app/a/100520091/20190118131848",
+                            "wordNum": "00"
+                        },
+                        {
+                            "title": "天气",
+                            "titleEn": "weather",
+                            "titlePh": "ˈweðə",
+                            "titleNoteEn": "The weather is too cold for me.",
+                            "titleNoteZh": "这天气对我来说太冷了。",
+                            "wordZh": "台风",
+                            "wordEn": "typhoon",
+                            "wordPron": "taɪˈfuːn",
+                            "wordPic": "http://img01.sogoucdn.com/app/a/100520091/20190118130350",
+                            "wordNum": "00"
+                        }
+                    ]
+                }
+            },
+            "voice": {
+                "phonetic": [
+                    {
+                        "text": "ˈweðə",
+                        "type": "uk",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/2142_weather_uk.mp3"
+                    },
+                    {
+                        "text": "ˈweðər",
+                        "type": "usa",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/2142_weather_usa.mp3"
+                    }
+                ]
+            },
+            "dictType": "oxford_buchong",
+            "kaoyan": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 2,
+                        "pos": "n",
+                        "chinese": "天气",
+                        "sense_tier_ratio": 100
+                    },
+                    {
+                        "sense_tier": 0,
+                        "pos": "v",
+                        "chinese": "平安度过; 经受住",
+                        "sense_tier_ratio": 0
+                    },
+                    {
+                        "sense_tier": 0,
+                        "pos": "v",
+                        "chinese": "褪色; 变形",
+                        "sense_tier_ratio": 0
+                    },
+                    {
+                        "sense_tier": 0,
+                        "pos": "n",
+                        "chinese": "上风面",
+                        "sense_tier_ratio": 0
+                    },
+                    {
+                        "sense_tier": 0,
+                        "pos": "v",
+                        "chinese": "使倾斜以挡雨",
+                        "sense_tier_ratio": 0
+                    }
+                ],
+                "word": "weather",
+                "word_level_phrase_info": [
+                    {
+                        "brief_definition": "极端天气；极端气象；极端气候",
+                        "phrase": "extreme weather",
+                        "pos": "phr"
+                    }
+                ],
+                "direction_info": {
+                    "ranges": 12,
+                    "description": "数据源自2012-2023年12年间全国考研试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2012-2023年全国考研英语一和考研英语二共24套考研试卷，包括阅读、完型填空、翻译、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选全国考研考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2012-2023年12年间全国考研英语一和考研英语二试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 1,
+                "total_exam_freq": 2,
+                "sense": {
+                    "sense_num": 5,
+                    "sense_info_list": [
+                        {
+                            "en": "the state of the air and atmosphere at a particular time and place",
+                            "zh": "天气",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "That's likely because the rural poor are using the money as makeshift insurance policies against inclement <highlight>weather</highlight>, Ferraro says.",
+                                    "month": -1,
+                                    "source": "英语一",
+                                    "coll": "",
+                                    "sentence_trans": "费拉罗说，这可能是因为农村贫困人口把这笔钱用作应对恶劣天气的临时保险政策。",
+                                    "year": 2021,
+                                    "type": "阅读理解A",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Extreme <highlight>weather</highlight> conditions may arise.",
+                                    "month": -1,
+                                    "source": "英语二",
+                                    "coll": "",
+                                    "sentence_trans": "极端天气条件可能会出现。",
+                                    "year": 2019,
+                                    "type": "阅读理解A",
+                                    "day": -1
+                                }
+                            ]
+                        },
+                        {
+                            "synonyms": "",
+                            "en": "deal with or experience something dangerous or unpleasant without being harmed or damaged too much",
+                            "zh": "平安度过; 经受住",
+                            "pos": "v",
+                            "antonyms": ""
+                        },
+                        {
+                            "synonyms": "",
+                            "en": "",
+                            "zh": "褪色; 变形",
+                            "pos": "v",
+                            "antonyms": ""
+                        },
+                        {
+                            "synonyms": "",
+                            "en": "",
+                            "zh": "上风面",
+                            "pos": "n",
+                            "antonyms": ""
+                        },
+                        {
+                            "synonyms": "",
+                            "en": "",
+                            "zh": "使倾斜以挡雨",
+                            "pos": "v",
+                            "antonyms": ""
+                        }
+                    ]
+                },
+                "word_usage": [
+                    {
+                        "usage": "weather表示天气，指特定地点某一时间的具体天气情况，如气温、降水等，为不可数名词；climate表示气候，指特定地区规律性的天气状况。"
+                    }
+                ],
+                "disambiguation": [
+                    {
+                        "disambiguation_list": [
+                            {
+                                "word": "weather",
+                                "sense_disambiguation": "天气，指短期内(如一天至一周内)的天气变化情况。"
+                            },
+                            {
+                                "word": "climate",
+                                "sense_disambiguation": "气候，指某一地区一年中各季节气温和气象的变化情况，着重强调较长时间内的天气情况，其中包括气温、降雨量、湿度等变化情况。"
+                            }
+                        ],
+                        "sense_group": "气候"
+                    }
+                ]
+            },
+            "CET6": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 14,
+                        "pos": "n",
+                        "chinese": "天气; 气象; 坏天气",
+                        "sense_tier_ratio": 93.33
+                    },
+                    {
+                        "sense_tier": 1,
+                        "pos": "v",
+                        "chinese": "[地质学]风化",
+                        "sense_tier_ratio": 6.67
+                    }
+                ],
+                "word": "weather",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2016.6-2023.6年8年间全六级试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight>考纲释义</highlight>\n精选实考、考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2016-2023年51套试卷，包括阅读、听力、翻译等所有题型。\n\n<highlight>真题例句</highlight>\n精选2016-2023年8年间全六级试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 3,
+                "word_family": {
+                    "derivative_info_list": [
+                        {
+                            "derivative_info_list": [],
+                            "word": "weatherman",
+                            "mean": "n. 气象报告男播音员；天气男预报员"
+                        }
+                    ],
+                    "word": "weather",
+                    "mean": "n. 天气；气象；自然力；恶劣天气；上风面；向风侧"
+                },
+                "total_exam_freq": 15,
+                "sense": {
+                    "sense_num": 2,
+                    "sense_info_list": [
+                        {
+                            "en": "the state of the air and atmosphere at a particular time and place",
+                            "zh": "天气; 气象; 坏天气",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "A <highlight>weather</highlight> expert invited him to go there for his mission.",
+                                    "month": 6,
+                                    "source": "CET6",
+                                    "coll": "",
+                                    "sentence_trans": "一位气象专家邀请他去那里执行任务。",
+                                    "year": 2021,
+                                    "type": "听力",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Goddard later consulted with a <highlight>weather</highlight> expert and determined that the climate of New Mexico was ideal for year-round rocket launches.",
+                                    "month": 6,
+                                    "source": "CET6",
+                                    "coll": "",
+                                    "sentence_trans": "戈达德后来咨询了一位气象专家，确定新墨西哥州的气候非常适合全年火箭发射。",
+                                    "year": 2021,
+                                    "type": "听力",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "It failed due to a sudden change of <highlight>weather</highlight>.",
+                                    "month": 6,
+                                    "source": "CET6",
+                                    "coll": "",
+                                    "sentence_trans": "失败是由于天气的突然变化。",
+                                    "year": 2021,
+                                    "type": "听力",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "The company blamed much of the poor performance in November and December on unseasonably warm <highlight>weather</highlight>.",
+                                    "month": 6,
+                                    "source": "CET6",
+                                    "coll": "",
+                                    "sentence_trans": "该公司将11月和12月的糟糕表现归咎于异常温暖的天气。",
+                                    "year": 2017,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                }
+                            ]
+                        },
+                        {
+                            "synonyms": "",
+                            "en": "change in color, condition, or others, because of the effects of the sun, wind, rain, or others, over a long period of time",
+                            "zh": "[地质学]风化",
+                            "pos": "v",
+                            "antonyms": ""
+                        }
+                    ]
+                },
+                "exchange_info": {
+                    "word_third": [
+                        "weathers"
+                    ],
+                    "word_ing": [
+                        "weathering"
+                    ],
+                    "word_done": [
+                        "weathered"
+                    ],
+                    "word_past": [
+                        "weathered"
+                    ]
+                }
+            },
+            "CET4": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 17,
+                        "pos": "n",
+                        "chinese": "天气; 气象; 坏天气",
+                        "sense_tier_ratio": 94.44
+                    },
+                    {
+                        "sense_tier": 1,
+                        "pos": "v",
+                        "chinese": "妥善处理",
+                        "sense_tier_ratio": 5.56
+                    }
+                ],
+                "word": "weather",
+                "word_level_phrase_info": [
+                    {
+                        "brief_definition": "极端天气；极端气象；极端气候",
+                        "phrase": "extreme weather",
+                        "pos": "n"
+                    },
+                    {
+                        "brief_definition": "天气预报",
+                        "phrase": "weather forecast",
+                        "pos": "n"
+                    }
+                ],
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2016.6-2023.6年8年间全四级试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight>考纲释义</highlight>\n精选实考、考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2016-2023年51套试卷，包括阅读、听力、翻译等所有题型。\n\n<highlight>真题例句</highlight>\n精选2016-2023年8年间试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 4,
+                "word_family": {
+                    "derivative_info_list": [
+                        {
+                            "derivative_info_list": [],
+                            "word": "weatherman",
+                            "mean": "n. 气象报告男播音员；天气男预报员"
+                        }
+                    ],
+                    "word": "weather",
+                    "mean": "n. 天气；气象；自然力；恶劣天气；上风面；向风侧"
+                },
+                "total_exam_freq": 18,
+                "sense": {
+                    "sense_num": 2,
+                    "sense_info_list": [
+                        {
+                            "en": "the state of the air and atmosphere at a particular time and place",
+                            "zh": "天气; 气象; 坏天气",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "At this event, people flocked to talks about <highlight>weather</highlight>, traffic jams, and vending-machine sounds, among other sleep-inducing topics.",
+                                    "month": 12,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "在这次活动中，人们蜂拥而至，谈论天气、交通拥堵和自动售货机的声音，以及其他催眠的话题。",
+                                    "year": 2020,
+                                    "type": "阅读理解C",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "It did little business because of the unusual cold <highlight>weather</highlight>.",
+                                    "month": 9,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "由于罕见寒冷的天气，没有什么生意。",
+                                    "year": 2020,
+                                    "type": "听力",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "As global surface temperatures increase, so does the likelihood of extreme <highlight>weather</highlight>.",
+                                    "month": 12,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "随着全球表面温度的升高，极端天气发生的可能性也在增加。",
+                                    "year": 2019,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                }
+                            ]
+                        },
+                        {
+                            "synonyms": "",
+                            "en": "deal with or experience something dangerous or unpleasant without being harmed or damaged too much",
+                            "zh": "妥善处理",
+                            "pos": "v",
+                            "antonyms": ""
+                        }
+                    ]
+                },
+                "word_usage": [
+                    {
+                        "usage": "What nice weather it is！ 多好的天气呀！不能讲“What a nice weather it is！”，因为weather是不可数名词，不定冠词a或an不能和不可数名词一起使用。当谈到特指的天气时，可以说the weather. 如：The weather in Australia is better than that in Britain.澳大利亚的天气比英国的天气好。"
+                    }
+                ],
+                "exchange_info": {
+                    "word_third": [
+                        "weathers"
+                    ],
+                    "word_ing": [
+                        "weathering"
+                    ],
+                    "word_done": [
+                        "weathered"
+                    ],
+                    "word_past": [
+                        "weathered"
+                    ]
+                }
+            },
+            "gaokao": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 28,
+                        "pos": "n",
+                        "chinese": "天气; 气象",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "weather",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2015-2022年8年间全国卷和自主命题省市高考卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2015-2022年全国卷高考试卷，包括阅读、完形、单选、填空、听力、改错、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选各省市考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2015-2022年8年间全国卷和自主命题省市高考卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 5,
+                "word_family": {
+                    "derivative_info_list": [
+                        {
+                            "derivative_info_list": [],
+                            "word": "weatherman",
+                            "mean": "n. 气象报告男播音员；天气男预报员"
+                        }
+                    ],
+                    "word": "weather",
+                    "mean": "n. 天气；气象；自然力；恶劣天气；上风面；向风侧"
+                },
+                "total_exam_freq": 28,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "the state of the air and atmosphere at a particular time and place",
+                            "zh": "天气; 气象",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "At least the <highlight>weather</highlight> is similar, and the people aren't much different.",
+                                    "month": -1,
+                                    "source": "全国卷1",
+                                    "coll": "",
+                                    "sentence_trans": "至少这里的天气差不多，人们也没有太大的不同。",
+                                    "year": 2017,
+                                    "type": "听力",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "If the <highlight>weather</highlight> is fine, we can have a barbecue in the garden.",
+                                    "month": -1,
+                                    "source": "全国卷2",
+                                    "coll": "",
+                                    "sentence_trans": "如果天气好的话，我们可以在花园里烧烤。",
+                                    "year": 2016,
+                                    "type": "听力",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Nice <highlight>weather</highlight> we're having!",
+                                    "month": -1,
+                                    "source": "全国卷1",
+                                    "coll": "",
+                                    "sentence_trans": "天气真好啊！",
+                                    "year": 2015,
+                                    "type": "听力",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "word_usage": [
+                    {
+                        "usage": "What nice weather it is！ 多好的天气呀！不能讲“What a nice weather it is！”，因为weather是不可数名词，不定冠词a或an不能和不可数名词一起使用。当谈到特指的天气时，可以说the weather. 如：The weather in Australia is better than that in Britain.澳大利亚的天气比英国的天气好。"
+                    }
+                ],
+                "exchange_info": {
+                    "word_third": [
+                        "weathers"
+                    ],
+                    "word_ing": [
+                        "weathering"
+                    ],
+                    "word_done": [
+                        "weathered"
+                    ],
+                    "word_past": [
+                        "weathered"
+                    ]
+                }
+            },
+            "zhongkao": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 197,
+                        "pos": "un",
+                        "chinese": "天气",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "weather",
+                "total_exam_freq": 197,
+                "direction_info": {
+                    "ranges": 4,
+                    "description": "数据源自2018-2021年4年间全国各省市中考试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2018-2021年全国重点省市中考试卷，包括听力、阅读、完形、单选、填空、改错、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选各省市考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2018-2021年4年间全国各省市中考试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 5,
+                "word_family": {
+                    "derivative_info_list": [
+                        {
+                            "derivative_info_list": [],
+                            "word": "weatherman",
+                            "mean": "n. 气象报告男播音员；天气男预报员"
+                        }
+                    ],
+                    "word": "weather",
+                    "mean": "n. 天气；气象；自然力；恶劣天气；上风面；向风侧"
+                },
+                "word_level_phrase_info": [
+                    {
+                        "brief_definition": "好天气；晴天",
+                        "phrase": "fine weather",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "身体不舒服；不得劲",
+                        "phrase": "under the weather",
+                        "pos": "idm."
+                    },
+                    {
+                        "brief_definition": "温暖的天气",
+                        "phrase": "warm weather",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "无常气候形势；天气模式",
+                        "phrase": "weather pattern",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "天气报告；天气预报；气象报告",
+                        "phrase": "weather report",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "气象站",
+                        "phrase": "weather station",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "天气卫星；气象卫星；气候卫星",
+                        "phrase": "weather satellite",
+                        "pos": ""
+                    }
+                ],
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "天气",
+                            "pos": "un",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "You are not properly dressed for the <highlight>weather</highlight>.",
+                                    "month": -1,
+                                    "source": "十堰市卷",
+                                    "coll": "",
+                                    "sentence_trans": "你的穿着不适合这种天气。",
+                                    "year": 2021,
+                                    "type": "单项选择",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "How does the boy think the <highlight>weather</highlight> will be?",
+                                    "month": -1,
+                                    "source": "绍兴市卷",
+                                    "coll": "",
+                                    "sentence_trans": "这个男孩认为天气会怎么样？",
+                                    "year": 2021,
+                                    "type": "听力",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "How’s the <highlight>weather</highlight> today?",
+                                    "month": -1,
+                                    "source": "上海卷",
+                                    "coll": "",
+                                    "sentence_trans": "今天天气怎么样？",
+                                    "year": 2018,
+                                    "type": "听力",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "word_usage": [
+                    {
+                        "usage": "询问天气可以用 “What’s the weather like?\"，也可以用 \"How’s the weather? \"。"
+                    }
+                ]
+            },
+            "sentencesData": {
+                "status": 1,
+                "info": "notZh2En",
+                "data": {}
+            },
+            "isAutoMatch": false,
+            "Zh2En": false
+        },
+        "query": "weather",
+        "result": "天气",
+        "tabSelect": "detail",
+        "dictionaryType": "oxford_buchong",
+        "notFound_show": false,
+        "phoneticShow": "",
+        "globalShowTranslateRecord": "",
+        "pronPrefer": {
+            "type": "usa_1",
+            "speaker": "male",
+            "speed": "standard"
+        },
+        "ServerRecord": "",
+        "ServerUIGS": {
+            "version": "new",
+            "type": "all",
+            "stype": "success",
+            "terminal": "web",
+            "fr": "default",
+            "direction": "etoz",
+            "from": "en",
+            "to": "zh-CHS",
+            "len": 7,
+            "qtype": "text",
+            "qctype": "qc_1",
+            "dict_cover": 1,
+            "detail": 1,
+            "wordCardCover": 1,
+            "wordCardEn": 1,
+            "wordCardCh": 0,
+            "wordCardMinor": 0,
+            "wordCardNetmean": 0,
+            "wordDeform": 1,
+            "keyword": 0,
+            "bilingual": 1,
+            "simple": 0,
+            "levelList": 1,
+            "synonym": 1,
+            "antonym": 0,
+            "conjugate": 1,
+            "rootaffix": 0,
+            "baike_sogou": 1,
+            "baike_wiki": 0,
+            "wordDifference": 1,
+            "word_phrase": 1,
+            "secondQuery": 0,
+            "dict_oxford": 0,
+            "dict_newcentury": 0,
+            "zhongkaotab": 1,
+            "gaokaotab": 1,
+            "CET4tab": 1,
+            "CET6tab": 1,
+            "kaoyantab": 1,
+            "network_tab": 0,
+            "yinying_tab": 1,
+            "tuozhan_tab": 1,
+            "one_pic": 0,
+            "more_pic": 1,
+            "no_pic": 0,
+            "uuid": "ac02c4de-c706-4f20-b3d2-5d70c83b39e9",
+            "from_type": 0,
+            "t_trans_ssr": 163
+        },
+        "ServerModelUIGS": {
+            "terminal": "web",
+            "type": "trans_model",
+            "pbtype": "pv",
+            "model_general": 1,
+            "model_medical": 1,
+            "model_finance": 1
+        },
+        "ServerSgtkn": "64F30EF870ACFD6B606648DB2C3FFE1860DBDF2367552ACD",
+        "suggShow": false,
+        "suggestion": "",
+        "suggDirection": "",
+        "usualTop": "",
+        "baseDict": "",
+        "wordCardClick": false,
+        "isFrInput": false,
+        "kanaTips": {
+            "show": false,
+            "left": "",
+            "top": "",
+            "type": "",
+            "arrowLeft": ""
+        },
+        "currSentenceIndex": -1,
+        "prefixStrObj": {
+            "prefixStr": "",
+            "oriPrefixStr": ""
+        },
+        "selectTransBox": {
+            "show": false,
+            "right": 0,
+            "top": 0,
+            "paraphraseInfo": {
+                "word": "",
+                "from": "",
+                "to": "",
+                "area": ""
+            }
+        },
+        "sentenceLoading": false,
+        "newSentenceInfo": {
+            "sentence": "",
+            "candidateIndex": 0
+        },
+        "moreTipInfo": {
+            "opacity": 0,
+            "zIndex": -1
+        },
+        "paraphraseShowInfo": {
+            "card": 0,
+            "query": "",
+            "card_dict": 0
+        },
+        "selectType": "",
+        "wordPos": 0,
+        "candidateWord": "",
+        "syntaxVisible": false,
+        "syntaxStatus": 0
+    },
+    "language": {
+        "from": "auto",
+        "to": "zh-CHS",
+        "detect": "en",
+        "model": "general",
+        "detectShow": false,
+        "langMap": {
+            "current": ""
+        },
+        "zh2en": false,
+        "fromItemList": [
+            {
+                "lang": "auto",
+                "text": "自动检测",
+                "play": false
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "fr",
+                "text": "法语",
+                "play": true,
+                "abbr": "法"
+            },
+            {
+                "lang": "th",
+                "text": "泰语",
+                "play": true,
+                "abbr": "泰"
+            },
+            {
+                "lang": "pt",
+                "text": "葡萄牙语",
+                "play": true,
+                "abbr": "葡"
+            }
+        ],
+        "toItemList": [
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "ru",
+                "text": "俄语",
+                "play": true,
+                "abbr": "俄"
+            },
+            {
+                "lang": "fr",
+                "text": "法语",
+                "play": true,
+                "abbr": "法"
+            },
+            {
+                "lang": "ko",
+                "text": "韩语",
+                "play": true,
+                "abbr": "韩"
+            }
+        ]
+    },
+    "voice": {
+        "from": {
+            "lang": "en",
+            "type": "from",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22weather%22%2C%22spokenDialect%22%3A%22en%22%2C%22rate%22%3A%220.8%22%7D",
+            "list": [
+                {
+                    "type": "uk_0",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "ˈweðə",
+                    "abbr": "英",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/2142_weather_uk.mp3"
+                },
+                {
+                    "type": "usa_1",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "ˈweðər",
+                    "abbr": "美",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/2142_weather_usa.mp3"
+                }
+            ],
+            "stype": "phonetic",
+            "phoneticShow": [
+                {
+                    "text": "ˈweðə",
+                    "type": "uk",
+                    "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/2142_weather_uk.mp3"
+                },
+                {
+                    "text": "ˈweðər",
+                    "type": "usa",
+                    "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/2142_weather_usa.mp3"
+                }
+            ]
+        },
+        "to": {
+            "lang": "zh",
+            "type": "to",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22%E5%A4%A9%E6%B0%94%22%2C%22spokenDialect%22%3A%22zh-CHS%22%2C%22rate%22%3A%220.8%22%7D",
+            "stype": "normal"
+        }
+    }
+}

@@ -1,0 +1,1185 @@
+{
+    "route": {
+        "name": "text",
+        "path": "/text",
+        "hash": "",
+        "query": {
+            "keyword": "who",
+            "transfrom": "auto",
+            "transto": "zh-CHS",
+            "model": "general",
+            "errcode": "s10"
+        },
+        "params": {},
+        "fullPath": "/text?keyword=who&transfrom=auto&transto=zh-CHS&model=general&errcode=s10",
+        "meta": {
+            "mtype": [
+                "textTranslate",
+                "language",
+                "voice"
+            ]
+        },
+        "from": {
+            "name": null,
+            "path": "/",
+            "hash": "",
+            "query": {},
+            "params": {},
+            "fullPath": "/",
+            "meta": {}
+        }
+    },
+    "common": {
+        "CONFIG": {
+            "wuid": 1733634817838,
+            "loginInfo": {},
+            "isIE": 0,
+            "isHitSsrSwitch": true,
+            "isHitWritebookSwitch": false,
+            "isHitAmsSwitch": true,
+            "promotionList": "{\n    \"pc_bottom\":{\n        \"imgsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\",\n        \"qcsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\"\n    },\n    \"pc_middle\":[\n        {\n            \"src\":\"//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c\",\n            \"bgColor\":\"#ffffff\",\n            \"link\":\"\"\n        }\n    ],\n    \"pc_survey\":{\n        \"icon\":\"//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750\",\n        \"link\":\"https://wj.qq.com/s2/8193148/806d/\"\n    }\n}",
+            "bannerData": [],
+            "isHitAsideSurvey": false,
+            "secretCode": 109984457,
+            "uuid": "b1a8e5cc-5d2b-4c11-9e39-f1667e2c472b",
+            "referer": "",
+            "approveToken": "64F3431BD00E60C9C2C4EA7A8EBD0A71C2077E7E67552B01",
+            "loadTime": 1733634817840,
+            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0",
+            "fcp": "170.64.148.76",
+            "temporaryId": "",
+            "fileId": ""
+        },
+        "hotWords": [],
+        "isFromCollect": false,
+        "psdModify": {
+            "currentStep": 1,
+            "scode": "",
+            "username": ""
+        },
+        "loginStatus": true,
+        "feedBackModule": false,
+        "showPromotionPopup": {
+            "show": false,
+            "type": ""
+        },
+        "showPromotionPCDownload": false,
+        "showShareBomb": false,
+        "shareData": null,
+        "showAppDownLoad": false,
+        "showLoginDialog": false,
+        "showLoading": {
+            "show": false
+        },
+        "toast": {
+            "show": false,
+            "text": "",
+            "loading": false
+        },
+        "modelToast": {
+            "show": false,
+            "text": ""
+        },
+        "selectionGlobalShow": true,
+        "selectionInfo": {
+            "left": 0,
+            "top": 0,
+            "show": false,
+            "from": "",
+            "to": "",
+            "val": "",
+            "area": ""
+        },
+        "showConfirmDialog": false,
+        "promotionList": {
+            "pc_bottom": {
+                "imgsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png",
+                "qcsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png"
+            },
+            "pc_middle": [
+                {
+                    "src": "//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c",
+                    "bgColor": "#ffffff",
+                    "link": ""
+                }
+            ],
+            "pc_survey": {
+                "icon": "//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750",
+                "link": "https://wj.qq.com/s2/8193148/806d/"
+            }
+        },
+        "transTypeTxt": "text",
+        "fixedTabStatus": 0,
+        "bodyTop": 0,
+        "ifHideUserOperation": false
+    },
+    "textTranslate": {
+        "prevTransQuery": "",
+        "translateData": {
+            "translate": {
+                "zly": "zly",
+                "errorCode": "0",
+                "qc_type": "1",
+                "index": "content0",
+                "from": "en",
+                "source": "sogou",
+                "text": "who",
+                "to": "zh-CHS",
+                "id": "b1a8e5cc-5d2b-4c11-9e39-f1667e2c472b",
+                "dit": "谁",
+                "orig_text": "who",
+                "md5": ""
+            },
+            "detect": {
+                "zly": "zly",
+                "detect": "en",
+                "errorCode": "0",
+                "language": "英语",
+                "id": "2e62bb80-b523-11ef-bfbc-4b2277075367",
+                "text": "who"
+            },
+            "sgtkn": "64F3431FD00E60C9C2C4EA7A8EBD0A71C2077E7E67552B01",
+            "wordCard": {
+                "title": "who",
+                "show": true,
+                "usualDict": [
+                    {
+                        "values": [
+                            "谁；什么人（用于疑问句，询问人的姓名或身份）；…的人（用于名词之后，指代提及的人）；谁又…（用于引出问句，表示谁也不例外）"
+                        ],
+                        "pos": "pron."
+                    },
+                    {
+                        "values": [
+                            "有关的人；所指的人；所说的人"
+                        ],
+                        "pos": "n."
+                    },
+                    {
+                        "values": [
+                            "（WHO）世界卫生组织（World Health Organization的缩写）"
+                        ],
+                        "pos": "abbr."
+                    }
+                ],
+                "secondQuery": "",
+                "exchange": {},
+                "levelList": [
+                    "小学",
+                    "初中",
+                    "高中",
+                    "四级",
+                    "考研"
+                ]
+            },
+            "detail": {
+                "word_difference_info": [],
+                "word_group": [
+                    {
+                        "brief_definition": "当断不断；必受其患",
+                        "phrase": "he who hesitates is lost",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "谁出钱谁做主, 财大者气粗",
+                        "phrase": "he who pays the piper calls the tune",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "可谓；似乎在说",
+                        "phrase": "as who should say",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "别高兴得太早, 笑到最后才笑得最好",
+                        "phrase": "he who laughs last laughs longest",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "竟然会",
+                        "phrase": "who should - but",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "谁",
+                        "phrase": "who goes there?",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "和不讲理的人说理——白搭；无眼不算瞎，有眼不看是真瞎",
+                        "phrase": "there's none so blind as those who will not see",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "名人录；名人词典",
+                        "phrase": "who's who",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "测试对（新观点；新建议）的认可度；试行",
+                        "phrase": "run something up the flagpole to see who salutes",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "知道各人的身份和地位",
+                        "phrase": "know who's who",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "行凶的人必然也会得到相应的下场",
+                        "phrase": "he who lives by the sword dies by the sword",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "谁是",
+                        "phrase": "who is",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "你是谁",
+                        "phrase": "who you are",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "你是谁",
+                        "phrase": "who are you",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "谁在乎；谁关心；谁在意",
+                        "phrase": "who cares",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "还有谁",
+                        "phrase": "who else",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "神秘博士",
+                        "phrase": "doctor who",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "那是谁",
+                        "phrase": "who is that",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "谁；是谁；那是谁",
+                        "phrase": "who is it",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "我是谁",
+                        "phrase": "who am I",
+                        "pos": ""
+                    }
+                ],
+                "bilingual": [
+                    {
+                        "source": "<em>Who</em> are in the photo?",
+                        "target": "照片里有谁？",
+                        "url": ""
+                    },
+                    {
+                        "source": "<em>Who</em> is in the kitchen?",
+                        "target": "谁在厨房里？",
+                        "url": ""
+                    },
+                    {
+                        "source": "<em>Who</em> is in your family?",
+                        "target": "你家里有谁？",
+                        "url": ""
+                    },
+                    {
+                        "source": "<em>Who</em> are in the picture?",
+                        "target": "图片里有谁？",
+                        "url": ""
+                    },
+                    {
+                        "source": "<em>Who</em> wants to study medicine?",
+                        "target": "谁想学医？",
+                        "url": ""
+                    },
+                    {
+                        "source": "<em>Who</em> is the song for?",
+                        "target": "这首歌是给谁的？",
+                        "url": ""
+                    },
+                    {
+                        "source": "<em>Who</em> did you go with?",
+                        "target": "你和谁一起去的？",
+                        "url": ""
+                    },
+                    {
+                        "source": "<em>Who</em> is in the living room?",
+                        "target": "谁在客厅里？",
+                        "url": ""
+                    },
+                    {
+                        "source": "<em>Who</em> is this music by?",
+                        "target": "这是谁写的音乐？",
+                        "url": ""
+                    },
+                    {
+                        "source": "<em>Who</em> went to the library?",
+                        "target": "谁去了图书馆？",
+                        "url": ""
+                    }
+                ],
+                "baike": {
+                    "showMore": true,
+                    "list": [
+                        {
+                            "lemmaTitle": "世界卫生组织",
+                            "link": "https://baike.sogou.com/v69978.htm?ch=sogou.fanyi",
+                            "abstract": "世界卫生组织（World Health Organization，WHO），简称“世卫组织”，1948年成立，是联合国系统内国际卫生问题的指导和协调机构，是联合国下属的一个专门机构，是国际上最大的政府间卫生组织，只有主权国家才能参与，总部设置在瑞士日内瓦。现任总干事谭德塞，2022年5月24日连任，任期至2027年。 世卫组织的宗旨是使全世界人民获得尽可能高水平的健康；主要职能包括促进流行病和地方病的防治，提供和改进公共卫生、疾病医疗和有关事项的教学与训练，推动确定生物制品的国际标准。截至2023年4月，该组织共有194个成员和2个准成员；其组织机构主要为世界卫生大会、执行委员会和秘书处。据2023年5月世卫组织官网显示，该组织共有6个区域办事处，150个国家办事处，有7000多名工作人员。 2024年4月19日，世界卫生组织就在美国多州发生的甲型H5N1禽流感疫情进行通报，在被感染的奶牛群所产的“生鲜奶”中，发现高浓度的H5N1禽流感病毒。 世卫组织将健康定义为“身体、精神和社会生活的完美状态”。 世卫组织的会徽由一条蛇盘绕权杖所覆盖的联合国标志组成。由蛇盘绕权杖，起源于《圣经·民数记》中的一个典故，“杖上盘蛇”标记有获得救护的含义。 中国是该组织创始成员国之一，1972年，在第25届世界卫生大会上恢复中华人民共和国合法席位。 2020年5月27日，世界卫生组织宣布成立世界卫生组织基金会。",
+                            "wapPic": "//img02.sogoucdn.com/v2/thumb/retype_exclude_gif/ext/auto/q/80/crop/xy/ai/w/140/h/140/resize/w/140?appid=201005&sign=b7bc92392eb628756d613d35668519c3&url=https%3A%2F%2Fpic.baike.soso.com%2Fugc%2Fbaikepic2%2F0%2F20230130093327-352853075_jpeg_968_639_220040.jpg%2F0",
+                            "pcPic": "//img02.sogoucdn.com/v2/thumb/retype_exclude_gif/ext/auto/q/80/crop/xy/ai/w/140/h/140/resize/w/140?appid=201005&sign=b7bc92392eb628756d613d35668519c3&url=https%3A%2F%2Fpic.baike.soso.com%2Fugc%2Fbaikepic2%2F0%2F20230130093327-352853075_jpeg_968_639_220040.jpg%2F0"
+                        },
+                        {
+                            "lemmaTitle": "WHO",
+                            "link": "https://baike.sogou.com/v154955955.htm?ch=sogou.fanyi",
+                            "abstract": "《wHo》由英国流行歌手ZAYN(全名zayn malik)演唱，收录在电影《超能敢死队》原声曲带中。",
+                            "wapPic": "//img04.sogoucdn.com/v2/thumb/retype_exclude_gif/ext/auto/q/80/crop/xy/ai/w/140/h/140/resize/w/140?appid=201005&sign=7ad2ee9ee8b2670eada347116c6b7e1f&url=https%3A%2F%2Fpic.baike.soso.com%2Fugc%2Fbaikepic2%2F583%2F20220513204146-1387398224_jpeg_616_501_38647.jpg%2F0",
+                            "pcPic": "//img04.sogoucdn.com/v2/thumb/retype_exclude_gif/ext/auto/q/80/crop/xy/ai/w/140/h/140/resize/w/140?appid=201005&sign=7ad2ee9ee8b2670eada347116c6b7e1f&url=https%3A%2F%2Fpic.baike.soso.com%2Fugc%2Fbaikepic2%2F583%2F20220513204146-1387398224_jpeg_616_501_38647.jpg%2F0"
+                        }
+                    ]
+                }
+            },
+            "book": {
+                "yingyinNormal": [
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/01c17509086ef8842dc81dd84a41285d_68420.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/a4c82b52ffeeb92d1588c0fb2b4a46c8_25452.mp3",
+                        "isLavafox": true,
+                        "en": "<em>Who</em> else knew? <em>Who</em>?! Molly.",
+                        "zh": "还有谁知道? 谁?茉莉。",
+                        "videoNameZh": "《神探夏洛克 第三季》",
+                        "videoNameEn": "《Sherlock Season 3》",
+                        "url": "http://bisentence_movie.sogou.com/88f7b9abdc148dfc4a6fef76ca474d0d_4cae2fefd3402ed614a60bbd3bde512b6c9b7136"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/aa7a748a86497e02e2b0a5098f3017b8_12619.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/a1ec0ea1127183850a02bb9be3593d25_71778.mp3",
+                        "isLavafox": true,
+                        "en": "<em>Who</em> are you? I don't know <em>who</em> you are.",
+                        "zh": "你是谁？我不知道你是谁。",
+                        "videoNameZh": "《女孩成长记 第一季》",
+                        "videoNameEn": "《Girl Meets World Season 1》",
+                        "url": "http://bisentence_movie.sogou.com/cad94b7a0dfcbb355b7a3ad6e6e3a146_bbc3c5b5415100a3f7d70ef1584b7e9d97ec9567"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/c3652a60f61ce63a5e9067648ae2439c_44092.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/4c5eaeb4f63e48652f9f06e32efb4f8a_20518.mp3",
+                        "isLavafox": true,
+                        "en": "<em>Who</em> you bringing? <em>Who</em> are you bringing?",
+                        "zh": "你带谁来啊？你又带谁来啊？！",
+                        "videoNameZh": "《生活大爆炸 第五季》",
+                        "videoNameEn": "《The Big Bang Theory Season 5》",
+                        "url": "http://bisentence_movie.sogou.com/b61cab34adf19febdf0d5b70fbd1531a_9f7cf1df9276503f643c56264c663520604b6d9e"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/f0ed3bd1897036484d259b1dfb2cebc8_22838.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/a6a063abcea74842d1029fdacf6aa1dd_46800.mp3",
+                        "isLavafox": true,
+                        "en": "<em>Who</em>? What do you care? <em>Who</em>? Does it matter?",
+                        "zh": "谁？关你什么事？是谁这重要吗？",
+                        "videoNameZh": "《少年时代》",
+                        "videoNameEn": "《Boyhood》",
+                        "url": "http://bisentence_movie.sogou.com/c72d3204f5cb076ee6c03bc15b6dde3e_3058c549214a33c6a1808ec74a293e4445907bba"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/db0c9d871880acdb9822e317191c302a_57338.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/bb4e4d8bed8a1c2912248be2a21c480e_23164.mp3",
+                        "isLavafox": true,
+                        "en": "So, it begs the question, <em>who</em>'s using <em>who</em>?",
+                        "zh": "所以话又说回来，究竟是谁利用谁啊？",
+                        "videoNameZh": "《植物之歌》",
+                        "videoNameEn": "《How To Grow A Planet》",
+                        "url": "http://bisentence_movie.sogou.com/61fb1eac149b10aaaf60203bd9585e81_53dc535ac73874cdd1b56d429a0252adffad180c"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/8ef70835eb0d9663ca2d26c2a78b067d_46174.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/8b713d99bc9091d16bc97564cf4ccf4c_62833.mp3",
+                        "isLavafox": true,
+                        "en": "Yes, but <em>who</em> is tracking <em>who</em>m?",
+                        "zh": "对 但谁在追逐谁",
+                        "videoNameZh": "《妮基塔 第四季》",
+                        "videoNameEn": "《Nikita Season 4》",
+                        "url": "http://bisentence_movie.sogou.com/83b402704904fb36999def67b8fde508_aa27e07d00889891133e54204a37cc820774332f"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/2fc568581b153aece2290fc09ef18467_13355.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/6d6da71b05186afeaa1fb5e58320c5cd_441.mp3",
+                        "isLavafox": true,
+                        "en": "And <em>who</em> decides <em>who</em>'s weak? Life. Life always decides.",
+                        "zh": "谁决定谁是弱者？生命，一直是生命决定。",
+                        "videoNameZh": "《复仇者联盟2：奥创纪元》",
+                        "videoNameEn": "《Avengers: Age of Ultron》",
+                        "url": "http://bisentence_movie.sogou.com/de2e770b1027ed1b40c3d79a1e37b904_109238dd0ebd8a8c9940141bf3d66ef7b210e101"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/2932ffdc99c11566a817682dbb06e964_57579.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/2e2a5b6e628282e405fa6fdc80f51eb0_13003.mp3",
+                        "isLavafox": true,
+                        "en": "<em>Who</em> sent this? <em>Who</em> sent what, Bernard? Nothing, ma'am.",
+                        "zh": "这谁发的？什么谁发的，伯纳德。没什么，长官。",
+                        "videoNameZh": "《安德的游戏》",
+                        "videoNameEn": "《Enders Game》",
+                        "url": "http://bisentence_movie.sogou.com/6e0ed62fe994aecb0939005307fb9758_d6a32ee3336021eb2cd753ca0cd02228a1b83356"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/b630caafa2606557856da7a333933a5d_54182.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/66b61455b8bb967a0c58bfb2dd3350f5_22284.mp3",
+                        "isLavafox": true,
+                        "en": "<em>Who</em>'s going to tell <em>who</em>m about what?",
+                        "zh": "谁要告诉谁什么？",
+                        "videoNameZh": "《生活大爆炸 第三季》",
+                        "videoNameEn": "《The Big Bang Theory Season 3》",
+                        "url": "http://bisentence_movie.sogou.com/9e4f18b984763d3b1bbc7ecf6855c488_4c1bc226a6ba257e9c978418c2940a00c430cb73"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/649fb0da5e02febcad57f332efe07876_46469.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/7dc228225c2e88665686d0014ede6be2_56797.mp3",
+                        "isLavafox": true,
+                        "en": "Pheebs, <em>who</em>'s Evelyn Dermer? I don't know. <em>Who</em>'s Soupy Sales?",
+                        "zh": "菲比，艾沃琳德莫是谁？不知道，苏比赛尔是谁啊？",
+                        "videoNameZh": "《老友记 第二季》",
+                        "videoNameEn": "《Friends Season 2》",
+                        "url": "http://bisentence_movie.sogou.com/3869fd9674c3b0229145f3c9bffb303b_db61add60f284ba3afc111cc91f61ddea281ac3d"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/ce4704185ed874d2da0aa0211b7c5d4d_3508.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/61a8fb7d1b1f69ad7b531645c56c7ce3_66233.mp3",
+                        "isLavafox": true,
+                        "en": "And <em>who</em> would that be?",
+                        "zh": "是谁呢？",
+                        "videoNameZh": "《纸牌屋 第三季》",
+                        "videoNameEn": "《House of Cards Season 3》",
+                        "url": "http://bisentence_movie.sogou.com/ac380a6f3f2412601846a8ac7c0c2df0_22157b9e11b29a709fa33f7a546757aedbacb8f8"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/790daa8f93a1187ab951e0ec819d8f48_46441.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/13021267eb01b4a27b3b0d1446e7478b_41468.mp3",
+                        "isLavafox": true,
+                        "en": "<em>Who</em> dares disturb The One <em>Who</em> Watches?",
+                        "zh": "谁胆敢打扰“洞察一切之人”？",
+                        "videoNameZh": "《海绵宝宝历险记：海绵出水》",
+                        "videoNameEn": "《The SpongeBob Movie: Sponge Out of Water》",
+                        "url": "http://bisentence_movie.sogou.com/47bc90dceae29429f814e32fc13b4cb6_2f0e536d1044d43a6127554c76e446f4803252f1"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/21d26cfef0cd26f0813072491b08dd5a_57364.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/8c5ecbf451bf4e13694ffd4360865900_48096.mp3",
+                        "isLavafox": true,
+                        "en": "Okay, <em>who</em> wants a drink?",
+                        "zh": "谁想来一杯？",
+                        "videoNameZh": "《生活大爆炸 第六季》",
+                        "videoNameEn": "《The Big Bang Theory Season 6》",
+                        "url": "http://bisentence_movie.sogou.com/76a8b3a227c9f31a2f4050f3b91e3c5d_8af4967a939a9fd14bed3fbe7f5556af2773f2f0"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/5bb981942caf87340ead3bfbb6c619e6_40098.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/90c4f24d322a7d68053a67a5caa99eb8_356.mp3",
+                        "isLavafox": true,
+                        "en": "<em>Who</em> turned on the AC?",
+                        "zh": "谁把空调打开了？",
+                        "videoNameZh": "《海绵宝宝历险记》",
+                        "videoNameEn": "《The SpongeBob SquarePants Movie》",
+                        "url": "http://bisentence_movie.sogou.com/62f47a03e893205f66512ac812d9117d_4eb4f5638c80142c07b33d99c1d8cd3632a00382"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/3f86fa9dca75619883a88b3b0e866f56_16599.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/bf7ca7173c6d8e42190780e4b1dd4815_17899.mp3",
+                        "isLavafox": true,
+                        "en": "Yes, but a war with <em>who</em>?",
+                        "zh": "对，和谁开战？",
+                        "videoNameZh": "《X战警：第一战》",
+                        "videoNameEn": "《X-Men: First Class》",
+                        "url": "http://bisentence_movie.sogou.com/e7f356967f1c0ef712ee595af72fb940_c81a101c53db2909e7cf2c78789f556755f4b99f"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/aa7a748a86497e02e2b0a5098f3017b8_12619.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/ea784acbc8bf012b73baf939a7a93fb1_20407.mp3",
+                        "isLavafox": true,
+                        "en": "To <em>who</em>? To everyone <em>who</em> loves our muffins?",
+                        "zh": "跟谁说？对每个喜欢我们松饼的人吗？",
+                        "videoNameZh": "《女孩成长记 第一季》",
+                        "videoNameEn": "《Girl Meets World Season 1》",
+                        "url": "http://bisentence_movie.sogou.com/fd2a21927c773adc7ad49e781b221f33_4496639fb6effce7c2f2f9ce31f747b535afdd52"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/c147f8d54a969778fef4aa74fdb25c24_34800.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/385ddcf7302fba3626d882ea6a9a3883_39926.mp3",
+                        "isLavafox": true,
+                        "en": "<em>Who</em> are you thinking about?",
+                        "zh": "你在考虑谁？",
+                        "videoNameZh": "《纸牌屋 第四季》",
+                        "videoNameEn": "《House of Cards Season 4》",
+                        "url": "http://bisentence_movie.sogou.com/a94f92dc189365dcfba6b57bb811422d_7498cf5e00a134d9a64368706ed9c530914b87d4"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/89af515bc1904b2f30182572c2d73a41_25401.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/38d4088c4793f514ebdba3dc9687cfc6_19903.mp3",
+                        "isLavafox": true,
+                        "en": "I know <em>who</em> killed Fury.",
+                        "zh": "我知道谁杀了弗瑞。",
+                        "videoNameZh": "《美国队长2》",
+                        "videoNameEn": "《Captain America: The Winter Soldier》",
+                        "url": "http://bisentence_movie.sogou.com/7101bd3ded80f1d85d294b930e8842e7_acae91c0901b74f613cb01fa20e092a92aa0790a"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/83f4e5c62a20b2558e4626c8e1f9d2e2_13719.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/cfabc2e88919084747874e919f025590_50019.mp3",
+                        "isLavafox": true,
+                        "en": "<em>Who</em> do you think you are?",
+                        "zh": "你以为你是谁啊？",
+                        "videoNameZh": "《汽车总动员》",
+                        "videoNameEn": "《Cars》",
+                        "url": "http://bisentence_movie.sogou.com/1f0f226380aadc8f5ace13078e5fd1df_e8d882e6ce6724c04689a1709da43d80c7b62adf"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/81d3916a49503fc329256a1bf031d8ef_46973.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/a17ddf0e454cbd6c53907b75025720c1_63590.mp3",
+                        "isLavafox": true,
+                        "en": "Oh, my god. <em>Who</em> was that?",
+                        "zh": "天哪，那是谁啊？",
+                        "videoNameZh": "《破产姐妹 第三季》",
+                        "videoNameEn": "《2 Broke Girls Season 3》",
+                        "url": "http://bisentence_movie.sogou.com/6b7fee213d55631f9fbc5ac89c411f9e_c653705abf5ffd91d92e6cb997ba5afd75b6f0c3"
+                    }
+                ]
+            },
+            "pic": "",
+            "voice": {
+                "phonetic": [
+                    {
+                        "text": "huː",
+                        "type": "uk",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/115_who_uk.mp3"
+                    },
+                    {
+                        "text": "huː",
+                        "type": "usa",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/115_who_usa.mp3"
+                    }
+                ]
+            },
+            "dictType": "oxford_buchong",
+            "kaoyan": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 157,
+                        "pos": "pron",
+                        "chinese": "...的人",
+                        "sense_tier_ratio": 92.9
+                    },
+                    {
+                        "sense_tier": 12,
+                        "pos": "pron",
+                        "chinese": "谁",
+                        "sense_tier_ratio": 7.1
+                    }
+                ],
+                "word": "who",
+                "direction_info": {
+                    "ranges": 12,
+                    "description": "数据源自2012-2023年12年间全国考研试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2012-2023年全国考研英语一和考研英语二共24套考研试卷，包括阅读、完型填空、翻译、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选全国考研考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2012-2023年12年间全国考研英语一和考研英语二试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 5,
+                "word_family": {
+                    "derivative_info_list": [
+                        {
+                            "derivative_info_list": [],
+                            "word": "whose",
+                            "mean": "interrogative possessive det. & pron. 谁的"
+                        },
+                        {
+                            "derivative_info_list": [],
+                            "word": "whoever",
+                            "mean": "relative pron. 谁；无论谁；不论谁；不管什么人"
+                        },
+                        {
+                            "derivative_info_list": [],
+                            "word": "whom",
+                            "mean": "pron. 谁；什么人"
+                        }
+                    ],
+                    "word": "who",
+                    "mean": "pron. 谁；什么人；…的人"
+                },
+                "total_exam_freq": 169,
+                "sense": {
+                    "sense_num": 2,
+                    "sense_info_list": [
+                        {
+                            "en": "used to introduce a clause giving further information about a person or people previously mentioned",
+                            "zh": "...的人",
+                            "pos": "pron",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "People <highlight>who</highlight> do so probaly live so cautiously that they go nowhere.",
+                                    "month": -1,
+                                    "source": "英语二",
+                                    "coll": "",
+                                    "sentence_trans": "这样做的人可能生活得非常谨慎，以至于他们哪儿也去不了。",
+                                    "year": 2020,
+                                    "type": "翻译",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "The fund will also be used to compensate landowners <highlight>who</highlight> set aside habitat.",
+                                    "month": -1,
+                                    "source": "英语二",
+                                    "coll": "",
+                                    "sentence_trans": "该基金还将用于补偿保留栖息地的土地所有者。",
+                                    "year": 2016,
+                                    "type": "阅读理解A",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "For women <highlight>who</highlight> stay home, they never get to leave the office.",
+                                    "month": -1,
+                                    "source": "英语二",
+                                    "coll": "",
+                                    "sentence_trans": "对于那些呆在家里的女性来说，她们永远不能离开办公室。",
+                                    "year": 2015,
+                                    "type": "阅读理解A",
+                                    "day": -1
+                                }
+                            ]
+                        },
+                        {
+                            "en": "what or which person or people",
+                            "zh": "谁",
+                            "pos": "pron",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "The question of <highlight>who</highlight> should pay for reskilling is a thorny one.",
+                                    "month": -1,
+                                    "source": "英语二",
+                                    "coll": "",
+                                    "sentence_trans": "谁应该为再培训买单是一个棘手的问题。",
+                                    "year": 2021,
+                                    "type": "阅读理解A",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Even without knowing what was in the messages, the knowledge of <highlight>who</highlight> sent them and to whom was enormously revealing.",
+                                    "month": -1,
+                                    "source": "英语二",
+                                    "coll": "",
+                                    "sentence_trans": "即使不知道这些信息中有什么，但知道谁发送了信息，以及向谁发送了信息，是非常有启发性的。",
+                                    "year": 2018,
+                                    "type": "阅读理解A",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Mental health allows us to view others with sympathy if they are having troubles, and with unconditional love no matter <highlight>who</highlight> they are.",
+                                    "month": -1,
+                                    "source": "英语一",
+                                    "coll": "",
+                                    "sentence_trans": "健康的心理让我们在别人有困难的时候能以同情的眼光看待他们，无论他们是谁，都能给予无条件的爱。",
+                                    "year": 2016,
+                                    "type": "翻译",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            "gaokao": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 188,
+                        "pos": "pron",
+                        "chinese": "谁",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "who",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2015-2022年8年间全国卷和自主命题省市高考卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2015-2022年全国卷高考试卷，包括阅读、完形、单选、填空、听力、改错、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选各省市考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2015-2022年8年间全国卷和自主命题省市高考卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 5,
+                "word_family": {
+                    "derivative_info_list": [
+                        {
+                            "derivative_info_list": [],
+                            "word": "whose",
+                            "mean": "interrogative possessive det. & pron. 谁的"
+                        },
+                        {
+                            "derivative_info_list": [],
+                            "word": "whoever",
+                            "mean": "relative pron. 谁；无论谁；不论谁；不管什么人"
+                        },
+                        {
+                            "derivative_info_list": [
+                                {
+                                    "derivative_info_list": [],
+                                    "word": "whomever",
+                                    "mean": "pron. 无论是谁；不管是什么人"
+                                }
+                            ],
+                            "word": "whom",
+                            "mean": "pron. 谁；什么人"
+                        }
+                    ],
+                    "word": "who",
+                    "mean": "pron. 谁；什么人；…的人"
+                },
+                "total_exam_freq": 188,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "谁",
+                            "pos": "pron",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "Those <highlight>who</highlight> do not go on river time will live an imbalanced life.",
+                                    "month": -1,
+                                    "source": "北京卷",
+                                    "coll": "",
+                                    "sentence_trans": "那些不按照河流时间生活的人将会过着不平衡的生活。",
+                                    "year": 2021,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "We had a woman patient <highlight>who</highlight> was recovering from a knee replacement operation.",
+                                    "month": -1,
+                                    "source": "全国乙卷",
+                                    "coll": "",
+                                    "sentence_trans": "我们有一位女性病人，她刚做完膝关节置换手术，正在康复中。",
+                                    "year": 2021,
+                                    "type": "完形填空",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "It was a trait others found helpful, and I soon had friends <highlight>who</highlight> wanted to make things with me.",
+                                    "month": -1,
+                                    "source": "浙江卷",
+                                    "coll": "",
+                                    "sentence_trans": "这是一个别人觉得有用的特点，我很快就有了想和我一起做事情的朋友。",
+                                    "year": 2020,
+                                    "type": "任务型阅读",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "word_usage": [
+                    {
+                        "usage": "作疑问代词，引导疑问句：Who do you think is the best player this year? 你认为谁是今年最好的选手？"
+                    },
+                    {
+                        "usage": "作连接代词，引导名词性从句：I asked him who had come into the room. 我问他是谁进了这间屋。"
+                    },
+                    {
+                        "usage": "作关系代词，引导限制性和非限制性定语从句：The man who you spoke to just now is an experienced maths teacher.刚才与你谈话的那个人是一个经验丰富的数学老师。"
+                    }
+                ]
+            },
+            "zhongkao": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 508,
+                        "pos": "pron",
+                        "chinese": "谁",
+                        "sense_tier_ratio": 51.11
+                    },
+                    {
+                        "sense_tier": 486,
+                        "pos": "pron",
+                        "chinese": "…的那个人",
+                        "sense_tier_ratio": 48.89
+                    }
+                ],
+                "word": "who",
+                "direction_info": {
+                    "ranges": 4,
+                    "description": "数据源自2018-2021年4年间全国各省市中考试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2018-2021年全国重点省市中考试卷，包括听力、阅读、完形、单选、填空、改错、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选各省市考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2018-2021年4年间全国各省市中考试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 5,
+                "word_family": {
+                    "derivative_info_list": [
+                        {
+                            "derivative_info_list": [],
+                            "word": "whose",
+                            "mean": "interrogative possessive det. & pron. 谁的"
+                        },
+                        {
+                            "derivative_info_list": [],
+                            "word": "whoever",
+                            "mean": "relative pron. 谁；无论谁；不论谁；不管什么人"
+                        },
+                        {
+                            "derivative_info_list": [],
+                            "word": "whom",
+                            "mean": "pron. 谁；什么人"
+                        }
+                    ],
+                    "word": "who",
+                    "mean": "pron. 谁；什么人；…的人"
+                },
+                "total_exam_freq": 994,
+                "sense": {
+                    "sense_num": 2,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "谁",
+                            "pos": "pron",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "<highlight>Who</highlight> is interested in English?",
+                                    "month": -1,
+                                    "source": "德阳市卷",
+                                    "coll": "",
+                                    "sentence_trans": "谁对英语感兴趣？",
+                                    "year": 2021,
+                                    "type": "听力",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "<highlight>Who</highlight> took the girl to the hospital?",
+                                    "month": -1,
+                                    "source": "十堰市卷",
+                                    "coll": "",
+                                    "sentence_trans": "谁把女孩送到医院的？",
+                                    "year": 2021,
+                                    "type": "听力",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "<highlight>Who</highlight> has long hair in the picture?",
+                                    "month": -1,
+                                    "source": "江西卷",
+                                    "coll": "",
+                                    "sentence_trans": "照片中谁留着长发？",
+                                    "year": 2019,
+                                    "type": "听力测试",
+                                    "day": -1
+                                }
+                            ]
+                        },
+                        {
+                            "en": "",
+                            "zh": "…的那个人",
+                            "pos": "pron",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "Before taking photos with the people <highlight>who</highlight> work at the palace, you should ask them if it's OK",
+                                    "month": -1,
+                                    "source": "重庆 B 卷",
+                                    "coll": "",
+                                    "sentence_trans": "在与在皇宫工作的人拍照之前，你应该问他们是否可以",
+                                    "year": 2020,
+                                    "type": "听力测试",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "The most competent adults are those <highlight>who</highlight> know how to do this.",
+                                    "month": -1,
+                                    "source": "深圳卷",
+                                    "coll": "",
+                                    "sentence_trans": "最有能力的成年人是那些知道如何做这件事的人。",
+                                    "year": 2019,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "I know a Catherine <highlight>who</highlight> is smart, educated and interesting.",
+                                    "month": -1,
+                                    "source": "山西卷",
+                                    "coll": "",
+                                    "sentence_trans": "我认识一个叫凯瑟琳的人，她聪明、有教养、有趣。",
+                                    "year": 2018,
+                                    "type": "完型填空",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            "sentencesData": {
+                "status": 1,
+                "info": "notZh2En",
+                "data": {}
+            },
+            "isAutoMatch": false,
+            "Zh2En": false
+        },
+        "query": "who",
+        "result": "谁",
+        "tabSelect": "detail",
+        "dictionaryType": "oxford_buchong",
+        "notFound_show": false,
+        "phoneticShow": "",
+        "globalShowTranslateRecord": "",
+        "pronPrefer": {
+            "type": "usa_1",
+            "speaker": "male",
+            "speed": "standard"
+        },
+        "ServerRecord": "",
+        "ServerUIGS": {
+            "version": "new",
+            "type": "all",
+            "stype": "success",
+            "terminal": "web",
+            "fr": "default",
+            "direction": "etoz",
+            "from": "en",
+            "to": "zh-CHS",
+            "len": 3,
+            "qtype": "text",
+            "qctype": "qc_1",
+            "dict_cover": 1,
+            "detail": 1,
+            "wordCardCover": 1,
+            "wordCardEn": 1,
+            "wordCardCh": 0,
+            "wordCardMinor": 0,
+            "wordCardNetmean": 0,
+            "wordDeform": 0,
+            "keyword": 0,
+            "bilingual": 1,
+            "simple": 0,
+            "levelList": 1,
+            "synonym": 0,
+            "antonym": 0,
+            "conjugate": 0,
+            "rootaffix": 0,
+            "baike_sogou": 1,
+            "baike_wiki": 0,
+            "wordDifference": 1,
+            "word_phrase": 1,
+            "secondQuery": 0,
+            "dict_oxford": 0,
+            "dict_newcentury": 0,
+            "zhongkaotab": 1,
+            "gaokaotab": 1,
+            "CET4tab": 0,
+            "CET6tab": 0,
+            "kaoyantab": 1,
+            "network_tab": 0,
+            "yinying_tab": 1,
+            "tuozhan_tab": 0,
+            "one_pic": 0,
+            "more_pic": 0,
+            "no_pic": 0,
+            "uuid": "b1a8e5cc-5d2b-4c11-9e39-f1667e2c472b",
+            "from_type": 0,
+            "t_trans_ssr": 160
+        },
+        "ServerModelUIGS": {
+            "terminal": "web",
+            "type": "trans_model",
+            "pbtype": "pv",
+            "model_general": 1,
+            "model_medical": 1,
+            "model_finance": 1
+        },
+        "ServerSgtkn": "64F3431FD00E60C9C2C4EA7A8EBD0A71C2077E7E67552B01",
+        "suggShow": false,
+        "suggestion": "",
+        "suggDirection": "",
+        "usualTop": "",
+        "baseDict": "",
+        "wordCardClick": false,
+        "isFrInput": false,
+        "kanaTips": {
+            "show": false,
+            "left": "",
+            "top": "",
+            "type": "",
+            "arrowLeft": ""
+        },
+        "currSentenceIndex": -1,
+        "prefixStrObj": {
+            "prefixStr": "",
+            "oriPrefixStr": ""
+        },
+        "selectTransBox": {
+            "show": false,
+            "right": 0,
+            "top": 0,
+            "paraphraseInfo": {
+                "word": "",
+                "from": "",
+                "to": "",
+                "area": ""
+            }
+        },
+        "sentenceLoading": false,
+        "newSentenceInfo": {
+            "sentence": "",
+            "candidateIndex": 0
+        },
+        "moreTipInfo": {
+            "opacity": 0,
+            "zIndex": -1
+        },
+        "paraphraseShowInfo": {
+            "card": 0,
+            "query": "",
+            "card_dict": 0
+        },
+        "selectType": "",
+        "wordPos": 0,
+        "candidateWord": "",
+        "syntaxVisible": false,
+        "syntaxStatus": 0
+    },
+    "language": {
+        "from": "auto",
+        "to": "zh-CHS",
+        "detect": "en",
+        "model": "general",
+        "detectShow": false,
+        "langMap": {
+            "current": ""
+        },
+        "zh2en": false,
+        "fromItemList": [
+            {
+                "lang": "auto",
+                "text": "自动检测",
+                "play": false
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "ru",
+                "text": "俄语",
+                "play": true,
+                "abbr": "俄"
+            },
+            {
+                "lang": "fr",
+                "text": "法语",
+                "play": true,
+                "abbr": "法"
+            },
+            {
+                "lang": "th",
+                "text": "泰语",
+                "play": true,
+                "abbr": "泰"
+            }
+        ],
+        "toItemList": [
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "ru",
+                "text": "俄语",
+                "play": true,
+                "abbr": "俄"
+            },
+            {
+                "lang": "fr",
+                "text": "法语",
+                "play": true,
+                "abbr": "法"
+            },
+            {
+                "lang": "vi",
+                "text": "越南语",
+                "play": true,
+                "abbr": "越"
+            }
+        ]
+    },
+    "voice": {
+        "from": {
+            "lang": "en",
+            "type": "from",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22who%22%2C%22spokenDialect%22%3A%22en%22%2C%22rate%22%3A%220.8%22%7D",
+            "list": [
+                {
+                    "type": "uk_0",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "huː",
+                    "abbr": "英",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/115_who_uk.mp3"
+                },
+                {
+                    "type": "usa_1",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "huː",
+                    "abbr": "美",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/115_who_usa.mp3"
+                }
+            ],
+            "stype": "phonetic",
+            "phoneticShow": [
+                {
+                    "text": "huː",
+                    "type": "uk",
+                    "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/115_who_uk.mp3"
+                }
+            ]
+        },
+        "to": {
+            "lang": "zh",
+            "type": "to",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22%E8%B0%81%22%2C%22spokenDialect%22%3A%22zh-CHS%22%2C%22rate%22%3A%220.8%22%7D",
+            "stype": "normal"
+        }
+    }
+}

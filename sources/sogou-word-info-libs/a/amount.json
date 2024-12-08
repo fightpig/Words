@@ -1,0 +1,3399 @@
+{
+    "route": {
+        "name": "text",
+        "path": "/text",
+        "hash": "",
+        "query": {
+            "keyword": "amount",
+            "transfrom": "auto",
+            "transto": "zh-CHS",
+            "model": "general",
+            "errcode": "s10"
+        },
+        "params": {},
+        "fullPath": "/text?keyword=amount&transfrom=auto&transto=zh-CHS&model=general&errcode=s10",
+        "meta": {
+            "mtype": [
+                "textTranslate",
+                "language",
+                "voice"
+            ]
+        },
+        "from": {
+            "name": null,
+            "path": "/",
+            "hash": "",
+            "query": {},
+            "params": {},
+            "fullPath": "/",
+            "meta": {}
+        }
+    },
+    "common": {
+        "CONFIG": {
+            "wuid": 1733635045352,
+            "loginInfo": {},
+            "isIE": 0,
+            "isHitSsrSwitch": true,
+            "isHitWritebookSwitch": false,
+            "isHitAmsSwitch": true,
+            "promotionList": "{\n    \"pc_bottom\":{\n        \"imgsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\",\n        \"qcsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\"\n    },\n    \"pc_middle\":[\n        {\n            \"src\":\"//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c\",\n            \"bgColor\":\"#ffffff\",\n            \"link\":\"\"\n        }\n    ],\n    \"pc_survey\":{\n        \"icon\":\"//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750\",\n        \"link\":\"https://wj.qq.com/s2/8193148/806d/\"\n    }\n}",
+            "bannerData": [],
+            "isHitAsideSurvey": false,
+            "secretCode": 109984457,
+            "uuid": "d639b417-a66c-4556-823b-ed6b738a676a",
+            "referer": "",
+            "approveToken": "64F41CC1D9016FC6CECBE57590C29095CE6C09CD67552BE5",
+            "loadTime": 1733635045354,
+            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0",
+            "fcp": "170.64.148.76",
+            "temporaryId": "",
+            "fileId": ""
+        },
+        "hotWords": [],
+        "isFromCollect": false,
+        "psdModify": {
+            "currentStep": 1,
+            "scode": "",
+            "username": ""
+        },
+        "loginStatus": true,
+        "feedBackModule": false,
+        "showPromotionPopup": {
+            "show": false,
+            "type": ""
+        },
+        "showPromotionPCDownload": false,
+        "showShareBomb": false,
+        "shareData": null,
+        "showAppDownLoad": false,
+        "showLoginDialog": false,
+        "showLoading": {
+            "show": false
+        },
+        "toast": {
+            "show": false,
+            "text": "",
+            "loading": false
+        },
+        "modelToast": {
+            "show": false,
+            "text": ""
+        },
+        "selectionGlobalShow": true,
+        "selectionInfo": {
+            "left": 0,
+            "top": 0,
+            "show": false,
+            "from": "",
+            "to": "",
+            "val": "",
+            "area": ""
+        },
+        "showConfirmDialog": false,
+        "promotionList": {
+            "pc_bottom": {
+                "imgsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png",
+                "qcsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png"
+            },
+            "pc_middle": [
+                {
+                    "src": "//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c",
+                    "bgColor": "#ffffff",
+                    "link": ""
+                }
+            ],
+            "pc_survey": {
+                "icon": "//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750",
+                "link": "https://wj.qq.com/s2/8193148/806d/"
+            }
+        },
+        "transTypeTxt": "text",
+        "fixedTabStatus": 0,
+        "bodyTop": 0,
+        "ifHideUserOperation": false
+    },
+    "textTranslate": {
+        "prevTransQuery": "",
+        "translateData": {
+            "translate": {
+                "zly": "zly",
+                "errorCode": "0",
+                "qc_type": "1",
+                "index": "content0",
+                "from": "en",
+                "source": "sogou",
+                "text": "amount",
+                "to": "zh-CHS",
+                "id": "d639b417-a66c-4556-823b-ed6b738a676a",
+                "dit": "数量",
+                "orig_text": "amount",
+                "md5": ""
+            },
+            "detect": {
+                "zly": "zly",
+                "detect": "en",
+                "errorCode": "0",
+                "language": "英语",
+                "id": "b5fdd9d0-b523-11ef-9a3d-2f59db24e76c",
+                "text": "amount"
+            },
+            "sgtkn": "64F41CC8D9016FC6CECBE57590C29095CE6C09CD67552BE5",
+            "wordCard": {
+                "title": "amount",
+                "show": true,
+                "usualDict": [
+                    {
+                        "values": [
+                            "总数；总量；数额；金额；总额；合计；总和；数量；一笔钱"
+                        ],
+                        "pos": "n."
+                    },
+                    {
+                        "values": [
+                            "合计；共计；相当于；等于；等同；达到；接近；积累；结果是"
+                        ],
+                        "pos": "v."
+                    }
+                ],
+                "secondQuery": "",
+                "exchange": {
+                    "word_third": [
+                        "amounts"
+                    ],
+                    "word_ing": [
+                        "amounting"
+                    ],
+                    "word_done": [
+                        "amounted"
+                    ],
+                    "word_pl": [
+                        "amounts"
+                    ],
+                    "word_past": [
+                        "amounted"
+                    ]
+                },
+                "levelList": [
+                    "初中",
+                    "高中",
+                    "四级",
+                    "六级",
+                    "考研",
+                    "雅思",
+                    "托福"
+                ]
+            },
+            "detail": {
+                "synonym": [
+                    {
+                        "word_list": [
+                            "foot",
+                            "gross total"
+                        ],
+                        "pos": "vi.",
+                        "mean": "总计，合计；相当于；共计；产生…结果"
+                    },
+                    {
+                        "word_list": [
+                            "sum",
+                            "quantity of",
+                            "gross",
+                            "total"
+                        ],
+                        "pos": "n.",
+                        "mean": "数量；总额，总数"
+                    }
+                ],
+                "affix": {
+                    "word": "amount",
+                    "sub_affix_info_list": [
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "abase",
+                                            "mean": "v. 使屈辱；使降低身份"
+                                        },
+                                        {
+                                            "word": "abuzz",
+                                            "mean": "adj. 嗡嗡响的；嘈杂的"
+                                        },
+                                        {
+                                            "word": "afloat",
+                                            "mean": "adj. 漂浮在水上的；不沉的；在船（或艇）上的；摆脱债务；在流传中；当前；有偿债能力的；经济上周转自如的"
+                                        },
+                                        {
+                                            "word": "ahead",
+                                            "mean": "adv. 在前面；朝前地；领先；今后；在不久的将来；提前地；向前地；更多；更高"
+                                        },
+                                        {
+                                            "word": "alive",
+                                            "mean": "adj. （人；动植物）活的；（动物）敏捷的；愉快活泼的；明白的；感兴趣的；做出响应的；充满的；丰富的；有意义的；（感情；品质）继续存在的"
+                                        },
+                                        {
+                                            "word": "aloud",
+                                            "mean": "adv. 出声地；能听见地；大声地"
+                                        },
+                                        {
+                                            "word": "amid",
+                                            "mean": "prep. 在…之中；在…气氛中；在…背景下"
+                                        },
+                                        {
+                                            "word": "apace",
+                                            "mean": "adv. 飞快地；迅速地"
+                                        },
+                                        {
+                                            "word": "ashamed",
+                                            "mean": "adj. 羞愧的；羞耻的；惭愧的；内疚的；因怕难堪（或丢脸）而不愿意；觉得难堪；丢脸"
+                                        },
+                                        {
+                                            "word": "aside",
+                                            "mean": "adv. 到一边；在旁边；除去；以备未来之用；撇开"
+                                        },
+                                        {
+                                            "word": "asleep",
+                                            "mean": "adj. & adv. 处于睡眠状态的；进入睡眠状态的；不专心的；不留神的；不积极的；不活跃的；无感觉的；麻木的；长眠的；已死的"
+                                        },
+                                        {
+                                            "word": "astride",
+                                            "mean": "prep. & adv. 在…上；在…两边；分开地"
+                                        },
+                                        {
+                                            "word": "awake",
+                                            "mean": "v. 醒；睡醒；唤醒；苏醒；意识到；活跃"
+                                        },
+                                        {
+                                            "word": "alike",
+                                            "mean": "adj. 彼此相似的"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "表示状态转变的前缀, 一般与adj连用, 构成表语形容词。\n表示处于某种状态 \"…的\"。",
+                                    "affix_type": "prefix"
+                                },
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "amorphous",
+                                            "mean": "adj. 无固定形状的；不规则的；无组织的；无明确目标的；非结晶的"
+                                        },
+                                        {
+                                            "word": "apathy",
+                                            "mean": "n. 无兴趣；漠然；冷漠；无动于衷"
+                                        },
+                                        {
+                                            "word": "asymmetry",
+                                            "mean": "n. 不对称；不对等"
+                                        },
+                                        {
+                                            "word": "atom",
+                                            "mean": "n. 原子；原子能；微量；核能；原级"
+                                        },
+                                        {
+                                            "word": "atypical",
+                                            "mean": "adj. 非典型的"
+                                        },
+                                        {
+                                            "word": "averse",
+                                            "mean": "adj. 厌恶的；反对的"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "否定前缀, 表示\"不, 无, 非\"",
+                                    "affix_type": "prefix"
+                                },
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "abate",
+                                            "mean": "v. 减轻；减弱；使减轻；使减弱；减小；减少；消除"
+                                        },
+                                        {
+                                            "word": "abroad",
+                                            "mean": "adv. 在国外；到国外；向四方；广泛地；未击中目标；出错；在室外；到室外；盛行；行动自由"
+                                        },
+                                        {
+                                            "word": "afield",
+                                            "mean": "adv. 往远方地；遥远地；在田野；在野外"
+                                        },
+                                        {
+                                            "word": "afresh",
+                                            "mean": "adv. 重新地"
+                                        },
+                                        {
+                                            "word": "along",
+                                            "mean": "prep. & adv. 沿着；顺着；循；延伸；带来；与…一起；在…期间；进展"
+                                        },
+                                        {
+                                            "word": "amend",
+                                            "mean": "v. 改正；修正；改善（土壤）的结构；修复"
+                                        },
+                                        {
+                                            "word": "apart",
+                                            "mean": "adv. 相距；相隔；在一边地；与主体分离地；粉碎地；成零碎地；分居；与众不同地；感情上彼此隔阂；有别于其他地"
+                                        },
+                                        {
+                                            "word": "apartment",
+                                            "mean": "n. 公寓套房; 一套公寓房间；一套公寓；公寓大楼；豪华公寓套房"
+                                        },
+                                        {
+                                            "word": "apiece",
+                                            "mean": "adv. 每个；就（群体中）每个而论"
+                                        },
+                                        {
+                                            "word": "arouse",
+                                            "mean": "v. 唤起；激起；唤醒；燃起…怒气；煽起…强烈情感；激起…性欲"
+                                        },
+                                        {
+                                            "word": "ascend",
+                                            "mean": "v. 登上；攀登；升起；上升；逆流而上；向上倾斜；提升；晋升"
+                                        },
+                                        {
+                                            "word": "ashore",
+                                            "mean": "adv. 向岸；向陆地；在岸上；在陆地上"
+                                        },
+                                        {
+                                            "word": "aspire",
+                                            "mean": "v. 渴望；有志于；升高；高耸"
+                                        },
+                                        {
+                                            "word": "avail",
+                                            "mean": "v. 利用；有助于；有益于"
+                                        },
+                                        {
+                                            "word": "avenue",
+                                            "mean": "n. 大道；林荫道；途径"
+                                        },
+                                        {
+                                            "word": "aver",
+                                            "mean": "v. 宣称；断言；证明…属实"
+                                        },
+                                        {
+                                            "word": "aversion",
+                                            "mean": "n. 厌恶；反感；令人厌恶的人"
+                                        },
+                                        {
+                                            "word": "avert",
+                                            "mean": "v. 转移；防止；避免"
+                                        },
+                                        {
+                                            "word": "away",
+                                            "mean": "adv. 向远处；离开；到适当的地方；不断地；持续地；在（特定距离）处；之后；倾斜地；向下地；偏向一边"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "表示\"远离\", 指的是偏离某种状态/位置。",
+                                    "affix_type": "prefix"
+                                },
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "aboard",
+                                            "mean": "adv. & prep. 在船上；在…上；骑在上；跨上；新入伙；在垒上"
+                                        },
+                                        {
+                                            "word": "abaft",
+                                            "mean": "adv. 在船尾；向船尾"
+                                        },
+                                        {
+                                            "word": "abed",
+                                            "mean": "adv. 在床上"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "在...上(= on)",
+                                    "affix_type": "prefix"
+                                },
+                                {
+                                    "sample": [],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "去, 往, 朝, 向, 接近",
+                                    "affix_type": "prefix"
+                                },
+                                {
+                                    "sample": [],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "加强",
+                                    "affix_type": "prefix"
+                                },
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "amuse",
+                                            "mean": "v. 逗乐；逗笑；为…提供消遣；娱乐"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "使",
+                                    "affix_type": "prefix"
+                                },
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "along",
+                                            "mean": "prep. & adv. 沿着；顺着；循；延伸；带来；与…一起；在…期间；进展"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "表示“相对”",
+                                    "affix_type": "prefix"
+                                }
+                            ],
+                            "affix": "a-",
+                            "affix_mean": "...的"
+                        },
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "mountain",
+                                            "mean": "n. 山；大山；山岳；山区；山脉；大量；大堆；大量积压；过剩"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "山",
+                                    "affix_type": "stem"
+                                },
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "surmount",
+                                            "mean": "v. 克服；站在…上面；被放置在…上"
+                                        },
+                                        {
+                                            "word": "paramount",
+                                            "mean": "adj. 最重要的；至高无上的"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "表示\"登上\"(=ascend)",
+                                    "affix_type": "stem"
+                                },
+                                {
+                                    "sample": [],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "装上",
+                                    "affix_type": "stem"
+                                }
+                            ],
+                            "affix": "mount",
+                            "affix_mean": "山",
+                            "sub": {
+                                "word": "mount",
+                                "sub_affix_info_list": [
+                                    {
+                                        "affix_sense_info": [
+                                            {
+                                                "sample": [
+                                                    {
+                                                        "word": "mountain",
+                                                        "mean": "n. 山；大山；山岳；山区；山脉；大量；大堆；大量积压；过剩"
+                                                    }
+                                                ],
+                                                "derivatives": "",
+                                                "affix_sense_chinese": "山",
+                                                "affix_type": "stem"
+                                            },
+                                            {
+                                                "sample": [
+                                                    {
+                                                        "word": "surmount",
+                                                        "mean": "v. 克服；站在…上面；被放置在…上"
+                                                    },
+                                                    {
+                                                        "word": "paramount",
+                                                        "mean": "adj. 最重要的；至高无上的"
+                                                    }
+                                                ],
+                                                "derivatives": "",
+                                                "affix_sense_chinese": "表示\"登上\"(=ascend)",
+                                                "affix_type": "stem"
+                                            },
+                                            {
+                                                "sample": [],
+                                                "derivatives": "",
+                                                "affix_sense_chinese": "装上",
+                                                "affix_type": "stem"
+                                            }
+                                        ],
+                                        "affix": "mount",
+                                        "affix_mean": "山"
+                                    }
+                                ],
+                                "word_mean": "v. 登"
+                            }
+                        }
+                    ],
+                    "word_mean": "n. 数量"
+                },
+                "word_difference_info": [
+                    {
+                        "common_mean": "总数；总量",
+                        "word_list": [
+                            "amount",
+                            " sum",
+                            " number",
+                            " quantity"
+                        ],
+                        "word_mean_info__list": [
+                            {
+                                "difference": "普通用词，与quantity近义，但强调整体，指把所有数量、重量及度量归并在一起得出的总数。",
+                                "word": "amount"
+                            },
+                            {
+                                "difference": "普通用词，指简单加算的结果。",
+                                "word": "sum"
+                            },
+                            {
+                                "difference": "普通用词，指人或物的数目，强调数的概念。",
+                                "word": "number"
+                            },
+                            {
+                                "difference": "书面用词，指事物的总量和总数量，侧重大批计量，含准确测量的意味。",
+                                "word": "quantity"
+                            }
+                        ]
+                    }
+                ],
+                "word_group": [
+                    {
+                        "brief_definition": "大量",
+                        "phrase": "a large amount of",
+                        "pos": "phr."
+                    },
+                    {
+                        "brief_definition": "大量的",
+                        "phrase": "a huge amount of",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "少量的",
+                        "phrase": "a small amount of",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "相当数量的；许多",
+                        "phrase": "an amount of",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "…的数额；…的数量",
+                        "phrase": "the amount of",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "总额；总数额；总数量",
+                        "phrase": "total amount",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "总计, 总共达到；实际上是",
+                        "phrase": "amount to",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "一定量的...；一笔...",
+                        "phrase": "a amount of",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "极大量的",
+                        "phrase": "any amount of",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "大量；大数额；大批",
+                        "phrase": "large amount",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "大量的",
+                        "phrase": "large amount of",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "少量；小数额；小金额",
+                        "phrase": "small amount",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "相同数量",
+                        "phrase": "same amount",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "大量；巨额",
+                        "phrase": "huge amount",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "最高数额；最大的量；最大数量",
+                        "phrase": "maximum amount",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "相当数量",
+                        "phrase": "considerable amount",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "大量工作；工作量；运动量",
+                        "phrase": "amount of work",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "大量；巨大数额",
+                        "phrase": "enormous amount",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "怎么也…不；再多也…不",
+                        "phrase": "no amount of",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "大量",
+                        "phrase": "vast amount",
+                        "pos": ""
+                    }
+                ],
+                "bilingual": [
+                    {
+                        "source": "Please check the <em>amount</em> of money in your account.",
+                        "target": "请检查你账户中的钱数量。",
+                        "url": ""
+                    },
+                    {
+                        "source": "The <em>amount</em> of sugar in this recipe is too high.",
+                        "target": "这个食谱中的糖数量太多了。",
+                        "url": ""
+                    },
+                    {
+                        "source": "The <em>amount</em> of rainfall this year is below average.",
+                        "target": "今年的降雨数量低于平均水平。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Recycling can help reduce the <em>amount</em> of wastes.",
+                        "target": "回收利用可以帮助减少废物的数量。",
+                        "url": ""
+                    },
+                    {
+                        "source": "The <em>amount</em> of traffic on the roads has increased recently.",
+                        "target": "最近道路上的交通数量增加了。",
+                        "url": ""
+                    },
+                    {
+                        "source": "They are working to reduce the <em>amount</em> of plastic waste.",
+                        "target": "他们正在努力减少塑料垃圾的数量。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Using bioplastic can help decrease the <em>amount</em> of plastic waste.",
+                        "target": "使用生物塑料可以帮助减少塑料废物的数量。",
+                        "url": ""
+                    },
+                    {
+                        "source": "He was surprised by the <em>amount</em> of work he had to do.",
+                        "target": "他对自己需要完成的工作数量感到惊讶。",
+                        "url": ""
+                    },
+                    {
+                        "source": "The paltry <em>amount</em> of food was not enough to feed everyone.",
+                        "target": "微不足道的食物数量不足以养活所有人。",
+                        "url": ""
+                    },
+                    {
+                        "source": "She was appalled by the <em>amount</em> of waste produced by the factory.",
+                        "target": "她对工厂产生的废物数量感到惊骇。",
+                        "url": ""
+                    }
+                ],
+                "baike": {
+                    "showMore": false,
+                    "list": [
+                        {
+                            "lemmaTitle": "amount",
+                            "link": "https://baike.sogou.com/v71552001.htm?ch=sogou.fanyi",
+                            "abstract": "amount是一个英语单词，当做名词用时翻译为量，数量；总额；全部含义；当做不及物动词时翻译为（在意义、价值、效果、程度等方面） 等于；等同，接近；合计，总共；发展成为。",
+                            "wapPic": "",
+                            "pcPic": ""
+                        }
+                    ]
+                }
+            },
+            "book": {
+                "yingyinNormal": [
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/fbd36068a45ee4cc0e4a4e35ee0653bd_43525.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/273af32219008b6c5d4b3a7bc00106a7_2384.mp3",
+                        "isLavafox": true,
+                        "en": "The problem is gravity. How to get a viable <em>amount</em> of human life off the planet.",
+                        "zh": "问题是地心引力。如何才能把一定数量的人类带离这个星球。",
+                        "videoNameZh": "《星际穿越》",
+                        "videoNameEn": "《Interstellar》",
+                        "url": "http://bisentence_movie.sogou.com/2d153b9cba0438a33b54552637bfcb37_55db3ebb5d8cb6e18bd46a4c496a8144dd41f363"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/070fb26d3af178b3f2a1532fb08bc392_61512.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/8dec5e70a15a1b0ce892f8ffd29ea417_67864.mp3",
+                        "isLavafox": true,
+                        "en": "Then double the <em>amount</em> of floggings and executions.",
+                        "zh": "把鞭刑和处决的数目加到双倍。",
+                        "videoNameZh": "《饥饿游戏2：星火燎原》",
+                        "videoNameEn": "《The Hunger Games: Catching Fire》",
+                        "url": "http://bisentence_movie.sogou.com/f6312c402cddde8e63c6c16690eedeb8_b3be5a33eb813dda0f5330a9033dd84a1c36a42e"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/a22e6af87ee63df4b714547f6895ba40_54847.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/a3bce9deaa04f1db71bcfb294565e9eb_32303.mp3",
+                        "isLavafox": true,
+                        "en": "They're using him to get to me. That's why the bail <em>amount</em>.",
+                        "zh": "他们是在利用他抓我，所以保释金这么多。",
+                        "videoNameZh": "《傲骨贤妻 第六季》",
+                        "videoNameEn": "《The Good Wife Season 6》",
+                        "url": "http://bisentence_movie.sogou.com/a2582fd95246782f143471bb1facd1d8_c307141008060748e312c19aa6bd9458fd878c0d"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/649fb0da5e02febcad57f332efe07876_46469.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/9cc26145fcd65e5fa96ecb822db97068_4069.mp3",
+                        "isLavafox": true,
+                        "en": "Joey, that's just the minimum <em>amount</em> due, that's your total due.",
+                        "zh": "乔伊，那只是最低应缴金额，总金额在这里。",
+                        "videoNameZh": "《老友记 第二季》",
+                        "videoNameEn": "《Friends Season 2》",
+                        "url": "http://bisentence_movie.sogou.com/7c62d6b5d335d8515ca7d59258ffd79b_e0b101c873a225d591bfa502b3de4d4e0599d8c8"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/368277e4523e7b27b12887e16057df56_64015.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/f6c7671e33cb187135edcf5b7bd270d0_36104.mp3",
+                        "isLavafox": true,
+                        "en": "I thought that you couldn't get hurt here. Only the right <em>amount</em>.",
+                        "zh": "我以为游客在乐园里不会受伤。不会受重伤。",
+                        "videoNameZh": "《西部世界 第一季》",
+                        "videoNameEn": "《Westworld Season 1》",
+                        "url": "http://bisentence_movie.sogou.com/e69269867bd1f31d98de8a01d5471d58_72c9fe7a2e0fb812259320e70822492f89bf27d7"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/69e52acd9e09b6a2ed378507a165e971_14638.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/20fa371a1caf9ff8f21f235fcfccb88c_39145.mp3",
+                        "isLavafox": true,
+                        "en": "And I would've paid ten times that <em>amount</em>. You're not going to jail.",
+                        "zh": "就是再出十倍我也愿意，你不会进监狱的。",
+                        "videoNameZh": "《绯闻女孩 第一季》",
+                        "videoNameEn": "《Gossip Girl Season 1》",
+                        "url": "http://bisentence_movie.sogou.com/2e0df3b1a03d8768c249a23c82ba15db_18fa1cda421dc8c49bcccb478ca68c6857ee1d73"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/a22e6af87ee63df4b714547f6895ba40_54847.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/f6be79070f5a459a3144cf9bd87b6597_34155.mp3",
+                        "isLavafox": true,
+                        "en": "I imagine you'd like bail set at an <em>amount</em> lower than the ASA requested.",
+                        "zh": "我想你希望保释金低于助理检察官的要求。",
+                        "videoNameZh": "《傲骨贤妻 第六季》",
+                        "videoNameEn": "《The Good Wife Season 6》",
+                        "url": "http://bisentence_movie.sogou.com/11b4bf43ddbfe321a726fe2d0f3005f7_c9a2b5ab49518458b2cf4b1cb842a4acdc2e8487"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/34d2d19c723ad11a5a6dcd6da67c9085_43190.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/e00ee154224210d8be0d70fa84016f17_71969.mp3",
+                        "isLavafox": true,
+                        "en": "He sent a cheque so I can pay off the full <em>amount</em> and wipe the slate clean.",
+                        "zh": "他给了我张支票，让我得以全额偿还，把债务偿清。",
+                        "videoNameZh": "《唐顿庄园 第四季》",
+                        "videoNameEn": "《Downton Abbey Season 4》",
+                        "url": "http://bisentence_movie.sogou.com/17d2ea75b5b5ebb01d205564fe80aa47_5f50b87d74ddfe8e4605f2e337979ffbf964234f"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/2fc568581b153aece2290fc09ef18467_13355.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/5a3cb3ec90c5cdd8216eafbcb503222f_70020.mp3",
+                        "isLavafox": true,
+                        "en": "The <em>amount</em> of Vibranium he made off with, I don't think it's just one thing.",
+                        "zh": "他偷走了大量振金...我觉得这只是其一。",
+                        "videoNameZh": "《复仇者联盟2：奥创纪元》",
+                        "videoNameEn": "《Avengers: Age of Ultron》",
+                        "url": "http://bisentence_movie.sogou.com/95e82969de88b1b78c350d73b7e7b83c_ab006ee885760daad6800fa2b8fd248c3cc4dc4a"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/658cb5af1f2c25ef894d7429bd1ba9af_103.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/fd06c926109fcf232dadbc53734959e2_56541.mp3",
+                        "isLavafox": true,
+                        "en": "Essentially. There's a tremendous <em>amount</em> of unused space in copper power lines.",
+                        "zh": "本质上是的，铜质输电线路中存在庞大的未用空间。",
+                        "videoNameZh": "《疑犯追踪 第四季》",
+                        "videoNameEn": "《Person of Interest Season 4》",
+                        "url": "http://bisentence_movie.sogou.com/7d9ed0b0765e62d924f38c61c2222070_22fb228dd13d77c018f8811c4efcfa569b9c8add"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/334ae739c2d3bef71ab483cd142c3ad8_18137.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/1a160563766c1504971dc8104476eabe_1000.mp3",
+                        "isLavafox": true,
+                        "en": "In addition to intermittent outages, a considerable <em>amount</em> of havoc has been wreaked.",
+                        "zh": "目前不仅信号断断续续，还引发了大规模的破坏。",
+                        "videoNameZh": "《纸牌屋 第五季》",
+                        "videoNameEn": "《House of Cards Season 5》",
+                        "url": "http://bisentence_movie.sogou.com/d250fd3df9469990fbc0f2f5f0eab50d_a3af389bab1f5b5c660ebf64585e335400da4e87"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/658cb5af1f2c25ef894d7429bd1ba9af_103.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/6c7e5aabc115a77e42b54857edef2375_15967.mp3",
+                        "isLavafox": true,
+                        "en": "I have everything I need to find the Machine, and no <em>amount</em> of kicking will change that.",
+                        "zh": "所有能帮我找到机器的东西，我都找齐了，不论你再怎么踢都无力回天了。",
+                        "videoNameZh": "《疑犯追踪 第四季》",
+                        "videoNameEn": "《Person of Interest Season 4》",
+                        "url": "http://bisentence_movie.sogou.com/c5ff501d497f92107b92f33396b46496_567502be473d0b3422e50bed43d0def4506087f2"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/bb1aa62556923fccd02df9cb65d887ce_58358.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/7b3a8319f6faeccd171665c74981c255_47523.mp3",
+                        "isLavafox": true,
+                        "en": "You get a huge <em>amount</em> of satisfaction seeing a loaf coming out of the oven that you've made.",
+                        "zh": "当你看到从烤箱里做好的面包时，有一种巨大的满足感。",
+                        "videoNameZh": "《保罗教你做面包》",
+                        "videoNameEn": "《Baul Hollywoods Bread》",
+                        "url": "http://bisentence_movie.sogou.com/a1a93423462affa02acce9fea3ab757c_f86355c0fa1e247e81a0070b42f43b77142337ee"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/ce4704185ed874d2da0aa0211b7c5d4d_3508.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/d590223d66928b2ebc8b7b02a08ec2ca_75524.mp3",
+                        "isLavafox": true,
+                        "en": "My wife has been under a great <em>amount</em> of stress these past 24 hours. She's clearly in shock.",
+                        "zh": "我妻子过去这一天一直压力很大。她显然还余惊未定。",
+                        "videoNameZh": "《纸牌屋 第三季》",
+                        "videoNameEn": "《House of Cards Season 3》",
+                        "url": "http://bisentence_movie.sogou.com/097caa12ae2d9cdb4c403ec4ea6a6803_dcda5dac84a279be69c805d299479e4f3ff67fcf"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/7eb0bec9540cbb2c5939554caf885c99_49670.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/d4a617f66728bf7349649522edce1c6a_7379.mp3",
+                        "isLavafox": true,
+                        "en": "They have Twizzlers instead of Red Vines. No <em>amount</em> of lumbar support can compensate for that.",
+                        "zh": "它们只有Twizzlers没有Red Vines[糖果品牌]，无论多好的腰椎支撑都是无法弥补的。",
+                        "videoNameZh": "《生活大爆炸 第二季》",
+                        "videoNameEn": "《The Big Bang Theory Season 2》",
+                        "url": "http://bisentence_movie.sogou.com/fd0dd7936e1e8a9e93b88ae45965b011_5f0ffe1ed0f5d96e192ffeb85034220603eedd0e"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/ccf76ddb2ac67ca9ed10416409e26350_16276.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/1155fb6a6de2b94a46ae5ea4cfdb8607_7310.mp3",
+                        "isLavafox": true,
+                        "en": "Use an <em>amount</em> ending in 8, which is particularly lucky in Chinese culture, and avoid the number 4.",
+                        "zh": "数字必须以8结尾，这在中国的文化中被看作是非常幸运的，同时要避免使用4这个数字。",
+                        "videoNameZh": "《如何庆祝中国新年》",
+                        "videoNameEn": "《How to Celebrate Chinese New Year》",
+                        "url": "http://bisentence_movie.sogou.com/04b557315ae34a2ef0148d34d3149a08_573d3e0aab1099f4f109cfa6eb8be606e4cb18a8"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/bd2008660cd3445b80373a4184215c30_37784.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/58be20bd68d8f2408e89abc5da60b6de_36978.mp3",
+                        "isLavafox": true,
+                        "en": "In order for that <em>amount</em> of power to be contained that base has to have some kind of thermal oscillator.",
+                        "zh": "要成功装载规模如此大的武器基地必须有某种热振荡器。",
+                        "videoNameZh": "《星球大战7：原力觉醒》",
+                        "videoNameEn": "《Star Wars: The Force Awakens》",
+                        "url": "http://bisentence_movie.sogou.com/8ea00e3eca8ced39f894df74508f6d46_d9fe0b7315d0e1506f105c52a8b903924e59bcb7"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/658cb5af1f2c25ef894d7429bd1ba9af_103.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/a17b00a4423ac712284cb099b6f5fc5d_18535.mp3",
+                        "isLavafox": true,
+                        "en": "Harold. The port used to hack Khan's system sent a small <em>amount</em> of data back to an off-site I.P. Address.",
+                        "zh": "哈罗德，黑可汗系统的端口发了少量数据到外边的一个IP地址。",
+                        "videoNameZh": "《疑犯追踪 第四季》",
+                        "videoNameEn": "《Person of Interest Season 4》",
+                        "url": "http://bisentence_movie.sogou.com/fd42ad3593222148d8f0272a70f3046f_220622e97e86a99b1ee8de55e4ed743138a8912a"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/7eb0bec9540cbb2c5939554caf885c99_49670.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/03b896436a970d8013c3a81078599ec2_20368.mp3",
+                        "isLavafox": true,
+                        "en": "I'm sorry? I believe one day Sheldon will eat an enormous <em>amount</em> of Thai food and split into two Sheldons.",
+                        "zh": "什么意思？我相信总有一天谢尔顿吃了足够多的泰国菜然后分裂成两个。",
+                        "videoNameZh": "《生活大爆炸 第二季》",
+                        "videoNameEn": "《The Big Bang Theory Season 2》",
+                        "url": "http://bisentence_movie.sogou.com/c50520f2069246cd647ea33e663de8ca_9e4e2dc4b580f3db2240ae2462b2d8dddbb2da3d"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/9a0d4fcdea6f5721a9e0b0fe2ee7da05_35555.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/d8d7d57563e8a567625ed8cc443270e3_24025.mp3",
+                        "isLavafox": true,
+                        "en": "However, our examination of the vehicle did reveal a small <em>amount</em> of blood on the passenger side dashboard.",
+                        "zh": "然而，我们检查了车辆并且在副驾驶仪表盘上发现了少量血液。",
+                        "videoNameZh": "《网络谜踪》",
+                        "videoNameEn": "《Searching》",
+                        "url": "http://bisentence_movie.sogou.com/0978607602d9e89ecc0b1651d371bc22_625c429b5bbd5f61acb888905d505a76785d105b"
+                    }
+                ]
+            },
+            "pic": "",
+            "voice": {
+                "phonetic": [
+                    {
+                        "text": "əˈmaʊnt",
+                        "type": "uk",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/567_amount_uk.mp3"
+                    },
+                    {
+                        "text": "əˈmaʊnt",
+                        "type": "usa",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/567_amount_usa.mp3"
+                    }
+                ]
+            },
+            "dictType": "oxford_buchong",
+            "kaoyan": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 14,
+                        "pos": "v/n",
+                        "chinese": "合计; 数量; 金额",
+                        "sense_tier_ratio": 93.33
+                    },
+                    {
+                        "sense_tier": 1,
+                        "pos": "v",
+                        "chinese": "等同; 被视为",
+                        "sense_tier_ratio": 6.67
+                    }
+                ],
+                "word": "amount",
+                "word_level_phrase_info": [
+                    {
+                        "brief_definition": "大量",
+                        "phrase": "a large amount of",
+                        "pos": "phr"
+                    },
+                    {
+                        "brief_definition": "总计；总共达到；实际上是",
+                        "phrase": "amount to",
+                        "pos": "phr"
+                    }
+                ],
+                "direction_info": {
+                    "ranges": 12,
+                    "description": "数据源自2012-2023年12年间全国考研试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2012-2023年全国考研英语一和考研英语二共24套考研试卷，包括阅读、完型填空、翻译、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选全国考研考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2012-2023年12年间全国考研英语一和考研英语二试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 3,
+                "total_exam_freq": 15,
+                "sense": {
+                    "sense_num": 2,
+                    "sense_info_list": [
+                        {
+                            "en": "add up;\na quantity of something",
+                            "zh": "合计; 数量; 金额",
+                            "pos": "v/n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "This is why researchers generally regard so-called moral guilt, in the right <highlight>amount</highlight>, to be a good thing.",
+                                    "month": -1,
+                                    "source": "英语二",
+                                    "coll": "",
+                                    "sentence_trans": "这就是为什么研究人员普遍认为所谓的道德负罪感，在合理范围内的话，是一件好事。",
+                                    "year": 2019,
+                                    "type": "阅读理解A",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "I never feel overwhelmed with the <highlight>amount</highlight> of information my brain absorbs.",
+                                    "month": -1,
+                                    "source": "英语二",
+                                    "coll": "",
+                                    "sentence_trans": "我从来不会因为大脑吸收的庞大信息量而感到难以承受。",
+                                    "year": 2013,
+                                    "type": "翻译",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "The problem is not necessarily the <highlight>amount</highlight> of available funding.",
+                                    "month": -1,
+                                    "source": "英语一",
+                                    "coll": "",
+                                    "sentence_trans": "问题不一定是可用资金的数量。",
+                                    "year": 2013,
+                                    "type": "阅读理解B",
+                                    "day": -1
+                                }
+                            ]
+                        },
+                        {
+                            "en": "be the same in meaning or effect",
+                            "zh": "等同; 被视为",
+                            "pos": "v",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "Someone is bound to point out that it <highlight>amounts</highlight> to the bare minimum necessary to keep the Postal Service afloat.",
+                                    "month": -1,
+                                    "source": "英语一",
+                                    "coll": "",
+                                    "sentence_trans": "有人一定会指出，这等同于邮政服务运转所必需的最低限度。",
+                                    "year": 2018,
+                                    "type": "阅读理解A",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "word_affix": {
+                    "word": "amount",
+                    "sub_affix_info_list": [
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "abase",
+                                            "mean": "v. 使屈辱；使降低身份"
+                                        },
+                                        {
+                                            "word": "abuzz",
+                                            "mean": "adj. 嗡嗡响的；嘈杂的"
+                                        },
+                                        {
+                                            "word": "afloat",
+                                            "mean": "adj. 漂浮在水上的；不沉的；在船（或艇）上的；摆脱债务；在流传中；当前；有偿债能力的；经济上周转自如的"
+                                        },
+                                        {
+                                            "word": "ahead",
+                                            "mean": "adv. 在前面；朝前地；领先；今后；在不久的将来；提前地；向前地；更多；更高"
+                                        },
+                                        {
+                                            "word": "alive",
+                                            "mean": "adj. （人；动植物）活的；（动物）敏捷的；愉快活泼的；明白的；感兴趣的；做出响应的；充满的；丰富的；有意义的；（感情；品质）继续存在的"
+                                        },
+                                        {
+                                            "word": "aloud",
+                                            "mean": "adv. 出声地；能听见地；大声地"
+                                        },
+                                        {
+                                            "word": "amid",
+                                            "mean": "prep. 在…之中；在…气氛中；在…背景下"
+                                        },
+                                        {
+                                            "word": "apace",
+                                            "mean": "adv. 飞快地；迅速地"
+                                        },
+                                        {
+                                            "word": "ashamed",
+                                            "mean": "adj. 羞愧的；羞耻的；惭愧的；内疚的；因怕难堪（或丢脸）而不愿意；觉得难堪；丢脸"
+                                        },
+                                        {
+                                            "word": "aside",
+                                            "mean": "adv. 到一边；在旁边；除去；以备未来之用；撇开"
+                                        },
+                                        {
+                                            "word": "asleep",
+                                            "mean": "adj. & adv. 处于睡眠状态的；进入睡眠状态的；不专心的；不留神的；不积极的；不活跃的；无感觉的；麻木的；长眠的；已死的"
+                                        },
+                                        {
+                                            "word": "astride",
+                                            "mean": "prep. & adv. 在…上；在…两边；分开地"
+                                        },
+                                        {
+                                            "word": "awake",
+                                            "mean": "v. 醒；睡醒；唤醒；苏醒；意识到；活跃"
+                                        },
+                                        {
+                                            "word": "alike",
+                                            "mean": "adj. 彼此相似的"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "表示状态转变的前缀, 一般与adj连用, 构成表语形容词。\n表示处于某种状态 \"…的\"。",
+                                    "affix_type": "prefix"
+                                },
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "amorphous",
+                                            "mean": "adj. 无固定形状的；不规则的；无组织的；无明确目标的；非结晶的"
+                                        },
+                                        {
+                                            "word": "apathy",
+                                            "mean": "n. 无兴趣；漠然；冷漠；无动于衷"
+                                        },
+                                        {
+                                            "word": "asymmetry",
+                                            "mean": "n. 不对称；不对等"
+                                        },
+                                        {
+                                            "word": "atom",
+                                            "mean": "n. 原子；原子能；微量；核能；原级"
+                                        },
+                                        {
+                                            "word": "atypical",
+                                            "mean": "adj. 非典型的"
+                                        },
+                                        {
+                                            "word": "averse",
+                                            "mean": "adj. 厌恶的；反对的"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "否定前缀, 表示\"不, 无, 非\"",
+                                    "affix_type": "prefix"
+                                },
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "abate",
+                                            "mean": "v. 减轻；减弱；使减轻；使减弱；减小；减少；消除"
+                                        },
+                                        {
+                                            "word": "abroad",
+                                            "mean": "adv. 在国外；到国外；向四方；广泛地；未击中目标；出错；在室外；到室外；盛行；行动自由"
+                                        },
+                                        {
+                                            "word": "afield",
+                                            "mean": "adv. 往远方地；遥远地；在田野；在野外"
+                                        },
+                                        {
+                                            "word": "afresh",
+                                            "mean": "adv. 重新地"
+                                        },
+                                        {
+                                            "word": "along",
+                                            "mean": "prep. & adv. 沿着；顺着；循；延伸；带来；与…一起；在…期间；进展"
+                                        },
+                                        {
+                                            "word": "amend",
+                                            "mean": "v. 改正；修正；改善（土壤）的结构；修复"
+                                        },
+                                        {
+                                            "word": "apart",
+                                            "mean": "adv. 相距；相隔；在一边地；与主体分离地；粉碎地；成零碎地；分居；与众不同地；感情上彼此隔阂；有别于其他地"
+                                        },
+                                        {
+                                            "word": "apartment",
+                                            "mean": "n. 公寓套房; 一套公寓房间；一套公寓；公寓大楼；豪华公寓套房"
+                                        },
+                                        {
+                                            "word": "apiece",
+                                            "mean": "adv. 每个；就（群体中）每个而论"
+                                        },
+                                        {
+                                            "word": "arouse",
+                                            "mean": "v. 唤起；激起；唤醒；燃起…怒气；煽起…强烈情感；激起…性欲"
+                                        },
+                                        {
+                                            "word": "ascend",
+                                            "mean": "v. 登上；攀登；升起；上升；逆流而上；向上倾斜；提升；晋升"
+                                        },
+                                        {
+                                            "word": "ashore",
+                                            "mean": "adv. 向岸；向陆地；在岸上；在陆地上"
+                                        },
+                                        {
+                                            "word": "aspire",
+                                            "mean": "v. 渴望；有志于；升高；高耸"
+                                        },
+                                        {
+                                            "word": "avail",
+                                            "mean": "v. 利用；有助于；有益于"
+                                        },
+                                        {
+                                            "word": "avenue",
+                                            "mean": "n. 大道；林荫道；途径"
+                                        },
+                                        {
+                                            "word": "aver",
+                                            "mean": "v. 宣称；断言；证明…属实"
+                                        },
+                                        {
+                                            "word": "aversion",
+                                            "mean": "n. 厌恶；反感；令人厌恶的人"
+                                        },
+                                        {
+                                            "word": "avert",
+                                            "mean": "v. 转移；防止；避免"
+                                        },
+                                        {
+                                            "word": "away",
+                                            "mean": "adv. 向远处；离开；到适当的地方；不断地；持续地；在（特定距离）处；之后；倾斜地；向下地；偏向一边"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "表示\"远离\", 指的是偏离某种状态/位置。",
+                                    "affix_type": "prefix"
+                                },
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "aboard",
+                                            "mean": "adv. & prep. 在船上；在…上；骑在上；跨上；新入伙；在垒上"
+                                        },
+                                        {
+                                            "word": "abaft",
+                                            "mean": "adv. 在船尾；向船尾"
+                                        },
+                                        {
+                                            "word": "abed",
+                                            "mean": "adv. 在床上"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "在...上(= on)",
+                                    "affix_type": "prefix"
+                                },
+                                {
+                                    "sample": [],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "去, 往, 朝, 向, 接近",
+                                    "affix_type": "prefix"
+                                },
+                                {
+                                    "sample": [],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "加强",
+                                    "affix_type": "prefix"
+                                },
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "amuse",
+                                            "mean": "v. 逗乐；逗笑；为…提供消遣；娱乐"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "使",
+                                    "affix_type": "prefix"
+                                },
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "along",
+                                            "mean": "prep. & adv. 沿着；顺着；循；延伸；带来；与…一起；在…期间；进展"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "表示“相对”",
+                                    "affix_type": "prefix"
+                                }
+                            ],
+                            "affix": "a-",
+                            "affix_mean": "...的"
+                        },
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "mountain",
+                                            "mean": "n. 山；大山；山岳；山区；山脉；大量；大堆；大量积压；过剩"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "山",
+                                    "affix_type": "stem"
+                                },
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "surmount",
+                                            "mean": "v. 克服；站在…上面；被放置在…上"
+                                        },
+                                        {
+                                            "word": "paramount",
+                                            "mean": "adj. 最重要的；至高无上的"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "表示\"登上\"(=ascend)",
+                                    "affix_type": "stem"
+                                },
+                                {
+                                    "sample": [],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "装上",
+                                    "affix_type": "stem"
+                                }
+                            ],
+                            "affix": "mount",
+                            "affix_mean": "山",
+                            "sub": {
+                                "word": "mount",
+                                "sub_affix_info_list": [
+                                    {
+                                        "affix_sense_info": [
+                                            {
+                                                "sample": [
+                                                    {
+                                                        "word": "mountain",
+                                                        "mean": "n. 山；大山；山岳；山区；山脉；大量；大堆；大量积压；过剩"
+                                                    }
+                                                ],
+                                                "derivatives": "",
+                                                "affix_sense_chinese": "山",
+                                                "affix_type": "stem"
+                                            },
+                                            {
+                                                "sample": [
+                                                    {
+                                                        "word": "surmount",
+                                                        "mean": "v. 克服；站在…上面；被放置在…上"
+                                                    },
+                                                    {
+                                                        "word": "paramount",
+                                                        "mean": "adj. 最重要的；至高无上的"
+                                                    }
+                                                ],
+                                                "derivatives": "",
+                                                "affix_sense_chinese": "表示\"登上\"(=ascend)",
+                                                "affix_type": "stem"
+                                            },
+                                            {
+                                                "sample": [],
+                                                "derivatives": "",
+                                                "affix_sense_chinese": "装上",
+                                                "affix_type": "stem"
+                                            }
+                                        ],
+                                        "affix": "mount",
+                                        "affix_mean": "山"
+                                    }
+                                ],
+                                "word_mean": "v. 登"
+                            }
+                        }
+                    ],
+                    "word_mean": "n. 数量"
+                },
+                "word_usage": [
+                    {
+                        "usage": "amount作名词，表示“数量；数额”时，通常使用an amount of的结构，其后要接不可数名词，如：an amount of time 大量时间。"
+                    },
+                    {
+                        "usage": "amount为不及物动词，其后常与介词to连用，表示“总共，总计”，如：amount to 50 dollars 共计50美元。"
+                    }
+                ]
+            },
+            "CET6": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 29,
+                        "pos": "v/n",
+                        "chinese": "合计; 数量",
+                        "sense_tier_ratio": 96.67
+                    },
+                    {
+                        "sense_tier": 1,
+                        "pos": "n",
+                        "chinese": "金额",
+                        "sense_tier_ratio": 3.33
+                    },
+                    {
+                        "sense_tier": 0,
+                        "pos": "v",
+                        "chinese": "等于",
+                        "sense_tier_ratio": 0
+                    }
+                ],
+                "word": "amount",
+                "total_exam_freq": 30,
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2016.6-2023.6年8年间全六级试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight>考纲释义</highlight>\n精选实考、考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2016-2023年51套试卷，包括阅读、听力、翻译等所有题型。\n\n<highlight>真题例句</highlight>\n精选2016-2023年8年间全六级试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 5,
+                "word_level_phrase_info": [
+                    {
+                        "brief_definition": "总计；总共达到；实际上是",
+                        "phrase": "amount to",
+                        "pos": "phr"
+                    },
+                    {
+                        "brief_definition": "...的数额；...的数量",
+                        "phrase": "the amount of",
+                        "pos": "phr"
+                    },
+                    {
+                        "brief_definition": "总额；总数额；总数量",
+                        "phrase": "total amount",
+                        "pos": "phr"
+                    },
+                    {
+                        "brief_definition": "一定量的...；一笔...",
+                        "phrase": "a amount of",
+                        "pos": "phr"
+                    }
+                ],
+                "sense": {
+                    "sense_num": 3,
+                    "sense_info_list": [
+                        {
+                            "en": "add up;\na quantity of something",
+                            "zh": "合计; 数量",
+                            "pos": "v/n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "Some correlation between the <highlight>amount</highlight> of homework done by a student and future academic achievement for middle and high school students.",
+                                    "month": 6,
+                                    "source": "CET6",
+                                    "coll": "",
+                                    "sentence_trans": "中学生的家庭作业量和未来的学业成绩之间存在一定的相关性。",
+                                    "year": 2021,
+                                    "type": "听力",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "We gathered a massive <highlight>amount</highlight> of data about the local plant life.",
+                                    "month": 6,
+                                    "source": "CET6",
+                                    "coll": "",
+                                    "sentence_trans": "我们收集了大量关于当地植物的数据。",
+                                    "year": 2021,
+                                    "type": "听力",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "The total <highlight>amount</highlight> of damage to Notre Dame Cathedral can be assessed only when its structure is considered safe.",
+                                    "month": 6,
+                                    "source": "CET6",
+                                    "coll": "",
+                                    "sentence_trans": "在确认大教堂结构安全之前，无法完整清点出火灾造成的损失。",
+                                    "year": 2021,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "They found that adolescents who spent a very small <highlight>amount</highlight> of time on digital devices-a couple of hours a week-had the highest wellbeing.",
+                                    "month": 12,
+                                    "source": "CET6",
+                                    "coll": "",
+                                    "sentence_trans": "他们发现那些在每周只花两三个小时使用数码设备的青少年具有最高的幸福指数。",
+                                    "year": 2019,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "This could reduce the <highlight>amount</highlight> of steel needed to make everything from automobiles to buildings and bridges.",
+                                    "month": 6,
+                                    "source": "CET6",
+                                    "coll": "",
+                                    "sentence_trans": "这可能会减少用于制造汽车、建筑和桥梁的钢材数量。",
+                                    "year": 2019,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                }
+                            ]
+                        },
+                        {
+                            "en": "",
+                            "zh": "金额",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "Such levies are no universal remedy as the <highlight>amounts</highlight> raised would be tiny compared with what has been taken away by central government since 2010.",
+                                    "month": 6,
+                                    "source": "CET6",
+                                    "coll": "",
+                                    "sentence_trans": "这类税收并不是万能的，因为与2010年以来中央政府征收的税收相比，征收的金额微不足道。",
+                                    "year": 2021,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                }
+                            ]
+                        },
+                        {
+                            "synonyms": "",
+                            "en": "be the same in meaning or effect",
+                            "zh": "等于",
+                            "pos": "v",
+                            "antonyms": ""
+                        }
+                    ]
+                },
+                "word_affix": {
+                    "word": "amount",
+                    "sub_affix_info_list": [
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "abase",
+                                            "mean": "v. 使屈辱；使降低身份"
+                                        },
+                                        {
+                                            "word": "abuzz",
+                                            "mean": "adj. 嗡嗡响的；嘈杂的"
+                                        },
+                                        {
+                                            "word": "afloat",
+                                            "mean": "adj. 漂浮在水上的；不沉的；在船（或艇）上的；摆脱债务；在流传中；当前；有偿债能力的；经济上周转自如的"
+                                        },
+                                        {
+                                            "word": "ahead",
+                                            "mean": "adv. 在前面；朝前地；领先；今后；在不久的将来；提前地；向前地；更多；更高"
+                                        },
+                                        {
+                                            "word": "alive",
+                                            "mean": "adj. （人；动植物）活的；（动物）敏捷的；愉快活泼的；明白的；感兴趣的；做出响应的；充满的；丰富的；有意义的；（感情；品质）继续存在的"
+                                        },
+                                        {
+                                            "word": "aloud",
+                                            "mean": "adv. 出声地；能听见地；大声地"
+                                        },
+                                        {
+                                            "word": "amid",
+                                            "mean": "prep. 在…之中；在…气氛中；在…背景下"
+                                        },
+                                        {
+                                            "word": "apace",
+                                            "mean": "adv. 飞快地；迅速地"
+                                        },
+                                        {
+                                            "word": "ashamed",
+                                            "mean": "adj. 羞愧的；羞耻的；惭愧的；内疚的；因怕难堪（或丢脸）而不愿意；觉得难堪；丢脸"
+                                        },
+                                        {
+                                            "word": "aside",
+                                            "mean": "adv. 到一边；在旁边；除去；以备未来之用；撇开"
+                                        },
+                                        {
+                                            "word": "asleep",
+                                            "mean": "adj. & adv. 处于睡眠状态的；进入睡眠状态的；不专心的；不留神的；不积极的；不活跃的；无感觉的；麻木的；长眠的；已死的"
+                                        },
+                                        {
+                                            "word": "astride",
+                                            "mean": "prep. & adv. 在…上；在…两边；分开地"
+                                        },
+                                        {
+                                            "word": "awake",
+                                            "mean": "v. 醒；睡醒；唤醒；苏醒；意识到；活跃"
+                                        },
+                                        {
+                                            "word": "alike",
+                                            "mean": "adj. 彼此相似的"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "表示状态转变的前缀, 一般与adj连用, 构成表语形容词。\n表示处于某种状态 \"…的\"。",
+                                    "affix_type": "prefix"
+                                },
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "amorphous",
+                                            "mean": "adj. 无固定形状的；不规则的；无组织的；无明确目标的；非结晶的"
+                                        },
+                                        {
+                                            "word": "apathy",
+                                            "mean": "n. 无兴趣；漠然；冷漠；无动于衷"
+                                        },
+                                        {
+                                            "word": "asymmetry",
+                                            "mean": "n. 不对称；不对等"
+                                        },
+                                        {
+                                            "word": "atom",
+                                            "mean": "n. 原子；原子能；微量；核能；原级"
+                                        },
+                                        {
+                                            "word": "atypical",
+                                            "mean": "adj. 非典型的"
+                                        },
+                                        {
+                                            "word": "averse",
+                                            "mean": "adj. 厌恶的；反对的"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "否定前缀, 表示\"不, 无, 非\"",
+                                    "affix_type": "prefix"
+                                },
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "abate",
+                                            "mean": "v. 减轻；减弱；使减轻；使减弱；减小；减少；消除"
+                                        },
+                                        {
+                                            "word": "abroad",
+                                            "mean": "adv. 在国外；到国外；向四方；广泛地；未击中目标；出错；在室外；到室外；盛行；行动自由"
+                                        },
+                                        {
+                                            "word": "afield",
+                                            "mean": "adv. 往远方地；遥远地；在田野；在野外"
+                                        },
+                                        {
+                                            "word": "afresh",
+                                            "mean": "adv. 重新地"
+                                        },
+                                        {
+                                            "word": "along",
+                                            "mean": "prep. & adv. 沿着；顺着；循；延伸；带来；与…一起；在…期间；进展"
+                                        },
+                                        {
+                                            "word": "amend",
+                                            "mean": "v. 改正；修正；改善（土壤）的结构；修复"
+                                        },
+                                        {
+                                            "word": "apart",
+                                            "mean": "adv. 相距；相隔；在一边地；与主体分离地；粉碎地；成零碎地；分居；与众不同地；感情上彼此隔阂；有别于其他地"
+                                        },
+                                        {
+                                            "word": "apartment",
+                                            "mean": "n. 公寓套房; 一套公寓房间；一套公寓；公寓大楼；豪华公寓套房"
+                                        },
+                                        {
+                                            "word": "apiece",
+                                            "mean": "adv. 每个；就（群体中）每个而论"
+                                        },
+                                        {
+                                            "word": "arouse",
+                                            "mean": "v. 唤起；激起；唤醒；燃起…怒气；煽起…强烈情感；激起…性欲"
+                                        },
+                                        {
+                                            "word": "ascend",
+                                            "mean": "v. 登上；攀登；升起；上升；逆流而上；向上倾斜；提升；晋升"
+                                        },
+                                        {
+                                            "word": "ashore",
+                                            "mean": "adv. 向岸；向陆地；在岸上；在陆地上"
+                                        },
+                                        {
+                                            "word": "aspire",
+                                            "mean": "v. 渴望；有志于；升高；高耸"
+                                        },
+                                        {
+                                            "word": "avail",
+                                            "mean": "v. 利用；有助于；有益于"
+                                        },
+                                        {
+                                            "word": "avenue",
+                                            "mean": "n. 大道；林荫道；途径"
+                                        },
+                                        {
+                                            "word": "aver",
+                                            "mean": "v. 宣称；断言；证明…属实"
+                                        },
+                                        {
+                                            "word": "aversion",
+                                            "mean": "n. 厌恶；反感；令人厌恶的人"
+                                        },
+                                        {
+                                            "word": "avert",
+                                            "mean": "v. 转移；防止；避免"
+                                        },
+                                        {
+                                            "word": "away",
+                                            "mean": "adv. 向远处；离开；到适当的地方；不断地；持续地；在（特定距离）处；之后；倾斜地；向下地；偏向一边"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "表示\"远离\", 指的是偏离某种状态/位置。",
+                                    "affix_type": "prefix"
+                                },
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "aboard",
+                                            "mean": "adv. & prep. 在船上；在…上；骑在上；跨上；新入伙；在垒上"
+                                        },
+                                        {
+                                            "word": "abaft",
+                                            "mean": "adv. 在船尾；向船尾"
+                                        },
+                                        {
+                                            "word": "abed",
+                                            "mean": "adv. 在床上"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "在...上(= on)",
+                                    "affix_type": "prefix"
+                                },
+                                {
+                                    "sample": [],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "去, 往, 朝, 向, 接近",
+                                    "affix_type": "prefix"
+                                },
+                                {
+                                    "sample": [],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "加强",
+                                    "affix_type": "prefix"
+                                },
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "amuse",
+                                            "mean": "v. 逗乐；逗笑；为…提供消遣；娱乐"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "使",
+                                    "affix_type": "prefix"
+                                },
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "along",
+                                            "mean": "prep. & adv. 沿着；顺着；循；延伸；带来；与…一起；在…期间；进展"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "表示“相对”",
+                                    "affix_type": "prefix"
+                                }
+                            ],
+                            "affix": "a-",
+                            "affix_mean": "...的"
+                        },
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "mountain",
+                                            "mean": "n. 山；大山；山岳；山区；山脉；大量；大堆；大量积压；过剩"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "山",
+                                    "affix_type": "stem"
+                                },
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "surmount",
+                                            "mean": "v. 克服；站在…上面；被放置在…上"
+                                        },
+                                        {
+                                            "word": "paramount",
+                                            "mean": "adj. 最重要的；至高无上的"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "表示\"登上\"(=ascend)",
+                                    "affix_type": "stem"
+                                },
+                                {
+                                    "sample": [],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "装上",
+                                    "affix_type": "stem"
+                                }
+                            ],
+                            "affix": "mount",
+                            "affix_mean": "山",
+                            "sub": {
+                                "word": "mount",
+                                "sub_affix_info_list": [
+                                    {
+                                        "affix_sense_info": [
+                                            {
+                                                "sample": [
+                                                    {
+                                                        "word": "mountain",
+                                                        "mean": "n. 山；大山；山岳；山区；山脉；大量；大堆；大量积压；过剩"
+                                                    }
+                                                ],
+                                                "derivatives": "",
+                                                "affix_sense_chinese": "山",
+                                                "affix_type": "stem"
+                                            },
+                                            {
+                                                "sample": [
+                                                    {
+                                                        "word": "surmount",
+                                                        "mean": "v. 克服；站在…上面；被放置在…上"
+                                                    },
+                                                    {
+                                                        "word": "paramount",
+                                                        "mean": "adj. 最重要的；至高无上的"
+                                                    }
+                                                ],
+                                                "derivatives": "",
+                                                "affix_sense_chinese": "表示\"登上\"(=ascend)",
+                                                "affix_type": "stem"
+                                            },
+                                            {
+                                                "sample": [],
+                                                "derivatives": "",
+                                                "affix_sense_chinese": "装上",
+                                                "affix_type": "stem"
+                                            }
+                                        ],
+                                        "affix": "mount",
+                                        "affix_mean": "山"
+                                    }
+                                ],
+                                "word_mean": "v. 登"
+                            }
+                        }
+                    ],
+                    "word_mean": "n. 数量"
+                },
+                "exchange_info": {
+                    "word_third": [
+                        "amounts"
+                    ],
+                    "word_ing": [
+                        "amounting"
+                    ],
+                    "word_done": [
+                        "amounted"
+                    ],
+                    "word_pl": [
+                        "amounts"
+                    ],
+                    "word_past": [
+                        "amounted"
+                    ]
+                }
+            },
+            "CET4": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 16,
+                        "pos": "v/n",
+                        "chinese": "合计; 数量",
+                        "sense_tier_ratio": 72.73
+                    },
+                    {
+                        "sense_tier": 4,
+                        "pos": "v",
+                        "chinese": "等于",
+                        "sense_tier_ratio": 18.18
+                    },
+                    {
+                        "sense_tier": 2,
+                        "pos": "n",
+                        "chinese": "金额",
+                        "sense_tier_ratio": 9.09
+                    }
+                ],
+                "word": "amount",
+                "total_exam_freq": 22,
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2016.6-2023.6年8年间全四级试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight>考纲释义</highlight>\n精选实考、考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2016-2023年51套试卷，包括阅读、听力、翻译等所有题型。\n\n<highlight>真题例句</highlight>\n精选2016-2023年8年间试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 5,
+                "word_level_phrase_info": [
+                    {
+                        "brief_definition": "...的数额；...的数量",
+                        "phrase": "the amount of",
+                        "pos": "phr"
+                    }
+                ],
+                "sense": {
+                    "sense_num": 3,
+                    "sense_info_list": [
+                        {
+                            "en": "add up; \na quantity of something",
+                            "zh": "合计; 数量",
+                            "pos": "v/n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "Most of them engage with potential donors, since projects that answered questions from interested donors fared better. And they target a small <highlight>amount</highlight> of money.",
+                                    "month": 12,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "他们中的大多数都与潜在捐助者进行接触，因为回答感兴趣的捐助者问题的项目进展得更好。并且他们的目标金额不多。",
+                                    "year": 2019,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "This is 10 times the <highlight>amount</highlight> this new microwave oven study estimates for annual emissions for all the microwave ovens in the EU.",
+                                    "month": 12,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "这个数据是这项新的微波炉研究所预估的欧盟所有微波炉年排放量的10倍。",
+                                    "year": 2019,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Lost income alone <highlight>amounts</highlight> to $225 billion a year.",
+                                    "month": 12,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "仅年收入损失就达2250亿美元。",
+                                    "year": 2018,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "They didn't report the specific <highlight>amount</highlight> of bacteria that made it from the tiles to the food.",
+                                    "month": 12,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "他们没有报告细菌从瓷砖到食物的具体数量。",
+                                    "year": 2018,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                }
+                            ]
+                        },
+                        {
+                            "synonyms": "",
+                            "en": "be the same in meaning or effect",
+                            "zh": "等于",
+                            "pos": "v",
+                            "antonyms": ""
+                        },
+                        {
+                            "en": "a sum of money",
+                            "zh": "金额",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "Hungry customers can pay whatever <highlight>amount</highlight> they can afford to eat at the café, or nothing at all.",
+                                    "month": 6,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "饥肠辘辘的顾客可以在咖啡厅支付他们能支付得起的任何金额，也可以一分钱都不付。",
+                                    "year": 2021,
+                                    "type": "听力",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "I'm not familiar with your neighbor or his particular setup, but that <highlight>amount</highlight> is definitely possible.",
+                                    "month": 12,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "我不了解你的邻居或者是他具体是如何安装的，但达到这个金额是绝对有可能的。",
+                                    "year": 2020,
+                                    "type": "听力",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "word_affix": {
+                    "word": "amount",
+                    "sub_affix_info_list": [
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "abase",
+                                            "mean": "v. 使屈辱；使降低身份"
+                                        },
+                                        {
+                                            "word": "abuzz",
+                                            "mean": "adj. 嗡嗡响的；嘈杂的"
+                                        },
+                                        {
+                                            "word": "afloat",
+                                            "mean": "adj. 漂浮在水上的；不沉的；在船（或艇）上的；摆脱债务；在流传中；当前；有偿债能力的；经济上周转自如的"
+                                        },
+                                        {
+                                            "word": "ahead",
+                                            "mean": "adv. 在前面；朝前地；领先；今后；在不久的将来；提前地；向前地；更多；更高"
+                                        },
+                                        {
+                                            "word": "alive",
+                                            "mean": "adj. （人；动植物）活的；（动物）敏捷的；愉快活泼的；明白的；感兴趣的；做出响应的；充满的；丰富的；有意义的；（感情；品质）继续存在的"
+                                        },
+                                        {
+                                            "word": "aloud",
+                                            "mean": "adv. 出声地；能听见地；大声地"
+                                        },
+                                        {
+                                            "word": "amid",
+                                            "mean": "prep. 在…之中；在…气氛中；在…背景下"
+                                        },
+                                        {
+                                            "word": "apace",
+                                            "mean": "adv. 飞快地；迅速地"
+                                        },
+                                        {
+                                            "word": "ashamed",
+                                            "mean": "adj. 羞愧的；羞耻的；惭愧的；内疚的；因怕难堪（或丢脸）而不愿意；觉得难堪；丢脸"
+                                        },
+                                        {
+                                            "word": "aside",
+                                            "mean": "adv. 到一边；在旁边；除去；以备未来之用；撇开"
+                                        },
+                                        {
+                                            "word": "asleep",
+                                            "mean": "adj. & adv. 处于睡眠状态的；进入睡眠状态的；不专心的；不留神的；不积极的；不活跃的；无感觉的；麻木的；长眠的；已死的"
+                                        },
+                                        {
+                                            "word": "astride",
+                                            "mean": "prep. & adv. 在…上；在…两边；分开地"
+                                        },
+                                        {
+                                            "word": "awake",
+                                            "mean": "v. 醒；睡醒；唤醒；苏醒；意识到；活跃"
+                                        },
+                                        {
+                                            "word": "alike",
+                                            "mean": "adj. 彼此相似的"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "表示状态转变的前缀, 一般与adj连用, 构成表语形容词。\n表示处于某种状态 \"…的\"。",
+                                    "affix_type": "prefix"
+                                },
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "amorphous",
+                                            "mean": "adj. 无固定形状的；不规则的；无组织的；无明确目标的；非结晶的"
+                                        },
+                                        {
+                                            "word": "apathy",
+                                            "mean": "n. 无兴趣；漠然；冷漠；无动于衷"
+                                        },
+                                        {
+                                            "word": "asymmetry",
+                                            "mean": "n. 不对称；不对等"
+                                        },
+                                        {
+                                            "word": "atom",
+                                            "mean": "n. 原子；原子能；微量；核能；原级"
+                                        },
+                                        {
+                                            "word": "atypical",
+                                            "mean": "adj. 非典型的"
+                                        },
+                                        {
+                                            "word": "averse",
+                                            "mean": "adj. 厌恶的；反对的"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "否定前缀, 表示\"不, 无, 非\"",
+                                    "affix_type": "prefix"
+                                },
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "abate",
+                                            "mean": "v. 减轻；减弱；使减轻；使减弱；减小；减少；消除"
+                                        },
+                                        {
+                                            "word": "abroad",
+                                            "mean": "adv. 在国外；到国外；向四方；广泛地；未击中目标；出错；在室外；到室外；盛行；行动自由"
+                                        },
+                                        {
+                                            "word": "afield",
+                                            "mean": "adv. 往远方地；遥远地；在田野；在野外"
+                                        },
+                                        {
+                                            "word": "afresh",
+                                            "mean": "adv. 重新地"
+                                        },
+                                        {
+                                            "word": "along",
+                                            "mean": "prep. & adv. 沿着；顺着；循；延伸；带来；与…一起；在…期间；进展"
+                                        },
+                                        {
+                                            "word": "amend",
+                                            "mean": "v. 改正；修正；改善（土壤）的结构；修复"
+                                        },
+                                        {
+                                            "word": "apart",
+                                            "mean": "adv. 相距；相隔；在一边地；与主体分离地；粉碎地；成零碎地；分居；与众不同地；感情上彼此隔阂；有别于其他地"
+                                        },
+                                        {
+                                            "word": "apartment",
+                                            "mean": "n. 公寓套房; 一套公寓房间；一套公寓；公寓大楼；豪华公寓套房"
+                                        },
+                                        {
+                                            "word": "apiece",
+                                            "mean": "adv. 每个；就（群体中）每个而论"
+                                        },
+                                        {
+                                            "word": "arouse",
+                                            "mean": "v. 唤起；激起；唤醒；燃起…怒气；煽起…强烈情感；激起…性欲"
+                                        },
+                                        {
+                                            "word": "ascend",
+                                            "mean": "v. 登上；攀登；升起；上升；逆流而上；向上倾斜；提升；晋升"
+                                        },
+                                        {
+                                            "word": "ashore",
+                                            "mean": "adv. 向岸；向陆地；在岸上；在陆地上"
+                                        },
+                                        {
+                                            "word": "aspire",
+                                            "mean": "v. 渴望；有志于；升高；高耸"
+                                        },
+                                        {
+                                            "word": "avail",
+                                            "mean": "v. 利用；有助于；有益于"
+                                        },
+                                        {
+                                            "word": "avenue",
+                                            "mean": "n. 大道；林荫道；途径"
+                                        },
+                                        {
+                                            "word": "aver",
+                                            "mean": "v. 宣称；断言；证明…属实"
+                                        },
+                                        {
+                                            "word": "aversion",
+                                            "mean": "n. 厌恶；反感；令人厌恶的人"
+                                        },
+                                        {
+                                            "word": "avert",
+                                            "mean": "v. 转移；防止；避免"
+                                        },
+                                        {
+                                            "word": "away",
+                                            "mean": "adv. 向远处；离开；到适当的地方；不断地；持续地；在（特定距离）处；之后；倾斜地；向下地；偏向一边"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "表示\"远离\", 指的是偏离某种状态/位置。",
+                                    "affix_type": "prefix"
+                                },
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "aboard",
+                                            "mean": "adv. & prep. 在船上；在…上；骑在上；跨上；新入伙；在垒上"
+                                        },
+                                        {
+                                            "word": "abaft",
+                                            "mean": "adv. 在船尾；向船尾"
+                                        },
+                                        {
+                                            "word": "abed",
+                                            "mean": "adv. 在床上"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "在...上(= on)",
+                                    "affix_type": "prefix"
+                                },
+                                {
+                                    "sample": [],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "去, 往, 朝, 向, 接近",
+                                    "affix_type": "prefix"
+                                },
+                                {
+                                    "sample": [],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "加强",
+                                    "affix_type": "prefix"
+                                },
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "amuse",
+                                            "mean": "v. 逗乐；逗笑；为…提供消遣；娱乐"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "使",
+                                    "affix_type": "prefix"
+                                },
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "along",
+                                            "mean": "prep. & adv. 沿着；顺着；循；延伸；带来；与…一起；在…期间；进展"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "表示“相对”",
+                                    "affix_type": "prefix"
+                                }
+                            ],
+                            "affix": "a-",
+                            "affix_mean": "...的"
+                        },
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "mountain",
+                                            "mean": "n. 山；大山；山岳；山区；山脉；大量；大堆；大量积压；过剩"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "山",
+                                    "affix_type": "stem"
+                                },
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "surmount",
+                                            "mean": "v. 克服；站在…上面；被放置在…上"
+                                        },
+                                        {
+                                            "word": "paramount",
+                                            "mean": "adj. 最重要的；至高无上的"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "表示\"登上\"(=ascend)",
+                                    "affix_type": "stem"
+                                },
+                                {
+                                    "sample": [],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "装上",
+                                    "affix_type": "stem"
+                                }
+                            ],
+                            "affix": "mount",
+                            "affix_mean": "山",
+                            "sub": {
+                                "word": "mount",
+                                "sub_affix_info_list": [
+                                    {
+                                        "affix_sense_info": [
+                                            {
+                                                "sample": [
+                                                    {
+                                                        "word": "mountain",
+                                                        "mean": "n. 山；大山；山岳；山区；山脉；大量；大堆；大量积压；过剩"
+                                                    }
+                                                ],
+                                                "derivatives": "",
+                                                "affix_sense_chinese": "山",
+                                                "affix_type": "stem"
+                                            },
+                                            {
+                                                "sample": [
+                                                    {
+                                                        "word": "surmount",
+                                                        "mean": "v. 克服；站在…上面；被放置在…上"
+                                                    },
+                                                    {
+                                                        "word": "paramount",
+                                                        "mean": "adj. 最重要的；至高无上的"
+                                                    }
+                                                ],
+                                                "derivatives": "",
+                                                "affix_sense_chinese": "表示\"登上\"(=ascend)",
+                                                "affix_type": "stem"
+                                            },
+                                            {
+                                                "sample": [],
+                                                "derivatives": "",
+                                                "affix_sense_chinese": "装上",
+                                                "affix_type": "stem"
+                                            }
+                                        ],
+                                        "affix": "mount",
+                                        "affix_mean": "山"
+                                    }
+                                ],
+                                "word_mean": "v. 登"
+                            }
+                        }
+                    ],
+                    "word_mean": "n. 数量"
+                },
+                "exchange_info": {
+                    "word_third": [
+                        "amounts"
+                    ],
+                    "word_ing": [
+                        "amounting"
+                    ],
+                    "word_done": [
+                        "amounted"
+                    ],
+                    "word_pl": [
+                        "amounts"
+                    ],
+                    "word_past": [
+                        "amounted"
+                    ]
+                }
+            },
+            "gaokao": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 6,
+                        "pos": "v/n",
+                        "chinese": "合计; 数量",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "amount",
+                "word_level_phrase_info": [
+                    {
+                        "brief_definition": "相当数量的；许多",
+                        "phrase": "an amount of",
+                        "pos": "phr."
+                    }
+                ],
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2015-2022年8年间全国卷和自主命题省市高考卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2015-2022年全国卷高考试卷，包括阅读、完形、单选、填空、听力、改错、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选各省市考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2015-2022年8年间全国卷和自主命题省市高考卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 2,
+                "total_exam_freq": 6,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "add up; a quantity of something",
+                            "zh": "合计; 数量",
+                            "pos": "v/n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "The project also resulted in a reduction in the <highlight>amount</highlight> of medicines used to perform medical-imaging (医学影像) procedures.",
+                                    "month": -1,
+                                    "source": "天津卷",
+                                    "coll": "",
+                                    "sentence_trans": "该项目还减少了用于执行医学影像程序的药物数量。",
+                                    "year": 2021,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "As the number of tourists has grown, so has the <highlight>amount</highlight> of traffic on the roads.",
+                                    "month": -1,
+                                    "source": "全国卷1",
+                                    "coll": "",
+                                    "sentence_trans": "随着游客数量的增加，道路上的交通流量也在增加。",
+                                    "year": 2019,
+                                    "type": "听力",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "The <highlight>amount</highlight> of time spent in reading each session has declined.",
+                                    "month": -1,
+                                    "source": "全国卷2",
+                                    "coll": "",
+                                    "sentence_trans": "阅读每一部分所花费的时间减少了。",
+                                    "year": 2018,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "word_affix": {
+                    "word": "amount",
+                    "sub_affix_info_list": [
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "abase",
+                                            "mean": "v. 使屈辱；使降低身份"
+                                        },
+                                        {
+                                            "word": "abuzz",
+                                            "mean": "adj. 嗡嗡响的；嘈杂的"
+                                        },
+                                        {
+                                            "word": "afloat",
+                                            "mean": "adj. 漂浮在水上的；不沉的；在船（或艇）上的；摆脱债务；在流传中；当前；有偿债能力的；经济上周转自如的"
+                                        },
+                                        {
+                                            "word": "ahead",
+                                            "mean": "adv. 在前面；朝前地；领先；今后；在不久的将来；提前地；向前地；更多；更高"
+                                        },
+                                        {
+                                            "word": "alive",
+                                            "mean": "adj. （人；动植物）活的；（动物）敏捷的；愉快活泼的；明白的；感兴趣的；做出响应的；充满的；丰富的；有意义的；（感情；品质）继续存在的"
+                                        },
+                                        {
+                                            "word": "aloud",
+                                            "mean": "adv. 出声地；能听见地；大声地"
+                                        },
+                                        {
+                                            "word": "amid",
+                                            "mean": "prep. 在…之中；在…气氛中；在…背景下"
+                                        },
+                                        {
+                                            "word": "apace",
+                                            "mean": "adv. 飞快地；迅速地"
+                                        },
+                                        {
+                                            "word": "ashamed",
+                                            "mean": "adj. 羞愧的；羞耻的；惭愧的；内疚的；因怕难堪（或丢脸）而不愿意；觉得难堪；丢脸"
+                                        },
+                                        {
+                                            "word": "aside",
+                                            "mean": "adv. 到一边；在旁边；除去；以备未来之用；撇开"
+                                        },
+                                        {
+                                            "word": "asleep",
+                                            "mean": "adj. & adv. 处于睡眠状态的；进入睡眠状态的；不专心的；不留神的；不积极的；不活跃的；无感觉的；麻木的；长眠的；已死的"
+                                        },
+                                        {
+                                            "word": "astride",
+                                            "mean": "prep. & adv. 在…上；在…两边；分开地"
+                                        },
+                                        {
+                                            "word": "awake",
+                                            "mean": "v. 醒；睡醒；唤醒；苏醒；意识到；活跃"
+                                        },
+                                        {
+                                            "word": "alike",
+                                            "mean": "adj. 彼此相似的"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "表示状态转变的前缀, 一般与adj连用, 构成表语形容词。\n表示处于某种状态 \"…的\"。",
+                                    "affix_type": "prefix"
+                                },
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "amorphous",
+                                            "mean": "adj. 无固定形状的；不规则的；无组织的；无明确目标的；非结晶的"
+                                        },
+                                        {
+                                            "word": "apathy",
+                                            "mean": "n. 无兴趣；漠然；冷漠；无动于衷"
+                                        },
+                                        {
+                                            "word": "asymmetry",
+                                            "mean": "n. 不对称；不对等"
+                                        },
+                                        {
+                                            "word": "atom",
+                                            "mean": "n. 原子；原子能；微量；核能；原级"
+                                        },
+                                        {
+                                            "word": "atypical",
+                                            "mean": "adj. 非典型的"
+                                        },
+                                        {
+                                            "word": "averse",
+                                            "mean": "adj. 厌恶的；反对的"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "否定前缀, 表示\"不, 无, 非\"",
+                                    "affix_type": "prefix"
+                                },
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "abate",
+                                            "mean": "v. 减轻；减弱；使减轻；使减弱；减小；减少；消除"
+                                        },
+                                        {
+                                            "word": "abroad",
+                                            "mean": "adv. 在国外；到国外；向四方；广泛地；未击中目标；出错；在室外；到室外；盛行；行动自由"
+                                        },
+                                        {
+                                            "word": "afield",
+                                            "mean": "adv. 往远方地；遥远地；在田野；在野外"
+                                        },
+                                        {
+                                            "word": "afresh",
+                                            "mean": "adv. 重新地"
+                                        },
+                                        {
+                                            "word": "along",
+                                            "mean": "prep. & adv. 沿着；顺着；循；延伸；带来；与…一起；在…期间；进展"
+                                        },
+                                        {
+                                            "word": "amend",
+                                            "mean": "v. 改正；修正；改善（土壤）的结构；修复"
+                                        },
+                                        {
+                                            "word": "apart",
+                                            "mean": "adv. 相距；相隔；在一边地；与主体分离地；粉碎地；成零碎地；分居；与众不同地；感情上彼此隔阂；有别于其他地"
+                                        },
+                                        {
+                                            "word": "apartment",
+                                            "mean": "n. 公寓套房; 一套公寓房间；一套公寓；公寓大楼；豪华公寓套房"
+                                        },
+                                        {
+                                            "word": "apiece",
+                                            "mean": "adv. 每个；就（群体中）每个而论"
+                                        },
+                                        {
+                                            "word": "arouse",
+                                            "mean": "v. 唤起；激起；唤醒；燃起…怒气；煽起…强烈情感；激起…性欲"
+                                        },
+                                        {
+                                            "word": "ascend",
+                                            "mean": "v. 登上；攀登；升起；上升；逆流而上；向上倾斜；提升；晋升"
+                                        },
+                                        {
+                                            "word": "ashore",
+                                            "mean": "adv. 向岸；向陆地；在岸上；在陆地上"
+                                        },
+                                        {
+                                            "word": "aspire",
+                                            "mean": "v. 渴望；有志于；升高；高耸"
+                                        },
+                                        {
+                                            "word": "avail",
+                                            "mean": "v. 利用；有助于；有益于"
+                                        },
+                                        {
+                                            "word": "avenue",
+                                            "mean": "n. 大道；林荫道；途径"
+                                        },
+                                        {
+                                            "word": "aver",
+                                            "mean": "v. 宣称；断言；证明…属实"
+                                        },
+                                        {
+                                            "word": "aversion",
+                                            "mean": "n. 厌恶；反感；令人厌恶的人"
+                                        },
+                                        {
+                                            "word": "avert",
+                                            "mean": "v. 转移；防止；避免"
+                                        },
+                                        {
+                                            "word": "away",
+                                            "mean": "adv. 向远处；离开；到适当的地方；不断地；持续地；在（特定距离）处；之后；倾斜地；向下地；偏向一边"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "表示\"远离\", 指的是偏离某种状态/位置。",
+                                    "affix_type": "prefix"
+                                },
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "aboard",
+                                            "mean": "adv. & prep. 在船上；在…上；骑在上；跨上；新入伙；在垒上"
+                                        },
+                                        {
+                                            "word": "abaft",
+                                            "mean": "adv. 在船尾；向船尾"
+                                        },
+                                        {
+                                            "word": "abed",
+                                            "mean": "adv. 在床上"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "在...上(= on)",
+                                    "affix_type": "prefix"
+                                },
+                                {
+                                    "sample": [],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "去, 往, 朝, 向, 接近",
+                                    "affix_type": "prefix"
+                                },
+                                {
+                                    "sample": [],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "加强",
+                                    "affix_type": "prefix"
+                                },
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "amuse",
+                                            "mean": "v. 逗乐；逗笑；为…提供消遣；娱乐"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "使",
+                                    "affix_type": "prefix"
+                                },
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "along",
+                                            "mean": "prep. & adv. 沿着；顺着；循；延伸；带来；与…一起；在…期间；进展"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "表示“相对”",
+                                    "affix_type": "prefix"
+                                }
+                            ],
+                            "affix": "a-",
+                            "affix_mean": "...的"
+                        },
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "mountain",
+                                            "mean": "n. 山；大山；山岳；山区；山脉；大量；大堆；大量积压；过剩"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "山",
+                                    "affix_type": "stem"
+                                },
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "surmount",
+                                            "mean": "v. 克服；站在…上面；被放置在…上"
+                                        },
+                                        {
+                                            "word": "paramount",
+                                            "mean": "adj. 最重要的；至高无上的"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "表示\"登上\"(=ascend)",
+                                    "affix_type": "stem"
+                                },
+                                {
+                                    "sample": [],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "装上",
+                                    "affix_type": "stem"
+                                }
+                            ],
+                            "affix": "mount",
+                            "affix_mean": "山",
+                            "sub": {
+                                "word": "mount",
+                                "sub_affix_info_list": [
+                                    {
+                                        "affix_sense_info": [
+                                            {
+                                                "sample": [
+                                                    {
+                                                        "word": "mountain",
+                                                        "mean": "n. 山；大山；山岳；山区；山脉；大量；大堆；大量积压；过剩"
+                                                    }
+                                                ],
+                                                "derivatives": "",
+                                                "affix_sense_chinese": "山",
+                                                "affix_type": "stem"
+                                            },
+                                            {
+                                                "sample": [
+                                                    {
+                                                        "word": "surmount",
+                                                        "mean": "v. 克服；站在…上面；被放置在…上"
+                                                    },
+                                                    {
+                                                        "word": "paramount",
+                                                        "mean": "adj. 最重要的；至高无上的"
+                                                    }
+                                                ],
+                                                "derivatives": "",
+                                                "affix_sense_chinese": "表示\"登上\"(=ascend)",
+                                                "affix_type": "stem"
+                                            },
+                                            {
+                                                "sample": [],
+                                                "derivatives": "",
+                                                "affix_sense_chinese": "装上",
+                                                "affix_type": "stem"
+                                            }
+                                        ],
+                                        "affix": "mount",
+                                        "affix_mean": "山"
+                                    }
+                                ],
+                                "word_mean": "v. 登"
+                            }
+                        }
+                    ],
+                    "word_mean": "n. 数量"
+                },
+                "exchange_info": {
+                    "word_third": [
+                        "amounts"
+                    ],
+                    "word_ing": [
+                        "amounting"
+                    ],
+                    "word_done": [
+                        "amounted"
+                    ],
+                    "word_pl": [
+                        "amounts"
+                    ],
+                    "word_past": [
+                        "amounted"
+                    ]
+                }
+            },
+            "zhongkao": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 32,
+                        "pos": "n",
+                        "chinese": "数量; 数额",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "amount",
+                "total_exam_freq": 32,
+                "direction_info": {
+                    "ranges": 4,
+                    "description": "数据源自2018-2021年4年间全国各省市中考试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2018-2021年全国重点省市中考试卷，包括听力、阅读、完形、单选、填空、改错、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选各省市考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2018-2021年4年间全国各省市中考试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 5,
+                "word_level_phrase_info": [
+                    {
+                        "brief_definition": "大量",
+                        "phrase": "a large amount of",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "大量的",
+                        "phrase": "a huge amount of",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "少量的",
+                        "phrase": "a small amount of",
+                        "pos": ""
+                    }
+                ],
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "数量; 数额",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "Also, a regular <highlight>amount</highlight> of vitamins A and B2 should also be taken.",
+                                    "month": -1,
+                                    "source": "郴州市卷",
+                                    "coll": "",
+                                    "sentence_trans": "此外，还应该服用适量的维生素A和B2。",
+                                    "year": 2021,
+                                    "type": "语篇补全",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "They didn’t worry about the <highlight>amount</highlight> of petrol cars used, either.",
+                                    "month": -1,
+                                    "source": "天津市卷",
+                                    "coll": "",
+                                    "sentence_trans": "他们也不担心汽油汽车的使用量。",
+                                    "year": 2021,
+                                    "type": "综合填空",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Eat a small <highlight>amount</highlight> of food slowly.",
+                                    "month": -1,
+                                    "source": "贵阳卷",
+                                    "coll": "",
+                                    "sentence_trans": "慢慢吃少量食物。",
+                                    "year": 2019,
+                                    "type": "任务型阅读",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "word_affix": {
+                    "sub_affix_info_list": [
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "abase",
+                                            "mean": "v. 使屈辱；使降低身份"
+                                        },
+                                        {
+                                            "word": "abuzz",
+                                            "mean": "adj. 嗡嗡响的；嘈杂的"
+                                        },
+                                        {
+                                            "word": "afloat",
+                                            "mean": "adj. 漂浮在水上的；不沉的；在船（或艇）上的；摆脱债务；在流传中；当前；有偿债能力的；经济上周转自如的"
+                                        },
+                                        {
+                                            "word": "ahead",
+                                            "mean": "adv. 在前面；朝前地；领先；今后；在不久的将来；提前地；向前地；更多；更高"
+                                        },
+                                        {
+                                            "word": "alive",
+                                            "mean": "adj. （人；动植物）活的；（动物）敏捷的；愉快活泼的；明白的；感兴趣的；做出响应的；充满的；丰富的；有意义的；（感情；品质）继续存在的"
+                                        },
+                                        {
+                                            "word": "aloud",
+                                            "mean": "adv. 出声地；能听见地；大声地"
+                                        },
+                                        {
+                                            "word": "amid",
+                                            "mean": "prep. 在…之中；在…气氛中；在…背景下"
+                                        },
+                                        {
+                                            "word": "apace",
+                                            "mean": "adv. 飞快地；迅速地"
+                                        },
+                                        {
+                                            "word": "ashamed",
+                                            "mean": "adj. 羞愧的；羞耻的；惭愧的；内疚的；因怕难堪（或丢脸）而不愿意；觉得难堪；丢脸"
+                                        },
+                                        {
+                                            "word": "aside",
+                                            "mean": "adv. 到一边；在旁边；除去；以备未来之用；撇开"
+                                        },
+                                        {
+                                            "word": "asleep",
+                                            "mean": "adj. & adv. 处于睡眠状态的；进入睡眠状态的；不专心的；不留神的；不积极的；不活跃的；无感觉的；麻木的；长眠的；已死的"
+                                        },
+                                        {
+                                            "word": "astride",
+                                            "mean": "prep. & adv. 在…上；在…两边；分开地"
+                                        },
+                                        {
+                                            "word": "awake",
+                                            "mean": "v. 醒；睡醒；唤醒；苏醒；意识到；活跃"
+                                        },
+                                        {
+                                            "word": "alike",
+                                            "mean": "adj. 彼此相似的"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "表示状态转变的前缀, 一般与adj连用, 构成表语形容词。\n表示处于某种状态 \"…的\"。",
+                                    "affix_type": "prefix"
+                                },
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "amorphous",
+                                            "mean": "adj. 无固定形状的；不规则的；无组织的；无明确目标的；非结晶的"
+                                        },
+                                        {
+                                            "word": "apathy",
+                                            "mean": "n. 无兴趣；漠然；冷漠；无动于衷"
+                                        },
+                                        {
+                                            "word": "asymmetry",
+                                            "mean": "n. 不对称；不对等"
+                                        },
+                                        {
+                                            "word": "atom",
+                                            "mean": "n. 原子；原子能；微量；核能；原级"
+                                        },
+                                        {
+                                            "word": "atypical",
+                                            "mean": "adj. 非典型的"
+                                        },
+                                        {
+                                            "word": "averse",
+                                            "mean": "adj. 厌恶的；反对的"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "否定前缀, 表示\"不, 无, 非\"",
+                                    "affix_type": "prefix"
+                                },
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "abate",
+                                            "mean": "v. 减轻；减弱；使减轻；使减弱；减小；减少；消除"
+                                        },
+                                        {
+                                            "word": "abroad",
+                                            "mean": "adv. 在国外；到国外；向四方；广泛地；未击中目标；出错；在室外；到室外；盛行；行动自由"
+                                        },
+                                        {
+                                            "word": "afield",
+                                            "mean": "adv. 往远方地；遥远地；在田野；在野外"
+                                        },
+                                        {
+                                            "word": "afresh",
+                                            "mean": "adv. 重新地"
+                                        },
+                                        {
+                                            "word": "along",
+                                            "mean": "prep. & adv. 沿着；顺着；循；延伸；带来；与…一起；在…期间；进展"
+                                        },
+                                        {
+                                            "word": "amend",
+                                            "mean": "v. 改正；修正；改善（土壤）的结构；修复"
+                                        },
+                                        {
+                                            "word": "apart",
+                                            "mean": "adv. 相距；相隔；在一边地；与主体分离地；粉碎地；成零碎地；分居；与众不同地；感情上彼此隔阂；有别于其他地"
+                                        },
+                                        {
+                                            "word": "apartment",
+                                            "mean": "n. 公寓套房; 一套公寓房间；一套公寓；公寓大楼；豪华公寓套房"
+                                        },
+                                        {
+                                            "word": "apiece",
+                                            "mean": "adv. 每个；就（群体中）每个而论"
+                                        },
+                                        {
+                                            "word": "arouse",
+                                            "mean": "v. 唤起；激起；唤醒；燃起…怒气；煽起…强烈情感；激起…性欲"
+                                        },
+                                        {
+                                            "word": "ascend",
+                                            "mean": "v. 登上；攀登；升起；上升；逆流而上；向上倾斜；提升；晋升"
+                                        },
+                                        {
+                                            "word": "ashore",
+                                            "mean": "adv. 向岸；向陆地；在岸上；在陆地上"
+                                        },
+                                        {
+                                            "word": "aspire",
+                                            "mean": "v. 渴望；有志于；升高；高耸"
+                                        },
+                                        {
+                                            "word": "avail",
+                                            "mean": "v. 利用；有助于；有益于"
+                                        },
+                                        {
+                                            "word": "avenue",
+                                            "mean": "n. 大道；林荫道；途径"
+                                        },
+                                        {
+                                            "word": "aver",
+                                            "mean": "v. 宣称；断言；证明…属实"
+                                        },
+                                        {
+                                            "word": "aversion",
+                                            "mean": "n. 厌恶；反感；令人厌恶的人"
+                                        },
+                                        {
+                                            "word": "avert",
+                                            "mean": "v. 转移；防止；避免"
+                                        },
+                                        {
+                                            "word": "away",
+                                            "mean": "adv. 向远处；离开；到适当的地方；不断地；持续地；在（特定距离）处；之后；倾斜地；向下地；偏向一边"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "表示\"远离\", 指的是偏离某种状态/位置。",
+                                    "affix_type": "prefix"
+                                },
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "aboard",
+                                            "mean": "adv. & prep. 在船上；在…上；骑在上；跨上；新入伙；在垒上"
+                                        },
+                                        {
+                                            "word": "abaft",
+                                            "mean": "adv. 在船尾；向船尾"
+                                        },
+                                        {
+                                            "word": "abed",
+                                            "mean": "adv. 在床上"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "在...上(= on)",
+                                    "affix_type": "prefix"
+                                },
+                                {
+                                    "sample": [],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "去, 往, 朝, 向, 接近",
+                                    "affix_type": "prefix"
+                                },
+                                {
+                                    "sample": [],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "加强",
+                                    "affix_type": "prefix"
+                                },
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "amuse",
+                                            "mean": "v. 逗乐；逗笑；为…提供消遣；娱乐"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "使",
+                                    "affix_type": "prefix"
+                                },
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "along",
+                                            "mean": "prep. & adv. 沿着；顺着；循；延伸；带来；与…一起；在…期间；进展"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "表示“相对”",
+                                    "affix_type": "prefix"
+                                }
+                            ],
+                            "affix": "a-",
+                            "affix_mean": "...的"
+                        },
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "mountain",
+                                            "mean": "n. 山；大山；山岳；山区；山脉；大量；大堆；大量积压；过剩"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "山",
+                                    "affix_type": "stem"
+                                },
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "surmount",
+                                            "mean": "v. 克服；站在…上面；被放置在…上"
+                                        },
+                                        {
+                                            "word": "paramount",
+                                            "mean": "adj. 最重要的；至高无上的"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "表示\"登上\"(=ascend)",
+                                    "affix_type": "stem"
+                                },
+                                {
+                                    "sample": [],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "装上",
+                                    "affix_type": "stem"
+                                }
+                            ],
+                            "affix": "mount",
+                            "affix_mean": "山",
+                            "sub": {
+                                "sub_affix_info_list": [
+                                    {
+                                        "affix_sense_info": [
+                                            {
+                                                "sample": [
+                                                    {
+                                                        "word": "mountain",
+                                                        "mean": "n. 山；大山；山岳；山区；山脉；大量；大堆；大量积压；过剩"
+                                                    }
+                                                ],
+                                                "derivatives": "",
+                                                "affix_sense_chinese": "山",
+                                                "affix_type": "stem"
+                                            },
+                                            {
+                                                "sample": [
+                                                    {
+                                                        "word": "surmount",
+                                                        "mean": "v. 克服；站在…上面；被放置在…上"
+                                                    },
+                                                    {
+                                                        "word": "paramount",
+                                                        "mean": "adj. 最重要的；至高无上的"
+                                                    }
+                                                ],
+                                                "derivatives": "",
+                                                "affix_sense_chinese": "表示\"登上\"(=ascend)",
+                                                "affix_type": "stem"
+                                            },
+                                            {
+                                                "sample": [],
+                                                "derivatives": "",
+                                                "affix_sense_chinese": "装上",
+                                                "affix_type": "stem"
+                                            }
+                                        ],
+                                        "affix": "mount",
+                                        "affix_mean": "山"
+                                    }
+                                ],
+                                "word": "mount",
+                                "word_mean": "v. 登"
+                            }
+                        }
+                    ],
+                    "word": "amount",
+                    "word_mean": "n. 数量"
+                }
+            },
+            "sentencesData": {
+                "status": 1,
+                "info": "notZh2En",
+                "data": {}
+            },
+            "isAutoMatch": false,
+            "Zh2En": false
+        },
+        "query": "amount",
+        "result": "数量",
+        "tabSelect": "detail",
+        "dictionaryType": "oxford_buchong",
+        "notFound_show": false,
+        "phoneticShow": "",
+        "globalShowTranslateRecord": "",
+        "pronPrefer": {
+            "type": "usa_1",
+            "speaker": "male",
+            "speed": "standard"
+        },
+        "ServerRecord": "",
+        "ServerUIGS": {
+            "version": "new",
+            "type": "all",
+            "stype": "success",
+            "terminal": "web",
+            "fr": "default",
+            "direction": "etoz",
+            "from": "en",
+            "to": "zh-CHS",
+            "len": 6,
+            "qtype": "text",
+            "qctype": "qc_1",
+            "dict_cover": 1,
+            "detail": 1,
+            "wordCardCover": 1,
+            "wordCardEn": 1,
+            "wordCardCh": 0,
+            "wordCardMinor": 0,
+            "wordCardNetmean": 0,
+            "wordDeform": 1,
+            "keyword": 0,
+            "bilingual": 1,
+            "simple": 0,
+            "levelList": 1,
+            "synonym": 1,
+            "antonym": 0,
+            "conjugate": 0,
+            "rootaffix": 1,
+            "baike_sogou": 1,
+            "baike_wiki": 0,
+            "wordDifference": 1,
+            "word_phrase": 1,
+            "secondQuery": 0,
+            "dict_oxford": 0,
+            "dict_newcentury": 0,
+            "zhongkaotab": 1,
+            "gaokaotab": 1,
+            "CET4tab": 1,
+            "CET6tab": 1,
+            "kaoyantab": 1,
+            "network_tab": 0,
+            "yinying_tab": 1,
+            "tuozhan_tab": 0,
+            "one_pic": 0,
+            "more_pic": 0,
+            "no_pic": 0,
+            "uuid": "d639b417-a66c-4556-823b-ed6b738a676a",
+            "from_type": 0,
+            "t_trans_ssr": 179
+        },
+        "ServerModelUIGS": {
+            "terminal": "web",
+            "type": "trans_model",
+            "pbtype": "pv",
+            "model_general": 1,
+            "model_medical": 1,
+            "model_finance": 1
+        },
+        "ServerSgtkn": "64F41CC8D9016FC6CECBE57590C29095CE6C09CD67552BE5",
+        "suggShow": false,
+        "suggestion": "",
+        "suggDirection": "",
+        "usualTop": "",
+        "baseDict": "",
+        "wordCardClick": false,
+        "isFrInput": false,
+        "kanaTips": {
+            "show": false,
+            "left": "",
+            "top": "",
+            "type": "",
+            "arrowLeft": ""
+        },
+        "currSentenceIndex": -1,
+        "prefixStrObj": {
+            "prefixStr": "",
+            "oriPrefixStr": ""
+        },
+        "selectTransBox": {
+            "show": false,
+            "right": 0,
+            "top": 0,
+            "paraphraseInfo": {
+                "word": "",
+                "from": "",
+                "to": "",
+                "area": ""
+            }
+        },
+        "sentenceLoading": false,
+        "newSentenceInfo": {
+            "sentence": "",
+            "candidateIndex": 0
+        },
+        "moreTipInfo": {
+            "opacity": 0,
+            "zIndex": -1
+        },
+        "paraphraseShowInfo": {
+            "card": 0,
+            "query": "",
+            "card_dict": 0
+        },
+        "selectType": "",
+        "wordPos": 0,
+        "candidateWord": "",
+        "syntaxVisible": false,
+        "syntaxStatus": 0
+    },
+    "language": {
+        "from": "auto",
+        "to": "zh-CHS",
+        "detect": "en",
+        "model": "general",
+        "detectShow": false,
+        "langMap": {
+            "current": ""
+        },
+        "zh2en": false,
+        "fromItemList": [
+            {
+                "lang": "auto",
+                "text": "自动检测",
+                "play": false
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "ru",
+                "text": "俄语",
+                "play": true,
+                "abbr": "俄"
+            },
+            {
+                "lang": "fr",
+                "text": "法语",
+                "play": true,
+                "abbr": "法"
+            },
+            {
+                "lang": "th",
+                "text": "泰语",
+                "play": true,
+                "abbr": "泰"
+            }
+        ],
+        "toItemList": [
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "vi",
+                "text": "越南语",
+                "play": true,
+                "abbr": "越"
+            },
+            {
+                "lang": "ru",
+                "text": "俄语",
+                "play": true,
+                "abbr": "俄"
+            },
+            {
+                "lang": "fr",
+                "text": "法语",
+                "play": true,
+                "abbr": "法"
+            }
+        ]
+    },
+    "voice": {
+        "from": {
+            "lang": "en",
+            "type": "from",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22amount%22%2C%22spokenDialect%22%3A%22en%22%2C%22rate%22%3A%220.8%22%7D",
+            "list": [
+                {
+                    "type": "uk_0",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "əˈmaʊnt",
+                    "abbr": "英",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/567_amount_uk.mp3"
+                },
+                {
+                    "type": "usa_1",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "əˈmaʊnt",
+                    "abbr": "美",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/567_amount_usa.mp3"
+                }
+            ],
+            "stype": "phonetic",
+            "phoneticShow": [
+                {
+                    "text": "əˈmaʊnt",
+                    "type": "uk",
+                    "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/567_amount_uk.mp3"
+                }
+            ]
+        },
+        "to": {
+            "lang": "zh",
+            "type": "to",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22%E6%95%B0%E9%87%8F%22%2C%22spokenDialect%22%3A%22zh-CHS%22%2C%22rate%22%3A%220.8%22%7D",
+            "stype": "normal"
+        }
+    }
+}

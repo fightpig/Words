@@ -1,0 +1,1230 @@
+{
+    "route": {
+        "name": "text",
+        "path": "/text",
+        "hash": "",
+        "query": {
+            "keyword": "yesterday",
+            "transfrom": "auto",
+            "transto": "zh-CHS",
+            "model": "general",
+            "errcode": "s10"
+        },
+        "params": {},
+        "fullPath": "/text?keyword=yesterday&transfrom=auto&transto=zh-CHS&model=general&errcode=s10",
+        "meta": {
+            "mtype": [
+                "textTranslate",
+                "language",
+                "voice"
+            ]
+        },
+        "from": {
+            "name": null,
+            "path": "/",
+            "hash": "",
+            "query": {},
+            "params": {},
+            "fullPath": "/",
+            "meta": {}
+        }
+    },
+    "common": {
+        "CONFIG": {
+            "wuid": 1733634908148,
+            "loginInfo": {},
+            "isIE": 0,
+            "isHitSsrSwitch": true,
+            "isHitWritebookSwitch": false,
+            "isHitAmsSwitch": true,
+            "promotionList": "{\n    \"pc_bottom\":{\n        \"imgsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\",\n        \"qcsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\"\n    },\n    \"pc_middle\":[\n        {\n            \"src\":\"//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c\",\n            \"bgColor\":\"#ffffff\",\n            \"link\":\"\"\n        }\n    ],\n    \"pc_survey\":{\n        \"icon\":\"//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750\",\n        \"link\":\"https://wj.qq.com/s2/8193148/806d/\"\n    }\n}",
+            "bannerData": [],
+            "isHitAsideSurvey": false,
+            "secretCode": 109984457,
+            "uuid": "de191d1a-79da-4ff7-b16f-4bd15f7e381a",
+            "referer": "",
+            "approveToken": "64F39961FC224CE5EDE8C655BA333CCDEE8D778B67552B5C",
+            "loadTime": 1733634908150,
+            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0",
+            "fcp": "170.64.148.76",
+            "temporaryId": "",
+            "fileId": ""
+        },
+        "hotWords": [],
+        "isFromCollect": false,
+        "psdModify": {
+            "currentStep": 1,
+            "scode": "",
+            "username": ""
+        },
+        "loginStatus": true,
+        "feedBackModule": false,
+        "showPromotionPopup": {
+            "show": false,
+            "type": ""
+        },
+        "showPromotionPCDownload": false,
+        "showShareBomb": false,
+        "shareData": null,
+        "showAppDownLoad": false,
+        "showLoginDialog": false,
+        "showLoading": {
+            "show": false
+        },
+        "toast": {
+            "show": false,
+            "text": "",
+            "loading": false
+        },
+        "modelToast": {
+            "show": false,
+            "text": ""
+        },
+        "selectionGlobalShow": true,
+        "selectionInfo": {
+            "left": 0,
+            "top": 0,
+            "show": false,
+            "from": "",
+            "to": "",
+            "val": "",
+            "area": ""
+        },
+        "showConfirmDialog": false,
+        "promotionList": {
+            "pc_bottom": {
+                "imgsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png",
+                "qcsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png"
+            },
+            "pc_middle": [
+                {
+                    "src": "//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c",
+                    "bgColor": "#ffffff",
+                    "link": ""
+                }
+            ],
+            "pc_survey": {
+                "icon": "//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750",
+                "link": "https://wj.qq.com/s2/8193148/806d/"
+            }
+        },
+        "transTypeTxt": "text",
+        "fixedTabStatus": 0,
+        "bodyTop": 0,
+        "ifHideUserOperation": false
+    },
+    "textTranslate": {
+        "prevTransQuery": "",
+        "translateData": {
+            "translate": {
+                "zly": "zly",
+                "errorCode": "0",
+                "qc_type": "1",
+                "index": "content0",
+                "from": "en",
+                "source": "sogou",
+                "text": "yesterday",
+                "to": "zh-CHS",
+                "id": "de191d1a-79da-4ff7-b16f-4bd15f7e381a",
+                "dit": "昨天",
+                "orig_text": "yesterday",
+                "md5": ""
+            },
+            "detect": {
+                "zly": "zly",
+                "detect": "en",
+                "errorCode": "0",
+                "language": "英语",
+                "id": "64362e90-b523-11ef-9221-a1879485feab",
+                "text": "yesterday"
+            },
+            "sgtkn": "64F39963FC224CE5EDE8C655BA333CCDEE8D778B67552B5C",
+            "wordCard": {
+                "title": "yesterday",
+                "show": true,
+                "usualDict": [
+                    {
+                        "values": [
+                            "在前一天；不久前；过去地；昔日地；以前地；在昨天"
+                        ],
+                        "pos": "adv."
+                    },
+                    {
+                        "values": [
+                            "昨天；前一天；过去；昨日；往昔；以前的时光；昔日"
+                        ],
+                        "pos": "n."
+                    }
+                ],
+                "secondQuery": "",
+                "exchange": {
+                    "word_pl": [
+                        "yesterdays"
+                    ]
+                },
+                "levelList": [
+                    "小学",
+                    "初中",
+                    "高中",
+                    "四级",
+                    "六级",
+                    "考研"
+                ]
+            },
+            "detail": {
+                "synonym": [
+                    {
+                        "word_list": [
+                            "ayer"
+                        ],
+                        "pos": "n.",
+                        "mean": "昨天；往昔"
+                    }
+                ],
+                "affix": {
+                    "word": "yesterday",
+                    "sub_affix_info_list": [
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "yesteryear",
+                                            "mean": "n. 去年；昔日；不久前"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "昨日, 以前",
+                                    "affix_type": "prefix"
+                                }
+                            ],
+                            "affix": "yester-",
+                            "affix_mean": "昨日, 以前"
+                        },
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "日子",
+                                    "affix_type": "stem"
+                                }
+                            ],
+                            "affix": "day",
+                            "affix_mean": "日子"
+                        }
+                    ],
+                    "word_mean": "adv. 在昨天"
+                },
+                "wordRootInfo": {
+                    "word_info_list": [
+                        {
+                            "word": "yesterdayness",
+                            "pos_mean_info_list": [
+                                {
+                                    "pos": "n.",
+                                    "mean": "近来"
+                                }
+                            ]
+                        }
+                    ],
+                    "root_word": "yesterday"
+                },
+                "word_group": [
+                    {
+                        "brief_definition": "昨天早上",
+                        "phrase": "yesterday afternoon",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "昨天早上",
+                        "phrase": "yesterday morning",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "我（她，等）并非无知之人",
+                        "phrase": "wasn't born yesterday",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "前天",
+                        "phrase": "the day before yesterday",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "在昨天；于昨日；于昨天",
+                        "phrase": "on yesterday",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "昨日重现",
+                        "phrase": "yesterday once more",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "(表示自己并不傻, 不会轻信别人的话)",
+                        "phrase": "not be born yesterday",
+                        "pos": ""
+                    }
+                ],
+                "bilingual": [
+                    {
+                        "source": "I heard it was <em>yesterday</em>.",
+                        "target": "我听说是昨天。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Were you at home <em>yesterday</em>?",
+                        "target": "你昨天在家吗？",
+                        "url": ""
+                    },
+                    {
+                        "source": "He lost his book <em>yesterday</em>.",
+                        "target": "他昨天丢了书。",
+                        "url": ""
+                    },
+                    {
+                        "source": "He came to see me <em>yesterday</em>.",
+                        "target": "他昨天来看我。",
+                        "url": ""
+                    },
+                    {
+                        "source": "I was in the park <em>yesterday</em>.",
+                        "target": "我昨天在公园。",
+                        "url": ""
+                    },
+                    {
+                        "source": "<em>Yesterday</em> I was at the shops.",
+                        "target": "昨天我在商店。",
+                        "url": ""
+                    },
+                    {
+                        "source": "What did you eat <em>yesterday</em>?",
+                        "target": "你昨天吃了什么？",
+                        "url": ""
+                    },
+                    {
+                        "source": "We had a picnic <em>yesterday</em>.",
+                        "target": "我们昨天去野餐了。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Did he have a cold <em>yesterday</em>?",
+                        "target": "他昨天感冒了吗？",
+                        "url": ""
+                    },
+                    {
+                        "source": "Were you at school <em>yesterday</em>?",
+                        "target": "你昨天在学校吗？",
+                        "url": ""
+                    }
+                ],
+                "baike": {
+                    "showMore": true,
+                    "list": [
+                        {
+                            "lemmaTitle": "Yesterday",
+                            "link": "https://baike.sogou.com/v1390371.htm?ch=sogou.fanyi",
+                            "abstract": "《Yesterday》是保罗·麦卡特尼（Paul McCartney）、约翰·列侬（John Lennon）作词，保罗·麦卡特尼编曲，由披头士乐队（The Beatles）演唱的一首英语摇滚歌曲，这首歌曲收录在专辑《Help》中，发行于1965年8月6日。这首歌是美国电影《美国往事》的插曲。 该曲是20世纪被改编、演奏、播放最多的一支乐曲。曾在格莱美奖中获得年度制作、年度单曲等六项提名。2004年，该曲在《滚石》杂志评出的“历史上最伟大的500首歌曲”中排第13名。2000年，该曲在《滚石》杂志与音乐电视网联合评选的 “自1963年以来最伟大的100首流行歌曲”中排行第一。",
+                            "wapPic": "//img01.sogoucdn.com/v2/thumb/retype_exclude_gif/ext/auto/q/80/crop/xy/ai/w/140/h/140/resize/w/140?appid=201005&sign=9c0196b0ea7b93c35f390108ff5fcc9f&url=https%3A%2F%2Fpic.baike.soso.com%2Fugc%2Fbaikepic2%2F0%2F20240509031615-2033560615_jpeg_600_600_34943.jpg%2F0",
+                            "pcPic": "//img03.sogoucdn.com/v2/thumb/retype_exclude_gif/ext/auto/q/80/crop/xy/ai/w/140/h/140/resize/w/140?appid=201005&sign=9c0196b0ea7b93c35f390108ff5fcc9f&url=https%3A%2F%2Fpic.baike.soso.com%2Fugc%2Fbaikepic2%2F0%2F20240509031615-2033560615_jpeg_600_600_34943.jpg%2F0"
+                        },
+                        {
+                            "lemmaTitle": "yesterday",
+                            "link": "https://baike.sogou.com/v64292366.htm?ch=sogou.fanyi",
+                            "abstract": "yesterday，英文单词，主要用作名词、副词，作名词时译为“昨天；最近，往昔”，作副词时译为“在昨天”。",
+                            "wapPic": "",
+                            "pcPic": ""
+                        }
+                    ]
+                }
+            },
+            "book": {
+                "yingyinNormal": [
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/ce4704185ed874d2da0aa0211b7c5d4d_3508.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/528f177b9112490f4d80532e2d3b563b_73778.mp3",
+                        "isLavafox": true,
+                        "en": "Michael and I spoke briefly <em>yesterday</em>.",
+                        "zh": "迈克尔和我昨天简单谈了一下。",
+                        "videoNameZh": "《纸牌屋 第三季》",
+                        "videoNameEn": "《House of Cards Season 3》",
+                        "url": "http://bisentence_movie.sogou.com/bb68fcf1e31af9c75b0c1d40989714e7_00467706ad6395940c90b273620fe71aa49dfb00"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/cf2616af116b548887696dabfcc2fd97_68323.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/cf29b3465a252e734901df3979975101_30152.mp3",
+                        "isLavafox": true,
+                        "en": "<em>Yesterday</em>, New Yorkers showed us the way.",
+                        "zh": "昨天，纽约人给我们指引了方向。",
+                        "videoNameZh": "《奥巴马每周电视讲话》",
+                        "videoNameEn": "《Your Weekly Address》",
+                        "url": "http://bisentence_movie.sogou.com/197fba9c836d71005eb696bdf27b8fd1_35c0cb2c5a2a47e7a85aa09bc8c2ca5e777574ca"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/aa7a748a86497e02e2b0a5098f3017b8_12619.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/7a1838df35b74c43f03bdd1dd77b1b65_73673.mp3",
+                        "isLavafox": true,
+                        "en": "Do you know what <em>yesterday</em> was? Grapes day.",
+                        "zh": "你知道昨天是什么日子吗？葡萄日。",
+                        "videoNameZh": "《女孩成长记 第一季》",
+                        "videoNameEn": "《Girl Meets World Season 1》",
+                        "url": "http://bisentence_movie.sogou.com/9681098631aaf374389473e607b5e8d8_a4bb6b653bcf78b3caaa2d8f475dfc7ddb391bfb"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/65861602801590fdaf378b1d1c997a40_10433.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/c185e4906f8e8643ccca31e8a1dd355c_34654.mp3",
+                        "isLavafox": true,
+                        "en": "We quit <em>yesterday</em>. That's counting today.",
+                        "zh": "我们昨天才戒烟的，我连今天都算进去了。",
+                        "videoNameZh": "《老友记 第五季》",
+                        "videoNameEn": "《Friends Season 5》",
+                        "url": "http://bisentence_movie.sogou.com/23b94c831d25dc813bdb72c7781ad5ed_1ef1c2e403404f04a81432fcf1e18640fb4be7c6"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/2fc568581b153aece2290fc09ef18467_13355.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/b768642755d5a533f6fd1a01202d12c9_27001.mp3",
+                        "isLavafox": true,
+                        "en": "I thought Ultron was a fantasy. <em>Yesterday</em> it was.",
+                        "zh": "我以为奥创只是幻想。昨天还是。",
+                        "videoNameZh": "《复仇者联盟2：奥创纪元》",
+                        "videoNameEn": "《Avengers: Age of Ultron》",
+                        "url": "http://bisentence_movie.sogou.com/473afed45bb65b8440613058d13c9c7e_da46774a8509476c88c3e63e7b3437e0be0e611a"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/ce4704185ed874d2da0aa0211b7c5d4d_3508.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/7788d913c8f69e60a7c9eac5b25d8946_61497.mp3",
+                        "isLavafox": true,
+                        "en": "I was in Gaffney <em>yesterday</em>, visiting my father's grave.",
+                        "zh": "我昨天去了加夫尼给我父亲扫墓。",
+                        "videoNameZh": "《纸牌屋 第三季》",
+                        "videoNameEn": "《House of Cards Season 3》",
+                        "url": "http://bisentence_movie.sogou.com/f48e4369888154ca25e06e1699a593f1_4fc683e649db298cfde6cc5733157819edd131bc"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/3bccca9abe5ab96bd7f3eaed6bd40cf2_52899.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/516b81487f79ec93f0bb4a88fc9ccaa4_27512.mp3",
+                        "isLavafox": true,
+                        "en": "Well, if we make it <em>yesterday</em>, woo-hoo. We're done.",
+                        "zh": "如果我们昨天做好就成，问题解决了。",
+                        "videoNameZh": "《老友记 第七季》",
+                        "videoNameEn": "《Friends Season 7》",
+                        "url": "http://bisentence_movie.sogou.com/64a5df515abfe6cf89c21f8f733a0c2d_2dbd21407e61dcd65b2aed85872ab43d9b522928"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/c147f8d54a969778fef4aa74fdb25c24_34800.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/5d5f9d514e322889323fe22e0d18210c_70730.mp3",
+                        "isLavafox": true,
+                        "en": "What happened <em>yesterday</em>? Beyond happened. Beyond?",
+                        "zh": "昨天发生了什么？超越了发生。\"超越\"？",
+                        "videoNameZh": "《纸牌屋 第四季》",
+                        "videoNameEn": "《House of Cards Season 4》",
+                        "url": "http://bisentence_movie.sogou.com/da76e6258b3aa544fd243ba6fdc2cd51_3e20bfa9958f35d66b6c3f877296a7baaf35b8ac"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/801dfe77494721a1ea27b2da97ba5878_52038.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/96b1fb9b75a24ddd89f05dd2a0287c8a_17600.mp3",
+                        "isLavafox": true,
+                        "en": "I got that email from Rich <em>yesterday</em>. He's really good.",
+                        "zh": "我昨天收到了瑞奇的电子邮件，这是非常不错的。",
+                        "videoNameZh": "《白日梦想家》",
+                        "videoNameEn": "《The Secret Life of Walter Mitty》",
+                        "url": "http://bisentence_movie.sogou.com/69864a0ed415f27b4074db1095511518_b5c56460f75183e446147c4575090111fa0f218d"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/f7d7167294560b5a445295985c93469c_14515.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/6cd84d72c343e0158929a07ccfd8bb0a_51284.mp3",
+                        "isLavafox": true,
+                        "en": "You just shaved <em>yesterday</em>. You're good for three months.",
+                        "zh": "你昨天刚刮过了，你接下来三个月都没有这问题。",
+                        "videoNameZh": "《生活大爆炸 第十季》",
+                        "videoNameEn": "《The Big Bang Theory Season 10》",
+                        "url": "http://bisentence_movie.sogou.com/f1375dccd9f54e0b81254380ed1d4449_3d39b2fca58d2e16198a15e1c763dcc7219e13dd"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/bc809734180889bd06c4d5bc2c8ecd0d_28512.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/4ca865c2f366ced14955613f02437714_22441.mp3",
+                        "isLavafox": true,
+                        "en": "Are you okay? I talked to him <em>yesterday</em> about Steinbeck.",
+                        "zh": "你还好吧？我昨天还和他聊了斯坦贝克[小说家]。",
+                        "videoNameZh": "《行尸走肉 第四季》",
+                        "videoNameEn": "《The Walking Dead S4》",
+                        "url": "http://bisentence_movie.sogou.com/47db43c7ef73a582790f2383d40a4605_36db71ca76d5a72fb1bf404a5476d04d8bfc8c82"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/a3f6ca8d0ebaa5b0956976d643673427_52102.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/ff11a9cd47fae4bf023b30be8a7bf936_73185.mp3",
+                        "isLavafox": true,
+                        "en": "<em>Yesterday</em> I went to the duck pond and I saw Mrs. duck. Well, <em>yesterday</em>... Then I went to the supermarket with mommy.",
+                        "zh": "昨天的时候，我去鸭子池塘见到了鸭太太。好吧，我昨天。后来我和我的妈妈去了超市。",
+                        "videoNameZh": "《小猪佩奇 第三季》",
+                        "videoNameEn": "《Peppa Pig Season 3》",
+                        "url": "http://bisentence_movie.sogou.com/cbc79775b34a043696173f975eee3863_7ae42fe29ae44c00aff6331b2e288398e9dd8720"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/34d2d19c723ad11a5a6dcd6da67c9085_43190.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/0ad64794237ae2a61bdc80c46b8e605d_70320.mp3",
+                        "isLavafox": true,
+                        "en": "Much as I was <em>yesterday</em>. Much as I will be tomorrow.",
+                        "zh": "跟昨天差不多，明天估计也差不多。",
+                        "videoNameZh": "《唐顿庄园 第四季》",
+                        "videoNameEn": "《Downton Abbey Season 4》",
+                        "url": "http://bisentence_movie.sogou.com/af6e8c253138073d426590f35e711155_51a83f957550f7a1209836c9b2bb102574ad51f5"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/aa7a748a86497e02e2b0a5098f3017b8_12619.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/497d433ac22d03cb267467c5594f851e_76229.mp3",
+                        "isLavafox": true,
+                        "en": "What did you guys do <em>yesterday</em>? I think I had grapes.",
+                        "zh": "你们昨天干嘛了？我记得我吃葡萄了。",
+                        "videoNameZh": "《女孩成长记 第一季》",
+                        "videoNameEn": "《Girl Meets World Season 1》",
+                        "url": "http://bisentence_movie.sogou.com/cba567789c802e2530045242fa01d870_a082aef749ed8ec25bb50e6fd527cb5ab4c3682e"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/ed16ac8524b2f1f0c1489640f8396c3f_47421.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/635f36d3732b7fa30bebfb337d29e1a3_13796.mp3",
+                        "isLavafox": true,
+                        "en": "Speaking of which, he came by <em>yesterday</em> to show me his book.",
+                        "zh": "说到这事，他昨天给我看他的书了。",
+                        "videoNameZh": "《生活大爆炸 第十一季》",
+                        "videoNameEn": "《The Big Bang Theory Season 11》",
+                        "url": "http://bisentence_movie.sogou.com/5f585cc97493246db3c65e6217dbc72b_174d91d31e87c6d327955ef078a74c832de82527"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/f012eb5fd120cc2d5b68f18e3d0e7c8c_67362.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/f5c7be5bea3d4ba83a7811c05e1cf7c8_43782.mp3",
+                        "isLavafox": true,
+                        "en": "Me, Cary and ten others. Peter, I wanted to tell you <em>yesterday</em>, but there was just no time.",
+                        "zh": "我，凯里还有其他10个人。我本想昨天告诉你的，皮特, 可昨天实在没时间。",
+                        "videoNameZh": "《傲骨贤妻 第五季》",
+                        "videoNameEn": "《The Good Wife Season 5》",
+                        "url": "http://bisentence_movie.sogou.com/5ca4a120c4a95734f363140965302c75_8654092b67fd142d9e0298eb3d8e1f405776cc45"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/29e628c900108a6f7c89f9ad092fffba_60452.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/a52355500225c11b34d970dadc582ae1_63278.mp3",
+                        "isLavafox": true,
+                        "en": "Yeah. <em>Yesterday</em> he shoved me in a washing machine in my own house.",
+                        "zh": "嗯，昨天他在我家，把我塞进洗衣机里。",
+                        "videoNameZh": "《重返十七岁》",
+                        "videoNameEn": "《17 Again》",
+                        "url": "http://bisentence_movie.sogou.com/e52e0b79ab9440e2f0db778073c25001_09d4d9e8f58d3a8ef302a2dd66dbc5c3923e28df"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/3bccca9abe5ab96bd7f3eaed6bd40cf2_52899.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/b47847a88f4c3818e9dafa5c55d90cb8_19532.mp3",
+                        "isLavafox": true,
+                        "en": "Well that's only two days away. What is the other option? <em>Yesterday</em>.",
+                        "zh": "只剩两天了。另一个选择是什么？昨天。",
+                        "videoNameZh": "《老友记 第七季》",
+                        "videoNameEn": "《Friends Season 7》",
+                        "url": "http://bisentence_movie.sogou.com/90ea2c3f70aa2530efe059d35e04ca79_2adc3fab012d802ae75f7d25771c0a0284889f42"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/cafa3f43ebf863b5c142943f6dd97c73_58944.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/f421a797984f599cc1166e1fe0bcc674_45384.mp3",
+                        "isLavafox": true,
+                        "en": "I found out this morning that Sean died <em>yesterday</em> in a car accident.",
+                        "zh": "今天早上我得知，肖恩昨天出车祸死了。",
+                        "videoNameZh": "《爆裂鼓手》",
+                        "videoNameEn": "《Whiplash》",
+                        "url": "http://bisentence_movie.sogou.com/84bde3d81a60c733c58eb53719767a33_3608f71d49b9123440ec703ce4ae3cddf78078e9"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/658cb5af1f2c25ef894d7429bd1ba9af_103.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/91c92ee2399ea1f544d6620ef1d63a63_24644.mp3",
+                        "isLavafox": true,
+                        "en": "I've been here since <em>yesterday</em>. I have nothing to do with his death.",
+                        "zh": "我从昨天就关在这里，他的死和我没关系。",
+                        "videoNameZh": "《疑犯追踪 第四季》",
+                        "videoNameEn": "《Person of Interest Season 4》",
+                        "url": "http://bisentence_movie.sogou.com/24bb6104b07e5c5303334956b02acc54_3ac18db88ccb2cbab2370d0376e0556d78670778"
+                    }
+                ]
+            },
+            "pic": "",
+            "voice": {
+                "phonetic": [
+                    {
+                        "text": "ˈjestədeɪ",
+                        "type": "uk",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/2262_yesterday_uk.mp3"
+                    },
+                    {
+                        "text": "ˈjestərdeɪ",
+                        "type": "usa",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/2262_yesterday_usa.mp3"
+                    }
+                ]
+            },
+            "dictType": "oxford_buchong",
+            "CET6": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 3,
+                        "pos": "n/adv",
+                        "chinese": "昨天",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "yesterday",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2016.6-2023.6年8年间全六级试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight>考纲释义</highlight>\n精选实考、考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2016-2023年51套试卷，包括阅读、听力、翻译等所有题型。\n\n<highlight>真题例句</highlight>\n精选2016-2023年8年间全六级试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 1,
+                "total_exam_freq": 3,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "synonyms": "",
+                            "en": "the day before today",
+                            "zh": "昨天",
+                            "pos": "n/adv",
+                            "antonyms": ""
+                        }
+                    ]
+                },
+                "word_affix": {
+                    "word": "yesterday",
+                    "sub_affix_info_list": [
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "yesteryear",
+                                            "mean": "n. 去年；昔日；不久前"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "昨日, 以前",
+                                    "affix_type": "prefix"
+                                }
+                            ],
+                            "affix": "yester-",
+                            "affix_mean": "昨日, 以前"
+                        },
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "日子",
+                                    "affix_type": "stem"
+                                }
+                            ],
+                            "affix": "day",
+                            "affix_mean": "日子"
+                        }
+                    ],
+                    "word_mean": "adv. 在昨天"
+                },
+                "exchange_info": {
+                    "word_pl": [
+                        "yesterdays"
+                    ]
+                }
+            },
+            "CET4": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 6,
+                        "pos": "n/adv",
+                        "chinese": "昨天",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "yesterday",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2016.6-2023.6年8年间全四级试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight>考纲释义</highlight>\n精选实考、考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2016-2023年51套试卷，包括阅读、听力、翻译等所有题型。\n\n<highlight>真题例句</highlight>\n精选2016-2023年8年间试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 2,
+                "total_exam_freq": 6,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "the day before today",
+                            "zh": "昨天",
+                            "pos": "n/adv",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "Can you remember what you ate <highlight>yesterday</highlight>?",
+                                    "month": 6,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "你记得你昨天吃了什么吗？",
+                                    "year": 2021,
+                                    "type": "阅读理解C",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "If this works, it won't matter if they can't remember what they ate <highlight>yesterday</highlight>.",
+                                    "month": 6,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "如果这个方法起作用，即使他们不记得昨天吃了什么也没关系。",
+                                    "year": 2021,
+                                    "type": "阅读理解C",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "What do we learn about the man who came to see the woman <highlight>yesterday</highlight>?",
+                                    "month": 6,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "关于昨天来见女人的那个男人，我们了解到什么？",
+                                    "year": 2021,
+                                    "type": "听力",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "word_affix": {
+                    "word": "yesterday",
+                    "sub_affix_info_list": [
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "yesteryear",
+                                            "mean": "n. 去年；昔日；不久前"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "昨日, 以前",
+                                    "affix_type": "prefix"
+                                }
+                            ],
+                            "affix": "yester-",
+                            "affix_mean": "昨日, 以前"
+                        },
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "日子",
+                                    "affix_type": "stem"
+                                }
+                            ],
+                            "affix": "day",
+                            "affix_mean": "日子"
+                        }
+                    ],
+                    "word_mean": "adv. 在昨天"
+                },
+                "exchange_info": {
+                    "word_pl": [
+                        "yesterdays"
+                    ]
+                }
+            },
+            "gaokao": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 4,
+                        "pos": "n/adv",
+                        "chinese": "昨天",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "yesterday",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2015-2022年8年间全国卷和自主命题省市高考卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2015-2022年全国卷高考试卷，包括阅读、完形、单选、填空、听力、改错、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选各省市考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2015-2022年8年间全国卷和自主命题省市高考卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 1,
+                "total_exam_freq": 4,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "the day before today",
+                            "zh": "昨天",
+                            "pos": "n/adv",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "No, this is for setting my hair <highlight>yesterday</highlight>.",
+                                    "month": -1,
+                                    "source": "全国乙卷",
+                                    "coll": "",
+                                    "sentence_trans": "不，这是我昨天做头发用的。",
+                                    "year": 2021,
+                                    "type": "完形填空",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "I had roast chicken <highlight>yesterday</highlight> when I ate out with Shelly.",
+                                    "month": -1,
+                                    "source": "全国卷1",
+                                    "coll": "",
+                                    "sentence_trans": "昨天我和雪莱出去吃饭时吃了烤鸡。",
+                                    "year": 2017,
+                                    "type": "听力",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "word_affix": {
+                    "word": "yesterday",
+                    "sub_affix_info_list": [
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "yesteryear",
+                                            "mean": "n. 去年；昔日；不久前"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "昨日, 以前",
+                                    "affix_type": "prefix"
+                                }
+                            ],
+                            "affix": "yester-",
+                            "affix_mean": "昨日, 以前"
+                        },
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "日子",
+                                    "affix_type": "stem"
+                                }
+                            ],
+                            "affix": "day",
+                            "affix_mean": "日子"
+                        }
+                    ],
+                    "word_mean": "adv. 在昨天"
+                },
+                "exchange_info": {
+                    "word_pl": [
+                        "yesterdays"
+                    ]
+                }
+            },
+            "zhongkao": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 81,
+                        "pos": "adv",
+                        "chinese": "在昨天",
+                        "sense_tier_ratio": 77.14
+                    },
+                    {
+                        "sense_tier": 24,
+                        "pos": "un",
+                        "chinese": "昨天; 昨日",
+                        "sense_tier_ratio": 22.86
+                    }
+                ],
+                "word": "yesterday",
+                "direction_info": {
+                    "ranges": 4,
+                    "description": "数据源自2018-2021年4年间全国各省市中考试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2018-2021年全国重点省市中考试卷，包括听力、阅读、完形、单选、填空、改错、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选各省市考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2018-2021年4年间全国各省市中考试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 5,
+                "total_exam_freq": 105,
+                "sense": {
+                    "sense_num": 2,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "在昨天",
+                            "pos": "adv",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "I talked to him on the phone <highlight>yesterday</highlight>.",
+                                    "month": -1,
+                                    "source": "重庆市A卷",
+                                    "coll": "",
+                                    "sentence_trans": "我昨天和他通过电话。",
+                                    "year": 2021,
+                                    "type": "完成句子",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "I took lots of photos <highlight>yesterday</highlight> just to check out the new camera.",
+                                    "month": -1,
+                                    "source": "十堰市卷",
+                                    "coll": "",
+                                    "sentence_trans": "我昨天拍了很多照片，只是为了检查一下新相机。",
+                                    "year": 2021,
+                                    "type": "选词填空",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "I won the men's 100—metre race <highlight>yesterday</highlight>!",
+                                    "month": -1,
+                                    "source": "沈阳卷",
+                                    "coll": "",
+                                    "sentence_trans": "我昨天赢得了男子100米比赛！",
+                                    "year": 2019,
+                                    "type": "单项选择",
+                                    "day": -1
+                                }
+                            ]
+                        },
+                        {
+                            "en": "",
+                            "zh": "昨天; 昨日",
+                            "pos": "un",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "I still remember the first day of Grade 7 like it was <highlight>yesterday</highlight>.",
+                                    "month": -1,
+                                    "source": "杭州市卷",
+                                    "coll": "",
+                                    "sentence_trans": "我仍然记得七年级的第一天，就像昨天一样。",
+                                    "year": 2021,
+                                    "type": "首字母填空",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "One hundred trees were planted along the riverside <highlight>yesterday</highlight> afternoon.",
+                                    "month": -1,
+                                    "source": "温州卷",
+                                    "coll": "",
+                                    "sentence_trans": "昨天下午沿着河边种了一百棵树。",
+                                    "year": 2019,
+                                    "type": "选词填空",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "I went to the doctor’s <highlight>yesterday</highlight> afternoon.",
+                                    "month": -1,
+                                    "source": "新疆卷",
+                                    "coll": "",
+                                    "sentence_trans": "我昨天下午去看医生了。",
+                                    "year": 2018,
+                                    "type": "英语口语",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "word_affix": {
+                    "sub_affix_info_list": [
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "yesteryear",
+                                            "mean": "n. 去年；昔日；不久前"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "昨日, 以前",
+                                    "affix_type": "prefix"
+                                }
+                            ],
+                            "affix": "yester-",
+                            "affix_mean": "昨日, 以前"
+                        },
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "日子",
+                                    "affix_type": "stem"
+                                }
+                            ],
+                            "affix": "day",
+                            "affix_mean": "日子"
+                        }
+                    ],
+                    "word": "yesterday",
+                    "word_mean": "adv. 在昨天"
+                }
+            },
+            "sentencesData": {
+                "status": 1,
+                "info": "notZh2En",
+                "data": {}
+            },
+            "isAutoMatch": false,
+            "Zh2En": false
+        },
+        "query": "yesterday",
+        "result": "昨天",
+        "tabSelect": "detail",
+        "dictionaryType": "oxford_buchong",
+        "notFound_show": false,
+        "phoneticShow": "",
+        "globalShowTranslateRecord": "",
+        "pronPrefer": {
+            "type": "usa_1",
+            "speaker": "male",
+            "speed": "standard"
+        },
+        "ServerRecord": "",
+        "ServerUIGS": {
+            "version": "new",
+            "type": "all",
+            "stype": "success",
+            "terminal": "web",
+            "fr": "default",
+            "direction": "etoz",
+            "from": "en",
+            "to": "zh-CHS",
+            "len": 9,
+            "qtype": "text",
+            "qctype": "qc_1",
+            "dict_cover": 1,
+            "detail": 1,
+            "wordCardCover": 1,
+            "wordCardEn": 1,
+            "wordCardCh": 0,
+            "wordCardMinor": 0,
+            "wordCardNetmean": 0,
+            "wordDeform": 1,
+            "keyword": 0,
+            "bilingual": 1,
+            "simple": 0,
+            "levelList": 1,
+            "synonym": 1,
+            "antonym": 0,
+            "conjugate": 1,
+            "rootaffix": 1,
+            "baike_sogou": 1,
+            "baike_wiki": 0,
+            "wordDifference": 0,
+            "word_phrase": 1,
+            "secondQuery": 0,
+            "dict_oxford": 0,
+            "dict_newcentury": 0,
+            "zhongkaotab": 1,
+            "gaokaotab": 1,
+            "CET4tab": 1,
+            "CET6tab": 1,
+            "kaoyantab": 0,
+            "network_tab": 0,
+            "yinying_tab": 1,
+            "tuozhan_tab": 0,
+            "one_pic": 0,
+            "more_pic": 0,
+            "no_pic": 0,
+            "uuid": "de191d1a-79da-4ff7-b16f-4bd15f7e381a",
+            "from_type": 0,
+            "t_trans_ssr": 184
+        },
+        "ServerModelUIGS": {
+            "terminal": "web",
+            "type": "trans_model",
+            "pbtype": "pv",
+            "model_general": 1,
+            "model_medical": 1,
+            "model_finance": 1
+        },
+        "ServerSgtkn": "64F39963FC224CE5EDE8C655BA333CCDEE8D778B67552B5C",
+        "suggShow": false,
+        "suggestion": "",
+        "suggDirection": "",
+        "usualTop": "",
+        "baseDict": "",
+        "wordCardClick": false,
+        "isFrInput": false,
+        "kanaTips": {
+            "show": false,
+            "left": "",
+            "top": "",
+            "type": "",
+            "arrowLeft": ""
+        },
+        "currSentenceIndex": -1,
+        "prefixStrObj": {
+            "prefixStr": "",
+            "oriPrefixStr": ""
+        },
+        "selectTransBox": {
+            "show": false,
+            "right": 0,
+            "top": 0,
+            "paraphraseInfo": {
+                "word": "",
+                "from": "",
+                "to": "",
+                "area": ""
+            }
+        },
+        "sentenceLoading": false,
+        "newSentenceInfo": {
+            "sentence": "",
+            "candidateIndex": 0
+        },
+        "moreTipInfo": {
+            "opacity": 0,
+            "zIndex": -1
+        },
+        "paraphraseShowInfo": {
+            "card": 0,
+            "query": "",
+            "card_dict": 0
+        },
+        "selectType": "",
+        "wordPos": 0,
+        "candidateWord": "",
+        "syntaxVisible": false,
+        "syntaxStatus": 0
+    },
+    "language": {
+        "from": "auto",
+        "to": "zh-CHS",
+        "detect": "en",
+        "model": "general",
+        "detectShow": false,
+        "langMap": {
+            "current": ""
+        },
+        "zh2en": false,
+        "fromItemList": [
+            {
+                "lang": "auto",
+                "text": "自动检测",
+                "play": false
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "ru",
+                "text": "俄语",
+                "play": true,
+                "abbr": "俄"
+            },
+            {
+                "lang": "fr",
+                "text": "法语",
+                "play": true,
+                "abbr": "法"
+            },
+            {
+                "lang": "th",
+                "text": "泰语",
+                "play": true,
+                "abbr": "泰"
+            }
+        ],
+        "toItemList": [
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "vi",
+                "text": "越南语",
+                "play": true,
+                "abbr": "越"
+            },
+            {
+                "lang": "ru",
+                "text": "俄语",
+                "play": true,
+                "abbr": "俄"
+            },
+            {
+                "lang": "fr",
+                "text": "法语",
+                "play": true,
+                "abbr": "法"
+            }
+        ]
+    },
+    "voice": {
+        "from": {
+            "lang": "en",
+            "type": "from",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22yesterday%22%2C%22spokenDialect%22%3A%22en%22%2C%22rate%22%3A%220.8%22%7D",
+            "list": [
+                {
+                    "type": "uk_0",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "ˈjestədeɪ",
+                    "abbr": "英",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/2262_yesterday_uk.mp3"
+                },
+                {
+                    "type": "usa_1",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "ˈjestərdeɪ",
+                    "abbr": "美",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/2262_yesterday_usa.mp3"
+                }
+            ],
+            "stype": "phonetic",
+            "phoneticShow": [
+                {
+                    "text": "ˈjestədeɪ",
+                    "type": "uk",
+                    "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/2262_yesterday_uk.mp3"
+                },
+                {
+                    "text": "ˈjestərdeɪ",
+                    "type": "usa",
+                    "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/2262_yesterday_usa.mp3"
+                }
+            ]
+        },
+        "to": {
+            "lang": "zh",
+            "type": "to",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22%E6%98%A8%E5%A4%A9%22%2C%22spokenDialect%22%3A%22zh-CHS%22%2C%22rate%22%3A%220.8%22%7D",
+            "stype": "normal"
+        }
+    }
+}
