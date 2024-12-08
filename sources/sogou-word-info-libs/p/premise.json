@@ -1,0 +1,780 @@
+{
+    "route": {
+        "name": "text",
+        "path": "/text",
+        "hash": "",
+        "query": {
+            "keyword": "premise",
+            "transfrom": "auto",
+            "transto": "zh-CHS",
+            "model": "general",
+            "errcode": "s10"
+        },
+        "params": {},
+        "fullPath": "/text?keyword=premise&transfrom=auto&transto=zh-CHS&model=general&errcode=s10",
+        "meta": {
+            "mtype": [
+                "textTranslate",
+                "language",
+                "voice"
+            ]
+        },
+        "from": {
+            "name": null,
+            "path": "/",
+            "hash": "",
+            "query": {},
+            "params": {},
+            "fullPath": "/",
+            "meta": {}
+        }
+    },
+    "common": {
+        "CONFIG": {
+            "wuid": 1733667238600,
+            "loginInfo": {},
+            "isIE": 0,
+            "isHitSsrSwitch": true,
+            "isHitWritebookSwitch": false,
+            "isHitAmsSwitch": true,
+            "promotionList": "{\n    \"pc_bottom\":{\n        \"imgsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\",\n        \"qcsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\"\n    },\n    \"pc_middle\":[\n        {\n            \"src\":\"//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c\",\n            \"bgColor\":\"#ffffff\",\n            \"link\":\"\"\n        }\n    ],\n    \"pc_survey\":{\n        \"icon\":\"//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750\",\n        \"link\":\"https://wj.qq.com/s2/8193148/806d/\"\n    }\n}",
+            "bannerData": [],
+            "isHitAsideSurvey": false,
+            "secretCode": 109984457,
+            "uuid": "b59a86d2-d0c4-4a3a-8b8b-5ce2115a3b8a",
+            "referer": "",
+            "approveToken": "65D02A4F1AD3BD151E1837DCC4F5435F1FD8E2496755A9A6",
+            "loadTime": 1733667238602,
+            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0",
+            "fcp": "159.65.124.238",
+            "temporaryId": "",
+            "fileId": ""
+        },
+        "hotWords": [],
+        "isFromCollect": false,
+        "psdModify": {
+            "currentStep": 1,
+            "scode": "",
+            "username": ""
+        },
+        "loginStatus": true,
+        "feedBackModule": false,
+        "showPromotionPopup": {
+            "show": false,
+            "type": ""
+        },
+        "showPromotionPCDownload": false,
+        "showShareBomb": false,
+        "shareData": null,
+        "showAppDownLoad": false,
+        "showLoginDialog": false,
+        "showLoading": {
+            "show": false
+        },
+        "toast": {
+            "show": false,
+            "text": "",
+            "loading": false
+        },
+        "modelToast": {
+            "show": false,
+            "text": ""
+        },
+        "selectionGlobalShow": true,
+        "selectionInfo": {
+            "left": 0,
+            "top": 0,
+            "show": false,
+            "from": "",
+            "to": "",
+            "val": "",
+            "area": ""
+        },
+        "showConfirmDialog": false,
+        "promotionList": {
+            "pc_bottom": {
+                "imgsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png",
+                "qcsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png"
+            },
+            "pc_middle": [
+                {
+                    "src": "//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c",
+                    "bgColor": "#ffffff",
+                    "link": ""
+                }
+            ],
+            "pc_survey": {
+                "icon": "//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750",
+                "link": "https://wj.qq.com/s2/8193148/806d/"
+            }
+        },
+        "transTypeTxt": "text",
+        "fixedTabStatus": 0,
+        "bodyTop": 0,
+        "ifHideUserOperation": false
+    },
+    "textTranslate": {
+        "prevTransQuery": "",
+        "translateData": {
+            "translate": {
+                "zly": "zly",
+                "errorCode": "0",
+                "qc_type": "1",
+                "index": "content0",
+                "from": "en",
+                "source": "sogou",
+                "text": "premise",
+                "to": "zh-CHS",
+                "id": "b59a86d2-d0c4-4a3a-8b8b-5ce2115a3b8a",
+                "dit": "前提",
+                "orig_text": "premise",
+                "md5": ""
+            },
+            "detect": {
+                "zly": "zly",
+                "detect": "en",
+                "errorCode": "0",
+                "language": "英语",
+                "id": "aaa9a7d0-b56e-11ef-a893-cf2d31aaacb1",
+                "text": "premise"
+            },
+            "sgtkn": "65D02A561AD3BD151E1837DCC4F5435F1FD8E2496755A9A6",
+            "wordCard": {
+                "title": "premise",
+                "show": true,
+                "usualDict": [
+                    {
+                        "values": [
+                            "前提；假设；假定；基础；论点；条件；房屋连地基；（premises）商业用房；房地产"
+                        ],
+                        "pos": "n."
+                    },
+                    {
+                        "values": [
+                            "以…为前提；假定；预先提出；提出…作为前提条件；基于；推断出"
+                        ],
+                        "pos": "v."
+                    }
+                ],
+                "secondQuery": "",
+                "exchange": {
+                    "word_pl": [
+                        "premises"
+                    ]
+                },
+                "levelList": [
+                    "高中",
+                    "六级",
+                    "考研",
+                    "考博",
+                    "雅思",
+                    "GRE"
+                ]
+            },
+            "detail": {
+                "synonym": [
+                    {
+                        "word_list": [
+                            "educe",
+                            "draw forth"
+                        ],
+                        "pos": "vt.",
+                        "mean": "引出，预先提出；作为…的前提"
+                    },
+                    {
+                        "word_list": [
+                            "precondition"
+                        ],
+                        "pos": "n.",
+                        "mean": "前提；上述各项；房屋连地基"
+                    }
+                ],
+                "wordRootInfo": {
+                    "word_info_list": [
+                        {
+                            "word": "premiss",
+                            "pos_mean_info_list": [
+                                {
+                                    "pos": "n.",
+                                    "mean": "前提"
+                                }
+                            ]
+                        }
+                    ],
+                    "root_word": "premiss"
+                },
+                "word_group": [
+                    {
+                        "brief_definition": "前提；在...前提下；前提为",
+                        "phrase": "on the premise",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "基本前提",
+                        "phrase": "basic premise",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "基本前提",
+                        "phrase": "fundamental premise",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "拒绝前提",
+                        "phrase": "reject premise",
+                        "pos": ""
+                    }
+                ],
+                "bilingual": [
+                    {
+                        "source": "His argument is based on a false <em>premise</em>.",
+                        "target": "他的论点基于一个错误的前提。",
+                        "url": ""
+                    },
+                    {
+                        "source": "The <em>premise</em> of the movie is quite interesting.",
+                        "target": "这部电影的前提非常有趣。",
+                        "url": ""
+                    },
+                    {
+                        "source": "The <em>premise</em> is that you must finish your homework first.",
+                        "target": "前提是你必须先完成作业。",
+                        "url": ""
+                    },
+                    {
+                        "source": "You must accept this <em>premise</em>, or we cannot proceed.",
+                        "target": "你必须接受这个前提，否则我们无法继续。",
+                        "url": ""
+                    },
+                    {
+                        "source": "We need to establish a clear <em>premise</em> before we proceed.",
+                        "target": "我们需要在继续之前建立一个明确的前提。",
+                        "url": ""
+                    },
+                    {
+                        "source": "The argument is flawed because its <em>premise</em> is incorrect.",
+                        "target": "这个论点是有缺陷的，因为它的前提是错误的。",
+                        "url": ""
+                    },
+                    {
+                        "source": "There is an important <em>premise</em> for the success of this plan.",
+                        "target": "这个计划的成功有一个重要的前提。",
+                        "url": ""
+                    },
+                    {
+                        "source": "The success of the project is based on the <em>premise</em> that everyone works together.",
+                        "target": "项目成功的前提是每个人都一起工作。",
+                        "url": ""
+                    },
+                    {
+                        "source": "The theory is built on the <em>premise</em> that all humans are rational beings.",
+                        "target": "这个理论是建立在所有人类都是理性生物的前提之上的。",
+                        "url": ""
+                    },
+                    {
+                        "source": "P P Student: A <em>premise</em>?",
+                        "target": ",学生：一个前提？",
+                        "url": "open.163.com"
+                    }
+                ],
+                "baike": {
+                    "showMore": false,
+                    "list": [
+                        {
+                            "lemmaTitle": "premise",
+                            "link": "https://baike.sogou.com/v168124662.htm?ch=sogou.fanyi",
+                            "abstract": "premise，英 [ˈpremɪs]，美 [ˈpremɪs]。英语单词，作名词时，指的是前提；假定。作动词时，指的是以…为基础；以…为前提；说明。短语搭配为“on the premise（前提；在...前提下）”。 例句为：“I will premise generally that I hate lecturing.（我要首先总的说明一下我不喜欢演讲。）”。 premise近义词为educe，precondition。",
+                            "wapPic": "",
+                            "pcPic": ""
+                        }
+                    ]
+                }
+            },
+            "book": {
+                "yingyinNormal": [
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/a86e6e98cc64448e528c65f2085efa0f_30194.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/025f15cc0558eb5cc2a3d9e357fa1946_6199.mp3",
+                        "isLavafox": true,
+                        "en": "It's based on the <em>premise</em> that Princeton isn't a very good school. Ha-ha. See? Now he gets it.",
+                        "zh": "它基于的前提是普林斯顿大学算不上顶尖大学。真! 好! 笑! 瞧? 他懂了。",
+                        "videoNameZh": "《生活大爆炸 第7季》",
+                        "videoNameEn": "《The Big Bang Theory Season 7》",
+                        "url": "http://bisentence_movie.sogou.com/416d1bbac682bcc7d7080dbd52bbc406_d8a36dfe809e793e814f090dbb7f4a221c91b2ba"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/b630caafa2606557856da7a333933a5d_54182.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/838a232fe5eda4d13eb08dfce4973bc9_57425.mp3",
+                        "isLavafox": true,
+                        "en": "I'm sorry, if you didn't cheer at my entrance, it's too late to buy into the <em>premise</em>.",
+                        "zh": "不好意思，如果你没有为我的出场欢呼，那你现在提出你的假设也为时已晚了。",
+                        "videoNameZh": "《生活大爆炸 第三季》",
+                        "videoNameEn": "《The Big Bang Theory Season 3》",
+                        "url": "http://bisentence_movie.sogou.com/a759c4b6ca235a85538123da028fc28d_3a58711b5de9244daa68291246a279ef23a4017e"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/ed16ac8524b2f1f0c1489640f8396c3f_47421.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/8ace2965597ed2e54fd0e4fbce96b430_48366.mp3",
+                        "isLavafox": true,
+                        "en": "Wait. The <em>premise</em> is that he is dressed differently? Yeah. That's true. He is not dressed the same.",
+                        "zh": "等等，哏都是在嘲讽他打扮跟平常不一样吗？对啊。的确啊。是跟平常差很多。",
+                        "videoNameZh": "《生活大爆炸 第十一季》",
+                        "videoNameEn": "《The Big Bang Theory Season 11》",
+                        "url": "http://bisentence_movie.sogou.com/862c1bd92bfb0a76c03eb943fe5cf9c9_680d5ed30d3869a2e82ee4bd4799b44f7f3b01cc"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/39e50807a5a1191398262e04787ff184_62485.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/831cbb19282644c28b4f9ad5cb6add16_21677.mp3",
+                        "isLavafox": true,
+                        "en": "Well, Sheldon, you're his friend. Friends give each other presents. I accept your <em>premise</em>. I reject your conclusion.",
+                        "zh": "谢尔顿，你是他朋友啊，朋友之间就是互送礼物的，我同意你的论据，但不同意你的论点。",
+                        "videoNameZh": "《生活大爆炸 第一季》",
+                        "videoNameEn": "《The Big Bang Theory Season 1》",
+                        "url": "http://bisentence_movie.sogou.com/1f9e608b7b5b9e75b0cacc74a25970ab_9256437beddf21b4ab9004a4c04bb26cd4d053f2"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/21d26cfef0cd26f0813072491b08dd5a_57364.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/b9419dd5f717fa1b65fe05c6be60b295_13495.mp3",
+                        "isLavafox": true,
+                        "en": "While I disagree with the <em>premise</em> of tenure, if they gave it to me, it wouldn't diminish my output. You know, I'm like the sun. Can't turn this off.",
+                        "zh": "虽然我不太认同终身教职制度，但如果他们给我这职位，我也会继续对科学界做贡献，我就跟太阳一样发光发热，停不下来。",
+                        "videoNameZh": "《生活大爆炸 第六季》",
+                        "videoNameEn": "《The Big Bang Theory Season 6》",
+                        "url": "http://bisentence_movie.sogou.com/2bef0b6a64d5d7a637670fce06b34b0b_468439d9f8794cdea79669a5c4a1b07f7087ca9a"
+                    }
+                ]
+            },
+            "pic": "",
+            "voice": {
+                "phonetic": [
+                    {
+                        "text": "ˈpremɪs",
+                        "type": "uk",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/5975_premise_uk.mp3"
+                    },
+                    {
+                        "text": "ˈpremɪs",
+                        "type": "usa",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/5975_premise_usa.mp3"
+                    }
+                ]
+            },
+            "dictType": "oxford_buchong",
+            "kaoyan": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 3,
+                        "pos": "n",
+                        "chinese": "前提; 假定",
+                        "sense_tier_ratio": 100
+                    },
+                    {
+                        "sense_tier": 0,
+                        "pos": "n",
+                        "chinese": "(pl)营业场所",
+                        "sense_tier_ratio": 0
+                    },
+                    {
+                        "sense_tier": 0,
+                        "pos": "v",
+                        "chinese": "预述; 引导",
+                        "sense_tier_ratio": 0
+                    },
+                    {
+                        "sense_tier": 0,
+                        "pos": "v",
+                        "chinese": "作出前提",
+                        "sense_tier_ratio": 0
+                    },
+                    {
+                        "sense_tier": 0,
+                        "pos": "v",
+                        "chinese": "假定",
+                        "sense_tier_ratio": 0
+                    }
+                ],
+                "word": "premise",
+                "direction_info": {
+                    "ranges": 12,
+                    "description": "数据源自2012-2023年12年间全国考研试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2012-2023年全国考研英语一和考研英语二共24套考研试卷，包括阅读、完型填空、翻译、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选全国考研考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2012-2023年12年间全国考研英语一和考研英语二试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 1,
+                "total_exam_freq": 3,
+                "sense": {
+                    "sense_num": 5,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "前提; 假定",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "The <highlight>premise</highlight> was that the common law of contract lacked sufficient safeguards for workers against arbitrary conduct by management.",
+                                    "month": -1,
+                                    "source": "英语一",
+                                    "coll": "",
+                                    "sentence_trans": "前提是普通合同法缺乏足够的保护措施，来保护工人免受管理层随心所欲的行为。",
+                                    "year": 2022,
+                                    "type": "阅读理解A",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "If connections can be bought, a basic <highlight>premise</highlight> of democratic society — that all are equal in treatment by government — is undermined.",
+                                    "month": -1,
+                                    "source": "英语一",
+                                    "coll": "",
+                                    "sentence_trans": "如果关系可以被收买，民主社会的一个基本前提——政府平等对待所有人——就会遭到破坏。",
+                                    "year": 2017,
+                                    "type": "阅读理解A",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Even if you accept Friedman's <highlight>premise</highlight> and regard CSR policies as a waste of shareholders' money, things may not be absolutely clear-cut.",
+                                    "month": -1,
+                                    "source": "英语一",
+                                    "coll": "",
+                                    "sentence_trans": "即使你接受弗里德曼的前提，认为企业社会责任政策是浪费股东的钱，事情也可能不是绝对清楚的。",
+                                    "year": 2016,
+                                    "type": "阅读理解A",
+                                    "day": -1
+                                }
+                            ]
+                        },
+                        {
+                            "synonyms": "",
+                            "en": "",
+                            "zh": "(pl)营业场所",
+                            "pos": "n",
+                            "antonyms": ""
+                        },
+                        {
+                            "synonyms": "",
+                            "en": "",
+                            "zh": "预述; 引导",
+                            "pos": "v",
+                            "antonyms": ""
+                        },
+                        {
+                            "synonyms": "",
+                            "en": "",
+                            "zh": "作出前提",
+                            "pos": "v",
+                            "antonyms": ""
+                        },
+                        {
+                            "synonyms": "",
+                            "en": "",
+                            "zh": "假定",
+                            "pos": "v",
+                            "antonyms": ""
+                        }
+                    ]
+                }
+            },
+            "CET6": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 1,
+                        "pos": "n",
+                        "chinese": "[pl.]前提;  假设",
+                        "sense_tier_ratio": 100
+                    },
+                    {
+                        "sense_tier": 0,
+                        "pos": "n",
+                        "chinese": "房屋和地基; 经营场址",
+                        "sense_tier_ratio": 0
+                    }
+                ],
+                "word": "premise",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2016.6-2023.6年8年间全六级试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight>考纲释义</highlight>\n精选实考、考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2016-2023年51套试卷，包括阅读、听力、翻译等所有题型。\n\n<highlight>真题例句</highlight>\n精选2016-2023年8年间全六级试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 1,
+                "total_exam_freq": 1,
+                "sense": {
+                    "sense_num": 2,
+                    "sense_info_list": [
+                        {
+                            "synonyms": "",
+                            "en": "",
+                            "zh": "[pl.]前提;  假设",
+                            "pos": "n",
+                            "antonyms": ""
+                        },
+                        {
+                            "synonyms": "",
+                            "en": "",
+                            "zh": "房屋和地基; 经营场址",
+                            "pos": "n",
+                            "antonyms": ""
+                        }
+                    ]
+                }
+            },
+            "sentencesData": {
+                "status": 1,
+                "info": "notZh2En",
+                "data": {}
+            },
+            "isAutoMatch": false,
+            "Zh2En": false
+        },
+        "query": "premise",
+        "result": "前提",
+        "tabSelect": "detail",
+        "dictionaryType": "oxford_buchong",
+        "notFound_show": false,
+        "phoneticShow": "",
+        "globalShowTranslateRecord": "",
+        "pronPrefer": {
+            "type": "usa_1",
+            "speaker": "male",
+            "speed": "standard"
+        },
+        "ServerRecord": "",
+        "ServerUIGS": {
+            "version": "new",
+            "type": "all",
+            "stype": "success",
+            "terminal": "web",
+            "fr": "default",
+            "direction": "etoz",
+            "from": "en",
+            "to": "zh-CHS",
+            "len": 7,
+            "qtype": "text",
+            "qctype": "qc_1",
+            "dict_cover": 1,
+            "detail": 1,
+            "wordCardCover": 1,
+            "wordCardEn": 1,
+            "wordCardCh": 0,
+            "wordCardMinor": 0,
+            "wordCardNetmean": 0,
+            "wordDeform": 1,
+            "keyword": 0,
+            "bilingual": 1,
+            "simple": 0,
+            "levelList": 1,
+            "synonym": 1,
+            "antonym": 0,
+            "conjugate": 1,
+            "rootaffix": 0,
+            "baike_sogou": 1,
+            "baike_wiki": 0,
+            "wordDifference": 0,
+            "word_phrase": 1,
+            "secondQuery": 0,
+            "dict_oxford": 0,
+            "dict_newcentury": 0,
+            "zhongkaotab": 0,
+            "gaokaotab": 0,
+            "CET4tab": 0,
+            "CET6tab": 1,
+            "kaoyantab": 1,
+            "network_tab": 0,
+            "yinying_tab": 1,
+            "tuozhan_tab": 0,
+            "one_pic": 0,
+            "more_pic": 0,
+            "no_pic": 0,
+            "uuid": "b59a86d2-d0c4-4a3a-8b8b-5ce2115a3b8a",
+            "from_type": 0,
+            "t_trans_ssr": 175
+        },
+        "ServerModelUIGS": {
+            "terminal": "web",
+            "type": "trans_model",
+            "pbtype": "pv",
+            "model_general": 1,
+            "model_medical": 1,
+            "model_finance": 1
+        },
+        "ServerSgtkn": "65D02A561AD3BD151E1837DCC4F5435F1FD8E2496755A9A6",
+        "suggShow": false,
+        "suggestion": "",
+        "suggDirection": "",
+        "usualTop": "",
+        "baseDict": "",
+        "wordCardClick": false,
+        "isFrInput": false,
+        "kanaTips": {
+            "show": false,
+            "left": "",
+            "top": "",
+            "type": "",
+            "arrowLeft": ""
+        },
+        "currSentenceIndex": -1,
+        "prefixStrObj": {
+            "prefixStr": "",
+            "oriPrefixStr": ""
+        },
+        "selectTransBox": {
+            "show": false,
+            "right": 0,
+            "top": 0,
+            "paraphraseInfo": {
+                "word": "",
+                "from": "",
+                "to": "",
+                "area": ""
+            }
+        },
+        "sentenceLoading": false,
+        "newSentenceInfo": {
+            "sentence": "",
+            "candidateIndex": 0
+        },
+        "moreTipInfo": {
+            "opacity": 0,
+            "zIndex": -1
+        },
+        "paraphraseShowInfo": {
+            "card": 0,
+            "query": "",
+            "card_dict": 0
+        },
+        "selectType": "",
+        "wordPos": 0,
+        "candidateWord": "",
+        "syntaxVisible": false,
+        "syntaxStatus": 0
+    },
+    "language": {
+        "from": "auto",
+        "to": "zh-CHS",
+        "detect": "en",
+        "model": "general",
+        "detectShow": false,
+        "langMap": {
+            "current": ""
+        },
+        "zh2en": false,
+        "fromItemList": [
+            {
+                "lang": "auto",
+                "text": "自动检测",
+                "play": false
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "th",
+                "text": "泰语",
+                "play": true,
+                "abbr": "泰"
+            },
+            {
+                "lang": "ar",
+                "text": "阿拉伯语",
+                "play": true,
+                "dir": "rtl",
+                "abbr": "阿"
+            },
+            {
+                "lang": "cs",
+                "text": "捷克语",
+                "play": true,
+                "abbr": "捷克"
+            }
+        ],
+        "toItemList": [
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "ru",
+                "text": "俄语",
+                "play": true,
+                "abbr": "俄"
+            },
+            {
+                "lang": "ko",
+                "text": "韩语",
+                "play": true,
+                "abbr": "韩"
+            },
+            {
+                "lang": "vi",
+                "text": "越南语",
+                "play": true,
+                "abbr": "越"
+            }
+        ]
+    },
+    "voice": {
+        "from": {
+            "lang": "en",
+            "type": "from",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22premise%22%2C%22spokenDialect%22%3A%22en%22%2C%22rate%22%3A%220.8%22%7D",
+            "list": [
+                {
+                    "type": "uk_0",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "ˈpremɪs",
+                    "abbr": "英",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/5975_premise_uk.mp3"
+                },
+                {
+                    "type": "usa_1",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "ˈpremɪs",
+                    "abbr": "美",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/5975_premise_usa.mp3"
+                }
+            ],
+            "stype": "phonetic",
+            "phoneticShow": [
+                {
+                    "text": "ˈpremɪs",
+                    "type": "uk",
+                    "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/5975_premise_uk.mp3"
+                }
+            ]
+        },
+        "to": {
+            "lang": "zh",
+            "type": "to",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22%E5%89%8D%E6%8F%90%22%2C%22spokenDialect%22%3A%22zh-CHS%22%2C%22rate%22%3A%220.8%22%7D",
+            "stype": "normal"
+        }
+    }
+}

@@ -1,0 +1,992 @@
+{
+    "route": {
+        "name": "text",
+        "path": "/text",
+        "hash": "",
+        "query": {
+            "keyword": "homeland",
+            "transfrom": "auto",
+            "transto": "zh-CHS",
+            "model": "general",
+            "errcode": "s10"
+        },
+        "params": {},
+        "fullPath": "/text?keyword=homeland&transfrom=auto&transto=zh-CHS&model=general&errcode=s10",
+        "meta": {
+            "mtype": [
+                "textTranslate",
+                "language",
+                "voice"
+            ]
+        },
+        "from": {
+            "name": null,
+            "path": "/",
+            "hash": "",
+            "query": {},
+            "params": {},
+            "fullPath": "/",
+            "meta": {}
+        }
+    },
+    "common": {
+        "CONFIG": {
+            "wuid": 1733665471176,
+            "loginInfo": {},
+            "isIE": 0,
+            "isHitSsrSwitch": true,
+            "isHitWritebookSwitch": false,
+            "isHitAmsSwitch": true,
+            "promotionList": "{\n    \"pc_bottom\":{\n        \"imgsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\",\n        \"qcsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\"\n    },\n    \"pc_middle\":[\n        {\n            \"src\":\"//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c\",\n            \"bgColor\":\"#ffffff\",\n            \"link\":\"\"\n        }\n    ],\n    \"pc_survey\":{\n        \"icon\":\"//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750\",\n        \"link\":\"https://wj.qq.com/s2/8193148/806d/\"\n    }\n}",
+            "bannerData": [],
+            "isHitAsideSurvey": false,
+            "secretCode": 109984457,
+            "uuid": "18bbc1b2-dd79-4111-9862-794a1b0dcad8",
+            "referer": "",
+            "approveToken": "65C2C478E83558F2FAFFD13B8B6864B9FA0D28836755A2BF",
+            "loadTime": 1733665471179,
+            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0",
+            "fcp": "159.65.124.238",
+            "temporaryId": "",
+            "fileId": ""
+        },
+        "hotWords": [],
+        "isFromCollect": false,
+        "psdModify": {
+            "currentStep": 1,
+            "scode": "",
+            "username": ""
+        },
+        "loginStatus": true,
+        "feedBackModule": false,
+        "showPromotionPopup": {
+            "show": false,
+            "type": ""
+        },
+        "showPromotionPCDownload": false,
+        "showShareBomb": false,
+        "shareData": null,
+        "showAppDownLoad": false,
+        "showLoginDialog": false,
+        "showLoading": {
+            "show": false
+        },
+        "toast": {
+            "show": false,
+            "text": "",
+            "loading": false
+        },
+        "modelToast": {
+            "show": false,
+            "text": ""
+        },
+        "selectionGlobalShow": true,
+        "selectionInfo": {
+            "left": 0,
+            "top": 0,
+            "show": false,
+            "from": "",
+            "to": "",
+            "val": "",
+            "area": ""
+        },
+        "showConfirmDialog": false,
+        "promotionList": {
+            "pc_bottom": {
+                "imgsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png",
+                "qcsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png"
+            },
+            "pc_middle": [
+                {
+                    "src": "//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c",
+                    "bgColor": "#ffffff",
+                    "link": ""
+                }
+            ],
+            "pc_survey": {
+                "icon": "//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750",
+                "link": "https://wj.qq.com/s2/8193148/806d/"
+            }
+        },
+        "transTypeTxt": "text",
+        "fixedTabStatus": 0,
+        "bodyTop": 0,
+        "ifHideUserOperation": false
+    },
+    "textTranslate": {
+        "prevTransQuery": "",
+        "translateData": {
+            "translate": {
+                "zly": "zly",
+                "errorCode": "0",
+                "qc_type": "1",
+                "index": "content0",
+                "from": "en",
+                "source": "sogou",
+                "text": "homeland",
+                "to": "zh-CHS",
+                "id": "18bbc1b2-dd79-4111-9862-794a1b0dcad8",
+                "dit": "祖国",
+                "orig_text": "homeland",
+                "md5": ""
+            },
+            "detect": {
+                "zly": "zly",
+                "detect": "en",
+                "errorCode": "0",
+                "language": "英语",
+                "id": "8d324ee0-b56a-11ef-966c-9b6d8fe7ad8a",
+                "text": "homeland"
+            },
+            "sgtkn": "65C2C47DE83558F2FAFFD13B8B6864B9FA0D28836755A2BF",
+            "wordCard": {
+                "title": "homeland",
+                "show": true,
+                "usualDict": [
+                    {
+                        "values": [
+                            "家园；祖国；家乡；故土；原籍；出生地；本土；自己国家；（南非共和国过去在种族隔离制度下设立的、有一定自治权的）黑人定居地；自治区"
+                        ],
+                        "pos": "n."
+                    }
+                ],
+                "secondQuery": "",
+                "exchange": {
+                    "word_pl": [
+                        "homelands"
+                    ]
+                },
+                "levelList": [
+                    "高中",
+                    "六级"
+                ]
+            },
+            "detail": {
+                "synonym": [
+                    {
+                        "word_list": [
+                            "country",
+                            "motherland"
+                        ],
+                        "pos": "n.",
+                        "mean": "祖国；故乡"
+                    }
+                ],
+                "affix": {
+                    "word": "homeland",
+                    "sub_affix_info_list": [
+                        {
+                            "affix": "home",
+                            "affix_mean": "n. 家"
+                        },
+                        {
+                            "affix": "land",
+                            "affix_mean": "n. 陆地"
+                        }
+                    ],
+                    "word_mean": "n. 家乡"
+                },
+                "word_group": [
+                    {
+                        "brief_definition": "国土安全",
+                        "phrase": "homeland security",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "犹太人的家园",
+                        "phrase": "jewish homeland",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "…的家园包括…",
+                        "phrase": "whose homeland includes…",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "母系家族；母亲家族的故乡",
+                        "phrase": "maternal family's homeland",
+                        "pos": ""
+                    }
+                ],
+                "bilingual": [
+                    {
+                        "source": "He loves his <em>homeland</em> very much.",
+                        "target": "他非常热爱他的祖国。",
+                        "url": ""
+                    },
+                    {
+                        "source": "They fought to defend their <em>homeland</em>.",
+                        "target": "他们为保卫祖国而战斗。",
+                        "url": ""
+                    },
+                    {
+                        "source": "She felt a deep connection to her <em>homeland</em>.",
+                        "target": "她对她的祖国有着深深的情感。",
+                        "url": ""
+                    },
+                    {
+                        "source": "He always dreamed of returning to his <em>homeland</em>.",
+                        "target": "他一直梦想着回到他的祖国。",
+                        "url": ""
+                    },
+                    {
+                        "source": "A patriot will never betray their <em>homeland</em>.",
+                        "target": "一个爱国者永远不会背叛他们的祖国。",
+                        "url": ""
+                    },
+                    {
+                        "source": "His <em>homeland</em> is picturesque and unforgettable.",
+                        "target": "他的祖国风景如画，令人难以忘怀。",
+                        "url": ""
+                    },
+                    {
+                        "source": "The traditions of his <em>homeland</em> are very important to him.",
+                        "target": "他非常重视他祖国的传统。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Many exiles dream of returning to their <em>homeland</em>.",
+                        "target": "许多流亡者梦想着回到他们的祖国。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Many people have fought to protect their <em>homeland</em>.",
+                        "target": "许多人为了保护他们的祖国而战斗。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Everyone should work for the future of their <em>homeland</em>.",
+                        "target": "每个人都应该为祖国的未来而努力。",
+                        "url": ""
+                    }
+                ],
+                "baike": {
+                    "showMore": false,
+                    "list": [
+                        {
+                            "lemmaTitle": "HOMELAND",
+                            "link": "https://baike.sogou.com/v63040783.htm?ch=sogou.fanyi",
+                            "abstract": "本剧由《24小时》制作人Howard Gordon和Alex Gansa联手打造，前《嗜血判官（Dexter）》剧集运作人Chip Johannessen也已经与Showtime电视台新剧《国土安全（Homeland）》签下合约，担任编剧及共同制作人。",
+                            "wapPic": "//img04.sogoucdn.com/v2/thumb/retype_exclude_gif/ext/auto/q/80/crop/xy/ai/w/140/h/140/resize/w/140?appid=201005&sign=1c7ca790b0c5729fd488318b9f7388c2&url=https%3A%2F%2Fpic.baike.soso.com%2Fugc%2Fbaikepic2%2F7329%2F20220507213720-1273507043_jpeg_352_220_14079.jpg%2F800",
+                            "pcPic": "//img04.sogoucdn.com/v2/thumb/retype_exclude_gif/ext/auto/q/80/crop/xy/ai/w/140/h/140/resize/w/140?appid=201005&sign=1c7ca790b0c5729fd488318b9f7388c2&url=https%3A%2F%2Fpic.baike.soso.com%2Fugc%2Fbaikepic2%2F7329%2F20220507213720-1273507043_jpeg_352_220_14079.jpg%2F800"
+                        },
+                        {
+                            "lemmaTitle": "河山",
+                            "link": "https://baike.sogou.com/v157949428.htm?ch=sogou.fanyi",
+                            "abstract": "《河山》是由完美世界影视、芒果超媒等联合出品，王新军执导，秦海璐监制，韩飞、方展担任编剧，王新军、秦海璐、韩立、王文绮领衔主演，李雪健、石兆琪友情出演，张嘉益特别出演，辛柏青、尤勇、刘小宁、申军谊等联合主演的抗战题材电视剧，于2019年11月6日在北京卫视播出。 该剧讲述了抗战期间，卫大河（王新军 饰）怀抱民族大义，在地下工作者姜雅真（秦海璐 饰）等人的影响下，成长为一名优秀的共产党员，与八路军团长高晓山（韩立 饰）、父亲卫锡铬（李雪健 饰）等军民齐心奋战，共同谱写一曲壮丽的英雄赞歌的故事。 2020年7月，入选国家广播电视总局纪念抗战胜利75周年参考剧目；2020年10月，获得第32届中国电视剧飞天奖优秀电视剧提名。",
+                            "wapPic": "//img04.sogoucdn.com/v2/thumb/retype_exclude_gif/ext/auto/q/80/crop/xy/ai/w/140/h/140/resize/w/140?appid=201005&sign=d9814761bd8d936126181c37b2d893b8&url=https%3A%2F%2Fpic.baike.soso.com%2Fugc%2Fbaikepic2%2F4427%2Fcut-20191105102245-1967397518_jpg_1795_1197_281347.jpg%2F0",
+                            "pcPic": "//img02.sogoucdn.com/v2/thumb/retype_exclude_gif/ext/auto/q/80/crop/xy/ai/w/140/h/140/resize/w/140?appid=201005&sign=d9814761bd8d936126181c37b2d893b8&url=https%3A%2F%2Fpic.baike.soso.com%2Fugc%2Fbaikepic2%2F4427%2Fcut-20191105102245-1967397518_jpg_1795_1197_281347.jpg%2F0"
+                        }
+                    ]
+                }
+            },
+            "book": {
+                "yingyinNormal": [
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/dde03d29cdf9f1eb3170279dd5ad8ff2_46072.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/feed675468dc4c904a43e4dff109125b_3036.mp3",
+                        "isLavafox": true,
+                        "en": "What? That son of a bitch wants me to turn my back on my <em>homeland</em> for an airport line?",
+                        "zh": "什么？那个王八蛋想要我背叛我的祖国就为了在机场不排队？",
+                        "videoNameZh": "《摩登家庭 第六季》",
+                        "videoNameEn": "《Modern Family Season 6》",
+                        "url": "http://bisentence_movie.sogou.com/347c1b4658c54eadbf0125ba367fd758_f5acff22a73de28c7559beb70ae104569e6b990c"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/86481e30713cfdd22b2b4267934c713a_30257.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/a0ec8e6a90f0ff66192a57bfe1cb3117_28328.mp3",
+                        "isLavafox": true,
+                        "en": "What does a rock have to do with <em>Homeland</em> Security?",
+                        "zh": "一块石头和国土安全局有什么关系？",
+                        "videoNameZh": "《蝙蝠侠大战超人：正义黎明》",
+                        "videoNameEn": "《Batman v Superman: Dawn of Justice》",
+                        "url": "http://bisentence_movie.sogou.com/73014148d58ad12f6f485ef444007d06_78eea0b815758369b8a1dc89493449d653f98008"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/86481e30713cfdd22b2b4267934c713a_30257.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/52609646cf18a1fd4ef76b6728d095e8_55498.mp3",
+                        "isLavafox": true,
+                        "en": "<em>Homeland</em> Security? No, no, no, ma'am, planetary security.",
+                        "zh": "国土安全局？不不不，夫人，是地球安全局。",
+                        "videoNameZh": "《蝙蝠侠大战超人：正义黎明》",
+                        "videoNameEn": "《Batman v Superman: Dawn of Justice》",
+                        "url": "http://bisentence_movie.sogou.com/e5866062ca00d0db3de10638dd4ede51_bf08b42a950e57d3b00898377244aa781f11cfe8"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/9aae612011afda60ee6f9f8c7c772050_39320.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/522cdd894c23295acd4efcbb9e644fb1_38691.mp3",
+                        "isLavafox": true,
+                        "en": "And I would say the same to you. Take back your <em>homeland</em>.",
+                        "zh": "我也要同样敦促你，去收复家园。",
+                        "videoNameZh": "《霍比特人2：史矛革之战》",
+                        "videoNameEn": "《The Hobbit: The Desolation of Smaug》",
+                        "url": "http://bisentence_movie.sogou.com/c9edfca922eaaf77410a3d198cb897af_c8583618993cfdbf738ae6666ee1bdbeec5c0836"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/9aae612011afda60ee6f9f8c7c772050_39320.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/4351fb3190af8136d493b1b1701b96a3_41421.mp3",
+                        "isLavafox": true,
+                        "en": "We are the dwarves of Erebor. We have come to reclaim our <em>homeland</em>.",
+                        "zh": "我们是艾雷博的矮人，我们来收复故土。",
+                        "videoNameZh": "《霍比特人2：史矛革之战》",
+                        "videoNameEn": "《The Hobbit: The Desolation of Smaug》",
+                        "url": "http://bisentence_movie.sogou.com/94c2b4808123e666ebe4d46e6b9dab49_ccdc78848bde7ecfb9fa55e33b140fe37ce2e9d8"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/ef2251c62fc1b53f995cf777893bc2ff_45162.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/07d940f2464cb39dbc8e9d4c576a3093_33256.mp3",
+                        "isLavafox": true,
+                        "en": "I'd like to aim for the chair of Armed Services or <em>Homeland</em> Security.",
+                        "zh": "我想做众议院军事委员会主席，或者国土安全委员会主席。",
+                        "videoNameZh": "《纸牌屋 第二季》",
+                        "videoNameEn": "《House of Cards Season 2》",
+                        "url": "http://bisentence_movie.sogou.com/7a563de59dc1f3b3e0801364b3a3db85_7e6721cf86f0b7968f0eeb791ad481b93d5ecbdf"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/334ae739c2d3bef71ab483cd142c3ad8_18137.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/f7808c8e93eedbdef1299aa9dde620d3_22419.mp3",
+                        "isLavafox": true,
+                        "en": "Seth! Witnesses report an FBI and <em>Homeland</em> presence at the Knoxville voting center.",
+                        "zh": "赛斯！有目击者称，诺克斯维尔投票中心出现了联调局和国安局的人。",
+                        "videoNameZh": "《纸牌屋 第五季》",
+                        "videoNameEn": "《House of Cards Season 5》",
+                        "url": "http://bisentence_movie.sogou.com/82a0b97aa91727894f1ed0e114b7bf19_95b034b67813c6a5189b195444a28c7f4946e16f"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/cf2616af116b548887696dabfcc2fd97_68323.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/6bc18d86b9e23f9786503771932134a8_4568.mp3",
+                        "isLavafox": true,
+                        "en": "We've prevented terrorist attacks saved American lives and made our <em>homeland</em> more secure.",
+                        "zh": "我们将大量恐怖袭击消灭在萌芽之中，挽救了美国人民的生命，让我们的国家更加安宁。",
+                        "videoNameZh": "《奥巴马每周电视讲话》",
+                        "videoNameEn": "《Your Weekly Address》",
+                        "url": "http://bisentence_movie.sogou.com/d73ff3ad2afb36b6a074f5b609d14fb7_b8a12000813410f2c0c4bca5fcfb3cba3a500f96"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/9aae612011afda60ee6f9f8c7c772050_39320.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/08680628623f8383f01f61344317d52d_1918.mp3",
+                        "isLavafox": true,
+                        "en": "Some may imagine that a Noble quest is at hand. A Quest to reclaim a <em>homeland</em> and slay a dragon.",
+                        "zh": "有人觉得这是什么崇高的使命，收复家园，消灭恶龙。",
+                        "videoNameZh": "《霍比特人2：史矛革之战》",
+                        "videoNameEn": "《The Hobbit: The Desolation of Smaug》",
+                        "url": "http://bisentence_movie.sogou.com/114474efd17157b252b1ddc880a9543e_c92dd1c4a66fc8891ac47208c835c762f91dbc50"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/b630caafa2606557856da7a333933a5d_54182.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/4fdba374003164933e70d25f578d8b7d_30136.mp3",
+                        "isLavafox": true,
+                        "en": "Not only did Sheldon save my life, he didn't rat me out to the landlord. Or the police. Or <em>Homeland</em> Security.",
+                        "zh": "谢尔顿不仅救了我一命，他还没向房东告发我，或报警，或报告国家安全局。",
+                        "videoNameZh": "《生活大爆炸 第三季》",
+                        "videoNameEn": "《The Big Bang Theory Season 3》",
+                        "url": "http://bisentence_movie.sogou.com/41bbd808a97e2526181bf2e44799c489_48a91c565a2d94c286a2d72ca07a3830eb46a76b"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/1d8503c6505ca4d4e748562e7e5b81df_3730.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/aaffcdbf04af81f82bb3816028f33ac1_19300.mp3",
+                        "isLavafox": true,
+                        "en": "Because we forced him. We forced him when the company of Thorin Oakenshield set out to reclaim their <em>homeland</em>.",
+                        "zh": "是被我们逼的，当索林·橡木盾一行人出发夺回家园时，它就不得不出手了。",
+                        "videoNameZh": "《霍比特人3：五军之战》",
+                        "videoNameEn": "《The Hobbit: The Battle of the Five Armies》",
+                        "url": "http://bisentence_movie.sogou.com/055eca90df887fff3d5bfbcea0cbc2e7_35a495ae2238bf9687326d1db1716e7611b212d8"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/cf2616af116b548887696dabfcc2fd97_68323.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/a8e397a8e651ba951d6ffd3f3003faa4_24343.mp3",
+                        "isLavafox": true,
+                        "en": "As I said this week, our intelligence community has not yet detected specific ISIL plots against our <em>homeland</em>.",
+                        "zh": "我在本周说过，到目前为止，我们的情报机构还没有发现ISIL的行动针对美国本土。",
+                        "videoNameZh": "《奥巴马每周电视讲话》",
+                        "videoNameEn": "《Your Weekly Address》",
+                        "url": "http://bisentence_movie.sogou.com/7d91f9b25e16aa57cdb7bcad86b15cc3_9abdbc383a73f62fe47773ca4365aeb8e9f4a555"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/334ae739c2d3bef71ab483cd142c3ad8_18137.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/59fa2b317b98acf53f9c66d8e26f6e44_17837.mp3",
+                        "isLavafox": true,
+                        "en": "<em>Homeland</em> received word from Cybercom that a truck carrying three cesium-137 irradiators missed two checkpoints.",
+                        "zh": "国土安全部收到网络司令部的消息一辆携带三台铯137辐照器的卡车未按时到达两个检查站。",
+                        "videoNameZh": "《纸牌屋 第五季》",
+                        "videoNameEn": "《House of Cards Season 5》",
+                        "url": "http://bisentence_movie.sogou.com/9a52edfea472e8d598a3f433ae22220a_407a056ad81208f74f139a3efb6658bae54ec853"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/8b3da16ecbe350aacc1a7e4a01d210bc_49869.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/5af320eb85455baa45336b5aa04cea2e_66892.mp3",
+                        "isLavafox": true,
+                        "en": "And for Rajesh Koothrappali from whose <em>homeland</em> these tasty dishes originate one large order of chicken McNuggets.",
+                        "zh": "而拉杰·库萨帕里的家乡发明出这些美味佳肴的人，一个大份的麦乐鸡。",
+                        "videoNameZh": "《生活大爆炸 第四季》",
+                        "videoNameEn": "《The Big Bang Theory Season 4》",
+                        "url": "http://bisentence_movie.sogou.com/ff685256ad30b6c99a06759b46afddb9_7cccd70e6fb95be6c759257b8795f456591fca59"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/334ae739c2d3bef71ab483cd142c3ad8_18137.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/3600362f63c3de5f3091c0277f4c6f80_64361.mp3",
+                        "isLavafox": true,
+                        "en": "Ma'am, <em>Homeland</em> is over... The president is right. Ma'am? This is President Underwood. At this time, we have no idea who's responsible.",
+                        "zh": "女士，国安部已经...总统说得对。女士？我是安德伍德总统。眼下我们还不清楚谁对这起事件负责。",
+                        "videoNameZh": "《纸牌屋 第五季》",
+                        "videoNameEn": "《House of Cards Season 5》",
+                        "url": "http://bisentence_movie.sogou.com/699f35a76dde5b46c2ce9fbf60001852_5f183be1a8436d2a44ea427ed264be8453635be2"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/7eb0bec9540cbb2c5939554caf885c99_49670.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/9263d8d1c315b48e7fdc59b612ef84ea_22322.mp3",
+                        "isLavafox": true,
+                        "en": "Well, that was fast. It's my pre-packed disaster evacuation bag. It's recommended by the department of <em>Homeland</em> Security. And Sarah Connor.",
+                        "zh": "你动作还真快。这是我早准备好的避难行囊，国土安全部推荐的，还有莎拉·康纳 (\"终结者\"女主人公)。",
+                        "videoNameZh": "《生活大爆炸 第二季》",
+                        "videoNameEn": "《The Big Bang Theory Season 2》",
+                        "url": "http://bisentence_movie.sogou.com/eeeb5cd935a86ad8393ee30e49d09d87_ac84e2eb00a30a99b275068c46b82a8f3d59c017"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/ce4704185ed874d2da0aa0211b7c5d4d_3508.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/2309bd4943bb927a6b722ed9d9bff5de_71412.mp3",
+                        "isLavafox": true,
+                        "en": "I know Remy has just briefed you all, so, aside from the Secretary of <em>Homeland</em> Security, who is no longer with us, does anyone else object to this plan?",
+                        "zh": "我知道雷米已经向各位介绍过情况了，那么，除了国土安全部部长已经离职之外，还有谁持反对意见吗？（除了已经离职的国土安全部部长之外）",
+                        "videoNameZh": "《纸牌屋 第三季》",
+                        "videoNameEn": "《House of Cards Season 3》",
+                        "url": "http://bisentence_movie.sogou.com/8f2c508b7bcdcc012ff0e94131152a3e_0090aba3121020545b0e81043d57d873494e44b8"
+                    }
+                ]
+            },
+            "pic": "",
+            "voice": {
+                "phonetic": [
+                    {
+                        "text": "ˈhəʊmlænd",
+                        "type": "uk",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/8463_homeland_uk.mp3"
+                    },
+                    {
+                        "text": "ˈhoʊmlænd",
+                        "type": "usa",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/8463_homeland_usa.mp3"
+                    }
+                ]
+            },
+            "dictType": "oxford_buchong",
+            "CET6": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 3,
+                        "pos": "n",
+                        "chinese": "祖国; 家乡",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "homeland",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2016.6-2023.6年8年间全六级试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight>考纲释义</highlight>\n精选实考、考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2016-2023年51套试卷，包括阅读、听力、翻译等所有题型。\n\n<highlight>真题例句</highlight>\n精选2016-2023年8年间全六级试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 1,
+                "total_exam_freq": 3,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "the country a person comes from",
+                            "zh": "祖国; 家乡",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "In other words, the vast majority of what makes us culturally distinct from one another has nothing to do with our <highlight>homeland</highlight>.",
+                                    "month": 12,
+                                    "source": "CET6",
+                                    "coll": "",
+                                    "sentence_trans": "换句话说，绝大多数使我们在文化上与众不同的东西与我们的祖国毫无关系。",
+                                    "year": 2021,
+                                    "type": "阅读理解C",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "To reach their <highlight>homeland</highlight>, he must drive two and a half days from Houston, Texas.",
+                                    "month": 9,
+                                    "source": "CET6",
+                                    "coll": "",
+                                    "sentence_trans": "为了到达他们的家乡，他必须从德克萨斯州的休斯顿开车两天半。",
+                                    "year": 2020,
+                                    "type": "听力",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "The spread of epidemics to their <highlight>homeland</highlight>.",
+                                    "month": 6,
+                                    "source": "CET6",
+                                    "coll": "",
+                                    "sentence_trans": "流行病向他们祖国的传播。",
+                                    "year": 2017,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "word_affix": {
+                    "word": "homeland",
+                    "sub_affix_info_list": [
+                        {
+                            "affix": "home",
+                            "affix_mean": "n. 家"
+                        },
+                        {
+                            "affix": "land",
+                            "affix_mean": "n. 陆地"
+                        }
+                    ],
+                    "word_mean": "n. 家乡"
+                },
+                "exchange_info": {
+                    "word_pl": [
+                        "homelands"
+                    ]
+                }
+            },
+            "CET4": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 1,
+                        "pos": "n",
+                        "chinese": "祖国; 家乡",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "homeland",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2016.6-2023.6年8年间全四级试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight>考纲释义</highlight>\n精选实考、考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2016-2023年51套试卷，包括阅读、听力、翻译等所有题型。\n\n<highlight>真题例句</highlight>\n精选2016-2023年8年间试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 1,
+                "total_exam_freq": 1,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "the country a person comes from",
+                            "zh": "祖国; 家乡",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "The values and habits they bring from their own <highlight>homelands</highlight> help explain some of the success.",
+                                    "month": 6,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "他们从自己家乡带来的价值观和生活习惯有助于解释一些成功的原因。",
+                                    "year": 2023,
+                                    "type": "听力",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "word_affix": {
+                    "word": "homeland",
+                    "sub_affix_info_list": [
+                        {
+                            "affix": "home",
+                            "affix_mean": "n. 家"
+                        },
+                        {
+                            "affix": "land",
+                            "affix_mean": "n. 陆地"
+                        }
+                    ],
+                    "word_mean": "n. 家乡"
+                }
+            },
+            "gaokao": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 0,
+                        "pos": "n",
+                        "chinese": "祖国",
+                        "sense_tier_ratio": 0
+                    }
+                ],
+                "word": "homeland",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2015-2022年8年间全国卷和自主命题省市高考卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2015-2022年全国卷高考试卷，包括阅读、完形、单选、填空、听力、改错、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选各省市考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2015-2022年8年间全国卷和自主命题省市高考卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 1,
+                "total_exam_freq": 0,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "synonyms": "",
+                            "en": "",
+                            "zh": "祖国",
+                            "pos": "n",
+                            "antonyms": ""
+                        }
+                    ]
+                },
+                "word_affix": {
+                    "word": "homeland",
+                    "sub_affix_info_list": [
+                        {
+                            "affix": "home",
+                            "affix_mean": "n. 家"
+                        },
+                        {
+                            "affix": "land",
+                            "affix_mean": "n. 陆地"
+                        }
+                    ],
+                    "word_mean": "n. 家乡"
+                }
+            },
+            "zhongkao": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 4,
+                        "pos": "n",
+                        "chinese": "祖国",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "homeland",
+                "direction_info": {
+                    "ranges": 4,
+                    "description": "数据源自2018-2021年4年间全国各省市中考试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2018-2021年全国重点省市中考试卷，包括听力、阅读、完形、单选、填空、改错、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选各省市考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2018-2021年4年间全国各省市中考试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 1,
+                "total_exam_freq": 4,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "祖国",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "It’s a story about a young man fight for his <highlight>homeland</highlight>.",
+                                    "month": -1,
+                                    "source": "大连市卷",
+                                    "coll": "",
+                                    "sentence_trans": "这是一个关于一个年轻人为祖国而战的故事。",
+                                    "year": 2021,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "A young man lays down his pen and takes up a sword to fight for his <highlight>homeland</highlight>.",
+                                    "month": -1,
+                                    "source": "大连市卷",
+                                    "coll": "",
+                                    "sentence_trans": "一个年轻人放下手中的笔，拿起剑为他的祖国而战",
+                                    "year": 2021,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "How will Jane go back to her <highlight>homeland</highlight>?",
+                                    "month": -1,
+                                    "source": "恩施市卷",
+                                    "coll": "",
+                                    "sentence_trans": "简将如何回到她的祖国？",
+                                    "year": 2021,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "word_affix": {
+                    "sub_affix_info_list": [
+                        {
+                            "affix": "home",
+                            "affix_mean": "n. 家"
+                        },
+                        {
+                            "affix": "land",
+                            "affix_mean": "n. 陆地"
+                        }
+                    ],
+                    "word": "homeland",
+                    "word_mean": "n. 家乡"
+                }
+            },
+            "sentencesData": {
+                "status": 1,
+                "info": "notZh2En",
+                "data": {}
+            },
+            "isAutoMatch": false,
+            "Zh2En": false
+        },
+        "query": "homeland",
+        "result": "祖国",
+        "tabSelect": "detail",
+        "dictionaryType": "oxford_buchong",
+        "notFound_show": false,
+        "phoneticShow": "",
+        "globalShowTranslateRecord": "",
+        "pronPrefer": {
+            "type": "usa_1",
+            "speaker": "male",
+            "speed": "standard"
+        },
+        "ServerRecord": "",
+        "ServerUIGS": {
+            "version": "new",
+            "type": "all",
+            "stype": "success",
+            "terminal": "web",
+            "fr": "default",
+            "direction": "etoz",
+            "from": "en",
+            "to": "zh-CHS",
+            "len": 8,
+            "qtype": "text",
+            "qctype": "qc_1",
+            "dict_cover": 1,
+            "detail": 1,
+            "wordCardCover": 1,
+            "wordCardEn": 1,
+            "wordCardCh": 0,
+            "wordCardMinor": 0,
+            "wordCardNetmean": 0,
+            "wordDeform": 1,
+            "keyword": 0,
+            "bilingual": 1,
+            "simple": 0,
+            "levelList": 1,
+            "synonym": 1,
+            "antonym": 0,
+            "conjugate": 0,
+            "rootaffix": 1,
+            "baike_sogou": 1,
+            "baike_wiki": 0,
+            "wordDifference": 0,
+            "word_phrase": 1,
+            "secondQuery": 0,
+            "dict_oxford": 0,
+            "dict_newcentury": 0,
+            "zhongkaotab": 1,
+            "gaokaotab": 1,
+            "CET4tab": 1,
+            "CET6tab": 1,
+            "kaoyantab": 0,
+            "network_tab": 0,
+            "yinying_tab": 1,
+            "tuozhan_tab": 0,
+            "one_pic": 0,
+            "more_pic": 0,
+            "no_pic": 0,
+            "uuid": "18bbc1b2-dd79-4111-9862-794a1b0dcad8",
+            "from_type": 0,
+            "t_trans_ssr": 182
+        },
+        "ServerModelUIGS": {
+            "terminal": "web",
+            "type": "trans_model",
+            "pbtype": "pv",
+            "model_general": 1,
+            "model_medical": 1,
+            "model_finance": 1
+        },
+        "ServerSgtkn": "65C2C47DE83558F2FAFFD13B8B6864B9FA0D28836755A2BF",
+        "suggShow": false,
+        "suggestion": "",
+        "suggDirection": "",
+        "usualTop": "",
+        "baseDict": "",
+        "wordCardClick": false,
+        "isFrInput": false,
+        "kanaTips": {
+            "show": false,
+            "left": "",
+            "top": "",
+            "type": "",
+            "arrowLeft": ""
+        },
+        "currSentenceIndex": -1,
+        "prefixStrObj": {
+            "prefixStr": "",
+            "oriPrefixStr": ""
+        },
+        "selectTransBox": {
+            "show": false,
+            "right": 0,
+            "top": 0,
+            "paraphraseInfo": {
+                "word": "",
+                "from": "",
+                "to": "",
+                "area": ""
+            }
+        },
+        "sentenceLoading": false,
+        "newSentenceInfo": {
+            "sentence": "",
+            "candidateIndex": 0
+        },
+        "moreTipInfo": {
+            "opacity": 0,
+            "zIndex": -1
+        },
+        "paraphraseShowInfo": {
+            "card": 0,
+            "query": "",
+            "card_dict": 0
+        },
+        "selectType": "",
+        "wordPos": 0,
+        "candidateWord": "",
+        "syntaxVisible": false,
+        "syntaxStatus": 0
+    },
+    "language": {
+        "from": "auto",
+        "to": "zh-CHS",
+        "detect": "en",
+        "model": "general",
+        "detectShow": false,
+        "langMap": {
+            "current": ""
+        },
+        "zh2en": false,
+        "fromItemList": [
+            {
+                "lang": "auto",
+                "text": "自动检测",
+                "play": false
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "fi",
+                "text": "芬兰语",
+                "play": true,
+                "abbr": "芬"
+            },
+            {
+                "lang": "fr",
+                "text": "法语",
+                "play": true,
+                "abbr": "法"
+            },
+            {
+                "lang": "de",
+                "text": "德语",
+                "play": true,
+                "abbr": "德"
+            }
+        ],
+        "toItemList": [
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "vi",
+                "text": "越南语",
+                "play": true,
+                "abbr": "越"
+            },
+            {
+                "lang": "pt",
+                "text": "葡萄牙语",
+                "play": true,
+                "abbr": "葡"
+            },
+            {
+                "lang": "ko",
+                "text": "韩语",
+                "play": true,
+                "abbr": "韩"
+            }
+        ]
+    },
+    "voice": {
+        "from": {
+            "lang": "en",
+            "type": "from",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22homeland%22%2C%22spokenDialect%22%3A%22en%22%2C%22rate%22%3A%220.8%22%7D",
+            "list": [
+                {
+                    "type": "uk_0",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "ˈhəʊmlænd",
+                    "abbr": "英",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/8463_homeland_uk.mp3"
+                },
+                {
+                    "type": "usa_1",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "ˈhoʊmlænd",
+                    "abbr": "美",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/8463_homeland_usa.mp3"
+                }
+            ],
+            "stype": "phonetic",
+            "phoneticShow": [
+                {
+                    "text": "ˈhəʊmlænd",
+                    "type": "uk",
+                    "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/8463_homeland_uk.mp3"
+                },
+                {
+                    "text": "ˈhoʊmlænd",
+                    "type": "usa",
+                    "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/8463_homeland_usa.mp3"
+                }
+            ]
+        },
+        "to": {
+            "lang": "zh",
+            "type": "to",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22%E7%A5%96%E5%9B%BD%22%2C%22spokenDialect%22%3A%22zh-CHS%22%2C%22rate%22%3A%220.8%22%7D",
+            "stype": "normal"
+        }
+    }
+}

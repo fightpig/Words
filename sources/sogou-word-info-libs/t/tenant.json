@@ -1,0 +1,1689 @@
+{
+    "route": {
+        "name": "text",
+        "path": "/text",
+        "hash": "",
+        "query": {
+            "keyword": "tenant",
+            "transfrom": "auto",
+            "transto": "zh-CHS",
+            "model": "general",
+            "errcode": "s10"
+        },
+        "params": {},
+        "fullPath": "/text?keyword=tenant&transfrom=auto&transto=zh-CHS&model=general&errcode=s10",
+        "meta": {
+            "mtype": [
+                "textTranslate",
+                "language",
+                "voice"
+            ]
+        },
+        "from": {
+            "name": null,
+            "path": "/",
+            "hash": "",
+            "query": {},
+            "params": {},
+            "fullPath": "/",
+            "meta": {}
+        }
+    },
+    "common": {
+        "CONFIG": {
+            "wuid": 1733668929381,
+            "loginInfo": {},
+            "isIE": 0,
+            "isHitSsrSwitch": true,
+            "isHitWritebookSwitch": false,
+            "isHitAmsSwitch": true,
+            "promotionList": "{\n    \"pc_bottom\":{\n        \"imgsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\",\n        \"qcsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\"\n    },\n    \"pc_middle\":[\n        {\n            \"src\":\"//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c\",\n            \"bgColor\":\"#ffffff\",\n            \"link\":\"\"\n        }\n    ],\n    \"pc_survey\":{\n        \"icon\":\"//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750\",\n        \"link\":\"https://wj.qq.com/s2/8193148/806d/\"\n    }\n}",
+            "bannerData": [],
+            "isHitAsideSurvey": false,
+            "secretCode": 109984457,
+            "uuid": "2deaac61-a51c-40a7-841a-b5c72bdc6ede",
+            "referer": "",
+            "approveToken": "65D9CCF8CC117ED7DCDAF41F9C6C437CDD68C0D86755B041",
+            "loadTime": 1733668929383,
+            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0",
+            "fcp": "159.65.124.238",
+            "temporaryId": "",
+            "fileId": ""
+        },
+        "hotWords": [],
+        "isFromCollect": false,
+        "psdModify": {
+            "currentStep": 1,
+            "scode": "",
+            "username": ""
+        },
+        "loginStatus": true,
+        "feedBackModule": false,
+        "showPromotionPopup": {
+            "show": false,
+            "type": ""
+        },
+        "showPromotionPCDownload": false,
+        "showShareBomb": false,
+        "shareData": null,
+        "showAppDownLoad": false,
+        "showLoginDialog": false,
+        "showLoading": {
+            "show": false
+        },
+        "toast": {
+            "show": false,
+            "text": "",
+            "loading": false
+        },
+        "modelToast": {
+            "show": false,
+            "text": ""
+        },
+        "selectionGlobalShow": true,
+        "selectionInfo": {
+            "left": 0,
+            "top": 0,
+            "show": false,
+            "from": "",
+            "to": "",
+            "val": "",
+            "area": ""
+        },
+        "showConfirmDialog": false,
+        "promotionList": {
+            "pc_bottom": {
+                "imgsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png",
+                "qcsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png"
+            },
+            "pc_middle": [
+                {
+                    "src": "//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c",
+                    "bgColor": "#ffffff",
+                    "link": ""
+                }
+            ],
+            "pc_survey": {
+                "icon": "//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750",
+                "link": "https://wj.qq.com/s2/8193148/806d/"
+            }
+        },
+        "transTypeTxt": "text",
+        "fixedTabStatus": 0,
+        "bodyTop": 0,
+        "ifHideUserOperation": false
+    },
+    "textTranslate": {
+        "prevTransQuery": "",
+        "translateData": {
+            "translate": {
+                "zly": "zly",
+                "errorCode": "0",
+                "qc_type": "1",
+                "index": "content0",
+                "from": "en",
+                "source": "sogou",
+                "text": "tenant",
+                "to": "zh-CHS",
+                "id": "2deaac61-a51c-40a7-841a-b5c72bdc6ede",
+                "dit": "租借",
+                "orig_text": "tenant",
+                "md5": ""
+            },
+            "detect": {
+                "zly": "zly",
+                "detect": "en",
+                "errorCode": "0",
+                "language": "英语",
+                "id": "9a725ca0-b572-11ef-a6f5-bf4f75b091ff",
+                "text": "tenant"
+            },
+            "sgtkn": "65D9CCFACC117ED7DCDAF41F9C6C437CDD68C0D86755B041",
+            "wordCard": {
+                "title": "tenant",
+                "show": true,
+                "usualDict": [
+                    {
+                        "values": [
+                            "租户；房客；承租人；佃户"
+                        ],
+                        "pos": "n."
+                    },
+                    {
+                        "values": [
+                            "租住；租用；租赁（房屋、土地等）"
+                        ],
+                        "pos": "v."
+                    }
+                ],
+                "secondQuery": "",
+                "exchange": {
+                    "word_pl": [
+                        "tenants"
+                    ]
+                },
+                "levelList": [
+                    "四级",
+                    "六级",
+                    "考研",
+                    "考博",
+                    "托福",
+                    "GRE"
+                ]
+            },
+            "detail": {
+                "synonym": [
+                    {
+                        "word_list": [
+                            "lessee",
+                            "renter"
+                        ],
+                        "pos": "n.",
+                        "mean": "承租人；房客；佃户；居住者"
+                    },
+                    {
+                        "word_list": [
+                            "rent"
+                        ],
+                        "pos": "vt.",
+                        "mean": "租借"
+                    }
+                ],
+                "affix": {
+                    "word": "tenant",
+                    "sub_affix_info_list": [
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "maintenance",
+                                            "mean": "n. 维持；保持；供养；扶养；维护；养护；生活费；包揽诉讼罪；非法资助诉讼罪"
+                                        },
+                                        {
+                                            "word": "sustenance",
+                                            "mean": "n. 生活资料；食物；营养；生计；支撑物；维持物"
+                                        },
+                                        {
+                                            "word": "tenacious",
+                                            "mean": "adj. 紧握的；抓住不放的；顽强的；持久的"
+                                        },
+                                        {
+                                            "word": "tenacity",
+                                            "mean": "n. 固执；坚韧；黏性；不屈不挠"
+                                        }
+                                    ],
+                                    "derivatives": "tain, tin",
+                                    "affix_sense_chinese": "保持, 容纳, 抓住",
+                                    "affix_type": "stem"
+                                }
+                            ],
+                            "affix": "ten",
+                            "affix_mean": "拿住"
+                        },
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "applicant",
+                                            "mean": "n. 申请人"
+                                        },
+                                        {
+                                            "word": "assistant",
+                                            "mean": "n. 助理；助手；帮手"
+                                        },
+                                        {
+                                            "word": "attendant",
+                                            "mean": "n. 服务员；管理员；出席者；参与者；随从；仆从；侍臣"
+                                        },
+                                        {
+                                            "word": "merchant",
+                                            "mean": "n. 商人；批发商；供应商；热衷者；（Merchant）麦钱特（人名）"
+                                        },
+                                        {
+                                            "word": "migrant",
+                                            "mean": "n. 迁徙动物；流动季节工"
+                                        },
+                                        {
+                                            "word": "immigrant",
+                                            "mean": "n. 移民；侨民"
+                                        },
+                                        {
+                                            "word": "participant",
+                                            "mean": "n. 参与者；参加者"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "名词后缀, 某种人",
+                                    "affix_type": "suffix"
+                                },
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "coolant",
+                                            "mean": "n. 冷却剂；散热剂"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "名词后缀, …剂",
+                                    "affix_type": "suffix"
+                                },
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "abundant",
+                                            "mean": "adj. 大量的；多的；充足的；丰富的；富有的"
+                                        },
+                                        {
+                                            "word": "arrogant",
+                                            "mean": "adj. 自大的"
+                                        },
+                                        {
+                                            "word": "complaisant",
+                                            "mean": "adj. 殷勤的；讨好的；顺从的"
+                                        },
+                                        {
+                                            "word": "compliant",
+                                            "mean": "adj. 服从的；遵从的；顺从的；有可塑性的；柔量的；符合的；依从的；按照的；遵照的"
+                                        },
+                                        {
+                                            "word": "consonant",
+                                            "mean": "n. 辅音；辅音字母"
+                                        },
+                                        {
+                                            "word": "constant",
+                                            "mean": "adj. 不断的；连续的；不变的；始终如一的；忠诚的；忠实的；忠贞的"
+                                        },
+                                        {
+                                            "word": "defendant",
+                                            "mean": "n. 被告"
+                                        },
+                                        {
+                                            "word": "descendant",
+                                            "mean": "n. 子孙；后裔；后代；后继型产品"
+                                        },
+                                        {
+                                            "word": "distant",
+                                            "mean": "adj. 遥远的；久远的；不亲密的；冷淡的；矜持的；远亲的；隐约的；心不在焉的；在特定距离之外的；远处传来的"
+                                        },
+                                        {
+                                            "word": "dominant",
+                                            "mean": "adj. 最重要的；最强大的；最有影响的；居高临下的；显性的；优势的；最佳的；最好的；较好的"
+                                        },
+                                        {
+                                            "word": "dormant",
+                                            "mean": "adj. 冬眠的；在深睡的；休眠的；暂时不活动的；静止的；潜伏期的；卧睡的"
+                                        },
+                                        {
+                                            "word": "errant",
+                                            "mean": "adj. 做错事的；行为不轨的；出格的；漫游的；漂泊的；浪迹的；游侠的；游走的；错位的"
+                                        },
+                                        {
+                                            "word": "exorbitant",
+                                            "mean": "adj. 过高的"
+                                        },
+                                        {
+                                            "word": "expectant",
+                                            "mean": "adj. 期待的；预期的；期望的；期盼的；怀孕的"
+                                        },
+                                        {
+                                            "word": "extravagant",
+                                            "mean": "adj. 奢侈的；铺张的；浪费的；过分的；过度的；昂贵的；过高的；荒谬的；过于讲究"
+                                        },
+                                        {
+                                            "word": "important",
+                                            "mean": "adj. 重要的；重大的；位尊的；显要的；极具影响力和创造性的"
+                                        },
+                                        {
+                                            "word": "indignant",
+                                            "mean": "adj. 愤愤不平的；愤慨的；义愤的"
+                                        },
+                                        {
+                                            "word": "informant",
+                                            "mean": "n. 提供消息的人；原始材料提供者"
+                                        },
+                                        {
+                                            "word": "mercantile",
+                                            "mean": "adj. 贸易的；商业的；营利主义的；重商主义的"
+                                        },
+                                        {
+                                            "word": "pleasant",
+                                            "mean": "adj. 使人快乐的；让人开心的；令人愉快的；让人满意的；讨人喜欢的；友好的；体贴的"
+                                        },
+                                        {
+                                            "word": "pregnant",
+                                            "mean": "adj. 怀孕的；妊娠的；含义深远的；意义重大的；意味深长的；怀孕一段时间的"
+                                        },
+                                        {
+                                            "word": "propellant",
+                                            "mean": "n. 推进物；火箭燃料；气雾喷射剂；子弹发射火药"
+                                        },
+                                        {
+                                            "word": "relevant",
+                                            "mean": "adj. 紧密相关的；切题的；适宜的"
+                                        },
+                                        {
+                                            "word": "repugnant",
+                                            "mean": "adj. 使人极度反感的；难以接受的；与…矛盾；与…不相一致；顽抗的；难驾驭的"
+                                        },
+                                        {
+                                            "word": "resonant",
+                                            "mean": "adj. 响亮的；洪亮的；回响的；共振的；引起共振（或谐振）的；回音的；有共鸣性的；使对比色增强（或更浓烈）的；回响着（某种声音）的；引起想像的"
+                                        },
+                                        {
+                                            "word": "triumphant",
+                                            "mean": "adj. 赢得战争的；胜利的；欢欣鼓舞的"
+                                        },
+                                        {
+                                            "word": "aerial",
+                                            "mean": "n. 天线；空中技巧滑雪"
+                                        },
+                                        {
+                                            "word": "artificial",
+                                            "mean": "adj. 人工的；人造的；虚伪的；做作的；非自然存在的；人为的；假的；按约定而非随意的"
+                                        },
+                                        {
+                                            "word": "beneficial",
+                                            "mean": "adj. 效果好的；有好处的；有利的；权益的；有财产使用权的；受益的"
+                                        },
+                                        {
+                                            "word": "circumstantial",
+                                            "mean": "adj. 间接指认罪行但不能确证的；详尽的；详细的"
+                                        },
+                                        {
+                                            "word": "colloquial",
+                                            "mean": "adj. 用于日常交谈的；口语的；非正式的；非文学的"
+                                        },
+                                        {
+                                            "word": "commercial",
+                                            "mean": "adj. 贸易的；商业的；商务的；获利的；营利的；用作商品的；由广告收入资助的；大量供应且纯度不高的；商品化的；以获利为主要目的的"
+                                        },
+                                        {
+                                            "word": "congenial",
+                                            "mean": "adj. 志趣相投的；情投意合的；适意的；合意的；相宜的"
+                                        },
+                                        {
+                                            "word": "credential",
+                                            "mean": "n. 凭据；资质；证件；国书"
+                                        },
+                                        {
+                                            "word": "crucial",
+                                            "mean": "adj. 决定性的；关键性的；至关重要的；极好的"
+                                        },
+                                        {
+                                            "word": "equatorial",
+                                            "mean": "adj. 赤道的"
+                                        },
+                                        {
+                                            "word": "essential",
+                                            "mean": "adj. 必不可少的；绝对必要的；非常重要的；自发的；原发的；特发的；基本的；本质的；精华的；精髓的"
+                                        },
+                                        {
+                                            "word": "financial",
+                                            "mean": "adj. 财政的；金融的；有钱的；已缴费的"
+                                        },
+                                        {
+                                            "word": "influential",
+                                            "mean": "adj. 有影响的；有势力的"
+                                        },
+                                        {
+                                            "word": "millennial",
+                                            "mean": "adj. 一千年的；千禧年的；美满的；太平盛世的"
+                                        },
+                                        {
+                                            "word": "perennial",
+                                            "mean": "adj. 长期的；永久的；持久的；多年生的；反复的；一再的；定型的；不变的；常年的；终年的"
+                                        },
+                                        {
+                                            "word": "primordial",
+                                            "mean": "adj. 最早的；原始时代存在的；原始的；基本的；根本的；原生的"
+                                        },
+                                        {
+                                            "word": "secretarial",
+                                            "mean": "adj. 秘书的；部长的；书记的"
+                                        },
+                                        {
+                                            "word": "sequential",
+                                            "mean": "adj. 连续的；有序的；顺序的"
+                                        },
+                                        {
+                                            "word": "special",
+                                            "mean": "adj. 特别的；独特的；专门的；特设的；可贵的；格外好的；研究深入的；特殊（教育）的；特殊（矩阵）的"
+                                        },
+                                        {
+                                            "word": "superficial",
+                                            "mean": "adj. 表面的；外表的；肤浅的；粗浅的；表面上的；表皮的；粗略的；面积的；平方的"
+                                        },
+                                        {
+                                            "word": "tangential",
+                                            "mean": "adj. 正切的；沿切线方向的；偏离的；离题的；略为触及的；外围的"
+                                        },
+                                        {
+                                            "word": "torrential",
+                                            "mean": "adj. 倾泻而下的；奔流的；湍急的"
+                                        },
+                                        {
+                                            "word": "memorial",
+                                            "mean": "n. 纪念建筑；纪念碑；纪念馆；请愿书；纪念性的；记录；用以纪念的；追悼的；年代记；外交备忘录"
+                                        },
+                                        {
+                                            "word": "potential",
+                                            "mean": "adj. 潜在的；可能的"
+                                        },
+                                        {
+                                            "word": "presidential",
+                                            "mean": "adj. 统辖的；总统的；董事长；首长的"
+                                        },
+                                        {
+                                            "word": "provincial",
+                                            "mean": "adj. 省的；京都大邑以外地方的；外省的；外地的；低俗的；思想褊狭的；偏执的；乡气的"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "形容词后缀, 表示\"...的\", 无实义",
+                                    "affix_type": "suffix"
+                                },
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "examinant",
+                                            "mean": "n. 主考人; 审查员; 考试官"
+                                        },
+                                        {
+                                            "word": "inhabitant",
+                                            "mean": "n. 居民；住户；栖居的动物；取得（州，教区）居住权的人"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "动词的名词后缀, 表示\"某种人\"",
+                                    "affix_type": "suffix"
+                                },
+                                {
+                                    "sample": [],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "名词后缀, 表示\"物\"",
+                                    "affix_type": "suffix"
+                                }
+                            ],
+                            "affix": "-ant",
+                            "affix_mean": "某种人"
+                        }
+                    ],
+                    "word_mean": "n. 租户"
+                },
+                "wordRootInfo": {
+                    "word_info_list": [
+                        {
+                            "word": "tenantry",
+                            "pos_mean_info_list": [
+                                {
+                                    "pos": "n.",
+                                    "mean": "承租人；佃农；租出的财产；租赁"
+                                }
+                            ]
+                        }
+                    ],
+                    "root_word": "tenant"
+                },
+                "word_group": [
+                    {
+                        "brief_definition": "佃农；佃户",
+                        "phrase": "tenant farmer",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "原租户；老租户",
+                        "phrase": "sitting tenant",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "没有订契约的房客",
+                        "phrase": "tenant at will",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "法定租赁者",
+                        "phrase": "statutory tenant",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "转租",
+                        "phrase": "attorn tenant",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "租户记录",
+                        "phrase": "tenant records",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "搜索租户记录",
+                        "phrase": "searching tenant records",
+                        "pos": ""
+                    }
+                ],
+                "bilingual": [
+                    {
+                        "source": "The <em>tenant</em> was evicted due to arrears in rent.",
+                        "target": "由于租金欠款，房客被驱逐了。",
+                        "url": ""
+                    },
+                    {
+                        "source": "The new <em>tenant</em> is occupying the apartment next to mine.",
+                        "target": "新房客占据了我旁边的公寓。",
+                        "url": ""
+                    },
+                    {
+                        "source": "A <em>tenant</em> or an attendant?",
+                        "target": "房客，还是服务员?。",
+                        "url": "www.langlang.cc"
+                    },
+                    {
+                        "source": "Do you make a good <em>tenant</em>?",
+                        "target": "你又是否作个好房客呢？",
+                        "url": "www.doc88.com"
+                    },
+                    {
+                        "source": "Does your <em>tenant</em> have a lease?",
+                        "target": "您的房客是否有租契？",
+                        "url": "dict.youdao.com"
+                    },
+                    {
+                        "source": "The previous <em>tenant</em> just moved out yesterday.",
+                        "target": "上一位房客昨天刚搬走。",
+                        "url": "talk.oralpractice.com"
+                    },
+                    {
+                        "source": "<em>Tenant</em>: I want to report a broken hot water heater.",
+                        "target": "房客: 我想报告热水炉坏了.",
+                        "url": "www.youdao.com"
+                    },
+                    {
+                        "source": "Better an empty house than an ill <em>tenant</em>.",
+                        "target": "宁可让房子空着，不愿招恶房客进住。",
+                        "url": "so.html5.qq.com"
+                    },
+                    {
+                        "source": "The <em>tenant</em> was dispossessed for not paying his rent.",
+                        "target": "那名房客因未付房租而被赶走。",
+                        "url": "www.iciba.com"
+                    },
+                    {
+                        "source": "The <em>tenant</em> was evicted for non-payment of rent.",
+                        "target": "这个房客因为没有交房租而被赶出去了。",
+                        "url": "dict.cn"
+                    }
+                ]
+            },
+            "book": {
+                "yingyinNormal": [
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/5784af55ab08e203ecc1fde609fc5bb5_17166.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/010eb91c075649aa68f02ff0205d1515_63488.mp3",
+                        "isLavafox": true,
+                        "en": "I don't see why we can't get a new <em>tenant</em> when the Drewes are gone.",
+                        "zh": "德鲁一家搬走了，我觉得可以再找个佃户。",
+                        "videoNameZh": "《唐顿庄园 第六季》",
+                        "videoNameEn": "《Downton Abbey Season 6》",
+                        "url": "http://bisentence_movie.sogou.com/025f5ad03c8b74276cd42930a96f6d81_d8c9179be3093e43d78ece302bb02094d06c870d"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/34d2d19c723ad11a5a6dcd6da67c9085_43190.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/673d07ff56d5a460502086f3f435bde7_30880.mp3",
+                        "isLavafox": true,
+                        "en": "How is the luncheon for the <em>tenant</em> farmers coming along? Well, I think. Tom?",
+                        "zh": "佃户午餐准备得怎么样了？应该很好吧，汤姆？",
+                        "videoNameZh": "《唐顿庄园 第四季》",
+                        "videoNameEn": "《Downton Abbey Season 4》",
+                        "url": "http://bisentence_movie.sogou.com/9f649cf9236541a39354d486be50f253_af52c6b8234077b3d468e0abfc9ff887c10bd571"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/ed16ac8524b2f1f0c1489640f8396c3f_47421.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/72ed6aef0b54d3795bcf845b649440f2_65778.mp3",
+                        "isLavafox": true,
+                        "en": "Two to one, you lose. Not so fast. I believe we have one <em>tenant</em> here who has not made her voice heard.",
+                        "zh": "2比1，你输了。别急。我们还有一位租客没有发言呢。",
+                        "videoNameZh": "《生活大爆炸 第十一季》",
+                        "videoNameEn": "《The Big Bang Theory Season 11》",
+                        "url": "http://bisentence_movie.sogou.com/378db227555bccd9ee8580dfed46143a_73f5da0bdee8d0f899773338e9241492dd65c2c3"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/34d2d19c723ad11a5a6dcd6da67c9085_43190.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/e572d9d7a0cdcc624dd35f5b4255711c_65479.mp3",
+                        "isLavafox": true,
+                        "en": "What? How? There's a <em>tenant</em> farmer, whose family has been at Downton for years. I'm sure he can be trusted.",
+                        "zh": "什么？怎么做？有个佃户，他一家在唐顿生活了多年，我们能信任他。",
+                        "videoNameZh": "《唐顿庄园 第四季》",
+                        "videoNameEn": "《Downton Abbey Season 4》",
+                        "url": "http://bisentence_movie.sogou.com/c9b4631306d8e69345fac22c8e650af7_53ffb885e3ca72195c48c9a94a5b35281bbddb02"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/4d5c68d8993c6d3bba441515b5498f8e_33118.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/56e79388c83dabde189078fab894c6d9_1896.mp3",
+                        "isLavafox": true,
+                        "en": "Why? What do you mean? It's just, we got another notice about the space in Butte County. We'll find a <em>tenant</em>. It just takes time.",
+                        "zh": "为什么，你这是什么意思？就是，我们又收到催款通知了，布尤特县的那块空地。我们会找到租户的，就是需要时间。",
+                        "videoNameZh": "《萨利机长》",
+                        "videoNameEn": "《Sully》",
+                        "url": "http://bisentence_movie.sogou.com/896164947fde342440260b4aacf7640b_ca848d9b09a70046b9c855c1bf9172a620bc0918"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/84db3d779d7851ae88ef308619fcf09a_6035.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/82501fcf9f54824601999feadf085df0_58770.mp3",
+                        "isLavafox": true,
+                        "en": "In 1931, Thomas Edison confided to his friend, Henry Ford, \"we are like <em>tenant</em> farmers, chopping down the fence around our house for fuel, when we should be using nature's inexhaustible sources of energy, sun, wind, and tide.\"",
+                        "zh": "1931年，托马斯·爱迪生悄悄告诉他的朋友亨利·福特\"，我们就像土地租用人，当我们需要时，砍我们房子周边的篱笆做燃料，自然就是取之不尽用之不竭的能源，太阳，风和潮水\"。",
+                        "videoNameZh": "《透视美国》",
+                        "videoNameEn": "《America Revealed》",
+                        "url": "http://bisentence_movie.sogou.com/8dff0a46bc3701052f42eec51b5d60cb_362741f9f4d502cf81e30dab94e142f13f03c4ab"
+                    }
+                ]
+            },
+            "pic": "",
+            "voice": {
+                "phonetic": [
+                    {
+                        "text": "ˈtenənt",
+                        "type": "uk",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/10337_tenant_uk.mp3"
+                    },
+                    {
+                        "text": "ˈtenənt",
+                        "type": "usa",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/10337_tenant_usa.mp3"
+                    }
+                ]
+            },
+            "dictType": "oxford_buchong",
+            "kaoyan": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 0,
+                        "pos": "cn",
+                        "chinese": "承租人; 房客; 佃户",
+                        "sense_tier_ratio": 0
+                    }
+                ],
+                "word": "tenant",
+                "direction_info": {
+                    "ranges": 12,
+                    "description": "数据源自2012-2023年12年间全国考研试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2012-2023年全国考研英语一和考研英语二共24套考研试卷，包括阅读、完型填空、翻译、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选全国考研考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2012-2023年12年间全国考研英语一和考研英语二试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 1,
+                "total_exam_freq": 0,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "synonyms": "",
+                            "en": "",
+                            "zh": "承租人; 房客; 佃户",
+                            "pos": "cn",
+                            "antonyms": ""
+                        }
+                    ]
+                },
+                "word_affix": {
+                    "word": "tenant",
+                    "sub_affix_info_list": [
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "maintenance",
+                                            "mean": "n. 维持；保持；供养；扶养；维护；养护；生活费；包揽诉讼罪；非法资助诉讼罪"
+                                        },
+                                        {
+                                            "word": "sustenance",
+                                            "mean": "n. 生活资料；食物；营养；生计；支撑物；维持物"
+                                        },
+                                        {
+                                            "word": "tenacious",
+                                            "mean": "adj. 紧握的；抓住不放的；顽强的；持久的"
+                                        },
+                                        {
+                                            "word": "tenacity",
+                                            "mean": "n. 固执；坚韧；黏性；不屈不挠"
+                                        }
+                                    ],
+                                    "derivatives": "tain, tin",
+                                    "affix_sense_chinese": "保持, 容纳, 抓住",
+                                    "affix_type": "stem"
+                                }
+                            ],
+                            "affix": "ten",
+                            "affix_mean": "拿住"
+                        },
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "applicant",
+                                            "mean": "n. 申请人"
+                                        },
+                                        {
+                                            "word": "assistant",
+                                            "mean": "n. 助理；助手；帮手"
+                                        },
+                                        {
+                                            "word": "attendant",
+                                            "mean": "n. 服务员；管理员；出席者；参与者；随从；仆从；侍臣"
+                                        },
+                                        {
+                                            "word": "merchant",
+                                            "mean": "n. 商人；批发商；供应商；热衷者；（Merchant）麦钱特（人名）"
+                                        },
+                                        {
+                                            "word": "migrant",
+                                            "mean": "n. 迁徙动物；流动季节工"
+                                        },
+                                        {
+                                            "word": "immigrant",
+                                            "mean": "n. 移民；侨民"
+                                        },
+                                        {
+                                            "word": "participant",
+                                            "mean": "n. 参与者；参加者"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "名词后缀, 某种人",
+                                    "affix_type": "suffix"
+                                },
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "coolant",
+                                            "mean": "n. 冷却剂；散热剂"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "名词后缀, …剂",
+                                    "affix_type": "suffix"
+                                },
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "abundant",
+                                            "mean": "adj. 大量的；多的；充足的；丰富的；富有的"
+                                        },
+                                        {
+                                            "word": "arrogant",
+                                            "mean": "adj. 自大的"
+                                        },
+                                        {
+                                            "word": "complaisant",
+                                            "mean": "adj. 殷勤的；讨好的；顺从的"
+                                        },
+                                        {
+                                            "word": "compliant",
+                                            "mean": "adj. 服从的；遵从的；顺从的；有可塑性的；柔量的；符合的；依从的；按照的；遵照的"
+                                        },
+                                        {
+                                            "word": "consonant",
+                                            "mean": "n. 辅音；辅音字母"
+                                        },
+                                        {
+                                            "word": "constant",
+                                            "mean": "adj. 不断的；连续的；不变的；始终如一的；忠诚的；忠实的；忠贞的"
+                                        },
+                                        {
+                                            "word": "defendant",
+                                            "mean": "n. 被告"
+                                        },
+                                        {
+                                            "word": "descendant",
+                                            "mean": "n. 子孙；后裔；后代；后继型产品"
+                                        },
+                                        {
+                                            "word": "distant",
+                                            "mean": "adj. 遥远的；久远的；不亲密的；冷淡的；矜持的；远亲的；隐约的；心不在焉的；在特定距离之外的；远处传来的"
+                                        },
+                                        {
+                                            "word": "dominant",
+                                            "mean": "adj. 最重要的；最强大的；最有影响的；居高临下的；显性的；优势的；最佳的；最好的；较好的"
+                                        },
+                                        {
+                                            "word": "dormant",
+                                            "mean": "adj. 冬眠的；在深睡的；休眠的；暂时不活动的；静止的；潜伏期的；卧睡的"
+                                        },
+                                        {
+                                            "word": "errant",
+                                            "mean": "adj. 做错事的；行为不轨的；出格的；漫游的；漂泊的；浪迹的；游侠的；游走的；错位的"
+                                        },
+                                        {
+                                            "word": "exorbitant",
+                                            "mean": "adj. 过高的"
+                                        },
+                                        {
+                                            "word": "expectant",
+                                            "mean": "adj. 期待的；预期的；期望的；期盼的；怀孕的"
+                                        },
+                                        {
+                                            "word": "extravagant",
+                                            "mean": "adj. 奢侈的；铺张的；浪费的；过分的；过度的；昂贵的；过高的；荒谬的；过于讲究"
+                                        },
+                                        {
+                                            "word": "important",
+                                            "mean": "adj. 重要的；重大的；位尊的；显要的；极具影响力和创造性的"
+                                        },
+                                        {
+                                            "word": "indignant",
+                                            "mean": "adj. 愤愤不平的；愤慨的；义愤的"
+                                        },
+                                        {
+                                            "word": "informant",
+                                            "mean": "n. 提供消息的人；原始材料提供者"
+                                        },
+                                        {
+                                            "word": "mercantile",
+                                            "mean": "adj. 贸易的；商业的；营利主义的；重商主义的"
+                                        },
+                                        {
+                                            "word": "pleasant",
+                                            "mean": "adj. 使人快乐的；让人开心的；令人愉快的；让人满意的；讨人喜欢的；友好的；体贴的"
+                                        },
+                                        {
+                                            "word": "pregnant",
+                                            "mean": "adj. 怀孕的；妊娠的；含义深远的；意义重大的；意味深长的；怀孕一段时间的"
+                                        },
+                                        {
+                                            "word": "propellant",
+                                            "mean": "n. 推进物；火箭燃料；气雾喷射剂；子弹发射火药"
+                                        },
+                                        {
+                                            "word": "relevant",
+                                            "mean": "adj. 紧密相关的；切题的；适宜的"
+                                        },
+                                        {
+                                            "word": "repugnant",
+                                            "mean": "adj. 使人极度反感的；难以接受的；与…矛盾；与…不相一致；顽抗的；难驾驭的"
+                                        },
+                                        {
+                                            "word": "resonant",
+                                            "mean": "adj. 响亮的；洪亮的；回响的；共振的；引起共振（或谐振）的；回音的；有共鸣性的；使对比色增强（或更浓烈）的；回响着（某种声音）的；引起想像的"
+                                        },
+                                        {
+                                            "word": "triumphant",
+                                            "mean": "adj. 赢得战争的；胜利的；欢欣鼓舞的"
+                                        },
+                                        {
+                                            "word": "aerial",
+                                            "mean": "n. 天线；空中技巧滑雪"
+                                        },
+                                        {
+                                            "word": "artificial",
+                                            "mean": "adj. 人工的；人造的；虚伪的；做作的；非自然存在的；人为的；假的；按约定而非随意的"
+                                        },
+                                        {
+                                            "word": "beneficial",
+                                            "mean": "adj. 效果好的；有好处的；有利的；权益的；有财产使用权的；受益的"
+                                        },
+                                        {
+                                            "word": "circumstantial",
+                                            "mean": "adj. 间接指认罪行但不能确证的；详尽的；详细的"
+                                        },
+                                        {
+                                            "word": "colloquial",
+                                            "mean": "adj. 用于日常交谈的；口语的；非正式的；非文学的"
+                                        },
+                                        {
+                                            "word": "commercial",
+                                            "mean": "adj. 贸易的；商业的；商务的；获利的；营利的；用作商品的；由广告收入资助的；大量供应且纯度不高的；商品化的；以获利为主要目的的"
+                                        },
+                                        {
+                                            "word": "congenial",
+                                            "mean": "adj. 志趣相投的；情投意合的；适意的；合意的；相宜的"
+                                        },
+                                        {
+                                            "word": "credential",
+                                            "mean": "n. 凭据；资质；证件；国书"
+                                        },
+                                        {
+                                            "word": "crucial",
+                                            "mean": "adj. 决定性的；关键性的；至关重要的；极好的"
+                                        },
+                                        {
+                                            "word": "equatorial",
+                                            "mean": "adj. 赤道的"
+                                        },
+                                        {
+                                            "word": "essential",
+                                            "mean": "adj. 必不可少的；绝对必要的；非常重要的；自发的；原发的；特发的；基本的；本质的；精华的；精髓的"
+                                        },
+                                        {
+                                            "word": "financial",
+                                            "mean": "adj. 财政的；金融的；有钱的；已缴费的"
+                                        },
+                                        {
+                                            "word": "influential",
+                                            "mean": "adj. 有影响的；有势力的"
+                                        },
+                                        {
+                                            "word": "millennial",
+                                            "mean": "adj. 一千年的；千禧年的；美满的；太平盛世的"
+                                        },
+                                        {
+                                            "word": "perennial",
+                                            "mean": "adj. 长期的；永久的；持久的；多年生的；反复的；一再的；定型的；不变的；常年的；终年的"
+                                        },
+                                        {
+                                            "word": "primordial",
+                                            "mean": "adj. 最早的；原始时代存在的；原始的；基本的；根本的；原生的"
+                                        },
+                                        {
+                                            "word": "secretarial",
+                                            "mean": "adj. 秘书的；部长的；书记的"
+                                        },
+                                        {
+                                            "word": "sequential",
+                                            "mean": "adj. 连续的；有序的；顺序的"
+                                        },
+                                        {
+                                            "word": "special",
+                                            "mean": "adj. 特别的；独特的；专门的；特设的；可贵的；格外好的；研究深入的；特殊（教育）的；特殊（矩阵）的"
+                                        },
+                                        {
+                                            "word": "superficial",
+                                            "mean": "adj. 表面的；外表的；肤浅的；粗浅的；表面上的；表皮的；粗略的；面积的；平方的"
+                                        },
+                                        {
+                                            "word": "tangential",
+                                            "mean": "adj. 正切的；沿切线方向的；偏离的；离题的；略为触及的；外围的"
+                                        },
+                                        {
+                                            "word": "torrential",
+                                            "mean": "adj. 倾泻而下的；奔流的；湍急的"
+                                        },
+                                        {
+                                            "word": "memorial",
+                                            "mean": "n. 纪念建筑；纪念碑；纪念馆；请愿书；纪念性的；记录；用以纪念的；追悼的；年代记；外交备忘录"
+                                        },
+                                        {
+                                            "word": "potential",
+                                            "mean": "adj. 潜在的；可能的"
+                                        },
+                                        {
+                                            "word": "presidential",
+                                            "mean": "adj. 统辖的；总统的；董事长；首长的"
+                                        },
+                                        {
+                                            "word": "provincial",
+                                            "mean": "adj. 省的；京都大邑以外地方的；外省的；外地的；低俗的；思想褊狭的；偏执的；乡气的"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "形容词后缀, 表示\"...的\", 无实义",
+                                    "affix_type": "suffix"
+                                },
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "examinant",
+                                            "mean": "n. 主考人; 审查员; 考试官"
+                                        },
+                                        {
+                                            "word": "inhabitant",
+                                            "mean": "n. 居民；住户；栖居的动物；取得（州，教区）居住权的人"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "动词的名词后缀, 表示\"某种人\"",
+                                    "affix_type": "suffix"
+                                },
+                                {
+                                    "sample": [],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "名词后缀, 表示\"物\"",
+                                    "affix_type": "suffix"
+                                }
+                            ],
+                            "affix": "-ant",
+                            "affix_mean": "某种人"
+                        }
+                    ],
+                    "word_mean": "n. 租户"
+                }
+            },
+            "CET6": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 1,
+                        "pos": "n",
+                        "chinese": "房客",
+                        "sense_tier_ratio": 100
+                    },
+                    {
+                        "sense_tier": 0,
+                        "pos": "n",
+                        "chinese": "佃户",
+                        "sense_tier_ratio": 0
+                    }
+                ],
+                "word": "tenant",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2016.6-2023.6年8年间全六级试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight>考纲释义</highlight>\n精选实考、考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2016-2023年51套试卷，包括阅读、听力、翻译等所有题型。\n\n<highlight>真题例句</highlight>\n精选2016-2023年8年间全六级试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 1,
+                "total_exam_freq": 1,
+                "sense": {
+                    "sense_num": 2,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "房客",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "Movement out of city centers was widespread, and downtown <highlight>tenants</highlight> were predominantly made up of the working poor.",
+                                    "month": 12,
+                                    "source": "CET6",
+                                    "coll": "",
+                                    "sentence_trans": "从市中心迁出的现象很普遍，市中心的租户主要由贫困劳动者组成。",
+                                    "year": 2017,
+                                    "type": "阅读理解C",
+                                    "day": -1
+                                }
+                            ]
+                        },
+                        {
+                            "synonyms": "",
+                            "en": "",
+                            "zh": "佃户",
+                            "pos": "n",
+                            "antonyms": ""
+                        }
+                    ]
+                },
+                "word_affix": {
+                    "word": "tenant",
+                    "sub_affix_info_list": [
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "maintenance",
+                                            "mean": "n. 维持；保持；供养；扶养；维护；养护；生活费；包揽诉讼罪；非法资助诉讼罪"
+                                        },
+                                        {
+                                            "word": "sustenance",
+                                            "mean": "n. 生活资料；食物；营养；生计；支撑物；维持物"
+                                        },
+                                        {
+                                            "word": "tenacious",
+                                            "mean": "adj. 紧握的；抓住不放的；顽强的；持久的"
+                                        },
+                                        {
+                                            "word": "tenacity",
+                                            "mean": "n. 固执；坚韧；黏性；不屈不挠"
+                                        }
+                                    ],
+                                    "derivatives": "tain, tin",
+                                    "affix_sense_chinese": "保持, 容纳, 抓住",
+                                    "affix_type": "stem"
+                                }
+                            ],
+                            "affix": "ten",
+                            "affix_mean": "拿住"
+                        },
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "applicant",
+                                            "mean": "n. 申请人"
+                                        },
+                                        {
+                                            "word": "assistant",
+                                            "mean": "n. 助理；助手；帮手"
+                                        },
+                                        {
+                                            "word": "attendant",
+                                            "mean": "n. 服务员；管理员；出席者；参与者；随从；仆从；侍臣"
+                                        },
+                                        {
+                                            "word": "merchant",
+                                            "mean": "n. 商人；批发商；供应商；热衷者；（Merchant）麦钱特（人名）"
+                                        },
+                                        {
+                                            "word": "migrant",
+                                            "mean": "n. 迁徙动物；流动季节工"
+                                        },
+                                        {
+                                            "word": "immigrant",
+                                            "mean": "n. 移民；侨民"
+                                        },
+                                        {
+                                            "word": "participant",
+                                            "mean": "n. 参与者；参加者"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "名词后缀, 某种人",
+                                    "affix_type": "suffix"
+                                },
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "coolant",
+                                            "mean": "n. 冷却剂；散热剂"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "名词后缀, …剂",
+                                    "affix_type": "suffix"
+                                },
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "abundant",
+                                            "mean": "adj. 大量的；多的；充足的；丰富的；富有的"
+                                        },
+                                        {
+                                            "word": "arrogant",
+                                            "mean": "adj. 自大的"
+                                        },
+                                        {
+                                            "word": "complaisant",
+                                            "mean": "adj. 殷勤的；讨好的；顺从的"
+                                        },
+                                        {
+                                            "word": "compliant",
+                                            "mean": "adj. 服从的；遵从的；顺从的；有可塑性的；柔量的；符合的；依从的；按照的；遵照的"
+                                        },
+                                        {
+                                            "word": "consonant",
+                                            "mean": "n. 辅音；辅音字母"
+                                        },
+                                        {
+                                            "word": "constant",
+                                            "mean": "adj. 不断的；连续的；不变的；始终如一的；忠诚的；忠实的；忠贞的"
+                                        },
+                                        {
+                                            "word": "defendant",
+                                            "mean": "n. 被告"
+                                        },
+                                        {
+                                            "word": "descendant",
+                                            "mean": "n. 子孙；后裔；后代；后继型产品"
+                                        },
+                                        {
+                                            "word": "distant",
+                                            "mean": "adj. 遥远的；久远的；不亲密的；冷淡的；矜持的；远亲的；隐约的；心不在焉的；在特定距离之外的；远处传来的"
+                                        },
+                                        {
+                                            "word": "dominant",
+                                            "mean": "adj. 最重要的；最强大的；最有影响的；居高临下的；显性的；优势的；最佳的；最好的；较好的"
+                                        },
+                                        {
+                                            "word": "dormant",
+                                            "mean": "adj. 冬眠的；在深睡的；休眠的；暂时不活动的；静止的；潜伏期的；卧睡的"
+                                        },
+                                        {
+                                            "word": "errant",
+                                            "mean": "adj. 做错事的；行为不轨的；出格的；漫游的；漂泊的；浪迹的；游侠的；游走的；错位的"
+                                        },
+                                        {
+                                            "word": "exorbitant",
+                                            "mean": "adj. 过高的"
+                                        },
+                                        {
+                                            "word": "expectant",
+                                            "mean": "adj. 期待的；预期的；期望的；期盼的；怀孕的"
+                                        },
+                                        {
+                                            "word": "extravagant",
+                                            "mean": "adj. 奢侈的；铺张的；浪费的；过分的；过度的；昂贵的；过高的；荒谬的；过于讲究"
+                                        },
+                                        {
+                                            "word": "important",
+                                            "mean": "adj. 重要的；重大的；位尊的；显要的；极具影响力和创造性的"
+                                        },
+                                        {
+                                            "word": "indignant",
+                                            "mean": "adj. 愤愤不平的；愤慨的；义愤的"
+                                        },
+                                        {
+                                            "word": "informant",
+                                            "mean": "n. 提供消息的人；原始材料提供者"
+                                        },
+                                        {
+                                            "word": "mercantile",
+                                            "mean": "adj. 贸易的；商业的；营利主义的；重商主义的"
+                                        },
+                                        {
+                                            "word": "pleasant",
+                                            "mean": "adj. 使人快乐的；让人开心的；令人愉快的；让人满意的；讨人喜欢的；友好的；体贴的"
+                                        },
+                                        {
+                                            "word": "pregnant",
+                                            "mean": "adj. 怀孕的；妊娠的；含义深远的；意义重大的；意味深长的；怀孕一段时间的"
+                                        },
+                                        {
+                                            "word": "propellant",
+                                            "mean": "n. 推进物；火箭燃料；气雾喷射剂；子弹发射火药"
+                                        },
+                                        {
+                                            "word": "relevant",
+                                            "mean": "adj. 紧密相关的；切题的；适宜的"
+                                        },
+                                        {
+                                            "word": "repugnant",
+                                            "mean": "adj. 使人极度反感的；难以接受的；与…矛盾；与…不相一致；顽抗的；难驾驭的"
+                                        },
+                                        {
+                                            "word": "resonant",
+                                            "mean": "adj. 响亮的；洪亮的；回响的；共振的；引起共振（或谐振）的；回音的；有共鸣性的；使对比色增强（或更浓烈）的；回响着（某种声音）的；引起想像的"
+                                        },
+                                        {
+                                            "word": "triumphant",
+                                            "mean": "adj. 赢得战争的；胜利的；欢欣鼓舞的"
+                                        },
+                                        {
+                                            "word": "aerial",
+                                            "mean": "n. 天线；空中技巧滑雪"
+                                        },
+                                        {
+                                            "word": "artificial",
+                                            "mean": "adj. 人工的；人造的；虚伪的；做作的；非自然存在的；人为的；假的；按约定而非随意的"
+                                        },
+                                        {
+                                            "word": "beneficial",
+                                            "mean": "adj. 效果好的；有好处的；有利的；权益的；有财产使用权的；受益的"
+                                        },
+                                        {
+                                            "word": "circumstantial",
+                                            "mean": "adj. 间接指认罪行但不能确证的；详尽的；详细的"
+                                        },
+                                        {
+                                            "word": "colloquial",
+                                            "mean": "adj. 用于日常交谈的；口语的；非正式的；非文学的"
+                                        },
+                                        {
+                                            "word": "commercial",
+                                            "mean": "adj. 贸易的；商业的；商务的；获利的；营利的；用作商品的；由广告收入资助的；大量供应且纯度不高的；商品化的；以获利为主要目的的"
+                                        },
+                                        {
+                                            "word": "congenial",
+                                            "mean": "adj. 志趣相投的；情投意合的；适意的；合意的；相宜的"
+                                        },
+                                        {
+                                            "word": "credential",
+                                            "mean": "n. 凭据；资质；证件；国书"
+                                        },
+                                        {
+                                            "word": "crucial",
+                                            "mean": "adj. 决定性的；关键性的；至关重要的；极好的"
+                                        },
+                                        {
+                                            "word": "equatorial",
+                                            "mean": "adj. 赤道的"
+                                        },
+                                        {
+                                            "word": "essential",
+                                            "mean": "adj. 必不可少的；绝对必要的；非常重要的；自发的；原发的；特发的；基本的；本质的；精华的；精髓的"
+                                        },
+                                        {
+                                            "word": "financial",
+                                            "mean": "adj. 财政的；金融的；有钱的；已缴费的"
+                                        },
+                                        {
+                                            "word": "influential",
+                                            "mean": "adj. 有影响的；有势力的"
+                                        },
+                                        {
+                                            "word": "millennial",
+                                            "mean": "adj. 一千年的；千禧年的；美满的；太平盛世的"
+                                        },
+                                        {
+                                            "word": "perennial",
+                                            "mean": "adj. 长期的；永久的；持久的；多年生的；反复的；一再的；定型的；不变的；常年的；终年的"
+                                        },
+                                        {
+                                            "word": "primordial",
+                                            "mean": "adj. 最早的；原始时代存在的；原始的；基本的；根本的；原生的"
+                                        },
+                                        {
+                                            "word": "secretarial",
+                                            "mean": "adj. 秘书的；部长的；书记的"
+                                        },
+                                        {
+                                            "word": "sequential",
+                                            "mean": "adj. 连续的；有序的；顺序的"
+                                        },
+                                        {
+                                            "word": "special",
+                                            "mean": "adj. 特别的；独特的；专门的；特设的；可贵的；格外好的；研究深入的；特殊（教育）的；特殊（矩阵）的"
+                                        },
+                                        {
+                                            "word": "superficial",
+                                            "mean": "adj. 表面的；外表的；肤浅的；粗浅的；表面上的；表皮的；粗略的；面积的；平方的"
+                                        },
+                                        {
+                                            "word": "tangential",
+                                            "mean": "adj. 正切的；沿切线方向的；偏离的；离题的；略为触及的；外围的"
+                                        },
+                                        {
+                                            "word": "torrential",
+                                            "mean": "adj. 倾泻而下的；奔流的；湍急的"
+                                        },
+                                        {
+                                            "word": "memorial",
+                                            "mean": "n. 纪念建筑；纪念碑；纪念馆；请愿书；纪念性的；记录；用以纪念的；追悼的；年代记；外交备忘录"
+                                        },
+                                        {
+                                            "word": "potential",
+                                            "mean": "adj. 潜在的；可能的"
+                                        },
+                                        {
+                                            "word": "presidential",
+                                            "mean": "adj. 统辖的；总统的；董事长；首长的"
+                                        },
+                                        {
+                                            "word": "provincial",
+                                            "mean": "adj. 省的；京都大邑以外地方的；外省的；外地的；低俗的；思想褊狭的；偏执的；乡气的"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "形容词后缀, 表示\"...的\", 无实义",
+                                    "affix_type": "suffix"
+                                },
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "examinant",
+                                            "mean": "n. 主考人; 审查员; 考试官"
+                                        },
+                                        {
+                                            "word": "inhabitant",
+                                            "mean": "n. 居民；住户；栖居的动物；取得（州，教区）居住权的人"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "动词的名词后缀, 表示\"某种人\"",
+                                    "affix_type": "suffix"
+                                },
+                                {
+                                    "sample": [],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "名词后缀, 表示\"物\"",
+                                    "affix_type": "suffix"
+                                }
+                            ],
+                            "affix": "-ant",
+                            "affix_mean": "某种人"
+                        }
+                    ],
+                    "word_mean": "n. 租户"
+                }
+            },
+            "sentencesData": {
+                "status": 1,
+                "info": "notZh2En",
+                "data": {}
+            },
+            "isAutoMatch": false,
+            "Zh2En": false
+        },
+        "query": "tenant",
+        "result": "租借",
+        "tabSelect": "detail",
+        "dictionaryType": "oxford_buchong",
+        "notFound_show": false,
+        "phoneticShow": "",
+        "globalShowTranslateRecord": "",
+        "pronPrefer": {
+            "type": "usa_1",
+            "speaker": "male",
+            "speed": "standard"
+        },
+        "ServerRecord": "",
+        "ServerUIGS": {
+            "version": "new",
+            "type": "all",
+            "stype": "success",
+            "terminal": "web",
+            "fr": "default",
+            "direction": "etoz",
+            "from": "en",
+            "to": "zh-CHS",
+            "len": 6,
+            "qtype": "text",
+            "qctype": "qc_1",
+            "dict_cover": 1,
+            "detail": 1,
+            "wordCardCover": 1,
+            "wordCardEn": 1,
+            "wordCardCh": 0,
+            "wordCardMinor": 0,
+            "wordCardNetmean": 0,
+            "wordDeform": 1,
+            "keyword": 0,
+            "bilingual": 1,
+            "simple": 0,
+            "levelList": 1,
+            "synonym": 1,
+            "antonym": 0,
+            "conjugate": 1,
+            "rootaffix": 1,
+            "baike_sogou": 0,
+            "baike_wiki": 0,
+            "wordDifference": 0,
+            "word_phrase": 1,
+            "secondQuery": 0,
+            "dict_oxford": 0,
+            "dict_newcentury": 0,
+            "zhongkaotab": 0,
+            "gaokaotab": 0,
+            "CET4tab": 0,
+            "CET6tab": 1,
+            "kaoyantab": 1,
+            "network_tab": 0,
+            "yinying_tab": 1,
+            "tuozhan_tab": 0,
+            "one_pic": 0,
+            "more_pic": 0,
+            "no_pic": 0,
+            "uuid": "2deaac61-a51c-40a7-841a-b5c72bdc6ede",
+            "from_type": 0,
+            "t_trans_ssr": 180
+        },
+        "ServerModelUIGS": {
+            "terminal": "web",
+            "type": "trans_model",
+            "pbtype": "pv",
+            "model_general": 1,
+            "model_medical": 1,
+            "model_finance": 1
+        },
+        "ServerSgtkn": "65D9CCFACC117ED7DCDAF41F9C6C437CDD68C0D86755B041",
+        "suggShow": false,
+        "suggestion": "",
+        "suggDirection": "",
+        "usualTop": "",
+        "baseDict": "",
+        "wordCardClick": false,
+        "isFrInput": false,
+        "kanaTips": {
+            "show": false,
+            "left": "",
+            "top": "",
+            "type": "",
+            "arrowLeft": ""
+        },
+        "currSentenceIndex": -1,
+        "prefixStrObj": {
+            "prefixStr": "",
+            "oriPrefixStr": ""
+        },
+        "selectTransBox": {
+            "show": false,
+            "right": 0,
+            "top": 0,
+            "paraphraseInfo": {
+                "word": "",
+                "from": "",
+                "to": "",
+                "area": ""
+            }
+        },
+        "sentenceLoading": false,
+        "newSentenceInfo": {
+            "sentence": "",
+            "candidateIndex": 0
+        },
+        "moreTipInfo": {
+            "opacity": 0,
+            "zIndex": -1
+        },
+        "paraphraseShowInfo": {
+            "card": 0,
+            "query": "",
+            "card_dict": 0
+        },
+        "selectType": "",
+        "wordPos": 0,
+        "candidateWord": "",
+        "syntaxVisible": false,
+        "syntaxStatus": 0
+    },
+    "language": {
+        "from": "auto",
+        "to": "zh-CHS",
+        "detect": "en",
+        "model": "general",
+        "detectShow": false,
+        "langMap": {
+            "current": ""
+        },
+        "zh2en": false,
+        "fromItemList": [
+            {
+                "lang": "auto",
+                "text": "自动检测",
+                "play": false
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "fr",
+                "text": "法语",
+                "play": true,
+                "abbr": "法"
+            },
+            {
+                "lang": "vi",
+                "text": "越南语",
+                "play": true,
+                "abbr": "越"
+            },
+            {
+                "lang": "da",
+                "text": "丹麦语",
+                "play": true,
+                "abbr": "丹麦"
+            }
+        ],
+        "toItemList": [
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "ru",
+                "text": "俄语",
+                "play": true,
+                "abbr": "俄"
+            },
+            {
+                "lang": "vi",
+                "text": "越南语",
+                "play": true,
+                "abbr": "越"
+            },
+            {
+                "lang": "fr",
+                "text": "法语",
+                "play": true,
+                "abbr": "法"
+            }
+        ]
+    },
+    "voice": {
+        "from": {
+            "lang": "en",
+            "type": "from",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22tenant%22%2C%22spokenDialect%22%3A%22en%22%2C%22rate%22%3A%220.8%22%7D",
+            "list": [
+                {
+                    "type": "uk_0",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "ˈtenənt",
+                    "abbr": "英",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/10337_tenant_uk.mp3"
+                },
+                {
+                    "type": "usa_1",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "ˈtenənt",
+                    "abbr": "美",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/10337_tenant_usa.mp3"
+                }
+            ],
+            "stype": "phonetic",
+            "phoneticShow": [
+                {
+                    "text": "ˈtenənt",
+                    "type": "uk",
+                    "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/10337_tenant_uk.mp3"
+                }
+            ]
+        },
+        "to": {
+            "lang": "zh",
+            "type": "to",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22%E7%A7%9F%E5%80%9F%22%2C%22spokenDialect%22%3A%22zh-CHS%22%2C%22rate%22%3A%220.8%22%7D",
+            "stype": "normal"
+        }
+    }
+}

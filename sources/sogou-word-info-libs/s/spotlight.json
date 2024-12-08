@@ -1,0 +1,947 @@
+{
+    "route": {
+        "name": "text",
+        "path": "/text",
+        "hash": "",
+        "query": {
+            "keyword": "spotlight",
+            "transfrom": "auto",
+            "transto": "zh-CHS",
+            "model": "general",
+            "errcode": "s10"
+        },
+        "params": {},
+        "fullPath": "/text?keyword=spotlight&transfrom=auto&transto=zh-CHS&model=general&errcode=s10",
+        "meta": {
+            "mtype": [
+                "textTranslate",
+                "language",
+                "voice"
+            ]
+        },
+        "from": {
+            "name": null,
+            "path": "/",
+            "hash": "",
+            "query": {},
+            "params": {},
+            "fullPath": "/",
+            "meta": {}
+        }
+    },
+    "common": {
+        "CONFIG": {
+            "wuid": 1733668362532,
+            "loginInfo": {},
+            "isIE": 0,
+            "isHitSsrSwitch": true,
+            "isHitWritebookSwitch": false,
+            "isHitAmsSwitch": true,
+            "promotionList": "{\n    \"pc_bottom\":{\n        \"imgsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\",\n        \"qcsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\"\n    },\n    \"pc_middle\":[\n        {\n            \"src\":\"//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c\",\n            \"bgColor\":\"#ffffff\",\n            \"link\":\"\"\n        }\n    ],\n    \"pc_survey\":{\n        \"icon\":\"//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750\",\n        \"link\":\"https://wj.qq.com/s2/8193148/806d/\"\n    }\n}",
+            "bannerData": [],
+            "isHitAsideSurvey": false,
+            "secretCode": 109984457,
+            "uuid": "81a18f8c-645b-48bb-bb39-eeeff6523f22",
+            "referer": "",
+            "approveToken": "65D6E60DCB3C52E4F0F6C733F107DB4FF00E6D9A6755AE0A",
+            "loadTime": 1733668362534,
+            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0",
+            "fcp": "159.65.124.238",
+            "temporaryId": "",
+            "fileId": ""
+        },
+        "hotWords": [],
+        "isFromCollect": false,
+        "psdModify": {
+            "currentStep": 1,
+            "scode": "",
+            "username": ""
+        },
+        "loginStatus": true,
+        "feedBackModule": false,
+        "showPromotionPopup": {
+            "show": false,
+            "type": ""
+        },
+        "showPromotionPCDownload": false,
+        "showShareBomb": false,
+        "shareData": null,
+        "showAppDownLoad": false,
+        "showLoginDialog": false,
+        "showLoading": {
+            "show": false
+        },
+        "toast": {
+            "show": false,
+            "text": "",
+            "loading": false
+        },
+        "modelToast": {
+            "show": false,
+            "text": ""
+        },
+        "selectionGlobalShow": true,
+        "selectionInfo": {
+            "left": 0,
+            "top": 0,
+            "show": false,
+            "from": "",
+            "to": "",
+            "val": "",
+            "area": ""
+        },
+        "showConfirmDialog": false,
+        "promotionList": {
+            "pc_bottom": {
+                "imgsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png",
+                "qcsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png"
+            },
+            "pc_middle": [
+                {
+                    "src": "//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c",
+                    "bgColor": "#ffffff",
+                    "link": ""
+                }
+            ],
+            "pc_survey": {
+                "icon": "//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750",
+                "link": "https://wj.qq.com/s2/8193148/806d/"
+            }
+        },
+        "transTypeTxt": "text",
+        "fixedTabStatus": 0,
+        "bodyTop": 0,
+        "ifHideUserOperation": false
+    },
+    "textTranslate": {
+        "prevTransQuery": "",
+        "translateData": {
+            "translate": {
+                "zly": "zly",
+                "errorCode": "0",
+                "qc_type": "1",
+                "index": "content0",
+                "from": "en",
+                "source": "sogou",
+                "text": "spotlight",
+                "to": "zh-CHS",
+                "id": "81a18f8c-645b-48bb-bb39-eeeff6523f22",
+                "dit": "聚光灯",
+                "orig_text": "spotlight",
+                "md5": ""
+            },
+            "detect": {
+                "zly": "zly",
+                "detect": "en",
+                "errorCode": "0",
+                "language": "英语",
+                "id": "4893ea80-b571-11ef-8eee-770046f16e7e",
+                "text": "spotlight"
+            },
+            "sgtkn": "65D6E613CB3C52E4F0F6C733F107DB4FF00E6D9A6755AE0A",
+            "wordCard": {
+                "title": "spotlight",
+                "show": true,
+                "usualDict": [
+                    {
+                        "values": [
+                            "聚光灯；舞台灯光；聚光灯光束；聚光灯照亮的地方；公众注意的中心；焦点；瞩目；显著位置；特别报道"
+                        ],
+                        "pos": "n."
+                    },
+                    {
+                        "values": [
+                            "聚焦；突出；给予特别关注；使成为焦点；使公众注意；突出报道（以使公众注意）"
+                        ],
+                        "pos": "v."
+                    }
+                ],
+                "secondQuery": "",
+                "exchange": {
+                    "word_third": [
+                        "spotlights"
+                    ],
+                    "word_ing": [
+                        "spotlighting"
+                    ],
+                    "word_done": [
+                        "spotlighted"
+                    ],
+                    "word_pl": [
+                        "spotlights"
+                    ],
+                    "word_past": [
+                        "spotlighted"
+                    ]
+                },
+                "levelList": [
+                    "初中",
+                    "高中",
+                    "四级",
+                    "六级",
+                    "雅思",
+                    "托福"
+                ]
+            },
+            "detail": {
+                "synonym": [
+                    {
+                        "word_list": [
+                            "photospot",
+                            "revelation light"
+                        ],
+                        "pos": "n.",
+                        "mean": "聚光灯；反光灯；公众注意的中心"
+                    }
+                ],
+                "antonym": [
+                    {
+                        "word_list": [
+                            "background",
+                            "play down"
+                        ],
+                        "pos": "",
+                        "mean": ""
+                    }
+                ],
+                "affix": {
+                    "word": "spotlight",
+                    "sub_affix_info_list": [
+                        {
+                            "affix": "spot",
+                            "affix_mean": "n. 斑点"
+                        },
+                        {
+                            "affix": "light",
+                            "affix_mean": "n. 光"
+                        }
+                    ],
+                    "word_mean": "n. 聚光灯"
+                },
+                "word_group": [
+                    {
+                        "brief_definition": "聚光灯下；在聚光灯下；焦点",
+                        "phrase": "in the spotlight",
+                        "pos": ""
+                    }
+                ],
+                "bilingual": [
+                    {
+                        "source": "She is shying away from the <em>spotlight</em>.",
+                        "target": "她在聚光灯下显得有些害羞。",
+                        "url": ""
+                    },
+                    {
+                        "source": "He shunned the <em>spotlight</em> after the scandal.",
+                        "target": "丑闻之后，他避开了聚光灯。",
+                        "url": ""
+                    },
+                    {
+                        "source": "He likes to hog the <em>spotlight</em> during presentations.",
+                        "target": "他喜欢在演讲中贪婪地占有聚光灯。",
+                        "url": ""
+                    },
+                    {
+                        "source": "The diamond ring shone gleamingly under the <em>spotlight</em>.",
+                        "target": "钻戒在聚光灯下闪闪发光地闪耀。",
+                        "url": ""
+                    },
+                    {
+                        "source": "The <em>spotlight</em> highlighted the dancer's graceful movements.",
+                        "target": "聚光灯突出了舞者优雅的动作。",
+                        "url": ""
+                    },
+                    {
+                        "source": "The aerialist's costume sparkled under the <em>spotlight</em>.",
+                        "target": "空中飞人的服装在聚光灯下闪闪发光。",
+                        "url": ""
+                    },
+                    {
+                        "source": "The singer basked in the <em>spotlight</em> as the audience applauded.",
+                        "target": "歌手在观众的掌声中沐浴在聚光灯下。",
+                        "url": ""
+                    },
+                    {
+                        "source": "The athlete's performance catapulted him into the <em>spotlight</em>.",
+                        "target": "运动员的表现使他突然跃升到聚光灯下。",
+                        "url": ""
+                    },
+                    {
+                        "source": "The puppet looked almost lifelike under the <em>spotlight</em>.",
+                        "target": "在聚光灯下，这个木偶看起来几乎像真人一样。",
+                        "url": ""
+                    },
+                    {
+                        "source": "The actor thrust himself into the <em>spotlight</em> with his performance.",
+                        "target": "演员通过他的表演猛推自己进入聚光灯下。",
+                        "url": ""
+                    }
+                ],
+                "baike": {
+                    "showMore": true,
+                    "list": [
+                        {
+                            "lemmaTitle": "spotlight",
+                            "link": "https://baike.sogou.com/v7565155.htm?ch=sogou.fanyi",
+                            "abstract": "Spotlight是 Mac OS X v10.4 的一项快速、随打即找、系统支援的桌面搜寻引擎。 它使用 Metadata搜寻引擎，被设计为可以找到任何位于电脑中广泛的项目，包含文件、图片、音乐、应用程式、系统喜好设定控制台，也可以是文件或是PDF中指定的字。",
+                            "wapPic": "//img01.sogoucdn.com/v2/thumb/retype_exclude_gif/ext/auto/q/80/crop/xy/ai/w/140/h/140/resize/w/140?appid=201005&sign=dff3fea60094596f66ae30f85ef6d523&url=https%3A%2F%2Fpic.baike.soso.com%2Fugc%2Fbaikepic2%2F1951%2F20200621061343-7153467_jpeg_455_300_19858.jpg%2F0",
+                            "pcPic": "//img01.sogoucdn.com/v2/thumb/retype_exclude_gif/ext/auto/q/80/crop/xy/ai/w/140/h/140/resize/w/140?appid=201005&sign=dff3fea60094596f66ae30f85ef6d523&url=https%3A%2F%2Fpic.baike.soso.com%2Fugc%2Fbaikepic2%2F1951%2F20200621061343-7153467_jpeg_455_300_19858.jpg%2F0"
+                        },
+                        {
+                            "lemmaTitle": "聚焦",
+                            "link": "https://baike.sogou.com/v104525424.htm?ch=sogou.fanyi",
+                            "abstract": "《聚焦》（Spotlight）是由托马斯·麦卡锡执导，马克·鲁弗洛、迈克尔·基顿、瑞秋·麦克亚当斯、列维·施瑞博尔、约翰·斯拉特里等主演，乔希·辛格、汤姆·麦卡锡担任编剧的剧情电影，于2015年11月6日在美国上映。 影片讲述了“聚焦”是波士顿环球报的一个专栏，罗比·罗宾森（迈克尔·基顿 饰）是\"聚焦\"栏目的编辑，栏目拥有一个独立的调查小组，当马蒂·巴伦（列维·施瑞博尔饰）接替了环球报的总编辑一职，他开始指派罗宾森和他的团队，紧跟一桩被雪藏已久的案件的故事。 根据2022年11月BOX Office Mojo官网显示，该影片全球累计票房为9869万美元。 2015年，获得第87届美国国家评论协会奖年度佳片；2016年，获得第73届金球奖电影类最佳剧情片（提名）、第88届奥斯卡金像奖最佳影片、第69届英国电影学院奖电影奖最佳影片（提名）。",
+                            "wapPic": "//img02.sogoucdn.com/v2/thumb/retype_exclude_gif/ext/auto/q/80/crop/xy/ai/w/140/h/140/resize/w/140?appid=201005&sign=d610a5980ac37d41bc6ca1907c36f8ee&url=https%3A%2F%2Fpic.baike.soso.com%2Fugc%2Fbaikepic2%2F96%2F20220717163115-1835284247_png_2339_1559_2248510.jpg%2F0",
+                            "pcPic": "//img03.sogoucdn.com/v2/thumb/retype_exclude_gif/ext/auto/q/80/crop/xy/ai/w/140/h/140/resize/w/140?appid=201005&sign=d610a5980ac37d41bc6ca1907c36f8ee&url=https%3A%2F%2Fpic.baike.soso.com%2Fugc%2Fbaikepic2%2F96%2F20220717163115-1835284247_png_2339_1559_2248510.jpg%2F0"
+                        }
+                    ]
+                }
+            },
+            "book": {
+                "yingyinNormal": [
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/c147f8d54a969778fef4aa74fdb25c24_34800.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/8061e78183390ce8669575d152501d1a_72227.mp3",
+                        "isLavafox": true,
+                        "en": "He aches for the <em>spotlight</em>. He feels almost invisible without it.",
+                        "zh": "他渴望聚光灯，没有聚光灯，他几乎感觉自己是隐形的。",
+                        "videoNameZh": "《纸牌屋 第四季》",
+                        "videoNameEn": "《House of Cards Season 4》",
+                        "url": "http://bisentence_movie.sogou.com/ebee21283956121d843915cc5de0cf8b_a1ad603650bfe62e1a2e17301f3f1c0b77072485"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/69e52acd9e09b6a2ed378507a165e971_14638.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/660b2217d385ec522003e45e4795a52c_66706.mp3",
+                        "isLavafox": true,
+                        "en": "Is that a smile we see on B.'s lips? The <em>spotlight</em>'s on her for once, and S. actually helped her get it.",
+                        "zh": "我们看到的是B嘴角露出的笑容吗？她首次来到聚光灯下了，是S帮她争取的这个机会。",
+                        "videoNameZh": "《绯闻女孩 第一季》",
+                        "videoNameEn": "《Gossip Girl Season 1》",
+                        "url": "http://bisentence_movie.sogou.com/746e3367d0443ab5b0d931bf46c270f1_1d4479f80232a44ec01bae2342c6622483b702ef"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/69e52acd9e09b6a2ed378507a165e971_14638.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/c0648fa0e518265b0c7ce1d643e1389b_76083.mp3",
+                        "isLavafox": true,
+                        "en": "<em>Spotlight</em> on little J., now put to the test by one queen B..",
+                        "zh": "焦点现在小J身上，女王B给她出了道难题。",
+                        "videoNameZh": "《绯闻女孩 第一季》",
+                        "videoNameEn": "《Gossip Girl Season 1》",
+                        "url": "http://bisentence_movie.sogou.com/ce8373661df3d002457a1e8a7dfb3585_7c70584b558cb8277ce77d9443fd9b0c29023e0b"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/ef2251c62fc1b53f995cf777893bc2ff_45162.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/f32fb0f86c0684902ec924d641d906a2_18567.mp3",
+                        "isLavafox": true,
+                        "en": "Well, we don't seek the <em>spotlight</em>. I'm not suggesting you should.",
+                        "zh": "我们不想太受瞩目。我不是说你们非要如此。",
+                        "videoNameZh": "《纸牌屋 第二季》",
+                        "videoNameEn": "《House of Cards Season 2》",
+                        "url": "http://bisentence_movie.sogou.com/f285e7bfd152e3ced5af26d2402832dc_be291cc302b7da1ce4af1f9c74ca66502fe861d9"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/c147f8d54a969778fef4aa74fdb25c24_34800.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/e7a9304a7f79c0c4865724a79b51df3a_58335.mp3",
+                        "isLavafox": true,
+                        "en": "One candidate lays low so the other gets his or her moment in the <em>spotlight</em>.",
+                        "zh": "一名候选人保持低调，让另一名候选人得到最大关注。",
+                        "videoNameZh": "《纸牌屋 第四季》",
+                        "videoNameEn": "《House of Cards Season 4》",
+                        "url": "http://bisentence_movie.sogou.com/0bcaec9173f410fe5097c002b1ac01a6_f4d8c936d18eb0fc7fe53fc6b675869a2ee483b8"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/c147f8d54a969778fef4aa74fdb25c24_34800.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/44327a2a2a6b672f9751e1cb8ff6d5d1_73657.mp3",
+                        "isLavafox": true,
+                        "en": "The stage is too big and the <em>spotlight</em> too tempting for him to be a mere spectator.",
+                        "zh": "舞台太大，灯光太过诱人，他受不了...仅仅当一个观众。",
+                        "videoNameZh": "《纸牌屋 第四季》",
+                        "videoNameEn": "《House of Cards Season 4》",
+                        "url": "http://bisentence_movie.sogou.com/bae79d0197c5535980b73c0d1d14955c_6003916f178018037fd05a62f65ea1512daf3e93"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/ed16ac8524b2f1f0c1489640f8396c3f_47421.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/2773cd8c1f7563d64cd7cbd84afceebc_73809.mp3",
+                        "isLavafox": true,
+                        "en": "Anyway. I'm proud of you. And I'm going to try to do a better job of sharing the <em>spotlight</em> because we're a team.",
+                        "zh": "总而言之。我为你骄傲。我以后会尽量学习分享目光焦点因为我们是同一个队的。",
+                        "videoNameZh": "《生活大爆炸 第十一季》",
+                        "videoNameEn": "《The Big Bang Theory Season 11》",
+                        "url": "http://bisentence_movie.sogou.com/6d7d679261277e38a69ea943666facc5_7095d8a9e65f428884cb11dbb88b3bc17777a5da"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/8ef70835eb0d9663ca2d26c2a78b067d_46174.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/7c1c23038d8a4462a74da706e66bab1b_33890.mp3",
+                        "isLavafox": true,
+                        "en": "Nikita left to keep the <em>spotlight</em> and the danger away from us. She was Being Nikki, I know. Act first, think later. First degree martyr.",
+                        "zh": "她离开是为了引开视线，帮助我们远离危险。这是... -她的典型风格 我知道，先行动 再思考 典型的烈士",
+                        "videoNameZh": "《妮基塔 第四季》",
+                        "videoNameEn": "《Nikita Season 4》",
+                        "url": "http://bisentence_movie.sogou.com/e3bc929e03370bf6dae35408ffdd9a7a_29c58b9dd4c3adc6c012eec39dea4fd7e745898c"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/c147f8d54a969778fef4aa74fdb25c24_34800.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/ad99cd7360a514315ffe2f4135ae14e0_35964.mp3",
+                        "isLavafox": true,
+                        "en": "Fine, but fight back in a different way. This guy is... He's all <em>spotlight</em> and surface, and magazine covers and Twitter. Don't play his game.",
+                        "zh": "可以，但用另一种方式还击，这个人...他都是搞噱头，很肤浅，上杂志封面，玩推特，别玩他的游戏。",
+                        "videoNameZh": "《纸牌屋 第四季》",
+                        "videoNameEn": "《House of Cards Season 4》",
+                        "url": "http://bisentence_movie.sogou.com/9e044f5cec957cbacab93bfb183835c2_334121e37e9bce690e02ea5a7be1b3a7b6279fcb"
+                    }
+                ]
+            },
+            "pic": "",
+            "voice": {
+                "phonetic": [
+                    {
+                        "text": "ˈspɒtlaɪt",
+                        "type": "uk",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/13681_spotlight_uk.mp3"
+                    },
+                    {
+                        "text": "ˈspɑːtlaɪt",
+                        "type": "usa",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/13681_spotlight_usa.mp3"
+                    }
+                ]
+            },
+            "dictType": "oxford_buchong",
+            "CET6": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 1,
+                        "pos": "n",
+                        "chinese": "媒体和公众的注意",
+                        "sense_tier_ratio": 100
+                    },
+                    {
+                        "sense_tier": 0,
+                        "pos": "n",
+                        "chinese": "(舞台)聚光灯",
+                        "sense_tier_ratio": 0
+                    },
+                    {
+                        "sense_tier": 0,
+                        "pos": "vt",
+                        "chinese": "用聚光灯照",
+                        "sense_tier_ratio": 0
+                    },
+                    {
+                        "sense_tier": 0,
+                        "pos": "vt",
+                        "chinese": "特别关注",
+                        "sense_tier_ratio": 0
+                    },
+                    {
+                        "sense_tier": 0,
+                        "pos": "vt",
+                        "chinese": "突出报道",
+                        "sense_tier_ratio": 0
+                    }
+                ],
+                "word": "spotlight",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2016.6-2023.6年8年间全六级试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight>考纲释义</highlight>\n精选实考、考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2016-2023年51套试卷，包括阅读、听力、翻译等所有题型。\n\n<highlight>真题例句</highlight>\n精选2016-2023年8年间全六级试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 1,
+                "total_exam_freq": 1,
+                "sense": {
+                    "sense_num": 5,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "媒体和公众的注意",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "Collaborative projects mean you're sharing the <highlight>spotlight</highlight> with others.",
+                                    "month": 12,
+                                    "source": "CET6",
+                                    "coll": "",
+                                    "sentence_trans": "合作项目意味着你与他人共同分享公众的注意。",
+                                    "year": 2019,
+                                    "type": "听力",
+                                    "day": -1
+                                }
+                            ]
+                        },
+                        {
+                            "synonyms": "",
+                            "en": "",
+                            "zh": "(舞台)聚光灯",
+                            "pos": "n",
+                            "antonyms": ""
+                        },
+                        {
+                            "synonyms": "",
+                            "en": "",
+                            "zh": "用聚光灯照",
+                            "pos": "vt",
+                            "antonyms": ""
+                        },
+                        {
+                            "synonyms": "",
+                            "en": "",
+                            "zh": "特别关注",
+                            "pos": "vt",
+                            "antonyms": ""
+                        },
+                        {
+                            "synonyms": "",
+                            "en": "",
+                            "zh": "突出报道",
+                            "pos": "vt",
+                            "antonyms": ""
+                        }
+                    ]
+                },
+                "word_affix": {
+                    "word": "spotlight",
+                    "sub_affix_info_list": [
+                        {
+                            "affix": "spot",
+                            "affix_mean": "n. 斑点"
+                        },
+                        {
+                            "affix": "light",
+                            "affix_mean": "n. 光"
+                        }
+                    ],
+                    "word_mean": "n. 聚光灯"
+                }
+            },
+            "CET4": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 3,
+                        "pos": "n/v",
+                        "chinese": "聚光灯",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "spotlight",
+                "word_level_phrase_info": [
+                    {
+                        "brief_definition": "在聚光灯下",
+                        "phrase": "in the spotlight",
+                        "pos": "phr"
+                    }
+                ],
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2016.6-2023.6年8年间全四级试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight>考纲释义</highlight>\n精选实考、考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2016-2023年51套试卷，包括阅读、听力、翻译等所有题型。\n\n<highlight>真题例句</highlight>\n精选2016-2023年8年间试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 1,
+                "total_exam_freq": 3,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "聚光灯",
+                            "pos": "n/v",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "The sugar industry paid for research that shifted the focus away from sugar's role in heart disease—and put the <highlight>spotlight</highlight> squarely on dietary fat.",
+                                    "month": 6,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "制糖业为研究出资，将焦点从糖在心脏病中的作用转移开来——并将焦点直接放在膳食脂肪上。",
+                                    "year": 2021,
+                                    "type": "阅读理解C",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "They placed the sugar industry in the <highlight>spotlight</highlight> with their new findings.",
+                                    "month": 6,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "他们的新发现使制糖业成为焦点。",
+                                    "year": 2021,
+                                    "type": "阅读理解C",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "word_affix": {
+                    "word": "spotlight",
+                    "sub_affix_info_list": [
+                        {
+                            "affix": "spot",
+                            "affix_mean": "n. 斑点"
+                        },
+                        {
+                            "affix": "light",
+                            "affix_mean": "n. 光"
+                        }
+                    ],
+                    "word_mean": "n. 聚光灯"
+                },
+                "exchange_info": {
+                    "word_third": [
+                        "spotlights"
+                    ],
+                    "word_ing": [
+                        "spotlighting"
+                    ],
+                    "word_done": [
+                        "spotlighted"
+                    ],
+                    "word_pl": [
+                        "spotlights"
+                    ],
+                    "word_past": [
+                        "spotlighted"
+                    ]
+                }
+            },
+            "gaokao": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 3,
+                        "pos": "n",
+                        "chinese": "(舞台)聚光灯",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "spotlight",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2015-2022年8年间全国卷和自主命题省市高考卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2015-2022年全国卷高考试卷，包括阅读、完形、单选、填空、听力、改错、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选各省市考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2015-2022年8年间全国卷和自主命题省市高考卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 1,
+                "total_exam_freq": 3,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "(舞台)聚光灯",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "Directed sound allows companies to use sound in much the same way <highlight>spotlights</highlight> (聚光灯) are used in the theater.",
+                                    "month": -1,
+                                    "source": "天津卷",
+                                    "coll": "",
+                                    "sentence_trans": "定向声音允许公司像剧院中使用聚光灯一样使用声音。",
+                                    "year": 2020,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "A <highlight>spotlight</highlight> lights up only one section of a stage.",
+                                    "month": -1,
+                                    "source": "天津卷",
+                                    "coll": "",
+                                    "sentence_trans": "聚光灯只照亮舞台的一部分。",
+                                    "year": 2020,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "What feature do spotsounds and <highlight>spotlights</highlight> share?",
+                                    "month": -1,
+                                    "source": "天津卷",
+                                    "coll": "",
+                                    "sentence_trans": "聚声器和聚光灯有什么共同特征？",
+                                    "year": 2020,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "word_affix": {
+                    "word": "spotlight",
+                    "sub_affix_info_list": [
+                        {
+                            "affix": "spot",
+                            "affix_mean": "n. 斑点"
+                        },
+                        {
+                            "affix": "light",
+                            "affix_mean": "n. 光"
+                        }
+                    ],
+                    "word_mean": "n. 聚光灯"
+                }
+            },
+            "sentencesData": {
+                "status": 1,
+                "info": "notZh2En",
+                "data": {}
+            },
+            "isAutoMatch": false,
+            "Zh2En": false
+        },
+        "query": "spotlight",
+        "result": "聚光灯",
+        "tabSelect": "detail",
+        "dictionaryType": "oxford_buchong",
+        "notFound_show": false,
+        "phoneticShow": "",
+        "globalShowTranslateRecord": "",
+        "pronPrefer": {
+            "type": "usa_1",
+            "speaker": "male",
+            "speed": "standard"
+        },
+        "ServerRecord": "",
+        "ServerUIGS": {
+            "version": "new",
+            "type": "all",
+            "stype": "success",
+            "terminal": "web",
+            "fr": "default",
+            "direction": "etoz",
+            "from": "en",
+            "to": "zh-CHS",
+            "len": 9,
+            "qtype": "text",
+            "qctype": "qc_1",
+            "dict_cover": 1,
+            "detail": 1,
+            "wordCardCover": 1,
+            "wordCardEn": 1,
+            "wordCardCh": 0,
+            "wordCardMinor": 0,
+            "wordCardNetmean": 0,
+            "wordDeform": 1,
+            "keyword": 0,
+            "bilingual": 1,
+            "simple": 0,
+            "levelList": 1,
+            "synonym": 1,
+            "antonym": 1,
+            "conjugate": 0,
+            "rootaffix": 1,
+            "baike_sogou": 1,
+            "baike_wiki": 0,
+            "wordDifference": 0,
+            "word_phrase": 1,
+            "secondQuery": 0,
+            "dict_oxford": 0,
+            "dict_newcentury": 0,
+            "zhongkaotab": 0,
+            "gaokaotab": 1,
+            "CET4tab": 1,
+            "CET6tab": 1,
+            "kaoyantab": 0,
+            "network_tab": 0,
+            "yinying_tab": 1,
+            "tuozhan_tab": 0,
+            "one_pic": 0,
+            "more_pic": 0,
+            "no_pic": 0,
+            "uuid": "81a18f8c-645b-48bb-bb39-eeeff6523f22",
+            "from_type": 0,
+            "t_trans_ssr": 142
+        },
+        "ServerModelUIGS": {
+            "terminal": "web",
+            "type": "trans_model",
+            "pbtype": "pv",
+            "model_general": 1,
+            "model_medical": 1,
+            "model_finance": 1
+        },
+        "ServerSgtkn": "65D6E613CB3C52E4F0F6C733F107DB4FF00E6D9A6755AE0A",
+        "suggShow": false,
+        "suggestion": "",
+        "suggDirection": "",
+        "usualTop": "",
+        "baseDict": "",
+        "wordCardClick": false,
+        "isFrInput": false,
+        "kanaTips": {
+            "show": false,
+            "left": "",
+            "top": "",
+            "type": "",
+            "arrowLeft": ""
+        },
+        "currSentenceIndex": -1,
+        "prefixStrObj": {
+            "prefixStr": "",
+            "oriPrefixStr": ""
+        },
+        "selectTransBox": {
+            "show": false,
+            "right": 0,
+            "top": 0,
+            "paraphraseInfo": {
+                "word": "",
+                "from": "",
+                "to": "",
+                "area": ""
+            }
+        },
+        "sentenceLoading": false,
+        "newSentenceInfo": {
+            "sentence": "",
+            "candidateIndex": 0
+        },
+        "moreTipInfo": {
+            "opacity": 0,
+            "zIndex": -1
+        },
+        "paraphraseShowInfo": {
+            "card": 0,
+            "query": "",
+            "card_dict": 0
+        },
+        "selectType": "",
+        "wordPos": 0,
+        "candidateWord": "",
+        "syntaxVisible": false,
+        "syntaxStatus": 0
+    },
+    "language": {
+        "from": "auto",
+        "to": "zh-CHS",
+        "detect": "en",
+        "model": "general",
+        "detectShow": false,
+        "langMap": {
+            "current": ""
+        },
+        "zh2en": false,
+        "fromItemList": [
+            {
+                "lang": "auto",
+                "text": "自动检测",
+                "play": false
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "th",
+                "text": "泰语",
+                "play": true,
+                "abbr": "泰"
+            },
+            {
+                "lang": "fr",
+                "text": "法语",
+                "play": true,
+                "abbr": "法"
+            },
+            {
+                "lang": "tr",
+                "text": "土耳其语",
+                "play": false,
+                "abbr": "土"
+            }
+        ],
+        "toItemList": [
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "tr",
+                "text": "土耳其语",
+                "play": false,
+                "abbr": "土"
+            },
+            {
+                "lang": "ru",
+                "text": "俄语",
+                "play": true,
+                "abbr": "俄"
+            },
+            {
+                "lang": "ko",
+                "text": "韩语",
+                "play": true,
+                "abbr": "韩"
+            }
+        ]
+    },
+    "voice": {
+        "from": {
+            "lang": "en",
+            "type": "from",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22spotlight%22%2C%22spokenDialect%22%3A%22en%22%2C%22rate%22%3A%220.8%22%7D",
+            "list": [
+                {
+                    "type": "uk_0",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "ˈspɒtlaɪt",
+                    "abbr": "英",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/13681_spotlight_uk.mp3"
+                },
+                {
+                    "type": "usa_1",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "ˈspɑːtlaɪt",
+                    "abbr": "美",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/13681_spotlight_usa.mp3"
+                }
+            ],
+            "stype": "phonetic",
+            "phoneticShow": [
+                {
+                    "text": "ˈspɒtlaɪt",
+                    "type": "uk",
+                    "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/13681_spotlight_uk.mp3"
+                },
+                {
+                    "text": "ˈspɑːtlaɪt",
+                    "type": "usa",
+                    "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/13681_spotlight_usa.mp3"
+                }
+            ]
+        },
+        "to": {
+            "lang": "zh",
+            "type": "to",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22%E8%81%9A%E5%85%89%E7%81%AF%22%2C%22spokenDialect%22%3A%22zh-CHS%22%2C%22rate%22%3A%220.8%22%7D",
+            "stype": "normal"
+        }
+    }
+}

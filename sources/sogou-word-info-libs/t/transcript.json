@@ -1,0 +1,645 @@
+{
+    "route": {
+        "name": "text",
+        "path": "/text",
+        "hash": "",
+        "query": {
+            "keyword": "transcript",
+            "transfrom": "auto",
+            "transto": "zh-CHS",
+            "model": "general",
+            "errcode": "s10"
+        },
+        "params": {},
+        "fullPath": "/text?keyword=transcript&transfrom=auto&transto=zh-CHS&model=general&errcode=s10",
+        "meta": {
+            "mtype": [
+                "textTranslate",
+                "language",
+                "voice"
+            ]
+        },
+        "from": {
+            "name": null,
+            "path": "/",
+            "hash": "",
+            "query": {},
+            "params": {},
+            "fullPath": "/",
+            "meta": {}
+        }
+    },
+    "common": {
+        "CONFIG": {
+            "wuid": 1733669101503,
+            "loginInfo": {},
+            "isIE": 0,
+            "isHitSsrSwitch": true,
+            "isHitWritebookSwitch": false,
+            "isHitAmsSwitch": true,
+            "promotionList": "{\n    \"pc_bottom\":{\n        \"imgsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\",\n        \"qcsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\"\n    },\n    \"pc_middle\":[\n        {\n            \"src\":\"//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c\",\n            \"bgColor\":\"#ffffff\",\n            \"link\":\"\"\n        }\n    ],\n    \"pc_survey\":{\n        \"icon\":\"//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750\",\n        \"link\":\"https://wj.qq.com/s2/8193148/806d/\"\n    }\n}",
+            "bannerData": [],
+            "isHitAsideSurvey": false,
+            "secretCode": 109984457,
+            "uuid": "14ad99ce-0d58-415c-93ea-ebd63e8a3d5a",
+            "referer": "",
+            "approveToken": "65DA9D97F9214CE6EEE8C52DA71D17A6EE512D2B6755B0ED",
+            "loadTime": 1733669101505,
+            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0",
+            "fcp": "159.65.124.238",
+            "temporaryId": "",
+            "fileId": ""
+        },
+        "hotWords": [],
+        "isFromCollect": false,
+        "psdModify": {
+            "currentStep": 1,
+            "scode": "",
+            "username": ""
+        },
+        "loginStatus": true,
+        "feedBackModule": false,
+        "showPromotionPopup": {
+            "show": false,
+            "type": ""
+        },
+        "showPromotionPCDownload": false,
+        "showShareBomb": false,
+        "shareData": null,
+        "showAppDownLoad": false,
+        "showLoginDialog": false,
+        "showLoading": {
+            "show": false
+        },
+        "toast": {
+            "show": false,
+            "text": "",
+            "loading": false
+        },
+        "modelToast": {
+            "show": false,
+            "text": ""
+        },
+        "selectionGlobalShow": true,
+        "selectionInfo": {
+            "left": 0,
+            "top": 0,
+            "show": false,
+            "from": "",
+            "to": "",
+            "val": "",
+            "area": ""
+        },
+        "showConfirmDialog": false,
+        "promotionList": {
+            "pc_bottom": {
+                "imgsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png",
+                "qcsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png"
+            },
+            "pc_middle": [
+                {
+                    "src": "//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c",
+                    "bgColor": "#ffffff",
+                    "link": ""
+                }
+            ],
+            "pc_survey": {
+                "icon": "//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750",
+                "link": "https://wj.qq.com/s2/8193148/806d/"
+            }
+        },
+        "transTypeTxt": "text",
+        "fixedTabStatus": 0,
+        "bodyTop": 0,
+        "ifHideUserOperation": false
+    },
+    "textTranslate": {
+        "prevTransQuery": "",
+        "translateData": {
+            "translate": {
+                "zly": "zly",
+                "errorCode": "0",
+                "qc_type": "1",
+                "index": "content0",
+                "from": "en",
+                "source": "sogou",
+                "text": "transcript",
+                "to": "zh-CHS",
+                "id": "14ad99ce-0d58-415c-93ea-ebd63e8a3d5a",
+                "dit": "副本",
+                "orig_text": "transcript",
+                "md5": ""
+            },
+            "detect": {
+                "zly": "zly",
+                "detect": "en",
+                "errorCode": "0",
+                "language": "英语",
+                "id": "0109ca20-b573-11ef-8e60-cb6c6cb3b1a8",
+                "text": "transcript"
+            },
+            "sgtkn": "65DA9D98F9214CE6EEE8C52DA71D17A6EE512D2B6755B0ED",
+            "wordCard": {
+                "title": "transcript",
+                "show": true,
+                "usualDict": [
+                    {
+                        "values": [
+                            "成绩单；副本；抄本；打印本；文字记录；转录文本；（法庭的）笔录"
+                        ],
+                        "pos": "n."
+                    }
+                ],
+                "secondQuery": "",
+                "exchange": {
+                    "word_pl": [
+                        "transcripts"
+                    ]
+                },
+                "levelList": [
+                    "考博",
+                    "雅思",
+                    "托福"
+                ]
+            },
+            "detail": {
+                "synonym": [
+                    {
+                        "word_list": [
+                            "report",
+                            "repeat"
+                        ],
+                        "pos": "n.",
+                        "mean": "成绩单；抄本，副本；文字记录"
+                    }
+                ],
+                "affix": {
+                    "word": "transcript",
+                    "sub_affix_info_list": [
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "transcend",
+                                            "mean": "v. 超出；超越；胜过；超过"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "前缀trans-在辅音前的变形, 表示\"穿, 越\"",
+                                    "affix_type": "prefix"
+                                }
+                            ],
+                            "affix": "tran(s)-",
+                            "affix_mean": "穿, 越"
+                        },
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "description",
+                                            "mean": "n. 描述；描写；形容；类别"
+                                        },
+                                        {
+                                            "word": "descriptive",
+                                            "mean": "adj. 描述的；客观描述的；描写性的"
+                                        },
+                                        {
+                                            "word": "inscription",
+                                            "mean": "n. 铭文；碑文；题词；铭刻"
+                                        },
+                                        {
+                                            "word": "manuscript",
+                                            "mean": "n. 手写本；打字稿；手写稿"
+                                        },
+                                        {
+                                            "word": "prescription",
+                                            "mean": "n. 处方；药方；权威推荐；取得的时效；处方药；规定；开处方；开药方；指定"
+                                        },
+                                        {
+                                            "word": "subscription",
+                                            "mean": "n. 订阅；订购；认购；承购；认捐；捐赠；签名；附注；订阅费；会费"
+                                        }
+                                    ],
+                                    "derivatives": "scrib",
+                                    "affix_sense_chinese": "指\"写\"(=write)",
+                                    "affix_type": "stem"
+                                }
+                            ],
+                            "affix": "script",
+                            "affix_mean": "写"
+                        }
+                    ],
+                    "word_mean": "n. 文本"
+                },
+                "wordRootInfo": {
+                    "word_info_list": [
+                        {
+                            "word": "transcription",
+                            "pos_mean_info_list": [
+                                {
+                                    "pos": "n.",
+                                    "mean": "抄写；抄本；誊写"
+                                }
+                            ]
+                        },
+                        {
+                            "word": "transcriptionist",
+                            "pos_mean_info_list": [
+                                {
+                                    "pos": "n.",
+                                    "mean": "（美）直接根据录音打字的打字员"
+                                }
+                            ]
+                        }
+                    ],
+                    "root_word": "transcript"
+                },
+                "word_group": [
+                    {
+                        "brief_definition": "审判笔录；审理笔录；庭审笔录",
+                        "phrase": "trial transcript",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "成绩单；成绩报告单",
+                        "phrase": "academic transcript",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "大学成绩单",
+                        "phrase": "college transcript",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "高中成绩单；高中成绩表",
+                        "phrase": "high-school transcript",
+                        "pos": ""
+                    }
+                ],
+                "bilingual": [
+                    {
+                        "source": "Supporting documents for the qualifications of the new qualified person(s), e. g. certificate, <em>transcript</em>, copy.",
+                        "target": "新合资格人资历的证明文件，例如证书、成绩报告单及牌照副本等；",
+                        "url": "max.book118.com"
+                    },
+                    {
+                        "source": "Supporting documents for the qualifications of the new qualified person(s), e. g. certificate, <em>transcript</em>, copy of licence, etc.",
+                        "target": "新合资格人资历的证明文件，例如证书、成绩报告单及牌照副本等；",
+                        "url": "wenku.baidu.com"
+                    },
+                    {
+                        "source": "You can view your <em>transcript</em> online.",
+                        "target": "你可以在线查看你的成绩单。",
+                        "url": ""
+                    },
+                    {
+                        "source": "She has several A's on her <em>transcript</em>.",
+                        "target": "她的成绩单上有几门A。",
+                        "url": ""
+                    },
+                    {
+                        "source": "His <em>transcript</em> shows that he excelled in all his courses.",
+                        "target": "他的成绩单显示他在所有课程中都表现出色。",
+                        "url": ""
+                    },
+                    {
+                        "source": "I need a copy of my <em>transcript</em> to apply for college.",
+                        "target": "我需要一份我的成绩单来申请大学。",
+                        "url": ""
+                    },
+                    {
+                        "source": "<em>Transcript</em> of: March 13 (1)",
+                        "target": "文本：三月13日(1)",
+                        "url": "dict.youdao.com"
+                    },
+                    {
+                        "source": "He read a <em>transcript</em> of the interrogation.",
+                        "target": "他宣读了一份审讯笔录.",
+                        "url": "dict.youdao.com"
+                    },
+                    {
+                        "source": "The <em>transcript</em> of the discussion is terrible.",
+                        "target": "誊本的讨论，很可怕。",
+                        "url": "dict.so.163.com"
+                    },
+                    {
+                        "source": "An edited <em>transcript</em> of the interview follows.",
+                        "target": "以下是经过整理的访谈内容。",
+                        "url": "dict.youdao.com"
+                    }
+                ]
+            },
+            "book": {
+                "yingyinNormal": [
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/68eeb648a2ff0cbf1b553571b1bde0b8_47107.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/d00b206809dfb639bd73e2bdbafa2d98_13654.mp3",
+                        "isLavafox": true,
+                        "en": "I have been perusing your <em>transcript</em>. And, apropos of nothing, you know, not every kid is destined for college.",
+                        "zh": "我仔细查看了你的成绩单。随口说句，不是每个孩子都注定要上大学的。",
+                        "videoNameZh": "《摩登家庭 第八季》",
+                        "videoNameEn": "《Modern Family Season 8》",
+                        "url": "http://bisentence_movie.sogou.com/236b42caa060d63395a50fab32967a71_f425e128be0941d2051038c97f5e19d752efd8d8"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/ae9d6f2f04858f0af8517ff08116148e_6738.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/a28f09d59b51cdd10a05d7e2a31adf22_68241.mp3",
+                        "isLavafox": true,
+                        "en": "And you can bring it up, but if you don't, you should know that a bad final grade on your <em>transcript</em> could alter your future.",
+                        "zh": "你还可以提高，但是如果你提高不了，那你就要知道成绩单上的一个糟糕的成绩可能影响你的未来。",
+                        "videoNameZh": "《女孩成长记 第三季》",
+                        "videoNameEn": "《Girl Meets World Season 3》",
+                        "url": "http://bisentence_movie.sogou.com/a39ea14cf8eec6eb2f0c0a80da87d307_8a6a40fc472bb52dbbf2378c69be8130929176ed"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/ae9d6f2f04858f0af8517ff08116148e_6738.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/da32d755e0bd839a1c71f72a5ef34ee9_60776.mp3",
+                        "isLavafox": true,
+                        "en": "What? What's that? It's our high school <em>transcript</em>. It's what colleges use when they decide whether to accept you or not. And so far for you, not.",
+                        "zh": "什么？你说什么？我们的高中总成绩单。大学根据这个决定录不录取你。目前而言，你不会被录取了。",
+                        "videoNameZh": "《女孩成长记 第三季》",
+                        "videoNameEn": "《Girl Meets World Season 3》",
+                        "url": "http://bisentence_movie.sogou.com/3e409704642668a307881431aec1d518_2b401eae8134bc907bcc8a430246672991809f01"
+                    }
+                ]
+            },
+            "pic": "",
+            "voice": {
+                "phonetic": [
+                    {
+                        "text": "ˈtrænskrɪpt",
+                        "type": "uk",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/11424_transcript_uk.mp3"
+                    },
+                    {
+                        "text": "ˈtrænskrɪpt",
+                        "type": "usa",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/11424_transcript_usa.mp3"
+                    }
+                ]
+            },
+            "dictType": "oxford_buchong",
+            "sentencesData": {
+                "status": 1,
+                "info": "notZh2En",
+                "data": {}
+            },
+            "isAutoMatch": false,
+            "Zh2En": false
+        },
+        "query": "transcript",
+        "result": "副本",
+        "tabSelect": "detail",
+        "dictionaryType": "oxford_buchong",
+        "notFound_show": false,
+        "phoneticShow": "",
+        "globalShowTranslateRecord": "",
+        "pronPrefer": {
+            "type": "usa_1",
+            "speaker": "male",
+            "speed": "standard"
+        },
+        "ServerRecord": "",
+        "ServerUIGS": {
+            "version": "new",
+            "type": "all",
+            "stype": "success",
+            "terminal": "web",
+            "fr": "default",
+            "direction": "etoz",
+            "from": "en",
+            "to": "zh-CHS",
+            "len": 10,
+            "qtype": "text",
+            "qctype": "qc_1",
+            "dict_cover": 1,
+            "detail": 1,
+            "wordCardCover": 1,
+            "wordCardEn": 1,
+            "wordCardCh": 0,
+            "wordCardMinor": 0,
+            "wordCardNetmean": 0,
+            "wordDeform": 1,
+            "keyword": 0,
+            "bilingual": 1,
+            "simple": 0,
+            "levelList": 1,
+            "synonym": 1,
+            "antonym": 0,
+            "conjugate": 1,
+            "rootaffix": 1,
+            "baike_sogou": 0,
+            "baike_wiki": 0,
+            "wordDifference": 0,
+            "word_phrase": 1,
+            "secondQuery": 0,
+            "dict_oxford": 0,
+            "dict_newcentury": 0,
+            "zhongkaotab": 0,
+            "gaokaotab": 0,
+            "CET4tab": 0,
+            "CET6tab": 0,
+            "kaoyantab": 0,
+            "network_tab": 0,
+            "yinying_tab": 1,
+            "tuozhan_tab": 0,
+            "one_pic": 0,
+            "more_pic": 0,
+            "no_pic": 0,
+            "uuid": "14ad99ce-0d58-415c-93ea-ebd63e8a3d5a",
+            "from_type": 0,
+            "t_trans_ssr": 143
+        },
+        "ServerModelUIGS": {
+            "terminal": "web",
+            "type": "trans_model",
+            "pbtype": "pv",
+            "model_general": 1,
+            "model_medical": 1,
+            "model_finance": 1
+        },
+        "ServerSgtkn": "65DA9D98F9214CE6EEE8C52DA71D17A6EE512D2B6755B0ED",
+        "suggShow": false,
+        "suggestion": "",
+        "suggDirection": "",
+        "usualTop": "",
+        "baseDict": "",
+        "wordCardClick": false,
+        "isFrInput": false,
+        "kanaTips": {
+            "show": false,
+            "left": "",
+            "top": "",
+            "type": "",
+            "arrowLeft": ""
+        },
+        "currSentenceIndex": -1,
+        "prefixStrObj": {
+            "prefixStr": "",
+            "oriPrefixStr": ""
+        },
+        "selectTransBox": {
+            "show": false,
+            "right": 0,
+            "top": 0,
+            "paraphraseInfo": {
+                "word": "",
+                "from": "",
+                "to": "",
+                "area": ""
+            }
+        },
+        "sentenceLoading": false,
+        "newSentenceInfo": {
+            "sentence": "",
+            "candidateIndex": 0
+        },
+        "moreTipInfo": {
+            "opacity": 0,
+            "zIndex": -1
+        },
+        "paraphraseShowInfo": {
+            "card": 0,
+            "query": "",
+            "card_dict": 0
+        },
+        "selectType": "",
+        "wordPos": 0,
+        "candidateWord": "",
+        "syntaxVisible": false,
+        "syntaxStatus": 0
+    },
+    "language": {
+        "from": "auto",
+        "to": "zh-CHS",
+        "detect": "en",
+        "model": "general",
+        "detectShow": false,
+        "langMap": {
+            "current": ""
+        },
+        "zh2en": false,
+        "fromItemList": [
+            {
+                "lang": "auto",
+                "text": "自动检测",
+                "play": false
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "fr",
+                "text": "法语",
+                "play": true,
+                "abbr": "法"
+            },
+            {
+                "lang": "th",
+                "text": "泰语",
+                "play": true,
+                "abbr": "泰"
+            },
+            {
+                "lang": "ru",
+                "text": "俄语",
+                "play": true,
+                "abbr": "俄"
+            }
+        ],
+        "toItemList": [
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "ko",
+                "text": "韩语",
+                "play": true,
+                "abbr": "韩"
+            },
+            {
+                "lang": "ru",
+                "text": "俄语",
+                "play": true,
+                "abbr": "俄"
+            },
+            {
+                "lang": "fr",
+                "text": "法语",
+                "play": true,
+                "abbr": "法"
+            }
+        ]
+    },
+    "voice": {
+        "from": {
+            "lang": "en",
+            "type": "from",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22transcript%22%2C%22spokenDialect%22%3A%22en%22%2C%22rate%22%3A%220.8%22%7D",
+            "list": [
+                {
+                    "type": "uk_0",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "ˈtrænskrɪpt",
+                    "abbr": "英",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/11424_transcript_uk.mp3"
+                },
+                {
+                    "type": "usa_1",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "ˈtrænskrɪpt",
+                    "abbr": "美",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/11424_transcript_usa.mp3"
+                }
+            ],
+            "stype": "phonetic",
+            "phoneticShow": [
+                {
+                    "text": "ˈtrænskrɪpt",
+                    "type": "uk",
+                    "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/11424_transcript_uk.mp3"
+                }
+            ]
+        },
+        "to": {
+            "lang": "zh",
+            "type": "to",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22%E5%89%AF%E6%9C%AC%22%2C%22spokenDialect%22%3A%22zh-CHS%22%2C%22rate%22%3A%220.8%22%7D",
+            "stype": "normal"
+        }
+    }
+}

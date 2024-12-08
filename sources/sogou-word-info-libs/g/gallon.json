@@ -1,0 +1,758 @@
+{
+    "route": {
+        "name": "text",
+        "path": "/text",
+        "hash": "",
+        "query": {
+            "keyword": "gallon",
+            "transfrom": "auto",
+            "transto": "zh-CHS",
+            "model": "general",
+            "errcode": "s10"
+        },
+        "params": {},
+        "fullPath": "/text?keyword=gallon&transfrom=auto&transto=zh-CHS&model=general&errcode=s10",
+        "meta": {
+            "mtype": [
+                "textTranslate",
+                "language",
+                "voice"
+            ]
+        },
+        "from": {
+            "name": null,
+            "path": "/",
+            "hash": "",
+            "query": {},
+            "params": {},
+            "fullPath": "/",
+            "meta": {}
+        }
+    },
+    "common": {
+        "CONFIG": {
+            "wuid": 1733665243833,
+            "loginInfo": {},
+            "isIE": 0,
+            "isHitSsrSwitch": true,
+            "isHitWritebookSwitch": false,
+            "isHitAmsSwitch": true,
+            "promotionList": "{\n    \"pc_bottom\":{\n        \"imgsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\",\n        \"qcsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\"\n    },\n    \"pc_middle\":[\n        {\n            \"src\":\"//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c\",\n            \"bgColor\":\"#ffffff\",\n            \"link\":\"\"\n        }\n    ],\n    \"pc_survey\":{\n        \"icon\":\"//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750\",\n        \"link\":\"https://wj.qq.com/s2/8193148/806d/\"\n    }\n}",
+            "bannerData": [],
+            "isHitAsideSurvey": false,
+            "secretCode": 109984457,
+            "uuid": "6c4e7b0a-a376-440f-91b0-71b1410d00ce",
+            "referer": "",
+            "approveToken": "65C0DEB2D00866CFC5C3EC06A0C15B04C5EE0CC76755A1DB",
+            "loadTime": 1733665243835,
+            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0",
+            "fcp": "159.65.124.238",
+            "temporaryId": "",
+            "fileId": ""
+        },
+        "hotWords": [],
+        "isFromCollect": false,
+        "psdModify": {
+            "currentStep": 1,
+            "scode": "",
+            "username": ""
+        },
+        "loginStatus": true,
+        "feedBackModule": false,
+        "showPromotionPopup": {
+            "show": false,
+            "type": ""
+        },
+        "showPromotionPCDownload": false,
+        "showShareBomb": false,
+        "shareData": null,
+        "showAppDownLoad": false,
+        "showLoginDialog": false,
+        "showLoading": {
+            "show": false
+        },
+        "toast": {
+            "show": false,
+            "text": "",
+            "loading": false
+        },
+        "modelToast": {
+            "show": false,
+            "text": ""
+        },
+        "selectionGlobalShow": true,
+        "selectionInfo": {
+            "left": 0,
+            "top": 0,
+            "show": false,
+            "from": "",
+            "to": "",
+            "val": "",
+            "area": ""
+        },
+        "showConfirmDialog": false,
+        "promotionList": {
+            "pc_bottom": {
+                "imgsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png",
+                "qcsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png"
+            },
+            "pc_middle": [
+                {
+                    "src": "//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c",
+                    "bgColor": "#ffffff",
+                    "link": ""
+                }
+            ],
+            "pc_survey": {
+                "icon": "//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750",
+                "link": "https://wj.qq.com/s2/8193148/806d/"
+            }
+        },
+        "transTypeTxt": "text",
+        "fixedTabStatus": 0,
+        "bodyTop": 0,
+        "ifHideUserOperation": false
+    },
+    "textTranslate": {
+        "prevTransQuery": "",
+        "translateData": {
+            "translate": {
+                "zly": "zly",
+                "errorCode": "0",
+                "qc_type": "1",
+                "index": "content0",
+                "from": "en",
+                "source": "sogou",
+                "text": "gallon",
+                "to": "zh-CHS",
+                "id": "6c4e7b0a-a376-440f-91b0-71b1410d00ce",
+                "dit": "加仑",
+                "orig_text": "gallon",
+                "md5": ""
+            },
+            "detect": {
+                "zly": "zly",
+                "detect": "en",
+                "errorCode": "0",
+                "language": "英语",
+                "id": "05b05de0-b56a-11ef-be88-391574e65ae0",
+                "text": "gallon"
+            },
+            "sgtkn": "65C0DEB7D00866CFC5C3EC06A0C15B04C5EE0CC76755A1DB",
+            "wordCard": {
+                "title": "gallon",
+                "show": true,
+                "usualDict": [
+                    {
+                        "values": [
+                            "容量单位（等于4.54609升，英制）；容量单位（等于3.78541升，美制）；大量"
+                        ],
+                        "pos": "n."
+                    }
+                ],
+                "secondQuery": "",
+                "exchange": {
+                    "word_pl": [
+                        "gallons"
+                    ]
+                },
+                "levelList": [
+                    "高中",
+                    "四级",
+                    "六级",
+                    "考研",
+                    "GRE"
+                ]
+            },
+            "detail": {
+                "synonym": [
+                    {
+                        "word_list": [
+                            "gal"
+                        ],
+                        "pos": "n.",
+                        "mean": "加仑"
+                    }
+                ],
+                "word_group": [
+                    {
+                        "brief_definition": "英国加仑",
+                        "phrase": "imperial gallon",
+                        "pos": "n."
+                    }
+                ],
+                "bilingual": [
+                    {
+                        "source": "We need to buy a <em>gallon</em> of milk.",
+                        "target": "我们需要买一加仑牛奶。",
+                        "url": ""
+                    },
+                    {
+                        "source": "He drinks a <em>gallon</em> of water every day.",
+                        "target": "他每天喝一加仑水。",
+                        "url": ""
+                    },
+                    {
+                        "source": "This car can travel 30 miles per <em>gallon</em>.",
+                        "target": "这辆车每加仑可以行驶30英里。",
+                        "url": ""
+                    },
+                    {
+                        "source": "The recipe calls for a <em>gallon</em> of chicken broth.",
+                        "target": "这个食谱需要一加仑鸡汤。",
+                        "url": ""
+                    },
+                    {
+                        "source": "He dared his friend to chug a <em>gallon</em> of milk.",
+                        "target": "他挑战他的朋友大口喝一加仑牛奶。",
+                        "url": ""
+                    },
+                    {
+                        "source": "She bought a <em>gallon</em> of kerosene for the camping trip.",
+                        "target": "她为露营旅行买了一加仑煤油。",
+                        "url": ""
+                    },
+                    {
+                        "source": "I need to buy a <em>gallon</em> of milk from the store.",
+                        "target": "我需要从商店买一加仑牛奶。",
+                        "url": ""
+                    },
+                    {
+                        "source": "He drinks a <em>gallon</em> of water every day to stay hydrated.",
+                        "target": "他每天喝一加仑水来保持水分。",
+                        "url": ""
+                    },
+                    {
+                        "source": "They used a <em>gallon</em> of paint to cover the entire wall.",
+                        "target": "他们用了一加仑油漆来涂满整面墙。",
+                        "url": ""
+                    },
+                    {
+                        "source": "The car's fuel tank can hold up to 15 <em>gallon</em> of gasoline.",
+                        "target": "这辆车的油箱可以容纳15加仑汽油。",
+                        "url": ""
+                    }
+                ],
+                "baike": {
+                    "showMore": false,
+                    "list": [
+                        {
+                            "lemmaTitle": "加仑",
+                            "link": "https://baike.sogou.com/v106676.htm?ch=sogou.fanyi",
+                            "abstract": "加仑（Gallon）是一种英美度量衡的容量单位，又分为英制加仑和美制加仑。 英制加仑是一种使用于英国、其前殖民地和英联邦国家非正式标准化的单位，英国已于1995年完成了到国际单位制的转换。从官方而言，加仑只应用于美国、利比里亚和缅甸，而其他国家或地区则使用国际单位制，即米制，又称为公制。",
+                            "wapPic": "",
+                            "pcPic": ""
+                        },
+                        {
+                            "lemmaTitle": "gallon",
+                            "link": "https://baike.sogou.com/v168203942.htm?ch=sogou.fanyi",
+                            "abstract": "gallon，英文单词，主要用作名词，作名词时意思是“加仑（容量单位）”。",
+                            "wapPic": "",
+                            "pcPic": ""
+                        }
+                    ]
+                }
+            },
+            "book": {
+                "yingyinNormal": [
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/c147f8d54a969778fef4aa74fdb25c24_34800.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/dc8590e63500fc1bed921e6d40b41361_73766.mp3",
+                        "isLavafox": true,
+                        "en": "What are the projections on gas prices? North of 150 a barrel for oil. Six, maybe $7 a <em>gallon</em> for fuel.",
+                        "zh": "油价走势预测如何？每桶原油超过150美元，汽油每加仑6到7块。",
+                        "videoNameZh": "《纸牌屋 第四季》",
+                        "videoNameEn": "《House of Cards Season 4》",
+                        "url": "http://bisentence_movie.sogou.com/9fe975ebd448ab3c9f1c44ed034916fa_7a02da866d481ed9f0a9106a8ac6afa951eb109f"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/b0aac413f69a971e58772352502a07e3_67340.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/ecbff588d70f05ff46ccbce603c6015a_31294.mp3",
+                        "isLavafox": true,
+                        "en": "Roland. You were caught selling 50-<em>gallon</em> drums of GHB. Six of them... No. Yes, six. No.",
+                        "zh": "罗兰德，你可是在用50加仑的桶卖G水的时候被捕的，其中六桶…不。是的，六桶。不是。",
+                        "videoNameZh": "《傲骨贤妻第七季》",
+                        "videoNameEn": "《The Good Wife Season 7》",
+                        "url": "http://bisentence_movie.sogou.com/481374f6560e6424591145d5c8f461a1_cda353d9c404782714a4a3c0ffd5178e676ea541"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/cf2616af116b548887696dabfcc2fd97_68323.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/faab69ca1d14859ff564c03a5577e936_29697.mp3",
+                        "isLavafox": true,
+                        "en": "America is now the number one producer of oil and gas saving drivers about 70 cents a <em>gallon</em> at the pump over last Christmas.",
+                        "zh": "从上一个圣诞节以来，美国现在已是石油和天然气的第一生产大国，为司机们在每加仑的燃油上节省大约70美分。",
+                        "videoNameZh": "《奥巴马每周电视讲话》",
+                        "videoNameEn": "《Your Weekly Address》",
+                        "url": "http://bisentence_movie.sogou.com/798e1232221c8b8ce902db59bce82a01_9f9b18dd84e6f8a56840d86acb0e4d02f4057074"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/f7d7167294560b5a445295985c93469c_14515.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/afbec9cde8752b70eea70f38040a93a5_73387.mp3",
+                        "isLavafox": true,
+                        "en": "They're losing their homes to global warming, and my car gets, like, seven miles a <em>gallon</em>, so I felt bad.",
+                        "zh": "它们因为全球变暖而失去了家园，而我的车每三公里耗一升油。我挺过意不去。",
+                        "videoNameZh": "《生活大爆炸 第十季》",
+                        "videoNameEn": "《The Big Bang Theory Season 10》",
+                        "url": "http://bisentence_movie.sogou.com/67eadc78b0dd7113ab3f1d7ce9dc691b_12bef63a6139467a4de2369b0e70de3946917607"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/334ae739c2d3bef71ab483cd142c3ad8_18137.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/b0fdb15060adce7d526bca278198e5f8_56679.mp3",
+                        "isLavafox": true,
+                        "en": "Well, if we're Americans, then we are salesmen, right? That's our birthright. Cars and phones and a <em>gallon</em> of gas. That's not how I see America.",
+                        "zh": "既然我们是美国人，那我们就是推销员？这是我们天生的权利。卖车卖手机卖汽油。我眼里的美国可不是这样。",
+                        "videoNameZh": "《纸牌屋 第五季》",
+                        "videoNameEn": "《House of Cards Season 5》",
+                        "url": "http://bisentence_movie.sogou.com/987672b927320b44d320231d085b2084_613e644c5d36a17e9ca205984bc3a6714ca78391"
+                    }
+                ]
+            },
+            "pic": "",
+            "voice": {
+                "phonetic": [
+                    {
+                        "text": "ˈɡælən",
+                        "type": "uk",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/16007_gallon_uk.mp3"
+                    },
+                    {
+                        "text": "ˈɡælən",
+                        "type": "usa",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/16007_gallon_usa.mp3"
+                    }
+                ]
+            },
+            "dictType": "oxford_buchong",
+            "CET6": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 2,
+                        "pos": "n",
+                        "chinese": "[体积单位]加仑",
+                        "sense_tier_ratio": 66.67
+                    },
+                    {
+                        "sense_tier": 1,
+                        "pos": "n",
+                        "chinese": "多量",
+                        "sense_tier_ratio": 33.33
+                    }
+                ],
+                "word": "gallon",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2016.6-2023.6年8年间全六级试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight>考纲释义</highlight>\n精选实考、考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2016-2023年51套试卷，包括阅读、听力、翻译等所有题型。\n\n<highlight>真题例句</highlight>\n精选2016-2023年8年间全六级试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 1,
+                "total_exam_freq": 3,
+                "sense": {
+                    "sense_num": 2,
+                    "sense_info_list": [
+                        {
+                            "en": "a unit of capacity",
+                            "zh": "[体积单位]加仑",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "Each second, the Amazon pours some 55 million <highlight>gallons</highlight> of water into the Atlantic; there, at its mouth, stands one island larger than Switzerland.",
+                                    "month": 6,
+                                    "source": "CET6",
+                                    "coll": "",
+                                    "sentence_trans": "亚马逊每秒向大西洋注入约5500万加仑的水；在它的入海口，矗立着一个比瑞士还大的岛屿。",
+                                    "year": 2018,
+                                    "type": "听力",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "There was just this egg floating about in <highlight>gallons</highlight> of fat and raw bacon.",
+                                    "month": 12,
+                                    "source": "CET6",
+                                    "coll": "",
+                                    "sentence_trans": "这只鸡蛋漂浮在大量的脂肪和生培根中。",
+                                    "year": 2016,
+                                    "type": "听力",
+                                    "day": -1
+                                }
+                            ]
+                        },
+                        {
+                            "synonyms": "",
+                            "en": "a large volume of something",
+                            "zh": "多量",
+                            "pos": "n",
+                            "antonyms": ""
+                        }
+                    ]
+                },
+                "exchange_info": {
+                    "word_pl": [
+                        "gallons"
+                    ]
+                }
+            },
+            "CET4": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 2,
+                        "pos": "n",
+                        "chinese": "加仑",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "gallon",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2016.6-2023.6年8年间全四级试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight>考纲释义</highlight>\n精选实考、考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2016-2023年51套试卷，包括阅读、听力、翻译等所有题型。\n\n<highlight>真题例句</highlight>\n精选2016-2023年8年间试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 1,
+                "total_exam_freq": 2,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "加仑",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "31 per <highlight>gallon</highlight> and was often much higher in recent years.",
+                                    "month": 12,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "每加仑31美元，最近几年通常要高得多。",
+                                    "year": 2017,
+                                    "type": "听力",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "71 per <highlight>gallon</highlight>.",
+                                    "month": 12,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "每加仑71英镑。",
+                                    "year": 2017,
+                                    "type": "听力",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            "gaokao": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 3,
+                        "pos": "n",
+                        "chinese": "加仑(液量单位)",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "gallon",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2015-2022年8年间全国卷和自主命题省市高考卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2015-2022年全国卷高考试卷，包括阅读、完形、单选、填空、听力、改错、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选各省市考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2015-2022年8年间全国卷和自主命题省市高考卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 1,
+                "total_exam_freq": 3,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "加仑(液量单位)",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "It flies using a 23-gallon tank of gas and bums 5 <highlight>gallons</highlight> per hour in the air.",
+                                    "month": -1,
+                                    "source": "全国卷2",
+                                    "coll": "",
+                                    "sentence_trans": "它使用23加仑的邮箱飞行，每小时在空中燃烧5加仑。",
+                                    "year": 2017,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "On the ground, it gets 35 miles per <highlight>gallon</highlight>.",
+                                    "month": -1,
+                                    "source": "全国卷2",
+                                    "coll": "",
+                                    "sentence_trans": "在地面上，每加仑汽油可以行驶35英里。",
+                                    "year": 2017,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            "sentencesData": {
+                "status": 1,
+                "info": "notZh2En",
+                "data": {}
+            },
+            "isAutoMatch": false,
+            "Zh2En": false
+        },
+        "query": "gallon",
+        "result": "加仑",
+        "tabSelect": "detail",
+        "dictionaryType": "oxford_buchong",
+        "notFound_show": false,
+        "phoneticShow": "",
+        "globalShowTranslateRecord": "",
+        "pronPrefer": {
+            "type": "usa_1",
+            "speaker": "male",
+            "speed": "standard"
+        },
+        "ServerRecord": "",
+        "ServerUIGS": {
+            "version": "new",
+            "type": "all",
+            "stype": "success",
+            "terminal": "web",
+            "fr": "default",
+            "direction": "etoz",
+            "from": "en",
+            "to": "zh-CHS",
+            "len": 6,
+            "qtype": "text",
+            "qctype": "qc_1",
+            "dict_cover": 1,
+            "detail": 1,
+            "wordCardCover": 1,
+            "wordCardEn": 1,
+            "wordCardCh": 0,
+            "wordCardMinor": 0,
+            "wordCardNetmean": 0,
+            "wordDeform": 1,
+            "keyword": 0,
+            "bilingual": 1,
+            "simple": 0,
+            "levelList": 1,
+            "synonym": 1,
+            "antonym": 0,
+            "conjugate": 0,
+            "rootaffix": 0,
+            "baike_sogou": 1,
+            "baike_wiki": 0,
+            "wordDifference": 0,
+            "word_phrase": 1,
+            "secondQuery": 0,
+            "dict_oxford": 0,
+            "dict_newcentury": 0,
+            "zhongkaotab": 0,
+            "gaokaotab": 1,
+            "CET4tab": 1,
+            "CET6tab": 1,
+            "kaoyantab": 0,
+            "network_tab": 0,
+            "yinying_tab": 1,
+            "tuozhan_tab": 0,
+            "one_pic": 0,
+            "more_pic": 0,
+            "no_pic": 0,
+            "uuid": "6c4e7b0a-a376-440f-91b0-71b1410d00ce",
+            "from_type": 0,
+            "t_trans_ssr": 179
+        },
+        "ServerModelUIGS": {
+            "terminal": "web",
+            "type": "trans_model",
+            "pbtype": "pv",
+            "model_general": 1,
+            "model_medical": 1,
+            "model_finance": 1
+        },
+        "ServerSgtkn": "65C0DEB7D00866CFC5C3EC06A0C15B04C5EE0CC76755A1DB",
+        "suggShow": false,
+        "suggestion": "",
+        "suggDirection": "",
+        "usualTop": "",
+        "baseDict": "",
+        "wordCardClick": false,
+        "isFrInput": false,
+        "kanaTips": {
+            "show": false,
+            "left": "",
+            "top": "",
+            "type": "",
+            "arrowLeft": ""
+        },
+        "currSentenceIndex": -1,
+        "prefixStrObj": {
+            "prefixStr": "",
+            "oriPrefixStr": ""
+        },
+        "selectTransBox": {
+            "show": false,
+            "right": 0,
+            "top": 0,
+            "paraphraseInfo": {
+                "word": "",
+                "from": "",
+                "to": "",
+                "area": ""
+            }
+        },
+        "sentenceLoading": false,
+        "newSentenceInfo": {
+            "sentence": "",
+            "candidateIndex": 0
+        },
+        "moreTipInfo": {
+            "opacity": 0,
+            "zIndex": -1
+        },
+        "paraphraseShowInfo": {
+            "card": 0,
+            "query": "",
+            "card_dict": 0
+        },
+        "selectType": "",
+        "wordPos": 0,
+        "candidateWord": "",
+        "syntaxVisible": false,
+        "syntaxStatus": 0
+    },
+    "language": {
+        "from": "auto",
+        "to": "zh-CHS",
+        "detect": "en",
+        "model": "general",
+        "detectShow": false,
+        "langMap": {
+            "current": ""
+        },
+        "zh2en": false,
+        "fromItemList": [
+            {
+                "lang": "auto",
+                "text": "自动检测",
+                "play": false
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "fr",
+                "text": "法语",
+                "play": true,
+                "abbr": "法"
+            },
+            {
+                "lang": "tr",
+                "text": "土耳其语",
+                "play": false,
+                "abbr": "土"
+            },
+            {
+                "lang": "de",
+                "text": "德语",
+                "play": true,
+                "abbr": "德"
+            }
+        ],
+        "toItemList": [
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "fr",
+                "text": "法语",
+                "play": true,
+                "abbr": "法"
+            },
+            {
+                "lang": "ko",
+                "text": "韩语",
+                "play": true,
+                "abbr": "韩"
+            },
+            {
+                "lang": "tr",
+                "text": "土耳其语",
+                "play": false,
+                "abbr": "土"
+            }
+        ]
+    },
+    "voice": {
+        "from": {
+            "lang": "en",
+            "type": "from",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22gallon%22%2C%22spokenDialect%22%3A%22en%22%2C%22rate%22%3A%220.8%22%7D",
+            "list": [
+                {
+                    "type": "uk_0",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "ˈɡælən",
+                    "abbr": "英",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/16007_gallon_uk.mp3"
+                },
+                {
+                    "type": "usa_1",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "ˈɡælən",
+                    "abbr": "美",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/16007_gallon_usa.mp3"
+                }
+            ],
+            "stype": "phonetic",
+            "phoneticShow": [
+                {
+                    "text": "ˈɡælən",
+                    "type": "uk",
+                    "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/16007_gallon_uk.mp3"
+                }
+            ]
+        },
+        "to": {
+            "lang": "zh",
+            "type": "to",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22%E5%8A%A0%E4%BB%91%22%2C%22spokenDialect%22%3A%22zh-CHS%22%2C%22rate%22%3A%220.8%22%7D",
+            "stype": "normal"
+        }
+    }
+}

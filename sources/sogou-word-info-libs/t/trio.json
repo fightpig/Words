@@ -1,0 +1,557 @@
+{
+    "route": {
+        "name": "text",
+        "path": "/text",
+        "hash": "",
+        "query": {
+            "keyword": "trio",
+            "transfrom": "auto",
+            "transto": "zh-CHS",
+            "model": "general",
+            "errcode": "s10"
+        },
+        "params": {},
+        "fullPath": "/text?keyword=trio&transfrom=auto&transto=zh-CHS&model=general&errcode=s10",
+        "meta": {
+            "mtype": [
+                "textTranslate",
+                "language",
+                "voice"
+            ]
+        },
+        "from": {
+            "name": null,
+            "path": "/",
+            "hash": "",
+            "query": {},
+            "params": {},
+            "fullPath": "/",
+            "meta": {}
+        }
+    },
+    "common": {
+        "CONFIG": {
+            "wuid": 1733669167274,
+            "loginInfo": {},
+            "isIE": 0,
+            "isHitSsrSwitch": true,
+            "isHitWritebookSwitch": false,
+            "isHitAmsSwitch": true,
+            "promotionList": "{\n    \"pc_bottom\":{\n        \"imgsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\",\n        \"qcsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\"\n    },\n    \"pc_middle\":[\n        {\n            \"src\":\"//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c\",\n            \"bgColor\":\"#ffffff\",\n            \"link\":\"\"\n        }\n    ],\n    \"pc_survey\":{\n        \"icon\":\"//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750\",\n        \"link\":\"https://wj.qq.com/s2/8193148/806d/\"\n    }\n}",
+            "bannerData": [],
+            "isHitAsideSurvey": false,
+            "secretCode": 109984457,
+            "uuid": "7da40a58-a9ad-45f4-a0f5-f7224d725019",
+            "referer": "",
+            "approveToken": "65DAEEAF8148268F8485AB47CA5B17AC84D4F9C56755B12F",
+            "loadTime": 1733669167276,
+            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0",
+            "fcp": "159.65.124.238",
+            "temporaryId": "",
+            "fileId": ""
+        },
+        "hotWords": [],
+        "isFromCollect": false,
+        "psdModify": {
+            "currentStep": 1,
+            "scode": "",
+            "username": ""
+        },
+        "loginStatus": true,
+        "feedBackModule": false,
+        "showPromotionPopup": {
+            "show": false,
+            "type": ""
+        },
+        "showPromotionPCDownload": false,
+        "showShareBomb": false,
+        "shareData": null,
+        "showAppDownLoad": false,
+        "showLoginDialog": false,
+        "showLoading": {
+            "show": false
+        },
+        "toast": {
+            "show": false,
+            "text": "",
+            "loading": false
+        },
+        "modelToast": {
+            "show": false,
+            "text": ""
+        },
+        "selectionGlobalShow": true,
+        "selectionInfo": {
+            "left": 0,
+            "top": 0,
+            "show": false,
+            "from": "",
+            "to": "",
+            "val": "",
+            "area": ""
+        },
+        "showConfirmDialog": false,
+        "promotionList": {
+            "pc_bottom": {
+                "imgsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png",
+                "qcsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png"
+            },
+            "pc_middle": [
+                {
+                    "src": "//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c",
+                    "bgColor": "#ffffff",
+                    "link": ""
+                }
+            ],
+            "pc_survey": {
+                "icon": "//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750",
+                "link": "https://wj.qq.com/s2/8193148/806d/"
+            }
+        },
+        "transTypeTxt": "text",
+        "fixedTabStatus": 0,
+        "bodyTop": 0,
+        "ifHideUserOperation": false
+    },
+    "textTranslate": {
+        "prevTransQuery": "",
+        "translateData": {
+            "translate": {
+                "zly": "zly",
+                "errorCode": "0",
+                "qc_type": "1",
+                "index": "content0",
+                "from": "en",
+                "source": "sogou",
+                "text": "trio",
+                "to": "zh-CHS",
+                "id": "7da40a58-a9ad-45f4-a0f5-f7224d725019",
+                "dit": "三人组",
+                "orig_text": "trio",
+                "md5": ""
+            },
+            "detect": {
+                "zly": "zly",
+                "detect": "en",
+                "errorCode": "0",
+                "language": "英语",
+                "id": "283dcce0-b573-11ef-b2dd-9d43bc4c8f08",
+                "text": "trio"
+            },
+            "sgtkn": "65DAEEB58148268F8485AB47CA5B17AC84D4F9C56755B12F",
+            "wordCard": {
+                "title": "trio",
+                "show": true,
+                "usualDict": [
+                    {
+                        "values": [
+                            "三人一组；三重奏；三重唱；（音乐作品中的）中段；（扑克牌中的）三张相同点数的牌；三个一组的事物"
+                        ],
+                        "pos": "n."
+                    }
+                ],
+                "secondQuery": "",
+                "exchange": {
+                    "word_pl": [
+                        "trios"
+                    ]
+                },
+                "levelList": [
+                    "GRE"
+                ]
+            },
+            "detail": {
+                "synonym": [
+                    {
+                        "word_list": [
+                            "triplet",
+                            "triad"
+                        ],
+                        "pos": "n.",
+                        "mean": "三重唱；三件一套；三个一组"
+                    }
+                ],
+                "word_group": [
+                    {
+                        "brief_definition": "钢琴三重奏",
+                        "phrase": "piano trio",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "三重奏奏鸣曲",
+                        "phrase": "trio sonata",
+                        "pos": "n."
+                    }
+                ],
+                "bilingual": [
+                    {
+                        "source": "Heart Beats. Waltz for Bassoon <em>Trio</em>.",
+                        "target": "心跳圆舞曲（为大管三重奏）。",
+                        "url": "dict.cn"
+                    },
+                    {
+                        "source": "Barocco Fantasia string <em>trio</em> violin viola cello.",
+                        "target": "小提琴、大提琴弦乐三重奏。",
+                        "url": "www.dict.li"
+                    },
+                    {
+                        "source": "He recently has produced a piece of <em>trio</em> music.",
+                        "target": "他最新创作了一首三重奏乐曲.",
+                        "url": "www.koolearn.com"
+                    },
+                    {
+                        "source": "<em>Trio</em> quasi una ballata in D minor, Op. 27",
+                        "target": "d小调三重奏，像一首舞曲，作品27。",
+                        "url": "dict.so.163.com"
+                    },
+                    {
+                        "source": "The music was performed in the form of a <em>trio</em>.",
+                        "target": "这个乐曲将以三重奏的形式进行演奏.",
+                        "url": "dict.youdao.com"
+                    },
+                    {
+                        "source": "Andante , <em>trio</em> for Oboe, Clarinet and Bassoon.",
+                        "target": "行板木管三重奏(为双簧管 、 单簧管、大管).",
+                        "url": "www.chazidian.com"
+                    },
+                    {
+                        "source": "Piano <em>Trio</em> in E flat major, Op.",
+                        "target": "钢琴三重奏在电子商务大调，作品。",
+                        "url": "danci.911cha.com"
+                    },
+                    {
+                        "source": "Poulenc - <em>Trio</em> for oboe, bassoon, and piano",
+                        "target": "双簧管，巴松管和钢琴三重奏",
+                        "url": "www.chazidian.com"
+                    },
+                    {
+                        "source": "Poulenc - <em>Trio</em> for oboe, bassoon, and piano.",
+                        "target": "双簧管，巴松管和钢琴三重奏；",
+                        "url": "www.chazidian.com"
+                    },
+                    {
+                        "source": "The experienced <em>Trio</em> has given a multitude of concerts in Hong Kong and in Macau.",
+                        "target": "甘先生和年青的三重奏团员分别在香港和澳门两地有丰富的演出经验.",
+                        "url": "dict.bioon.com"
+                    }
+                ],
+                "baike": {
+                    "showMore": false,
+                    "list": [
+                        {
+                            "lemmaTitle": "三重唱",
+                            "link": "https://baike.sogou.com/v7649690.htm?ch=sogou.fanyi",
+                            "abstract": "三重唱是一种专为三人合唱所谱制的乐曲。在歌剧中，除二重唱被广泛运用外，三重唱亦是最常见的一种声部组合形式。 除了在某一戏场面中插入的短自一、两句，长至更多一些乐句的乐段式三重唱结构外，还有赋格式和交响式。",
+                            "wapPic": "",
+                            "pcPic": ""
+                        }
+                    ]
+                }
+            },
+            "book": {
+                "yingyinNormal": [
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/d72c637990090c0a72be0608a609b288_60297.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/93028c56a5c0aa2541719d1e0cbd762a_24114.mp3",
+                        "isLavafox": true,
+                        "en": "And then I add a dark mat brown, a mat dark brown eye shadow from <em>trio</em>.",
+                        "zh": "然后我要从这三种里面添加深哑光棕色，不对，是哑光深棕色眼影。",
+                        "videoNameZh": "《日常妆容美妆教程》",
+                        "videoNameEn": "《Everyday Makeup Tutorial》",
+                        "url": "http://bisentence_movie.sogou.com/3eff43a97d3b6999cf38c4de384d6003_03067672e00a3b477dc16eb96f828b9cea33a367"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/3bccca9abe5ab96bd7f3eaed6bd40cf2_52899.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/bb39bf66b2c8e9a848993da7d082d189_37494.mp3",
+                        "isLavafox": true,
+                        "en": "All right, a string quartet for the procession. A jazz <em>trio</em> for cocktails.",
+                        "zh": "行进时用弦乐四重奏，鸡尾酒会时安排爵士乐。",
+                        "videoNameZh": "《老友记 第七季》",
+                        "videoNameEn": "《Friends Season 7》",
+                        "url": "http://bisentence_movie.sogou.com/c118d94d68e9af96f979f3a6bb93528c_98f34fc86514adf8284992843384c5ee1da740a2"
+                    }
+                ]
+            },
+            "pic": "",
+            "voice": {
+                "phonetic": [
+                    {
+                        "text": "ˈtriːəʊ",
+                        "type": "uk",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/19578_trio_uk.mp3"
+                    },
+                    {
+                        "text": "ˈtrioʊ",
+                        "type": "usa",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/19578_trio_usa.mp3"
+                    }
+                ]
+            },
+            "dictType": "oxford_buchong",
+            "sentencesData": {
+                "status": 1,
+                "info": "notZh2En",
+                "data": {}
+            },
+            "isAutoMatch": false,
+            "Zh2En": false
+        },
+        "query": "trio",
+        "result": "三人组",
+        "tabSelect": "detail",
+        "dictionaryType": "oxford_buchong",
+        "notFound_show": false,
+        "phoneticShow": "",
+        "globalShowTranslateRecord": "",
+        "pronPrefer": {
+            "type": "usa_1",
+            "speaker": "male",
+            "speed": "standard"
+        },
+        "ServerRecord": "",
+        "ServerUIGS": {
+            "version": "new",
+            "type": "all",
+            "stype": "success",
+            "terminal": "web",
+            "fr": "default",
+            "direction": "etoz",
+            "from": "en",
+            "to": "zh-CHS",
+            "len": 4,
+            "qtype": "text",
+            "qctype": "qc_1",
+            "dict_cover": 1,
+            "detail": 1,
+            "wordCardCover": 1,
+            "wordCardEn": 1,
+            "wordCardCh": 0,
+            "wordCardMinor": 0,
+            "wordCardNetmean": 0,
+            "wordDeform": 1,
+            "keyword": 0,
+            "bilingual": 1,
+            "simple": 0,
+            "levelList": 1,
+            "synonym": 1,
+            "antonym": 0,
+            "conjugate": 0,
+            "rootaffix": 0,
+            "baike_sogou": 1,
+            "baike_wiki": 0,
+            "wordDifference": 0,
+            "word_phrase": 1,
+            "secondQuery": 0,
+            "dict_oxford": 0,
+            "dict_newcentury": 0,
+            "zhongkaotab": 0,
+            "gaokaotab": 0,
+            "CET4tab": 0,
+            "CET6tab": 0,
+            "kaoyantab": 0,
+            "network_tab": 0,
+            "yinying_tab": 1,
+            "tuozhan_tab": 0,
+            "one_pic": 0,
+            "more_pic": 0,
+            "no_pic": 0,
+            "uuid": "7da40a58-a9ad-45f4-a0f5-f7224d725019",
+            "from_type": 0,
+            "t_trans_ssr": 156
+        },
+        "ServerModelUIGS": {
+            "terminal": "web",
+            "type": "trans_model",
+            "pbtype": "pv",
+            "model_general": 1,
+            "model_medical": 1,
+            "model_finance": 1
+        },
+        "ServerSgtkn": "65DAEEB58148268F8485AB47CA5B17AC84D4F9C56755B12F",
+        "suggShow": false,
+        "suggestion": "",
+        "suggDirection": "",
+        "usualTop": "",
+        "baseDict": "",
+        "wordCardClick": false,
+        "isFrInput": false,
+        "kanaTips": {
+            "show": false,
+            "left": "",
+            "top": "",
+            "type": "",
+            "arrowLeft": ""
+        },
+        "currSentenceIndex": -1,
+        "prefixStrObj": {
+            "prefixStr": "",
+            "oriPrefixStr": ""
+        },
+        "selectTransBox": {
+            "show": false,
+            "right": 0,
+            "top": 0,
+            "paraphraseInfo": {
+                "word": "",
+                "from": "",
+                "to": "",
+                "area": ""
+            }
+        },
+        "sentenceLoading": false,
+        "newSentenceInfo": {
+            "sentence": "",
+            "candidateIndex": 0
+        },
+        "moreTipInfo": {
+            "opacity": 0,
+            "zIndex": -1
+        },
+        "paraphraseShowInfo": {
+            "card": 0,
+            "query": "",
+            "card_dict": 0
+        },
+        "selectType": "",
+        "wordPos": 0,
+        "candidateWord": "",
+        "syntaxVisible": false,
+        "syntaxStatus": 0
+    },
+    "language": {
+        "from": "auto",
+        "to": "zh-CHS",
+        "detect": "en",
+        "model": "general",
+        "detectShow": false,
+        "langMap": {
+            "current": ""
+        },
+        "zh2en": false,
+        "fromItemList": [
+            {
+                "lang": "auto",
+                "text": "自动检测",
+                "play": false
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "fr",
+                "text": "法语",
+                "play": true,
+                "abbr": "法"
+            },
+            {
+                "lang": "th",
+                "text": "泰语",
+                "play": true,
+                "abbr": "泰"
+            },
+            {
+                "lang": "ko",
+                "text": "韩语",
+                "play": true,
+                "abbr": "韩"
+            }
+        ],
+        "toItemList": [
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "ru",
+                "text": "俄语",
+                "play": true,
+                "abbr": "俄"
+            },
+            {
+                "lang": "vi",
+                "text": "越南语",
+                "play": true,
+                "abbr": "越"
+            },
+            {
+                "lang": "fr",
+                "text": "法语",
+                "play": true,
+                "abbr": "法"
+            }
+        ]
+    },
+    "voice": {
+        "from": {
+            "lang": "en",
+            "type": "from",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22trio%22%2C%22spokenDialect%22%3A%22en%22%2C%22rate%22%3A%220.8%22%7D",
+            "list": [
+                {
+                    "type": "uk_0",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "ˈtriːəʊ",
+                    "abbr": "英",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/19578_trio_uk.mp3"
+                },
+                {
+                    "type": "usa_1",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "ˈtrioʊ",
+                    "abbr": "美",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/19578_trio_usa.mp3"
+                }
+            ],
+            "stype": "phonetic",
+            "phoneticShow": [
+                {
+                    "text": "ˈtriːəʊ",
+                    "type": "uk",
+                    "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/19578_trio_uk.mp3"
+                },
+                {
+                    "text": "ˈtrioʊ",
+                    "type": "usa",
+                    "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/19578_trio_usa.mp3"
+                }
+            ]
+        },
+        "to": {
+            "lang": "zh",
+            "type": "to",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22%E4%B8%89%E4%BA%BA%E7%BB%84%22%2C%22spokenDialect%22%3A%22zh-CHS%22%2C%22rate%22%3A%220.8%22%7D",
+            "stype": "normal"
+        }
+    }
+}

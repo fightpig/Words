@@ -1,0 +1,949 @@
+{
+    "route": {
+        "name": "text",
+        "path": "/text",
+        "hash": "",
+        "query": {
+            "keyword": "idiot",
+            "transfrom": "auto",
+            "transto": "zh-CHS",
+            "model": "general",
+            "errcode": "s10"
+        },
+        "params": {},
+        "fullPath": "/text?keyword=idiot&transfrom=auto&transto=zh-CHS&model=general&errcode=s10",
+        "meta": {
+            "mtype": [
+                "textTranslate",
+                "language",
+                "voice"
+            ]
+        },
+        "from": {
+            "name": null,
+            "path": "/",
+            "hash": "",
+            "query": {},
+            "params": {},
+            "fullPath": "/",
+            "meta": {}
+        }
+    },
+    "common": {
+        "CONFIG": {
+            "wuid": 1733665544110,
+            "loginInfo": {},
+            "isIE": 0,
+            "isHitSsrSwitch": true,
+            "isHitWritebookSwitch": false,
+            "isHitAmsSwitch": true,
+            "promotionList": "{\n    \"pc_bottom\":{\n        \"imgsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\",\n        \"qcsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\"\n    },\n    \"pc_middle\":[\n        {\n            \"src\":\"//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c\",\n            \"bgColor\":\"#ffffff\",\n            \"link\":\"\"\n        }\n    ],\n    \"pc_survey\":{\n        \"icon\":\"//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750\",\n        \"link\":\"https://wj.qq.com/s2/8193148/806d/\"\n    }\n}",
+            "bannerData": [],
+            "isHitAsideSurvey": false,
+            "secretCode": 109984457,
+            "uuid": "a6549eea-a1e8-48cb-8098-c5fe3303f32e",
+            "referer": "",
+            "approveToken": "65C35B3EA76F00A9A2A48A60D549DD13A3D340216755A308",
+            "loadTime": 1733665544112,
+            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0",
+            "fcp": "159.65.124.238",
+            "temporaryId": "",
+            "fileId": ""
+        },
+        "hotWords": [],
+        "isFromCollect": false,
+        "psdModify": {
+            "currentStep": 1,
+            "scode": "",
+            "username": ""
+        },
+        "loginStatus": true,
+        "feedBackModule": false,
+        "showPromotionPopup": {
+            "show": false,
+            "type": ""
+        },
+        "showPromotionPCDownload": false,
+        "showShareBomb": false,
+        "shareData": null,
+        "showAppDownLoad": false,
+        "showLoginDialog": false,
+        "showLoading": {
+            "show": false
+        },
+        "toast": {
+            "show": false,
+            "text": "",
+            "loading": false
+        },
+        "modelToast": {
+            "show": false,
+            "text": ""
+        },
+        "selectionGlobalShow": true,
+        "selectionInfo": {
+            "left": 0,
+            "top": 0,
+            "show": false,
+            "from": "",
+            "to": "",
+            "val": "",
+            "area": ""
+        },
+        "showConfirmDialog": false,
+        "promotionList": {
+            "pc_bottom": {
+                "imgsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png",
+                "qcsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png"
+            },
+            "pc_middle": [
+                {
+                    "src": "//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c",
+                    "bgColor": "#ffffff",
+                    "link": ""
+                }
+            ],
+            "pc_survey": {
+                "icon": "//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750",
+                "link": "https://wj.qq.com/s2/8193148/806d/"
+            }
+        },
+        "transTypeTxt": "text",
+        "fixedTabStatus": 0,
+        "bodyTop": 0,
+        "ifHideUserOperation": false
+    },
+    "textTranslate": {
+        "prevTransQuery": "",
+        "translateData": {
+            "translate": {
+                "zly": "zly",
+                "errorCode": "0",
+                "qc_type": "1",
+                "index": "content0",
+                "from": "en",
+                "source": "sogou",
+                "text": "idiot",
+                "to": "zh-CHS",
+                "id": "a6549eea-a1e8-48cb-8098-c5fe3303f32e",
+                "dit": "傻瓜",
+                "orig_text": "idiot",
+                "md5": ""
+            },
+            "detect": {
+                "zly": "zly",
+                "detect": "en",
+                "errorCode": "0",
+                "language": "英语",
+                "id": "b8ab0030-b56a-11ef-a893-cf2d31aaacb1",
+                "text": "idiot"
+            },
+            "sgtkn": "65C35B44A76F00A9A2A48A60D549DD13A3D340216755A308",
+            "wordCard": {
+                "title": "idiot",
+                "show": true,
+                "usualDict": [
+                    {
+                        "values": [
+                            "蠢人；笨蛋；白痴；<古>弱智者；低能儿；智障人"
+                        ],
+                        "pos": "n."
+                    }
+                ],
+                "secondQuery": "",
+                "exchange": {
+                    "word_pl": [
+                        "idiots"
+                    ]
+                },
+                "levelList": [
+                    "高中",
+                    "六级",
+                    "考研",
+                    "考博",
+                    "雅思"
+                ]
+            },
+            "detail": {
+                "synonym": [
+                    {
+                        "word_list": [
+                            "simple",
+                            "turkey",
+                            "natural",
+                            "put",
+                            "stupid"
+                        ],
+                        "pos": "n.",
+                        "mean": "笨蛋，傻瓜；白痴"
+                    }
+                ],
+                "affix": {
+                    "word": "idiot",
+                    "sub_affix_info_list": [
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "idiom",
+                                            "mean": "n. 成语；表达风格；特色；习语；方言；土语"
+                                        },
+                                        {
+                                            "word": "idiopathic",
+                                            "mean": "adj. 自发的；原发的；特发的；病因不明的"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "个人的, 独特的",
+                                    "affix_type": "stem"
+                                }
+                            ],
+                            "affix": "idi",
+                            "affix_mean": "个人的"
+                        },
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "ballot",
+                                            "mean": "n. 投票表决；选票；投票用纸；投票总数；抽签决定"
+                                        },
+                                        {
+                                            "word": "compatriot",
+                                            "mean": "n. 同国人；同胞"
+                                        },
+                                        {
+                                            "word": "patriot",
+                                            "mean": "n. 爱国者；爱国主义者"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "名词后缀, 某种人",
+                                    "affix_type": "suffix"
+                                }
+                            ],
+                            "affix": "-ot",
+                            "affix_mean": "某种人"
+                        }
+                    ],
+                    "word_mean": "n. 蠢人"
+                },
+                "wordRootInfo": {
+                    "word_info_list": [
+                        {
+                            "word": "idiotic",
+                            "pos_mean_info_list": [
+                                {
+                                    "pos": "adj.",
+                                    "mean": "白痴的；愚蠢的"
+                                }
+                            ]
+                        },
+                        {
+                            "word": "idiotically",
+                            "pos_mean_info_list": [
+                                {
+                                    "pos": "adv.",
+                                    "mean": "白痴地"
+                                }
+                            ]
+                        }
+                    ],
+                    "root_word": "idiot"
+                },
+                "word_difference_info": [
+                    {
+                        "common_mean": "笨蛋；傻瓜",
+                        "word_list": [
+                            "idiot",
+                            " fool"
+                        ],
+                        "word_mean_info__list": [
+                            {
+                                "difference": "指智能低、动作迟钝、行为不符合正常的人。",
+                                "word": "idiot"
+                            },
+                            {
+                                "difference": "一般指缺乏智力、无判断力和识别能力、头脑糊涂的人。",
+                                "word": "fool"
+                            }
+                        ]
+                    }
+                ],
+                "word_group": [
+                    {
+                        "brief_definition": "电视机",
+                        "phrase": "idiot box",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "智障人天才；不通人情世故的天才",
+                        "phrase": "idiot savant",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "村里人人皆知的白痴",
+                        "phrase": "village idiot",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "报警灯",
+                        "phrase": "idiot light",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "台词提示板",
+                        "phrase": "idiot board",
+                        "pos": "n."
+                    }
+                ],
+                "bilingual": [
+                    {
+                        "source": "You behaved like an <em>idiot</em>!",
+                        "target": "你表现得像个白痴！",
+                        "url": "simple example"
+                    },
+                    {
+                        "source": "Oh Richard, you're such an <em>idiot</em>!",
+                        "target": "哦，理查德，你真是个白痴！",
+                        "url": "simple example"
+                    },
+                    {
+                        "source": "He is a total <em>idiot</em>.",
+                        "target": "他是一个十足的白痴。",
+                        "url": "www.zhangyan.com"
+                    },
+                    {
+                        "source": "Am I an <em>idiot</em> or moron?",
+                        "target": "我是白痴还是低能呀？",
+                        "url": "dict.youdao.com"
+                    },
+                    {
+                        "source": "It's, a group of <em>idiot</em> do?!",
+                        "target": "真是的，一群白痴吗？！",
+                        "url": "dict.youdao.com"
+                    },
+                    {
+                        "source": "An <em>idiot</em> has a subnormal IQ.",
+                        "target": "白痴的智商低于正常水平.",
+                        "url": "www.xuefen.com.cn"
+                    },
+                    {
+                        "source": "“Watson, you <em>idiot</em>!” he says.",
+                        "target": "“华生，你真够白痴的！”他说。",
+                        "url": "www.youdao.com"
+                    },
+                    {
+                        "source": "How can you flirt with this <em>idiot</em> ?",
+                        "target": "你怎么能跟这个白痴调情？",
+                        "url": "www.sohu.com"
+                    },
+                    {
+                        "source": "Your video made me look like an <em>idiot</em>!",
+                        "target": "你的电影把我拍的像白痴！",
+                        "url": "dict.youdao.com"
+                    },
+                    {
+                        "source": "Reader, suppose you were an <em>idiot</em>.",
+                        "target": "亲爱的读者，假设你是一个白痴。",
+                        "url": "zhidao.baidu.com"
+                    }
+                ],
+                "baike": {
+                    "showMore": false,
+                    "list": [
+                        {
+                            "lemmaTitle": "idiot",
+                            "link": "https://baike.sogou.com/v13656666.htm?ch=sogou.fanyi",
+                            "abstract": "idiot（英 [ˈɪdiət]，美 [ˈɪdiət]）英文单词，名词。是指蠢人；傻瓜；白痴。短语搭配为“idiot box（电视机）”“idiot savant（智障人天才；不通人情世故的天才）”“idiot light（报警灯）”。例句为“You must think I'm a prize idiot.（你一定以为我是个大傻瓜。）” idiot近义词为simple，turkey，natural。",
+                            "wapPic": "",
+                            "pcPic": ""
+                        }
+                    ]
+                }
+            },
+            "book": {
+                "yingyinNormal": [
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/21d26cfef0cd26f0813072491b08dd5a_57364.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/11b7eae78c3d3019e0cada0d125889fc_66244.mp3",
+                        "isLavafox": true,
+                        "en": "You're an <em>idiot</em>. I'm your <em>idiot</em>. Forever.",
+                        "zh": "你个死白痴。是你的小白痴，死都甩不掉哦。",
+                        "videoNameZh": "《生活大爆炸 第六季》",
+                        "videoNameEn": "《The Big Bang Theory Season 6》",
+                        "url": "http://bisentence_movie.sogou.com/d2938c2b1a64170b5bb4c79e06d8ae41_4d0ab29a0a7d9af1adf7ba82c3065fb416f4a21f"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/a86e6e98cc64448e528c65f2085efa0f_30194.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/94fc46d4624c4b5746267db26d8cf0bd_75517.mp3",
+                        "isLavafox": true,
+                        "en": "Because she married an <em>idiot</em>.",
+                        "zh": "因为她嫁给了一个白痴。",
+                        "videoNameZh": "《生活大爆炸 第7季》",
+                        "videoNameEn": "《The Big Bang Theory Season 7》",
+                        "url": "http://bisentence_movie.sogou.com/8113e49065ed6e1f23dfd75e6f5ede80_7a20dd18adaa405cd8a25bb6dde38882f331acb6"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/21d26cfef0cd26f0813072491b08dd5a_57364.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/dd13c28d05e6c31d3989a83b10e43784_42266.mp3",
+                        "isLavafox": true,
+                        "en": "I'm sorry. I feel like such an <em>idiot</em>.",
+                        "zh": "对不起嘛，我感觉自己就像个白痴。",
+                        "videoNameZh": "《生活大爆炸 第六季》",
+                        "videoNameEn": "《The Big Bang Theory Season 6》",
+                        "url": "http://bisentence_movie.sogou.com/0051d212ac04f43e811c6b62a36ede1e_0e9d68f5d6a6ca659bfa67525da87dd1c224a6da"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/ddeda38701415f391059f60a14ca0ada_53507.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/d43ad5a0558e2ce34266b24813570a01_48815.mp3",
+                        "isLavafox": true,
+                        "en": "'Cause I'm an <em>idiot</em> who didn't think this through!",
+                        "zh": "因为我是白痴，没考虑周全。",
+                        "videoNameZh": "《生活大爆炸 第八季》",
+                        "videoNameEn": "《The Big Bang Theory Season 8》",
+                        "url": "http://bisentence_movie.sogou.com/109704c91e3f09740715b90a7dc483f6_dc13b97026ebfbd8256825d38ddcf02c76ecb9ea"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/8a5b25dfe5e482fce849895959f35aba_1648.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/55ae4a7b450c747b0c8a6d6bc61449da_48228.mp3",
+                        "isLavafox": true,
+                        "en": "Yeah well, if Mark said that, than Mark's an <em>idiot</em>.",
+                        "zh": "如果马克这么说，那马克就是白痴。",
+                        "videoNameZh": "《老友记 第三季》",
+                        "videoNameEn": "《Friends Season 3》",
+                        "url": "http://bisentence_movie.sogou.com/971c39dab239a6d62b60cb2d76ea3ae5_43c4b19498bae71882fbe3f20aaa9065d39d738f"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/1a0871c791ff910d9034a539e70accc7_35582.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/19a68fcf8287daf95e908e69cfe436f9_52647.mp3",
+                        "isLavafox": true,
+                        "en": "Congratulations. You're now an <em>idiot</em> in two languages.",
+                        "zh": "恭喜你，你在两门语言里都是个白痴。",
+                        "videoNameZh": "《冰川时代2》",
+                        "videoNameEn": "《Ice Age: The Meltdown》",
+                        "url": "http://bisentence_movie.sogou.com/007f40b80a5d59b6203b247589d5309e_0c16ca858ce49a0427abb3d52e442465e61e0a94"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/8106a5d878c9284ba65385b79f2e03b2_25351.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/994f116f1faccabccce0efc845a05f71_20075.mp3",
+                        "isLavafox": true,
+                        "en": "Darby, could you just, take care of this <em>idiot</em>? Thanks.",
+                        "zh": "戴比，能过来接待一下这个白痴吗？谢谢。",
+                        "videoNameZh": "《蚁人》",
+                        "videoNameEn": "《Ant-Man》",
+                        "url": "http://bisentence_movie.sogou.com/d0a505ce9ef8d9cffa3c16d4bf84511a_8f45680b280306fedb2450d7ca92945abfdf6a53"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/65861602801590fdaf378b1d1c997a40_10433.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/a3b067ba3c9ee209b2868ad07526ad4c_69385.mp3",
+                        "isLavafox": true,
+                        "en": "I mean, it was so humiliating. I felt like such an <em>idiot</em>.",
+                        "zh": "简直丢死人了，我真是个白痴。",
+                        "videoNameZh": "《老友记 第五季》",
+                        "videoNameEn": "《Friends Season 5》",
+                        "url": "http://bisentence_movie.sogou.com/eba42deeef897f92efadf58f3d815a28_a0efc1f82bf6fd9ae64f59edfc720b1b34d57084"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/b630caafa2606557856da7a333933a5d_54182.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/d6ec0a3322f03c413d19da02e4941d3f_41413.mp3",
+                        "isLavafox": true,
+                        "en": "You know what? Don't talk to me like I'm an <em>idiot</em>.",
+                        "zh": "告诉你，跟我说话的时候别把我当白痴。",
+                        "videoNameZh": "《生活大爆炸 第三季》",
+                        "videoNameEn": "《The Big Bang Theory Season 3》",
+                        "url": "http://bisentence_movie.sogou.com/194397ee333371fa60d09797c01c3548_080cff08c0dabc0ff9166ca1c9b938519783a39d"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/b630caafa2606557856da7a333933a5d_54182.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/aca02285bdee0741e4ec8ede3981e049_21112.mp3",
+                        "isLavafox": true,
+                        "en": "Oh, now I'm a child? Well, at least I'm not an <em>idiot</em> anymore!",
+                        "zh": "哦，现在我变小孩子了，至少我再也不是白痴了！",
+                        "videoNameZh": "《生活大爆炸 第三季》",
+                        "videoNameEn": "《The Big Bang Theory Season 3》",
+                        "url": "http://bisentence_movie.sogou.com/8acdac3925e883bc81e23d885d5ebe9f_ef4cedcb5a26345d4738115a3fc580f803ac5b0b"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/368277e4523e7b27b12887e16057df56_64015.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/aee2af68530fe345294d7e312d0befb7_31019.mp3",
+                        "isLavafox": true,
+                        "en": "One match, one pistol, and one <em>idiot</em>. I'll take those odds.",
+                        "zh": "一根火柴，一把手枪，加一个白痴，我愿意赌一把。",
+                        "videoNameZh": "《西部世界 第一季》",
+                        "videoNameEn": "《Westworld Season 1》",
+                        "url": "http://bisentence_movie.sogou.com/d1f3c9e66b779f43ec66d02abfe1163f_2cf279d7ef85eb7f66875b3ca29359a531cb70cc"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/812cb5c6c8a67c1f501abd2211d1917d_12450.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/63b01f6751b0b75993f822a7792854a2_2681.mp3",
+                        "isLavafox": true,
+                        "en": "If she doesn't eat with me, then she doesn't eat at all. <em>Idiot</em>!",
+                        "zh": "如果她不跟我一起吃饭，她一点也别想吃。白痴！",
+                        "videoNameZh": "《美女与野兽》",
+                        "videoNameEn": "《Beauty and the Beast》",
+                        "url": "http://bisentence_movie.sogou.com/3ad47d3e0b1a46410bf42950c78ce606_e22eca4c4fdd4f47f2de6766ad1ed2c8651b2578"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/01c17509086ef8842dc81dd84a41285d_68420.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/b9294601c6fae4dad297dd15b729619a_42172.mp3",
+                        "isLavafox": true,
+                        "en": "Yes, I've been an <em>idiot</em>, a blind <em>idiot</em>! What? Oh, that's good. That could be brilliant! What are you on about?",
+                        "zh": "对啊，我就是个白痴，瞎子，蠢蛋。什么?太好了，太棒了。你在说什么?",
+                        "videoNameZh": "《神探夏洛克 第三季》",
+                        "videoNameEn": "《Sherlock Season 3》",
+                        "url": "http://bisentence_movie.sogou.com/04aefc9605a806297071db05729698a0_da1aec82bcfa704e3059ca6c1ac75797f05634c8"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/65861602801590fdaf378b1d1c997a40_10433.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/3ee890b3b4593d16bded08754879a1a2_1531.mp3",
+                        "isLavafox": true,
+                        "en": "All right. All right, did you just say all right? I did. Now I'm the <em>idiot</em>.",
+                        "zh": "好吧。你刚说好？没错，现在换我是白痴。",
+                        "videoNameZh": "《老友记 第五季》",
+                        "videoNameEn": "《Friends Season 5》",
+                        "url": "http://bisentence_movie.sogou.com/8de1ff05abebb4f1bfd45fa905a8b894_4dd64f8d986cf5b1ef1261fc5921421bd602a6da"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/7527e2a9ec38f59ad126037938e4289c_52101.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/8fba9509954cc2a45b80ddb7f170a5e2_44731.mp3",
+                        "isLavafox": true,
+                        "en": "Is that a hard question? Are you an <em>idiot</em>? Is that why you're a waiter?",
+                        "zh": "那是个难题吗？你是白痴吗？所以你才会来当服务生吗？",
+                        "videoNameZh": "《老友记 第八季》",
+                        "videoNameEn": "《Friends Season 8》",
+                        "url": "http://bisentence_movie.sogou.com/314e0483658afc183c4b7ad23aa2d2eb_2c4b3e6c96301c39b8885121cabb00df65b9f623"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/490665cd18df7afdfdb0f598300d2a11_15993.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/01234cd58cebd0453aa4b1eaac9cff8c_18288.mp3",
+                        "isLavafox": true,
+                        "en": "Hey, stop it! Put me down, you <em>idiot</em>! No, no, wait a minute! Baby, wait!",
+                        "zh": "嘿住手！放我下来，你个白痴！不，等等! 大宝宝，等等！",
+                        "videoNameZh": "《玩具总动员3》",
+                        "videoNameEn": "《Toy Story 3》",
+                        "url": "http://bisentence_movie.sogou.com/6d31b37efa3afab1d52b435f9064a734_fb36f9fc42bc5d13ea39d8e438bb304de2b28cb9"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/f5f16d3165593ebdb6d6ae8299e72880_33413.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/04981365e9a6ef6f22fed109c4165bd9_2046.mp3",
+                        "isLavafox": true,
+                        "en": "Of course. Only an <em>idiot</em> would wear this stuff if you didn't have the car. Right? That is true.",
+                        "zh": "那当然，白痴才会没车还穿成这样。那倒是。",
+                        "videoNameZh": "《老友记 第六季》",
+                        "videoNameEn": "《Friends Season 6》",
+                        "url": "http://bisentence_movie.sogou.com/821db4aaff9e2bf6a57d739f61a4e8c3_ab429b31c24607a79a3fcf448c874b7171173486"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/b630caafa2606557856da7a333933a5d_54182.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/5b5355b550c98aeb101715d6f706ed61_25533.mp3",
+                        "isLavafox": true,
+                        "en": "I'm not talking to you like you're an <em>idiot</em>! I'm saying the whole idea is <em>idiot</em>ic.",
+                        "zh": "我跟你说话时没把你当做白痴，我是说这整件事很愚蠢。",
+                        "videoNameZh": "《生活大爆炸 第三季》",
+                        "videoNameEn": "《The Big Bang Theory Season 3》",
+                        "url": "http://bisentence_movie.sogou.com/97b974d7533d7bf97063194c73e462c4_95aed77fe3371b907be37f1d87049c5ef83d99b0"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/6a0f1af500949aabdf79e8935d4a7230_22265.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/8c7253f6f43397692e40bbd613ce8033_4813.mp3",
+                        "isLavafox": true,
+                        "en": "And we've been on four dates, so I'm thinking: no, but thanks. You <em>idiot</em>.",
+                        "zh": "我们只约会过四次，所以我是想说：不要，不过谢了。你这个白痴！",
+                        "videoNameZh": "《老友记 第四季》",
+                        "videoNameEn": "《Friends Season 4》",
+                        "url": "http://bisentence_movie.sogou.com/55b1725999ddd1bfff6f8533196b4a10_bdcb3569919ae9376b9a9ab1d455c2f3a9eba4af"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/91ea895405abc384e9051be6a1aae416_6904.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/cca6d4e45f21e09d6b50908019bd9d37_22428.mp3",
+                        "isLavafox": true,
+                        "en": "No. Your name is Private <em>Idiot</em>. You know why? Cause I have a knife in my foot.",
+                        "zh": "不。你的名字是“列兵白痴”。你可知为何？因为我脚上插着刀。",
+                        "videoNameZh": "《血战钢锯岭》",
+                        "videoNameEn": "《Hacksaw Ridge》",
+                        "url": "http://bisentence_movie.sogou.com/be36289c39dc482f85579dde779d8f0a_bae7c096bccec619a090c4e055a8ac763d60932d"
+                    }
+                ]
+            },
+            "pic": "",
+            "voice": {
+                "phonetic": [
+                    {
+                        "text": "ˈɪdiət",
+                        "type": "uk",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/80300_idiot_uk.mp3"
+                    },
+                    {
+                        "text": "ˈɪdiət",
+                        "type": "usa",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/12276_idiot_usa.mp3"
+                    }
+                ]
+            },
+            "dictType": "oxford_buchong",
+            "CET6": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 0,
+                        "pos": "n",
+                        "chinese": "白痴",
+                        "sense_tier_ratio": 0
+                    }
+                ],
+                "word": "idiot",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2016.6-2023.6年8年间全六级试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight>考纲释义</highlight>\n精选实考、考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2016-2023年51套试卷，包括阅读、听力、翻译等所有题型。\n\n<highlight>真题例句</highlight>\n精选2016-2023年8年间全六级试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 1,
+                "total_exam_freq": 0,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "synonyms": "",
+                            "en": "a very stupid person",
+                            "zh": "白痴",
+                            "pos": "n",
+                            "antonyms": ""
+                        }
+                    ]
+                },
+                "word_affix": {
+                    "word": "idiot",
+                    "sub_affix_info_list": [
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "idiom",
+                                            "mean": "n. 成语；表达风格；特色；习语；方言；土语"
+                                        },
+                                        {
+                                            "word": "idiopathic",
+                                            "mean": "adj. 自发的；原发的；特发的；病因不明的"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "个人的, 独特的",
+                                    "affix_type": "stem"
+                                }
+                            ],
+                            "affix": "idi",
+                            "affix_mean": "个人的"
+                        },
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "ballot",
+                                            "mean": "n. 投票表决；选票；投票用纸；投票总数；抽签决定"
+                                        },
+                                        {
+                                            "word": "compatriot",
+                                            "mean": "n. 同国人；同胞"
+                                        },
+                                        {
+                                            "word": "patriot",
+                                            "mean": "n. 爱国者；爱国主义者"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "名词后缀, 某种人",
+                                    "affix_type": "suffix"
+                                }
+                            ],
+                            "affix": "-ot",
+                            "affix_mean": "某种人"
+                        }
+                    ],
+                    "word_mean": "n. 蠢人"
+                },
+                "disambiguation": [
+                    {
+                        "disambiguation_list": [
+                            {
+                                "word": "fool",
+                                "sense_disambiguation": "一般指缺乏智力、无判断力和识别能力、头脑糊涂的人。"
+                            },
+                            {
+                                "word": "idiot",
+                                "sense_disambiguation": "指智能低、动作迟钝、行为不符合正常的人。"
+                            }
+                        ],
+                        "sense_group": "笨蛋"
+                    }
+                ],
+                "exchange_info": {
+                    "word_pl": [
+                        "idiots"
+                    ]
+                }
+            },
+            "sentencesData": {
+                "status": 1,
+                "info": "notZh2En",
+                "data": {}
+            },
+            "isAutoMatch": false,
+            "Zh2En": false
+        },
+        "query": "idiot",
+        "result": "傻瓜",
+        "tabSelect": "detail",
+        "dictionaryType": "oxford_buchong",
+        "notFound_show": false,
+        "phoneticShow": "",
+        "globalShowTranslateRecord": "",
+        "pronPrefer": {
+            "type": "usa_1",
+            "speaker": "male",
+            "speed": "standard"
+        },
+        "ServerRecord": "",
+        "ServerUIGS": {
+            "version": "new",
+            "type": "all",
+            "stype": "success",
+            "terminal": "web",
+            "fr": "default",
+            "direction": "etoz",
+            "from": "en",
+            "to": "zh-CHS",
+            "len": 5,
+            "qtype": "text",
+            "qctype": "qc_1",
+            "dict_cover": 1,
+            "detail": 1,
+            "wordCardCover": 1,
+            "wordCardEn": 1,
+            "wordCardCh": 0,
+            "wordCardMinor": 0,
+            "wordCardNetmean": 0,
+            "wordDeform": 1,
+            "keyword": 0,
+            "bilingual": 1,
+            "simple": 0,
+            "levelList": 1,
+            "synonym": 1,
+            "antonym": 0,
+            "conjugate": 1,
+            "rootaffix": 1,
+            "baike_sogou": 1,
+            "baike_wiki": 0,
+            "wordDifference": 1,
+            "word_phrase": 1,
+            "secondQuery": 0,
+            "dict_oxford": 0,
+            "dict_newcentury": 0,
+            "zhongkaotab": 0,
+            "gaokaotab": 0,
+            "CET4tab": 0,
+            "CET6tab": 1,
+            "kaoyantab": 0,
+            "network_tab": 0,
+            "yinying_tab": 1,
+            "tuozhan_tab": 0,
+            "one_pic": 0,
+            "more_pic": 0,
+            "no_pic": 0,
+            "uuid": "a6549eea-a1e8-48cb-8098-c5fe3303f32e",
+            "from_type": 0,
+            "t_trans_ssr": 129
+        },
+        "ServerModelUIGS": {
+            "terminal": "web",
+            "type": "trans_model",
+            "pbtype": "pv",
+            "model_general": 1,
+            "model_medical": 1,
+            "model_finance": 1
+        },
+        "ServerSgtkn": "65C35B44A76F00A9A2A48A60D549DD13A3D340216755A308",
+        "suggShow": false,
+        "suggestion": "",
+        "suggDirection": "",
+        "usualTop": "",
+        "baseDict": "",
+        "wordCardClick": false,
+        "isFrInput": false,
+        "kanaTips": {
+            "show": false,
+            "left": "",
+            "top": "",
+            "type": "",
+            "arrowLeft": ""
+        },
+        "currSentenceIndex": -1,
+        "prefixStrObj": {
+            "prefixStr": "",
+            "oriPrefixStr": ""
+        },
+        "selectTransBox": {
+            "show": false,
+            "right": 0,
+            "top": 0,
+            "paraphraseInfo": {
+                "word": "",
+                "from": "",
+                "to": "",
+                "area": ""
+            }
+        },
+        "sentenceLoading": false,
+        "newSentenceInfo": {
+            "sentence": "",
+            "candidateIndex": 0
+        },
+        "moreTipInfo": {
+            "opacity": 0,
+            "zIndex": -1
+        },
+        "paraphraseShowInfo": {
+            "card": 0,
+            "query": "",
+            "card_dict": 0
+        },
+        "selectType": "",
+        "wordPos": 0,
+        "candidateWord": "",
+        "syntaxVisible": false,
+        "syntaxStatus": 0
+    },
+    "language": {
+        "from": "auto",
+        "to": "zh-CHS",
+        "detect": "en",
+        "model": "general",
+        "detectShow": false,
+        "langMap": {
+            "current": ""
+        },
+        "zh2en": false,
+        "fromItemList": [
+            {
+                "lang": "auto",
+                "text": "自动检测",
+                "play": false
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "fr",
+                "text": "法语",
+                "play": true,
+                "abbr": "法"
+            },
+            {
+                "lang": "de",
+                "text": "德语",
+                "play": true,
+                "abbr": "德"
+            },
+            {
+                "lang": "ko",
+                "text": "韩语",
+                "play": true,
+                "abbr": "韩"
+            }
+        ],
+        "toItemList": [
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "vi",
+                "text": "越南语",
+                "play": true,
+                "abbr": "越"
+            },
+            {
+                "lang": "es",
+                "text": "西班牙语",
+                "play": true,
+                "abbr": "西"
+            },
+            {
+                "lang": "fr",
+                "text": "法语",
+                "play": true,
+                "abbr": "法"
+            }
+        ]
+    },
+    "voice": {
+        "from": {
+            "lang": "en",
+            "type": "from",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22idiot%22%2C%22spokenDialect%22%3A%22en%22%2C%22rate%22%3A%220.8%22%7D",
+            "list": [
+                {
+                    "type": "uk_0",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "ˈɪdiət",
+                    "abbr": "英",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/80300_idiot_uk.mp3"
+                },
+                {
+                    "type": "usa_1",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "ˈɪdiət",
+                    "abbr": "美",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/12276_idiot_usa.mp3"
+                }
+            ],
+            "stype": "phonetic",
+            "phoneticShow": [
+                {
+                    "text": "ˈɪdiət",
+                    "type": "uk",
+                    "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/80300_idiot_uk.mp3"
+                }
+            ]
+        },
+        "to": {
+            "lang": "zh",
+            "type": "to",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22%E5%82%BB%E7%93%9C%22%2C%22spokenDialect%22%3A%22zh-CHS%22%2C%22rate%22%3A%220.8%22%7D",
+            "stype": "normal"
+        }
+    }
+}

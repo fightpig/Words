@@ -1,0 +1,619 @@
+{
+    "route": {
+        "name": "text",
+        "path": "/text",
+        "hash": "",
+        "query": {
+            "keyword": "monk",
+            "transfrom": "auto",
+            "transto": "zh-CHS",
+            "model": "general",
+            "errcode": "s10"
+        },
+        "params": {},
+        "fullPath": "/text?keyword=monk&transfrom=auto&transto=zh-CHS&model=general&errcode=s10",
+        "meta": {
+            "mtype": [
+                "textTranslate",
+                "language",
+                "voice"
+            ]
+        },
+        "from": {
+            "name": null,
+            "path": "/",
+            "hash": "",
+            "query": {},
+            "params": {},
+            "fullPath": "/",
+            "meta": {}
+        }
+    },
+    "common": {
+        "CONFIG": {
+            "wuid": 1733666656337,
+            "loginInfo": {},
+            "isIE": 0,
+            "isHitSsrSwitch": true,
+            "isHitWritebookSwitch": false,
+            "isHitAmsSwitch": true,
+            "promotionList": "{\n    \"pc_bottom\":{\n        \"imgsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\",\n        \"qcsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\"\n    },\n    \"pc_middle\":[\n        {\n            \"src\":\"//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c\",\n            \"bgColor\":\"#ffffff\",\n            \"link\":\"\"\n        }\n    ],\n    \"pc_survey\":{\n        \"icon\":\"//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750\",\n        \"link\":\"https://wj.qq.com/s2/8193148/806d/\"\n    }\n}",
+            "bannerData": [],
+            "isHitAsideSurvey": false,
+            "secretCode": 109984457,
+            "uuid": "5dfafb76-d26d-4f43-a177-dd56aba67c72",
+            "referer": "",
+            "approveToken": "65CC2844F2345AF3F8F1DF3A41C24F78F896798F6755A760",
+            "loadTime": 1733666656339,
+            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0",
+            "fcp": "159.65.124.238",
+            "temporaryId": "",
+            "fileId": ""
+        },
+        "hotWords": [],
+        "isFromCollect": false,
+        "psdModify": {
+            "currentStep": 1,
+            "scode": "",
+            "username": ""
+        },
+        "loginStatus": true,
+        "feedBackModule": false,
+        "showPromotionPopup": {
+            "show": false,
+            "type": ""
+        },
+        "showPromotionPCDownload": false,
+        "showShareBomb": false,
+        "shareData": null,
+        "showAppDownLoad": false,
+        "showLoginDialog": false,
+        "showLoading": {
+            "show": false
+        },
+        "toast": {
+            "show": false,
+            "text": "",
+            "loading": false
+        },
+        "modelToast": {
+            "show": false,
+            "text": ""
+        },
+        "selectionGlobalShow": true,
+        "selectionInfo": {
+            "left": 0,
+            "top": 0,
+            "show": false,
+            "from": "",
+            "to": "",
+            "val": "",
+            "area": ""
+        },
+        "showConfirmDialog": false,
+        "promotionList": {
+            "pc_bottom": {
+                "imgsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png",
+                "qcsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png"
+            },
+            "pc_middle": [
+                {
+                    "src": "//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c",
+                    "bgColor": "#ffffff",
+                    "link": ""
+                }
+            ],
+            "pc_survey": {
+                "icon": "//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750",
+                "link": "https://wj.qq.com/s2/8193148/806d/"
+            }
+        },
+        "transTypeTxt": "text",
+        "fixedTabStatus": 0,
+        "bodyTop": 0,
+        "ifHideUserOperation": false
+    },
+    "textTranslate": {
+        "prevTransQuery": "",
+        "translateData": {
+            "translate": {
+                "zly": "zly",
+                "errorCode": "0",
+                "qc_type": "1",
+                "index": "content0",
+                "from": "en",
+                "source": "sogou",
+                "text": "monk",
+                "to": "zh-CHS",
+                "id": "5dfafb76-d26d-4f43-a177-dd56aba67c72",
+                "dit": "僧侣",
+                "orig_text": "monk",
+                "md5": ""
+            },
+            "detect": {
+                "zly": "zly",
+                "detect": "en",
+                "errorCode": "0",
+                "language": "英语",
+                "id": "4f9b3850-b56d-11ef-a3a7-a715debd7290",
+                "text": "monk"
+            },
+            "sgtkn": "65CC2848F2345AF3F8F1DF3A41C24F78F896798F6755A760",
+            "wordCard": {
+                "title": "monk",
+                "show": true,
+                "usualDict": [
+                    {
+                        "values": [
+                            "僧侣；修道士；（Monk）蒙克（人名）"
+                        ],
+                        "pos": "n."
+                    }
+                ],
+                "secondQuery": "",
+                "exchange": {
+                    "word_pl": [
+                        "monks"
+                    ]
+                },
+                "levelList": [
+                    "初中",
+                    "高中",
+                    "六级"
+                ]
+            },
+            "detail": {
+                "synonym": [
+                    {
+                        "word_list": [
+                            "religious",
+                            "monastery"
+                        ],
+                        "pos": "n.",
+                        "mean": "僧侣，修道士；和尚"
+                    }
+                ],
+                "wordRootInfo": {
+                    "word_info_list": [
+                        {
+                            "word": "monkish",
+                            "pos_mean_info_list": [
+                                {
+                                    "pos": "adj.",
+                                    "mean": "僧侣的；苦行僧般的（常带贬义）"
+                                }
+                            ]
+                        }
+                    ],
+                    "root_word": "monk"
+                },
+                "word_group": [
+                    {
+                        "brief_definition": "僧海豹",
+                        "phrase": "monk seal",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "佛教和尚；佛教僧人；和尚",
+                        "phrase": "buddhist monk",
+                        "pos": ""
+                    }
+                ],
+                "bilingual": [
+                    {
+                        "source": "Tang <em>Monk</em> always wears a <em>monk</em>'s robe.",
+                        "target": "唐僧总是穿着僧袍。",
+                        "url": ""
+                    },
+                    {
+                        "source": "The <em>monk</em> had a shaven head.",
+                        "target": "那个僧侣有一个刮过的头。",
+                        "url": ""
+                    },
+                    {
+                        "source": "The <em>monk</em> decided to join the abb.",
+                        "target": "那个僧侣决定加入修道院。",
+                        "url": ""
+                    },
+                    {
+                        "source": "The <em>monk</em> meditated to gain prajna.",
+                        "target": "僧侣冥想以获得智慧。",
+                        "url": ""
+                    },
+                    {
+                        "source": "The <em>monk</em> reads a sutra every morning.",
+                        "target": "僧侣每天早晨诵读一部佛经。",
+                        "url": ""
+                    },
+                    {
+                        "source": "The <em>monk</em> renounced all worldly desires.",
+                        "target": "那位僧侣放弃了所有世俗的欲望。",
+                        "url": ""
+                    },
+                    {
+                        "source": "The <em>monk</em> placed the censer on the altar.",
+                        "target": "僧侣将香炉放在祭坛上。",
+                        "url": ""
+                    },
+                    {
+                        "source": "The <em>monk</em>'s piety inspired many followers.",
+                        "target": "那位僧侣的虔诚激励了许多追随者。",
+                        "url": ""
+                    },
+                    {
+                        "source": "The <em>monk</em>'s hood covered most of his face.",
+                        "target": "僧侣的兜帽遮住了他大部分的脸。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Tang <em>Monk</em>'s compassion moved many people.",
+                        "target": "唐僧的慈悲心感动了许多人。",
+                        "url": ""
+                    }
+                ],
+                "baike": {
+                    "showMore": false,
+                    "list": [
+                        {
+                            "lemmaTitle": "神探阿蒙",
+                            "link": "https://baike.sogou.com/v885555.htm?ch=sogou.fanyi",
+                            "abstract": "《神探阿蒙》（Monk）是由迪恩·帕里索、兰迪·奇斯克等执导，安迪·布莱克曼等担任编剧，托尼·夏尔赫布、比蒂·施拉姆、特蕾勒·霍华德、泰德·拉文、贾森·加里-斯坦福德等主演的侦探推理喜剧犯罪系列电视剧，于2001年出品，于2002年7月12日在美国USA电视台首播，共有八季，125集。 该剧讲述了一名“问题侦探”亚德里安·蒙克（托尼·谢尔博 饰）的各种破案故事。 2009年12月08日，根据搜狐娱乐报道，该剧在大结局时创下了新高，以950万的收视成绩成为该台剧情片中收视最高的一集。",
+                            "wapPic": "//img01.sogoucdn.com/v2/thumb/retype_exclude_gif/ext/auto/q/80/crop/xy/ai/w/140/h/140/resize/w/140?appid=201005&sign=917765ef99958645da3dc9009ac4463a&url=https%3A%2F%2Fpic.baike.soso.com%2Fugc%2Fbaikepic2%2F0%2F20240508052156-1535881447_png_420_590_362682.jpg%2F0",
+                            "pcPic": "//img03.sogoucdn.com/v2/thumb/retype_exclude_gif/ext/auto/q/80/crop/xy/ai/w/140/h/140/resize/w/140?appid=201005&sign=917765ef99958645da3dc9009ac4463a&url=https%3A%2F%2Fpic.baike.soso.com%2Fugc%2Fbaikepic2%2F0%2F20240508052156-1535881447_png_420_590_362682.jpg%2F0"
+                        }
+                    ]
+                }
+            },
+            "book": {
+                "yingyinNormal": [
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/f0ed3bd1897036484d259b1dfb2cebc8_22838.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/ec26d97c9461a9df273a1992abc179d7_15673.mp3",
+                        "isLavafox": true,
+                        "en": "You know what? From now on, l am gonna be Mommy <em>Monk</em>. Simple. Celibate.",
+                        "zh": "说真的，从现在开始你妈妈我要变成个尼姑，洁身自好，守身如玉。",
+                        "videoNameZh": "《少年时代》",
+                        "videoNameEn": "《Boyhood》",
+                        "url": "http://bisentence_movie.sogou.com/ae45819b559dde99ca466ecdb57a5d10_f78227953a4cbc99e5f58a0e370ff9d32dee16fd"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/882c4a955031459b92686f70d94deed1_14165.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/152525c2e5ddbdd8cb3a79a1ecdb980e_53966.mp3",
+                        "isLavafox": true,
+                        "en": "Or will you say, like a <em>monk</em> from Shaolin to summon the spirit of the crane and the tiger?",
+                        "zh": "还是会说就像少林武僧一样集白鹤与猛虎之气，使出这样的拳法？",
+                        "videoNameZh": "《马可波罗 第一季》",
+                        "videoNameEn": "《Marco Polo Season 1》",
+                        "url": "http://bisentence_movie.sogou.com/35719a67375986dd3a77e23f147c0501_36609bf40024825bfa4f75f5927d22d077401544"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/ffb97d198e1d0938c0a9c7c9f667a5c2_10585.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/71a3213491baec45e9dadcf450cae0c3_24879.mp3",
+                        "isLavafox": true,
+                        "en": "You're so obsessed with Kenny Clarke and Thelonious <em>Monk</em>. These guys were revolutionaries. How are you going to be a revolutionary, if you're such a traditionalist?",
+                        "zh": "你对肯尼克·拉克和塞隆尼斯·蒙克如此着迷。这些人都是革命者。如果你自己就是个保守派，你要怎么成为革命者？",
+                        "videoNameZh": "《爱乐之城》",
+                        "videoNameEn": "《La La Land》",
+                        "url": "http://bisentence_movie.sogou.com/567f7054a6983b43e1582c2c2679e97a_016d97a50bc75e3ed20748cf0d918b2cb74b8d2d"
+                    }
+                ]
+            },
+            "pic": "",
+            "voice": {
+                "phonetic": [
+                    {
+                        "text": "mʌŋk",
+                        "type": "uk",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/13028_monk_uk.mp3"
+                    },
+                    {
+                        "text": "mʌŋk",
+                        "type": "usa",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/13028_monk_usa.mp3"
+                    }
+                ]
+            },
+            "dictType": "oxford_buchong",
+            "zhongkao": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 1,
+                        "pos": "n",
+                        "chinese": "僧侣; 修道士",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "monk",
+                "direction_info": {
+                    "ranges": 4,
+                    "description": "数据源自2018-2021年4年间全国各省市中考试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2018-2021年全国重点省市中考试卷，包括听力、阅读、完形、单选、填空、改错、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选各省市考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2018-2021年4年间全国各省市中考试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 1,
+                "total_exam_freq": 1,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "僧侣; 修道士",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "In Spain, some <highlight>monks</highlight> (僧侣) saved Squanto and looked after him for three years.",
+                                    "month": -1,
+                                    "source": "临沂市卷",
+                                    "coll": "",
+                                    "sentence_trans": "在西班牙，一些僧侣救了Squanto并照顾了他三年。",
+                                    "year": 2021,
+                                    "type": "阅读表达",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            "sentencesData": {
+                "status": 1,
+                "info": "notZh2En",
+                "data": {}
+            },
+            "isAutoMatch": false,
+            "Zh2En": false
+        },
+        "query": "monk",
+        "result": "僧侣",
+        "tabSelect": "detail",
+        "dictionaryType": "oxford_buchong",
+        "notFound_show": false,
+        "phoneticShow": "",
+        "globalShowTranslateRecord": "",
+        "pronPrefer": {
+            "type": "usa_1",
+            "speaker": "male",
+            "speed": "standard"
+        },
+        "ServerRecord": "",
+        "ServerUIGS": {
+            "version": "new",
+            "type": "all",
+            "stype": "success",
+            "terminal": "web",
+            "fr": "default",
+            "direction": "etoz",
+            "from": "en",
+            "to": "zh-CHS",
+            "len": 4,
+            "qtype": "text",
+            "qctype": "qc_1",
+            "dict_cover": 1,
+            "detail": 1,
+            "wordCardCover": 1,
+            "wordCardEn": 1,
+            "wordCardCh": 0,
+            "wordCardMinor": 0,
+            "wordCardNetmean": 0,
+            "wordDeform": 1,
+            "keyword": 0,
+            "bilingual": 1,
+            "simple": 0,
+            "levelList": 1,
+            "synonym": 1,
+            "antonym": 0,
+            "conjugate": 1,
+            "rootaffix": 0,
+            "baike_sogou": 1,
+            "baike_wiki": 0,
+            "wordDifference": 0,
+            "word_phrase": 1,
+            "secondQuery": 0,
+            "dict_oxford": 0,
+            "dict_newcentury": 0,
+            "zhongkaotab": 1,
+            "gaokaotab": 0,
+            "CET4tab": 0,
+            "CET6tab": 0,
+            "kaoyantab": 0,
+            "network_tab": 0,
+            "yinying_tab": 1,
+            "tuozhan_tab": 0,
+            "one_pic": 0,
+            "more_pic": 0,
+            "no_pic": 0,
+            "uuid": "5dfafb76-d26d-4f43-a177-dd56aba67c72",
+            "from_type": 0,
+            "t_trans_ssr": 160
+        },
+        "ServerModelUIGS": {
+            "terminal": "web",
+            "type": "trans_model",
+            "pbtype": "pv",
+            "model_general": 1,
+            "model_medical": 1,
+            "model_finance": 1
+        },
+        "ServerSgtkn": "65CC2848F2345AF3F8F1DF3A41C24F78F896798F6755A760",
+        "suggShow": false,
+        "suggestion": "",
+        "suggDirection": "",
+        "usualTop": "",
+        "baseDict": "",
+        "wordCardClick": false,
+        "isFrInput": false,
+        "kanaTips": {
+            "show": false,
+            "left": "",
+            "top": "",
+            "type": "",
+            "arrowLeft": ""
+        },
+        "currSentenceIndex": -1,
+        "prefixStrObj": {
+            "prefixStr": "",
+            "oriPrefixStr": ""
+        },
+        "selectTransBox": {
+            "show": false,
+            "right": 0,
+            "top": 0,
+            "paraphraseInfo": {
+                "word": "",
+                "from": "",
+                "to": "",
+                "area": ""
+            }
+        },
+        "sentenceLoading": false,
+        "newSentenceInfo": {
+            "sentence": "",
+            "candidateIndex": 0
+        },
+        "moreTipInfo": {
+            "opacity": 0,
+            "zIndex": -1
+        },
+        "paraphraseShowInfo": {
+            "card": 0,
+            "query": "",
+            "card_dict": 0
+        },
+        "selectType": "",
+        "wordPos": 0,
+        "candidateWord": "",
+        "syntaxVisible": false,
+        "syntaxStatus": 0
+    },
+    "language": {
+        "from": "auto",
+        "to": "zh-CHS",
+        "detect": "en",
+        "model": "general",
+        "detectShow": false,
+        "langMap": {
+            "current": ""
+        },
+        "zh2en": false,
+        "fromItemList": [
+            {
+                "lang": "auto",
+                "text": "自动检测",
+                "play": false
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "th",
+                "text": "泰语",
+                "play": true,
+                "abbr": "泰"
+            },
+            {
+                "lang": "da",
+                "text": "丹麦语",
+                "play": true,
+                "abbr": "丹麦"
+            },
+            {
+                "lang": "fi",
+                "text": "芬兰语",
+                "play": true,
+                "abbr": "芬"
+            }
+        ],
+        "toItemList": [
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "ko",
+                "text": "韩语",
+                "play": true,
+                "abbr": "韩"
+            },
+            {
+                "lang": "vi",
+                "text": "越南语",
+                "play": true,
+                "abbr": "越"
+            },
+            {
+                "lang": "ru",
+                "text": "俄语",
+                "play": true,
+                "abbr": "俄"
+            }
+        ]
+    },
+    "voice": {
+        "from": {
+            "lang": "en",
+            "type": "from",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22monk%22%2C%22spokenDialect%22%3A%22en%22%2C%22rate%22%3A%220.8%22%7D",
+            "list": [
+                {
+                    "type": "uk_0",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "mʌŋk",
+                    "abbr": "英",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/13028_monk_uk.mp3"
+                },
+                {
+                    "type": "usa_1",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "mʌŋk",
+                    "abbr": "美",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/13028_monk_usa.mp3"
+                }
+            ],
+            "stype": "phonetic",
+            "phoneticShow": [
+                {
+                    "text": "mʌŋk",
+                    "type": "uk",
+                    "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/13028_monk_uk.mp3"
+                }
+            ]
+        },
+        "to": {
+            "lang": "zh",
+            "type": "to",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22%E5%83%A7%E4%BE%A3%22%2C%22spokenDialect%22%3A%22zh-CHS%22%2C%22rate%22%3A%220.8%22%7D",
+            "stype": "normal"
+        }
+    }
+}

@@ -1,0 +1,618 @@
+{
+    "route": {
+        "name": "text",
+        "path": "/text",
+        "hash": "",
+        "query": {
+            "keyword": "turnout",
+            "transfrom": "auto",
+            "transto": "zh-CHS",
+            "model": "general",
+            "errcode": "s10"
+        },
+        "params": {},
+        "fullPath": "/text?keyword=turnout&transfrom=auto&transto=zh-CHS&model=general&errcode=s10",
+        "meta": {
+            "mtype": [
+                "textTranslate",
+                "language",
+                "voice"
+            ]
+        },
+        "from": {
+            "name": null,
+            "path": "/",
+            "hash": "",
+            "query": {},
+            "params": {},
+            "fullPath": "/",
+            "meta": {}
+        }
+    },
+    "common": {
+        "CONFIG": {
+            "wuid": 1733669193965,
+            "loginInfo": {},
+            "isIE": 0,
+            "isHitSsrSwitch": true,
+            "isHitWritebookSwitch": false,
+            "isHitAmsSwitch": true,
+            "promotionList": "{\n    \"pc_bottom\":{\n        \"imgsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\",\n        \"qcsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\"\n    },\n    \"pc_middle\":[\n        {\n            \"src\":\"//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c\",\n            \"bgColor\":\"#ffffff\",\n            \"link\":\"\"\n        }\n    ],\n    \"pc_survey\":{\n        \"icon\":\"//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750\",\n        \"link\":\"https://wj.qq.com/s2/8193148/806d/\"\n    }\n}",
+            "bannerData": [],
+            "isHitAsideSurvey": false,
+            "secretCode": 109984457,
+            "uuid": "a4ae3096-0601-45c1-9639-24626b1cae73",
+            "referer": "",
+            "approveToken": "65DB0D8903C0A9070C0A23CF5B7AD2EC0C575D8B6755B149",
+            "loadTime": 1733669193967,
+            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0",
+            "fcp": "159.65.124.238",
+            "temporaryId": "",
+            "fileId": ""
+        },
+        "hotWords": [],
+        "isFromCollect": false,
+        "psdModify": {
+            "currentStep": 1,
+            "scode": "",
+            "username": ""
+        },
+        "loginStatus": true,
+        "feedBackModule": false,
+        "showPromotionPopup": {
+            "show": false,
+            "type": ""
+        },
+        "showPromotionPCDownload": false,
+        "showShareBomb": false,
+        "shareData": null,
+        "showAppDownLoad": false,
+        "showLoginDialog": false,
+        "showLoading": {
+            "show": false
+        },
+        "toast": {
+            "show": false,
+            "text": "",
+            "loading": false
+        },
+        "modelToast": {
+            "show": false,
+            "text": ""
+        },
+        "selectionGlobalShow": true,
+        "selectionInfo": {
+            "left": 0,
+            "top": 0,
+            "show": false,
+            "from": "",
+            "to": "",
+            "val": "",
+            "area": ""
+        },
+        "showConfirmDialog": false,
+        "promotionList": {
+            "pc_bottom": {
+                "imgsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png",
+                "qcsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png"
+            },
+            "pc_middle": [
+                {
+                    "src": "//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c",
+                    "bgColor": "#ffffff",
+                    "link": ""
+                }
+            ],
+            "pc_survey": {
+                "icon": "//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750",
+                "link": "https://wj.qq.com/s2/8193148/806d/"
+            }
+        },
+        "transTypeTxt": "text",
+        "fixedTabStatus": 0,
+        "bodyTop": 0,
+        "ifHideUserOperation": false
+    },
+    "textTranslate": {
+        "prevTransQuery": "",
+        "translateData": {
+            "translate": {
+                "zly": "zly",
+                "errorCode": "0",
+                "qc_type": "1",
+                "index": "content0",
+                "from": "en",
+                "source": "sogou",
+                "text": "turnout",
+                "to": "zh-CHS",
+                "id": "a4ae3096-0601-45c1-9639-24626b1cae73",
+                "dit": "出动",
+                "orig_text": "turnout",
+                "md5": ""
+            },
+            "detect": {
+                "zly": "zly",
+                "detect": "en",
+                "errorCode": "0",
+                "language": "英语",
+                "id": "38272250-b573-11ef-8c16-9bd7b239b37f",
+                "text": "turnout"
+            },
+            "sgtkn": "65DB0D8D03C0A9070C0A23CF5B7AD2EC0C575D8B6755B149",
+            "wordCard": {
+                "title": "turnout",
+                "show": true,
+                "usualDict": [
+                    {
+                        "values": [
+                            "出席人数；参加人数；投票人数；岔道口；公路避车道；全套马车；车辆装备；装束；产量"
+                        ],
+                        "pos": "n."
+                    }
+                ],
+                "secondQuery": "",
+                "exchange": {
+                    "word_pl": [
+                        "turnouts"
+                    ]
+                },
+                "levelList": [
+                    "六级"
+                ]
+            },
+            "detail": {
+                "synonym": [
+                    {
+                        "word_list": [
+                            "crop",
+                            "output",
+                            "cleaning",
+                            "yield",
+                            "harvest"
+                        ],
+                        "pos": "n.",
+                        "mean": "产量；出席者；出动；清除；岔道"
+                    }
+                ],
+                "word_group": [
+                    {
+                        "brief_definition": "选民投票率；选民投票；选民人数",
+                        "phrase": "voter turnout",
+                        "pos": ""
+                    }
+                ],
+                "bilingual": [
+                    {
+                        "source": "Over four days of voting, <em>turnout</em> spiked to the highest since 1994.",
+                        "target": "四天选举的投票人数创造了1994年以来的新高。",
+                        "url": "www.kekenet.com"
+                    },
+                    {
+                        "source": "The pandemic reduced <em>turnout</em> to fewer than 1,000. That's a fraction of past years.",
+                        "target": "疫情使投票人数减少到不到一千人。这只是过去几年的一小部分。",
+                        "url": "www.kekenet.com"
+                    },
+                    {
+                        "source": "The pattern is not universal: <em>turnout</em> actually rose in seven countries, and it was lower in eastern than in western Europe.",
+                        "target": "但这一情况并非放之四海皆准：事实上有七个国家的投票人数有所增长，而且西欧选民的人数要远高于东欧。",
+                        "url": "dict.so.163.com"
+                    },
+                    {
+                        "source": "The election had a record <em>turnout</em> this year.",
+                        "target": "今年的选举创下了出席人数的记录。",
+                        "url": ""
+                    },
+                    {
+                        "source": "The voter <em>turnout</em> was higher than expected this year.",
+                        "target": "今年的投票者出席率比预期的要高。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Voter <em>turnout</em> is expected to be high in this election.",
+                        "target": "预计这次选举的投票率会很高。",
+                        "url": ""
+                    },
+                    {
+                        "source": "The voters' <em>turnout</em> was higher than expected this year.",
+                        "target": "今年投票者的投票率比预期的要高。",
+                        "url": ""
+                    },
+                    {
+                        "source": "The <em>turnout</em> at the concert was much higher than expected.",
+                        "target": "音乐会的出席人数比预期的要多得多。",
+                        "url": ""
+                    },
+                    {
+                        "source": "The success of the referenda depends on the voter <em>turnout</em>.",
+                        "target": "公民投票的成功取决于投票率。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Despite the rain, the <em>turnout</em> for the event was impressive.",
+                        "target": "尽管下雨，活动的出席人数仍然令人印象深刻。",
+                        "url": ""
+                    }
+                ]
+            },
+            "book": {
+                "yingyinNormal": [
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/334ae739c2d3bef71ab483cd142c3ad8_18137.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/eeb556d9163d1f06d40c10221d610c24_6304.mp3",
+                        "isLavafox": true,
+                        "en": "I can get you the numbers for the state. No, I don't want that. I want the Gaffney <em>turnout</em>.",
+                        "zh": "我可以告诉你全州投票率。我不要全州的，我要加夫尼的投票率。",
+                        "videoNameZh": "《纸牌屋 第五季》",
+                        "videoNameEn": "《House of Cards Season 5》",
+                        "url": "http://bisentence_movie.sogou.com/becaefde965cbfaabcb950788876ab13_4318ad73d1c4596a907fc280e1a3c0be0a9d3fa5"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/334ae739c2d3bef71ab483cd142c3ad8_18137.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/3feb2654f5259c7fb2761f87783d41f8_60120.mp3",
+                        "isLavafox": true,
+                        "en": "Doug. Yes sir. I want you to reach out to Sally Ann back in Gaffney and get me the <em>turnout</em> so far.",
+                        "zh": "道格？是，先生。你帮我联系加夫尼的萨莉·安。告诉我目前的投票率。",
+                        "videoNameZh": "《纸牌屋 第五季》",
+                        "videoNameEn": "《House of Cards Season 5》",
+                        "url": "http://bisentence_movie.sogou.com/fb8b42229cff3cfba7b05ba9382011b2_236865c81cad8c05d0833b8cc6126c679d159b00"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/79503c1e736da4c03e70d85340fb568d_45273.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/69deea46c1cf9d3c52653c7f75652143_14012.mp3",
+                        "isLavafox": true,
+                        "en": "You'd be too dejected to repeat that same kind of <em>turnout</em> in the 2012 election, and you prove them wrong by showing up in even greater numbers. That's who you are.",
+                        "zh": "也会心灰意冷，在2012年的选拔中，不会再有那么多人申请，而你们用更大的规模的申请人数推翻了他们的预测。这就是你们自己。",
+                        "videoNameZh": "《奥普拉演讲》",
+                        "videoNameEn": "《Oprah Winfrey Speech at Harvard》",
+                        "url": "http://bisentence_movie.sogou.com/ace6eb80f1909b3a38b555094b5d96f5_cad9b833ba51f458d72bdfd26b6425fa8be5311a"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/334ae739c2d3bef71ab483cd142c3ad8_18137.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/24448e517eac0ec25295b1e2044ace64_38366.mp3",
+                        "isLavafox": true,
+                        "en": "He's getting clobbered in the northern part of the state. Low <em>turnout</em> in Cleveland's not helping. But he could still pull it out. He's not going to win and he knows it.",
+                        "zh": "他在州北的情况很糟。克利夫兰的低投票率也是个问题。但他还能扭转局势。他赢不了的，他也清楚。",
+                        "videoNameZh": "《纸牌屋 第五季》",
+                        "videoNameEn": "《House of Cards Season 5》",
+                        "url": "http://bisentence_movie.sogou.com/408fc0c066f3d86fa13870d048e70363_7860631585f0c031553d573d40404d5432426c76"
+                    }
+                ]
+            },
+            "pic": "",
+            "voice": {
+                "phonetic": [
+                    {
+                        "text": "ˈtɜːnaʊt",
+                        "type": "uk",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/13262_turnout_uk.mp3"
+                    },
+                    {
+                        "text": "ˈtɜːrnaʊt",
+                        "type": "usa",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/13262_turnout_usa.mp3"
+                    }
+                ]
+            },
+            "dictType": "oxford_buchong",
+            "CET6": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 0,
+                        "pos": "n",
+                        "chinese": "出席人数",
+                        "sense_tier_ratio": 0
+                    },
+                    {
+                        "sense_tier": 0,
+                        "pos": "n",
+                        "chinese": "到场人数",
+                        "sense_tier_ratio": 0
+                    },
+                    {
+                        "sense_tier": 0,
+                        "pos": "n",
+                        "chinese": "投票人数",
+                        "sense_tier_ratio": 0
+                    }
+                ],
+                "word": "turnout",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2016.6-2023.6年8年间全六级试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight>考纲释义</highlight>\n精选实考、考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2016-2023年51套试卷，包括阅读、听力、翻译等所有题型。\n\n<highlight>真题例句</highlight>\n精选2016-2023年8年间全六级试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 1,
+                "total_exam_freq": 0,
+                "sense": {
+                    "sense_num": 3,
+                    "sense_info_list": [
+                        {
+                            "synonyms": "",
+                            "en": "",
+                            "zh": "出席人数",
+                            "pos": "n",
+                            "antonyms": ""
+                        },
+                        {
+                            "synonyms": "",
+                            "en": "",
+                            "zh": "到场人数",
+                            "pos": "n",
+                            "antonyms": ""
+                        },
+                        {
+                            "synonyms": "",
+                            "en": "",
+                            "zh": "投票人数",
+                            "pos": "n",
+                            "antonyms": ""
+                        }
+                    ]
+                }
+            },
+            "sentencesData": {
+                "status": 1,
+                "info": "notZh2En",
+                "data": {}
+            },
+            "isAutoMatch": false,
+            "Zh2En": false
+        },
+        "query": "turnout",
+        "result": "出动",
+        "tabSelect": "detail",
+        "dictionaryType": "oxford_buchong",
+        "notFound_show": false,
+        "phoneticShow": "",
+        "globalShowTranslateRecord": "",
+        "pronPrefer": {
+            "type": "usa_1",
+            "speaker": "male",
+            "speed": "standard"
+        },
+        "ServerRecord": "",
+        "ServerUIGS": {
+            "version": "new",
+            "type": "all",
+            "stype": "success",
+            "terminal": "web",
+            "fr": "default",
+            "direction": "etoz",
+            "from": "en",
+            "to": "zh-CHS",
+            "len": 7,
+            "qtype": "text",
+            "qctype": "qc_1",
+            "dict_cover": 1,
+            "detail": 1,
+            "wordCardCover": 1,
+            "wordCardEn": 1,
+            "wordCardCh": 0,
+            "wordCardMinor": 0,
+            "wordCardNetmean": 0,
+            "wordDeform": 1,
+            "keyword": 0,
+            "bilingual": 1,
+            "simple": 0,
+            "levelList": 1,
+            "synonym": 1,
+            "antonym": 0,
+            "conjugate": 0,
+            "rootaffix": 0,
+            "baike_sogou": 0,
+            "baike_wiki": 0,
+            "wordDifference": 0,
+            "word_phrase": 1,
+            "secondQuery": 0,
+            "dict_oxford": 0,
+            "dict_newcentury": 0,
+            "zhongkaotab": 0,
+            "gaokaotab": 0,
+            "CET4tab": 0,
+            "CET6tab": 1,
+            "kaoyantab": 0,
+            "network_tab": 0,
+            "yinying_tab": 1,
+            "tuozhan_tab": 0,
+            "one_pic": 0,
+            "more_pic": 0,
+            "no_pic": 0,
+            "uuid": "a4ae3096-0601-45c1-9639-24626b1cae73",
+            "from_type": 0,
+            "t_trans_ssr": 160
+        },
+        "ServerModelUIGS": {
+            "terminal": "web",
+            "type": "trans_model",
+            "pbtype": "pv",
+            "model_general": 1,
+            "model_medical": 1,
+            "model_finance": 1
+        },
+        "ServerSgtkn": "65DB0D8D03C0A9070C0A23CF5B7AD2EC0C575D8B6755B149",
+        "suggShow": false,
+        "suggestion": "",
+        "suggDirection": "",
+        "usualTop": "",
+        "baseDict": "",
+        "wordCardClick": false,
+        "isFrInput": false,
+        "kanaTips": {
+            "show": false,
+            "left": "",
+            "top": "",
+            "type": "",
+            "arrowLeft": ""
+        },
+        "currSentenceIndex": -1,
+        "prefixStrObj": {
+            "prefixStr": "",
+            "oriPrefixStr": ""
+        },
+        "selectTransBox": {
+            "show": false,
+            "right": 0,
+            "top": 0,
+            "paraphraseInfo": {
+                "word": "",
+                "from": "",
+                "to": "",
+                "area": ""
+            }
+        },
+        "sentenceLoading": false,
+        "newSentenceInfo": {
+            "sentence": "",
+            "candidateIndex": 0
+        },
+        "moreTipInfo": {
+            "opacity": 0,
+            "zIndex": -1
+        },
+        "paraphraseShowInfo": {
+            "card": 0,
+            "query": "",
+            "card_dict": 0
+        },
+        "selectType": "",
+        "wordPos": 0,
+        "candidateWord": "",
+        "syntaxVisible": false,
+        "syntaxStatus": 0
+    },
+    "language": {
+        "from": "auto",
+        "to": "zh-CHS",
+        "detect": "en",
+        "model": "general",
+        "detectShow": false,
+        "langMap": {
+            "current": ""
+        },
+        "zh2en": false,
+        "fromItemList": [
+            {
+                "lang": "auto",
+                "text": "自动检测",
+                "play": false
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "de",
+                "text": "德语",
+                "play": true,
+                "abbr": "德"
+            },
+            {
+                "lang": "th",
+                "text": "泰语",
+                "play": true,
+                "abbr": "泰"
+            },
+            {
+                "lang": "fr",
+                "text": "法语",
+                "play": true,
+                "abbr": "法"
+            }
+        ],
+        "toItemList": [
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "vi",
+                "text": "越南语",
+                "play": true,
+                "abbr": "越"
+            },
+            {
+                "lang": "ru",
+                "text": "俄语",
+                "play": true,
+                "abbr": "俄"
+            },
+            {
+                "lang": "ko",
+                "text": "韩语",
+                "play": true,
+                "abbr": "韩"
+            }
+        ]
+    },
+    "voice": {
+        "from": {
+            "lang": "en",
+            "type": "from",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22turnout%22%2C%22spokenDialect%22%3A%22en%22%2C%22rate%22%3A%220.8%22%7D",
+            "list": [
+                {
+                    "type": "uk_0",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "ˈtɜːnaʊt",
+                    "abbr": "英",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/13262_turnout_uk.mp3"
+                },
+                {
+                    "type": "usa_1",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "ˈtɜːrnaʊt",
+                    "abbr": "美",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/13262_turnout_usa.mp3"
+                }
+            ],
+            "stype": "phonetic",
+            "phoneticShow": [
+                {
+                    "text": "ˈtɜːnaʊt",
+                    "type": "uk",
+                    "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/13262_turnout_uk.mp3"
+                },
+                {
+                    "text": "ˈtɜːrnaʊt",
+                    "type": "usa",
+                    "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/13262_turnout_usa.mp3"
+                }
+            ]
+        },
+        "to": {
+            "lang": "zh",
+            "type": "to",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22%E5%87%BA%E5%8A%A8%22%2C%22spokenDialect%22%3A%22zh-CHS%22%2C%22rate%22%3A%220.8%22%7D",
+            "stype": "normal"
+        }
+    }
+}

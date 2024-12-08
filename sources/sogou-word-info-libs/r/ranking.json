@@ -1,0 +1,702 @@
+{
+    "route": {
+        "name": "text",
+        "path": "/text",
+        "hash": "",
+        "query": {
+            "keyword": "ranking",
+            "transfrom": "auto",
+            "transto": "zh-CHS",
+            "model": "general",
+            "errcode": "s10"
+        },
+        "params": {},
+        "fullPath": "/text?keyword=ranking&transfrom=auto&transto=zh-CHS&model=general&errcode=s10",
+        "meta": {
+            "mtype": [
+                "textTranslate",
+                "language",
+                "voice"
+            ]
+        },
+        "from": {
+            "name": null,
+            "path": "/",
+            "hash": "",
+            "query": {},
+            "params": {},
+            "fullPath": "/",
+            "meta": {}
+        }
+    },
+    "common": {
+        "CONFIG": {
+            "wuid": 1733667544203,
+            "loginInfo": {},
+            "isIE": 0,
+            "isHitSsrSwitch": true,
+            "isHitWritebookSwitch": false,
+            "isHitAmsSwitch": true,
+            "promotionList": "{\n    \"pc_bottom\":{\n        \"imgsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\",\n        \"qcsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\"\n    },\n    \"pc_middle\":[\n        {\n            \"src\":\"//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c\",\n            \"bgColor\":\"#ffffff\",\n            \"link\":\"\"\n        }\n    ],\n    \"pc_survey\":{\n        \"icon\":\"//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750\",\n        \"link\":\"https://wj.qq.com/s2/8193148/806d/\"\n    }\n}",
+            "bannerData": [],
+            "isHitAsideSurvey": false,
+            "secretCode": 109984457,
+            "uuid": "1b422628-3c41-46ac-a887-8b6d82e329e5",
+            "referer": "",
+            "approveToken": "65D21EFB32D9B41E16103ED7FB3768ED1667AE5E6755AAD8",
+            "loadTime": 1733667544205,
+            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0",
+            "fcp": "159.65.124.238",
+            "temporaryId": "",
+            "fileId": ""
+        },
+        "hotWords": [],
+        "isFromCollect": false,
+        "psdModify": {
+            "currentStep": 1,
+            "scode": "",
+            "username": ""
+        },
+        "loginStatus": true,
+        "feedBackModule": false,
+        "showPromotionPopup": {
+            "show": false,
+            "type": ""
+        },
+        "showPromotionPCDownload": false,
+        "showShareBomb": false,
+        "shareData": null,
+        "showAppDownLoad": false,
+        "showLoginDialog": false,
+        "showLoading": {
+            "show": false
+        },
+        "toast": {
+            "show": false,
+            "text": "",
+            "loading": false
+        },
+        "modelToast": {
+            "show": false,
+            "text": ""
+        },
+        "selectionGlobalShow": true,
+        "selectionInfo": {
+            "left": 0,
+            "top": 0,
+            "show": false,
+            "from": "",
+            "to": "",
+            "val": "",
+            "area": ""
+        },
+        "showConfirmDialog": false,
+        "promotionList": {
+            "pc_bottom": {
+                "imgsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png",
+                "qcsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png"
+            },
+            "pc_middle": [
+                {
+                    "src": "//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c",
+                    "bgColor": "#ffffff",
+                    "link": ""
+                }
+            ],
+            "pc_survey": {
+                "icon": "//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750",
+                "link": "https://wj.qq.com/s2/8193148/806d/"
+            }
+        },
+        "transTypeTxt": "text",
+        "fixedTabStatus": 0,
+        "bodyTop": 0,
+        "ifHideUserOperation": false
+    },
+    "textTranslate": {
+        "prevTransQuery": "",
+        "translateData": {
+            "translate": {
+                "zly": "zly",
+                "errorCode": "0",
+                "qc_type": "1",
+                "index": "content0",
+                "from": "en",
+                "source": "sogou",
+                "text": "ranking",
+                "to": "zh-CHS",
+                "id": "1b422628-3c41-46ac-a887-8b6d82e329e5",
+                "dit": "等级",
+                "orig_text": "ranking",
+                "md5": ""
+            },
+            "detect": {
+                "zly": "zly",
+                "detect": "en",
+                "errorCode": "0",
+                "language": "英语",
+                "id": "60d0f900-b56f-11ef-a6f5-bf4f75b091ff",
+                "text": "ranking"
+            },
+            "sgtkn": "65D21F0132D9B41E16103ED7FB3768ED1667AE5E6755AAD8",
+            "wordCard": {
+                "title": "ranking",
+                "show": true,
+                "usualDict": [
+                    {
+                        "values": [
+                            "排名；排位（尤指在体育运动中）；顺序；（某项体育运动的）最佳运动员排名表；排行榜"
+                        ],
+                        "pos": "n."
+                    },
+                    {
+                        "values": [
+                            "…等级的；高级的；…级别的；排名靠前的；位于上游的"
+                        ],
+                        "pos": "adj."
+                    },
+                    {
+                        "values": [
+                            "排列；使排成行；把…分等级；给…评定等级；分级；编排队列（rank的现在分词）"
+                        ],
+                        "pos": "v."
+                    }
+                ],
+                "secondQuery": "",
+                "exchange": {
+                    "word_proto": [
+                        "rank"
+                    ],
+                    "word_pl": [
+                        "rankings"
+                    ]
+                },
+                "levelList": [
+                    "高中",
+                    "四级",
+                    "六级",
+                    "考研",
+                    "雅思",
+                    "托福"
+                ]
+            },
+            "detail": {
+                "synonym": [
+                    {
+                        "word_list": [
+                            "superior",
+                            "top"
+                        ],
+                        "pos": "adj.",
+                        "mean": "上级的；头等的；超群的"
+                    },
+                    {
+                        "word_list": [
+                            "status",
+                            "degree",
+                            "classification",
+                            "capacity",
+                            "grade"
+                        ],
+                        "pos": "n.",
+                        "mean": "等级；地位"
+                    },
+                    {
+                        "word_list": [
+                            "ranging"
+                        ],
+                        "pos": "v.",
+                        "mean": "排列；归类于"
+                    }
+                ],
+                "wordRootInfo": {
+                    "word_info_list": [
+                        {
+                            "word": "rank",
+                            "pos_mean_info_list": [
+                                {
+                                    "pos": "adj.",
+                                    "mean": "讨厌的；恶臭的；繁茂的"
+                                },
+                                {
+                                    "pos": "n.",
+                                    "mean": "排；等级；军衔；队列"
+                                },
+                                {
+                                    "pos": "vi.",
+                                    "mean": "列为；列队"
+                                },
+                                {
+                                    "pos": "vt.",
+                                    "mean": "排列；把…分等"
+                                }
+                            ]
+                        },
+                        {
+                            "word": "range",
+                            "pos_mean_info_list": [
+                                {
+                                    "pos": "n.",
+                                    "mean": "范围；幅度；排；山脉"
+                                },
+                                {
+                                    "pos": "vi.",
+                                    "mean": "平行，列为一行；延伸；漫游；射程达到"
+                                },
+                                {
+                                    "pos": "vt.",
+                                    "mean": "漫游；放牧；使并列；归类于；来回走动"
+                                }
+                            ]
+                        },
+                        {
+                            "word": "ranging",
+                            "pos_mean_info_list": [
+                                {
+                                    "pos": "n.",
+                                    "mean": "排列；测距修正"
+                                },
+                                {
+                                    "pos": "v.",
+                                    "mean": "排列（range的ing形式）；分类"
+                                }
+                            ]
+                        }
+                    ],
+                    "root_word": "rank"
+                },
+                "word_group": [
+                    {
+                        "brief_definition": "航空公司排名；航空公司排行榜",
+                        "phrase": "ranking of airlines",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "准时排名；实时顺序",
+                        "phrase": "on-time ranking",
+                        "pos": ""
+                    }
+                ],
+                "bilingual": [
+                    {
+                        "source": "Where is the <em>ranking</em> of the referees?",
+                        "target": "裁判的等级分为多少？",
+                        "url": "bbs.arsenal.com.cn"
+                    },
+                    {
+                        "source": "The second step is a process called image <em>ranking</em>.",
+                        "target": "第二步是给图像排等级。",
+                        "url": "www.kekenet.com"
+                    },
+                    {
+                        "source": "Sauternes has its own <em>ranking</em> shared with Barsac.",
+                        "target": "索甸自己的评判等级与巴尔萨克共有.",
+                        "url": "www.xjishu.com"
+                    },
+                    {
+                        "source": "The <em>ranking</em> domain identifiers for each of the <em>ranking</em> schemes in Listing 4 are",
+                        "target": "清单 4 中的每个等级方案的等级域标识符是",
+                        "url": "www.ibm.com"
+                    },
+                    {
+                        "source": "SC:The Stars and Diamonds <em>ranking</em> systems what are they and how do they work?",
+                        "target": "酒店的星级与钻石级的等级排列是什么，他们如何评定等级？",
+                        "url": "blog.sina.com.cn"
+                    },
+                    {
+                        "source": "These low-<em>ranking</em> wives have relatively more daughters than higher-<em>ranking</em> and monogamously married wives.",
+                        "target": "这些等级较低的妻子与地位较高的妻子或一夫一妻制家庭的妻子相比，生的女孩更多。",
+                        "url": "dict.youdao.com"
+                    },
+                    {
+                        "source": "Their <em>ranking</em> has alcohol and tobacco among the 10 most dangerous.",
+                        "target": "在他们列出的等级中,酒精和烟草位于其中最危险的第十级.",
+                        "url": "dict.bioon.com"
+                    },
+                    {
+                        "source": "Then some comment on his view was made, that is, <em>ranking</em> arrangement is a new point of view, method and tool.",
+                        "target": "在此基础上对戴维斯的等级层次观进行了评价：等级层次观是一种新的思路、一种新的方法、一种新的工具。",
+                        "url": "dict.cnki.net"
+                    },
+                    {
+                        "source": "To whom can I speak with concerning those machine <em>ranking</em> of replies to translation request?",
+                        "target": "我能向谁说说这些关于翻译问题回答等级的问题？",
+                        "url": "dict.youdao.com"
+                    },
+                    {
+                        "source": "Adolescent males determine their own <em>ranking</em> order through jousting contests using head and tusks.",
+                        "target": "年轻的雄性大象通过用头和牙来争斗决定自己的等级。",
+                        "url": "dict.cn"
+                    }
+                ]
+            },
+            "book": {
+                "yingyinNormal": [
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/f012eb5fd120cc2d5b68f18e3d0e7c8c_67362.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/adc2d6f49e290c2c265784abec9fdd26_72539.mp3",
+                        "isLavafox": true,
+                        "en": "I'm the <em>ranking</em> partner here. Not for long. I have the votes. You had them. You just lost one.",
+                        "zh": "我是这儿级别最高的合伙人。很快就不是了，我有多数票。你曾经有，你刚刚失去一票。",
+                        "videoNameZh": "《傲骨贤妻 第五季》",
+                        "videoNameEn": "《The Good Wife Season 5》",
+                        "url": "http://bisentence_movie.sogou.com/b872765f2cb1b6e6b133b040d86f6322_dd5e6d1a53db980b9085552ad4171fa56498c4e8"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/8005d54b57fe04f26a670220f9323bc7_59749.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/d4b9b8eab011b8c89ed52c4567b53c31_56388.mp3",
+                        "isLavafox": true,
+                        "en": "Please, be aware that one of you is a high-<em>ranking</em> police officer. One of you is a member of the judiciary.",
+                        "zh": "要知道，你们之中有一人是高级警官。一人属于司法系统。",
+                        "videoNameZh": "《神探夏洛克 第四季》",
+                        "videoNameEn": "《Sherlock Season 4》",
+                        "url": "http://bisentence_movie.sogou.com/4181d2eedebbdc9f55de7607ad3eeb9d_aeaf4395569e97184d93059b5b2da88c8db82ea5"
+                    }
+                ]
+            },
+            "pic": "",
+            "voice": {
+                "phonetic": [
+                    {
+                        "text": "ˈræŋkɪŋ",
+                        "type": "uk",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/7213_ranking_uk.mp3"
+                    },
+                    {
+                        "text": "ˈræŋkɪŋ",
+                        "type": "usa",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/7213_ranking_usa.mp3"
+                    }
+                ]
+            },
+            "dictType": "oxford_buchong",
+            "CET6": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 1,
+                        "pos": "n",
+                        "chinese": "地位; 排名",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "ranking",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2016.6-2023.6年8年间全六级试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight>考纲释义</highlight>\n精选实考、考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2016-2023年51套试卷，包括阅读、听力、翻译等所有题型。\n\n<highlight>真题例句</highlight>\n精选2016-2023年8年间全六级试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 1,
+                "word_family": {
+                    "derivative_info_list": [
+                        {
+                            "derivative_info_list": [
+                                {
+                                    "derivative_info_list": [],
+                                    "word": "ranger",
+                                    "mean": "n. 看守人；守护者；护林员；武装人员；高年级女童子军队员；漫游者；（Ranger）徘徊者号"
+                                },
+                                {
+                                    "derivative_info_list": [],
+                                    "word": "wide-ranging",
+                                    "mean": "adj. 覆盖范围大的；广泛的"
+                                }
+                            ],
+                            "word": "range",
+                            "mean": "n. 幅度；范围；山脉；放牧地；牧场；狩猎场；大型多眼灶台；方向；走向"
+                        },
+                        {
+                            "derivative_info_list": [],
+                            "word": "ranking",
+                            "mean": "n. 地位；等级；品类；等级评定"
+                        }
+                    ],
+                    "word": "rank",
+                    "mean": "n. 等级；军阶；军衔；横列；秩；（Rank）人名：兰克"
+                },
+                "total_exam_freq": 1,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "地位; 排名",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "These 18-hour cities are beginning to make waves in real estate <highlight>rankings</highlight> and attract more real estate investment.",
+                                    "month": 12,
+                                    "source": "CET6",
+                                    "coll": "",
+                                    "sentence_trans": "这些18小时车程的城市开始在房地产排名上掀起波澜，吸引更多的房地产投资。",
+                                    "year": 2017,
+                                    "type": "阅读理解C",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            "sentencesData": {
+                "status": 1,
+                "info": "notZh2En",
+                "data": {}
+            },
+            "isAutoMatch": false,
+            "Zh2En": false
+        },
+        "query": "ranking",
+        "result": "等级",
+        "tabSelect": "detail",
+        "dictionaryType": "oxford_buchong",
+        "notFound_show": false,
+        "phoneticShow": "",
+        "globalShowTranslateRecord": "",
+        "pronPrefer": {
+            "type": "usa_1",
+            "speaker": "male",
+            "speed": "standard"
+        },
+        "ServerRecord": "",
+        "ServerUIGS": {
+            "version": "new",
+            "type": "all",
+            "stype": "success",
+            "terminal": "web",
+            "fr": "default",
+            "direction": "etoz",
+            "from": "en",
+            "to": "zh-CHS",
+            "len": 7,
+            "qtype": "text",
+            "qctype": "qc_1",
+            "dict_cover": 1,
+            "detail": 1,
+            "wordCardCover": 1,
+            "wordCardEn": 1,
+            "wordCardCh": 0,
+            "wordCardMinor": 0,
+            "wordCardNetmean": 0,
+            "wordDeform": 1,
+            "keyword": 0,
+            "bilingual": 1,
+            "simple": 0,
+            "levelList": 1,
+            "synonym": 1,
+            "antonym": 0,
+            "conjugate": 1,
+            "rootaffix": 0,
+            "baike_sogou": 0,
+            "baike_wiki": 0,
+            "wordDifference": 0,
+            "word_phrase": 1,
+            "secondQuery": 0,
+            "dict_oxford": 0,
+            "dict_newcentury": 0,
+            "zhongkaotab": 0,
+            "gaokaotab": 0,
+            "CET4tab": 0,
+            "CET6tab": 1,
+            "kaoyantab": 0,
+            "network_tab": 0,
+            "yinying_tab": 1,
+            "tuozhan_tab": 0,
+            "one_pic": 0,
+            "more_pic": 0,
+            "no_pic": 0,
+            "uuid": "1b422628-3c41-46ac-a887-8b6d82e329e5",
+            "from_type": 0,
+            "t_trans_ssr": 131
+        },
+        "ServerModelUIGS": {
+            "terminal": "web",
+            "type": "trans_model",
+            "pbtype": "pv",
+            "model_general": 1,
+            "model_medical": 1,
+            "model_finance": 1
+        },
+        "ServerSgtkn": "65D21F0132D9B41E16103ED7FB3768ED1667AE5E6755AAD8",
+        "suggShow": false,
+        "suggestion": "",
+        "suggDirection": "",
+        "usualTop": "",
+        "baseDict": "",
+        "wordCardClick": false,
+        "isFrInput": false,
+        "kanaTips": {
+            "show": false,
+            "left": "",
+            "top": "",
+            "type": "",
+            "arrowLeft": ""
+        },
+        "currSentenceIndex": -1,
+        "prefixStrObj": {
+            "prefixStr": "",
+            "oriPrefixStr": ""
+        },
+        "selectTransBox": {
+            "show": false,
+            "right": 0,
+            "top": 0,
+            "paraphraseInfo": {
+                "word": "",
+                "from": "",
+                "to": "",
+                "area": ""
+            }
+        },
+        "sentenceLoading": false,
+        "newSentenceInfo": {
+            "sentence": "",
+            "candidateIndex": 0
+        },
+        "moreTipInfo": {
+            "opacity": 0,
+            "zIndex": -1
+        },
+        "paraphraseShowInfo": {
+            "card": 0,
+            "query": "",
+            "card_dict": 0
+        },
+        "selectType": "",
+        "wordPos": 0,
+        "candidateWord": "",
+        "syntaxVisible": false,
+        "syntaxStatus": 0
+    },
+    "language": {
+        "from": "auto",
+        "to": "zh-CHS",
+        "detect": "en",
+        "model": "general",
+        "detectShow": false,
+        "langMap": {
+            "current": ""
+        },
+        "zh2en": false,
+        "fromItemList": [
+            {
+                "lang": "auto",
+                "text": "自动检测",
+                "play": false
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "fr",
+                "text": "法语",
+                "play": true,
+                "abbr": "法"
+            },
+            {
+                "lang": "th",
+                "text": "泰语",
+                "play": true,
+                "abbr": "泰"
+            },
+            {
+                "lang": "vi",
+                "text": "越南语",
+                "play": true,
+                "abbr": "越"
+            }
+        ],
+        "toItemList": [
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "ru",
+                "text": "俄语",
+                "play": true,
+                "abbr": "俄"
+            },
+            {
+                "lang": "it",
+                "text": "意大利语",
+                "play": true,
+                "abbr": "意"
+            },
+            {
+                "lang": "ko",
+                "text": "韩语",
+                "play": true,
+                "abbr": "韩"
+            }
+        ]
+    },
+    "voice": {
+        "from": {
+            "lang": "en",
+            "type": "from",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22ranking%22%2C%22spokenDialect%22%3A%22en%22%2C%22rate%22%3A%220.8%22%7D",
+            "list": [
+                {
+                    "type": "uk_0",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "ˈræŋkɪŋ",
+                    "abbr": "英",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/7213_ranking_uk.mp3"
+                },
+                {
+                    "type": "usa_1",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "ˈræŋkɪŋ",
+                    "abbr": "美",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/7213_ranking_usa.mp3"
+                }
+            ],
+            "stype": "phonetic",
+            "phoneticShow": [
+                {
+                    "text": "ˈræŋkɪŋ",
+                    "type": "uk",
+                    "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/7213_ranking_uk.mp3"
+                }
+            ]
+        },
+        "to": {
+            "lang": "zh",
+            "type": "to",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22%E7%AD%89%E7%BA%A7%22%2C%22spokenDialect%22%3A%22zh-CHS%22%2C%22rate%22%3A%220.8%22%7D",
+            "stype": "normal"
+        }
+    }
+}

@@ -1,0 +1,947 @@
+{
+    "route": {
+        "name": "text",
+        "path": "/text",
+        "hash": "",
+        "query": {
+            "keyword": "outlook",
+            "transfrom": "auto",
+            "transto": "zh-CHS",
+            "model": "general",
+            "errcode": "s10"
+        },
+        "params": {},
+        "fullPath": "/text?keyword=outlook&transfrom=auto&transto=zh-CHS&model=general&errcode=s10",
+        "meta": {
+            "mtype": [
+                "textTranslate",
+                "language",
+                "voice"
+            ]
+        },
+        "from": {
+            "name": null,
+            "path": "/",
+            "hash": "",
+            "query": {},
+            "params": {},
+            "fullPath": "/",
+            "meta": {}
+        }
+    },
+    "common": {
+        "CONFIG": {
+            "wuid": 1733666913177,
+            "loginInfo": {},
+            "isIE": 0,
+            "isHitSsrSwitch": true,
+            "isHitWritebookSwitch": false,
+            "isHitAmsSwitch": true,
+            "promotionList": "{\n    \"pc_bottom\":{\n        \"imgsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\",\n        \"qcsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\"\n    },\n    \"pc_middle\":[\n        {\n            \"src\":\"//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c\",\n            \"bgColor\":\"#ffffff\",\n            \"link\":\"\"\n        }\n    ],\n    \"pc_survey\":{\n        \"icon\":\"//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750\",\n        \"link\":\"https://wj.qq.com/s2/8193148/806d/\"\n    }\n}",
+            "bannerData": [],
+            "isHitAsideSurvey": false,
+            "secretCode": 109984457,
+            "uuid": "30fe5c48-d15e-432e-820f-2d25eb91fcbf",
+            "referer": "",
+            "approveToken": "65CDED191FDDB21A101738D2D895D9D0114E54B06755A861",
+            "loadTime": 1733666913179,
+            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0",
+            "fcp": "159.65.124.238",
+            "temporaryId": "",
+            "fileId": ""
+        },
+        "hotWords": [],
+        "isFromCollect": false,
+        "psdModify": {
+            "currentStep": 1,
+            "scode": "",
+            "username": ""
+        },
+        "loginStatus": true,
+        "feedBackModule": false,
+        "showPromotionPopup": {
+            "show": false,
+            "type": ""
+        },
+        "showPromotionPCDownload": false,
+        "showShareBomb": false,
+        "shareData": null,
+        "showAppDownLoad": false,
+        "showLoginDialog": false,
+        "showLoading": {
+            "show": false
+        },
+        "toast": {
+            "show": false,
+            "text": "",
+            "loading": false
+        },
+        "modelToast": {
+            "show": false,
+            "text": ""
+        },
+        "selectionGlobalShow": true,
+        "selectionInfo": {
+            "left": 0,
+            "top": 0,
+            "show": false,
+            "from": "",
+            "to": "",
+            "val": "",
+            "area": ""
+        },
+        "showConfirmDialog": false,
+        "promotionList": {
+            "pc_bottom": {
+                "imgsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png",
+                "qcsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png"
+            },
+            "pc_middle": [
+                {
+                    "src": "//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c",
+                    "bgColor": "#ffffff",
+                    "link": ""
+                }
+            ],
+            "pc_survey": {
+                "icon": "//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750",
+                "link": "https://wj.qq.com/s2/8193148/806d/"
+            }
+        },
+        "transTypeTxt": "text",
+        "fixedTabStatus": 0,
+        "bodyTop": 0,
+        "ifHideUserOperation": false
+    },
+    "textTranslate": {
+        "prevTransQuery": "",
+        "translateData": {
+            "translate": {
+                "zly": "zly",
+                "errorCode": "0",
+                "qc_type": "1",
+                "index": "content0",
+                "from": "en",
+                "source": "sogou",
+                "text": "outlook",
+                "to": "zh-CHS",
+                "id": "30fe5c48-d15e-432e-820f-2d25eb91fcbf",
+                "dit": "观点",
+                "orig_text": "outlook",
+                "md5": ""
+            },
+            "detect": {
+                "zly": "zly",
+                "detect": "en",
+                "errorCode": "0",
+                "language": "英语",
+                "id": "e8b232f0-b56d-11ef-871a-9112a61cee9e",
+                "text": "outlook"
+            },
+            "sgtkn": "65CDED211FDDB21A101738D2D895D9D0114E54B06755A861",
+            "wordCard": {
+                "title": "outlook",
+                "show": true,
+                "usualDict": [
+                    {
+                        "values": [
+                            "前景；展望；观点；看法；人生观；景色；景观；风景；视野；观察点"
+                        ],
+                        "pos": "n."
+                    }
+                ],
+                "secondQuery": "",
+                "exchange": {
+                    "word_pl": [
+                        "outlooks"
+                    ]
+                },
+                "levelList": [
+                    "高中",
+                    "四级",
+                    "六级",
+                    "考研",
+                    "托福"
+                ]
+            },
+            "detail": {
+                "synonym": [
+                    {
+                        "word_list": [
+                            "viewpoint",
+                            "scenery",
+                            "perspective",
+                            "picture",
+                            "eye"
+                        ],
+                        "pos": "n.",
+                        "mean": "展望；观点；景色"
+                    }
+                ],
+                "affix": {
+                    "word": "outlook",
+                    "sub_affix_info_list": [
+                        {
+                            "affix": "out",
+                            "affix_mean": "adv. 离开"
+                        },
+                        {
+                            "affix": "look",
+                            "affix_mean": "v. 看"
+                        }
+                    ],
+                    "word_mean": "n. 世界观"
+                },
+                "word_difference_info": [
+                    {
+                        "common_mean": "期望；指望",
+                        "word_list": [
+                            "outlook",
+                            " expectation",
+                            " prospect",
+                            " hope"
+                        ],
+                        "word_mean_info__list": [
+                            {
+                                "difference": "多指根据征兆或分析对要发生的事情的愿望或预料。",
+                                "word": "outlook"
+                            },
+                            {
+                                "difference": "指期待某事发生或假设某事能发生，多含揣想的意味。",
+                                "word": "expectation"
+                            },
+                            {
+                                "difference": "与outlook的含义相近，但侧重对成功、利润和舒适生活等方面的期待。",
+                                "word": "prospect"
+                            },
+                            {
+                                "difference": "通常指建立在愿望基础上的期待。这种期待有可能发生或实现，但也可能相反。",
+                                "word": "hope"
+                            }
+                        ]
+                    }
+                ],
+                "word_group": [
+                    {
+                        "brief_definition": "积极的人生观",
+                        "phrase": "positive outlook",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "负面展望；负面渴望",
+                        "phrase": "negative outlook",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "乐观的前景",
+                        "phrase": "optimistic outlook",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "政治观；政治展望；政治前景",
+                        "phrase": "political outlook",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "黯淡的前景",
+                        "phrase": "gloomy outlook",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "悲观",
+                        "phrase": "pessimistic outlook",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "前景黯淡",
+                        "phrase": "bleak outlook",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "充满期望的前景",
+                        "phrase": "hopeful outlook",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "惨淡的景象",
+                        "phrase": "dismal outlook",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "改变观点",
+                        "phrase": "change outlook",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "乐观的前景",
+                        "phrase": "cheerful outlook",
+                        "pos": ""
+                    }
+                ],
+                "bilingual": [
+                    {
+                        "source": "The economic <em>outlook</em> for the country is improving.",
+                        "target": "该国的经济前景正在改善。",
+                        "url": ""
+                    },
+                    {
+                        "source": "The weather <em>outlook</em> for the weekend is not very promising.",
+                        "target": "周末的天气前景不太乐观。",
+                        "url": ""
+                    },
+                    {
+                        "source": "The company's economic <em>outlook</em> looks very optimistic.",
+                        "target": "公司的经济前景看起来很乐观。",
+                        "url": ""
+                    },
+                    {
+                        "source": "His <em>outlook</em> on life changed after the accident.",
+                        "target": "事故后，他对生活的前景发生了变化。",
+                        "url": ""
+                    },
+                    {
+                        "source": "They are discussing the economic <em>outlook</em> of the region.",
+                        "target": "他们正在讨论地区的经济前景。",
+                        "url": ""
+                    },
+                    {
+                        "source": "The company's financial <em>outlook</em> is rosier than last year.",
+                        "target": "公司的财务前景比去年更乐观。",
+                        "url": ""
+                    },
+                    {
+                        "source": "The company's <em>outlook</em> for the next quarter is very positive.",
+                        "target": "公司的下季度前景非常乐观。",
+                        "url": ""
+                    },
+                    {
+                        "source": "The economic <em>outlook</em> is favorable for small businesses.",
+                        "target": "经济前景对小企业来说是有利的。",
+                        "url": ""
+                    },
+                    {
+                        "source": "The report gave a pessimistic <em>outlook</em> on the economy.",
+                        "target": "报告对经济前景给出了悲观的预测。",
+                        "url": ""
+                    },
+                    {
+                        "source": "The economic <em>outlook</em> is positive for the foreseeable future.",
+                        "target": "经济前景在可预见的未来是积极的。",
+                        "url": ""
+                    }
+                ],
+                "baike": {
+                    "showMore": true,
+                    "list": [
+                        {
+                            "lemmaTitle": "Outlook",
+                            "link": "https://baike.sogou.com/v108743603.htm?ch=sogou.fanyi",
+                            "abstract": "Outlook（全称：Microsoft OfficeOutlook）是微软公司出品的个人信息管理系统软件。 它的主要功能是用来发送电子邮件，可是它还包含了日历、任务管理、联系人、记事本等功能。Outlook可以以独立软件的方式运行，同时也可以面向多个公司用户与Microsoft Exchange Server和Microsoft SharePoint Server一起运行，其功能例如共享邮箱与日历、共享文件夹等。",
+                            "wapPic": "//img01.sogoucdn.com/v2/thumb/retype_exclude_gif/ext/auto/q/80/crop/xy/ai/w/140/h/140/resize/w/140?appid=201005&sign=fb0eee63ec2c3e2edfd73df1b16edd39&url=https%3A%2F%2Fpic.baike.soso.com%2Fugc%2Fbaikepic2%2F6489%2F20220427192206-1298718593_png_661_441_142901.jpg%2F0",
+                            "pcPic": "//img02.sogoucdn.com/v2/thumb/retype_exclude_gif/ext/auto/q/80/crop/xy/ai/w/140/h/140/resize/w/140?appid=201005&sign=fb0eee63ec2c3e2edfd73df1b16edd39&url=https%3A%2F%2Fpic.baike.soso.com%2Fugc%2Fbaikepic2%2F6489%2F20220427192206-1298718593_png_661_441_142901.jpg%2F0"
+                        },
+                        {
+                            "lemmaTitle": "Outlook",
+                            "link": "https://baike.sogou.com/v64506649.htm?ch=sogou.fanyi",
+                            "abstract": "Outlook: [ 'autluk ] n. 观点，见解，展望，前景",
+                            "wapPic": "",
+                            "pcPic": ""
+                        }
+                    ]
+                }
+            },
+            "book": {
+                "yingyinNormal": [
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/f7d7167294560b5a445295985c93469c_14515.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/f42ef003aa661cf0160163e7c59faac6_25582.mp3",
+                        "isLavafox": true,
+                        "en": "Top of the afternoon, gentlemen. You're in a good mood. Well, it's a new day. I have a new <em>outlook</em>.",
+                        "zh": "下午好，各位。你心情不错啊。新的一天已降临，我有了新的世界观。",
+                        "videoNameZh": "《生活大爆炸 第十季》",
+                        "videoNameEn": "《The Big Bang Theory Season 10》",
+                        "url": "http://bisentence_movie.sogou.com/b11232e91ac99246372fcc9d82c2666d_7acc0992471cde73de2695e6488b0399dbc39702"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/1a0871c791ff910d9034a539e70accc7_35582.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/601a97f5b225e478bf2ca17a7f89d710_69762.mp3",
+                        "isLavafox": true,
+                        "en": "It's all part of my weather forecast. The five day <em>outlook</em> calls for intense flooding followed by the end of the world.",
+                        "zh": "根据我精准的气象预测，未来5天有大暴雨，紧接着，世界末日!",
+                        "videoNameZh": "《冰川时代2》",
+                        "videoNameEn": "《Ice Age: The Meltdown》",
+                        "url": "http://bisentence_movie.sogou.com/97887579f3cf76396da98b4f0c93f255_0281d1bfe6ff9a9d797f11be5795f6f21e11a044"
+                    }
+                ]
+            },
+            "pic": "",
+            "voice": {
+                "phonetic": [
+                    {
+                        "text": "ˈaʊtlʊk",
+                        "type": "uk",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/3912_outlook_uk.mp3"
+                    },
+                    {
+                        "text": "ˈaʊtlʊk",
+                        "type": "usa",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/3912_outlook_usa.mp3"
+                    }
+                ]
+            },
+            "dictType": "oxford_buchong",
+            "kaoyan": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 1,
+                        "pos": "cn",
+                        "chinese": "景色; 风光",
+                        "sense_tier_ratio": 100
+                    },
+                    {
+                        "sense_tier": 0,
+                        "pos": "cn",
+                        "chinese": "观点; 见解",
+                        "sense_tier_ratio": 0
+                    },
+                    {
+                        "sense_tier": 0,
+                        "pos": "cn",
+                        "chinese": "前景; 展望",
+                        "sense_tier_ratio": 0
+                    }
+                ],
+                "word": "outlook",
+                "direction_info": {
+                    "ranges": 12,
+                    "description": "数据源自2012-2023年12年间全国考研试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2012-2023年全国考研英语一和考研英语二共24套考研试卷，包括阅读、完型填空、翻译、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选全国考研考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2012-2023年12年间全国考研英语一和考研英语二试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 1,
+                "total_exam_freq": 1,
+                "sense": {
+                    "sense_num": 3,
+                    "sense_info_list": [
+                        {
+                            "synonyms": "",
+                            "en": "",
+                            "zh": "景色; 风光",
+                            "pos": "cn",
+                            "antonyms": ""
+                        },
+                        {
+                            "synonyms": "",
+                            "en": "",
+                            "zh": "观点; 见解",
+                            "pos": "cn",
+                            "antonyms": ""
+                        },
+                        {
+                            "synonyms": "",
+                            "en": "",
+                            "zh": "前景; 展望",
+                            "pos": "cn",
+                            "antonyms": ""
+                        }
+                    ]
+                },
+                "word_affix": {
+                    "word": "outlook",
+                    "sub_affix_info_list": [
+                        {
+                            "affix": "out",
+                            "affix_mean": "adv. 离开"
+                        },
+                        {
+                            "affix": "look",
+                            "affix_mean": "v. 看"
+                        }
+                    ],
+                    "word_mean": "n. 世界观"
+                },
+                "disambiguation": [
+                    {
+                        "disambiguation_list": [
+                            {
+                                "word": "outlook",
+                                "sense_disambiguation": "指根据眼前的征兆和分析预感某事可能会发生。"
+                            },
+                            {
+                                "word": "prospect",
+                                "sense_disambiguation": "指有可能实现的愿望或预料中的事情。"
+                            },
+                            {
+                                "word": "expectation",
+                                "sense_disambiguation": "指盼望某事发生或认为某事会发生。"
+                            },
+                            {
+                                "word": "anticipation",
+                                "sense_disambiguation": "指基于先见、预知的期待或期望，在一般情况下多指好的事情。"
+                            },
+                            {
+                                "word": "hope",
+                                "sense_disambiguation": "指主观认为某事会发生或出现，但缺少根据或把握。"
+                            }
+                        ],
+                        "sense_group": "期望"
+                    }
+                ]
+            },
+            "CET6": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 1,
+                        "pos": "n",
+                        "chinese": "前景; 形势",
+                        "sense_tier_ratio": 100
+                    },
+                    {
+                        "sense_tier": 0,
+                        "pos": "n",
+                        "chinese": "景色; 风景",
+                        "sense_tier_ratio": 0
+                    },
+                    {
+                        "sense_tier": 0,
+                        "pos": "n",
+                        "chinese": "见解.观点",
+                        "sense_tier_ratio": 0
+                    }
+                ],
+                "word": "outlook",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2016.6-2023.6年8年间全六级试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight>考纲释义</highlight>\n精选实考、考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2016-2023年51套试卷，包括阅读、听力、翻译等所有题型。\n\n<highlight>真题例句</highlight>\n精选2016-2023年8年间全六级试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 1,
+                "total_exam_freq": 1,
+                "sense": {
+                    "sense_num": 3,
+                    "sense_info_list": [
+                        {
+                            "synonyms": "prospect",
+                            "en": "the prospect for the future",
+                            "zh": "前景; 形势",
+                            "pos": "n",
+                            "antonyms": ""
+                        },
+                        {
+                            "synonyms": "view,scene",
+                            "en": "a view from a certain place",
+                            "zh": "景色; 风景",
+                            "pos": "n",
+                            "antonyms": ""
+                        },
+                        {
+                            "synonyms": "viewpoint,opinion",
+                            "en": "a person's point of view or general attitude to life",
+                            "zh": "见解.观点",
+                            "pos": "n",
+                            "antonyms": ""
+                        }
+                    ]
+                },
+                "word_affix": {
+                    "word": "outlook",
+                    "sub_affix_info_list": [
+                        {
+                            "affix": "out",
+                            "affix_mean": "adv. 离开"
+                        },
+                        {
+                            "affix": "look",
+                            "affix_mean": "v. 看"
+                        }
+                    ],
+                    "word_mean": "n. 世界观"
+                },
+                "exchange_info": {
+                    "word_pl": [
+                        "outlooks"
+                    ]
+                }
+            },
+            "CET4": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 1,
+                        "pos": "n",
+                        "chinese": "观点; 看法",
+                        "sense_tier_ratio": 50
+                    },
+                    {
+                        "sense_tier": 1,
+                        "pos": "n",
+                        "chinese": "展望; 前景",
+                        "sense_tier_ratio": 50
+                    }
+                ],
+                "word": "outlook",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2016.6-2023.6年8年间全四级试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight>考纲释义</highlight>\n精选实考、考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2016-2023年51套试卷，包括阅读、听力、翻译等所有题型。\n\n<highlight>真题例句</highlight>\n精选2016-2023年8年间试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 1,
+                "total_exam_freq": 2,
+                "sense": {
+                    "sense_num": 2,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "观点; 看法",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "Such different <highlight>outlooks</highlight> had a dramatic impact on performance.",
+                                    "month": 12,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "这些不同的观点对成绩产生了戏剧性的影响。",
+                                    "year": 2016,
+                                    "type": "阅读理解B",
+                                    "day": -1
+                                }
+                            ]
+                        },
+                        {
+                            "en": "",
+                            "zh": "展望; 前景",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "Professor Goel has a much rosier <highlight>outlook</highlight> on the future of artificial intelligence than Bill Gates or Steve Wozniak.",
+                                    "month": 12,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "与比尔·盖茨或史蒂夫·沃兹尼亚克相比，戈埃尔教授对人工智能的未来前景更为乐观。",
+                                    "year": 2019,
+                                    "type": "阅读理解C",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "word_affix": {
+                    "word": "outlook",
+                    "sub_affix_info_list": [
+                        {
+                            "affix": "out",
+                            "affix_mean": "adv. 离开"
+                        },
+                        {
+                            "affix": "look",
+                            "affix_mean": "v. 看"
+                        }
+                    ],
+                    "word_mean": "n. 世界观"
+                }
+            },
+            "gaokao": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 0,
+                        "pos": "n",
+                        "chinese": "景色; 前景; 世界观",
+                        "sense_tier_ratio": 0
+                    }
+                ],
+                "word": "outlook",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2015-2022年8年间全国卷和自主命题省市高考卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2015-2022年全国卷高考试卷，包括阅读、完形、单选、填空、听力、改错、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选各省市考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2015-2022年8年间全国卷和自主命题省市高考卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 1,
+                "total_exam_freq": 0,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "synonyms": "",
+                            "en": "",
+                            "zh": "景色; 前景; 世界观",
+                            "pos": "n",
+                            "antonyms": ""
+                        }
+                    ]
+                },
+                "word_affix": {
+                    "word": "outlook",
+                    "sub_affix_info_list": [
+                        {
+                            "affix": "out",
+                            "affix_mean": "adv. 离开"
+                        },
+                        {
+                            "affix": "look",
+                            "affix_mean": "v. 看"
+                        }
+                    ],
+                    "word_mean": "n. 世界观"
+                }
+            },
+            "sentencesData": {
+                "status": 1,
+                "info": "notZh2En",
+                "data": {}
+            },
+            "isAutoMatch": false,
+            "Zh2En": false
+        },
+        "query": "outlook",
+        "result": "观点",
+        "tabSelect": "detail",
+        "dictionaryType": "oxford_buchong",
+        "notFound_show": false,
+        "phoneticShow": "",
+        "globalShowTranslateRecord": "",
+        "pronPrefer": {
+            "type": "usa_1",
+            "speaker": "male",
+            "speed": "standard"
+        },
+        "ServerRecord": "",
+        "ServerUIGS": {
+            "version": "new",
+            "type": "all",
+            "stype": "success",
+            "terminal": "web",
+            "fr": "default",
+            "direction": "etoz",
+            "from": "en",
+            "to": "zh-CHS",
+            "len": 7,
+            "qtype": "text",
+            "qctype": "qc_1",
+            "dict_cover": 1,
+            "detail": 1,
+            "wordCardCover": 1,
+            "wordCardEn": 1,
+            "wordCardCh": 0,
+            "wordCardMinor": 0,
+            "wordCardNetmean": 0,
+            "wordDeform": 1,
+            "keyword": 0,
+            "bilingual": 1,
+            "simple": 0,
+            "levelList": 1,
+            "synonym": 1,
+            "antonym": 0,
+            "conjugate": 0,
+            "rootaffix": 1,
+            "baike_sogou": 1,
+            "baike_wiki": 0,
+            "wordDifference": 1,
+            "word_phrase": 1,
+            "secondQuery": 0,
+            "dict_oxford": 0,
+            "dict_newcentury": 0,
+            "zhongkaotab": 0,
+            "gaokaotab": 1,
+            "CET4tab": 1,
+            "CET6tab": 1,
+            "kaoyantab": 1,
+            "network_tab": 0,
+            "yinying_tab": 1,
+            "tuozhan_tab": 0,
+            "one_pic": 0,
+            "more_pic": 0,
+            "no_pic": 0,
+            "uuid": "30fe5c48-d15e-432e-820f-2d25eb91fcbf",
+            "from_type": 0,
+            "t_trans_ssr": 135
+        },
+        "ServerModelUIGS": {
+            "terminal": "web",
+            "type": "trans_model",
+            "pbtype": "pv",
+            "model_general": 1,
+            "model_medical": 1,
+            "model_finance": 1
+        },
+        "ServerSgtkn": "65CDED211FDDB21A101738D2D895D9D0114E54B06755A861",
+        "suggShow": false,
+        "suggestion": "",
+        "suggDirection": "",
+        "usualTop": "",
+        "baseDict": "",
+        "wordCardClick": false,
+        "isFrInput": false,
+        "kanaTips": {
+            "show": false,
+            "left": "",
+            "top": "",
+            "type": "",
+            "arrowLeft": ""
+        },
+        "currSentenceIndex": -1,
+        "prefixStrObj": {
+            "prefixStr": "",
+            "oriPrefixStr": ""
+        },
+        "selectTransBox": {
+            "show": false,
+            "right": 0,
+            "top": 0,
+            "paraphraseInfo": {
+                "word": "",
+                "from": "",
+                "to": "",
+                "area": ""
+            }
+        },
+        "sentenceLoading": false,
+        "newSentenceInfo": {
+            "sentence": "",
+            "candidateIndex": 0
+        },
+        "moreTipInfo": {
+            "opacity": 0,
+            "zIndex": -1
+        },
+        "paraphraseShowInfo": {
+            "card": 0,
+            "query": "",
+            "card_dict": 0
+        },
+        "selectType": "",
+        "wordPos": 0,
+        "candidateWord": "",
+        "syntaxVisible": false,
+        "syntaxStatus": 0
+    },
+    "language": {
+        "from": "auto",
+        "to": "zh-CHS",
+        "detect": "en",
+        "model": "general",
+        "detectShow": false,
+        "langMap": {
+            "current": ""
+        },
+        "zh2en": false,
+        "fromItemList": [
+            {
+                "lang": "auto",
+                "text": "自动检测",
+                "play": false
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "fr",
+                "text": "法语",
+                "play": true,
+                "abbr": "法"
+            },
+            {
+                "lang": "ru",
+                "text": "俄语",
+                "play": true,
+                "abbr": "俄"
+            },
+            {
+                "lang": "th",
+                "text": "泰语",
+                "play": true,
+                "abbr": "泰"
+            }
+        ],
+        "toItemList": [
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "ko",
+                "text": "韩语",
+                "play": true,
+                "abbr": "韩"
+            },
+            {
+                "lang": "vi",
+                "text": "越南语",
+                "play": true,
+                "abbr": "越"
+            },
+            {
+                "lang": "tr",
+                "text": "土耳其语",
+                "play": false,
+                "abbr": "土"
+            }
+        ]
+    },
+    "voice": {
+        "from": {
+            "lang": "en",
+            "type": "from",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22outlook%22%2C%22spokenDialect%22%3A%22en%22%2C%22rate%22%3A%220.8%22%7D",
+            "list": [
+                {
+                    "type": "uk_0",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "ˈaʊtlʊk",
+                    "abbr": "英",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/3912_outlook_uk.mp3"
+                },
+                {
+                    "type": "usa_1",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "ˈaʊtlʊk",
+                    "abbr": "美",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/3912_outlook_usa.mp3"
+                }
+            ],
+            "stype": "phonetic",
+            "phoneticShow": [
+                {
+                    "text": "ˈaʊtlʊk",
+                    "type": "uk",
+                    "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/3912_outlook_uk.mp3"
+                }
+            ]
+        },
+        "to": {
+            "lang": "zh",
+            "type": "to",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22%E8%A7%82%E7%82%B9%22%2C%22spokenDialect%22%3A%22zh-CHS%22%2C%22rate%22%3A%220.8%22%7D",
+            "stype": "normal"
+        }
+    }
+}

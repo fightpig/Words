@@ -1,0 +1,998 @@
+{
+    "route": {
+        "name": "text",
+        "path": "/text",
+        "hash": "",
+        "query": {
+            "keyword": "pond",
+            "transfrom": "auto",
+            "transto": "zh-CHS",
+            "model": "general",
+            "errcode": "s10"
+        },
+        "params": {},
+        "fullPath": "/text?keyword=pond&transfrom=auto&transto=zh-CHS&model=general&errcode=s10",
+        "meta": {
+            "mtype": [
+                "textTranslate",
+                "language",
+                "voice"
+            ]
+        },
+        "from": {
+            "name": null,
+            "path": "/",
+            "hash": "",
+            "query": {},
+            "params": {},
+            "fullPath": "/",
+            "meta": {}
+        }
+    },
+    "common": {
+        "CONFIG": {
+            "wuid": 1733667154334,
+            "loginInfo": {},
+            "isIE": 0,
+            "isHitSsrSwitch": true,
+            "isHitWritebookSwitch": false,
+            "isHitAmsSwitch": true,
+            "promotionList": "{\n    \"pc_bottom\":{\n        \"imgsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\",\n        \"qcsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\"\n    },\n    \"pc_middle\":[\n        {\n            \"src\":\"//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c\",\n            \"bgColor\":\"#ffffff\",\n            \"link\":\"\"\n        }\n    ],\n    \"pc_survey\":{\n        \"icon\":\"//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750\",\n        \"link\":\"https://wj.qq.com/s2/8193148/806d/\"\n    }\n}",
+            "bannerData": [],
+            "isHitAsideSurvey": false,
+            "secretCode": 109984457,
+            "uuid": "d6ac1a88-4795-4711-881c-c722f4289a5a",
+            "referer": "",
+            "approveToken": "65CF9C64EA2A47EDE5E3CD27330177D5E62750D46755A952",
+            "loadTime": 1733667154337,
+            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0",
+            "fcp": "159.65.124.238",
+            "temporaryId": "",
+            "fileId": ""
+        },
+        "hotWords": [],
+        "isFromCollect": false,
+        "psdModify": {
+            "currentStep": 1,
+            "scode": "",
+            "username": ""
+        },
+        "loginStatus": true,
+        "feedBackModule": false,
+        "showPromotionPopup": {
+            "show": false,
+            "type": ""
+        },
+        "showPromotionPCDownload": false,
+        "showShareBomb": false,
+        "shareData": null,
+        "showAppDownLoad": false,
+        "showLoginDialog": false,
+        "showLoading": {
+            "show": false
+        },
+        "toast": {
+            "show": false,
+            "text": "",
+            "loading": false
+        },
+        "modelToast": {
+            "show": false,
+            "text": ""
+        },
+        "selectionGlobalShow": true,
+        "selectionInfo": {
+            "left": 0,
+            "top": 0,
+            "show": false,
+            "from": "",
+            "to": "",
+            "val": "",
+            "area": ""
+        },
+        "showConfirmDialog": false,
+        "promotionList": {
+            "pc_bottom": {
+                "imgsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png",
+                "qcsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png"
+            },
+            "pc_middle": [
+                {
+                    "src": "//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c",
+                    "bgColor": "#ffffff",
+                    "link": ""
+                }
+            ],
+            "pc_survey": {
+                "icon": "//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750",
+                "link": "https://wj.qq.com/s2/8193148/806d/"
+            }
+        },
+        "transTypeTxt": "text",
+        "fixedTabStatus": 0,
+        "bodyTop": 0,
+        "ifHideUserOperation": false
+    },
+    "textTranslate": {
+        "prevTransQuery": "",
+        "translateData": {
+            "translate": {
+                "zly": "zly",
+                "errorCode": "0",
+                "qc_type": "1",
+                "index": "content0",
+                "from": "en",
+                "source": "sogou",
+                "text": "pond",
+                "to": "zh-CHS",
+                "id": "d6ac1a88-4795-4711-881c-c722f4289a5a",
+                "dit": "池塘",
+                "orig_text": "pond",
+                "md5": ""
+            },
+            "detect": {
+                "zly": "zly",
+                "detect": "en",
+                "errorCode": "0",
+                "language": "英语",
+                "id": "786faf30-b56e-11ef-99a7-ed8c73f104a5",
+                "text": "pond"
+            },
+            "sgtkn": "65CF9C69EA2A47EDE5E3CD27330177D5E62750D46755A952",
+            "wordCard": {
+                "title": "pond",
+                "show": true,
+                "usualDict": [
+                    {
+                        "values": [
+                            "池塘（尤指人工的）；小湖；水塘"
+                        ],
+                        "pos": "n."
+                    },
+                    {
+                        "values": [
+                            "使积水；把…挖成池塘；造成水塘；把…挖成池塘"
+                        ],
+                        "pos": "v."
+                    }
+                ],
+                "secondQuery": "",
+                "exchange": {
+                    "word_pl": [
+                        "ponds"
+                    ]
+                },
+                "levelList": [
+                    "小学",
+                    "初中",
+                    "高中",
+                    "四级",
+                    "六级",
+                    "考研",
+                    "考博"
+                ]
+            },
+            "detail": {
+                "synonym": [
+                    {
+                        "word_list": [
+                            "tank",
+                            "mere"
+                        ],
+                        "pos": "n.",
+                        "mean": "池塘"
+                    }
+                ],
+                "word_difference_info": [
+                    {
+                        "common_mean": "池塘；水塘",
+                        "word_list": [
+                            "pool",
+                            " pond"
+                        ],
+                        "word_mean_info__list": [
+                            {
+                                "difference": "指自然形成的池塘。",
+                                "word": "pool"
+                            },
+                            {
+                                "difference": "一般指乡村由人工挖的可供喂养鹅鸭等的水塘，或指花园中人工修建的养鱼池子。",
+                                "word": "pond"
+                            }
+                        ]
+                    }
+                ],
+                "word_group": [
+                    {
+                        "brief_definition": "在大西洋彼岸",
+                        "phrase": "across the pond",
+                        "pos": "idm"
+                    },
+                    {
+                        "brief_definition": "水华；绿藻；人渣；垃圾",
+                        "phrase": "pond scum",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "池生动物",
+                        "phrase": "pond life",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "鱼池；鱼塘；“钓鱼”游戏",
+                        "phrase": "fish pond",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "太阳池",
+                        "phrase": "solar pond",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "小池塘里的大鱼；矮子中的高个儿",
+                        "phrase": "a big fish in a small pond",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "小池塘里的大鱼；矮子中的高个儿",
+                        "phrase": "a big fish in a little pond",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "淡水池龟",
+                        "phrase": "pond turtle",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "塘螺；椎实螺",
+                        "phrase": "pond snail",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "黾蝽",
+                        "phrase": "pond skater",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "露池",
+                        "phrase": "dew pond",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "船闸旁池",
+                        "phrase": "side pond",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "池龟；欧洲龟",
+                        "phrase": "pond terrapin",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "小池塘；小水池",
+                        "phrase": "small pond",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "鳟鱼池塘；鳟鱼池",
+                        "phrase": "trout pond",
+                        "pos": ""
+                    }
+                ],
+                "bilingual": [
+                    {
+                        "source": "Quick! Look in the <em>pond</em>.",
+                        "target": "快！看池塘里。",
+                        "url": ""
+                    },
+                    {
+                        "source": "They want to create a <em>pond</em>.",
+                        "target": "他们想要建一个池塘。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Two beavers swim in the <em>pond</em>.",
+                        "target": "两只海狸在池塘里游泳。",
+                        "url": ""
+                    },
+                    {
+                        "source": "The ducks are swimming on the <em>pond</em>.",
+                        "target": "鸭子在池塘里游泳。",
+                        "url": ""
+                    },
+                    {
+                        "source": "We've got a <em>pond</em> in the garden.",
+                        "target": "我们的花园里有一个池塘。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Look, there are some ducks on the <em>pond</em>.",
+                        "target": "看，池塘里有一些鸭子。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Suddenly an insect leaped out of the <em>pond</em>.",
+                        "target": "突然一只昆虫从池塘里跳了出来。",
+                        "url": ""
+                    },
+                    {
+                        "source": "They are fishing for <em>pond</em> fish by the <em>pond</em>.",
+                        "target": "他们在池塘边钓池鱼。",
+                        "url": ""
+                    },
+                    {
+                        "source": "This <em>pond</em> needs to drain.",
+                        "target": "这个池塘需要疏水。",
+                        "url": ""
+                    },
+                    {
+                        "source": "The frog jumps into the <em>pond</em>.",
+                        "target": "青蛙跳跃进池塘。",
+                        "url": ""
+                    }
+                ]
+            },
+            "book": {
+                "yingyinNormal": [
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/629af26ee246702b04dae9c64fe5736b_64581.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/ab456d91647b600741f21892a7bb8f72_29352.mp3",
+                        "isLavafox": true,
+                        "en": "The wind has blown the ball out of the <em>pond</em>.",
+                        "zh": "风又把球刮出了池塘。",
+                        "videoNameZh": "《小猪佩奇（精选版）》",
+                        "videoNameEn": "《Peppa Pig》",
+                        "url": "http://bisentence_movie.sogou.com/a4b42617a7accee32543a43e345e10bd_13906133fa21ea521064fdb41bd55aed9d5d0f9e"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/b73d6e20976b7ffe4e651b29ea5ddefc_31309.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/f51ce3f613823a35a6c04debb1c5dd07_59367.mp3",
+                        "isLavafox": true,
+                        "en": "The Boat <em>Pond</em>.",
+                        "zh": "在池塘里玩船。",
+                        "videoNameZh": "《粉红猪小妹 第二季》",
+                        "videoNameEn": "《Peppa Pig Season 2》",
+                        "url": "http://bisentence_movie.sogou.com/13445c2258cf600c3d8cf4b60005993c_c2cebe67e840e86cbd89e611be9303cf7f23fa84"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/b73d6e20976b7ffe4e651b29ea5ddefc_31309.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/c06982425209143b433bdad7d061cdbb_22149.mp3",
+                        "isLavafox": true,
+                        "en": "Oh, it's the ducks. Hello, Mrs. Duck! Have you lost your <em>pond</em>? We're lost too. We are not lost. I know exactly where we are. See you later, Ducks. Good luck finding your <em>pond</em>.",
+                        "zh": "是鸭子们。你们好呀，鸭子们。你们找不到自己的池塘了吧？我们也迷路了。我们没有迷路，我很清楚知道我们在哪。一会儿见，鸭子们。祝你们尽快找到你们的池塘。",
+                        "videoNameZh": "《粉红猪小妹 第二季》",
+                        "videoNameEn": "《Peppa Pig Season 2》",
+                        "url": "http://bisentence_movie.sogou.com/b23129bffce5cb5d5bdaac8b86b90174_2201e3451d66e8b7f170767679bab76db55cf28c"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/629af26ee246702b04dae9c64fe5736b_64581.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/f87f61d5004d2c33aec9a5ffceb81ada_22315.mp3",
+                        "isLavafox": true,
+                        "en": "Daddy Pig has found the duck <em>pond</em>. That's lucky. Yes, what a stroke of luck.",
+                        "zh": "猪爸爸找到了鸭子的池塘。太幸运了。是的，多么意外的幸运。",
+                        "videoNameZh": "《小猪佩奇（精选版）》",
+                        "videoNameEn": "《Peppa Pig》",
+                        "url": "http://bisentence_movie.sogou.com/53d558b64166748bd3e08bdae483d5d3_781ec0e9e71431703af19fa46b7a9ee995ba7261"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/b73d6e20976b7ffe4e651b29ea5ddefc_31309.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/623e02a178e6cb08eb70b9bdf8b040fe_60929.mp3",
+                        "isLavafox": true,
+                        "en": "The ducks enjoy the toy boats, but they quite like having the <em>pond</em> back to themselves again.",
+                        "zh": "鸭子们很喜欢玩具船，但是他们更喜欢独享这片池塘。",
+                        "videoNameZh": "《粉红猪小妹 第二季》",
+                        "videoNameEn": "《Peppa Pig Season 2》",
+                        "url": "http://bisentence_movie.sogou.com/683ae4fd23499cbd88546818060b8055_75ee83b9c1cd811691faf43cad409b316db8f556"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/efb46b0d09a0d16595177f67fa563c67_36206.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/53b3e20b457ebb66e55afd3ddbfa388f_66747.mp3",
+                        "isLavafox": true,
+                        "en": "George's aeroplane is doing a loop-the-loop and has landed in a duck <em>pond</em>.",
+                        "zh": "乔治的纸飞机在空中翻了一个跟斗。然后降落到了一个鸭子的池塘里。",
+                        "videoNameZh": "《100天养成流利口语》",
+                        "videoNameEn": "《Get fluent spoken English in 100 days》",
+                        "url": "http://bisentence_movie.sogou.com/8a252e07b3748712bbb9b72d333d5fff_f7eb15cb85dead84200467346a2a946e282f384e"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/a3f6ca8d0ebaa5b0956976d643673427_52102.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/fbbe8bb0db43056708652542c6e5453c_37122.mp3",
+                        "isLavafox": true,
+                        "en": "George's aeroplane is doing a loop-the-loop and has landed in a duck <em>pond</em>.",
+                        "zh": "乔治的纸飞机在空中翻了一个跟斗。然后降落到了一个鸭子的池塘里。",
+                        "videoNameZh": "《小猪佩奇 第三季》",
+                        "videoNameEn": "《Peppa Pig Season 3》",
+                        "url": "http://bisentence_movie.sogou.com/1581f0773bed2fc830d8c57502ca753b_50c4942ca08929d51a3c973a40c0a5c5a9b68f2f"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/629af26ee246702b04dae9c64fe5736b_64581.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/0d9e6aaf0bad2618c21f1446d5c5f5c0_6633.mp3",
+                        "isLavafox": true,
+                        "en": "The ducks like bread. It's so cold, the <em>pond</em> has frozen to ice. The ice is very slippery.",
+                        "zh": "鸭子们喜欢面包。太冷了，池塘都已经结成了冰。冰很滑。",
+                        "videoNameZh": "《小猪佩奇（精选版）》",
+                        "videoNameEn": "《Peppa Pig》",
+                        "url": "http://bisentence_movie.sogou.com/194fc7569949a105fa678ecbe3893a09_25365bd34e2d7d91cf5ee0c49522e051adff7afe"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/b73d6e20976b7ffe4e651b29ea5ddefc_31309.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/01cf436b2ed465e9e4b6ba5d7a75d2e2_48509.mp3",
+                        "isLavafox": true,
+                        "en": "Oh. Oh. Daddy Pig has found the duck <em>pond</em>. That's lucky. Yes, what a stroke of luck.",
+                        "zh": "猪爸爸找到了鸭子们的池塘，真是幸运啊。是啊，她们还真是幸运。",
+                        "videoNameZh": "《粉红猪小妹 第二季》",
+                        "videoNameEn": "《Peppa Pig Season 2》",
+                        "url": "http://bisentence_movie.sogou.com/5a848a64ad3c099f1b99c49790158397_a2fd3041400d7bd6f363774ebf0fa7746f536361"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/629af26ee246702b04dae9c64fe5736b_64581.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/b34b87eb0972d171ee4f8535b3db500c_51590.mp3",
+                        "isLavafox": true,
+                        "en": "Oh, it's the ducks. Hello, Mrs. Duck! Have you lost your <em>pond</em>? We're lost too.",
+                        "zh": "噢，这是鸭子一家。你好，鸭子太太！你们找不到你们的池塘了吗？我们也迷路了。",
+                        "videoNameZh": "《小猪佩奇（精选版）》",
+                        "videoNameEn": "《Peppa Pig》",
+                        "url": "http://bisentence_movie.sogou.com/b81db6291b692bd175f487ba756dd6c3_e37da9b50409d02bed0f63fdc6bd573152a8afcb"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/5dc3cf8cad26e071498ca907fcc13dc6_46983.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/5a981431231cc8317bf1fb02c78565f6_3656.mp3",
+                        "isLavafox": true,
+                        "en": "Clever, Daddy. You used the duck <em>pond</em> to stop. What was that big splash? What big splash?",
+                        "zh": "爸爸真聪明。利用鸭子池塘来停车。刚才的落水声是怎么回事？什么落水声？",
+                        "videoNameZh": "《小猪佩奇 第四季》",
+                        "videoNameEn": "《Peppa Pig Season 4》",
+                        "url": "http://bisentence_movie.sogou.com/402df761836bd678ce174a99edb3c484_91e0ce5b265ae3d483fc354984c11c8276ddb419"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/5dc3cf8cad26e071498ca907fcc13dc6_46983.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/abbd34e64b3d116972f4d74c69282478_63520.mp3",
+                        "isLavafox": true,
+                        "en": "Daddy Pig, did you know you've got a duck on your head? Oh, yes, well, I did fall into the <em>pond</em>.",
+                        "zh": "猪爸爸，你知道头上有只鸭子吗？噢，呃，知道，其实我掉进池塘里了。",
+                        "videoNameZh": "《小猪佩奇 第四季》",
+                        "videoNameEn": "《Peppa Pig Season 4》",
+                        "url": "http://bisentence_movie.sogou.com/df675ec29ee26cf6f57e6826c43daa41_d8d5d116c0362134d1160fd040151dbb747624cc"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/5dc3cf8cad26e071498ca907fcc13dc6_46983.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/1618b83dd1a6753f636180fc6d790d8a_56761.mp3",
+                        "isLavafox": true,
+                        "en": "Peppa and her family are having a day out. We are going to see a <em>pond</em> with the little fish swimming in it.",
+                        "zh": "佩奇和她的家人外出游玩。我们要去一个池塘玩，那里有很多小鱼在游来游去。",
+                        "videoNameZh": "《小猪佩奇 第四季》",
+                        "videoNameEn": "《Peppa Pig Season 4》",
+                        "url": "http://bisentence_movie.sogou.com/d3e0f7e7154bd04be4f3e4529d6b63d8_d96a7b106f570b15fbed0ca0b3081365c4fcff64"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/b73d6e20976b7ffe4e651b29ea5ddefc_31309.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/1ba7c6a9bf2a7f350f4859f1a6f5e88b_47578.mp3",
+                        "isLavafox": true,
+                        "en": "The ducks are swimming in their <em>pond</em>. They are very happy. Here are Peppa, George, Mummy Pig, and Daddy Pig.",
+                        "zh": "鸭子们都在池塘里游泳。他们游得很开心。佩奇，乔治，猪爸爸，猪妈妈，都来了。",
+                        "videoNameZh": "《粉红猪小妹 第二季》",
+                        "videoNameEn": "《Peppa Pig Season 2》",
+                        "url": "http://bisentence_movie.sogou.com/2075d440576aa6455bb585929db2331b_01ee32113ff55d3b2f241e445fe04d23ab66337a"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/629af26ee246702b04dae9c64fe5736b_64581.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/5b89df557a7af6423aa15af07d581722_34225.mp3",
+                        "isLavafox": true,
+                        "en": "We are not lost. I know exactly where we are. See you later, Ducks. Good luck finding your <em>pond</em>. Oh.",
+                        "zh": "我们没有迷路。我很清楚我们在哪儿。再见，鸭子们。希望你能好运地找到你们的池塘。噢。",
+                        "videoNameZh": "《小猪佩奇（精选版）》",
+                        "videoNameEn": "《Peppa Pig》",
+                        "url": "http://bisentence_movie.sogou.com/6ea372d4a1a696b90115d5db8becfc86_3d2013b922d68ae9eee5689c13d273b90a5b455b"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/efb46b0d09a0d16595177f67fa563c67_36206.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/baf13df9652ca323cfd238d4303da605_57061.mp3",
+                        "isLavafox": true,
+                        "en": "Is this one of your important papers, Daddy? Yes, thank you, Peppa. Why are we at the duck <em>pond</em>?",
+                        "zh": "那么再来看看这张是你的重要文件吗，爸爸。是的，谢谢，佩奇。额，我们为什么要来鸭子的池塘。",
+                        "videoNameZh": "《100天养成流利口语》",
+                        "videoNameEn": "《Get fluent spoken English in 100 days》",
+                        "url": "http://bisentence_movie.sogou.com/cfef0ff4694aaa5ae4928b67e23d0f27_82bd0d73c92a889a41855361b4f5c5beecb7e7ec"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/a3f6ca8d0ebaa5b0956976d643673427_52102.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/ff11a9cd47fae4bf023b30be8a7bf936_73185.mp3",
+                        "isLavafox": true,
+                        "en": "Yesterday I went to the duck <em>pond</em> and I saw Mrs. duck. Well, yesterday... Then I went to the supermarket with mommy.",
+                        "zh": "昨天的时候，我去鸭子池塘见到了鸭太太。好吧，我昨天。后来我和我的妈妈去了超市。",
+                        "videoNameZh": "《小猪佩奇 第三季》",
+                        "videoNameEn": "《Peppa Pig Season 3》",
+                        "url": "http://bisentence_movie.sogou.com/cbc79775b34a043696173f975eee3863_7ae42fe29ae44c00aff6331b2e288398e9dd8720"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/5dc3cf8cad26e071498ca907fcc13dc6_46983.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/06159dd78d450739e3d9accc8b8babc2_31025.mp3",
+                        "isLavafox": true,
+                        "en": "Peppa and her friends are at the duck <em>pond</em>. Ahoy, there, shipmates. Room for another boat on the briny waters? Yes.",
+                        "zh": "佩奇和朋友们在鸭子池塘玩耍。嘿，水手们，这里还有地方给我们的船也溜达一圈吗？没问题。",
+                        "videoNameZh": "《小猪佩奇 第四季》",
+                        "videoNameEn": "《Peppa Pig Season 4》",
+                        "url": "http://bisentence_movie.sogou.com/6b3c4575016215935877ee04eecfa7d2_5ed423455d5461fc3a628ee47fe895b61ddca4a4"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/efb46b0d09a0d16595177f67fa563c67_36206.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/707f5c9a9595cd55466a831920a5ea67_37099.mp3",
+                        "isLavafox": true,
+                        "en": "Peppa and her friends are at the duck <em>pond</em>. Ahoy, there, shipmates. Room for another boat on the briny waters? Yes.",
+                        "zh": "佩奇和朋友们在鸭子池塘玩耍。嘿，水手们，这里还有地方给我们的船也溜达一圈吗？没问题。",
+                        "videoNameZh": "《100天养成流利口语》",
+                        "videoNameEn": "《Get fluent spoken English in 100 days》",
+                        "url": "http://bisentence_movie.sogou.com/4c3b83abb88180f8399e0d06bca93b6d_eea7291bc87e5c3125bf3575f776b10324a919a6"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/dde03d29cdf9f1eb3170279dd5ad8ff2_46072.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/fdba7f1967d960366d343183914ede13_57195.mp3",
+                        "isLavafox": true,
+                        "en": "What an amazing campus. I mean, look at these cool buildings. And did you guys see the turtles? And check this out. A reflecting <em>pond</em>.",
+                        "zh": "这校园太棒了！看那些楼都超酷的，你们有看到乌龟吗？再看看这个明镜般的池塘。",
+                        "videoNameZh": "《摩登家庭 第六季》",
+                        "videoNameEn": "《Modern Family Season 6》",
+                        "url": "http://bisentence_movie.sogou.com/a7199164b118cce42649073473398875_c5ed604e4a2921f6b47663ac80365ceb8a378b86"
+                    }
+                ]
+            },
+            "pic": "",
+            "voice": {
+                "phonetic": [
+                    {
+                        "text": "pɒnd",
+                        "type": "uk",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/8410_pond_uk.mp3"
+                    },
+                    {
+                        "text": "pɑːnd",
+                        "type": "usa",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/8410_pond_usa.mp3"
+                    }
+                ]
+            },
+            "dictType": "oxford_buchong",
+            "CET6": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 5,
+                        "pos": "n",
+                        "chinese": "池塘; 鱼塘",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "pond",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2016.6-2023.6年8年间全六级试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight>考纲释义</highlight>\n精选实考、考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2016-2023年51套试卷，包括阅读、听力、翻译等所有题型。\n\n<highlight>真题例句</highlight>\n精选2016-2023年8年间全六级试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 1,
+                "total_exam_freq": 5,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "synonyms": "pool,waterhole,lake",
+                            "en": "",
+                            "zh": "池塘; 鱼塘",
+                            "pos": "n",
+                            "antonyms": ""
+                        }
+                    ]
+                },
+                "exchange_info": {
+                    "word_pl": [
+                        "ponds"
+                    ]
+                }
+            },
+            "CET4": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 1,
+                        "pos": "n",
+                        "chinese": "池塘; 鱼塘",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "pond",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2016.6-2023.6年8年间全四级试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight>考纲释义</highlight>\n精选实考、考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2016-2023年51套试卷，包括阅读、听力、翻译等所有题型。\n\n<highlight>真题例句</highlight>\n精选2016-2023年8年间试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 1,
+                "total_exam_freq": 1,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "池塘; 鱼塘",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "The study, published online in April in the journal Memory and Cognition, found that the \"wrong\" name is not random but is invariably fished out from the same relationship <highlight>pond</highlight>: children, siblings, friends.",
+                                    "month": 6,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "这项研究于4月在线发表在《记忆与认知》杂志上，然而被叫错者并不是随机的，他们通常属于同一个关系池：孩子、兄弟姐妹和朋友。",
+                                    "year": 2019,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "exchange_info": {
+                    "word_pl": [
+                        "ponds"
+                    ]
+                }
+            },
+            "gaokao": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 2,
+                        "pos": "n",
+                        "chinese": "池塘; 鱼塘",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "pond",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2015-2022年8年间全国卷和自主命题省市高考卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2015-2022年全国卷高考试卷，包括阅读、完形、单选、填空、听力、改错、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选各省市考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2015-2022年8年间全国卷和自主命题省市高考卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 1,
+                "total_exam_freq": 2,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "池塘; 鱼塘",
+                            "pos": "n",
+                            "synonyms": "pool,waterhole,lake",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "A fish <highlight>pond</highlight>.",
+                                    "month": -1,
+                                    "source": "天津卷",
+                                    "coll": "",
+                                    "sentence_trans": "一个鱼塘。",
+                                    "year": 2021,
+                                    "type": "听力",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "They had a small <highlight>pond</highlight> where they raised fish.",
+                                    "month": -1,
+                                    "source": "全国卷1",
+                                    "coll": "",
+                                    "sentence_trans": "他们有一个养鱼的小池塘。",
+                                    "year": 2018,
+                                    "type": "改错",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "exchange_info": {
+                    "word_pl": [
+                        "ponds"
+                    ]
+                }
+            },
+            "zhongkao": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 1,
+                        "pos": "n",
+                        "chinese": "池塘; 鱼塘",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "pond",
+                "direction_info": {
+                    "ranges": 4,
+                    "description": "数据源自2018-2021年4年间全国各省市中考试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2018-2021年全国重点省市中考试卷，包括听力、阅读、完形、单选、填空、改错、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选各省市考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2018-2021年4年间全国各省市中考试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 1,
+                "total_exam_freq": 1,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "池塘; 鱼塘",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "Usually a river feeds water into an ocean, lake, <highlight>pond</highlight>, or even another river.",
+                                    "month": -1,
+                                    "source": "十堰市卷",
+                                    "coll": "",
+                                    "sentence_trans": "通常情况下，一条河的水会流入海洋、湖泊、池塘，甚至是另一条河。",
+                                    "year": 2021,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            "sentencesData": {
+                "status": 1,
+                "info": "notZh2En",
+                "data": {}
+            },
+            "isAutoMatch": false,
+            "Zh2En": false
+        },
+        "query": "pond",
+        "result": "池塘",
+        "tabSelect": "detail",
+        "dictionaryType": "oxford_buchong",
+        "notFound_show": false,
+        "phoneticShow": "",
+        "globalShowTranslateRecord": "",
+        "pronPrefer": {
+            "type": "usa_1",
+            "speaker": "male",
+            "speed": "standard"
+        },
+        "ServerRecord": "",
+        "ServerUIGS": {
+            "version": "new",
+            "type": "all",
+            "stype": "success",
+            "terminal": "web",
+            "fr": "default",
+            "direction": "etoz",
+            "from": "en",
+            "to": "zh-CHS",
+            "len": 4,
+            "qtype": "text",
+            "qctype": "qc_1",
+            "dict_cover": 1,
+            "detail": 1,
+            "wordCardCover": 1,
+            "wordCardEn": 1,
+            "wordCardCh": 0,
+            "wordCardMinor": 0,
+            "wordCardNetmean": 0,
+            "wordDeform": 1,
+            "keyword": 0,
+            "bilingual": 1,
+            "simple": 0,
+            "levelList": 1,
+            "synonym": 1,
+            "antonym": 0,
+            "conjugate": 0,
+            "rootaffix": 0,
+            "baike_sogou": 0,
+            "baike_wiki": 0,
+            "wordDifference": 1,
+            "word_phrase": 1,
+            "secondQuery": 0,
+            "dict_oxford": 0,
+            "dict_newcentury": 0,
+            "zhongkaotab": 1,
+            "gaokaotab": 1,
+            "CET4tab": 1,
+            "CET6tab": 1,
+            "kaoyantab": 0,
+            "network_tab": 0,
+            "yinying_tab": 1,
+            "tuozhan_tab": 0,
+            "one_pic": 0,
+            "more_pic": 0,
+            "no_pic": 0,
+            "uuid": "d6ac1a88-4795-4711-881c-c722f4289a5a",
+            "from_type": 0,
+            "t_trans_ssr": 172
+        },
+        "ServerModelUIGS": {
+            "terminal": "web",
+            "type": "trans_model",
+            "pbtype": "pv",
+            "model_general": 1,
+            "model_medical": 1,
+            "model_finance": 1
+        },
+        "ServerSgtkn": "65CF9C69EA2A47EDE5E3CD27330177D5E62750D46755A952",
+        "suggShow": false,
+        "suggestion": "",
+        "suggDirection": "",
+        "usualTop": "",
+        "baseDict": "",
+        "wordCardClick": false,
+        "isFrInput": false,
+        "kanaTips": {
+            "show": false,
+            "left": "",
+            "top": "",
+            "type": "",
+            "arrowLeft": ""
+        },
+        "currSentenceIndex": -1,
+        "prefixStrObj": {
+            "prefixStr": "",
+            "oriPrefixStr": ""
+        },
+        "selectTransBox": {
+            "show": false,
+            "right": 0,
+            "top": 0,
+            "paraphraseInfo": {
+                "word": "",
+                "from": "",
+                "to": "",
+                "area": ""
+            }
+        },
+        "sentenceLoading": false,
+        "newSentenceInfo": {
+            "sentence": "",
+            "candidateIndex": 0
+        },
+        "moreTipInfo": {
+            "opacity": 0,
+            "zIndex": -1
+        },
+        "paraphraseShowInfo": {
+            "card": 0,
+            "query": "",
+            "card_dict": 0
+        },
+        "selectType": "",
+        "wordPos": 0,
+        "candidateWord": "",
+        "syntaxVisible": false,
+        "syntaxStatus": 0
+    },
+    "language": {
+        "from": "auto",
+        "to": "zh-CHS",
+        "detect": "en",
+        "model": "general",
+        "detectShow": false,
+        "langMap": {
+            "current": ""
+        },
+        "zh2en": false,
+        "fromItemList": [
+            {
+                "lang": "auto",
+                "text": "自动检测",
+                "play": false
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "fr",
+                "text": "法语",
+                "play": true,
+                "abbr": "法"
+            },
+            {
+                "lang": "ru",
+                "text": "俄语",
+                "play": true,
+                "abbr": "俄"
+            },
+            {
+                "lang": "pt",
+                "text": "葡萄牙语",
+                "play": true,
+                "abbr": "葡"
+            }
+        ],
+        "toItemList": [
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "ko",
+                "text": "韩语",
+                "play": true,
+                "abbr": "韩"
+            },
+            {
+                "lang": "vi",
+                "text": "越南语",
+                "play": true,
+                "abbr": "越"
+            },
+            {
+                "lang": "tr",
+                "text": "土耳其语",
+                "play": false,
+                "abbr": "土"
+            }
+        ]
+    },
+    "voice": {
+        "from": {
+            "lang": "en",
+            "type": "from",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22pond%22%2C%22spokenDialect%22%3A%22en%22%2C%22rate%22%3A%220.8%22%7D",
+            "list": [
+                {
+                    "type": "uk_0",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "pɒnd",
+                    "abbr": "英",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/8410_pond_uk.mp3"
+                },
+                {
+                    "type": "usa_1",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "pɑːnd",
+                    "abbr": "美",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/8410_pond_usa.mp3"
+                }
+            ],
+            "stype": "phonetic",
+            "phoneticShow": [
+                {
+                    "text": "pɒnd",
+                    "type": "uk",
+                    "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/8410_pond_uk.mp3"
+                },
+                {
+                    "text": "pɑːnd",
+                    "type": "usa",
+                    "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/8410_pond_usa.mp3"
+                }
+            ]
+        },
+        "to": {
+            "lang": "zh",
+            "type": "to",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22%E6%B1%A0%E5%A1%98%22%2C%22spokenDialect%22%3A%22zh-CHS%22%2C%22rate%22%3A%220.8%22%7D",
+            "stype": "normal"
+        }
+    }
+}

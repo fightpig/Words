@@ -1,0 +1,942 @@
+{
+    "route": {
+        "name": "text",
+        "path": "/text",
+        "hash": "",
+        "query": {
+            "keyword": "laser",
+            "transfrom": "auto",
+            "transto": "zh-CHS",
+            "model": "general",
+            "errcode": "s10"
+        },
+        "params": {},
+        "fullPath": "/text?keyword=laser&transfrom=auto&transto=zh-CHS&model=general&errcode=s10",
+        "meta": {
+            "mtype": [
+                "textTranslate",
+                "language",
+                "voice"
+            ]
+        },
+        "from": {
+            "name": null,
+            "path": "/",
+            "hash": "",
+            "query": {},
+            "params": {},
+            "fullPath": "/",
+            "meta": {}
+        }
+    },
+    "common": {
+        "CONFIG": {
+            "wuid": 1733666063551,
+            "loginInfo": {},
+            "isIE": 0,
+            "isHitSsrSwitch": true,
+            "isHitWritebookSwitch": false,
+            "isHitAmsSwitch": true,
+            "promotionList": "{\n    \"pc_bottom\":{\n        \"imgsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\",\n        \"qcsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\"\n    },\n    \"pc_middle\":[\n        {\n            \"src\":\"//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c\",\n            \"bgColor\":\"#ffffff\",\n            \"link\":\"\"\n        }\n    ],\n    \"pc_survey\":{\n        \"icon\":\"//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750\",\n        \"link\":\"https://wj.qq.com/s2/8193148/806d/\"\n    }\n}",
+            "bannerData": [],
+            "isHitAsideSurvey": false,
+            "secretCode": 109984457,
+            "uuid": "2f1f9c00-3166-4f5d-8e07-9a7d14fbc56b",
+            "referer": "",
+            "approveToken": "65C7A192E52C7DD4DFE6C822753F6AC7E0A3C7A96755A50F",
+            "loadTime": 1733666063553,
+            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0",
+            "fcp": "159.65.124.238",
+            "temporaryId": "",
+            "fileId": ""
+        },
+        "hotWords": [],
+        "isFromCollect": false,
+        "psdModify": {
+            "currentStep": 1,
+            "scode": "",
+            "username": ""
+        },
+        "loginStatus": true,
+        "feedBackModule": false,
+        "showPromotionPopup": {
+            "show": false,
+            "type": ""
+        },
+        "showPromotionPCDownload": false,
+        "showShareBomb": false,
+        "shareData": null,
+        "showAppDownLoad": false,
+        "showLoginDialog": false,
+        "showLoading": {
+            "show": false
+        },
+        "toast": {
+            "show": false,
+            "text": "",
+            "loading": false
+        },
+        "modelToast": {
+            "show": false,
+            "text": ""
+        },
+        "selectionGlobalShow": true,
+        "selectionInfo": {
+            "left": 0,
+            "top": 0,
+            "show": false,
+            "from": "",
+            "to": "",
+            "val": "",
+            "area": ""
+        },
+        "showConfirmDialog": false,
+        "promotionList": {
+            "pc_bottom": {
+                "imgsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png",
+                "qcsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png"
+            },
+            "pc_middle": [
+                {
+                    "src": "//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c",
+                    "bgColor": "#ffffff",
+                    "link": ""
+                }
+            ],
+            "pc_survey": {
+                "icon": "//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750",
+                "link": "https://wj.qq.com/s2/8193148/806d/"
+            }
+        },
+        "transTypeTxt": "text",
+        "fixedTabStatus": 0,
+        "bodyTop": 0,
+        "ifHideUserOperation": false
+    },
+    "textTranslate": {
+        "prevTransQuery": "",
+        "translateData": {
+            "translate": {
+                "zly": "zly",
+                "errorCode": "0",
+                "qc_type": "1",
+                "index": "content0",
+                "from": "en",
+                "source": "sogou",
+                "text": "laser",
+                "to": "zh-CHS",
+                "id": "2f1f9c00-3166-4f5d-8e07-9a7d14fbc56b",
+                "dit": "激光",
+                "orig_text": "laser",
+                "md5": ""
+            },
+            "detect": {
+                "zly": "zly",
+                "detect": "en",
+                "errorCode": "0",
+                "language": "英语",
+                "id": "ee476840-b56b-11ef-a25b-79124cdf2a87",
+                "text": "laser"
+            },
+            "sgtkn": "65C7A196E52C7DD4DFE6C822753F6AC7E0A3C7A96755A50F",
+            "wordCard": {
+                "title": "laser",
+                "show": true,
+                "usualDict": [
+                    {
+                        "values": [
+                            "激光器；激光"
+                        ],
+                        "pos": "n."
+                    }
+                ],
+                "secondQuery": "",
+                "exchange": {
+                    "word_pl": [
+                        "lasers"
+                    ]
+                },
+                "levelList": [
+                    "初中",
+                    "高中",
+                    "四级",
+                    "六级",
+                    "考研",
+                    "托福"
+                ]
+            },
+            "detail": {
+                "word_group": [
+                    {
+                        "brief_definition": "激光打印机",
+                        "phrase": "laser printer",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "染料激光器",
+                        "phrase": "dye laser",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "激光枪",
+                        "phrase": "laser gun",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "激光光束；激光束；激光波束",
+                        "phrase": "laser beam",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "激光二极管；雷射二极管；半导体激光",
+                        "phrase": "laser diode",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "激光辐照",
+                        "phrase": "laser irradiation",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "激光切割；激光裁剪；激光切削",
+                        "phrase": "laser cutting",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "激光手术；激光外科手术；雷射手术",
+                        "phrase": "laser surgery",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "激光测距仪；激光测距机；激光测距器",
+                        "phrase": "laser range finder",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "激光武器；雷射武器",
+                        "phrase": "laser weapon",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "激光指针；激光笔；激光棒",
+                        "phrase": "laser pointer",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "激光显微切割；激光捕获技术",
+                        "phrase": "laser capture microdissection",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "低功率激光；低能激光；低能量激光",
+                        "phrase": "low-power laser",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "激光切割；激光切开；镭射切割",
+                        "phrase": "laser cut",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "激光喷气；激光喷射；激光式",
+                        "phrase": "laser jet",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "激光多普勒流量计；激光多普勒血流仪",
+                        "phrase": "laser doppler flowmeter",
+                        "pos": ""
+                    }
+                ],
+                "bilingual": [
+                    {
+                        "source": "The <em>laser</em> beam is very powerful.",
+                        "target": "激光光束非常强大。",
+                        "url": ""
+                    },
+                    {
+                        "source": "The <em>laser</em> emits a beam of photon.",
+                        "target": "激光发射出一束光子。",
+                        "url": ""
+                    },
+                    {
+                        "source": "A <em>laser</em> is made up of many photons.",
+                        "target": "激光由许多光子组成。",
+                        "url": ""
+                    },
+                    {
+                        "source": "The <em>laser</em> beam can cut through metal.",
+                        "target": "激光光束可以切割金属。",
+                        "url": ""
+                    },
+                    {
+                        "source": "The <em>laser</em> pulsed with a steady rhythm.",
+                        "target": "激光以稳定的节奏脉冲。",
+                        "url": ""
+                    },
+                    {
+                        "source": "The <em>laser</em> beams are used in the surgery.",
+                        "target": "手术中使用了激光光束。",
+                        "url": ""
+                    },
+                    {
+                        "source": "The <em>laser</em> cuts through metal with precision.",
+                        "target": "激光精确地切割金属。",
+                        "url": ""
+                    },
+                    {
+                        "source": "We need to buy a new <em>laser</em> printer.",
+                        "target": "我们需要购买一台新的激光打印机。",
+                        "url": ""
+                    },
+                    {
+                        "source": "<em>Laser</em> surgery can correct vision problems.",
+                        "target": "激光手术可以矫正视力问题。",
+                        "url": ""
+                    },
+                    {
+                        "source": "The scientist used a <em>laser</em> to fus the particles.",
+                        "target": "科学家用激光融化粒子。",
+                        "url": ""
+                    }
+                ],
+                "baike": {
+                    "showMore": false,
+                    "list": [
+                        {
+                            "lemmaTitle": "激光器",
+                            "link": "https://baike.sogou.com/v194720.htm?ch=sogou.fanyi",
+                            "abstract": "激光器（Laser），别名光激射器、莱塞，是产生激光辐射的器件或装置。1960年由美国人梅曼首先制成红宝石激光器。 激光器由激光工作物质、激励（泵浦）系统及光学揩振腔构成。其按工作物质分有气体激光器、固体激光器、液体激光器和半导体激光器等；按激光器的工作方式分有连续的、脉冲的、Q突变与超短脉冲的等，还发展了自由电子激光器。激光器具有单色性好、方向性好以及高亮度的特性，被广泛应用于军事武器制造领域中。原理是受激辐射放大电磁波。",
+                            "wapPic": "//img04.sogoucdn.com/v2/thumb/retype_exclude_gif/ext/auto/q/80/crop/xy/ai/w/140/h/140/resize/w/140?appid=201005&sign=98567a4f1bd6e72a4ac525725f5500fc&url=http%3A%2F%2Fpic.baike.soso.com%2Fugc%2Fbaikepic2%2F0%2F20230620122955-941402494_jpeg_1114_736_413216.jpg%2F0",
+                            "pcPic": "//img02.sogoucdn.com/v2/thumb/retype_exclude_gif/ext/auto/q/80/crop/xy/ai/w/140/h/140/resize/w/140?appid=201005&sign=98567a4f1bd6e72a4ac525725f5500fc&url=http%3A%2F%2Fpic.baike.soso.com%2Fugc%2Fbaikepic2%2F0%2F20230620122955-941402494_jpeg_1114_736_413216.jpg%2F0"
+                        },
+                        {
+                            "lemmaTitle": "LASER",
+                            "link": "https://baike.sogou.com/v215759307.htm?ch=sogou.fanyi",
+                            "abstract": "LASER是由猫耳FM/猫耳娱乐出品的虚拟男团。由顾子尧（队长），林致，乔殊，夏予扬四位成员组成。 2020年7月12日，LASER出道，发布出道曲《FOCUS ON YOU》，推出团综《LASER出道日》；同年8月发布单曲《愿我们还有勇气》；9月发布单曲《嫌疑人A的诱惑》；11月发布单曲《我即是王》。2021年1月发布单曲《你好，爱丽丝》 ；同年2月发布首个古风单曲《式微》；6月参加综艺《险象环声》；同月客串综艺《百分之二的爱2》；7月发布特别单曲《你还追着光吗》，同月参加直播《猫耳FM夏日PARTY》同天发布回归单曲《万有引力》；9月发布单曲《旷野诗篇》；12月发布单曲《LASER‘s world》。2022年6月推出团综《WE FOUR》 ；7月发布单曲《警戒线》；8月发布二专特别单曲《风景也想见你》；9月发布单曲《第八集定律》。12月推出团综《一起再出发》 ，同月发布单曲《别墅奇喵夜》。",
+                            "wapPic": "//img01.sogoucdn.com/v2/thumb/retype_exclude_gif/ext/auto/q/80/crop/xy/ai/w/140/h/140/resize/w/140?appid=201005&sign=b25508b4ae72e6193c7ea73cdb207dea&url=https%3A%2F%2Fpic.baike.soso.com%2Fugc%2Fbaikepic2%2F0%2F20240509110826-1024781939_png_837_606_1244608.jpg%2F0",
+                            "pcPic": "//img03.sogoucdn.com/v2/thumb/retype_exclude_gif/ext/auto/q/80/crop/xy/ai/w/140/h/140/resize/w/140?appid=201005&sign=b25508b4ae72e6193c7ea73cdb207dea&url=https%3A%2F%2Fpic.baike.soso.com%2Fugc%2Fbaikepic2%2F0%2F20240509110826-1024781939_png_837_606_1244608.jpg%2F0"
+                        }
+                    ]
+                }
+            },
+            "book": {
+                "yingyinNormal": [
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/7eb0bec9540cbb2c5939554caf885c99_49670.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/be1d94ca4d69d9989e1cb1ef5e4153ba_41696.mp3",
+                        "isLavafox": true,
+                        "en": "Hello. Nice work with the <em>laser</em>, by the way.",
+                        "zh": "你们好，顺便说一句，你的激光器不错。",
+                        "videoNameZh": "《生活大爆炸 第二季》",
+                        "videoNameEn": "《The Big Bang Theory Season 2》",
+                        "url": "http://bisentence_movie.sogou.com/da4f57327074aff9dd4a947466d9c871_978550e53f3ca8392c3851fd13cb115f0c618173"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/7eb0bec9540cbb2c5939554caf885c99_49670.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/7cc912d10086e6e5d40c5a550bc63ebd_3377.mp3",
+                        "isLavafox": true,
+                        "en": "<em>Laser</em> demonstration's looking pretty good now, huh?",
+                        "zh": "现在看来，那个激光器实验还不错吧？",
+                        "videoNameZh": "《生活大爆炸 第二季》",
+                        "videoNameEn": "《The Big Bang Theory Season 2》",
+                        "url": "http://bisentence_movie.sogou.com/9a792d7837c9b142b6b1e5ee78d16355_bb289c0354a13009c81bf9509c147c3070069382"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/8005d54b57fe04f26a670220f9323bc7_59749.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/8a9435417de159276105413cefae074e_2997.mp3",
+                        "isLavafox": true,
+                        "en": "He's short-sighted, or he was. His recent <em>laser</em> surgery has done the trick. <em>Laser</em> surgery? Look at his clothes, he's made an effort.",
+                        "zh": "他是近视眼，或者曾经是。最近做了激光手术治好了。激光手术？看他的衣服，打扮很用心。",
+                        "videoNameZh": "《神探夏洛克 第四季》",
+                        "videoNameEn": "《Sherlock Season 4》",
+                        "url": "http://bisentence_movie.sogou.com/ba3383de05e9b8d92ca99fbc74b7c845_6457bbef34c64c145e227d87c4e88325c1b93f35"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/f5f16d3165593ebdb6d6ae8299e72880_33413.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/87d671ac6fb04919b0aae3746f82bb71_47851.mp3",
+                        "isLavafox": true,
+                        "en": "Yeah, I'm thinking I'll probably start with that <em>laser</em> eye surgery too.",
+                        "zh": "我打算先去做激光眼科手术。",
+                        "videoNameZh": "《老友记 第六季》",
+                        "videoNameEn": "《Friends Season 6》",
+                        "url": "http://bisentence_movie.sogou.com/7159a2458b7f699befa54e7091255e63_8c8b11e02877f5984bf2dfa3778b670e4e1d7279"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/8106a5d878c9284ba65385b79f2e03b2_25351.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/3bf2ca4a35f5b66011ef9678e25fd390_26352.mp3",
+                        "isLavafox": true,
+                        "en": "The tube is protected by a <em>laser</em> grid, and we can only power that down for 15 seconds.",
+                        "zh": "管子被激光网保护，而且我们只能断电十五秒。",
+                        "videoNameZh": "《蚁人》",
+                        "videoNameEn": "《Ant-Man》",
+                        "url": "http://bisentence_movie.sogou.com/e92130bfb5293e5c79504b4cb8ed66cf_f6b5f5cc6ae685f12838019cf3f8ff25f2156e7f"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/b630caafa2606557856da7a333933a5d_54182.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/1d663e7e68fd5843082d8b73127d38fb_9809.mp3",
+                        "isLavafox": true,
+                        "en": "You accidentally stare at a helium argon <em>laser</em>. Lose one turn and a retina.",
+                        "zh": "你一不小心直视氦氩激光暂停一轮并失去一只眼睛的视网膜。",
+                        "videoNameZh": "《生活大爆炸 第三季》",
+                        "videoNameEn": "《The Big Bang Theory Season 3》",
+                        "url": "http://bisentence_movie.sogou.com/1a14707a3758f07b47e8ab7a49bb4f7b_c9049fc3a393ca281b7caa171bca5f1e82e1d711"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/f5f16d3165593ebdb6d6ae8299e72880_33413.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/d86bc1671934050cfa3f1e1af1229e06_41139.mp3",
+                        "isLavafox": true,
+                        "en": "Oh, Joey's got a really bad hernia, but that's nothing, a little <em>laser</em> eye surgery won't fix.",
+                        "zh": "乔伊的疝气很严重，不过动个激光眼科手术就好了。",
+                        "videoNameZh": "《老友记 第六季》",
+                        "videoNameEn": "《Friends Season 6》",
+                        "url": "http://bisentence_movie.sogou.com/d69fa7b2acc1948a476e095f64562199_f495acb0e64f956ce5d51f1eaaa1068ea1df4907"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/8b3da16ecbe350aacc1a7e4a01d210bc_49869.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/657bceaa3a17751e6bedbc6aab7538bf_12954.mp3",
+                        "isLavafox": true,
+                        "en": "Good news. I made it onto the team for the new Defense Department <em>laser</em>-equipped surveillance satellite.",
+                        "zh": "好消息来了，我入选了国防部新组建的激光监测卫星小组。",
+                        "videoNameZh": "《生活大爆炸 第四季》",
+                        "videoNameEn": "《The Big Bang Theory Season 4》",
+                        "url": "http://bisentence_movie.sogou.com/02a7b4505eb4c3d8422b813ff1f745d8_a5cd85e9e8df9bc0830b8106eeb207b03377df74"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/21d26cfef0cd26f0813072491b08dd5a_57364.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/69d1e24840ae6f72bc3a528d283b2479_57648.mp3",
+                        "isLavafox": true,
+                        "en": "Very good. And then a <em>laser</em> will map the reflective surface and voila? Wow. That is amazing.",
+                        "zh": "非常好，然后激光会映射出反射面，瞧瞧。哇，真是太不可思议了。",
+                        "videoNameZh": "《生活大爆炸 第六季》",
+                        "videoNameEn": "《The Big Bang Theory Season 6》",
+                        "url": "http://bisentence_movie.sogou.com/fd0c523e7884d1a5b6beb4893dabde00_2dee0c9286d26f825e0074108714bfb5319a4249"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/649fb0da5e02febcad57f332efe07876_46469.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/97c20a0c40c19ec0b6137e890e901df4_26344.mp3",
+                        "isLavafox": true,
+                        "en": "Why isn't that <em>laser</em> beam cutting through the paint? It's the Miracle Wax! It certainly is a miracle.",
+                        "zh": "激光束为什么切不断烤漆？是奇迹蜡的关系。那绝对是一项奇迹。",
+                        "videoNameZh": "《老友记 第二季》",
+                        "videoNameEn": "《Friends Season 2》",
+                        "url": "http://bisentence_movie.sogou.com/12d514b66161d30758ae9d58a6c9b0c2_7eeb98b52a9c25ae02da1c93a51a3e26cd79f990"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/21d26cfef0cd26f0813072491b08dd5a_57364.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/ae5d670f39a83124e69f9809783ae6fd_62738.mp3",
+                        "isLavafox": true,
+                        "en": "What, is it secret? No, it's a nitrogen <em>laser</em>. It'll cook your eyeball like a soft-boiled egg.",
+                        "zh": "干嘛，是秘密吗？不，是氮激光器，看一眼，你的眼珠就会变成半熟的鸡蛋。",
+                        "videoNameZh": "《生活大爆炸 第六季》",
+                        "videoNameEn": "《The Big Bang Theory Season 6》",
+                        "url": "http://bisentence_movie.sogou.com/d2ae5c21c442e0b5926cf59627dd1b40_0beee0eae9f1b9c062e71bb5f4408e863754852b"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/7eb0bec9540cbb2c5939554caf885c99_49670.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/e6014fb48496dd1ea27f5609006cbb90_57683.mp3",
+                        "isLavafox": true,
+                        "en": "But now we know what happens when you accidentally spill Peach Snapple into a helium neon <em>laser</em>.",
+                        "zh": "但我们现在知道，你不小心把斯奈普桃汁掉进氦氖激光器的时候会发生什么了。",
+                        "videoNameZh": "《生活大爆炸 第二季》",
+                        "videoNameEn": "《The Big Bang Theory Season 2》",
+                        "url": "http://bisentence_movie.sogou.com/2ab16e333d5b7eae76fa2b3bb60cac3c_105e69567beb05e14ab1dec99f33e3eb3d97e884"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/21d26cfef0cd26f0813072491b08dd5a_57364.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/825cb850ea122e94ca0299b54264697c_19699.mp3",
+                        "isLavafox": true,
+                        "en": "Yeah. It's a front-projected holographic display combined with <em>laser</em>-based finger tracking. Here, I'll show you.",
+                        "zh": "是啊，这是正投影全息显示加上手指激光跟踪器，来，我给你演示。",
+                        "videoNameZh": "《生活大爆炸 第六季》",
+                        "videoNameEn": "《The Big Bang Theory Season 6》",
+                        "url": "http://bisentence_movie.sogou.com/5ce3a19036e1023d3de83935f838c0aa_a6ee0898bd38a196642d703577d91ee60bd11f8f"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/b630caafa2606557856da7a333933a5d_54182.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/215c431e8ac56ddf8aeedbb324e80540_43350.mp3",
+                        "isLavafox": true,
+                        "en": "I haven't even packed yet, and you're already measuring my lab for one of your godless <em>laser</em> machines.",
+                        "zh": "我还没装完东西，你就已经来量我的实验室了，准备装你们那些无神论的激光机器。",
+                        "videoNameZh": "《生活大爆炸 第三季》",
+                        "videoNameEn": "《The Big Bang Theory Season 3》",
+                        "url": "http://bisentence_movie.sogou.com/c1f64520cb6fba0b4be5190ae29b141c_9566bef0b10f079f26ef09fd72155ab9d50c3949"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/8b3da16ecbe350aacc1a7e4a01d210bc_49869.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/7dd9f16248031f914fe37cd4f6e69396_54168.mp3",
+                        "isLavafox": true,
+                        "en": "For instance? Well, the first thing that comes to mind is isolating the part of your brain where the memory is stored and destroying it with a <em>laser</em>.",
+                        "zh": "比如？首先想到的就是隔离你大脑里负责存储记忆的部分，然后用激光切掉它。",
+                        "videoNameZh": "《生活大爆炸 第四季》",
+                        "videoNameEn": "《The Big Bang Theory Season 4》",
+                        "url": "http://bisentence_movie.sogou.com/24508ea5bc83c07963a9e5cd174a3248_46d680ed2da3275dc8368ab041df64d009186b5c"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/39e50807a5a1191398262e04787ff184_62485.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/92da244ae917f8e97b46b59a1338daad_6183.mp3",
+                        "isLavafox": true,
+                        "en": "Well, I love birthdays. Waking up to mom's special french toast breakfast, wearing the birthday king crown, playing <em>laser</em> tag with all my friends.",
+                        "zh": "我很爱过生日，起床后早饭是妈妈特制的法式吐司，戴上生日王冠，和朋友们玩激光枪捉人。",
+                        "videoNameZh": "《生活大爆炸 第一季》",
+                        "videoNameEn": "《The Big Bang Theory Season 1》",
+                        "url": "http://bisentence_movie.sogou.com/f0d685f51ed50c3cb8901312e17eeed6_3c8425fdfb69d41650fda75cdf7368488d244a10"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/b0aac413f69a971e58772352502a07e3_67340.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/3a0d2a8ba8e7d4f5101279a1fc03a690_26189.mp3",
+                        "isLavafox": true,
+                        "en": "These are the <em>laser</em> ranging and detection units. The car uses them to create a 3-d map of the street ahead. To see and avoid any potential hazards.",
+                        "zh": "这是车上的激光测距和检测组件，车辆通过这些组件生成前方道路的三维地图来发现和规避所有的潜在危险。",
+                        "videoNameZh": "《傲骨贤妻第七季》",
+                        "videoNameEn": "《The Good Wife Season 7》",
+                        "url": "http://bisentence_movie.sogou.com/3b04f62a4efcf10ec517f25ebc20deb4_bbdf837a6ba73cda0ecccdcaf4f81dc4491c28ba"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/68eeb648a2ff0cbf1b553571b1bde0b8_47107.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/49a3ca0ce3a4ab2bf3b8e8ff7dd653ba_11575.mp3",
+                        "isLavafox": true,
+                        "en": "Hi. Oh, what happened? Oh, nothing, just a Korean <em>laser</em> peel. Hurt like hell, but once the skin regenerates, it's gonna take ten years off these money makers.",
+                        "zh": "发生什么事了？没什么，就是做了个韩式激光换肤。超级疼，但是皮肤新生出来以后，能让我这双赚钱的手年轻十岁。",
+                        "videoNameZh": "《摩登家庭 第八季》",
+                        "videoNameEn": "《Modern Family Season 8》",
+                        "url": "http://bisentence_movie.sogou.com/7b4bb1cd9f21071123e3efcd28ffbd8f_b263bd11378b1e7383d588781eeaa6cc4cb47a05"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/bd2008660cd3445b80373a4184215c30_37784.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/81afe847189d6ac53d1f26cc990576cb_67737.mp3",
+                        "isLavafox": true,
+                        "en": "A <em>laser</em> cannon? We're not sure how to describe a weapon of this scale. It's another Death Star.",
+                        "zh": "激光炮吗？我们不知道怎么形容此种规模的武器。又是一颗死星。",
+                        "videoNameZh": "《星球大战7：原力觉醒》",
+                        "videoNameEn": "《Star Wars: The Force Awakens》",
+                        "url": "http://bisentence_movie.sogou.com/780d4318593fa32c4669ac5b2982b48d_5d729198011f06e075f295b72d531a442be7e6b3"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/dde03d29cdf9f1eb3170279dd5ad8ff2_46072.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/9923145a2365ad79445b250bb2d40450_64739.mp3",
+                        "isLavafox": true,
+                        "en": "Do we have to keep every remote we have ever owned? Somewhere in a landfill, a <em>laser</em> disc just ejected.",
+                        "zh": "我们所有的遥控器都得留着吗？垃圾填埋场的某处刚有个光驱弹了出来。",
+                        "videoNameZh": "《摩登家庭 第六季》",
+                        "videoNameEn": "《Modern Family Season 6》",
+                        "url": "http://bisentence_movie.sogou.com/817fd671cbb8b8192d3f8d2e4980ed35_24417ab1eae9e080a356bf0466b50bec7e3c76c9"
+                    }
+                ]
+            },
+            "pic": "",
+            "voice": {
+                "phonetic": [
+                    {
+                        "text": "ˈleɪzə",
+                        "type": "uk",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/1390_laser_uk.mp3"
+                    },
+                    {
+                        "text": "ˈleɪzər",
+                        "type": "usa",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/1390_laser_usa.mp3"
+                    }
+                ]
+            },
+            "dictType": "oxford_buchong",
+            "kaoyan": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 0,
+                        "pos": "n",
+                        "chinese": "激光; 激光器",
+                        "sense_tier_ratio": 0
+                    }
+                ],
+                "word": "laser",
+                "direction_info": {
+                    "ranges": 12,
+                    "description": "数据源自2012-2023年12年间全国考研试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2012-2023年全国考研英语一和考研英语二共24套考研试卷，包括阅读、完型填空、翻译、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选全国考研考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2012-2023年12年间全国考研英语一和考研英语二试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 1,
+                "total_exam_freq": 0,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "synonyms": "",
+                            "en": "",
+                            "zh": "激光; 激光器",
+                            "pos": "n",
+                            "antonyms": ""
+                        }
+                    ]
+                }
+            },
+            "CET6": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 0,
+                        "pos": "n/v",
+                        "chinese": "激光",
+                        "sense_tier_ratio": 0
+                    }
+                ],
+                "word": "laser",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2016.6-2023.6年8年间全六级试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight>考纲释义</highlight>\n精选实考、考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2016-2023年51套试卷，包括阅读、听力、翻译等所有题型。\n\n<highlight>真题例句</highlight>\n精选2016-2023年8年间全六级试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 1,
+                "total_exam_freq": 0,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "synonyms": "",
+                            "en": "",
+                            "zh": "激光",
+                            "pos": "n/v",
+                            "antonyms": ""
+                        }
+                    ]
+                },
+                "exchange_info": {
+                    "word_pl": [
+                        "lasers"
+                    ]
+                }
+            },
+            "CET4": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 1,
+                        "pos": "n",
+                        "chinese": "激光",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "laser",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2016.6-2023.6年8年间全四级试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight>考纲释义</highlight>\n精选实考、考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2016-2023年51套试卷，包括阅读、听力、翻译等所有题型。\n\n<highlight>真题例句</highlight>\n精选2016-2023年8年间试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 1,
+                "total_exam_freq": 1,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "激光",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "Moreover, some of the objects on the moon are still being used, including a <highlight>laser</highlight>-range reflector left by the Apollo 11 crew.",
+                                    "month": 12,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "此外，月球上的一些物体仍在使用，包括阿波罗11号机组人员留下的激光测距反射器。",
+                                    "year": 2018,
+                                    "type": "听力",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            "gaokao": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 0,
+                        "pos": "n",
+                        "chinese": "激光器",
+                        "sense_tier_ratio": 0
+                    }
+                ],
+                "word": "laser",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2015-2022年8年间全国卷和自主命题省市高考卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2015-2022年全国卷高考试卷，包括阅读、完形、单选、填空、听力、改错、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选各省市考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2015-2022年8年间全国卷和自主命题省市高考卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 1,
+                "total_exam_freq": 0,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "synonyms": "",
+                            "en": "",
+                            "zh": "激光器",
+                            "pos": "n",
+                            "antonyms": ""
+                        }
+                    ]
+                }
+            },
+            "sentencesData": {
+                "status": 1,
+                "info": "notZh2En",
+                "data": {}
+            },
+            "isAutoMatch": false,
+            "Zh2En": false
+        },
+        "query": "laser",
+        "result": "激光",
+        "tabSelect": "detail",
+        "dictionaryType": "oxford_buchong",
+        "notFound_show": false,
+        "phoneticShow": "",
+        "globalShowTranslateRecord": "",
+        "pronPrefer": {
+            "type": "usa_1",
+            "speaker": "male",
+            "speed": "standard"
+        },
+        "ServerRecord": "",
+        "ServerUIGS": {
+            "version": "new",
+            "type": "all",
+            "stype": "success",
+            "terminal": "web",
+            "fr": "default",
+            "direction": "etoz",
+            "from": "en",
+            "to": "zh-CHS",
+            "len": 5,
+            "qtype": "text",
+            "qctype": "qc_1",
+            "dict_cover": 1,
+            "detail": 1,
+            "wordCardCover": 1,
+            "wordCardEn": 1,
+            "wordCardCh": 0,
+            "wordCardMinor": 0,
+            "wordCardNetmean": 0,
+            "wordDeform": 1,
+            "keyword": 0,
+            "bilingual": 1,
+            "simple": 0,
+            "levelList": 1,
+            "synonym": 0,
+            "antonym": 0,
+            "conjugate": 0,
+            "rootaffix": 0,
+            "baike_sogou": 1,
+            "baike_wiki": 0,
+            "wordDifference": 0,
+            "word_phrase": 1,
+            "secondQuery": 0,
+            "dict_oxford": 0,
+            "dict_newcentury": 0,
+            "zhongkaotab": 0,
+            "gaokaotab": 1,
+            "CET4tab": 1,
+            "CET6tab": 1,
+            "kaoyantab": 1,
+            "network_tab": 0,
+            "yinying_tab": 1,
+            "tuozhan_tab": 0,
+            "one_pic": 0,
+            "more_pic": 0,
+            "no_pic": 0,
+            "uuid": "2f1f9c00-3166-4f5d-8e07-9a7d14fbc56b",
+            "from_type": 0,
+            "t_trans_ssr": 200
+        },
+        "ServerModelUIGS": {
+            "terminal": "web",
+            "type": "trans_model",
+            "pbtype": "pv",
+            "model_general": 1,
+            "model_medical": 1,
+            "model_finance": 1
+        },
+        "ServerSgtkn": "65C7A196E52C7DD4DFE6C822753F6AC7E0A3C7A96755A50F",
+        "suggShow": false,
+        "suggestion": "",
+        "suggDirection": "",
+        "usualTop": "",
+        "baseDict": "",
+        "wordCardClick": false,
+        "isFrInput": false,
+        "kanaTips": {
+            "show": false,
+            "left": "",
+            "top": "",
+            "type": "",
+            "arrowLeft": ""
+        },
+        "currSentenceIndex": -1,
+        "prefixStrObj": {
+            "prefixStr": "",
+            "oriPrefixStr": ""
+        },
+        "selectTransBox": {
+            "show": false,
+            "right": 0,
+            "top": 0,
+            "paraphraseInfo": {
+                "word": "",
+                "from": "",
+                "to": "",
+                "area": ""
+            }
+        },
+        "sentenceLoading": false,
+        "newSentenceInfo": {
+            "sentence": "",
+            "candidateIndex": 0
+        },
+        "moreTipInfo": {
+            "opacity": 0,
+            "zIndex": -1
+        },
+        "paraphraseShowInfo": {
+            "card": 0,
+            "query": "",
+            "card_dict": 0
+        },
+        "selectType": "",
+        "wordPos": 0,
+        "candidateWord": "",
+        "syntaxVisible": false,
+        "syntaxStatus": 0
+    },
+    "language": {
+        "from": "auto",
+        "to": "zh-CHS",
+        "detect": "en",
+        "model": "general",
+        "detectShow": false,
+        "langMap": {
+            "current": ""
+        },
+        "zh2en": false,
+        "fromItemList": [
+            {
+                "lang": "auto",
+                "text": "自动检测",
+                "play": false
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "fr",
+                "text": "法语",
+                "play": true,
+                "abbr": "法"
+            },
+            {
+                "lang": "vi",
+                "text": "越南语",
+                "play": true,
+                "abbr": "越"
+            },
+            {
+                "lang": "ko",
+                "text": "韩语",
+                "play": true,
+                "abbr": "韩"
+            }
+        ],
+        "toItemList": [
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "ko",
+                "text": "韩语",
+                "play": true,
+                "abbr": "韩"
+            },
+            {
+                "lang": "vi",
+                "text": "越南语",
+                "play": true,
+                "abbr": "越"
+            },
+            {
+                "lang": "es",
+                "text": "西班牙语",
+                "play": true,
+                "abbr": "西"
+            }
+        ]
+    },
+    "voice": {
+        "from": {
+            "lang": "en",
+            "type": "from",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22laser%22%2C%22spokenDialect%22%3A%22en%22%2C%22rate%22%3A%220.8%22%7D",
+            "list": [
+                {
+                    "type": "uk_0",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "ˈleɪzə",
+                    "abbr": "英",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/1390_laser_uk.mp3"
+                },
+                {
+                    "type": "usa_1",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "ˈleɪzər",
+                    "abbr": "美",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/1390_laser_usa.mp3"
+                }
+            ],
+            "stype": "phonetic",
+            "phoneticShow": [
+                {
+                    "text": "ˈleɪzə",
+                    "type": "uk",
+                    "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/1390_laser_uk.mp3"
+                },
+                {
+                    "text": "ˈleɪzər",
+                    "type": "usa",
+                    "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/1390_laser_usa.mp3"
+                }
+            ]
+        },
+        "to": {
+            "lang": "zh",
+            "type": "to",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22%E6%BF%80%E5%85%89%22%2C%22spokenDialect%22%3A%22zh-CHS%22%2C%22rate%22%3A%220.8%22%7D",
+            "stype": "normal"
+        }
+    }
+}

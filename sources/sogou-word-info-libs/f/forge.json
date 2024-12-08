@@ -1,0 +1,990 @@
+{
+    "route": {
+        "name": "text",
+        "path": "/text",
+        "hash": "",
+        "query": {
+            "keyword": "forge",
+            "transfrom": "auto",
+            "transto": "zh-CHS",
+            "model": "general",
+            "errcode": "s10"
+        },
+        "params": {},
+        "fullPath": "/text?keyword=forge&transfrom=auto&transto=zh-CHS&model=general&errcode=s10",
+        "meta": {
+            "mtype": [
+                "textTranslate",
+                "language",
+                "voice"
+            ]
+        },
+        "from": {
+            "name": null,
+            "path": "/",
+            "hash": "",
+            "query": {},
+            "params": {},
+            "fullPath": "/",
+            "meta": {}
+        }
+    },
+    "common": {
+        "CONFIG": {
+            "wuid": 1733665146613,
+            "loginInfo": {},
+            "isIE": 0,
+            "isHitSsrSwitch": true,
+            "isHitWritebookSwitch": false,
+            "isHitAmsSwitch": true,
+            "promotionList": "{\n    \"pc_bottom\":{\n        \"imgsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\",\n        \"qcsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\"\n    },\n    \"pc_middle\":[\n        {\n            \"src\":\"//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c\",\n            \"bgColor\":\"#ffffff\",\n            \"link\":\"\"\n        }\n    ],\n    \"pc_survey\":{\n        \"icon\":\"//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750\",\n        \"link\":\"https://wj.qq.com/s2/8193148/806d/\"\n    }\n}",
+            "bannerData": [],
+            "isHitAsideSurvey": false,
+            "secretCode": 109984457,
+            "uuid": "593b1a64-f061-4b6c-a524-f4ae249015b3",
+            "referer": "",
+            "approveToken": "65C005DD9A412C868E88A64FD2B7A4AD8E4DAE0B6755A17A",
+            "loadTime": 1733665146616,
+            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0",
+            "fcp": "159.65.124.238",
+            "temporaryId": "",
+            "fileId": ""
+        },
+        "hotWords": [],
+        "isFromCollect": false,
+        "psdModify": {
+            "currentStep": 1,
+            "scode": "",
+            "username": ""
+        },
+        "loginStatus": true,
+        "feedBackModule": false,
+        "showPromotionPopup": {
+            "show": false,
+            "type": ""
+        },
+        "showPromotionPCDownload": false,
+        "showShareBomb": false,
+        "shareData": null,
+        "showAppDownLoad": false,
+        "showLoginDialog": false,
+        "showLoading": {
+            "show": false
+        },
+        "toast": {
+            "show": false,
+            "text": "",
+            "loading": false
+        },
+        "modelToast": {
+            "show": false,
+            "text": ""
+        },
+        "selectionGlobalShow": true,
+        "selectionInfo": {
+            "left": 0,
+            "top": 0,
+            "show": false,
+            "from": "",
+            "to": "",
+            "val": "",
+            "area": ""
+        },
+        "showConfirmDialog": false,
+        "promotionList": {
+            "pc_bottom": {
+                "imgsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png",
+                "qcsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png"
+            },
+            "pc_middle": [
+                {
+                    "src": "//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c",
+                    "bgColor": "#ffffff",
+                    "link": ""
+                }
+            ],
+            "pc_survey": {
+                "icon": "//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750",
+                "link": "https://wj.qq.com/s2/8193148/806d/"
+            }
+        },
+        "transTypeTxt": "text",
+        "fixedTabStatus": 0,
+        "bodyTop": 0,
+        "ifHideUserOperation": false
+    },
+    "textTranslate": {
+        "prevTransQuery": "",
+        "translateData": {
+            "translate": {
+                "zly": "zly",
+                "errorCode": "0",
+                "qc_type": "1",
+                "index": "content0",
+                "from": "en",
+                "source": "sogou",
+                "text": "forge",
+                "to": "zh-CHS",
+                "id": "593b1a64-f061-4b6c-a524-f4ae249015b3",
+                "dit": "铸造",
+                "orig_text": "forge",
+                "md5": ""
+            },
+            "detect": {
+                "zly": "zly",
+                "detect": "en",
+                "errorCode": "0",
+                "language": "英语",
+                "id": "cbbdecb0-b569-11ef-87c0-c34ddd155474",
+                "text": "forge"
+            },
+            "sgtkn": "65C005E99A412C868E88A64FD2B7A4AD8E4DAE0B6755A17A",
+            "wordCard": {
+                "title": "forge",
+                "show": true,
+                "usualDict": [
+                    {
+                        "values": [
+                            "锻造；伪造（文件、签名等）；稳步前进；努力加强；艰苦干成；铸就；缔造；逐渐发展；努力形成；假冒"
+                        ],
+                        "pos": "v."
+                    },
+                    {
+                        "values": [
+                            "金属加工车间；锻造车间；锻造厂；铁匠铺；铁匠工场；锻铁炉；熔炉；锻造作坊"
+                        ],
+                        "pos": "n."
+                    }
+                ],
+                "secondQuery": "",
+                "exchange": {
+                    "word_third": [
+                        "forges"
+                    ],
+                    "word_ing": [
+                        "forging"
+                    ],
+                    "word_done": [
+                        "forged"
+                    ],
+                    "word_pl": [
+                        "forges"
+                    ],
+                    "word_past": [
+                        "forged"
+                    ]
+                },
+                "levelList": [
+                    "高中",
+                    "四级",
+                    "六级",
+                    "考研",
+                    "考博",
+                    "雅思",
+                    "托福",
+                    "GRE"
+                ]
+            },
+            "detail": {
+                "synonym": [
+                    {
+                        "word_list": [
+                            "furnace",
+                            "smelter"
+                        ],
+                        "pos": "n.",
+                        "mean": "熔炉，锻铁炉；铁工厂"
+                    },
+                    {
+                        "word_list": [
+                            "trump up",
+                            "to fake"
+                        ],
+                        "pos": "vi.",
+                        "mean": "伪造；做锻工"
+                    },
+                    {
+                        "word_list": [
+                            "doctor",
+                            "trump up"
+                        ],
+                        "pos": "vt.",
+                        "mean": "伪造；锻造"
+                    }
+                ],
+                "wordRootInfo": {
+                    "word_info_list": [
+                        {
+                            "word": "forged",
+                            "pos_mean_info_list": [
+                                {
+                                    "pos": "adj.",
+                                    "mean": "锻的；锻造的"
+                                },
+                                {
+                                    "pos": "v.",
+                                    "mean": "伪造（forge的过去式）；锻造（金属）"
+                                }
+                            ]
+                        },
+                        {
+                            "word": "forging",
+                            "pos_mean_info_list": [
+                                {
+                                    "pos": "n.",
+                                    "mean": "锻造；锻件；伪造"
+                                },
+                                {
+                                    "pos": "v.",
+                                    "mean": "锻造；打制（forge的现在分词）"
+                                }
+                            ]
+                        },
+                        {
+                            "word": "forgery",
+                            "pos_mean_info_list": [
+                                {
+                                    "pos": "n.",
+                                    "mean": "伪造；伪造罪；伪造物"
+                                }
+                            ]
+                        },
+                        {
+                            "word": "forger",
+                            "pos_mean_info_list": [
+                                {
+                                    "pos": "n.",
+                                    "mean": "铁匠；伪造者"
+                                }
+                            ]
+                        }
+                    ],
+                    "root_word": "forge"
+                },
+                "word_difference_info": [
+                    {
+                        "common_mean": "使成形",
+                        "word_list": [
+                            "mould",
+                            " shape",
+                            " from",
+                            " forge"
+                        ],
+                        "word_mean_info__list": [
+                            {
+                                "difference": "通常指把有延展性的材料浇铸或塑成所需形状的物品。",
+                                "word": "mould"
+                            },
+                            {
+                                "difference": "比mould使用广泛，指用许多不同的方法制成不同形状的制品。",
+                                "word": "shape"
+                            },
+                            {
+                                "difference": "通常指对尚未成形的物品作进一步加工，使成为成品。",
+                                "word": "from"
+                            },
+                            {
+                                "difference": "意义较窄，指用锤子和砧对金属材料进行加工或锻造。",
+                                "word": "forge"
+                            }
+                        ]
+                    }
+                ],
+                "word_group": [
+                    {
+                        "brief_definition": "锐意进取；开拓进取；奋勇前进",
+                        "phrase": "forge ahead",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "建立伙伴关系",
+                        "phrase": "forge partnership",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "伪造签字（签名）",
+                        "phrase": "forge signature",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "缔造联盟；建立同盟",
+                        "phrase": "forge alliance",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "建立链接",
+                        "phrase": "forge link",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "建立债券；伪造债券",
+                        "phrase": "forge bond",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "建立关系",
+                        "phrase": "forge relationship",
+                        "pos": ""
+                    }
+                ],
+                "bilingual": [
+                    {
+                        "source": "You cannot <em>forge</em> a signature.",
+                        "target": "你不能伪造签名。",
+                        "url": ""
+                    },
+                    {
+                        "source": "He tried to <em>forge</em> a check.",
+                        "target": "他试图伪造一张支票。",
+                        "url": ""
+                    },
+                    {
+                        "source": "It is illegal to <em>forge</em> currency.",
+                        "target": "伪造货币是违法的。",
+                        "url": ""
+                    },
+                    {
+                        "source": "The faker was caught trying to <em>forge</em> documents.",
+                        "target": "那个骗子在试图伪造文件时被抓住了。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Adulterate <em>forge</em> counterfeit falsify bogus",
+                        "target": "伪造，掺假",
+                        "url": "wenku.baidu.com"
+                    },
+                    {
+                        "source": "Some people <em>forge</em> official documents.",
+                        "target": "有些人伪造公文。",
+                        "url": "dict.cn"
+                    },
+                    {
+                        "source": "Her greed led her to <em>forge</em> the checks.",
+                        "target": "贪婪致使她伪造了支票。",
+                        "url": "www.fastdict.net"
+                    },
+                    {
+                        "source": "<em>Forge</em> or alter relative documents or papers;",
+                        "target": "伪造、涂改有关文件或单证的；",
+                        "url": "www.en8848.com.cn"
+                    },
+                    {
+                        "source": "<em>Forge</em> or alter quarantine paper or certificate.",
+                        "target": "伪造或者涂改检疫单、证的。",
+                        "url": "www.en8848.com.cn"
+                    },
+                    {
+                        "source": "Now that I have a welding machine and a <em>forge</em> I can lower the structure!",
+                        "target": "现在，我有一个焊接机和伪造我可以较低的结构！",
+                        "url": "dict.youdao.com"
+                    }
+                ],
+                "baike": {
+                    "showMore": false,
+                    "list": [
+                        {
+                            "lemmaTitle": "邓杰",
+                            "link": "https://baike.sogou.com/v183519893.htm?ch=sogou.fanyi",
+                            "abstract": "邓杰（2000年9月1日-），游戏ID为Forge，出生于湖南郴州，中国《英雄联盟》电竞职业选手，司职中单，曾效力于UP英雄联盟分部，绰号焦太郎。 邓杰于2019年LPL夏季赛中与 iG.Y战队一起夺得了冠军，2020年代表VG出征勇夺NEST冠军，2020年1月18日经与俱乐部的友好协商，原iG电子竞技俱乐部 iG.Y中单选手邓杰现以转会形式加入VG电子竞技俱乐部分部担任中单位，将随队出征接下来的各大赛事，在2020年12月18日从VG俱乐部正式加入RW电子竞技俱乐部。 2023年12月12日，UP官宣：Forge离队。",
+                            "wapPic": "//img02.sogoucdn.com/v2/thumb/retype_exclude_gif/ext/auto/q/80/crop/xy/ai/w/140/h/140/resize/w/140?appid=201005&sign=d5fdd3f375cd34166ce433487eb5872f&url=https%3A%2F%2Fpic.baike.soso.com%2Fugc%2Fbaikepic2%2F0%2F20240429082914-1823965876_png_452_522_560757.jpg%2F0",
+                            "pcPic": "//img03.sogoucdn.com/v2/thumb/retype_exclude_gif/ext/auto/q/80/crop/xy/ai/w/140/h/140/resize/w/140?appid=201005&sign=d5fdd3f375cd34166ce433487eb5872f&url=https%3A%2F%2Fpic.baike.soso.com%2Fugc%2Fbaikepic2%2F0%2F20240429082914-1823965876_png_452_522_560757.jpg%2F0"
+                        }
+                    ]
+                }
+            },
+            "book": {
+                "yingyinNormal": [
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/4bce173228bf81079afce38020f15ffd_13179.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/eef78e923fa71b4220d2a8081aadd383_65408.mp3",
+                        "isLavafox": true,
+                        "en": "I am grateful for this opportunity for my government and for the international community to <em>forge</em> a better relationship.",
+                        "zh": "我很感谢这次机会，来让我的政府和国际联盟之间建立起更好的关系。",
+                        "videoNameZh": "《采访》",
+                        "videoNameEn": "《The Interview》",
+                        "url": "http://bisentence_movie.sogou.com/d2021df853289fe85ae8d1a278059717_51f949eeb0e8b51d40e862b5c344f8618302ac66"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/86481e30713cfdd22b2b4267934c713a_30257.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/3bfc6480981f49b1e73ae1ab20ecdf65_18500.mp3",
+                        "isLavafox": true,
+                        "en": "You don't have to use a silver bullet. But if you <em>forge</em> one, well, then we don't have to depend upon the kindness of monsters.",
+                        "zh": "并不是非得使用银子弹，但如果造一颗出来，那么，我们就不必再仰仗怪物们的怜悯了。",
+                        "videoNameZh": "《蝙蝠侠大战超人：正义黎明》",
+                        "videoNameEn": "《Batman v Superman: Dawn of Justice》",
+                        "url": "http://bisentence_movie.sogou.com/3807a47de9f0c985d75c6ae29efb880f_6e6ec91c79ff17b0ca279d90337c99742ebcb42b"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/1fd5136b25b0bb93bc3475b8feb28bf6_63175.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/1d85cadcab2f4a6713fffc6eef6cb06f_7198.mp3",
+                        "isLavafox": true,
+                        "en": "This epic journey from the air will discover how ancient traditions engineering, agriculture and natural wonders shaped this great nation and continue to <em>forge</em> modern-day China.",
+                        "zh": "这次诗般美妙的空中之旅会向我们诉说古老传统、工业、农业和自然奇景是如何让描绘了当今中国的可爱面容。",
+                        "videoNameZh": "《鸟瞰中国》",
+                        "videoNameEn": "《China from Above》",
+                        "url": "http://bisentence_movie.sogou.com/49b71900c934914fc7eb0eebfbdc185b_46478b27d433f265ca247bf2b7348a650d38fce5"
+                    }
+                ]
+            },
+            "pic": "",
+            "voice": {
+                "phonetic": [
+                    {
+                        "text": "fɔːdʒ",
+                        "type": "uk",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/9090_forge_uk.mp3"
+                    },
+                    {
+                        "text": "fɔːrdʒ",
+                        "type": "usa",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/9090_forge_usa.mp3"
+                    }
+                ]
+            },
+            "dictType": "oxford_buchong",
+            "kaoyan": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 1,
+                        "pos": "v",
+                        "chinese": "建立",
+                        "sense_tier_ratio": 100
+                    },
+                    {
+                        "sense_tier": 0,
+                        "pos": "v/n",
+                        "chinese": "锻造; 熔炉; 锻造车间",
+                        "sense_tier_ratio": 0
+                    }
+                ],
+                "word": "forge",
+                "direction_info": {
+                    "ranges": 12,
+                    "description": "数据源自2012-2023年12年间全国考研试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2012-2023年全国考研英语一和考研英语二共24套考研试卷，包括阅读、完型填空、翻译、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选全国考研考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2012-2023年12年间全国考研英语一和考研英语二试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 1,
+                "word_family": {
+                    "derivative_info_list": [
+                        {
+                            "derivative_info_list": [],
+                            "word": "forging",
+                            "mean": "n. 伪造；锻件；锻造"
+                        }
+                    ],
+                    "word": "forge",
+                    "mean": "v. 锻造；铸造；伪造；假冒；慢慢向前；稳步前进；创造；缔造"
+                },
+                "total_exam_freq": 1,
+                "sense": {
+                    "sense_num": 2,
+                    "sense_info_list": [
+                        {
+                            "en": "to put a lot of effort into making sth successful or strong so that it will last",
+                            "zh": "建立",
+                            "pos": "v",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "They called for <highlight>forging</highlight> closer collaborations with western state governments, which are often uneasy with federal action.",
+                                    "month": -1,
+                                    "source": "英语二",
+                                    "coll": "",
+                                    "sentence_trans": "他们呼吁与通常对联邦行动感到不安的西部各州政府建立更密切的合作。",
+                                    "year": 2016,
+                                    "type": "阅读理解A",
+                                    "day": -1
+                                }
+                            ]
+                        },
+                        {
+                            "synonyms": "",
+                            "en": "make or shape a metal object by hammering",
+                            "zh": "锻造; 熔炉; 锻造车间",
+                            "pos": "v/n",
+                            "antonyms": ""
+                        }
+                    ]
+                },
+                "word_usage": [
+                    {
+                        "usage": "forge ahead意为“迅速向前；进步神速”，如：\nThe company is forging ahead with its plans for expansion.\n公司的拓展计划正顺利进行。"
+                    }
+                ]
+            },
+            "CET6": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 2,
+                        "pos": "v",
+                        "chinese": "开创; 艰苦干成; 努力加强",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "forge",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2016.6-2023.6年8年间全六级试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight>考纲释义</highlight>\n精选实考、考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2016-2023年51套试卷，包括阅读、听力、翻译等所有题型。\n\n<highlight>真题例句</highlight>\n精选2016-2023年8年间全六级试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 1,
+                "word_family": {
+                    "derivative_info_list": [
+                        {
+                            "derivative_info_list": [],
+                            "word": "forger",
+                            "mean": "n. 伪造者；铁匠"
+                        }
+                    ],
+                    "word": "forge",
+                    "mean": "v. 锻造；铸造；伪造；假冒；慢慢向前；稳步前进；创造；缔造"
+                },
+                "total_exam_freq": 2,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "create a relationship or new conditions by putting lots of effort",
+                            "zh": "开创; 艰苦干成; 努力加强",
+                            "pos": "v",
+                            "synonyms": "build,construct,establish",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "This is a core part of our strategy and we have <highlight>forged</highlight> partnerships and committed support to innovative organizations to help reach goal.",
+                                    "month": 12,
+                                    "source": "CET6",
+                                    "coll": "",
+                                    "sentence_trans": "这是我们战略的核心部分，我们已经建立了合作伙伴关系，并承诺支持创新型组织来帮助实现目标。",
+                                    "year": 2021,
+                                    "type": "阅读理解B",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "exchange_info": {
+                    "word_third": [
+                        "forges"
+                    ],
+                    "word_ing": [
+                        "forging"
+                    ],
+                    "word_done": [
+                        "forged"
+                    ],
+                    "word_pl": [
+                        "forges"
+                    ],
+                    "word_past": [
+                        "forged"
+                    ]
+                }
+            },
+            "CET4": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 1,
+                        "pos": "v/n",
+                        "chinese": "锻造; 熔炉; 锻造车间",
+                        "sense_tier_ratio": 50
+                    },
+                    {
+                        "sense_tier": 1,
+                        "pos": "v",
+                        "chinese": "创造; 开创",
+                        "sense_tier_ratio": 50
+                    }
+                ],
+                "word": "forge",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2016.6-2023.6年8年间全四级试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight>考纲释义</highlight>\n精选实考、考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2016-2023年51套试卷，包括阅读、听力、翻译等所有题型。\n\n<highlight>真题例句</highlight>\n精选2016-2023年8年间试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 1,
+                "total_exam_freq": 2,
+                "sense": {
+                    "sense_num": 2,
+                    "sense_info_list": [
+                        {
+                            "en": "make or shape a metal object by hammering",
+                            "zh": "锻造; 熔炉; 锻造车间",
+                            "pos": "v/n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "As he traveled through the homes of early 19th century nobility, Creme <highlight>forged</highlight> the new art of French gourmet food.",
+                                    "month": 12,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "当他经过19世纪初贵族的住所时，Creme 锻造了法国美食的新艺术。",
+                                    "year": 2018,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                }
+                            ]
+                        },
+                        {
+                            "en": "",
+                            "zh": "创造; 开创",
+                            "pos": "v",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "As he traveled through the homes of early 19th century nobility, Carême <highlight>forged</highlight> the new art of French gourmet food.",
+                                    "month": 12,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "当他游历19世纪早期贵族的家庭时，Carême创造了法国美食的新艺术。",
+                                    "year": 2018,
+                                    "type": "阅读理解B",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "disambiguation": [
+                    {
+                        "disambiguation_list": [
+                            {
+                                "word": "forge",
+                                "sense_disambiguation": "意义较窄，指用锤子和砧对金属材料进行加工或锻造。"
+                            },
+                            {
+                                "word": "mould",
+                                "sense_disambiguation": "通常指把有延展性的材料浇铸或塑成所需形状的物品。"
+                            }
+                        ],
+                        "sense_group": "使成形"
+                    }
+                ],
+                "exchange_info": {
+                    "word_third": [
+                        "forges"
+                    ],
+                    "word_ing": [
+                        "forging"
+                    ],
+                    "word_done": [
+                        "forged"
+                    ],
+                    "word_pl": [
+                        "forges"
+                    ],
+                    "word_past": [
+                        "forged"
+                    ]
+                }
+            },
+            "gaokao": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 0,
+                        "pos": "n",
+                        "chinese": "锻铁炉; 铁匠铺",
+                        "sense_tier_ratio": 0
+                    },
+                    {
+                        "sense_tier": 0,
+                        "pos": "v",
+                        "chinese": "艰苦干成; 努力加强; 锻造; 稳步前进",
+                        "sense_tier_ratio": 0
+                    }
+                ],
+                "word": "forge",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2015-2022年8年间全国卷和自主命题省市高考卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2015-2022年全国卷高考试卷，包括阅读、完形、单选、填空、听力、改错、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选各省市考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2015-2022年8年间全国卷和自主命题省市高考卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 1,
+                "total_exam_freq": 0,
+                "sense": {
+                    "sense_num": 2,
+                    "sense_info_list": [
+                        {
+                            "synonyms": "",
+                            "en": "",
+                            "zh": "锻铁炉; 铁匠铺",
+                            "pos": "n",
+                            "antonyms": ""
+                        },
+                        {
+                            "synonyms": "",
+                            "en": "",
+                            "zh": "艰苦干成; 努力加强; 锻造; 稳步前进",
+                            "pos": "v",
+                            "antonyms": ""
+                        }
+                    ]
+                }
+            },
+            "sentencesData": {
+                "status": 1,
+                "info": "notZh2En",
+                "data": {}
+            },
+            "isAutoMatch": false,
+            "Zh2En": false
+        },
+        "query": "forge",
+        "result": "铸造",
+        "tabSelect": "detail",
+        "dictionaryType": "oxford_buchong",
+        "notFound_show": false,
+        "phoneticShow": "",
+        "globalShowTranslateRecord": "",
+        "pronPrefer": {
+            "type": "usa_1",
+            "speaker": "male",
+            "speed": "standard"
+        },
+        "ServerRecord": "",
+        "ServerUIGS": {
+            "version": "new",
+            "type": "all",
+            "stype": "success",
+            "terminal": "web",
+            "fr": "default",
+            "direction": "etoz",
+            "from": "en",
+            "to": "zh-CHS",
+            "len": 5,
+            "qtype": "text",
+            "qctype": "qc_1",
+            "dict_cover": 1,
+            "detail": 1,
+            "wordCardCover": 1,
+            "wordCardEn": 1,
+            "wordCardCh": 0,
+            "wordCardMinor": 0,
+            "wordCardNetmean": 0,
+            "wordDeform": 1,
+            "keyword": 0,
+            "bilingual": 1,
+            "simple": 0,
+            "levelList": 1,
+            "synonym": 1,
+            "antonym": 0,
+            "conjugate": 1,
+            "rootaffix": 0,
+            "baike_sogou": 1,
+            "baike_wiki": 0,
+            "wordDifference": 1,
+            "word_phrase": 1,
+            "secondQuery": 0,
+            "dict_oxford": 0,
+            "dict_newcentury": 0,
+            "zhongkaotab": 0,
+            "gaokaotab": 1,
+            "CET4tab": 1,
+            "CET6tab": 1,
+            "kaoyantab": 1,
+            "network_tab": 0,
+            "yinying_tab": 1,
+            "tuozhan_tab": 0,
+            "one_pic": 0,
+            "more_pic": 0,
+            "no_pic": 0,
+            "uuid": "593b1a64-f061-4b6c-a524-f4ae249015b3",
+            "from_type": 0,
+            "t_trans_ssr": 154
+        },
+        "ServerModelUIGS": {
+            "terminal": "web",
+            "type": "trans_model",
+            "pbtype": "pv",
+            "model_general": 1,
+            "model_medical": 1,
+            "model_finance": 1
+        },
+        "ServerSgtkn": "65C005E99A412C868E88A64FD2B7A4AD8E4DAE0B6755A17A",
+        "suggShow": false,
+        "suggestion": "",
+        "suggDirection": "",
+        "usualTop": "",
+        "baseDict": "",
+        "wordCardClick": false,
+        "isFrInput": false,
+        "kanaTips": {
+            "show": false,
+            "left": "",
+            "top": "",
+            "type": "",
+            "arrowLeft": ""
+        },
+        "currSentenceIndex": -1,
+        "prefixStrObj": {
+            "prefixStr": "",
+            "oriPrefixStr": ""
+        },
+        "selectTransBox": {
+            "show": false,
+            "right": 0,
+            "top": 0,
+            "paraphraseInfo": {
+                "word": "",
+                "from": "",
+                "to": "",
+                "area": ""
+            }
+        },
+        "sentenceLoading": false,
+        "newSentenceInfo": {
+            "sentence": "",
+            "candidateIndex": 0
+        },
+        "moreTipInfo": {
+            "opacity": 0,
+            "zIndex": -1
+        },
+        "paraphraseShowInfo": {
+            "card": 0,
+            "query": "",
+            "card_dict": 0
+        },
+        "selectType": "",
+        "wordPos": 0,
+        "candidateWord": "",
+        "syntaxVisible": false,
+        "syntaxStatus": 0
+    },
+    "language": {
+        "from": "auto",
+        "to": "zh-CHS",
+        "detect": "en",
+        "model": "general",
+        "detectShow": false,
+        "langMap": {
+            "current": ""
+        },
+        "zh2en": false,
+        "fromItemList": [
+            {
+                "lang": "auto",
+                "text": "自动检测",
+                "play": false
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "fi",
+                "text": "芬兰语",
+                "play": true,
+                "abbr": "芬"
+            },
+            {
+                "lang": "fr",
+                "text": "法语",
+                "play": true,
+                "abbr": "法"
+            },
+            {
+                "lang": "de",
+                "text": "德语",
+                "play": true,
+                "abbr": "德"
+            }
+        ],
+        "toItemList": [
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "pt",
+                "text": "葡萄牙语",
+                "play": true,
+                "abbr": "葡"
+            },
+            {
+                "lang": "vi",
+                "text": "越南语",
+                "play": true,
+                "abbr": "越"
+            },
+            {
+                "lang": "ko",
+                "text": "韩语",
+                "play": true,
+                "abbr": "韩"
+            }
+        ]
+    },
+    "voice": {
+        "from": {
+            "lang": "en",
+            "type": "from",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22forge%22%2C%22spokenDialect%22%3A%22en%22%2C%22rate%22%3A%220.8%22%7D",
+            "list": [
+                {
+                    "type": "uk_0",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "fɔːdʒ",
+                    "abbr": "英",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/9090_forge_uk.mp3"
+                },
+                {
+                    "type": "usa_1",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "fɔːrdʒ",
+                    "abbr": "美",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/9090_forge_usa.mp3"
+                }
+            ],
+            "stype": "phonetic",
+            "phoneticShow": [
+                {
+                    "text": "fɔːdʒ",
+                    "type": "uk",
+                    "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/9090_forge_uk.mp3"
+                },
+                {
+                    "text": "fɔːrdʒ",
+                    "type": "usa",
+                    "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/9090_forge_usa.mp3"
+                }
+            ]
+        },
+        "to": {
+            "lang": "zh",
+            "type": "to",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22%E9%93%B8%E9%80%A0%22%2C%22spokenDialect%22%3A%22zh-CHS%22%2C%22rate%22%3A%220.8%22%7D",
+            "stype": "normal"
+        }
+    }
+}

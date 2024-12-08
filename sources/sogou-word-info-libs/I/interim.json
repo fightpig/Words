@@ -1,0 +1,738 @@
+{
+    "route": {
+        "name": "text",
+        "path": "/text",
+        "hash": "",
+        "query": {
+            "keyword": "interim",
+            "transfrom": "auto",
+            "transto": "zh-CHS",
+            "model": "general",
+            "errcode": "s10"
+        },
+        "params": {},
+        "fullPath": "/text?keyword=interim&transfrom=auto&transto=zh-CHS&model=general&errcode=s10",
+        "meta": {
+            "mtype": [
+                "textTranslate",
+                "language",
+                "voice"
+            ]
+        },
+        "from": {
+            "name": null,
+            "path": "/",
+            "hash": "",
+            "query": {},
+            "params": {},
+            "fullPath": "/",
+            "meta": {}
+        }
+    },
+    "common": {
+        "CONFIG": {
+            "wuid": 1733665898931,
+            "loginInfo": {},
+            "isIE": 0,
+            "isHitSsrSwitch": true,
+            "isHitWritebookSwitch": false,
+            "isHitAmsSwitch": true,
+            "promotionList": "{\n    \"pc_bottom\":{\n        \"imgsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\",\n        \"qcsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\"\n    },\n    \"pc_middle\":[\n        {\n            \"src\":\"//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c\",\n            \"bgColor\":\"#ffffff\",\n            \"link\":\"\"\n        }\n    ],\n    \"pc_survey\":{\n        \"icon\":\"//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750\",\n        \"link\":\"https://wj.qq.com/s2/8193148/806d/\"\n    }\n}",
+            "bannerData": [],
+            "isHitAsideSurvey": false,
+            "secretCode": 109984457,
+            "uuid": "1537170d-6671-4299-89f4-c73f5f9965e3",
+            "referer": "",
+            "approveToken": "65C64E625B92FC555D5B769CD24DC20E5E9C73EF6755A46A",
+            "loadTime": 1733665898933,
+            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0",
+            "fcp": "159.65.124.238",
+            "temporaryId": "",
+            "fileId": ""
+        },
+        "hotWords": [],
+        "isFromCollect": false,
+        "psdModify": {
+            "currentStep": 1,
+            "scode": "",
+            "username": ""
+        },
+        "loginStatus": true,
+        "feedBackModule": false,
+        "showPromotionPopup": {
+            "show": false,
+            "type": ""
+        },
+        "showPromotionPCDownload": false,
+        "showShareBomb": false,
+        "shareData": null,
+        "showAppDownLoad": false,
+        "showLoginDialog": false,
+        "showLoading": {
+            "show": false
+        },
+        "toast": {
+            "show": false,
+            "text": "",
+            "loading": false
+        },
+        "modelToast": {
+            "show": false,
+            "text": ""
+        },
+        "selectionGlobalShow": true,
+        "selectionInfo": {
+            "left": 0,
+            "top": 0,
+            "show": false,
+            "from": "",
+            "to": "",
+            "val": "",
+            "area": ""
+        },
+        "showConfirmDialog": false,
+        "promotionList": {
+            "pc_bottom": {
+                "imgsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png",
+                "qcsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png"
+            },
+            "pc_middle": [
+                {
+                    "src": "//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c",
+                    "bgColor": "#ffffff",
+                    "link": ""
+                }
+            ],
+            "pc_survey": {
+                "icon": "//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750",
+                "link": "https://wj.qq.com/s2/8193148/806d/"
+            }
+        },
+        "transTypeTxt": "text",
+        "fixedTabStatus": 0,
+        "bodyTop": 0,
+        "ifHideUserOperation": false
+    },
+    "textTranslate": {
+        "prevTransQuery": "",
+        "translateData": {
+            "translate": {
+                "zly": "zly",
+                "errorCode": "0",
+                "qc_type": "1",
+                "index": "content0",
+                "from": "en",
+                "source": "sogou",
+                "text": "interim",
+                "to": "zh-CHS",
+                "id": "1537170d-6671-4299-89f4-c73f5f9965e3",
+                "dit": "暂时的",
+                "orig_text": "interim",
+                "md5": ""
+            },
+            "detect": {
+                "zly": "zly",
+                "detect": "en",
+                "errorCode": "0",
+                "language": "英语",
+                "id": "8c286380-b56b-11ef-a6f5-bf4f75b091ff",
+                "text": "interim"
+            },
+            "sgtkn": "65C64E675B92FC555D5B769CD24DC20E5E9C73EF6755A46A",
+            "wordCard": {
+                "title": "interim",
+                "show": true,
+                "usualDict": [
+                    {
+                        "values": [
+                            "过渡时期；间歇；期间；临时阶段；临时安排"
+                        ],
+                        "pos": "n."
+                    },
+                    {
+                        "values": [
+                            "暂时的；临时的；过渡期的；中期的；阶段性的；期间的"
+                        ],
+                        "pos": "adj."
+                    }
+                ],
+                "secondQuery": "",
+                "exchange": {},
+                "levelList": [
+                    "六级",
+                    "考研",
+                    "考博",
+                    "雅思",
+                    "GRE"
+                ]
+            },
+            "detail": {
+                "synonym": [
+                    {
+                        "word_list": [
+                            "temporary",
+                            "extraordinary",
+                            "mid",
+                            "medium",
+                            "middle"
+                        ],
+                        "pos": "adj.",
+                        "mean": "临时的，暂时的；中间的；间歇的"
+                    },
+                    {
+                        "word_list": [
+                            "transition period"
+                        ],
+                        "pos": "n.",
+                        "mean": "过渡时期，中间时期；暂定"
+                    }
+                ],
+                "word_group": [
+                    {
+                        "brief_definition": "在其间, 在其前",
+                        "phrase": "in the interim",
+                        "pos": "idm"
+                    },
+                    {
+                        "brief_definition": "暂时地；临时地",
+                        "phrase": "ad interim",
+                        "pos": "adv."
+                    },
+                    {
+                        "brief_definition": "中期报告；期中报告；临时报告",
+                        "phrase": "interim report",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "临时措施；临时保全措施",
+                        "phrase": "interim measure",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "临时政府",
+                        "phrase": "interim government",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "过渡时期",
+                        "phrase": "interim period",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "临时校长；临时总统",
+                        "phrase": "interim President",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "临时支付；临时付款",
+                        "phrase": "interim payment",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "期中股利；中期股利；中期股息",
+                        "phrase": "interim dividend",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "临时声明",
+                        "phrase": "interim statement",
+                        "pos": ""
+                    }
+                ],
+                "bilingual": [
+                    {
+                        "source": "In this <em>interim</em> period we will need to integrate changes into our investment procedures.",
+                        "target": "在这个过渡时期，我们必须改变我们的投资程序。",
+                        "url": "dict.youdao.com"
+                    },
+                    {
+                        "source": "If we had thought carefully over the <em>interim</em> period, we could have avoided this.",
+                        "target": "如果我们在这个过渡时期谨慎地思考，我们可以避开它。",
+                        "url": "www.kekenet.com"
+                    },
+                    {
+                        "source": "The talks aimed also to set up <em>interim</em> measures to manage the effects of bottom trawling in these areas.",
+                        "target": "会议也期望对这些海域拖网渔钓造成的影响进行管理，设立过渡时期的措施。",
+                        "url": "danci.911cha.com"
+                    },
+                    {
+                        "source": "The <em>interim</em> report will be published next week.",
+                        "target": "临时报告将于下周发布。",
+                        "url": ""
+                    },
+                    {
+                        "source": "The board will meet to discuss the <em>interim</em> financial results.",
+                        "target": "董事会将开会讨论临时财务结果。",
+                        "url": ""
+                    },
+                    {
+                        "source": "We need an <em>interim</em> solution until the new system is fully operational.",
+                        "target": "我们需要一个临时解决方案，直到新系统完全投入运行。",
+                        "url": ""
+                    },
+                    {
+                        "source": "The company appointed an <em>interim</em> manager to handle the transition period.",
+                        "target": "公司任命了一位临时经理来处理过渡期。",
+                        "url": ""
+                    },
+                    {
+                        "source": "She took on the role of <em>interim</em> director while the search for a permanent one continues.",
+                        "target": "她在寻找正式导演的过程中担任了临时导演的角色。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Elected to serve ad <em>interim</em> .",
+                        "target": "被推选去暂时为……效力。",
+                        "url": "www.jukuu.com"
+                    },
+                    {
+                        "source": "Please give me a <em>interim</em> receipt.",
+                        "target": "请给我一张临时收据。",
+                        "url": "dict.youdao.com"
+                    }
+                ]
+            },
+            "book": {
+                "yingyinNormal": [
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/bea43289a6cc4d4a14dcb45119ca6c29_26544.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/a1b9a6f40fe914c3bfb8fef11531e9db_68065.mp3",
+                        "isLavafox": true,
+                        "en": "<em>Interim</em>? Exactly how long is that <em>interim</em>?",
+                        "zh": "临时吗？这个临时又是多久呢？",
+                        "videoNameZh": "《饥饿游戏3：嘲笑鸟(下)》",
+                        "videoNameEn": "《The Hunger Games: Mockingjay - Part 2》",
+                        "url": "http://bisentence_movie.sogou.com/7690ebb4f52778399f170d8335696db4_b75564820f2d14c75a55870076da2074b4955270"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/659ebdbad5fdd9f9876f9f9ae88da0ad_60299.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/860ee9ab8c2b9084f330dcedc0a2aab4_23293.mp3",
+                        "isLavafox": true,
+                        "en": "I'll be made a full voting member of the Board. And lastly <em>Interim</em> CEO.",
+                        "zh": "而我也需要取得董事会的全权投票资格，并且最少是临时CEO",
+                        "videoNameZh": "《乔布斯》",
+                        "videoNameEn": "《Jobs》",
+                        "url": "http://bisentence_movie.sogou.com/ce5ef5d1b3740b12915dcbd6ae342119_ae93fe904eb4e42cefdb65ba171d62874af593ca"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/bea43289a6cc4d4a14dcb45119ca6c29_26544.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/8421933f3cab88736d5636476cfbde3e_33864.mp3",
+                        "isLavafox": true,
+                        "en": "I am taking the burden and the honor of declaring myself <em>interim</em> President of Panem.",
+                        "zh": "我会揽下这个重任，本人正式成为帕纳姆国的临时总统。",
+                        "videoNameZh": "《饥饿游戏3：嘲笑鸟(下)》",
+                        "videoNameEn": "《The Hunger Games: Mockingjay - Part 2》",
+                        "url": "http://bisentence_movie.sogou.com/402b23e9d0784b2bcd812c36349ae9a2_6b9a03b6da09ba7226dd0d8049bda181ddc8a7cf"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/eb018cf49e3f89f3bef3ea53525e6ccf_56032.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/a2cce6d4851dd778bf5c85e655a5a4e1_3770.mp3",
+                        "isLavafox": true,
+                        "en": "I'm sorry, I'm confused. President Siebert said you were focusing on some important physics work and I should take over your lab in the <em>interim</em>. Hey, that was my exciting news.",
+                        "zh": "抱歉，我没搞懂。塞伯特校长说你目前要投入到重要的物理学研究中在此期间由我来接管你的实验室。讨厌，你怎么把我的好消息说出来了。",
+                        "videoNameZh": "《生活大爆炸 第十二季》",
+                        "videoNameEn": "《The Big Bang Theory Season 12》",
+                        "url": "http://bisentence_movie.sogou.com/51814f07c67ea0f76cb3d6b3828057fa_4b87306fc70b771630283399dfe52a29ba5e92cc"
+                    }
+                ]
+            },
+            "pic": "",
+            "voice": {
+                "phonetic": [
+                    {
+                        "text": "ˈɪntərɪm",
+                        "type": "uk",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/2476_interim_uk.mp3"
+                    },
+                    {
+                        "text": "ˈɪntərɪm",
+                        "type": "usa",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/2476_interim_usa.mp3"
+                    }
+                ]
+            },
+            "dictType": "oxford_buchong",
+            "kaoyan": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 1,
+                        "pos": "adj",
+                        "chinese": "中期的",
+                        "sense_tier_ratio": 100
+                    },
+                    {
+                        "sense_tier": 0,
+                        "pos": "n",
+                        "chinese": "在其间; 在其时",
+                        "sense_tier_ratio": 0
+                    },
+                    {
+                        "sense_tier": 0,
+                        "pos": "adj",
+                        "chinese": "暂时的; 临时的",
+                        "sense_tier_ratio": 0
+                    }
+                ],
+                "word": "interim",
+                "direction_info": {
+                    "ranges": 12,
+                    "description": "数据源自2012-2023年12年间全国考研试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2012-2023年全国考研英语一和考研英语二共24套考研试卷，包括阅读、完型填空、翻译、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选全国考研考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2012-2023年12年间全国考研英语一和考研英语二试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 1,
+                "total_exam_freq": 1,
+                "sense": {
+                    "sense_num": 3,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "中期的",
+                            "pos": "adj",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "USFWS also set an <highlight>interim</highlight> goal of restoring prairie chicken populations to an annual average of 67, 000 birds over the next 10 years.",
+                                    "month": -1,
+                                    "source": "英语二",
+                                    "coll": "",
+                                    "sentence_trans": "美国鱼类及野生动植物管理局还设定了一个中期目标，即在未来10年里将松鸡数量恢复到每年平均67000只。",
+                                    "year": 2016,
+                                    "type": "阅读理解A",
+                                    "day": -1
+                                }
+                            ]
+                        },
+                        {
+                            "synonyms": "",
+                            "en": "",
+                            "zh": "在其间; 在其时",
+                            "pos": "n",
+                            "antonyms": ""
+                        },
+                        {
+                            "synonyms": "",
+                            "en": "",
+                            "zh": "暂时的; 临时的",
+                            "pos": "adj",
+                            "antonyms": ""
+                        }
+                    ]
+                }
+            },
+            "CET6": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 0,
+                        "pos": "n",
+                        "chinese": "间歇",
+                        "sense_tier_ratio": 0
+                    },
+                    {
+                        "sense_tier": 0,
+                        "pos": "n",
+                        "chinese": "过渡时期",
+                        "sense_tier_ratio": 0
+                    },
+                    {
+                        "sense_tier": 0,
+                        "pos": "adj",
+                        "chinese": "暂时的; 临时的",
+                        "sense_tier_ratio": 0
+                    }
+                ],
+                "word": "interim",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2016.6-2023.6年8年间全六级试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight>考纲释义</highlight>\n精选实考、考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2016-2023年51套试卷，包括阅读、听力、翻译等所有题型。\n\n<highlight>真题例句</highlight>\n精选2016-2023年8年间全六级试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 1,
+                "total_exam_freq": 0,
+                "sense": {
+                    "sense_num": 3,
+                    "sense_info_list": [
+                        {
+                            "synonyms": "",
+                            "en": "",
+                            "zh": "间歇",
+                            "pos": "n",
+                            "antonyms": ""
+                        },
+                        {
+                            "synonyms": "",
+                            "en": "",
+                            "zh": "过渡时期",
+                            "pos": "n",
+                            "antonyms": ""
+                        },
+                        {
+                            "synonyms": "",
+                            "en": "",
+                            "zh": "暂时的; 临时的",
+                            "pos": "adj",
+                            "antonyms": ""
+                        }
+                    ]
+                }
+            },
+            "sentencesData": {
+                "status": 1,
+                "info": "notZh2En",
+                "data": {}
+            },
+            "isAutoMatch": false,
+            "Zh2En": false
+        },
+        "query": "interim",
+        "result": "暂时的",
+        "tabSelect": "detail",
+        "dictionaryType": "oxford_buchong",
+        "notFound_show": false,
+        "phoneticShow": "",
+        "globalShowTranslateRecord": "",
+        "pronPrefer": {
+            "type": "usa_1",
+            "speaker": "male",
+            "speed": "standard"
+        },
+        "ServerRecord": "",
+        "ServerUIGS": {
+            "version": "new",
+            "type": "all",
+            "stype": "success",
+            "terminal": "web",
+            "fr": "default",
+            "direction": "etoz",
+            "from": "en",
+            "to": "zh-CHS",
+            "len": 7,
+            "qtype": "text",
+            "qctype": "qc_1",
+            "dict_cover": 1,
+            "detail": 1,
+            "wordCardCover": 1,
+            "wordCardEn": 1,
+            "wordCardCh": 0,
+            "wordCardMinor": 0,
+            "wordCardNetmean": 0,
+            "wordDeform": 0,
+            "keyword": 0,
+            "bilingual": 1,
+            "simple": 0,
+            "levelList": 1,
+            "synonym": 1,
+            "antonym": 0,
+            "conjugate": 0,
+            "rootaffix": 0,
+            "baike_sogou": 0,
+            "baike_wiki": 0,
+            "wordDifference": 0,
+            "word_phrase": 1,
+            "secondQuery": 0,
+            "dict_oxford": 0,
+            "dict_newcentury": 0,
+            "zhongkaotab": 0,
+            "gaokaotab": 0,
+            "CET4tab": 0,
+            "CET6tab": 1,
+            "kaoyantab": 1,
+            "network_tab": 0,
+            "yinying_tab": 1,
+            "tuozhan_tab": 0,
+            "one_pic": 0,
+            "more_pic": 0,
+            "no_pic": 0,
+            "uuid": "1537170d-6671-4299-89f4-c73f5f9965e3",
+            "from_type": 0,
+            "t_trans_ssr": 243
+        },
+        "ServerModelUIGS": {
+            "terminal": "web",
+            "type": "trans_model",
+            "pbtype": "pv",
+            "model_general": 1,
+            "model_medical": 1,
+            "model_finance": 1
+        },
+        "ServerSgtkn": "65C64E675B92FC555D5B769CD24DC20E5E9C73EF6755A46A",
+        "suggShow": false,
+        "suggestion": "",
+        "suggDirection": "",
+        "usualTop": "",
+        "baseDict": "",
+        "wordCardClick": false,
+        "isFrInput": false,
+        "kanaTips": {
+            "show": false,
+            "left": "",
+            "top": "",
+            "type": "",
+            "arrowLeft": ""
+        },
+        "currSentenceIndex": -1,
+        "prefixStrObj": {
+            "prefixStr": "",
+            "oriPrefixStr": ""
+        },
+        "selectTransBox": {
+            "show": false,
+            "right": 0,
+            "top": 0,
+            "paraphraseInfo": {
+                "word": "",
+                "from": "",
+                "to": "",
+                "area": ""
+            }
+        },
+        "sentenceLoading": false,
+        "newSentenceInfo": {
+            "sentence": "",
+            "candidateIndex": 0
+        },
+        "moreTipInfo": {
+            "opacity": 0,
+            "zIndex": -1
+        },
+        "paraphraseShowInfo": {
+            "card": 0,
+            "query": "",
+            "card_dict": 0
+        },
+        "selectType": "",
+        "wordPos": 0,
+        "candidateWord": "",
+        "syntaxVisible": false,
+        "syntaxStatus": 0
+    },
+    "language": {
+        "from": "auto",
+        "to": "zh-CHS",
+        "detect": "en",
+        "model": "general",
+        "detectShow": false,
+        "langMap": {
+            "current": ""
+        },
+        "zh2en": false,
+        "fromItemList": [
+            {
+                "lang": "auto",
+                "text": "自动检测",
+                "play": false
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "ko",
+                "text": "韩语",
+                "play": true,
+                "abbr": "韩"
+            },
+            {
+                "lang": "fr",
+                "text": "法语",
+                "play": true,
+                "abbr": "法"
+            },
+            {
+                "lang": "vi",
+                "text": "越南语",
+                "play": true,
+                "abbr": "越"
+            }
+        ],
+        "toItemList": [
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "fr",
+                "text": "法语",
+                "play": true,
+                "abbr": "法"
+            },
+            {
+                "lang": "hu",
+                "text": "匈牙利语",
+                "play": true,
+                "abbr": "匈"
+            },
+            {
+                "lang": "th",
+                "text": "泰语",
+                "play": true,
+                "abbr": "泰"
+            }
+        ]
+    },
+    "voice": {
+        "from": {
+            "lang": "en",
+            "type": "from",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22interim%22%2C%22spokenDialect%22%3A%22en%22%2C%22rate%22%3A%220.8%22%7D",
+            "list": [
+                {
+                    "type": "uk_0",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "ˈɪntərɪm",
+                    "abbr": "英",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/2476_interim_uk.mp3"
+                },
+                {
+                    "type": "usa_1",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "ˈɪntərɪm",
+                    "abbr": "美",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/2476_interim_usa.mp3"
+                }
+            ],
+            "stype": "phonetic",
+            "phoneticShow": [
+                {
+                    "text": "ˈɪntərɪm",
+                    "type": "uk",
+                    "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/2476_interim_uk.mp3"
+                }
+            ]
+        },
+        "to": {
+            "lang": "zh",
+            "type": "to",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22%E6%9A%82%E6%97%B6%E7%9A%84%22%2C%22spokenDialect%22%3A%22zh-CHS%22%2C%22rate%22%3A%220.8%22%7D",
+            "stype": "normal"
+        }
+    }
+}

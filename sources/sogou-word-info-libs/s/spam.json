@@ -1,0 +1,574 @@
+{
+    "route": {
+        "name": "text",
+        "path": "/text",
+        "hash": "",
+        "query": {
+            "keyword": "spam",
+            "transfrom": "auto",
+            "transto": "zh-CHS",
+            "model": "general",
+            "errcode": "s10"
+        },
+        "params": {},
+        "fullPath": "/text?keyword=spam&transfrom=auto&transto=zh-CHS&model=general&errcode=s10",
+        "meta": {
+            "mtype": [
+                "textTranslate",
+                "language",
+                "voice"
+            ]
+        },
+        "from": {
+            "name": null,
+            "path": "/",
+            "hash": "",
+            "query": {},
+            "params": {},
+            "fullPath": "/",
+            "meta": {}
+        }
+    },
+    "common": {
+        "CONFIG": {
+            "wuid": 1733668309363,
+            "loginInfo": {},
+            "isIE": 0,
+            "isHitSsrSwitch": true,
+            "isHitWritebookSwitch": false,
+            "isHitAmsSwitch": true,
+            "promotionList": "{\n    \"pc_bottom\":{\n        \"imgsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\",\n        \"qcsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\"\n    },\n    \"pc_middle\":[\n        {\n            \"src\":\"//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c\",\n            \"bgColor\":\"#ffffff\",\n            \"link\":\"\"\n        }\n    ],\n    \"pc_survey\":{\n        \"icon\":\"//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750\",\n        \"link\":\"https://wj.qq.com/s2/8193148/806d/\"\n    }\n}",
+            "bannerData": [],
+            "isHitAsideSurvey": false,
+            "secretCode": 109984457,
+            "uuid": "1b79b1d9-71de-47a4-83f3-514e61ca8d53",
+            "referer": "",
+            "approveToken": "65D6990CAB4332849089A74C8B337DB090B6285A6755ADD5",
+            "loadTime": 1733668309365,
+            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0",
+            "fcp": "159.65.124.238",
+            "temporaryId": "",
+            "fileId": ""
+        },
+        "hotWords": [],
+        "isFromCollect": false,
+        "psdModify": {
+            "currentStep": 1,
+            "scode": "",
+            "username": ""
+        },
+        "loginStatus": true,
+        "feedBackModule": false,
+        "showPromotionPopup": {
+            "show": false,
+            "type": ""
+        },
+        "showPromotionPCDownload": false,
+        "showShareBomb": false,
+        "shareData": null,
+        "showAppDownLoad": false,
+        "showLoginDialog": false,
+        "showLoading": {
+            "show": false
+        },
+        "toast": {
+            "show": false,
+            "text": "",
+            "loading": false
+        },
+        "modelToast": {
+            "show": false,
+            "text": ""
+        },
+        "selectionGlobalShow": true,
+        "selectionInfo": {
+            "left": 0,
+            "top": 0,
+            "show": false,
+            "from": "",
+            "to": "",
+            "val": "",
+            "area": ""
+        },
+        "showConfirmDialog": false,
+        "promotionList": {
+            "pc_bottom": {
+                "imgsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png",
+                "qcsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png"
+            },
+            "pc_middle": [
+                {
+                    "src": "//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c",
+                    "bgColor": "#ffffff",
+                    "link": ""
+                }
+            ],
+            "pc_survey": {
+                "icon": "//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750",
+                "link": "https://wj.qq.com/s2/8193148/806d/"
+            }
+        },
+        "transTypeTxt": "text",
+        "fixedTabStatus": 0,
+        "bodyTop": 0,
+        "ifHideUserOperation": false
+    },
+    "textTranslate": {
+        "prevTransQuery": "",
+        "translateData": {
+            "translate": {
+                "zly": "zly",
+                "errorCode": "0",
+                "qc_type": "1",
+                "index": "content0",
+                "from": "en",
+                "source": "sogou",
+                "text": "spam",
+                "to": "zh-CHS",
+                "id": "1b79b1d9-71de-47a4-83f3-514e61ca8d53",
+                "dit": "垃圾邮件",
+                "orig_text": "spam",
+                "md5": ""
+            },
+            "detect": {
+                "zly": "zly",
+                "detect": "en",
+                "errorCode": "0",
+                "language": "英语",
+                "id": "28e31f80-b571-11ef-9c4e-553ef76e6143",
+                "text": "spam"
+            },
+            "sgtkn": "65D69912AB4332849089A74C8B337DB090B6285A6755ADD5",
+            "wordCard": {
+                "title": "spam",
+                "show": true,
+                "usualDict": [
+                    {
+                        "values": [
+                            "垃圾邮件；滥发的信息；网络垃圾信息；互联网上的垃圾广告；（Spam）斯帕姆（午餐肉品牌）"
+                        ],
+                        "pos": "n."
+                    },
+                    {
+                        "values": [
+                            "发送垃圾邮件；滥发信息；群发商业广告或不相关信息"
+                        ],
+                        "pos": "v."
+                    }
+                ],
+                "secondQuery": "",
+                "exchange": {
+                    "word_third": [
+                        "spams"
+                    ],
+                    "word_ing": [
+                        "spamming"
+                    ],
+                    "word_done": [
+                        "spammed"
+                    ],
+                    "word_pl": [
+                        "spams"
+                    ],
+                    "word_past": [
+                        "spammed"
+                    ]
+                },
+                "levelList": []
+            },
+            "detail": {
+                "synonym": [
+                    {
+                        "word_list": [
+                            "junk E-mail",
+                            "junk mail"
+                        ],
+                        "pos": "n.",
+                        "mean": "垃圾邮件；罐头猪肉"
+                    }
+                ],
+                "wordRootInfo": {
+                    "word_info_list": [
+                        {
+                            "word": "spammer",
+                            "pos_mean_info_list": [
+                                {
+                                    "pos": "n.",
+                                    "mean": "垃圾邮件制作者"
+                                }
+                            ]
+                        }
+                    ],
+                    "root_word": "spam"
+                },
+                "word_group": [
+                    {
+                        "brief_definition": "垃圾消息；垃圾短信；垃圾讯息",
+                        "phrase": "spam message",
+                        "pos": ""
+                    }
+                ],
+                "bilingual": [
+                    {
+                        "source": "The software classifies emails as <em>spam</em> or not <em>spam</em>.",
+                        "target": "该软件将电子邮件分类为垃圾邮件或非垃圾邮件。",
+                        "url": ""
+                    },
+                    {
+                        "source": "This app has a <em>spam</em> filter.",
+                        "target": "这个应用程序有一个垃圾邮件过滤器。",
+                        "url": ""
+                    },
+                    {
+                        "source": "The system flagged the email as <em>spam</em>.",
+                        "target": "系统标记了这封邮件为垃圾邮件。",
+                        "url": ""
+                    },
+                    {
+                        "source": "My e-mail has received a lot of <em>spam</em>.",
+                        "target": "我的电子邮箱收到了很多垃圾邮件。",
+                        "url": ""
+                    },
+                    {
+                        "source": "The software can filter out <em>spam</em> emails.",
+                        "target": "这个软件可以过滤掉垃圾邮件。",
+                        "url": ""
+                    },
+                    {
+                        "source": "The inbox was bombarded with <em>spam</em> emails.",
+                        "target": "收件箱被垃圾邮件轰炸了。",
+                        "url": ""
+                    },
+                    {
+                        "source": "The email was redirected to my <em>spam</em> folder.",
+                        "target": "这封邮件被重新定向到我的垃圾邮件文件夹。",
+                        "url": ""
+                    },
+                    {
+                        "source": "You can filter <em>spam</em> by setting up a white list.",
+                        "target": "你可以通过设置白名单来过滤垃圾邮件。",
+                        "url": ""
+                    },
+                    {
+                        "source": "You can use this program to filter <em>spam</em> emails.",
+                        "target": "你可以使用这个程序来过滤垃圾邮件。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Filtering <em>spam</em> emails is essential for a clean inbox.",
+                        "target": "过滤垃圾邮件对于保持干净的收件箱是必要的。",
+                        "url": ""
+                    }
+                ],
+                "baike": {
+                    "showMore": true,
+                    "list": [
+                        {
+                            "lemmaTitle": "斯帕姆罐头午餐肉",
+                            "link": "https://baike.sogou.com/v7822773.htm?ch=sogou.fanyi",
+                            "abstract": "斯帕姆罐头午餐肉是一种罐装肉的牌子。是一种经过特殊加工的混合肉，主要是碎猪肉。",
+                            "wapPic": "//img04.sogoucdn.com/v2/thumb/retype_exclude_gif/ext/auto/q/80/crop/xy/ai/w/140/h/140/resize/w/140?appid=201005&sign=eaed24038866c87d8f699574d88abec3&url=https%3A%2F%2Fpic.baike.soso.com%2Fugc%2Fbaikepic2%2F15038%2F20220422094420-1057651314_jpeg_500_367_25987.jpg%2F0",
+                            "pcPic": "//img04.sogoucdn.com/v2/thumb/retype_exclude_gif/ext/auto/q/80/crop/xy/ai/w/140/h/140/resize/w/140?appid=201005&sign=eaed24038866c87d8f699574d88abec3&url=https%3A%2F%2Fpic.baike.soso.com%2Fugc%2Fbaikepic2%2F15038%2F20220422094420-1057651314_jpeg_500_367_25987.jpg%2F0"
+                        },
+                        {
+                            "lemmaTitle": "SPAM",
+                            "link": "https://baike.sogou.com/v64743846.htm?ch=sogou.fanyi",
+                            "abstract": "搜索引擎垃圾技术是利用不道德的技巧去提高自己搜索引擎上的排名。不诚实的网站管理员就是利用这样的手段去欺骗搜索引擎从而获得较高的排名。这样的做法会让你的网站在短期内排名得到提高，但是后果却是十分严重的。有可能导致搜索引擎把你的网站从他的数据库里永久删除！",
+                            "wapPic": "",
+                            "pcPic": ""
+                        }
+                    ]
+                }
+            },
+            "book": {
+                "yingyinNormal": [
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/7eb0bec9540cbb2c5939554caf885c99_49670.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/2588fbfed53e4ad771de2cb868bf02e0_20600.mp3",
+                        "isLavafox": true,
+                        "en": "There you go. Now any e-mail from Wolowitz will go right into your <em>spam</em> folder.",
+                        "zh": "好了，现在所有沃尔伍兹发来的邮件都会直接进入垃圾箱。",
+                        "videoNameZh": "《生活大爆炸 第二季》",
+                        "videoNameEn": "《The Big Bang Theory Season 2》",
+                        "url": "http://bisentence_movie.sogou.com/98c2cd8bf2a4e48de6172e40e7879ca1_9ed6a3e941d2cabe5ee7bde1da59d8886ffc6666"
+                    }
+                ]
+            },
+            "pic": "",
+            "voice": {
+                "phonetic": [
+                    {
+                        "text": "spæm",
+                        "type": "uk",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/10960_spam_uk.mp3"
+                    },
+                    {
+                        "text": "spæm",
+                        "type": "usa",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/10960_spam_usa.mp3"
+                    }
+                ]
+            },
+            "dictType": "oxford_buchong",
+            "sentencesData": {
+                "status": 1,
+                "info": "notZh2En",
+                "data": {}
+            },
+            "isAutoMatch": false,
+            "Zh2En": false
+        },
+        "query": "spam",
+        "result": "垃圾邮件",
+        "tabSelect": "detail",
+        "dictionaryType": "oxford_buchong",
+        "notFound_show": false,
+        "phoneticShow": "",
+        "globalShowTranslateRecord": "",
+        "pronPrefer": {
+            "type": "usa_1",
+            "speaker": "male",
+            "speed": "standard"
+        },
+        "ServerRecord": "",
+        "ServerUIGS": {
+            "version": "new",
+            "type": "all",
+            "stype": "success",
+            "terminal": "web",
+            "fr": "default",
+            "direction": "etoz",
+            "from": "en",
+            "to": "zh-CHS",
+            "len": 4,
+            "qtype": "text",
+            "qctype": "qc_1",
+            "dict_cover": 1,
+            "detail": 1,
+            "wordCardCover": 1,
+            "wordCardEn": 1,
+            "wordCardCh": 0,
+            "wordCardMinor": 0,
+            "wordCardNetmean": 0,
+            "wordDeform": 1,
+            "keyword": 0,
+            "bilingual": 1,
+            "simple": 0,
+            "levelList": 1,
+            "synonym": 1,
+            "antonym": 0,
+            "conjugate": 1,
+            "rootaffix": 0,
+            "baike_sogou": 1,
+            "baike_wiki": 0,
+            "wordDifference": 0,
+            "word_phrase": 1,
+            "secondQuery": 0,
+            "dict_oxford": 0,
+            "dict_newcentury": 0,
+            "zhongkaotab": 0,
+            "gaokaotab": 0,
+            "CET4tab": 0,
+            "CET6tab": 0,
+            "kaoyantab": 0,
+            "network_tab": 0,
+            "yinying_tab": 1,
+            "tuozhan_tab": 0,
+            "one_pic": 0,
+            "more_pic": 0,
+            "no_pic": 0,
+            "uuid": "1b79b1d9-71de-47a4-83f3-514e61ca8d53",
+            "from_type": 0,
+            "t_trans_ssr": 198
+        },
+        "ServerModelUIGS": {
+            "terminal": "web",
+            "type": "trans_model",
+            "pbtype": "pv",
+            "model_general": 1,
+            "model_medical": 1,
+            "model_finance": 1
+        },
+        "ServerSgtkn": "65D69912AB4332849089A74C8B337DB090B6285A6755ADD5",
+        "suggShow": false,
+        "suggestion": "",
+        "suggDirection": "",
+        "usualTop": "",
+        "baseDict": "",
+        "wordCardClick": false,
+        "isFrInput": false,
+        "kanaTips": {
+            "show": false,
+            "left": "",
+            "top": "",
+            "type": "",
+            "arrowLeft": ""
+        },
+        "currSentenceIndex": -1,
+        "prefixStrObj": {
+            "prefixStr": "",
+            "oriPrefixStr": ""
+        },
+        "selectTransBox": {
+            "show": false,
+            "right": 0,
+            "top": 0,
+            "paraphraseInfo": {
+                "word": "",
+                "from": "",
+                "to": "",
+                "area": ""
+            }
+        },
+        "sentenceLoading": false,
+        "newSentenceInfo": {
+            "sentence": "",
+            "candidateIndex": 0
+        },
+        "moreTipInfo": {
+            "opacity": 0,
+            "zIndex": -1
+        },
+        "paraphraseShowInfo": {
+            "card": 0,
+            "query": "",
+            "card_dict": 0
+        },
+        "selectType": "",
+        "wordPos": 0,
+        "candidateWord": "",
+        "syntaxVisible": false,
+        "syntaxStatus": 0
+    },
+    "language": {
+        "from": "auto",
+        "to": "zh-CHS",
+        "detect": "en",
+        "model": "general",
+        "detectShow": false,
+        "langMap": {
+            "current": ""
+        },
+        "zh2en": false,
+        "fromItemList": [
+            {
+                "lang": "auto",
+                "text": "自动检测",
+                "play": false
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "sv",
+                "text": "瑞典语",
+                "play": true,
+                "abbr": "瑞典"
+            },
+            {
+                "lang": "th",
+                "text": "泰语",
+                "play": true,
+                "abbr": "泰"
+            },
+            {
+                "lang": "fr",
+                "text": "法语",
+                "play": true,
+                "abbr": "法"
+            }
+        ],
+        "toItemList": [
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "fr",
+                "text": "法语",
+                "play": true,
+                "abbr": "法"
+            },
+            {
+                "lang": "ru",
+                "text": "俄语",
+                "play": true,
+                "abbr": "俄"
+            },
+            {
+                "lang": "vi",
+                "text": "越南语",
+                "play": true,
+                "abbr": "越"
+            }
+        ]
+    },
+    "voice": {
+        "from": {
+            "lang": "en",
+            "type": "from",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22spam%22%2C%22spokenDialect%22%3A%22en%22%2C%22rate%22%3A%220.8%22%7D",
+            "list": [
+                {
+                    "type": "uk_0",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "spæm",
+                    "abbr": "英",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/10960_spam_uk.mp3"
+                },
+                {
+                    "type": "usa_1",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "spæm",
+                    "abbr": "美",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/10960_spam_usa.mp3"
+                }
+            ],
+            "stype": "phonetic",
+            "phoneticShow": [
+                {
+                    "text": "spæm",
+                    "type": "uk",
+                    "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/10960_spam_uk.mp3"
+                }
+            ]
+        },
+        "to": {
+            "lang": "zh",
+            "type": "to",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22%E5%9E%83%E5%9C%BE%E9%82%AE%E4%BB%B6%22%2C%22spokenDialect%22%3A%22zh-CHS%22%2C%22rate%22%3A%220.8%22%7D",
+            "stype": "normal"
+        }
+    }
+}
