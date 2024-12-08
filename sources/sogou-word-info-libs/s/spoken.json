@@ -1,0 +1,1496 @@
+{
+    "route": {
+        "name": "text",
+        "path": "/text",
+        "hash": "",
+        "query": {
+            "keyword": "spoken",
+            "transfrom": "auto",
+            "transto": "zh-CHS",
+            "model": "general",
+            "errcode": "s10"
+        },
+        "params": {},
+        "fullPath": "/text?keyword=spoken&transfrom=auto&transto=zh-CHS&model=general&errcode=s10",
+        "meta": {
+            "mtype": [
+                "textTranslate",
+                "language",
+                "voice"
+            ]
+        },
+        "from": {
+            "name": null,
+            "path": "/",
+            "hash": "",
+            "query": {},
+            "params": {},
+            "fullPath": "/",
+            "meta": {}
+        }
+    },
+    "common": {
+        "CONFIG": {
+            "wuid": 1733638690332,
+            "loginInfo": {},
+            "isIE": 0,
+            "isHitSsrSwitch": true,
+            "isHitWritebookSwitch": false,
+            "isHitAmsSwitch": true,
+            "promotionList": "{\n    \"pc_bottom\":{\n        \"imgsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\",\n        \"qcsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\"\n    },\n    \"pc_middle\":[\n        {\n            \"src\":\"//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c\",\n            \"bgColor\":\"#ffffff\",\n            \"link\":\"\"\n        }\n    ],\n    \"pc_survey\":{\n        \"icon\":\"//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750\",\n        \"link\":\"https://wj.qq.com/s2/8193148/806d/\"\n    }\n}",
+            "bannerData": [],
+            "isHitAsideSurvey": false,
+            "secretCode": 109984457,
+            "uuid": "be8d2641-5e28-4a88-b109-8bae1ccec610",
+            "referer": "",
+            "approveToken": "65041EAF4088E14F44426CFF720A2D5C44F75E3667553A22",
+            "loadTime": 1733638690334,
+            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0",
+            "fcp": "139.59.89.214",
+            "temporaryId": "",
+            "fileId": ""
+        },
+        "hotWords": [],
+        "isFromCollect": false,
+        "psdModify": {
+            "currentStep": 1,
+            "scode": "",
+            "username": ""
+        },
+        "loginStatus": true,
+        "feedBackModule": false,
+        "showPromotionPopup": {
+            "show": false,
+            "type": ""
+        },
+        "showPromotionPCDownload": false,
+        "showShareBomb": false,
+        "shareData": null,
+        "showAppDownLoad": false,
+        "showLoginDialog": false,
+        "showLoading": {
+            "show": false
+        },
+        "toast": {
+            "show": false,
+            "text": "",
+            "loading": false
+        },
+        "modelToast": {
+            "show": false,
+            "text": ""
+        },
+        "selectionGlobalShow": true,
+        "selectionInfo": {
+            "left": 0,
+            "top": 0,
+            "show": false,
+            "from": "",
+            "to": "",
+            "val": "",
+            "area": ""
+        },
+        "showConfirmDialog": false,
+        "promotionList": {
+            "pc_bottom": {
+                "imgsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png",
+                "qcsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png"
+            },
+            "pc_middle": [
+                {
+                    "src": "//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c",
+                    "bgColor": "#ffffff",
+                    "link": ""
+                }
+            ],
+            "pc_survey": {
+                "icon": "//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750",
+                "link": "https://wj.qq.com/s2/8193148/806d/"
+            }
+        },
+        "transTypeTxt": "text",
+        "fixedTabStatus": 0,
+        "bodyTop": 0,
+        "ifHideUserOperation": false
+    },
+    "textTranslate": {
+        "prevTransQuery": "",
+        "translateData": {
+            "translate": {
+                "zly": "zly",
+                "errorCode": "0",
+                "qc_type": "1",
+                "index": "content0",
+                "from": "en",
+                "source": "sogou",
+                "text": "spoken",
+                "to": "zh-CHS",
+                "id": "be8d2641-5e28-4a88-b109-8bae1ccec610",
+                "dit": "口语的",
+                "orig_text": "spoken",
+                "md5": ""
+            },
+            "detect": {
+                "zly": "zly",
+                "detect": "en",
+                "errorCode": "0",
+                "language": "英语",
+                "id": "32910cd0-b52c-11ef-b4aa-afaf4923e4bd",
+                "text": "spoken"
+            },
+            "sgtkn": "65041EB54088E14F44426CFF720A2D5C44F75E3667553A22",
+            "wordCard": {
+                "title": "spoken",
+                "show": true,
+                "usualDict": [
+                    {
+                        "values": [
+                            "口头的；口语的；口述的；口头传达的"
+                        ],
+                        "pos": "adj."
+                    },
+                    {
+                        "values": [
+                            "说话；讲话；谈；交谈；谈话；讲述；发言；口述；（speak的过去分词）"
+                        ],
+                        "pos": "v."
+                    }
+                ],
+                "secondQuery": "",
+                "exchange": {
+                    "word_proto": [
+                        "speak"
+                    ]
+                },
+                "levelList": [
+                    "小学",
+                    "初中",
+                    "高中",
+                    "四级",
+                    "六级",
+                    "考研"
+                ]
+            },
+            "detail": {
+                "synonym": [
+                    {
+                        "word_list": [
+                            "oral",
+                            "verbal"
+                        ],
+                        "pos": "adj.",
+                        "mean": "口语的，口头的"
+                    }
+                ],
+                "antonym": [
+                    {
+                        "word_list": [
+                            "written"
+                        ],
+                        "pos": "",
+                        "mean": ""
+                    }
+                ],
+                "affix": {
+                    "word": "spoken",
+                    "sub_affix_info_list": [
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "说话; 讲话, speak的过去式",
+                                    "affix_type": "stem"
+                                }
+                            ],
+                            "affix": "spok(e)",
+                            "affix_mean": "说话"
+                        },
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "awaken",
+                                            "mean": "v. 唤醒；醒；使开始意识到"
+                                        },
+                                        {
+                                            "word": "beaten",
+                                            "mean": "adj. 被打败的；挨过打的；常有人走的；用旧了的；筋疲力尽且情绪低落的；心力交瘁的；拌匀的；锤制（成陷窝）的；锤成装饰用箔片的"
+                                        },
+                                        {
+                                            "word": "blacken",
+                                            "mean": "v. 变黑；熏黑；变暗；把（脸或头发）染黑；阴沉下来；诋毁；给…抹黑"
+                                        },
+                                        {
+                                            "word": "broaden",
+                                            "mean": "v. 变宽；扩大；变开阔"
+                                        },
+                                        {
+                                            "word": "chasten",
+                                            "mean": "v. 遏制；使缓和；惩戒；惩罚"
+                                        },
+                                        {
+                                            "word": "dampen",
+                                            "mean": "v. 使湿润；减弱；减缓；降低（声源）的音"
+                                        },
+                                        {
+                                            "word": "deaden",
+                                            "mean": "v. 减弱；使麻木；使无感觉；使无力；使呆板；使徒劳；使…麻木；使…迟钝"
+                                        },
+                                        {
+                                            "word": "deepen",
+                                            "mean": "v. 加深；深化"
+                                        },
+                                        {
+                                            "word": "dishearten",
+                                            "mean": "v. 使失去决心；使丧气"
+                                        },
+                                        {
+                                            "word": "fasten",
+                                            "mean": "v. 把…关紧；把…扣住；被关紧；被扣（或缚）住；把…固定（或保持）在适当位置上；把（眼睛、思想、感情等）集中于；把（责任）归于；挑出；选定…并对其全神贯注；把线头缝住"
+                                        },
+                                        {
+                                            "word": "fatten",
+                                            "mean": "v. 使（人）长胖；使…长肥；长胖；发胖；长肥"
+                                        },
+                                        {
+                                            "word": "happen",
+                                            "mean": "v. 发生；使遭遇；降临到…身上；碰巧；恰好；发生于；偶然发生；偶然发现；出现；偶然遇到"
+                                        },
+                                        {
+                                            "word": "harden",
+                                            "mean": "v. 变硬；使冷酷无情；变明确；升水"
+                                        },
+                                        {
+                                            "word": "hasten",
+                                            "mean": "v. 赶紧；急忙；匆忙赶去；使（某事；尤指不好的事）加速来到"
+                                        },
+                                        {
+                                            "word": "heighten",
+                                            "mean": "v. 加高；提高；增高；增强；变强"
+                                        },
+                                        {
+                                            "word": "lengthen",
+                                            "mean": "v. 使变长；使（元音，音节）拖长"
+                                        },
+                                        {
+                                            "word": "lighten",
+                                            "mean": "v. 减轻；变轻；变得更亮；闪电划过；开导；使轻松愉快；启迪"
+                                        },
+                                        {
+                                            "word": "loosen",
+                                            "mean": "v. 使松开；放松；变得放松；变得较为不绷紧；使（联系；关系）不那么紧密；使（肠道）在排泄前畅通；在排泄前变得畅通"
+                                        },
+                                        {
+                                            "word": "sadden",
+                                            "mean": "v. 使悲伤；使伤心；使难过"
+                                        },
+                                        {
+                                            "word": "sharpen",
+                                            "mean": "v. 削尖；磨尖；磨快；变尖；变锋利；尖锐化；急剧化；改善；改进"
+                                        },
+                                        {
+                                            "word": "shorten",
+                                            "mean": "v. 缩短；减少；缩；缩小；使（元音；音节）发短音"
+                                        },
+                                        {
+                                            "word": "soften",
+                                            "mean": "v. 使软化；使变软；使柔和；使缓和；软化；从中除去无机盐；贬值；削弱…的抵抗"
+                                        },
+                                        {
+                                            "word": "strengthen",
+                                            "mean": "v. 加强；巩固；使坚强；变强"
+                                        },
+                                        {
+                                            "word": "frighten",
+                                            "mean": "v. 使害怕；使担忧；使某人（或某事）吓得不敢做；害怕；受惊吓；忧惧；担忧"
+                                        },
+                                        {
+                                            "word": "weaken",
+                                            "mean": "v. 使虚弱；削弱；减弱；变弱"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "动词后缀, \"表示做, 使成为, 使变成\"类似的还有 -ate",
+                                    "affix_type": "suffix"
+                                },
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "wooden",
+                                            "mean": "adj. 木制的；木头似的；木头特性的；呆板的；笨拙的；手脚不灵的"
+                                        },
+                                        {
+                                            "word": "woolen",
+                                            "mean": "adj. 羊毛生产的；羊毛纺的；纯毛的；混纺的"
+                                        },
+                                        {
+                                            "word": "golden",
+                                            "mean": "adj. 金色的；闪金光的；金制的；含金的；非常珍贵的；幸福繁荣的；非常有利的"
+                                        },
+                                        {
+                                            "word": "waxen",
+                                            "mean": "adj. 光滑的；苍白的；半透明的；蜡制的"
+                                        },
+                                        {
+                                            "word": "oaken",
+                                            "mean": "adj. 橡木制的"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "形容词后缀, \"由…制成\", 引申为\"具有某种特质\"",
+                                    "affix_type": "suffix"
+                                },
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "chicken",
+                                            "mean": "n. 鸡；看谁胆小；鸡肉；胆小鬼；懦夫"
+                                        },
+                                        {
+                                            "word": "citizen",
+                                            "mean": "n. 公民；市民；居民"
+                                        },
+                                        {
+                                            "word": "alien",
+                                            "mean": "adj. 外国的；异族的；与外星人有关的；陌生（而令人烦扰或讨厌）的；与地球外有关的；外来的；格格不入；陌生的；不熟悉"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "名词后缀, \"人或物\"",
+                                    "affix_type": "suffix"
+                                },
+                                {
+                                    "sample": [],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "形容词后缀, 表示.....的",
+                                    "affix_type": "suffix"
+                                }
+                            ],
+                            "affix": "-en",
+                            "affix_mean": "动词后缀"
+                        }
+                    ],
+                    "word_mean": "adj. 以某种方式说话的"
+                },
+                "wordRootInfo": {
+                    "word_info_list": [
+                        {
+                            "word": "speaking",
+                            "pos_mean_info_list": [
+                                {
+                                    "pos": "adj.",
+                                    "mean": "演讲的；富于表情的，雄辩的"
+                                },
+                                {
+                                    "pos": "n.",
+                                    "mean": "说话；演讲"
+                                },
+                                {
+                                    "pos": "v.",
+                                    "mean": "讲（speak的ing形式）"
+                                }
+                            ]
+                        },
+                        {
+                            "word": "speakable",
+                            "pos_mean_info_list": [
+                                {
+                                    "pos": "adj.",
+                                    "mean": "可说出口的；可以交谈的"
+                                }
+                            ]
+                        },
+                        {
+                            "word": "speaker",
+                            "pos_mean_info_list": [
+                                {
+                                    "pos": "n.",
+                                    "mean": "演讲者；扬声器；说话者；说某种语言的人"
+                                }
+                            ]
+                        },
+                        {
+                            "word": "spoke",
+                            "pos_mean_info_list": [
+                                {
+                                    "pos": "n.",
+                                    "mean": "轮辐；刹车；扶梯棍"
+                                },
+                                {
+                                    "pos": "v.",
+                                    "mean": "说话（speak的过去分词）；为…装轮辐"
+                                }
+                            ]
+                        },
+                        {
+                            "word": "speak",
+                            "pos_mean_info_list": [
+                                {
+                                    "pos": "vi.",
+                                    "mean": "说话；演讲；表明；陈述"
+                                },
+                                {
+                                    "pos": "vt.",
+                                    "mean": "讲话；发言；讲演"
+                                }
+                            ]
+                        }
+                    ],
+                    "root_word": "speak"
+                },
+                "word_group": [
+                    {
+                        "brief_definition": "口语英语；英语口语；英语口语能力",
+                        "phrase": "spoken English",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "口语",
+                        "phrase": "spoken language",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "谈吐文雅的",
+                        "phrase": "well spoken",
+                        "pos": "adj."
+                    },
+                    {
+                        "brief_definition": "已有人认领的；已有人拥有所有权的；已被预订的；被保留（给别人）的；爱情关系已确定的",
+                        "phrase": "be spoken for",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "笑谈之中多真话",
+                        "phrase": "many a true word is spoken in jest",
+                        "pos": ""
+                    }
+                ],
+                "bilingual": [
+                    {
+                        "source": "She has a talent for <em>spoken</em> poetry.",
+                        "target": "她在口语的诗歌方面很有天赋。",
+                        "url": ""
+                    },
+                    {
+                        "source": "The course focuses on improving <em>spoken</em> English skills.",
+                        "target": "这门课程注重提高口语的英语技能。",
+                        "url": ""
+                    },
+                    {
+                        "source": "He prefers <em>spoken</em> communication over written communication.",
+                        "target": "他更喜欢口语的交流而不是书面交流。",
+                        "url": ""
+                    },
+                    {
+                        "source": "<em>Spoken</em> words can sometimes convey emotions better than written words.",
+                        "target": "口语的表达有时比书面表达更能传达情感。",
+                        "url": ""
+                    },
+                    {
+                        "source": "The teacher emphasized the importance of <em>spoken</em> language in daily interactions.",
+                        "target": "老师强调了在日常交流中口语的重要性。",
+                        "url": ""
+                    },
+                    {
+                        "source": "The students often ask Mr Li for some advice on improving <em>spoken</em> English.",
+                        "target": "学生们经常向李先生寻求一些提高英语口语的建议。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Some question about <em>spoken</em> English",
+                        "target": "同问有关于英语口语的问题",
+                        "url": "zhidao.baidu.com"
+                    },
+                    {
+                        "source": "Remember, listening is always <em>spoken</em> of.",
+                        "target": "记住，听力永远是口语的前提。",
+                        "url": "dict.youdao.com"
+                    },
+                    {
+                        "source": "What is the best way to learn <em>spoken</em> English?",
+                        "target": "学习英语口语的最佳方法是什么?。",
+                        "url": "dfcorner.com"
+                    },
+                    {
+                        "source": "So, how to balance accuracy and fluency in <em>spoken</em> English?",
+                        "target": "所以，英语口语的准确与流利，如何才能平衡起来呢？",
+                        "url": "www.xyzdict.com"
+                    }
+                ]
+            },
+            "book": {
+                "yingyinNormal": [
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/69e52acd9e09b6a2ed378507a165e971_14638.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/5efdf5aa70a37ccebfbe905a65e6f6aa_36967.mp3",
+                        "isLavafox": true,
+                        "en": "Whatever happened to \"don't speak until <em>spoken</em> to\"?",
+                        "zh": "你不说话，没人当你是哑巴？",
+                        "videoNameZh": "《绯闻女孩 第一季》",
+                        "videoNameEn": "《Gossip Girl Season 1》",
+                        "url": "http://bisentence_movie.sogou.com/1bfa5b0c731b057feccba00c9c78b769_974cb0e4bd7aedae8ce6f73f2ddcd2b5f94c2c21"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/ce4704185ed874d2da0aa0211b7c5d4d_3508.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/6ab1d33beef6f6e89646e7ace6e5c116_71874.mp3",
+                        "isLavafox": true,
+                        "en": "Who's Cathy <em>spoken</em> to? Foreign Minister hasn't returned her call.",
+                        "zh": "凯茜给谁打电话呢？外交部长仍未回电话。",
+                        "videoNameZh": "《纸牌屋 第三季》",
+                        "videoNameEn": "《House of Cards Season 3》",
+                        "url": "http://bisentence_movie.sogou.com/17843aa73e00da402034bc31b4dd9bc1_858dafe90e422128bf78c6bf7b7b54b9f2b03ef6"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/649fb0da5e02febcad57f332efe07876_46469.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/24f077336d0c7175a7b1d89462648d89_12869.mp3",
+                        "isLavafox": true,
+                        "en": "Has he <em>spoken</em> yet, is he driving, does he have a favorite liqueur?",
+                        "zh": "他说话了吗？会开车了吗？他有偏好的甜酒吗？",
+                        "videoNameZh": "《老友记 第二季》",
+                        "videoNameEn": "《Friends Season 2》",
+                        "url": "http://bisentence_movie.sogou.com/b6759dd5cdc1d316b60c66fa1486139e_3fab25a7e89178cc82a8533ae7ff12b087f0add2"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/c147f8d54a969778fef4aa74fdb25c24_34800.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/5d63f07b5bbaec4ca69c0a6ea33b8ba3_71765.mp3",
+                        "isLavafox": true,
+                        "en": "Well, yes. And she understands that condition? You've <em>spoken</em> with her?",
+                        "zh": "是的。她明白这个条件吧，你跟她谈过了。",
+                        "videoNameZh": "《纸牌屋 第四季》",
+                        "videoNameEn": "《House of Cards Season 4》",
+                        "url": "http://bisentence_movie.sogou.com/75d9a76509325805629fe5689b447c8e_da229eec605a9797537e542dbb3c3162e4f37a44"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/ef2251c62fc1b53f995cf777893bc2ff_45162.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/c01e4604843cefcb6988be2cdf32e56a_7782.mp3",
+                        "isLavafox": true,
+                        "en": "No. Have you <em>spoken</em> to him? A few minutes ago. He said he did what he thought was right.",
+                        "zh": "没有，你跟他谈过了吗？是的，几分钟前。他说他做了他认为该做的事。",
+                        "videoNameZh": "《纸牌屋 第二季》",
+                        "videoNameEn": "《House of Cards Season 2》",
+                        "url": "http://bisentence_movie.sogou.com/86c7577adcedab89146b93045e670ecc_b6b4628b88de63e6a0af98ff12fb268049e52095"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/34d2d19c723ad11a5a6dcd6da67c9085_43190.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/a2c39184120368af18e942adbce975df_42396.mp3",
+                        "isLavafox": true,
+                        "en": "I wouldn't have <em>spoken</em> up if it weren't for a little girl and a baby boy being put at risk.",
+                        "zh": "如果不是因为牵涉到两个孩子的安危，我也不会多这个嘴。",
+                        "videoNameZh": "《唐顿庄园 第四季》",
+                        "videoNameEn": "《Downton Abbey Season 4》",
+                        "url": "http://bisentence_movie.sogou.com/9499ed819251a13993a732bcc791bc44_3964f27ea7c72d80d9cde77c39a06973f699e34b"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/6447b42a2ce582356f57352573f03454_1301.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/f8baa5388d0fa50c8eb4043d907fba3f_21372.mp3",
+                        "isLavafox": true,
+                        "en": "Young men, have you <em>spoken</em> up in a conversation when a woman was casually degraded or dismissed?",
+                        "zh": "小伙子们，在一位女性被随意贬低或忽视的谈话之中，你们有没有挺身而出？",
+                        "videoNameZh": "《艾玛·沃特森达沃斯世界经济论坛HeForShe演讲》",
+                        "videoNameEn": "《Emma Watson HeForShe speech on Davos》",
+                        "url": "http://bisentence_movie.sogou.com/14d7db104ecee7f807a94586d2e4292c_e6320a98c93a9fbd851e522584f044d5f10400af"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/8005d54b57fe04f26a670220f9323bc7_59749.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/040c93fca7abcda4ac7a350086457bea_16357.mp3",
+                        "isLavafox": true,
+                        "en": "It was the last thing I said to you, remember? The day they took me away. No. No? We've <em>spoken</em> since then.",
+                        "zh": "是我对你说的最后一件事，记得吗？就是他们带走我的那天。不。不吗？那之后我们也说过话。",
+                        "videoNameZh": "《神探夏洛克 第四季》",
+                        "videoNameEn": "《Sherlock Season 4》",
+                        "url": "http://bisentence_movie.sogou.com/14d7a5b68d05c4bcfcfe9c8d7d4774e7_a0ad0eeaa9ee8e07b4498007d3c896334ffedf57"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/466fcb07ee18284cd2e11cc689fe88ec_17209.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/aff66cac3c6a85f7278caa6a9815991e_53756.mp3",
+                        "isLavafox": true,
+                        "en": "You are my friend, Sam. You always will be. But your leaders have <em>spoken</em>. From here, the fight will be your own.",
+                        "zh": "你是我的朋友，山姆，永远都是，但你们首领已经说了，从今以后你们只能独自战斗。",
+                        "videoNameZh": "《变形金刚3》",
+                        "videoNameEn": "《Transformers: Dark of the Moon》",
+                        "url": "http://bisentence_movie.sogou.com/f96c2c04743d3fb92a0ae075f2e78c77_345b591208f6afd95f63bce43b70c1b0f0e89839"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/eb018cf49e3f89f3bef3ea53525e6ccf_56032.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/5adfd9e7b5459ab2f64eea54c554d288_11758.mp3",
+                        "isLavafox": true,
+                        "en": "What do you mean? Well, I mean, Sheldon never talks about him. They haven't <em>spoken</em> in years. He wasn't at the wedding.",
+                        "zh": "什么意思？谢尔顿从来没提过他。他们多年不曾联络。他也没来参加婚礼。",
+                        "videoNameZh": "《生活大爆炸 第十二季》",
+                        "videoNameEn": "《The Big Bang Theory Season 12》",
+                        "url": "http://bisentence_movie.sogou.com/375eb4e6a1fe2ecb36c8583af202d794_9be1d85698a9833c111c2d29c66ad11aaae7db26"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/ef2251c62fc1b53f995cf777893bc2ff_45162.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/15e07f7dd9f799e56e205a949d88a808_24841.mp3",
+                        "isLavafox": true,
+                        "en": "And have you <em>spoken</em> with him? His office isn't returning our calls. Neither is Mendoza's, but... I should've stuck to my guns.",
+                        "zh": "你跟他谈过了吗？他办公室不回我电话。Mendoza也是。我不该让步的。",
+                        "videoNameZh": "《纸牌屋 第二季》",
+                        "videoNameEn": "《House of Cards Season 2》",
+                        "url": "http://bisentence_movie.sogou.com/13bffbe266b462d06ac3925c20a7f206_497735374db89577586ac9423ab4c8c5f2b39b63"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/509aaaf1bca346e83520c424895dfdd8_57758.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/81389ab0ad62c942cc90619735a22b7c_64187.mp3",
+                        "isLavafox": true,
+                        "en": "I've <em>spoken</em> to the PM. He's agreed to keep you in office for now. I'm issuing pardons for five On-the-Runs, one is your cousin.",
+                        "zh": "我已经向首相汇报，他同意现在先让你继续工作。我正在给5个逃犯签发特赦令，其中一个是你的表哥。",
+                        "videoNameZh": "《英伦对决》",
+                        "videoNameEn": "《The Foreigner》",
+                        "url": "http://bisentence_movie.sogou.com/a52da75eeaa2dfc2a92b0c480f938ed8_a3c178b33642fdbd52b4d3330eee9ba68e737ccd"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/9a0d4fcdea6f5721a9e0b0fe2ee7da05_35555.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/095f51cc4dd9c09a50bebc93f5f465e3_51526.mp3",
+                        "isLavafox": true,
+                        "en": "I've already <em>spoken</em> to her father. But at this point in the investigation, we are very confident that Ms. Kim's life was taken on her way out of town.",
+                        "zh": "我已经通知过她的父亲。调查到这里，我们可以确信的是金女士已经遇难在她出城的路上。",
+                        "videoNameZh": "《网络谜踪》",
+                        "videoNameEn": "《Searching》",
+                        "url": "http://bisentence_movie.sogou.com/4e7effd720fb33df5da063b9d817577a_8ba47db419073df3e1aa2cfc14cdc955b549c2df"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/35a31fd01d1fc930cd41c58daa5742c9_47480.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/9f030ea2e3734893e81be8b54002a4ea_58409.mp3",
+                        "isLavafox": true,
+                        "en": "Languages actually <em>spoken</em> by living people do not exist in neatly divided categories, but tend to transition gradually, crossing borders and classifications.",
+                        "zh": "正在被人类使用的语言不存在严格的种类划分，而是逐渐过渡，跨越界限和分类。",
+                        "videoNameZh": "《TED教育》",
+                        "videoNameEn": "《TED-Ed》",
+                        "url": "http://bisentence_movie.sogou.com/fb58a8f75b258f7e33842f318554fd0b_f5a1127f185bb9f650dd2f5370ab4497f33ed77f"
+                    }
+                ]
+            },
+            "pic": "",
+            "voice": {
+                "phonetic": [
+                    {
+                        "text": "ˈspəʊkən",
+                        "type": "uk",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/4784_spoken_uk.mp3"
+                    },
+                    {
+                        "text": "ˈspoʊkən",
+                        "type": "usa",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/4784_spoken_usa.mp3"
+                    }
+                ]
+            },
+            "dictType": "oxford_buchong",
+            "gaokao": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 10,
+                        "pos": "adj",
+                        "chinese": "口头讲的; 口语的",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "spoken",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2015-2022年8年间全国卷和自主命题省市高考卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2015-2022年全国卷高考试卷，包括阅读、完形、单选、填空、听力、改错、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选各省市考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2015-2022年8年间全国卷和自主命题省市高考卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 2,
+                "word_family": {
+                    "derivative_info_list": [
+                        {
+                            "derivative_info_list": [],
+                            "word": "speaker",
+                            "mean": "n. 说话者；议长；演讲者；做讲座者；讲某种语言的人"
+                        },
+                        {
+                            "derivative_info_list": [],
+                            "word": "spoken",
+                            "mean": "adj. 以某种方式说话的"
+                        },
+                        {
+                            "derivative_info_list": [],
+                            "word": "speaking",
+                            "mean": "n. 说话；讲话；谈话；演讲"
+                        }
+                    ],
+                    "word": "speak",
+                    "mean": "v. 说话；讲话；责备；劝告；表明；显示；发出特有的响声；发言；交谈；谈话"
+                },
+                "total_exam_freq": 10,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "口头讲的; 口语的",
+                            "pos": "adj",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "What do most people think is very important in <highlight>spoken</highlight> communication?",
+                                    "month": -1,
+                                    "source": "浙江卷",
+                                    "coll": "",
+                                    "sentence_trans": "大多数人认为在口语交际中什么是非常重要的？",
+                                    "year": 2021,
+                                    "type": "听力",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "So a common language is required and in postcrossing that's English since it's widely <highlight>spoken</highlight>.",
+                                    "month": -1,
+                                    "source": "浙江卷",
+                                    "coll": "",
+                                    "sentence_trans": "所以在后交叉中需要一种通用语言，那就是英语，因为它被广泛使用。",
+                                    "year": 2021,
+                                    "type": "任务型阅读",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "The <highlight>spoken</highlight> languages were enough in all my interactions (交往).",
+                                    "month": -1,
+                                    "source": "全国卷1",
+                                    "coll": "",
+                                    "sentence_trans": "在我所有的互动中，口语已经足够了。",
+                                    "year": 2017,
+                                    "type": "完形填空",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "word_affix": {
+                    "word": "spoken",
+                    "sub_affix_info_list": [
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "说话; 讲话, speak的过去式",
+                                    "affix_type": "stem"
+                                }
+                            ],
+                            "affix": "spok(e)",
+                            "affix_mean": "说话"
+                        },
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "awaken",
+                                            "mean": "v. 唤醒；醒；使开始意识到"
+                                        },
+                                        {
+                                            "word": "beaten",
+                                            "mean": "adj. 被打败的；挨过打的；常有人走的；用旧了的；筋疲力尽且情绪低落的；心力交瘁的；拌匀的；锤制（成陷窝）的；锤成装饰用箔片的"
+                                        },
+                                        {
+                                            "word": "blacken",
+                                            "mean": "v. 变黑；熏黑；变暗；把（脸或头发）染黑；阴沉下来；诋毁；给…抹黑"
+                                        },
+                                        {
+                                            "word": "broaden",
+                                            "mean": "v. 变宽；扩大；变开阔"
+                                        },
+                                        {
+                                            "word": "chasten",
+                                            "mean": "v. 遏制；使缓和；惩戒；惩罚"
+                                        },
+                                        {
+                                            "word": "dampen",
+                                            "mean": "v. 使湿润；减弱；减缓；降低（声源）的音"
+                                        },
+                                        {
+                                            "word": "deaden",
+                                            "mean": "v. 减弱；使麻木；使无感觉；使无力；使呆板；使徒劳；使…麻木；使…迟钝"
+                                        },
+                                        {
+                                            "word": "deepen",
+                                            "mean": "v. 加深；深化"
+                                        },
+                                        {
+                                            "word": "dishearten",
+                                            "mean": "v. 使失去决心；使丧气"
+                                        },
+                                        {
+                                            "word": "fasten",
+                                            "mean": "v. 把…关紧；把…扣住；被关紧；被扣（或缚）住；把…固定（或保持）在适当位置上；把（眼睛、思想、感情等）集中于；把（责任）归于；挑出；选定…并对其全神贯注；把线头缝住"
+                                        },
+                                        {
+                                            "word": "fatten",
+                                            "mean": "v. 使（人）长胖；使…长肥；长胖；发胖；长肥"
+                                        },
+                                        {
+                                            "word": "happen",
+                                            "mean": "v. 发生；使遭遇；降临到…身上；碰巧；恰好；发生于；偶然发生；偶然发现；出现；偶然遇到"
+                                        },
+                                        {
+                                            "word": "harden",
+                                            "mean": "v. 变硬；使冷酷无情；变明确；升水"
+                                        },
+                                        {
+                                            "word": "hasten",
+                                            "mean": "v. 赶紧；急忙；匆忙赶去；使（某事；尤指不好的事）加速来到"
+                                        },
+                                        {
+                                            "word": "heighten",
+                                            "mean": "v. 加高；提高；增高；增强；变强"
+                                        },
+                                        {
+                                            "word": "lengthen",
+                                            "mean": "v. 使变长；使（元音，音节）拖长"
+                                        },
+                                        {
+                                            "word": "lighten",
+                                            "mean": "v. 减轻；变轻；变得更亮；闪电划过；开导；使轻松愉快；启迪"
+                                        },
+                                        {
+                                            "word": "loosen",
+                                            "mean": "v. 使松开；放松；变得放松；变得较为不绷紧；使（联系；关系）不那么紧密；使（肠道）在排泄前畅通；在排泄前变得畅通"
+                                        },
+                                        {
+                                            "word": "sadden",
+                                            "mean": "v. 使悲伤；使伤心；使难过"
+                                        },
+                                        {
+                                            "word": "sharpen",
+                                            "mean": "v. 削尖；磨尖；磨快；变尖；变锋利；尖锐化；急剧化；改善；改进"
+                                        },
+                                        {
+                                            "word": "shorten",
+                                            "mean": "v. 缩短；减少；缩；缩小；使（元音；音节）发短音"
+                                        },
+                                        {
+                                            "word": "soften",
+                                            "mean": "v. 使软化；使变软；使柔和；使缓和；软化；从中除去无机盐；贬值；削弱…的抵抗"
+                                        },
+                                        {
+                                            "word": "strengthen",
+                                            "mean": "v. 加强；巩固；使坚强；变强"
+                                        },
+                                        {
+                                            "word": "frighten",
+                                            "mean": "v. 使害怕；使担忧；使某人（或某事）吓得不敢做；害怕；受惊吓；忧惧；担忧"
+                                        },
+                                        {
+                                            "word": "weaken",
+                                            "mean": "v. 使虚弱；削弱；减弱；变弱"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "动词后缀, \"表示做, 使成为, 使变成\"类似的还有 -ate",
+                                    "affix_type": "suffix"
+                                },
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "wooden",
+                                            "mean": "adj. 木制的；木头似的；木头特性的；呆板的；笨拙的；手脚不灵的"
+                                        },
+                                        {
+                                            "word": "woolen",
+                                            "mean": "adj. 羊毛生产的；羊毛纺的；纯毛的；混纺的"
+                                        },
+                                        {
+                                            "word": "golden",
+                                            "mean": "adj. 金色的；闪金光的；金制的；含金的；非常珍贵的；幸福繁荣的；非常有利的"
+                                        },
+                                        {
+                                            "word": "waxen",
+                                            "mean": "adj. 光滑的；苍白的；半透明的；蜡制的"
+                                        },
+                                        {
+                                            "word": "oaken",
+                                            "mean": "adj. 橡木制的"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "形容词后缀, \"由…制成\", 引申为\"具有某种特质\"",
+                                    "affix_type": "suffix"
+                                },
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "chicken",
+                                            "mean": "n. 鸡；看谁胆小；鸡肉；胆小鬼；懦夫"
+                                        },
+                                        {
+                                            "word": "citizen",
+                                            "mean": "n. 公民；市民；居民"
+                                        },
+                                        {
+                                            "word": "alien",
+                                            "mean": "adj. 外国的；异族的；与外星人有关的；陌生（而令人烦扰或讨厌）的；与地球外有关的；外来的；格格不入；陌生的；不熟悉"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "名词后缀, \"人或物\"",
+                                    "affix_type": "suffix"
+                                },
+                                {
+                                    "sample": [],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "形容词后缀, 表示.....的",
+                                    "affix_type": "suffix"
+                                }
+                            ],
+                            "affix": "-en",
+                            "affix_mean": "动词后缀"
+                        }
+                    ],
+                    "word_mean": "adj. 以某种方式说话的"
+                }
+            },
+            "zhongkao": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 28,
+                        "pos": "adj",
+                        "chinese": "口头的; 口语的",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "spoken",
+                "total_exam_freq": 28,
+                "direction_info": {
+                    "ranges": 4,
+                    "description": "数据源自2018-2021年4年间全国各省市中考试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2018-2021年全国重点省市中考试卷，包括听力、阅读、完形、单选、填空、改错、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选各省市考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2018-2021年4年间全国各省市中考试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 5,
+                "word_family": {
+                    "derivative_info_list": [
+                        {
+                            "derivative_info_list": [],
+                            "word": "spoken",
+                            "mean": "adj. 以某种方式说话的"
+                        },
+                        {
+                            "derivative_info_list": [],
+                            "word": "speaker",
+                            "mean": "n. 说话者；议长；演讲者；做讲座者；讲某种语言的人"
+                        },
+                        {
+                            "derivative_info_list": [],
+                            "word": "spoke",
+                            "mean": "n. 辐条；轮辐；舵轮把柄；伞骨"
+                        },
+                        {
+                            "derivative_info_list": [],
+                            "word": "speaking",
+                            "mean": "n. 说话；讲话；谈话；演讲"
+                        }
+                    ],
+                    "word": "speak",
+                    "mean": "v. 说话；讲话；责备；劝告；表明；显示；发出特有的响声；发言；交谈；谈话"
+                },
+                "word_level_phrase_info": [
+                    {
+                        "brief_definition": "口语英语；英语口语；英语口语能力",
+                        "phrase": "spoken English",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "口语",
+                        "phrase": "spoken language",
+                        "pos": ""
+                    }
+                ],
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "口头的; 口语的",
+                            "pos": "adj",
+                            "synonyms": "said,told",
+                            "antonyms": "paper,written",
+                            "examination_example": [
+                                {
+                                    "sentence": "Knowledge passed on in this method is called the <highlight>spoken</highlight> tradition.",
+                                    "month": -1,
+                                    "source": "广州市卷",
+                                    "coll": "",
+                                    "sentence_trans": "这种方法所传递的知识被称为口语传统。",
+                                    "year": 2020,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "The students often ask Mr Li for some advice on improving <highlight>spoken</highlight> English.",
+                                    "month": -1,
+                                    "source": "云南省卷",
+                                    "coll": "",
+                                    "sentence_trans": "学生们经常向李先生寻求一些提高英语口语的建议。",
+                                    "year": 2019,
+                                    "type": "补全句子",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Theatrical art forms in many other countries do not present singing, dancing and <highlight>spoken</highlight> parts in one single drama.",
+                                    "month": -1,
+                                    "source": "南京市卷",
+                                    "coll": "",
+                                    "sentence_trans": "许多其他国家的戏剧艺术形式并没有在一部戏剧中呈现唱歌、跳舞和口语部分。",
+                                    "year": 2018,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "word_affix": {
+                    "sub_affix_info_list": [
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "说话; 讲话, speak的过去式",
+                                    "affix_type": "stem"
+                                }
+                            ],
+                            "affix": "spok(e)",
+                            "affix_mean": "说话"
+                        },
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "awaken",
+                                            "mean": "v. 唤醒；醒；使开始意识到"
+                                        },
+                                        {
+                                            "word": "beaten",
+                                            "mean": "adj. 被打败的；挨过打的；常有人走的；用旧了的；筋疲力尽且情绪低落的；心力交瘁的；拌匀的；锤制（成陷窝）的；锤成装饰用箔片的"
+                                        },
+                                        {
+                                            "word": "blacken",
+                                            "mean": "v. 变黑；熏黑；变暗；把（脸或头发）染黑；阴沉下来；诋毁；给…抹黑"
+                                        },
+                                        {
+                                            "word": "broaden",
+                                            "mean": "v. 变宽；扩大；变开阔"
+                                        },
+                                        {
+                                            "word": "chasten",
+                                            "mean": "v. 遏制；使缓和；惩戒；惩罚"
+                                        },
+                                        {
+                                            "word": "dampen",
+                                            "mean": "v. 使湿润；减弱；减缓；降低（声源）的音"
+                                        },
+                                        {
+                                            "word": "deaden",
+                                            "mean": "v. 减弱；使麻木；使无感觉；使无力；使呆板；使徒劳；使…麻木；使…迟钝"
+                                        },
+                                        {
+                                            "word": "deepen",
+                                            "mean": "v. 加深；深化"
+                                        },
+                                        {
+                                            "word": "dishearten",
+                                            "mean": "v. 使失去决心；使丧气"
+                                        },
+                                        {
+                                            "word": "fasten",
+                                            "mean": "v. 把…关紧；把…扣住；被关紧；被扣（或缚）住；把…固定（或保持）在适当位置上；把（眼睛、思想、感情等）集中于；把（责任）归于；挑出；选定…并对其全神贯注；把线头缝住"
+                                        },
+                                        {
+                                            "word": "fatten",
+                                            "mean": "v. 使（人）长胖；使…长肥；长胖；发胖；长肥"
+                                        },
+                                        {
+                                            "word": "happen",
+                                            "mean": "v. 发生；使遭遇；降临到…身上；碰巧；恰好；发生于；偶然发生；偶然发现；出现；偶然遇到"
+                                        },
+                                        {
+                                            "word": "harden",
+                                            "mean": "v. 变硬；使冷酷无情；变明确；升水"
+                                        },
+                                        {
+                                            "word": "hasten",
+                                            "mean": "v. 赶紧；急忙；匆忙赶去；使（某事；尤指不好的事）加速来到"
+                                        },
+                                        {
+                                            "word": "heighten",
+                                            "mean": "v. 加高；提高；增高；增强；变强"
+                                        },
+                                        {
+                                            "word": "lengthen",
+                                            "mean": "v. 使变长；使（元音，音节）拖长"
+                                        },
+                                        {
+                                            "word": "lighten",
+                                            "mean": "v. 减轻；变轻；变得更亮；闪电划过；开导；使轻松愉快；启迪"
+                                        },
+                                        {
+                                            "word": "loosen",
+                                            "mean": "v. 使松开；放松；变得放松；变得较为不绷紧；使（联系；关系）不那么紧密；使（肠道）在排泄前畅通；在排泄前变得畅通"
+                                        },
+                                        {
+                                            "word": "sadden",
+                                            "mean": "v. 使悲伤；使伤心；使难过"
+                                        },
+                                        {
+                                            "word": "sharpen",
+                                            "mean": "v. 削尖；磨尖；磨快；变尖；变锋利；尖锐化；急剧化；改善；改进"
+                                        },
+                                        {
+                                            "word": "shorten",
+                                            "mean": "v. 缩短；减少；缩；缩小；使（元音；音节）发短音"
+                                        },
+                                        {
+                                            "word": "soften",
+                                            "mean": "v. 使软化；使变软；使柔和；使缓和；软化；从中除去无机盐；贬值；削弱…的抵抗"
+                                        },
+                                        {
+                                            "word": "strengthen",
+                                            "mean": "v. 加强；巩固；使坚强；变强"
+                                        },
+                                        {
+                                            "word": "frighten",
+                                            "mean": "v. 使害怕；使担忧；使某人（或某事）吓得不敢做；害怕；受惊吓；忧惧；担忧"
+                                        },
+                                        {
+                                            "word": "weaken",
+                                            "mean": "v. 使虚弱；削弱；减弱；变弱"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "动词后缀, \"表示做, 使成为, 使变成\"类似的还有 -ate",
+                                    "affix_type": "suffix"
+                                },
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "wooden",
+                                            "mean": "adj. 木制的；木头似的；木头特性的；呆板的；笨拙的；手脚不灵的"
+                                        },
+                                        {
+                                            "word": "woolen",
+                                            "mean": "adj. 羊毛生产的；羊毛纺的；纯毛的；混纺的"
+                                        },
+                                        {
+                                            "word": "golden",
+                                            "mean": "adj. 金色的；闪金光的；金制的；含金的；非常珍贵的；幸福繁荣的；非常有利的"
+                                        },
+                                        {
+                                            "word": "waxen",
+                                            "mean": "adj. 光滑的；苍白的；半透明的；蜡制的"
+                                        },
+                                        {
+                                            "word": "oaken",
+                                            "mean": "adj. 橡木制的"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "形容词后缀, \"由…制成\", 引申为\"具有某种特质\"",
+                                    "affix_type": "suffix"
+                                },
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "chicken",
+                                            "mean": "n. 鸡；看谁胆小；鸡肉；胆小鬼；懦夫"
+                                        },
+                                        {
+                                            "word": "citizen",
+                                            "mean": "n. 公民；市民；居民"
+                                        },
+                                        {
+                                            "word": "alien",
+                                            "mean": "adj. 外国的；异族的；与外星人有关的；陌生（而令人烦扰或讨厌）的；与地球外有关的；外来的；格格不入；陌生的；不熟悉"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "名词后缀, \"人或物\"",
+                                    "affix_type": "suffix"
+                                },
+                                {
+                                    "sample": [],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "形容词后缀, 表示.....的",
+                                    "affix_type": "suffix"
+                                }
+                            ],
+                            "affix": "-en",
+                            "affix_mean": "动词后缀"
+                        }
+                    ],
+                    "word": "spoken",
+                    "word_mean": "adj. 以某种方式说话的"
+                }
+            },
+            "sentencesData": {
+                "status": 1,
+                "info": "notZh2En",
+                "data": {}
+            },
+            "isAutoMatch": false,
+            "Zh2En": false
+        },
+        "query": "spoken",
+        "result": "口语的",
+        "tabSelect": "detail",
+        "dictionaryType": "oxford_buchong",
+        "notFound_show": false,
+        "phoneticShow": "",
+        "globalShowTranslateRecord": "",
+        "pronPrefer": {
+            "type": "usa_1",
+            "speaker": "male",
+            "speed": "standard"
+        },
+        "ServerRecord": "",
+        "ServerUIGS": {
+            "version": "new",
+            "type": "all",
+            "stype": "success",
+            "terminal": "web",
+            "fr": "default",
+            "direction": "etoz",
+            "from": "en",
+            "to": "zh-CHS",
+            "len": 6,
+            "qtype": "text",
+            "qctype": "qc_1",
+            "dict_cover": 1,
+            "detail": 1,
+            "wordCardCover": 1,
+            "wordCardEn": 1,
+            "wordCardCh": 0,
+            "wordCardMinor": 0,
+            "wordCardNetmean": 0,
+            "wordDeform": 1,
+            "keyword": 0,
+            "bilingual": 1,
+            "simple": 0,
+            "levelList": 1,
+            "synonym": 1,
+            "antonym": 1,
+            "conjugate": 1,
+            "rootaffix": 1,
+            "baike_sogou": 0,
+            "baike_wiki": 0,
+            "wordDifference": 0,
+            "word_phrase": 1,
+            "secondQuery": 0,
+            "dict_oxford": 0,
+            "dict_newcentury": 0,
+            "zhongkaotab": 1,
+            "gaokaotab": 1,
+            "CET4tab": 0,
+            "CET6tab": 0,
+            "kaoyantab": 0,
+            "network_tab": 0,
+            "yinying_tab": 1,
+            "tuozhan_tab": 0,
+            "one_pic": 0,
+            "more_pic": 0,
+            "no_pic": 0,
+            "uuid": "be8d2641-5e28-4a88-b109-8bae1ccec610",
+            "from_type": 0,
+            "t_trans_ssr": 152
+        },
+        "ServerModelUIGS": {
+            "terminal": "web",
+            "type": "trans_model",
+            "pbtype": "pv",
+            "model_general": 1,
+            "model_medical": 1,
+            "model_finance": 1
+        },
+        "ServerSgtkn": "65041EB54088E14F44426CFF720A2D5C44F75E3667553A22",
+        "suggShow": false,
+        "suggestion": "",
+        "suggDirection": "",
+        "usualTop": "",
+        "baseDict": "",
+        "wordCardClick": false,
+        "isFrInput": false,
+        "kanaTips": {
+            "show": false,
+            "left": "",
+            "top": "",
+            "type": "",
+            "arrowLeft": ""
+        },
+        "currSentenceIndex": -1,
+        "prefixStrObj": {
+            "prefixStr": "",
+            "oriPrefixStr": ""
+        },
+        "selectTransBox": {
+            "show": false,
+            "right": 0,
+            "top": 0,
+            "paraphraseInfo": {
+                "word": "",
+                "from": "",
+                "to": "",
+                "area": ""
+            }
+        },
+        "sentenceLoading": false,
+        "newSentenceInfo": {
+            "sentence": "",
+            "candidateIndex": 0
+        },
+        "moreTipInfo": {
+            "opacity": 0,
+            "zIndex": -1
+        },
+        "paraphraseShowInfo": {
+            "card": 0,
+            "query": "",
+            "card_dict": 0
+        },
+        "selectType": "",
+        "wordPos": 0,
+        "candidateWord": "",
+        "syntaxVisible": false,
+        "syntaxStatus": 0
+    },
+    "language": {
+        "from": "auto",
+        "to": "zh-CHS",
+        "detect": "en",
+        "model": "general",
+        "detectShow": false,
+        "langMap": {
+            "current": ""
+        },
+        "zh2en": false,
+        "fromItemList": [
+            {
+                "lang": "auto",
+                "text": "自动检测",
+                "play": false
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "cs",
+                "text": "捷克语",
+                "play": true,
+                "abbr": "捷克"
+            },
+            {
+                "lang": "th",
+                "text": "泰语",
+                "play": true,
+                "abbr": "泰"
+            },
+            {
+                "lang": "fr",
+                "text": "法语",
+                "play": true,
+                "abbr": "法"
+            }
+        ],
+        "toItemList": [
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "vi",
+                "text": "越南语",
+                "play": true,
+                "abbr": "越"
+            },
+            {
+                "lang": "ko",
+                "text": "韩语",
+                "play": true,
+                "abbr": "韩"
+            },
+            {
+                "lang": "ru",
+                "text": "俄语",
+                "play": true,
+                "abbr": "俄"
+            }
+        ]
+    },
+    "voice": {
+        "from": {
+            "lang": "en",
+            "type": "from",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22spoken%22%2C%22spokenDialect%22%3A%22en%22%2C%22rate%22%3A%220.8%22%7D",
+            "list": [
+                {
+                    "type": "uk_0",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "ˈspəʊkən",
+                    "abbr": "英",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/4784_spoken_uk.mp3"
+                },
+                {
+                    "type": "usa_1",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "ˈspoʊkən",
+                    "abbr": "美",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/4784_spoken_usa.mp3"
+                }
+            ],
+            "stype": "phonetic",
+            "phoneticShow": [
+                {
+                    "text": "ˈspəʊkən",
+                    "type": "uk",
+                    "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/4784_spoken_uk.mp3"
+                },
+                {
+                    "text": "ˈspoʊkən",
+                    "type": "usa",
+                    "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/4784_spoken_usa.mp3"
+                }
+            ]
+        },
+        "to": {
+            "lang": "zh",
+            "type": "to",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22%E5%8F%A3%E8%AF%AD%E7%9A%84%22%2C%22spokenDialect%22%3A%22zh-CHS%22%2C%22rate%22%3A%220.8%22%7D",
+            "stype": "normal"
+        }
+    }
+}

@@ -1,0 +1,1235 @@
+{
+    "route": {
+        "name": "text",
+        "path": "/text",
+        "hash": "",
+        "query": {
+            "keyword": "mood",
+            "transfrom": "auto",
+            "transto": "zh-CHS",
+            "model": "general",
+            "errcode": "s10"
+        },
+        "params": {},
+        "fullPath": "/text?keyword=mood&transfrom=auto&transto=zh-CHS&model=general&errcode=s10",
+        "meta": {
+            "mtype": [
+                "textTranslate",
+                "language",
+                "voice"
+            ]
+        },
+        "from": {
+            "name": null,
+            "path": "/",
+            "hash": "",
+            "query": {},
+            "params": {},
+            "fullPath": "/",
+            "meta": {}
+        }
+    },
+    "common": {
+        "CONFIG": {
+            "wuid": 1733638250056,
+            "loginInfo": {},
+            "isIE": 0,
+            "isHitSsrSwitch": true,
+            "isHitWritebookSwitch": false,
+            "isHitAmsSwitch": true,
+            "promotionList": "{\n    \"pc_bottom\":{\n        \"imgsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\",\n        \"qcsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\"\n    },\n    \"pc_middle\":[\n        {\n            \"src\":\"//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c\",\n            \"bgColor\":\"#ffffff\",\n            \"link\":\"\"\n        }\n    ],\n    \"pc_survey\":{\n        \"icon\":\"//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750\",\n        \"link\":\"https://wj.qq.com/s2/8193148/806d/\"\n    }\n}",
+            "bannerData": [],
+            "isHitAsideSurvey": false,
+            "secretCode": 109984457,
+            "uuid": "4cabc954-8def-47f0-8017-b28363c4cf5c",
+            "referer": "",
+            "approveToken": "6501DCD854A3CD7B707658D36C7F393070B29E746755386A",
+            "loadTime": 1733638250058,
+            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0",
+            "fcp": "139.59.89.214",
+            "temporaryId": "",
+            "fileId": ""
+        },
+        "hotWords": [],
+        "isFromCollect": false,
+        "psdModify": {
+            "currentStep": 1,
+            "scode": "",
+            "username": ""
+        },
+        "loginStatus": true,
+        "feedBackModule": false,
+        "showPromotionPopup": {
+            "show": false,
+            "type": ""
+        },
+        "showPromotionPCDownload": false,
+        "showShareBomb": false,
+        "shareData": null,
+        "showAppDownLoad": false,
+        "showLoginDialog": false,
+        "showLoading": {
+            "show": false
+        },
+        "toast": {
+            "show": false,
+            "text": "",
+            "loading": false
+        },
+        "modelToast": {
+            "show": false,
+            "text": ""
+        },
+        "selectionGlobalShow": true,
+        "selectionInfo": {
+            "left": 0,
+            "top": 0,
+            "show": false,
+            "from": "",
+            "to": "",
+            "val": "",
+            "area": ""
+        },
+        "showConfirmDialog": false,
+        "promotionList": {
+            "pc_bottom": {
+                "imgsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png",
+                "qcsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png"
+            },
+            "pc_middle": [
+                {
+                    "src": "//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c",
+                    "bgColor": "#ffffff",
+                    "link": ""
+                }
+            ],
+            "pc_survey": {
+                "icon": "//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750",
+                "link": "https://wj.qq.com/s2/8193148/806d/"
+            }
+        },
+        "transTypeTxt": "text",
+        "fixedTabStatus": 0,
+        "bodyTop": 0,
+        "ifHideUserOperation": false
+    },
+    "textTranslate": {
+        "prevTransQuery": "",
+        "translateData": {
+            "translate": {
+                "zly": "zly",
+                "errorCode": "0",
+                "qc_type": "1",
+                "index": "content0",
+                "from": "en",
+                "source": "sogou",
+                "text": "mood",
+                "to": "zh-CHS",
+                "id": "4cabc954-8def-47f0-8017-b28363c4cf5c",
+                "dit": "情绪",
+                "orig_text": "mood",
+                "md5": ""
+            },
+            "detect": {
+                "zly": "zly",
+                "detect": "en",
+                "errorCode": "0",
+                "language": "英语",
+                "id": "2c2506e0-b52b-11ef-bde4-bfeee0294273",
+                "text": "mood"
+            },
+            "sgtkn": "6501DCDC54A3CD7B707658D36C7F393070B29E746755386A",
+            "wordCard": {
+                "title": "mood",
+                "show": true,
+                "usualDict": [
+                    {
+                        "values": [
+                            "心境；情绪；气氛；情感基调；心情不好；坏脾气；（尤指音乐）激发…情感的；暗示…心境的；（群体的）态度；意愿；表达语气的动词屈折变化；（语法的）式；语气； 想（做某事）；有兴致（做某事）"
+                        ],
+                        "pos": "n."
+                    }
+                ],
+                "secondQuery": "",
+                "exchange": {
+                    "word_pl": [
+                        "moods"
+                    ]
+                },
+                "levelList": [
+                    "初中",
+                    "高中",
+                    "四级",
+                    "六级",
+                    "考研",
+                    "考博"
+                ]
+            },
+            "detail": {
+                "synonym": [
+                    {
+                        "word_list": [
+                            "emotion",
+                            "atmosphere",
+                            "tone",
+                            "spirit",
+                            "feeling"
+                        ],
+                        "pos": "n.",
+                        "mean": "情绪，语气；心境；气氛"
+                    }
+                ],
+                "word_group": [
+                    {
+                        "brief_definition": "兴致勃勃",
+                        "phrase": "in the mood",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "有...的兴致或心思",
+                        "phrase": "in the mood for",
+                        "pos": "phr."
+                    },
+                    {
+                        "brief_definition": "心情好；良好的心情",
+                        "phrase": "in a good mood",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "情绪突变",
+                        "phrase": "mood swing",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "想做某事；有心情做某事",
+                        "phrase": "in no mood to do something",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "想做某事；有心情做某事",
+                        "phrase": "in no mood for do something",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "想做某事；有心情做某事",
+                        "phrase": "in the mood for do something",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "想做某事；有心情做某事",
+                        "phrase": "in the mood to do something",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "好心情",
+                        "phrase": "good mood",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "坏心情；坏情绪；情绪不好",
+                        "phrase": "bad mood",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "情绪波动；心境波动；情绪起伏",
+                        "phrase": "mood swings",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "虚拟语气；虚拟式",
+                        "phrase": "subjunctive mood",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "快乐心情",
+                        "phrase": "happy mood",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "郁闷；心情不好；情绪很差",
+                        "phrase": "in bad mood",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "祈使句；命令语气",
+                        "phrase": "imperative mood",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "想要做某事；在状态；有心情",
+                        "phrase": "be in the mood",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "情绪低落",
+                        "phrase": "black mood",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "轻松的心情；愉快的情绪",
+                        "phrase": "buoyant mood",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "愁绪；忧愁的情绪",
+                        "phrase": "gloomy mood",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "恶劣的情绪；心情不好",
+                        "phrase": "foul mood",
+                        "pos": ""
+                    }
+                ],
+                "bilingual": [
+                    {
+                        "source": "Everyone at the game was in a good <em>mood</em>.",
+                        "target": "比赛中的每个人心情都很好。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Jalal was in a great <em>mood</em> after winning the photography competition.",
+                        "target": "贾拉尔在赢得摄影比赛后心情很好。",
+                        "url": ""
+                    },
+                    {
+                        "source": "She is in a good <em>mood</em> today.",
+                        "target": "她今天的心情很好。",
+                        "url": ""
+                    },
+                    {
+                        "source": "He is in a bad <em>mood</em> today.",
+                        "target": "他今天的心情很不好。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Her <em>mood</em> is always cheerful.",
+                        "target": "她的心情总是很愉快。",
+                        "url": ""
+                    },
+                    {
+                        "source": "This song inspired my <em>mood</em>.",
+                        "target": "这首歌振奋了我的心情。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Her <em>mood</em> has been so-so lately.",
+                        "target": "她最近的心情一般的。",
+                        "url": ""
+                    },
+                    {
+                        "source": "I woke up in a good <em>mood</em> today.",
+                        "target": "今天我起床时心情很好。",
+                        "url": ""
+                    },
+                    {
+                        "source": "I don't want to disturb your <em>mood</em>.",
+                        "target": "我不想打扰你的心情。",
+                        "url": ""
+                    },
+                    {
+                        "source": "The weather can affect your <em>mood</em>.",
+                        "target": "天气可以影响你的心情。",
+                        "url": ""
+                    }
+                ],
+                "baike": {
+                    "showMore": false,
+                    "list": [
+                        {
+                            "lemmaTitle": "mood",
+                            "link": "https://baike.sogou.com/v174566482.htm?ch=sogou.fanyi",
+                            "abstract": "mood（英[muːd]，美[muːd]），英语单词。可做名词或形容词用。做名词时，指心境、心情、情绪等；做形容词时，指激发…情感的、暗示…心境的。英语短语有mood swing（情绪突变），例句为It could keep his mood light.（它可以让他心情轻松。） 近义词有emotion、atmosphere、tone等。",
+                            "wapPic": "",
+                            "pcPic": ""
+                        },
+                        {
+                            "lemmaTitle": "mood",
+                            "link": "https://baike.sogou.com/v174566484.htm?ch=sogou.fanyi",
+                            "abstract": "《mood》是由孟佳、王嘉尔作词、作曲并演唱的一首歌曲。",
+                            "wapPic": "",
+                            "pcPic": ""
+                        }
+                    ]
+                }
+            },
+            "book": {
+                "yingyinNormal": [
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/3bccca9abe5ab96bd7f3eaed6bd40cf2_52899.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/bffa9e79b2ac7bda1b2686323c31df31_10899.mp3",
+                        "isLavafox": true,
+                        "en": "Good morning. Somebody's in a good <em>mood</em>.",
+                        "zh": "早安，有人心情不错。",
+                        "videoNameZh": "《老友记 第七季》",
+                        "videoNameEn": "《Friends Season 7》",
+                        "url": "http://bisentence_movie.sogou.com/825fb7eabcb323aba45f63b7a7853172_0b8843556d735d69825b20eaebcdf8a41e89d497"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/a501422482fd89e64251ebd1c480bc0a_8623.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/b8131636eabbe68db1ad0ae50e1b4d0b_39893.mp3",
+                        "isLavafox": true,
+                        "en": "I'm not in the <em>mood</em>. Not in the <em>mood</em>. but you guys go, have fun. Okay, I'll see you later.",
+                        "zh": "我没什么心情，你们去吧，玩得开心点，晚上见。",
+                        "videoNameZh": "《欲望都市2》",
+                        "videoNameEn": "《Sex and the City 2》",
+                        "url": "http://bisentence_movie.sogou.com/0d0ae2af6be528a2bd2cdb6a8c7e3ffc_93894eb2ef43698fcbf9ce7870f67674fc41f7a5"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/dde03d29cdf9f1eb3170279dd5ad8ff2_46072.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/3774a18ec850f4528000b39406f6b57d_14510.mp3",
+                        "isLavafox": true,
+                        "en": "Jay, I'm not in the <em>mood</em>. I am having some doubts.",
+                        "zh": "杰，我没心情，我有些困惑。",
+                        "videoNameZh": "《摩登家庭 第六季》",
+                        "videoNameEn": "《Modern Family Season 6》",
+                        "url": "http://bisentence_movie.sogou.com/6d8dc7c9e43429cb2ff8c98fc7e121cc_3be7621d7ecef0012b6776a4f619fc94c283a43d"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/f012eb5fd120cc2d5b68f18e3d0e7c8c_67362.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/67262f1587c83b1737c491ea75a281ed_20865.mp3",
+                        "isLavafox": true,
+                        "en": "Go to hell. Is that better? You're in a bad <em>mood</em>.",
+                        "zh": "见鬼去吧，你开心了吧？你心情不好。",
+                        "videoNameZh": "《傲骨贤妻 第五季》",
+                        "videoNameEn": "《The Good Wife Season 5》",
+                        "url": "http://bisentence_movie.sogou.com/4332407c22df28d30748c4e3e1b8e3ab_6dc168b136264805ae54422cb19a5c2261aff21d"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/dde03d29cdf9f1eb3170279dd5ad8ff2_46072.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/637e10c20f83c2284e1095d167421d18_61525.mp3",
+                        "isLavafox": true,
+                        "en": "Yeah, this year, you can finally be in a good <em>mood</em>. Well, I was until this little riff.",
+                        "zh": "是啊，今年你终于可以有一份好心情了。听你们这番话之前，我确实心情很好。",
+                        "videoNameZh": "《摩登家庭 第六季》",
+                        "videoNameEn": "《Modern Family Season 6》",
+                        "url": "http://bisentence_movie.sogou.com/660b7f4dd8b20045b30515cb7d0932a2_b73b6550178a07ff88304b085fad9dc953bad9ce"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/6a0f1af500949aabdf79e8935d4a7230_22265.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/74358961e59e8b593322fcb4b47b317b_67741.mp3",
+                        "isLavafox": true,
+                        "en": "You know, I got to tell you, this really does put me in a better <em>mood</em>.",
+                        "zh": "说实话，我的心情真的好多了。",
+                        "videoNameZh": "《老友记 第四季》",
+                        "videoNameEn": "《Friends Season 4》",
+                        "url": "http://bisentence_movie.sogou.com/dd6f8abbe2689844a6c40cbbd3c20cef_21d39cab0ca56f548d52a147315f691a75ee634f"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/fb89a475bcbc9472bc44674775ba97a3_34037.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/a8b1028e6848cfc6260580b7b73072d3_28287.mp3",
+                        "isLavafox": true,
+                        "en": "They call me Kit. Well, my father does when he's in a good <em>mood</em>.",
+                        "zh": "叫我基特吧，我父亲心情好时他总这么叫我。",
+                        "videoNameZh": "《灰姑娘》",
+                        "videoNameEn": "《Cinderella》",
+                        "url": "http://bisentence_movie.sogou.com/83a30a6edc68ea3702a90356d86074d6_14864e7ca11310aa2b934358902056d3111ae13b"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/69e52acd9e09b6a2ed378507a165e971_14638.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/72ba9c0ba9f0b146839b45676c6946ae_45640.mp3",
+                        "isLavafox": true,
+                        "en": "Well, I'm in a good <em>mood</em>. It happens. Sometimes 'cause I increase my Lexapro, sometimes because my dad's in town.",
+                        "zh": "我心情愉快，心情好，有时是因为多服了些治抑郁的药，有时因为我爸在镇上。",
+                        "videoNameZh": "《绯闻女孩 第一季》",
+                        "videoNameEn": "《Gossip Girl Season 1》",
+                        "url": "http://bisentence_movie.sogou.com/1fc778d59ec37739f5aad143b9a8d911_10b92bc3349a44d40b2f9daaa28ffdfce37b3df3"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/dde03d29cdf9f1eb3170279dd5ad8ff2_46072.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/a37b8f0825d6194203c8fecddac7598f_71625.mp3",
+                        "isLavafox": true,
+                        "en": "Hey! I am in the best <em>mood</em>. My Uber driver looked just like Adam Driver.",
+                        "zh": "我心情超好，我的Uber司机长得酷似亚当·德利弗。",
+                        "videoNameZh": "《摩登家庭 第六季》",
+                        "videoNameEn": "《Modern Family Season 6》",
+                        "url": "http://bisentence_movie.sogou.com/08dc23df486d1d28c742685b7e167b66_bd87485207a54673f6473a1ade26d15b86093560"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/f7d7167294560b5a445295985c93469c_14515.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/291182005e7ee87d49f45ee6b63523c0_70571.mp3",
+                        "isLavafox": true,
+                        "en": "So, did you tell him about Princeton yet? No, I'm waiting till he's in a good <em>mood</em>.",
+                        "zh": "你跟他说了去普林斯顿大学的事了吗？还没，我想等他心情好时再说。",
+                        "videoNameZh": "《生活大爆炸 第十季》",
+                        "videoNameEn": "《The Big Bang Theory Season 10》",
+                        "url": "http://bisentence_movie.sogou.com/ec5cf2d2eb31b110ff6c97c39f4324fa_ce66a6f6a138c70d24ea07e121733f7aed443f6b"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/f7d7167294560b5a445295985c93469c_14515.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/f42ef003aa661cf0160163e7c59faac6_25582.mp3",
+                        "isLavafox": true,
+                        "en": "Top of the afternoon, gentlemen. You're in a good <em>mood</em>. Well, it's a new day. I have a new outlook.",
+                        "zh": "下午好，各位。你心情不错啊。新的一天已降临，我有了新的世界观。",
+                        "videoNameZh": "《生活大爆炸 第十季》",
+                        "videoNameEn": "《The Big Bang Theory Season 10》",
+                        "url": "http://bisentence_movie.sogou.com/b11232e91ac99246372fcc9d82c2666d_7acc0992471cde73de2695e6488b0399dbc39702"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/b630caafa2606557856da7a333933a5d_54182.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/ebf73c1e4e4efbcc175e3cae1d666030_54088.mp3",
+                        "isLavafox": true,
+                        "en": "Do not tell me about my own culture, Sheldon! In the <em>mood</em> I'm in, I'll take you out. I swear to cow!",
+                        "zh": "不需要你教我自家的文化，谢尔顿。就我现在的心情，老子会揪你出去的。我向牛发誓。",
+                        "videoNameZh": "《生活大爆炸 第三季》",
+                        "videoNameEn": "《The Big Bang Theory Season 3》",
+                        "url": "http://bisentence_movie.sogou.com/01b0681186c563f20a81193204141a1e_358b77eb5f391e417c8a4a099b00a93808ac51bd"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/dfdc97c7eab31e173bc0bccd4824440f_23407.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/75eb1c61e27b8f8a4a7c58d3007d501f_19905.mp3",
+                        "isLavafox": true,
+                        "en": "Oh, Dr. And Mrs. Hofstadter, lovely to see you this fine morning. You're in a good <em>mood</em>. Yeah, I am indeed.",
+                        "zh": "霍夫斯塔德博士贤伉俪，在这美好的早晨，很高兴见到两位。你心情很好啊。的确是的。",
+                        "videoNameZh": "《生活大爆炸 第九季》",
+                        "videoNameEn": "《The Big Bang Theory Season 9》",
+                        "url": "http://bisentence_movie.sogou.com/cd5a6ff7e1a216d0f8cfdda7c0d2a83b_e0fd94cea72b7988e15292b5ebd292a2713f4a25"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/73547344f45c7810425b9ba4324e7db4_62021.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/535257e58e7318b73f5ae71eb8a1ded0_65225.mp3",
+                        "isLavafox": true,
+                        "en": "This can also lead to a fairly severe hangover with side effects such as negative <em>mood</em>, spouts of depression, irritability and feeling extra tired.",
+                        "zh": "同时也导致严重像宿醉的感觉，伴随着心情低落、沮丧、易怒、容易觉得累等等副作用。",
+                        "videoNameZh": "《托福学习视频》",
+                        "videoNameEn": "《TOFEL（无字幕版）》",
+                        "url": "http://bisentence_movie.sogou.com/7cadba89bc3d5c88da060eaf16eed473_6f8afdcef99f42bf0101c1cace6a0a89e6b5e9f6"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/68eeb648a2ff0cbf1b553571b1bde0b8_47107.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/5652843d1c3b7e01c32461693a976611_5951.mp3",
+                        "isLavafox": true,
+                        "en": "I married the sweetest, most understanding man on the planet. Or he did something even worse to you and wants to get you in a good <em>mood</em>. No. Yes.",
+                        "zh": "我嫁给了这个星球上，最温柔最善解人意的男人。或者他对你做了甚至更糟糕的事情只想让你有个好心情。不会的。肯定是！",
+                        "videoNameZh": "《摩登家庭 第八季》",
+                        "videoNameEn": "《Modern Family Season 8》",
+                        "url": "http://bisentence_movie.sogou.com/3b911ee500165d76f25e20a6f69431db_0f2bf03750d2722eb647a54ca2c95c0a2d76111a"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/a86e6e98cc64448e528c65f2085efa0f_30194.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/f23388caa01b4c4e56c5e4e3a546a7eb_73759.mp3",
+                        "isLavafox": true,
+                        "en": "Who's in the <em>mood</em> to laugh?",
+                        "zh": "谁想好好乐一乐？",
+                        "videoNameZh": "《生活大爆炸 第7季》",
+                        "videoNameEn": "《The Big Bang Theory Season 7》",
+                        "url": "http://bisentence_movie.sogou.com/573a3e3c6b50b44c6a7a3fc6e621f209_7ff45a39042018389fb6d4a84cda2f8fbc50451a"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/7eb0bec9540cbb2c5939554caf885c99_49670.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/9b068a1cfe54df24b6928f87fa831609_64296.mp3",
+                        "isLavafox": true,
+                        "en": "Hey. Hey. A little <em>mood</em> lighting, huh?",
+                        "zh": "温馨的烛光哈？",
+                        "videoNameZh": "《生活大爆炸 第二季》",
+                        "videoNameEn": "《The Big Bang Theory Season 2》",
+                        "url": "http://bisentence_movie.sogou.com/4992496b1d7782db555d83610c962914_8e190b4e9b5296310c3d7a718f180966e8a582bc"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/f5f16d3165593ebdb6d6ae8299e72880_33413.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/7ea7d88cee87cf89dea07aa44a9fc5f5_18650.mp3",
+                        "isLavafox": true,
+                        "en": "Okay, okay, a joke, a joke, lighten the <em>mood</em>.",
+                        "zh": "好，讲个笑话轻松一下。",
+                        "videoNameZh": "《老友记 第六季》",
+                        "videoNameEn": "《Friends Season 6》",
+                        "url": "http://bisentence_movie.sogou.com/a29700a451f8ff6cc35aca9f46b2a8e2_5ad8d06fcb95fee65cc033bcefdfabb3a0c616f1"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/bedafc9cbd9ff62be49e08cf3cb8efa0_35632.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/e1da0d6098164dd3b215e2af807edb30_33090.mp3",
+                        "isLavafox": true,
+                        "en": "Whatever <em>mood</em> floats your boat, you'll find it here.",
+                        "zh": "即使是兴之所致，您都可以在这里找到您要的东西。",
+                        "videoNameZh": "《10大名城旅游攻略》",
+                        "videoNameEn": "《10 Cities Vacation Travel Guide》",
+                        "url": "http://bisentence_movie.sogou.com/3e7deb720574e306c8bcc831aafc22be_c98e912fc978f58c905714162fa8bbe8428a1067"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/e5b0c171c1749a56724e57b58d346ca4_59408.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/22ec0e119184ff0fa04ddfe20da24f21_48722.mp3",
+                        "isLavafox": true,
+                        "en": "Would that stabilize your pubescent <em>mood</em> swings? Absolutely.",
+                        "zh": "这样能缓解你青春期的情绪波动吗？当然。",
+                        "videoNameZh": "《超能陆战队》",
+                        "videoNameEn": "《Big Hero 6》",
+                        "url": "http://bisentence_movie.sogou.com/56d9f025260e1448f285aa894f65563b_d9ca8cc85945582618bb6134b807811d797a550d"
+                    }
+                ]
+            },
+            "pic": "",
+            "voice": {
+                "phonetic": [
+                    {
+                        "text": "muːd",
+                        "type": "uk",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/5221_mood_uk.mp3"
+                    },
+                    {
+                        "text": "muːd",
+                        "type": "usa",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/5221_mood_usa.mp3"
+                    }
+                ]
+            },
+            "dictType": "oxford_buchong",
+            "kaoyan": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 5,
+                        "pos": "cn",
+                        "chinese": "心境; 情绪; 心情",
+                        "sense_tier_ratio": 100
+                    },
+                    {
+                        "sense_tier": 0,
+                        "pos": "n",
+                        "chinese": "氛围; 气氛",
+                        "sense_tier_ratio": 0
+                    },
+                    {
+                        "sense_tier": 0,
+                        "pos": "n",
+                        "chinese": "语气",
+                        "sense_tier_ratio": 0
+                    }
+                ],
+                "word": "mood",
+                "direction_info": {
+                    "ranges": 12,
+                    "description": "数据源自2012-2023年12年间全国考研试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2012-2023年全国考研英语一和考研英语二共24套考研试卷，包括阅读、完型填空、翻译、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选全国考研考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2012-2023年12年间全国考研英语一和考研英语二试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 1,
+                "total_exam_freq": 5,
+                "sense": {
+                    "sense_num": 3,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "心境; 情绪; 心情",
+                            "pos": "cn",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "While that may well be true, researchers have also recently found that interacting with strangers actually brings a boost in <highlight>mood</highlight> and feelings of belonging that we didn't expect.",
+                                    "month": -1,
+                                    "source": "英语二",
+                                    "coll": "",
+                                    "sentence_trans": "虽然这很可能是真的，但研究人员最近还发现，与陌生人互动实际上会意料之外地使我们的心情好转和带来归属感的提升。",
+                                    "year": 2021,
+                                    "type": "翻译",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Children are insensitive to changes in their parents' <highlight>mood</highlight>.",
+                                    "month": -1,
+                                    "source": "英语二",
+                                    "coll": "",
+                                    "sentence_trans": "孩子对父母情绪的变化不敏感。",
+                                    "year": 2017,
+                                    "type": "阅读理解A",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "But some of it remains in the brain, where it influences <highlight>mood</highlight>, behavior and physiology.",
+                                    "month": -1,
+                                    "source": "英语一",
+                                    "coll": "",
+                                    "sentence_trans": "但其中一些仍留在大脑中，影响人的情绪、行为和生理机能。",
+                                    "year": 2017,
+                                    "type": "完型填空",
+                                    "day": -1
+                                }
+                            ]
+                        },
+                        {
+                            "synonyms": "",
+                            "en": "",
+                            "zh": "氛围; 气氛",
+                            "pos": "n",
+                            "antonyms": ""
+                        },
+                        {
+                            "synonyms": "",
+                            "en": "",
+                            "zh": "语气",
+                            "pos": "n",
+                            "antonyms": ""
+                        }
+                    ]
+                }
+            },
+            "CET6": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 8,
+                        "pos": "n",
+                        "chinese": "情绪; 坏情绪",
+                        "sense_tier_ratio": 88.89
+                    },
+                    {
+                        "sense_tier": 1,
+                        "pos": "n",
+                        "chinese": "基调; 氛围",
+                        "sense_tier_ratio": 11.11
+                    }
+                ],
+                "word": "mood",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2016.6-2023.6年8年间全六级试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight>考纲释义</highlight>\n精选实考、考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2016-2023年51套试卷，包括阅读、听力、翻译等所有题型。\n\n<highlight>真题例句</highlight>\n精选2016-2023年8年间全六级试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 2,
+                "word_family": {
+                    "derivative_info_list": [
+                        {
+                            "derivative_info_list": [],
+                            "word": "moody",
+                            "mean": "adj. 情绪多变的；喜怒无常的；郁郁寡欢的；神秘莫测的"
+                        }
+                    ],
+                    "word": "mood",
+                    "mean": "n. 心境；心情；情绪；精神状态；语气；三段论的式；三段论形式；气氛；心情不好；生气"
+                },
+                "total_exam_freq": 9,
+                "sense": {
+                    "sense_num": 2,
+                    "sense_info_list": [
+                        {
+                            "en": "a temporary state of mind or feeling; an angry, irritable, or sullen state of mind",
+                            "zh": "情绪; 坏情绪",
+                            "pos": "n",
+                            "synonyms": "temper",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "Research shows that a few moments of conversation with a stranger creates a measurable improvement in <highlight>mood</highlight>.",
+                                    "month": 12,
+                                    "source": "CET6",
+                                    "coll": "",
+                                    "sentence_trans": "研究表明，与陌生人交谈片刻，情绪就会有明显的改善。",
+                                    "year": 2021,
+                                    "type": "听力",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Opting for an item you don't wear often, or adding something different to an outfit, can positively shift your <highlight>mood</highlight>.",
+                                    "month": 12,
+                                    "source": "CET6",
+                                    "coll": "",
+                                    "sentence_trans": "那么选择一件你不常穿的衣服，或者给一套衣服添加一些不同的东西，可以积极地改变你的坏情绪。",
+                                    "year": 2021,
+                                    "type": "阅读理解A",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Healthy adults assigned to a high-fat diet for five days showed impaired attention, memory, and <highlight>mood</highlight> compared with a low-fat diet control group.",
+                                    "month": 12,
+                                    "source": "CET6",
+                                    "coll": "",
+                                    "sentence_trans": "与低脂饮食对照组相比，高脂饮食五天的健康成年人表现出注意力，记忆力和情绪受损。",
+                                    "year": 2019,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                }
+                            ]
+                        },
+                        {
+                            "synonyms": "atmosphere,ambience",
+                            "en": "the atmosphere or pervading tone of something, especially a work of art",
+                            "zh": "基调; 氛围",
+                            "pos": "n",
+                            "antonyms": ""
+                        }
+                    ]
+                },
+                "exchange_info": {
+                    "word_pl": [
+                        "moods"
+                    ]
+                }
+            },
+            "CET4": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 7,
+                        "pos": "n",
+                        "chinese": "情绪; 坏情绪",
+                        "sense_tier_ratio": 87.5
+                    },
+                    {
+                        "sense_tier": 1,
+                        "pos": "n",
+                        "chinese": "基调; 氛围",
+                        "sense_tier_ratio": 12.5
+                    }
+                ],
+                "word": "mood",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2016.6-2023.6年8年间全四级试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight>考纲释义</highlight>\n精选实考、考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2016-2023年51套试卷，包括阅读、听力、翻译等所有题型。\n\n<highlight>真题例句</highlight>\n精选2016-2023年8年间试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 2,
+                "word_family": {
+                    "derivative_info_list": [
+                        {
+                            "derivative_info_list": [],
+                            "word": "moody",
+                            "mean": "adj. 情绪多变的；喜怒无常的；郁郁寡欢的；神秘莫测的"
+                        }
+                    ],
+                    "word": "mood",
+                    "mean": "n. 心境；心情；情绪；精神状态；语气；三段论的式；三段论形式；气氛；心情不好；生气"
+                },
+                "total_exam_freq": 8,
+                "sense": {
+                    "sense_num": 2,
+                    "sense_info_list": [
+                        {
+                            "en": "a temporary state of mind or feeling; an angry; irritable; or sullen state of mind",
+                            "zh": "情绪; 坏情绪",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "They helped 15 to 20 people in a bad <highlight>mood</highlight>.",
+                                    "month": 12,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "他们帮助了15到20个心情不好的人。",
+                                    "year": 2020,
+                                    "type": "听力",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Traditional CBT is considered an effective form of talk therapy for depression, helping people challenge negative thoughts and change the way they think in order to change their <highlight>mood</highlight> and behaviors.",
+                                    "month": 6,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "传统的认知行为疗法(CBT)是有效治疗抑郁症的一种谈话疗法，帮助患者与消极思维作斗争，改变他们的思维方式，从而改善情绪和行为方式。",
+                                    "year": 2019,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "And exercise releases hormones that can improve <highlight>mood</highlight> and relieve stress, which can also help learning.",
+                                    "month": 6,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "而且运动释放的激素可以改善情绪，缓解压力，这也有助于学习。",
+                                    "year": 2016,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                }
+                            ]
+                        },
+                        {
+                            "synonyms": "",
+                            "en": "the atmosphere or pervading tone of something; especially a work of art",
+                            "zh": "基调; 氛围",
+                            "pos": "n",
+                            "antonyms": ""
+                        }
+                    ]
+                },
+                "exchange_info": {
+                    "word_pl": [
+                        "moods"
+                    ]
+                }
+            },
+            "gaokao": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 1,
+                        "pos": "n",
+                        "chinese": "情绪; 坏情绪",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "mood",
+                "word_level_phrase_info": [
+                    {
+                        "brief_definition": "有兴致",
+                        "phrase": "in the mood",
+                        "pos": "phr."
+                    },
+                    {
+                        "brief_definition": "有...的兴致或心思",
+                        "phrase": "in the mood for",
+                        "pos": "phr."
+                    }
+                ],
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2015-2022年8年间全国卷和自主命题省市高考卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2015-2022年全国卷高考试卷，包括阅读、完形、单选、填空、听力、改错、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选各省市考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2015-2022年8年间全国卷和自主命题省市高考卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 1,
+                "total_exam_freq": 1,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "a temporary state of mind or feeling; an angry, irritable, or sullen state of mind",
+                            "zh": "情绪; 坏情绪",
+                            "pos": "n",
+                            "synonyms": "temper",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "It turns out that just looking at green, growing things can reduce stress, and put people into a better <highlight>mood</highlight> (情绪).",
+                                    "month": -1,
+                                    "source": "全国卷1",
+                                    "coll": "",
+                                    "sentence_trans": "事实证明，只是看绿色，成长中的植物可以减轻人们的压力，使人们保持良好的心情。",
+                                    "year": 2019,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "exchange_info": {
+                    "word_pl": [
+                        "moods"
+                    ]
+                }
+            },
+            "zhongkao": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 11,
+                        "pos": "cn",
+                        "chinese": "心情; 情绪",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "mood",
+                "total_exam_freq": 11,
+                "direction_info": {
+                    "ranges": 4,
+                    "description": "数据源自2018-2021年4年间全国各省市中考试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2018-2021年全国重点省市中考试卷，包括听力、阅读、完形、单选、填空、改错、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选各省市考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2018-2021年4年间全国各省市中考试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 3,
+                "word_level_phrase_info": [
+                    {
+                        "brief_definition": "兴致勃勃",
+                        "phrase": "in the mood",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "心情好；良好的心情",
+                        "phrase": "in a good mood",
+                        "pos": ""
+                    }
+                ],
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "心情; 情绪",
+                            "pos": "cn",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "For example, have you ever just not been in the <highlight>mood</highlight> to go out with friends?",
+                                    "month": -1,
+                                    "source": "自贡市卷",
+                                    "coll": "",
+                                    "sentence_trans": "例如，你是否曾经没有心情和朋友出去？",
+                                    "year": 2021,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Furthermore, smiling and being in a positive <highlight>mood</highlight> helps you to know and get a better understanding of new things.",
+                                    "month": -1,
+                                    "source": "福建卷",
+                                    "coll": "",
+                                    "sentence_trans": "此外，微笑和处于积极的情绪有助于你了解和更好地理解新事物。",
+                                    "year": 2019,
+                                    "type": "阅读理解D",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "On September 13th, I woke up in the best <highlight>mood</highlight>.",
+                                    "month": -1,
+                                    "source": "绵阳卷",
+                                    "coll": "",
+                                    "sentence_trans": "9月13日，我醒来时心情很好。",
+                                    "year": 2018,
+                                    "type": "阅读理解C",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            "sentencesData": {
+                "status": 1,
+                "info": "notZh2En",
+                "data": {}
+            },
+            "isAutoMatch": false,
+            "Zh2En": false
+        },
+        "query": "mood",
+        "result": "情绪",
+        "tabSelect": "detail",
+        "dictionaryType": "oxford_buchong",
+        "notFound_show": false,
+        "phoneticShow": "",
+        "globalShowTranslateRecord": "",
+        "pronPrefer": {
+            "type": "usa_1",
+            "speaker": "male",
+            "speed": "standard"
+        },
+        "ServerRecord": "",
+        "ServerUIGS": {
+            "version": "new",
+            "type": "all",
+            "stype": "success",
+            "terminal": "web",
+            "fr": "default",
+            "direction": "etoz",
+            "from": "en",
+            "to": "zh-CHS",
+            "len": 4,
+            "qtype": "text",
+            "qctype": "qc_1",
+            "dict_cover": 1,
+            "detail": 1,
+            "wordCardCover": 1,
+            "wordCardEn": 1,
+            "wordCardCh": 0,
+            "wordCardMinor": 0,
+            "wordCardNetmean": 0,
+            "wordDeform": 1,
+            "keyword": 0,
+            "bilingual": 1,
+            "simple": 0,
+            "levelList": 1,
+            "synonym": 1,
+            "antonym": 0,
+            "conjugate": 0,
+            "rootaffix": 0,
+            "baike_sogou": 1,
+            "baike_wiki": 0,
+            "wordDifference": 0,
+            "word_phrase": 1,
+            "secondQuery": 0,
+            "dict_oxford": 0,
+            "dict_newcentury": 0,
+            "zhongkaotab": 1,
+            "gaokaotab": 1,
+            "CET4tab": 1,
+            "CET6tab": 1,
+            "kaoyantab": 1,
+            "network_tab": 0,
+            "yinying_tab": 1,
+            "tuozhan_tab": 0,
+            "one_pic": 0,
+            "more_pic": 0,
+            "no_pic": 0,
+            "uuid": "4cabc954-8def-47f0-8017-b28363c4cf5c",
+            "from_type": 0,
+            "t_trans_ssr": 151
+        },
+        "ServerModelUIGS": {
+            "terminal": "web",
+            "type": "trans_model",
+            "pbtype": "pv",
+            "model_general": 1,
+            "model_medical": 1,
+            "model_finance": 1
+        },
+        "ServerSgtkn": "6501DCDC54A3CD7B707658D36C7F393070B29E746755386A",
+        "suggShow": false,
+        "suggestion": "",
+        "suggDirection": "",
+        "usualTop": "",
+        "baseDict": "",
+        "wordCardClick": false,
+        "isFrInput": false,
+        "kanaTips": {
+            "show": false,
+            "left": "",
+            "top": "",
+            "type": "",
+            "arrowLeft": ""
+        },
+        "currSentenceIndex": -1,
+        "prefixStrObj": {
+            "prefixStr": "",
+            "oriPrefixStr": ""
+        },
+        "selectTransBox": {
+            "show": false,
+            "right": 0,
+            "top": 0,
+            "paraphraseInfo": {
+                "word": "",
+                "from": "",
+                "to": "",
+                "area": ""
+            }
+        },
+        "sentenceLoading": false,
+        "newSentenceInfo": {
+            "sentence": "",
+            "candidateIndex": 0
+        },
+        "moreTipInfo": {
+            "opacity": 0,
+            "zIndex": -1
+        },
+        "paraphraseShowInfo": {
+            "card": 0,
+            "query": "",
+            "card_dict": 0
+        },
+        "selectType": "",
+        "wordPos": 0,
+        "candidateWord": "",
+        "syntaxVisible": false,
+        "syntaxStatus": 0
+    },
+    "language": {
+        "from": "auto",
+        "to": "zh-CHS",
+        "detect": "en",
+        "model": "general",
+        "detectShow": false,
+        "langMap": {
+            "current": ""
+        },
+        "zh2en": false,
+        "fromItemList": [
+            {
+                "lang": "auto",
+                "text": "自动检测",
+                "play": false
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "th",
+                "text": "泰语",
+                "play": true,
+                "abbr": "泰"
+            },
+            {
+                "lang": "ko",
+                "text": "韩语",
+                "play": true,
+                "abbr": "韩"
+            },
+            {
+                "lang": "ru",
+                "text": "俄语",
+                "play": true,
+                "abbr": "俄"
+            }
+        ],
+        "toItemList": [
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "ko",
+                "text": "韩语",
+                "play": true,
+                "abbr": "韩"
+            },
+            {
+                "lang": "fr",
+                "text": "法语",
+                "play": true,
+                "abbr": "法"
+            },
+            {
+                "lang": "ru",
+                "text": "俄语",
+                "play": true,
+                "abbr": "俄"
+            }
+        ]
+    },
+    "voice": {
+        "from": {
+            "lang": "en",
+            "type": "from",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22mood%22%2C%22spokenDialect%22%3A%22en%22%2C%22rate%22%3A%220.8%22%7D",
+            "list": [
+                {
+                    "type": "uk_0",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "muːd",
+                    "abbr": "英",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/5221_mood_uk.mp3"
+                },
+                {
+                    "type": "usa_1",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "muːd",
+                    "abbr": "美",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/5221_mood_usa.mp3"
+                }
+            ],
+            "stype": "phonetic",
+            "phoneticShow": [
+                {
+                    "text": "muːd",
+                    "type": "uk",
+                    "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/5221_mood_uk.mp3"
+                }
+            ]
+        },
+        "to": {
+            "lang": "zh",
+            "type": "to",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22%E6%83%85%E7%BB%AA%22%2C%22spokenDialect%22%3A%22zh-CHS%22%2C%22rate%22%3A%220.8%22%7D",
+            "stype": "normal"
+        }
+    }
+}

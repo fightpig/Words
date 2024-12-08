@@ -1,0 +1,2753 @@
+{
+    "route": {
+        "name": "text",
+        "path": "/text",
+        "hash": "",
+        "query": {
+            "keyword": "summary",
+            "transfrom": "auto",
+            "transto": "zh-CHS",
+            "model": "general",
+            "errcode": "s10"
+        },
+        "params": {},
+        "fullPath": "/text?keyword=summary&transfrom=auto&transto=zh-CHS&model=general&errcode=s10",
+        "meta": {
+            "mtype": [
+                "textTranslate",
+                "language",
+                "voice"
+            ]
+        },
+        "from": {
+            "name": null,
+            "path": "/",
+            "hash": "",
+            "query": {},
+            "params": {},
+            "fullPath": "/",
+            "meta": {}
+        }
+    },
+    "common": {
+        "CONFIG": {
+            "wuid": 1733638737062,
+            "loginInfo": {},
+            "isIE": 0,
+            "isHitSsrSwitch": true,
+            "isHitWritebookSwitch": false,
+            "isHitAmsSwitch": true,
+            "promotionList": "{\n    \"pc_bottom\":{\n        \"imgsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\",\n        \"qcsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\"\n    },\n    \"pc_middle\":[\n        {\n            \"src\":\"//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c\",\n            \"bgColor\":\"#ffffff\",\n            \"link\":\"\"\n        }\n    ],\n    \"pc_survey\":{\n        \"icon\":\"//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750\",\n        \"link\":\"https://wj.qq.com/s2/8193148/806d/\"\n    }\n}",
+            "bannerData": [],
+            "isHitAsideSurvey": false,
+            "secretCode": 109984457,
+            "uuid": "29dc7d74-ae77-4f2c-97ae-9c2f98359ee7",
+            "referer": "",
+            "approveToken": "65045BF45488E74E44426DF87C52281D45D4B27A67553A51",
+            "loadTime": 1733638737064,
+            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0",
+            "fcp": "139.59.89.214",
+            "temporaryId": "",
+            "fileId": ""
+        },
+        "hotWords": [],
+        "isFromCollect": false,
+        "psdModify": {
+            "currentStep": 1,
+            "scode": "",
+            "username": ""
+        },
+        "loginStatus": true,
+        "feedBackModule": false,
+        "showPromotionPopup": {
+            "show": false,
+            "type": ""
+        },
+        "showPromotionPCDownload": false,
+        "showShareBomb": false,
+        "shareData": null,
+        "showAppDownLoad": false,
+        "showLoginDialog": false,
+        "showLoading": {
+            "show": false
+        },
+        "toast": {
+            "show": false,
+            "text": "",
+            "loading": false
+        },
+        "modelToast": {
+            "show": false,
+            "text": ""
+        },
+        "selectionGlobalShow": true,
+        "selectionInfo": {
+            "left": 0,
+            "top": 0,
+            "show": false,
+            "from": "",
+            "to": "",
+            "val": "",
+            "area": ""
+        },
+        "showConfirmDialog": false,
+        "promotionList": {
+            "pc_bottom": {
+                "imgsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png",
+                "qcsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png"
+            },
+            "pc_middle": [
+                {
+                    "src": "//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c",
+                    "bgColor": "#ffffff",
+                    "link": ""
+                }
+            ],
+            "pc_survey": {
+                "icon": "//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750",
+                "link": "https://wj.qq.com/s2/8193148/806d/"
+            }
+        },
+        "transTypeTxt": "text",
+        "fixedTabStatus": 0,
+        "bodyTop": 0,
+        "ifHideUserOperation": false
+    },
+    "textTranslate": {
+        "prevTransQuery": "",
+        "translateData": {
+            "translate": {
+                "zly": "zly",
+                "errorCode": "0",
+                "qc_type": "1",
+                "index": "content0",
+                "from": "en",
+                "source": "sogou",
+                "text": "summary",
+                "to": "zh-CHS",
+                "id": "29dc7d74-ae77-4f2c-97ae-9c2f98359ee7",
+                "dit": "摘要",
+                "orig_text": "summary",
+                "md5": ""
+            },
+            "detect": {
+                "zly": "zly",
+                "detect": "en",
+                "errorCode": "0",
+                "language": "英语",
+                "id": "4e6c8ce0-b52c-11ef-a921-97d15001a465",
+                "text": "summary"
+            },
+            "sgtkn": "65045BF95488E74E44426DF87C52281D45D4B27A67553A51",
+            "wordCard": {
+                "title": "summary",
+                "show": true,
+                "usualDict": [
+                    {
+                        "values": [
+                            "摘要；概要；总结；概览；简报；提要；纲要；概述；简述"
+                        ],
+                        "pos": "n."
+                    },
+                    {
+                        "values": [
+                            "简略的；扼要的；概括的；简明的；即决的；速裁的；概要的；摘要性的；结性的；草草的；从速从简的"
+                        ],
+                        "pos": "adj."
+                    }
+                ],
+                "secondQuery": "",
+                "exchange": {
+                    "word_pl": [
+                        "summaries"
+                    ]
+                },
+                "levelList": [
+                    "小学",
+                    "初中",
+                    "高中",
+                    "四级",
+                    "六级",
+                    "考研",
+                    "考博",
+                    "雅思",
+                    "GRE"
+                ]
+            },
+            "detail": {
+                "synonym": [
+                    {
+                        "word_list": [
+                            "condensed",
+                            "terse"
+                        ],
+                        "pos": "adj.",
+                        "mean": "简易的；扼要的"
+                    },
+                    {
+                        "word_list": [
+                            "abstract",
+                            "brief",
+                            "resume"
+                        ],
+                        "pos": "n.",
+                        "mean": "概要，摘要"
+                    }
+                ],
+                "affix": {
+                    "word": "summary",
+                    "sub_affix_info_list": [
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "consummate",
+                                            "mean": "v. 使完；完成"
+                                        },
+                                        {
+                                            "word": "summation",
+                                            "mean": "n. 求和；汇总；总结；总和"
+                                        },
+                                        {
+                                            "word": "summit",
+                                            "mean": "n. 顶峰；最高点；政府首脑会议；最高级会议；峰会；极点"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "总结, 概括(sum 的变形 = sum+-m-)",
+                                    "affix_type": "stem"
+                                }
+                            ],
+                            "affix": "summ",
+                            "affix_mean": "总结, 概括"
+                        },
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "complementary",
+                                            "mean": "adj. 补足的；互补的；补充医学的"
+                                        },
+                                        {
+                                            "word": "complimentary",
+                                            "mean": "adj. 问候的；祝贺的；表示敬意的；恭维的；赞美的；称赞的；馈赠的；免费供应的"
+                                        },
+                                        {
+                                            "word": "contemporary",
+                                            "mean": "adj. 生活在同时代的；同时代发生的；当代的；源自同时代的；属于同时期的；现代（派）的"
+                                        },
+                                        {
+                                            "word": "customary",
+                                            "mean": "adj. 习俗的；习惯的；依照习惯的；照常的；按习惯法的；依惯例的；与非洲黑人传统（或法律）有关的"
+                                        },
+                                        {
+                                            "word": "discretionary",
+                                            "mean": "adj. 可任意使用的；代表委托人全权进行投资的"
+                                        },
+                                        {
+                                            "word": "documentary",
+                                            "mean": "adj. 文件的；文献的；由文件组成的；纪实的"
+                                        },
+                                        {
+                                            "word": "elementary",
+                                            "mean": "adj. 基本的；基础的；初级的；最基本的；简单的；最基础的；容易的；单一元素的；非化合物的"
+                                        },
+                                        {
+                                            "word": "evolutionary",
+                                            "mean": "adj. 进化的；发展的；演变的；渐进的"
+                                        },
+                                        {
+                                            "word": "exclusionary",
+                                            "mean": "adj. 排斥（性）的；排除在外的"
+                                        },
+                                        {
+                                            "word": "fragmentary",
+                                            "mean": "adj. 支离破碎的；由碎片组成的；不完整的"
+                                        },
+                                        {
+                                            "word": "intermediary",
+                                            "mean": "n. 调解人；中间人；中间的；过渡的"
+                                        },
+                                        {
+                                            "word": "interplanetary",
+                                            "mean": "adj. 星际的；星际飞行的"
+                                        },
+                                        {
+                                            "word": "legendary",
+                                            "mean": "adj. 传说的；声名远播的；名扬四海的"
+                                        },
+                                        {
+                                            "word": "literary",
+                                            "mean": "adj. 文学的；文学语言的；书面的；风格上能产生某种感情影响的；文字的；文学工作的"
+                                        },
+                                        {
+                                            "word": "mercenary",
+                                            "mean": "adj. 以金钱为目的的；唯利是图的；贪财的"
+                                        },
+                                        {
+                                            "word": "military",
+                                            "mean": "adj. 军人的；军事的；武装部队的"
+                                        },
+                                        {
+                                            "word": "ordinary",
+                                            "mean": "adj. 平常的；普通的；正常的；常任的；本身有权的；寻常的；平淡的"
+                                        },
+                                        {
+                                            "word": "preliminary",
+                                            "mean": "adj. 初步的；起始的；预备的"
+                                        },
+                                        {
+                                            "word": "primary",
+                                            "mean": "adj. 首要的；主要的；最初的；原始的；原本的；原有的；第一手的；直接的；初等的；初级的；小学的；初级线圈；原线圈；一次绕组；伯的；连上一个碳原子的"
+                                        },
+                                        {
+                                            "word": "revolutionary",
+                                            "mean": "adj. 政治革命的；大变革的；特定革命的；革命性剧变的"
+                                        },
+                                        {
+                                            "word": "rotary",
+                                            "mean": "adj. 旋转的；轮转的；转动的"
+                                        },
+                                        {
+                                            "word": "sanctuary",
+                                            "mean": "n. 避难所；庇护所；自然保护区；禁猎区；圣所；教堂；寺院；避难；庇护；收养所"
+                                        },
+                                        {
+                                            "word": "secondary",
+                                            "mean": "adj. 第二的；第二位的；副的；二代的；中等教育的；次级的；仲的"
+                                        },
+                                        {
+                                            "word": "solidarity",
+                                            "mean": "n. 团结一致；团结工会"
+                                        },
+                                        {
+                                            "word": "stationary",
+                                            "mean": "adj. 不动的；静止的；稳定的；不可移动的；经度无明显移动的；不变的"
+                                        },
+                                        {
+                                            "word": "supplementary",
+                                            "mean": "adj. 补充的"
+                                        },
+                                        {
+                                            "word": "temporary",
+                                            "mean": "adj. 暂时的；临时的"
+                                        },
+                                        {
+                                            "word": "necessary",
+                                            "mean": "adj. 必要的；必须的；必需的；根本的；必然的；不可避免的；具有必然性的；迫不得已的；非做不行的；非自愿的"
+                                        },
+                                        {
+                                            "word": "voluntary",
+                                            "mean": "adj. 自愿的；志愿的；义务的；无偿的；随意的"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "形容词后缀, 表示“...的”",
+                                    "affix_type": "suffix"
+                                },
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "rosary",
+                                            "mean": "n. 念珠祈祷；玫瑰经；念珠；《玫瑰经》"
+                                        },
+                                        {
+                                            "word": "dispensary",
+                                            "mean": "n. 药房；医务所；诊所"
+                                        },
+                                        {
+                                            "word": "infirmary",
+                                            "mean": "n. 医院；医务室"
+                                        },
+                                        {
+                                            "word": "library",
+                                            "mean": "n. 图书馆；书房；书斋；系列丛书；图书馆的藏书；资料库；资料室；系列音像资料；软件库"
+                                        },
+                                        {
+                                            "word": "depositary",
+                                            "mean": "n. 保管人；受托人"
+                                        },
+                                        {
+                                            "word": "aviary",
+                                            "mean": "n. 大型鸟舍"
+                                        },
+                                        {
+                                            "word": "granary",
+                                            "mean": "n. 谷仓；粮仓；产粮地"
+                                        },
+                                        {
+                                            "word": "apiary",
+                                            "mean": "n. 养蜂场；蜂窝群"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "名词后缀, 表示\"场所, 地点\"",
+                                    "affix_type": "suffix"
+                                },
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "secretary",
+                                            "mean": "n. 秘书；文书；干事；英国政府大臣；大使的秘书；部长"
+                                        },
+                                        {
+                                            "word": "missionary",
+                                            "mean": "n. 传教士"
+                                        },
+                                        {
+                                            "word": "adversary",
+                                            "mean": "n. 对手；敌手；魔鬼；撒旦；恶棍"
+                                        },
+                                        {
+                                            "word": "revolutionary",
+                                            "mean": "adj. 政治革命的；大变革的；特定革命的；革命性剧变的"
+                                        },
+                                        {
+                                            "word": "notary",
+                                            "mean": "n. 公证人"
+                                        },
+                                        {
+                                            "word": "functionary",
+                                            "mean": "n. 官员；公务员"
+                                        },
+                                        {
+                                            "word": "dignitary",
+                                            "mean": "n. 显贵；要人"
+                                        },
+                                        {
+                                            "word": "plenipotentiary",
+                                            "mean": "n. 全权代表"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "名词后缀, 表示\"从事…的人\"",
+                                    "affix_type": "suffix"
+                                },
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "dictionary",
+                                            "mean": "n. 字典；词典；辞书；参考书"
+                                        },
+                                        {
+                                            "word": "luminary",
+                                            "mean": "n. 杰出人物；泰斗；才智出众的人；人造光源；发光天体"
+                                        },
+                                        {
+                                            "word": "glossary",
+                                            "mean": "n. 词表；术语表；小词典"
+                                        },
+                                        {
+                                            "word": "formulary",
+                                            "mean": "n. 公式汇编；宗教礼节汇编；配方集；处方集；药典"
+                                        },
+                                        {
+                                            "word": "salary",
+                                            "mean": "n. 薪金；薪水"
+                                        },
+                                        {
+                                            "word": "distributary",
+                                            "mean": "n. 分流；支流；汊河"
+                                        },
+                                        {
+                                            "word": "diary",
+                                            "mean": "n. 日记；日志；效率手册；专栏"
+                                        },
+                                        {
+                                            "word": "anniversary",
+                                            "mean": "n. 周年纪念日；结婚纪念日；建国周年纪念日；成立周年纪念日"
+                                        },
+                                        {
+                                            "word": "piscary",
+                                            "mean": "n. 渔场共用权"
+                                        },
+                                        {
+                                            "word": "vocabulary",
+                                            "mean": "n. 词汇；生词表；词汇表；语汇；语言"
+                                        },
+                                        {
+                                            "word": "boundary",
+                                            "mean": "n. 分界线；边界；界限；击球超过边界线得分"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "名词后缀, 表示抽象名词, 无实义",
+                                    "affix_type": "suffix"
+                                }
+                            ],
+                            "affix": "-ary",
+                            "affix_mean": "...的"
+                        }
+                    ],
+                    "word_mean": "n. 总结"
+                },
+                "wordRootInfo": {
+                    "word_info_list": [
+                        {
+                            "word": "summarily",
+                            "pos_mean_info_list": [
+                                {
+                                    "pos": "adv.",
+                                    "mean": "概要地；立刻；概略地"
+                                }
+                            ]
+                        },
+                        {
+                            "word": "summarization",
+                            "pos_mean_info_list": [
+                                {
+                                    "pos": "n.",
+                                    "mean": "[图情] 摘要；概要"
+                                }
+                            ]
+                        }
+                    ],
+                    "root_word": "summary"
+                },
+                "word_difference_info": [
+                    {
+                        "common_mean": "摘要；概要；概括",
+                        "word_list": [
+                            "abstract",
+                            " summary",
+                            " resume",
+                            " digest",
+                            " outline"
+                        ],
+                        "word_mean_info__list": [
+                            {
+                                "difference": "指论文、书籍等正文前的内容摘要，尤指学术论文或法律文件的研究提要。",
+                                "word": "abstract"
+                            },
+                            {
+                                "difference": "普通用词，指将书籍或文章等的内容，用寥寥数语作简明扼要的说明。",
+                                "word": "summary"
+                            },
+                            {
+                                "difference": "源于洁语，与summary极相近，通常可互换使用。",
+                                "word": "resume"
+                            },
+                            {
+                                "difference": "侧重对原文融汇贯通，重新谋篇布局，以简明扼要的语言，简短篇幅成文，展现原作精华。",
+                                "word": "digest"
+                            },
+                            {
+                                "difference": "指配以释议文字的提纲。",
+                                "word": "outline"
+                            }
+                        ]
+                    }
+                ],
+                "word_group": [
+                    {
+                        "brief_definition": "简要地说",
+                        "phrase": "in summary",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "简易审判权",
+                        "phrase": "summary jurisdiction",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "简易审判法庭",
+                        "phrase": "court of summary jurisdiction",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "即决犯罪",
+                        "phrase": "summary offence",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "行政摘要；行政概要",
+                        "phrase": "executive summary",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "摘要报告；总结报告；汇报总结",
+                        "phrase": "summary report",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "简短总结；简要概述；简要",
+                        "phrase": "brief summary",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "简明摘要",
+                        "phrase": "concise summary",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "综合摘要；全面综述；综合性概要",
+                        "phrase": "comprehensive summary",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "简短的摘要；简短摘要",
+                        "phrase": "short summary",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "摘要形式；总结形式；汇总形式",
+                        "phrase": "summary form",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "简易判决；简要判决；即决审判",
+                        "phrase": "summary judgment",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "汇总表",
+                        "phrase": "summary sheet",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "做总结",
+                        "phrase": "provide summary",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "快速小结",
+                        "phrase": "quick summary",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "收益汇总；损益汇总",
+                        "phrase": "income summary",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "即决裁判；简易程序裁判",
+                        "phrase": "summary justice",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "总结；作总结",
+                        "phrase": "make summary",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "准备总结",
+                        "phrase": "prepare summary",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "给总结；给出总结；得出总结",
+                        "phrase": "give summary",
+                        "pos": ""
+                    }
+                ],
+                "bilingual": [
+                    {
+                        "source": "Choose the best <em>summary</em> of the letters.",
+                        "target": "选择信件的最佳总结。",
+                        "url": ""
+                    },
+                    {
+                        "source": "A <em>summary</em> of the story in the first paragraph.",
+                        "target": "在第一段中总结故事。",
+                        "url": ""
+                    },
+                    {
+                        "source": "The conclusion contains a <em>summary</em> of your ideas.",
+                        "target": "结论包含你观点的总结。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Complete the <em>summary</em> with the words and expressions from the passage.",
+                        "target": "用文章中的单词和表达完成总结。",
+                        "url": ""
+                    },
+                    {
+                        "source": "He gave a concise <em>summary</em>.",
+                        "target": "他给出了一个简要的总结。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Please give me a brief <em>summary</em>.",
+                        "target": "请给我一个简约的总结。",
+                        "url": ""
+                    },
+                    {
+                        "source": "She gave a condensed <em>summary</em> of the meeting.",
+                        "target": "她给出了会议的简明的总结。",
+                        "url": ""
+                    },
+                    {
+                        "source": "He wrote a pithy <em>summary</em> of the meeting.",
+                        "target": "他写了一份简洁有力的会议总结。",
+                        "url": ""
+                    },
+                    {
+                        "source": "A brief <em>summary</em> will precede each chapter.",
+                        "target": "每章之前都会有一个简短的总结。",
+                        "url": ""
+                    },
+                    {
+                        "source": "He gave a briefer <em>summary</em> of the main points.",
+                        "target": "他对要点做了一个简短的总结。",
+                        "url": ""
+                    }
+                ],
+                "baike": {
+                    "showMore": false,
+                    "list": [
+                        {
+                            "lemmaTitle": "summary",
+                            "link": "https://baike.sogou.com/v65826109.htm?ch=sogou.fanyi",
+                            "abstract": "[ˈsʌməri]\nn.\n摘要, 概要\nadj.\n1.即刻的, 立即的\n2.匆忙的, 草率的\n2.概括的; 简要的",
+                            "wapPic": "//img01.sogoucdn.com/v2/thumb/retype_exclude_gif/ext/auto/q/80/crop/xy/ai/w/140/h/140/resize/w/140?appid=201005&sign=1f6a30ce241d34d5eb8b9be7afc1524c&url=https%3A%2F%2Fpic.baike.soso.com%2Fugc%2Fbaikepic2%2F19677%2Fcut-20190515194138-154646342_jpg_647_431_15259.jpg%2F0",
+                            "pcPic": "//img04.sogoucdn.com/v2/thumb/retype_exclude_gif/ext/auto/q/80/crop/xy/ai/w/140/h/140/resize/w/140?appid=201005&sign=1f6a30ce241d34d5eb8b9be7afc1524c&url=https%3A%2F%2Fpic.baike.soso.com%2Fugc%2Fbaikepic2%2F19677%2Fcut-20190515194138-154646342_jpg_647_431_15259.jpg%2F0"
+                        }
+                    ]
+                }
+            },
+            "book": "",
+            "pic": "",
+            "voice": {
+                "phonetic": [
+                    {
+                        "text": "ˈsʌməri",
+                        "type": "uk",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/1476_summary_uk.mp3"
+                    },
+                    {
+                        "text": "ˈsʌməri",
+                        "type": "usa",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/1476_summary_usa.mp3"
+                    }
+                ]
+            },
+            "dictType": "oxford_buchong",
+            "kaoyan": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 0,
+                        "pos": "n",
+                        "chinese": "总结; 概要; 摘要",
+                        "sense_tier_ratio": 0
+                    },
+                    {
+                        "sense_tier": 0,
+                        "pos": "adj",
+                        "chinese": "简略的; 概括的",
+                        "sense_tier_ratio": 0
+                    },
+                    {
+                        "sense_tier": 0,
+                        "pos": "adj",
+                        "chinese": "即决的; 草草的",
+                        "sense_tier_ratio": 0
+                    }
+                ],
+                "word": "summary",
+                "direction_info": {
+                    "ranges": 12,
+                    "description": "数据源自2012-2023年12年间全国考研试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2012-2023年全国考研英语一和考研英语二共24套考研试卷，包括阅读、完型填空、翻译、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选全国考研考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2012-2023年12年间全国考研英语一和考研英语二试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 1,
+                "word_family": {
+                    "derivative_info_list": [
+                        {
+                            "derivative_info_list": [
+                                {
+                                    "derivative_info_list": [],
+                                    "word": "summarize",
+                                    "mean": "v. 总结；概括"
+                                }
+                            ],
+                            "word": "summary",
+                            "mean": "n. 总结；概要；摘要"
+                        }
+                    ],
+                    "word": "sum",
+                    "mean": "n. 金额；款项；款子；和；总数；算术题；总和"
+                },
+                "total_exam_freq": 0,
+                "sense": {
+                    "sense_num": 3,
+                    "sense_info_list": [
+                        {
+                            "synonyms": "",
+                            "en": "a short statement that gives only the main points of sth, not the details",
+                            "zh": "总结; 概要; 摘要",
+                            "pos": "n",
+                            "antonyms": ""
+                        },
+                        {
+                            "synonyms": "",
+                            "en": "giving only the main points of something, not the details",
+                            "zh": "简略的; 概括的",
+                            "pos": "adj",
+                            "antonyms": ""
+                        },
+                        {
+                            "synonyms": "",
+                            "en": "done immediately, without paying attention to the normal process that should be followed",
+                            "zh": "即决的; 草草的",
+                            "pos": "adj",
+                            "antonyms": ""
+                        }
+                    ]
+                },
+                "word_affix": {
+                    "word": "summary",
+                    "sub_affix_info_list": [
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "consummate",
+                                            "mean": "v. 使完；完成"
+                                        },
+                                        {
+                                            "word": "summation",
+                                            "mean": "n. 求和；汇总；总结；总和"
+                                        },
+                                        {
+                                            "word": "summit",
+                                            "mean": "n. 顶峰；最高点；政府首脑会议；最高级会议；峰会；极点"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "总结, 概括(sum 的变形 = sum+-m-)",
+                                    "affix_type": "stem"
+                                }
+                            ],
+                            "affix": "summ",
+                            "affix_mean": "总结, 概括"
+                        },
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "complementary",
+                                            "mean": "adj. 补足的；互补的；补充医学的"
+                                        },
+                                        {
+                                            "word": "complimentary",
+                                            "mean": "adj. 问候的；祝贺的；表示敬意的；恭维的；赞美的；称赞的；馈赠的；免费供应的"
+                                        },
+                                        {
+                                            "word": "contemporary",
+                                            "mean": "adj. 生活在同时代的；同时代发生的；当代的；源自同时代的；属于同时期的；现代（派）的"
+                                        },
+                                        {
+                                            "word": "customary",
+                                            "mean": "adj. 习俗的；习惯的；依照习惯的；照常的；按习惯法的；依惯例的；与非洲黑人传统（或法律）有关的"
+                                        },
+                                        {
+                                            "word": "discretionary",
+                                            "mean": "adj. 可任意使用的；代表委托人全权进行投资的"
+                                        },
+                                        {
+                                            "word": "documentary",
+                                            "mean": "adj. 文件的；文献的；由文件组成的；纪实的"
+                                        },
+                                        {
+                                            "word": "elementary",
+                                            "mean": "adj. 基本的；基础的；初级的；最基本的；简单的；最基础的；容易的；单一元素的；非化合物的"
+                                        },
+                                        {
+                                            "word": "evolutionary",
+                                            "mean": "adj. 进化的；发展的；演变的；渐进的"
+                                        },
+                                        {
+                                            "word": "exclusionary",
+                                            "mean": "adj. 排斥（性）的；排除在外的"
+                                        },
+                                        {
+                                            "word": "fragmentary",
+                                            "mean": "adj. 支离破碎的；由碎片组成的；不完整的"
+                                        },
+                                        {
+                                            "word": "intermediary",
+                                            "mean": "n. 调解人；中间人；中间的；过渡的"
+                                        },
+                                        {
+                                            "word": "interplanetary",
+                                            "mean": "adj. 星际的；星际飞行的"
+                                        },
+                                        {
+                                            "word": "legendary",
+                                            "mean": "adj. 传说的；声名远播的；名扬四海的"
+                                        },
+                                        {
+                                            "word": "literary",
+                                            "mean": "adj. 文学的；文学语言的；书面的；风格上能产生某种感情影响的；文字的；文学工作的"
+                                        },
+                                        {
+                                            "word": "mercenary",
+                                            "mean": "adj. 以金钱为目的的；唯利是图的；贪财的"
+                                        },
+                                        {
+                                            "word": "military",
+                                            "mean": "adj. 军人的；军事的；武装部队的"
+                                        },
+                                        {
+                                            "word": "ordinary",
+                                            "mean": "adj. 平常的；普通的；正常的；常任的；本身有权的；寻常的；平淡的"
+                                        },
+                                        {
+                                            "word": "preliminary",
+                                            "mean": "adj. 初步的；起始的；预备的"
+                                        },
+                                        {
+                                            "word": "primary",
+                                            "mean": "adj. 首要的；主要的；最初的；原始的；原本的；原有的；第一手的；直接的；初等的；初级的；小学的；初级线圈；原线圈；一次绕组；伯的；连上一个碳原子的"
+                                        },
+                                        {
+                                            "word": "revolutionary",
+                                            "mean": "adj. 政治革命的；大变革的；特定革命的；革命性剧变的"
+                                        },
+                                        {
+                                            "word": "rotary",
+                                            "mean": "adj. 旋转的；轮转的；转动的"
+                                        },
+                                        {
+                                            "word": "sanctuary",
+                                            "mean": "n. 避难所；庇护所；自然保护区；禁猎区；圣所；教堂；寺院；避难；庇护；收养所"
+                                        },
+                                        {
+                                            "word": "secondary",
+                                            "mean": "adj. 第二的；第二位的；副的；二代的；中等教育的；次级的；仲的"
+                                        },
+                                        {
+                                            "word": "solidarity",
+                                            "mean": "n. 团结一致；团结工会"
+                                        },
+                                        {
+                                            "word": "stationary",
+                                            "mean": "adj. 不动的；静止的；稳定的；不可移动的；经度无明显移动的；不变的"
+                                        },
+                                        {
+                                            "word": "supplementary",
+                                            "mean": "adj. 补充的"
+                                        },
+                                        {
+                                            "word": "temporary",
+                                            "mean": "adj. 暂时的；临时的"
+                                        },
+                                        {
+                                            "word": "necessary",
+                                            "mean": "adj. 必要的；必须的；必需的；根本的；必然的；不可避免的；具有必然性的；迫不得已的；非做不行的；非自愿的"
+                                        },
+                                        {
+                                            "word": "voluntary",
+                                            "mean": "adj. 自愿的；志愿的；义务的；无偿的；随意的"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "形容词后缀, 表示“...的”",
+                                    "affix_type": "suffix"
+                                },
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "rosary",
+                                            "mean": "n. 念珠祈祷；玫瑰经；念珠；《玫瑰经》"
+                                        },
+                                        {
+                                            "word": "dispensary",
+                                            "mean": "n. 药房；医务所；诊所"
+                                        },
+                                        {
+                                            "word": "infirmary",
+                                            "mean": "n. 医院；医务室"
+                                        },
+                                        {
+                                            "word": "library",
+                                            "mean": "n. 图书馆；书房；书斋；系列丛书；图书馆的藏书；资料库；资料室；系列音像资料；软件库"
+                                        },
+                                        {
+                                            "word": "depositary",
+                                            "mean": "n. 保管人；受托人"
+                                        },
+                                        {
+                                            "word": "aviary",
+                                            "mean": "n. 大型鸟舍"
+                                        },
+                                        {
+                                            "word": "granary",
+                                            "mean": "n. 谷仓；粮仓；产粮地"
+                                        },
+                                        {
+                                            "word": "apiary",
+                                            "mean": "n. 养蜂场；蜂窝群"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "名词后缀, 表示\"场所, 地点\"",
+                                    "affix_type": "suffix"
+                                },
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "secretary",
+                                            "mean": "n. 秘书；文书；干事；英国政府大臣；大使的秘书；部长"
+                                        },
+                                        {
+                                            "word": "missionary",
+                                            "mean": "n. 传教士"
+                                        },
+                                        {
+                                            "word": "adversary",
+                                            "mean": "n. 对手；敌手；魔鬼；撒旦；恶棍"
+                                        },
+                                        {
+                                            "word": "revolutionary",
+                                            "mean": "adj. 政治革命的；大变革的；特定革命的；革命性剧变的"
+                                        },
+                                        {
+                                            "word": "notary",
+                                            "mean": "n. 公证人"
+                                        },
+                                        {
+                                            "word": "functionary",
+                                            "mean": "n. 官员；公务员"
+                                        },
+                                        {
+                                            "word": "dignitary",
+                                            "mean": "n. 显贵；要人"
+                                        },
+                                        {
+                                            "word": "plenipotentiary",
+                                            "mean": "n. 全权代表"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "名词后缀, 表示\"从事…的人\"",
+                                    "affix_type": "suffix"
+                                },
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "dictionary",
+                                            "mean": "n. 字典；词典；辞书；参考书"
+                                        },
+                                        {
+                                            "word": "luminary",
+                                            "mean": "n. 杰出人物；泰斗；才智出众的人；人造光源；发光天体"
+                                        },
+                                        {
+                                            "word": "glossary",
+                                            "mean": "n. 词表；术语表；小词典"
+                                        },
+                                        {
+                                            "word": "formulary",
+                                            "mean": "n. 公式汇编；宗教礼节汇编；配方集；处方集；药典"
+                                        },
+                                        {
+                                            "word": "salary",
+                                            "mean": "n. 薪金；薪水"
+                                        },
+                                        {
+                                            "word": "distributary",
+                                            "mean": "n. 分流；支流；汊河"
+                                        },
+                                        {
+                                            "word": "diary",
+                                            "mean": "n. 日记；日志；效率手册；专栏"
+                                        },
+                                        {
+                                            "word": "anniversary",
+                                            "mean": "n. 周年纪念日；结婚纪念日；建国周年纪念日；成立周年纪念日"
+                                        },
+                                        {
+                                            "word": "piscary",
+                                            "mean": "n. 渔场共用权"
+                                        },
+                                        {
+                                            "word": "vocabulary",
+                                            "mean": "n. 词汇；生词表；词汇表；语汇；语言"
+                                        },
+                                        {
+                                            "word": "boundary",
+                                            "mean": "n. 分界线；边界；界限；击球超过边界线得分"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "名词后缀, 表示抽象名词, 无实义",
+                                    "affix_type": "suffix"
+                                }
+                            ],
+                            "affix": "-ary",
+                            "affix_mean": "...的"
+                        }
+                    ],
+                    "word_mean": "n. 总结"
+                },
+                "word_usage": [
+                    {
+                        "usage": "summary作形容词时，只用于名词之前，修饰该名词，如：a summary financial statement"
+                    }
+                ]
+            },
+            "CET6": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 0,
+                        "pos": "n/adj",
+                        "chinese": "总结; 总结性的; 概括的",
+                        "sense_tier_ratio": 0
+                    }
+                ],
+                "word": "summary",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2016.6-2023.6年8年间全六级试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight>考纲释义</highlight>\n精选实考、考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2016-2023年51套试卷，包括阅读、听力、翻译等所有题型。\n\n<highlight>真题例句</highlight>\n精选2016-2023年8年间全六级试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 1,
+                "word_family": {
+                    "derivative_info_list": [
+                        {
+                            "derivative_info_list": [
+                                {
+                                    "derivative_info_list": [],
+                                    "word": "summarize",
+                                    "mean": "v. 总结；概括"
+                                }
+                            ],
+                            "word": "summary",
+                            "mean": "n. 总结；概要；摘要"
+                        }
+                    ],
+                    "word": "sum",
+                    "mean": "n. 金额；款项；款子；和；总数；算术题；总和"
+                },
+                "total_exam_freq": 0,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "synonyms": "synopsis,outline,abstract",
+                            "en": "a brief statement that presents the main points in a concise form; \ngiving only the main points of something, not the details",
+                            "zh": "总结; 总结性的; 概括的",
+                            "pos": "n/adj",
+                            "antonyms": ""
+                        }
+                    ]
+                },
+                "word_affix": {
+                    "word": "summary",
+                    "sub_affix_info_list": [
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "consummate",
+                                            "mean": "v. 使完；完成"
+                                        },
+                                        {
+                                            "word": "summation",
+                                            "mean": "n. 求和；汇总；总结；总和"
+                                        },
+                                        {
+                                            "word": "summit",
+                                            "mean": "n. 顶峰；最高点；政府首脑会议；最高级会议；峰会；极点"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "总结, 概括(sum 的变形 = sum+-m-)",
+                                    "affix_type": "stem"
+                                }
+                            ],
+                            "affix": "summ",
+                            "affix_mean": "总结, 概括"
+                        },
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "complementary",
+                                            "mean": "adj. 补足的；互补的；补充医学的"
+                                        },
+                                        {
+                                            "word": "complimentary",
+                                            "mean": "adj. 问候的；祝贺的；表示敬意的；恭维的；赞美的；称赞的；馈赠的；免费供应的"
+                                        },
+                                        {
+                                            "word": "contemporary",
+                                            "mean": "adj. 生活在同时代的；同时代发生的；当代的；源自同时代的；属于同时期的；现代（派）的"
+                                        },
+                                        {
+                                            "word": "customary",
+                                            "mean": "adj. 习俗的；习惯的；依照习惯的；照常的；按习惯法的；依惯例的；与非洲黑人传统（或法律）有关的"
+                                        },
+                                        {
+                                            "word": "discretionary",
+                                            "mean": "adj. 可任意使用的；代表委托人全权进行投资的"
+                                        },
+                                        {
+                                            "word": "documentary",
+                                            "mean": "adj. 文件的；文献的；由文件组成的；纪实的"
+                                        },
+                                        {
+                                            "word": "elementary",
+                                            "mean": "adj. 基本的；基础的；初级的；最基本的；简单的；最基础的；容易的；单一元素的；非化合物的"
+                                        },
+                                        {
+                                            "word": "evolutionary",
+                                            "mean": "adj. 进化的；发展的；演变的；渐进的"
+                                        },
+                                        {
+                                            "word": "exclusionary",
+                                            "mean": "adj. 排斥（性）的；排除在外的"
+                                        },
+                                        {
+                                            "word": "fragmentary",
+                                            "mean": "adj. 支离破碎的；由碎片组成的；不完整的"
+                                        },
+                                        {
+                                            "word": "intermediary",
+                                            "mean": "n. 调解人；中间人；中间的；过渡的"
+                                        },
+                                        {
+                                            "word": "interplanetary",
+                                            "mean": "adj. 星际的；星际飞行的"
+                                        },
+                                        {
+                                            "word": "legendary",
+                                            "mean": "adj. 传说的；声名远播的；名扬四海的"
+                                        },
+                                        {
+                                            "word": "literary",
+                                            "mean": "adj. 文学的；文学语言的；书面的；风格上能产生某种感情影响的；文字的；文学工作的"
+                                        },
+                                        {
+                                            "word": "mercenary",
+                                            "mean": "adj. 以金钱为目的的；唯利是图的；贪财的"
+                                        },
+                                        {
+                                            "word": "military",
+                                            "mean": "adj. 军人的；军事的；武装部队的"
+                                        },
+                                        {
+                                            "word": "ordinary",
+                                            "mean": "adj. 平常的；普通的；正常的；常任的；本身有权的；寻常的；平淡的"
+                                        },
+                                        {
+                                            "word": "preliminary",
+                                            "mean": "adj. 初步的；起始的；预备的"
+                                        },
+                                        {
+                                            "word": "primary",
+                                            "mean": "adj. 首要的；主要的；最初的；原始的；原本的；原有的；第一手的；直接的；初等的；初级的；小学的；初级线圈；原线圈；一次绕组；伯的；连上一个碳原子的"
+                                        },
+                                        {
+                                            "word": "revolutionary",
+                                            "mean": "adj. 政治革命的；大变革的；特定革命的；革命性剧变的"
+                                        },
+                                        {
+                                            "word": "rotary",
+                                            "mean": "adj. 旋转的；轮转的；转动的"
+                                        },
+                                        {
+                                            "word": "sanctuary",
+                                            "mean": "n. 避难所；庇护所；自然保护区；禁猎区；圣所；教堂；寺院；避难；庇护；收养所"
+                                        },
+                                        {
+                                            "word": "secondary",
+                                            "mean": "adj. 第二的；第二位的；副的；二代的；中等教育的；次级的；仲的"
+                                        },
+                                        {
+                                            "word": "solidarity",
+                                            "mean": "n. 团结一致；团结工会"
+                                        },
+                                        {
+                                            "word": "stationary",
+                                            "mean": "adj. 不动的；静止的；稳定的；不可移动的；经度无明显移动的；不变的"
+                                        },
+                                        {
+                                            "word": "supplementary",
+                                            "mean": "adj. 补充的"
+                                        },
+                                        {
+                                            "word": "temporary",
+                                            "mean": "adj. 暂时的；临时的"
+                                        },
+                                        {
+                                            "word": "necessary",
+                                            "mean": "adj. 必要的；必须的；必需的；根本的；必然的；不可避免的；具有必然性的；迫不得已的；非做不行的；非自愿的"
+                                        },
+                                        {
+                                            "word": "voluntary",
+                                            "mean": "adj. 自愿的；志愿的；义务的；无偿的；随意的"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "形容词后缀, 表示“...的”",
+                                    "affix_type": "suffix"
+                                },
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "rosary",
+                                            "mean": "n. 念珠祈祷；玫瑰经；念珠；《玫瑰经》"
+                                        },
+                                        {
+                                            "word": "dispensary",
+                                            "mean": "n. 药房；医务所；诊所"
+                                        },
+                                        {
+                                            "word": "infirmary",
+                                            "mean": "n. 医院；医务室"
+                                        },
+                                        {
+                                            "word": "library",
+                                            "mean": "n. 图书馆；书房；书斋；系列丛书；图书馆的藏书；资料库；资料室；系列音像资料；软件库"
+                                        },
+                                        {
+                                            "word": "depositary",
+                                            "mean": "n. 保管人；受托人"
+                                        },
+                                        {
+                                            "word": "aviary",
+                                            "mean": "n. 大型鸟舍"
+                                        },
+                                        {
+                                            "word": "granary",
+                                            "mean": "n. 谷仓；粮仓；产粮地"
+                                        },
+                                        {
+                                            "word": "apiary",
+                                            "mean": "n. 养蜂场；蜂窝群"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "名词后缀, 表示\"场所, 地点\"",
+                                    "affix_type": "suffix"
+                                },
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "secretary",
+                                            "mean": "n. 秘书；文书；干事；英国政府大臣；大使的秘书；部长"
+                                        },
+                                        {
+                                            "word": "missionary",
+                                            "mean": "n. 传教士"
+                                        },
+                                        {
+                                            "word": "adversary",
+                                            "mean": "n. 对手；敌手；魔鬼；撒旦；恶棍"
+                                        },
+                                        {
+                                            "word": "revolutionary",
+                                            "mean": "adj. 政治革命的；大变革的；特定革命的；革命性剧变的"
+                                        },
+                                        {
+                                            "word": "notary",
+                                            "mean": "n. 公证人"
+                                        },
+                                        {
+                                            "word": "functionary",
+                                            "mean": "n. 官员；公务员"
+                                        },
+                                        {
+                                            "word": "dignitary",
+                                            "mean": "n. 显贵；要人"
+                                        },
+                                        {
+                                            "word": "plenipotentiary",
+                                            "mean": "n. 全权代表"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "名词后缀, 表示\"从事…的人\"",
+                                    "affix_type": "suffix"
+                                },
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "dictionary",
+                                            "mean": "n. 字典；词典；辞书；参考书"
+                                        },
+                                        {
+                                            "word": "luminary",
+                                            "mean": "n. 杰出人物；泰斗；才智出众的人；人造光源；发光天体"
+                                        },
+                                        {
+                                            "word": "glossary",
+                                            "mean": "n. 词表；术语表；小词典"
+                                        },
+                                        {
+                                            "word": "formulary",
+                                            "mean": "n. 公式汇编；宗教礼节汇编；配方集；处方集；药典"
+                                        },
+                                        {
+                                            "word": "salary",
+                                            "mean": "n. 薪金；薪水"
+                                        },
+                                        {
+                                            "word": "distributary",
+                                            "mean": "n. 分流；支流；汊河"
+                                        },
+                                        {
+                                            "word": "diary",
+                                            "mean": "n. 日记；日志；效率手册；专栏"
+                                        },
+                                        {
+                                            "word": "anniversary",
+                                            "mean": "n. 周年纪念日；结婚纪念日；建国周年纪念日；成立周年纪念日"
+                                        },
+                                        {
+                                            "word": "piscary",
+                                            "mean": "n. 渔场共用权"
+                                        },
+                                        {
+                                            "word": "vocabulary",
+                                            "mean": "n. 词汇；生词表；词汇表；语汇；语言"
+                                        },
+                                        {
+                                            "word": "boundary",
+                                            "mean": "n. 分界线；边界；界限；击球超过边界线得分"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "名词后缀, 表示抽象名词, 无实义",
+                                    "affix_type": "suffix"
+                                }
+                            ],
+                            "affix": "-ary",
+                            "affix_mean": "...的"
+                        }
+                    ],
+                    "word_mean": "n. 总结"
+                },
+                "exchange_info": {
+                    "word_pl": [
+                        "summaries"
+                    ]
+                }
+            },
+            "CET4": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 0,
+                        "pos": "v",
+                        "chinese": "总结; 概要; 摘要",
+                        "sense_tier_ratio": 0
+                    },
+                    {
+                        "sense_tier": 0,
+                        "pos": "adj",
+                        "chinese": "简略的; 扼要的",
+                        "sense_tier_ratio": 0
+                    },
+                    {
+                        "sense_tier": 0,
+                        "pos": "adj",
+                        "chinese": "即决裁定的",
+                        "sense_tier_ratio": 0
+                    }
+                ],
+                "word": "summary",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2016.6-2023.6年8年间全四级试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight>考纲释义</highlight>\n精选实考、考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2016-2023年51套试卷，包括阅读、听力、翻译等所有题型。\n\n<highlight>真题例句</highlight>\n精选2016-2023年8年间试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 1,
+                "word_family": {
+                    "derivative_info_list": [
+                        {
+                            "derivative_info_list": [
+                                {
+                                    "derivative_info_list": [],
+                                    "word": "summarize",
+                                    "mean": "v. 总结；概括"
+                                }
+                            ],
+                            "word": "summary",
+                            "mean": "n. 总结；概要；摘要"
+                        }
+                    ],
+                    "word": "sum",
+                    "mean": "n. 金额；款项；款子；和；总数；算术题；总和"
+                },
+                "total_exam_freq": 0,
+                "sense": {
+                    "sense_num": 3,
+                    "sense_info_list": [
+                        {
+                            "synonyms": "",
+                            "en": "",
+                            "zh": "总结; 概要; 摘要",
+                            "pos": "v",
+                            "antonyms": ""
+                        },
+                        {
+                            "synonyms": "",
+                            "en": "",
+                            "zh": "简略的; 扼要的",
+                            "pos": "adj",
+                            "antonyms": ""
+                        },
+                        {
+                            "synonyms": "",
+                            "en": "",
+                            "zh": "即决裁定的",
+                            "pos": "adj",
+                            "antonyms": ""
+                        }
+                    ]
+                },
+                "word_affix": {
+                    "word": "summary",
+                    "sub_affix_info_list": [
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "consummate",
+                                            "mean": "v. 使完；完成"
+                                        },
+                                        {
+                                            "word": "summation",
+                                            "mean": "n. 求和；汇总；总结；总和"
+                                        },
+                                        {
+                                            "word": "summit",
+                                            "mean": "n. 顶峰；最高点；政府首脑会议；最高级会议；峰会；极点"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "总结, 概括(sum 的变形 = sum+-m-)",
+                                    "affix_type": "stem"
+                                }
+                            ],
+                            "affix": "summ",
+                            "affix_mean": "总结, 概括"
+                        },
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "complementary",
+                                            "mean": "adj. 补足的；互补的；补充医学的"
+                                        },
+                                        {
+                                            "word": "complimentary",
+                                            "mean": "adj. 问候的；祝贺的；表示敬意的；恭维的；赞美的；称赞的；馈赠的；免费供应的"
+                                        },
+                                        {
+                                            "word": "contemporary",
+                                            "mean": "adj. 生活在同时代的；同时代发生的；当代的；源自同时代的；属于同时期的；现代（派）的"
+                                        },
+                                        {
+                                            "word": "customary",
+                                            "mean": "adj. 习俗的；习惯的；依照习惯的；照常的；按习惯法的；依惯例的；与非洲黑人传统（或法律）有关的"
+                                        },
+                                        {
+                                            "word": "discretionary",
+                                            "mean": "adj. 可任意使用的；代表委托人全权进行投资的"
+                                        },
+                                        {
+                                            "word": "documentary",
+                                            "mean": "adj. 文件的；文献的；由文件组成的；纪实的"
+                                        },
+                                        {
+                                            "word": "elementary",
+                                            "mean": "adj. 基本的；基础的；初级的；最基本的；简单的；最基础的；容易的；单一元素的；非化合物的"
+                                        },
+                                        {
+                                            "word": "evolutionary",
+                                            "mean": "adj. 进化的；发展的；演变的；渐进的"
+                                        },
+                                        {
+                                            "word": "exclusionary",
+                                            "mean": "adj. 排斥（性）的；排除在外的"
+                                        },
+                                        {
+                                            "word": "fragmentary",
+                                            "mean": "adj. 支离破碎的；由碎片组成的；不完整的"
+                                        },
+                                        {
+                                            "word": "intermediary",
+                                            "mean": "n. 调解人；中间人；中间的；过渡的"
+                                        },
+                                        {
+                                            "word": "interplanetary",
+                                            "mean": "adj. 星际的；星际飞行的"
+                                        },
+                                        {
+                                            "word": "legendary",
+                                            "mean": "adj. 传说的；声名远播的；名扬四海的"
+                                        },
+                                        {
+                                            "word": "literary",
+                                            "mean": "adj. 文学的；文学语言的；书面的；风格上能产生某种感情影响的；文字的；文学工作的"
+                                        },
+                                        {
+                                            "word": "mercenary",
+                                            "mean": "adj. 以金钱为目的的；唯利是图的；贪财的"
+                                        },
+                                        {
+                                            "word": "military",
+                                            "mean": "adj. 军人的；军事的；武装部队的"
+                                        },
+                                        {
+                                            "word": "ordinary",
+                                            "mean": "adj. 平常的；普通的；正常的；常任的；本身有权的；寻常的；平淡的"
+                                        },
+                                        {
+                                            "word": "preliminary",
+                                            "mean": "adj. 初步的；起始的；预备的"
+                                        },
+                                        {
+                                            "word": "primary",
+                                            "mean": "adj. 首要的；主要的；最初的；原始的；原本的；原有的；第一手的；直接的；初等的；初级的；小学的；初级线圈；原线圈；一次绕组；伯的；连上一个碳原子的"
+                                        },
+                                        {
+                                            "word": "revolutionary",
+                                            "mean": "adj. 政治革命的；大变革的；特定革命的；革命性剧变的"
+                                        },
+                                        {
+                                            "word": "rotary",
+                                            "mean": "adj. 旋转的；轮转的；转动的"
+                                        },
+                                        {
+                                            "word": "sanctuary",
+                                            "mean": "n. 避难所；庇护所；自然保护区；禁猎区；圣所；教堂；寺院；避难；庇护；收养所"
+                                        },
+                                        {
+                                            "word": "secondary",
+                                            "mean": "adj. 第二的；第二位的；副的；二代的；中等教育的；次级的；仲的"
+                                        },
+                                        {
+                                            "word": "solidarity",
+                                            "mean": "n. 团结一致；团结工会"
+                                        },
+                                        {
+                                            "word": "stationary",
+                                            "mean": "adj. 不动的；静止的；稳定的；不可移动的；经度无明显移动的；不变的"
+                                        },
+                                        {
+                                            "word": "supplementary",
+                                            "mean": "adj. 补充的"
+                                        },
+                                        {
+                                            "word": "temporary",
+                                            "mean": "adj. 暂时的；临时的"
+                                        },
+                                        {
+                                            "word": "necessary",
+                                            "mean": "adj. 必要的；必须的；必需的；根本的；必然的；不可避免的；具有必然性的；迫不得已的；非做不行的；非自愿的"
+                                        },
+                                        {
+                                            "word": "voluntary",
+                                            "mean": "adj. 自愿的；志愿的；义务的；无偿的；随意的"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "形容词后缀, 表示“...的”",
+                                    "affix_type": "suffix"
+                                },
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "rosary",
+                                            "mean": "n. 念珠祈祷；玫瑰经；念珠；《玫瑰经》"
+                                        },
+                                        {
+                                            "word": "dispensary",
+                                            "mean": "n. 药房；医务所；诊所"
+                                        },
+                                        {
+                                            "word": "infirmary",
+                                            "mean": "n. 医院；医务室"
+                                        },
+                                        {
+                                            "word": "library",
+                                            "mean": "n. 图书馆；书房；书斋；系列丛书；图书馆的藏书；资料库；资料室；系列音像资料；软件库"
+                                        },
+                                        {
+                                            "word": "depositary",
+                                            "mean": "n. 保管人；受托人"
+                                        },
+                                        {
+                                            "word": "aviary",
+                                            "mean": "n. 大型鸟舍"
+                                        },
+                                        {
+                                            "word": "granary",
+                                            "mean": "n. 谷仓；粮仓；产粮地"
+                                        },
+                                        {
+                                            "word": "apiary",
+                                            "mean": "n. 养蜂场；蜂窝群"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "名词后缀, 表示\"场所, 地点\"",
+                                    "affix_type": "suffix"
+                                },
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "secretary",
+                                            "mean": "n. 秘书；文书；干事；英国政府大臣；大使的秘书；部长"
+                                        },
+                                        {
+                                            "word": "missionary",
+                                            "mean": "n. 传教士"
+                                        },
+                                        {
+                                            "word": "adversary",
+                                            "mean": "n. 对手；敌手；魔鬼；撒旦；恶棍"
+                                        },
+                                        {
+                                            "word": "revolutionary",
+                                            "mean": "adj. 政治革命的；大变革的；特定革命的；革命性剧变的"
+                                        },
+                                        {
+                                            "word": "notary",
+                                            "mean": "n. 公证人"
+                                        },
+                                        {
+                                            "word": "functionary",
+                                            "mean": "n. 官员；公务员"
+                                        },
+                                        {
+                                            "word": "dignitary",
+                                            "mean": "n. 显贵；要人"
+                                        },
+                                        {
+                                            "word": "plenipotentiary",
+                                            "mean": "n. 全权代表"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "名词后缀, 表示\"从事…的人\"",
+                                    "affix_type": "suffix"
+                                },
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "dictionary",
+                                            "mean": "n. 字典；词典；辞书；参考书"
+                                        },
+                                        {
+                                            "word": "luminary",
+                                            "mean": "n. 杰出人物；泰斗；才智出众的人；人造光源；发光天体"
+                                        },
+                                        {
+                                            "word": "glossary",
+                                            "mean": "n. 词表；术语表；小词典"
+                                        },
+                                        {
+                                            "word": "formulary",
+                                            "mean": "n. 公式汇编；宗教礼节汇编；配方集；处方集；药典"
+                                        },
+                                        {
+                                            "word": "salary",
+                                            "mean": "n. 薪金；薪水"
+                                        },
+                                        {
+                                            "word": "distributary",
+                                            "mean": "n. 分流；支流；汊河"
+                                        },
+                                        {
+                                            "word": "diary",
+                                            "mean": "n. 日记；日志；效率手册；专栏"
+                                        },
+                                        {
+                                            "word": "anniversary",
+                                            "mean": "n. 周年纪念日；结婚纪念日；建国周年纪念日；成立周年纪念日"
+                                        },
+                                        {
+                                            "word": "piscary",
+                                            "mean": "n. 渔场共用权"
+                                        },
+                                        {
+                                            "word": "vocabulary",
+                                            "mean": "n. 词汇；生词表；词汇表；语汇；语言"
+                                        },
+                                        {
+                                            "word": "boundary",
+                                            "mean": "n. 分界线；边界；界限；击球超过边界线得分"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "名词后缀, 表示抽象名词, 无实义",
+                                    "affix_type": "suffix"
+                                }
+                            ],
+                            "affix": "-ary",
+                            "affix_mean": "...的"
+                        }
+                    ],
+                    "word_mean": "n. 总结"
+                }
+            },
+            "gaokao": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 1,
+                        "pos": "n",
+                        "chinese": "概要; 总结",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "summary",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2015-2022年8年间全国卷和自主命题省市高考卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2015-2022年全国卷高考试卷，包括阅读、完形、单选、填空、听力、改错、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选各省市考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2015-2022年8年间全国卷和自主命题省市高考卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 1,
+                "word_family": {
+                    "derivative_info_list": [
+                        {
+                            "derivative_info_list": [
+                                {
+                                    "derivative_info_list": [],
+                                    "word": "summarize",
+                                    "mean": "v. 总结；概括"
+                                }
+                            ],
+                            "word": "summary",
+                            "mean": "n. 总结；概要；摘要"
+                        }
+                    ],
+                    "word": "sum",
+                    "mean": "n. 金额；款项；款子；和；总数；算术题；总和"
+                },
+                "total_exam_freq": 1,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "概要; 总结",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "Make a <highlight>summary</highlight>.",
+                                    "month": -1,
+                                    "source": "浙江卷",
+                                    "coll": "",
+                                    "sentence_trans": "做个总结。",
+                                    "year": 2020,
+                                    "type": "听力",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "word_affix": {
+                    "word": "summary",
+                    "sub_affix_info_list": [
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "consummate",
+                                            "mean": "v. 使完；完成"
+                                        },
+                                        {
+                                            "word": "summation",
+                                            "mean": "n. 求和；汇总；总结；总和"
+                                        },
+                                        {
+                                            "word": "summit",
+                                            "mean": "n. 顶峰；最高点；政府首脑会议；最高级会议；峰会；极点"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "总结, 概括(sum 的变形 = sum+-m-)",
+                                    "affix_type": "stem"
+                                }
+                            ],
+                            "affix": "summ",
+                            "affix_mean": "总结, 概括"
+                        },
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "complementary",
+                                            "mean": "adj. 补足的；互补的；补充医学的"
+                                        },
+                                        {
+                                            "word": "complimentary",
+                                            "mean": "adj. 问候的；祝贺的；表示敬意的；恭维的；赞美的；称赞的；馈赠的；免费供应的"
+                                        },
+                                        {
+                                            "word": "contemporary",
+                                            "mean": "adj. 生活在同时代的；同时代发生的；当代的；源自同时代的；属于同时期的；现代（派）的"
+                                        },
+                                        {
+                                            "word": "customary",
+                                            "mean": "adj. 习俗的；习惯的；依照习惯的；照常的；按习惯法的；依惯例的；与非洲黑人传统（或法律）有关的"
+                                        },
+                                        {
+                                            "word": "discretionary",
+                                            "mean": "adj. 可任意使用的；代表委托人全权进行投资的"
+                                        },
+                                        {
+                                            "word": "documentary",
+                                            "mean": "adj. 文件的；文献的；由文件组成的；纪实的"
+                                        },
+                                        {
+                                            "word": "elementary",
+                                            "mean": "adj. 基本的；基础的；初级的；最基本的；简单的；最基础的；容易的；单一元素的；非化合物的"
+                                        },
+                                        {
+                                            "word": "evolutionary",
+                                            "mean": "adj. 进化的；发展的；演变的；渐进的"
+                                        },
+                                        {
+                                            "word": "exclusionary",
+                                            "mean": "adj. 排斥（性）的；排除在外的"
+                                        },
+                                        {
+                                            "word": "fragmentary",
+                                            "mean": "adj. 支离破碎的；由碎片组成的；不完整的"
+                                        },
+                                        {
+                                            "word": "intermediary",
+                                            "mean": "n. 调解人；中间人；中间的；过渡的"
+                                        },
+                                        {
+                                            "word": "interplanetary",
+                                            "mean": "adj. 星际的；星际飞行的"
+                                        },
+                                        {
+                                            "word": "legendary",
+                                            "mean": "adj. 传说的；声名远播的；名扬四海的"
+                                        },
+                                        {
+                                            "word": "literary",
+                                            "mean": "adj. 文学的；文学语言的；书面的；风格上能产生某种感情影响的；文字的；文学工作的"
+                                        },
+                                        {
+                                            "word": "mercenary",
+                                            "mean": "adj. 以金钱为目的的；唯利是图的；贪财的"
+                                        },
+                                        {
+                                            "word": "military",
+                                            "mean": "adj. 军人的；军事的；武装部队的"
+                                        },
+                                        {
+                                            "word": "ordinary",
+                                            "mean": "adj. 平常的；普通的；正常的；常任的；本身有权的；寻常的；平淡的"
+                                        },
+                                        {
+                                            "word": "preliminary",
+                                            "mean": "adj. 初步的；起始的；预备的"
+                                        },
+                                        {
+                                            "word": "primary",
+                                            "mean": "adj. 首要的；主要的；最初的；原始的；原本的；原有的；第一手的；直接的；初等的；初级的；小学的；初级线圈；原线圈；一次绕组；伯的；连上一个碳原子的"
+                                        },
+                                        {
+                                            "word": "revolutionary",
+                                            "mean": "adj. 政治革命的；大变革的；特定革命的；革命性剧变的"
+                                        },
+                                        {
+                                            "word": "rotary",
+                                            "mean": "adj. 旋转的；轮转的；转动的"
+                                        },
+                                        {
+                                            "word": "sanctuary",
+                                            "mean": "n. 避难所；庇护所；自然保护区；禁猎区；圣所；教堂；寺院；避难；庇护；收养所"
+                                        },
+                                        {
+                                            "word": "secondary",
+                                            "mean": "adj. 第二的；第二位的；副的；二代的；中等教育的；次级的；仲的"
+                                        },
+                                        {
+                                            "word": "solidarity",
+                                            "mean": "n. 团结一致；团结工会"
+                                        },
+                                        {
+                                            "word": "stationary",
+                                            "mean": "adj. 不动的；静止的；稳定的；不可移动的；经度无明显移动的；不变的"
+                                        },
+                                        {
+                                            "word": "supplementary",
+                                            "mean": "adj. 补充的"
+                                        },
+                                        {
+                                            "word": "temporary",
+                                            "mean": "adj. 暂时的；临时的"
+                                        },
+                                        {
+                                            "word": "necessary",
+                                            "mean": "adj. 必要的；必须的；必需的；根本的；必然的；不可避免的；具有必然性的；迫不得已的；非做不行的；非自愿的"
+                                        },
+                                        {
+                                            "word": "voluntary",
+                                            "mean": "adj. 自愿的；志愿的；义务的；无偿的；随意的"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "形容词后缀, 表示“...的”",
+                                    "affix_type": "suffix"
+                                },
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "rosary",
+                                            "mean": "n. 念珠祈祷；玫瑰经；念珠；《玫瑰经》"
+                                        },
+                                        {
+                                            "word": "dispensary",
+                                            "mean": "n. 药房；医务所；诊所"
+                                        },
+                                        {
+                                            "word": "infirmary",
+                                            "mean": "n. 医院；医务室"
+                                        },
+                                        {
+                                            "word": "library",
+                                            "mean": "n. 图书馆；书房；书斋；系列丛书；图书馆的藏书；资料库；资料室；系列音像资料；软件库"
+                                        },
+                                        {
+                                            "word": "depositary",
+                                            "mean": "n. 保管人；受托人"
+                                        },
+                                        {
+                                            "word": "aviary",
+                                            "mean": "n. 大型鸟舍"
+                                        },
+                                        {
+                                            "word": "granary",
+                                            "mean": "n. 谷仓；粮仓；产粮地"
+                                        },
+                                        {
+                                            "word": "apiary",
+                                            "mean": "n. 养蜂场；蜂窝群"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "名词后缀, 表示\"场所, 地点\"",
+                                    "affix_type": "suffix"
+                                },
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "secretary",
+                                            "mean": "n. 秘书；文书；干事；英国政府大臣；大使的秘书；部长"
+                                        },
+                                        {
+                                            "word": "missionary",
+                                            "mean": "n. 传教士"
+                                        },
+                                        {
+                                            "word": "adversary",
+                                            "mean": "n. 对手；敌手；魔鬼；撒旦；恶棍"
+                                        },
+                                        {
+                                            "word": "revolutionary",
+                                            "mean": "adj. 政治革命的；大变革的；特定革命的；革命性剧变的"
+                                        },
+                                        {
+                                            "word": "notary",
+                                            "mean": "n. 公证人"
+                                        },
+                                        {
+                                            "word": "functionary",
+                                            "mean": "n. 官员；公务员"
+                                        },
+                                        {
+                                            "word": "dignitary",
+                                            "mean": "n. 显贵；要人"
+                                        },
+                                        {
+                                            "word": "plenipotentiary",
+                                            "mean": "n. 全权代表"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "名词后缀, 表示\"从事…的人\"",
+                                    "affix_type": "suffix"
+                                },
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "dictionary",
+                                            "mean": "n. 字典；词典；辞书；参考书"
+                                        },
+                                        {
+                                            "word": "luminary",
+                                            "mean": "n. 杰出人物；泰斗；才智出众的人；人造光源；发光天体"
+                                        },
+                                        {
+                                            "word": "glossary",
+                                            "mean": "n. 词表；术语表；小词典"
+                                        },
+                                        {
+                                            "word": "formulary",
+                                            "mean": "n. 公式汇编；宗教礼节汇编；配方集；处方集；药典"
+                                        },
+                                        {
+                                            "word": "salary",
+                                            "mean": "n. 薪金；薪水"
+                                        },
+                                        {
+                                            "word": "distributary",
+                                            "mean": "n. 分流；支流；汊河"
+                                        },
+                                        {
+                                            "word": "diary",
+                                            "mean": "n. 日记；日志；效率手册；专栏"
+                                        },
+                                        {
+                                            "word": "anniversary",
+                                            "mean": "n. 周年纪念日；结婚纪念日；建国周年纪念日；成立周年纪念日"
+                                        },
+                                        {
+                                            "word": "piscary",
+                                            "mean": "n. 渔场共用权"
+                                        },
+                                        {
+                                            "word": "vocabulary",
+                                            "mean": "n. 词汇；生词表；词汇表；语汇；语言"
+                                        },
+                                        {
+                                            "word": "boundary",
+                                            "mean": "n. 分界线；边界；界限；击球超过边界线得分"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "名词后缀, 表示抽象名词, 无实义",
+                                    "affix_type": "suffix"
+                                }
+                            ],
+                            "affix": "-ary",
+                            "affix_mean": "...的"
+                        }
+                    ],
+                    "word_mean": "n. 总结"
+                }
+            },
+            "zhongkao": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 3,
+                        "pos": "n",
+                        "chinese": "概要; 总结",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "summary",
+                "direction_info": {
+                    "ranges": 4,
+                    "description": "数据源自2018-2021年4年间全国各省市中考试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2018-2021年全国重点省市中考试卷，包括听力、阅读、完形、单选、填空、改错、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选各省市考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2018-2021年4年间全国各省市中考试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 1,
+                "word_family": {
+                    "derivative_info_list": [
+                        {
+                            "derivative_info_list": [],
+                            "word": "summary",
+                            "mean": "n. 总结；概要；摘要"
+                        }
+                    ],
+                    "word": "sum",
+                    "mean": "n. 金额；款项；款子；和；总数；算术题；总和"
+                },
+                "total_exam_freq": 3,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "概要; 总结",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "That’s the perfect <highlight>summary</highlight> of who she is.",
+                                    "month": -1,
+                                    "source": "德州市卷",
+                                    "coll": "",
+                                    "sentence_trans": "这是对她身份的完美概括。",
+                                    "year": 2021,
+                                    "type": "综合填空",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Jackie is writing a <highlight>summary</highlight>(总结)and feedback about School Day to his teacher.",
+                                    "month": -1,
+                                    "source": "福建卷",
+                                    "coll": "",
+                                    "sentence_trans": "杰基正在给他的老师写一份关于学校日的总结和反馈。",
+                                    "year": 2018,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "word_affix": {
+                    "sub_affix_info_list": [
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "consummate",
+                                            "mean": "v. 使完；完成"
+                                        },
+                                        {
+                                            "word": "summation",
+                                            "mean": "n. 求和；汇总；总结；总和"
+                                        },
+                                        {
+                                            "word": "summit",
+                                            "mean": "n. 顶峰；最高点；政府首脑会议；最高级会议；峰会；极点"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "总结, 概括(sum 的变形 = sum+-m-)",
+                                    "affix_type": "stem"
+                                }
+                            ],
+                            "affix": "summ",
+                            "affix_mean": "总结, 概括"
+                        },
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "complementary",
+                                            "mean": "adj. 补足的；互补的；补充医学的"
+                                        },
+                                        {
+                                            "word": "complimentary",
+                                            "mean": "adj. 问候的；祝贺的；表示敬意的；恭维的；赞美的；称赞的；馈赠的；免费供应的"
+                                        },
+                                        {
+                                            "word": "contemporary",
+                                            "mean": "adj. 生活在同时代的；同时代发生的；当代的；源自同时代的；属于同时期的；现代（派）的"
+                                        },
+                                        {
+                                            "word": "customary",
+                                            "mean": "adj. 习俗的；习惯的；依照习惯的；照常的；按习惯法的；依惯例的；与非洲黑人传统（或法律）有关的"
+                                        },
+                                        {
+                                            "word": "discretionary",
+                                            "mean": "adj. 可任意使用的；代表委托人全权进行投资的"
+                                        },
+                                        {
+                                            "word": "documentary",
+                                            "mean": "adj. 文件的；文献的；由文件组成的；纪实的"
+                                        },
+                                        {
+                                            "word": "elementary",
+                                            "mean": "adj. 基本的；基础的；初级的；最基本的；简单的；最基础的；容易的；单一元素的；非化合物的"
+                                        },
+                                        {
+                                            "word": "evolutionary",
+                                            "mean": "adj. 进化的；发展的；演变的；渐进的"
+                                        },
+                                        {
+                                            "word": "exclusionary",
+                                            "mean": "adj. 排斥（性）的；排除在外的"
+                                        },
+                                        {
+                                            "word": "fragmentary",
+                                            "mean": "adj. 支离破碎的；由碎片组成的；不完整的"
+                                        },
+                                        {
+                                            "word": "intermediary",
+                                            "mean": "n. 调解人；中间人；中间的；过渡的"
+                                        },
+                                        {
+                                            "word": "interplanetary",
+                                            "mean": "adj. 星际的；星际飞行的"
+                                        },
+                                        {
+                                            "word": "legendary",
+                                            "mean": "adj. 传说的；声名远播的；名扬四海的"
+                                        },
+                                        {
+                                            "word": "literary",
+                                            "mean": "adj. 文学的；文学语言的；书面的；风格上能产生某种感情影响的；文字的；文学工作的"
+                                        },
+                                        {
+                                            "word": "mercenary",
+                                            "mean": "adj. 以金钱为目的的；唯利是图的；贪财的"
+                                        },
+                                        {
+                                            "word": "military",
+                                            "mean": "adj. 军人的；军事的；武装部队的"
+                                        },
+                                        {
+                                            "word": "ordinary",
+                                            "mean": "adj. 平常的；普通的；正常的；常任的；本身有权的；寻常的；平淡的"
+                                        },
+                                        {
+                                            "word": "preliminary",
+                                            "mean": "adj. 初步的；起始的；预备的"
+                                        },
+                                        {
+                                            "word": "primary",
+                                            "mean": "adj. 首要的；主要的；最初的；原始的；原本的；原有的；第一手的；直接的；初等的；初级的；小学的；初级线圈；原线圈；一次绕组；伯的；连上一个碳原子的"
+                                        },
+                                        {
+                                            "word": "revolutionary",
+                                            "mean": "adj. 政治革命的；大变革的；特定革命的；革命性剧变的"
+                                        },
+                                        {
+                                            "word": "rotary",
+                                            "mean": "adj. 旋转的；轮转的；转动的"
+                                        },
+                                        {
+                                            "word": "sanctuary",
+                                            "mean": "n. 避难所；庇护所；自然保护区；禁猎区；圣所；教堂；寺院；避难；庇护；收养所"
+                                        },
+                                        {
+                                            "word": "secondary",
+                                            "mean": "adj. 第二的；第二位的；副的；二代的；中等教育的；次级的；仲的"
+                                        },
+                                        {
+                                            "word": "solidarity",
+                                            "mean": "n. 团结一致；团结工会"
+                                        },
+                                        {
+                                            "word": "stationary",
+                                            "mean": "adj. 不动的；静止的；稳定的；不可移动的；经度无明显移动的；不变的"
+                                        },
+                                        {
+                                            "word": "supplementary",
+                                            "mean": "adj. 补充的"
+                                        },
+                                        {
+                                            "word": "temporary",
+                                            "mean": "adj. 暂时的；临时的"
+                                        },
+                                        {
+                                            "word": "necessary",
+                                            "mean": "adj. 必要的；必须的；必需的；根本的；必然的；不可避免的；具有必然性的；迫不得已的；非做不行的；非自愿的"
+                                        },
+                                        {
+                                            "word": "voluntary",
+                                            "mean": "adj. 自愿的；志愿的；义务的；无偿的；随意的"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "形容词后缀, 表示“...的”",
+                                    "affix_type": "suffix"
+                                },
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "rosary",
+                                            "mean": "n. 念珠祈祷；玫瑰经；念珠；《玫瑰经》"
+                                        },
+                                        {
+                                            "word": "dispensary",
+                                            "mean": "n. 药房；医务所；诊所"
+                                        },
+                                        {
+                                            "word": "infirmary",
+                                            "mean": "n. 医院；医务室"
+                                        },
+                                        {
+                                            "word": "library",
+                                            "mean": "n. 图书馆；书房；书斋；系列丛书；图书馆的藏书；资料库；资料室；系列音像资料；软件库"
+                                        },
+                                        {
+                                            "word": "depositary",
+                                            "mean": "n. 保管人；受托人"
+                                        },
+                                        {
+                                            "word": "aviary",
+                                            "mean": "n. 大型鸟舍"
+                                        },
+                                        {
+                                            "word": "granary",
+                                            "mean": "n. 谷仓；粮仓；产粮地"
+                                        },
+                                        {
+                                            "word": "apiary",
+                                            "mean": "n. 养蜂场；蜂窝群"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "名词后缀, 表示\"场所, 地点\"",
+                                    "affix_type": "suffix"
+                                },
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "secretary",
+                                            "mean": "n. 秘书；文书；干事；英国政府大臣；大使的秘书；部长"
+                                        },
+                                        {
+                                            "word": "missionary",
+                                            "mean": "n. 传教士"
+                                        },
+                                        {
+                                            "word": "adversary",
+                                            "mean": "n. 对手；敌手；魔鬼；撒旦；恶棍"
+                                        },
+                                        {
+                                            "word": "revolutionary",
+                                            "mean": "adj. 政治革命的；大变革的；特定革命的；革命性剧变的"
+                                        },
+                                        {
+                                            "word": "notary",
+                                            "mean": "n. 公证人"
+                                        },
+                                        {
+                                            "word": "functionary",
+                                            "mean": "n. 官员；公务员"
+                                        },
+                                        {
+                                            "word": "dignitary",
+                                            "mean": "n. 显贵；要人"
+                                        },
+                                        {
+                                            "word": "plenipotentiary",
+                                            "mean": "n. 全权代表"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "名词后缀, 表示\"从事…的人\"",
+                                    "affix_type": "suffix"
+                                },
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "dictionary",
+                                            "mean": "n. 字典；词典；辞书；参考书"
+                                        },
+                                        {
+                                            "word": "luminary",
+                                            "mean": "n. 杰出人物；泰斗；才智出众的人；人造光源；发光天体"
+                                        },
+                                        {
+                                            "word": "glossary",
+                                            "mean": "n. 词表；术语表；小词典"
+                                        },
+                                        {
+                                            "word": "formulary",
+                                            "mean": "n. 公式汇编；宗教礼节汇编；配方集；处方集；药典"
+                                        },
+                                        {
+                                            "word": "salary",
+                                            "mean": "n. 薪金；薪水"
+                                        },
+                                        {
+                                            "word": "distributary",
+                                            "mean": "n. 分流；支流；汊河"
+                                        },
+                                        {
+                                            "word": "diary",
+                                            "mean": "n. 日记；日志；效率手册；专栏"
+                                        },
+                                        {
+                                            "word": "anniversary",
+                                            "mean": "n. 周年纪念日；结婚纪念日；建国周年纪念日；成立周年纪念日"
+                                        },
+                                        {
+                                            "word": "piscary",
+                                            "mean": "n. 渔场共用权"
+                                        },
+                                        {
+                                            "word": "vocabulary",
+                                            "mean": "n. 词汇；生词表；词汇表；语汇；语言"
+                                        },
+                                        {
+                                            "word": "boundary",
+                                            "mean": "n. 分界线；边界；界限；击球超过边界线得分"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "名词后缀, 表示抽象名词, 无实义",
+                                    "affix_type": "suffix"
+                                }
+                            ],
+                            "affix": "-ary",
+                            "affix_mean": "...的"
+                        }
+                    ],
+                    "word": "summary",
+                    "word_mean": "n. 总结"
+                }
+            },
+            "sentencesData": {
+                "status": 1,
+                "info": "notZh2En",
+                "data": {}
+            },
+            "isAutoMatch": false,
+            "Zh2En": false
+        },
+        "query": "summary",
+        "result": "摘要",
+        "tabSelect": "detail",
+        "dictionaryType": "oxford_buchong",
+        "notFound_show": false,
+        "phoneticShow": "",
+        "globalShowTranslateRecord": "",
+        "pronPrefer": {
+            "type": "usa_1",
+            "speaker": "male",
+            "speed": "standard"
+        },
+        "ServerRecord": "",
+        "ServerUIGS": {
+            "version": "new",
+            "type": "all",
+            "stype": "success",
+            "terminal": "web",
+            "fr": "default",
+            "direction": "etoz",
+            "from": "en",
+            "to": "zh-CHS",
+            "len": 7,
+            "qtype": "text",
+            "qctype": "qc_1",
+            "dict_cover": 1,
+            "detail": 1,
+            "wordCardCover": 1,
+            "wordCardEn": 1,
+            "wordCardCh": 0,
+            "wordCardMinor": 0,
+            "wordCardNetmean": 0,
+            "wordDeform": 1,
+            "keyword": 0,
+            "bilingual": 1,
+            "simple": 0,
+            "levelList": 1,
+            "synonym": 1,
+            "antonym": 0,
+            "conjugate": 1,
+            "rootaffix": 1,
+            "baike_sogou": 1,
+            "baike_wiki": 0,
+            "wordDifference": 1,
+            "word_phrase": 1,
+            "secondQuery": 0,
+            "dict_oxford": 0,
+            "dict_newcentury": 0,
+            "zhongkaotab": 1,
+            "gaokaotab": 1,
+            "CET4tab": 1,
+            "CET6tab": 1,
+            "kaoyantab": 1,
+            "network_tab": 0,
+            "yinying_tab": 0,
+            "tuozhan_tab": 0,
+            "one_pic": 0,
+            "more_pic": 0,
+            "no_pic": 0,
+            "uuid": "29dc7d74-ae77-4f2c-97ae-9c2f98359ee7",
+            "from_type": 0,
+            "t_trans_ssr": 179
+        },
+        "ServerModelUIGS": {
+            "terminal": "web",
+            "type": "trans_model",
+            "pbtype": "pv",
+            "model_general": 1,
+            "model_medical": 1,
+            "model_finance": 1
+        },
+        "ServerSgtkn": "65045BF95488E74E44426DF87C52281D45D4B27A67553A51",
+        "suggShow": false,
+        "suggestion": "",
+        "suggDirection": "",
+        "usualTop": "",
+        "baseDict": "",
+        "wordCardClick": false,
+        "isFrInput": false,
+        "kanaTips": {
+            "show": false,
+            "left": "",
+            "top": "",
+            "type": "",
+            "arrowLeft": ""
+        },
+        "currSentenceIndex": -1,
+        "prefixStrObj": {
+            "prefixStr": "",
+            "oriPrefixStr": ""
+        },
+        "selectTransBox": {
+            "show": false,
+            "right": 0,
+            "top": 0,
+            "paraphraseInfo": {
+                "word": "",
+                "from": "",
+                "to": "",
+                "area": ""
+            }
+        },
+        "sentenceLoading": false,
+        "newSentenceInfo": {
+            "sentence": "",
+            "candidateIndex": 0
+        },
+        "moreTipInfo": {
+            "opacity": 0,
+            "zIndex": -1
+        },
+        "paraphraseShowInfo": {
+            "card": 0,
+            "query": "",
+            "card_dict": 0
+        },
+        "selectType": "",
+        "wordPos": 0,
+        "candidateWord": "",
+        "syntaxVisible": false,
+        "syntaxStatus": 0
+    },
+    "language": {
+        "from": "auto",
+        "to": "zh-CHS",
+        "detect": "en",
+        "model": "general",
+        "detectShow": false,
+        "langMap": {
+            "current": ""
+        },
+        "zh2en": false,
+        "fromItemList": [
+            {
+                "lang": "auto",
+                "text": "自动检测",
+                "play": false
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "ko",
+                "text": "韩语",
+                "play": true,
+                "abbr": "韩"
+            },
+            {
+                "lang": "ru",
+                "text": "俄语",
+                "play": true,
+                "abbr": "俄"
+            },
+            {
+                "lang": "th",
+                "text": "泰语",
+                "play": true,
+                "abbr": "泰"
+            }
+        ],
+        "toItemList": [
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "ko",
+                "text": "韩语",
+                "play": true,
+                "abbr": "韩"
+            },
+            {
+                "lang": "vi",
+                "text": "越南语",
+                "play": true,
+                "abbr": "越"
+            },
+            {
+                "lang": "fr",
+                "text": "法语",
+                "play": true,
+                "abbr": "法"
+            }
+        ]
+    },
+    "voice": {
+        "from": {
+            "lang": "en",
+            "type": "from",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22summary%22%2C%22spokenDialect%22%3A%22en%22%2C%22rate%22%3A%220.8%22%7D",
+            "list": [
+                {
+                    "type": "uk_0",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "ˈsʌməri",
+                    "abbr": "英",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/1476_summary_uk.mp3"
+                },
+                {
+                    "type": "usa_1",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "ˈsʌməri",
+                    "abbr": "美",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/1476_summary_usa.mp3"
+                }
+            ],
+            "stype": "phonetic",
+            "phoneticShow": [
+                {
+                    "text": "ˈsʌməri",
+                    "type": "uk",
+                    "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/1476_summary_uk.mp3"
+                }
+            ]
+        },
+        "to": {
+            "lang": "zh",
+            "type": "to",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22%E6%91%98%E8%A6%81%22%2C%22spokenDialect%22%3A%22zh-CHS%22%2C%22rate%22%3A%220.8%22%7D",
+            "stype": "normal"
+        }
+    }
+}

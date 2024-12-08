@@ -1,0 +1,1289 @@
+{
+    "route": {
+        "name": "text",
+        "path": "/text",
+        "hash": "",
+        "query": {
+            "keyword": "evil",
+            "transfrom": "auto",
+            "transto": "zh-CHS",
+            "model": "general",
+            "errcode": "s10"
+        },
+        "params": {},
+        "fullPath": "/text?keyword=evil&transfrom=auto&transto=zh-CHS&model=general&errcode=s10",
+        "meta": {
+            "mtype": [
+                "textTranslate",
+                "language",
+                "voice"
+            ]
+        },
+        "from": {
+            "name": null,
+            "path": "/",
+            "hash": "",
+            "query": {},
+            "params": {},
+            "fullPath": "/",
+            "meta": {}
+        }
+    },
+    "common": {
+        "CONFIG": {
+            "wuid": 1733642479812,
+            "loginInfo": {},
+            "isIE": 0,
+            "isHitSsrSwitch": true,
+            "isHitWritebookSwitch": false,
+            "isHitAmsSwitch": true,
+            "promotionList": "{\n    \"pc_bottom\":{\n        \"imgsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\",\n        \"qcsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\"\n    },\n    \"pc_middle\":[\n        {\n            \"src\":\"//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c\",\n            \"bgColor\":\"#ffffff\",\n            \"link\":\"\"\n        }\n    ],\n    \"pc_survey\":{\n        \"icon\":\"//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750\",\n        \"link\":\"https://wj.qq.com/s2/8193148/806d/\"\n    }\n}",
+            "bannerData": [],
+            "isHitAsideSurvey": false,
+            "secretCode": 109984457,
+            "uuid": "33c8b212-3a97-47c8-911b-00ca6faf4020",
+            "referer": "",
+            "approveToken": "6519CD708E4F26888385AC399BA9BE24845F23E3675548EF",
+            "loadTime": 1733642479813,
+            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0",
+            "fcp": "159.89.9.38",
+            "temporaryId": "",
+            "fileId": ""
+        },
+        "hotWords": [],
+        "isFromCollect": false,
+        "psdModify": {
+            "currentStep": 1,
+            "scode": "",
+            "username": ""
+        },
+        "loginStatus": true,
+        "feedBackModule": false,
+        "showPromotionPopup": {
+            "show": false,
+            "type": ""
+        },
+        "showPromotionPCDownload": false,
+        "showShareBomb": false,
+        "shareData": null,
+        "showAppDownLoad": false,
+        "showLoginDialog": false,
+        "showLoading": {
+            "show": false
+        },
+        "toast": {
+            "show": false,
+            "text": "",
+            "loading": false
+        },
+        "modelToast": {
+            "show": false,
+            "text": ""
+        },
+        "selectionGlobalShow": true,
+        "selectionInfo": {
+            "left": 0,
+            "top": 0,
+            "show": false,
+            "from": "",
+            "to": "",
+            "val": "",
+            "area": ""
+        },
+        "showConfirmDialog": false,
+        "promotionList": {
+            "pc_bottom": {
+                "imgsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png",
+                "qcsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png"
+            },
+            "pc_middle": [
+                {
+                    "src": "//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c",
+                    "bgColor": "#ffffff",
+                    "link": ""
+                }
+            ],
+            "pc_survey": {
+                "icon": "//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750",
+                "link": "https://wj.qq.com/s2/8193148/806d/"
+            }
+        },
+        "transTypeTxt": "text",
+        "fixedTabStatus": 0,
+        "bodyTop": 0,
+        "ifHideUserOperation": false
+    },
+    "textTranslate": {
+        "prevTransQuery": "",
+        "translateData": {
+            "translate": {
+                "zly": "zly",
+                "errorCode": "0",
+                "qc_type": "1",
+                "index": "content0",
+                "from": "en",
+                "source": "sogou",
+                "text": "evil",
+                "to": "zh-CHS",
+                "id": "33c8b212-3a97-47c8-911b-00ca6faf4020",
+                "dit": "邪恶",
+                "orig_text": "evil",
+                "md5": ""
+            },
+            "detect": {
+                "zly": "zly",
+                "detect": "en",
+                "errorCode": "0",
+                "language": "英语",
+                "id": "05466b90-b535-11ef-a005-ab6ea336d6cd",
+                "text": "evil"
+            },
+            "sgtkn": "6519CD798E4F26888385AC399BA9BE24845F23E3675548EF",
+            "wordCard": {
+                "title": "evil",
+                "show": true,
+                "usualDict": [
+                    {
+                        "values": [
+                            "邪恶的；不幸的；恶毒的；有害的；道德败坏的；讨厌的；脾气坏的"
+                        ],
+                        "pos": "adj."
+                    },
+                    {
+                        "values": [
+                            "邪恶；罪恶；恶行；不幸；灾祸"
+                        ],
+                        "pos": "n."
+                    }
+                ],
+                "secondQuery": "",
+                "exchange": {
+                    "word_pl": [
+                        "evils"
+                    ],
+                    "word_est": [
+                        "evilest",
+                        "evillest"
+                    ],
+                    "word_er": [
+                        "eviler",
+                        "eviller"
+                    ]
+                },
+                "levelList": [
+                    "高中",
+                    "四级",
+                    "六级",
+                    "考研",
+                    "考博"
+                ]
+            },
+            "detail": {
+                "synonym": [
+                    {
+                        "word_list": [
+                            "harmful",
+                            "ill",
+                            "black",
+                            "ugly",
+                            "wicked"
+                        ],
+                        "pos": "adj.",
+                        "mean": "邪恶的；不幸的；有害的；讨厌的"
+                    },
+                    {
+                        "word_list": [
+                            "sin",
+                            "disaster",
+                            "crime",
+                            "grief"
+                        ],
+                        "pos": "n.",
+                        "mean": "罪恶，邪恶；不幸"
+                    }
+                ],
+                "antonym": [
+                    {
+                        "word_list": [
+                            "good",
+                            "goodness"
+                        ],
+                        "pos": "",
+                        "mean": ""
+                    }
+                ],
+                "wordRootInfo": {
+                    "word_info_list": [
+                        {
+                            "word": "evilly",
+                            "pos_mean_info_list": [
+                                {
+                                    "pos": "adv.",
+                                    "mean": "邪恶地"
+                                }
+                            ]
+                        },
+                        {
+                            "word": "evilness",
+                            "pos_mean_info_list": [
+                                {
+                                    "pos": "n.",
+                                    "mean": "邪恶；恶运；有害"
+                                }
+                            ]
+                        }
+                    ],
+                    "root_word": "evil"
+                },
+                "word_difference_info": [
+                    {
+                        "common_mean": "坏的",
+                        "word_list": [
+                            "ill",
+                            " poor",
+                            " bad",
+                            " evil",
+                            " wicked"
+                        ],
+                        "word_mean_info__list": [
+                            {
+                                "difference": "与evil意义接近，但语气弱一些，常指道德或性质方面的不良。",
+                                "word": "ill"
+                            },
+                            {
+                                "difference": "普通用词，侧重指事物的质量或数量低于标准或不合要求。用于指天气与食品时可与bad通用。",
+                                "word": "poor"
+                            },
+                            {
+                                "difference": "含义广泛，指任何不好的或不合需要的品质。",
+                                "word": "bad"
+                            },
+                            {
+                                "difference": "语气比bad强，强调道德上的邪恶不良，含狡猾凶险或危害他人的意味。",
+                                "word": "evil"
+                            },
+                            {
+                                "difference": "语气比evil强，指居心叵测，任意违反道德标准，有意作恶。",
+                                "word": "wicked"
+                            }
+                        ]
+                    }
+                ],
+                "word_group": [
+                    {
+                        "brief_definition": "不想要但又必须接受的事物",
+                        "phrase": "a necessary evil",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "金钱（或贪财）乃万恶之源",
+                        "phrase": "money is the root of all evil",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "讲…的坏话；诽谤；中伤",
+                        "phrase": "speak evil of",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "金钱（或贪财）乃万恶之源",
+                        "phrase": "the love of money is the root of all evil",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "两害之较轻者；两种不愉快中较小者",
+                        "phrase": "the lesser evil",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "尽量推迟令人不快的事的到来",
+                        "phrase": "put off the evil hour",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "尽量推迟令人不快的事的到来",
+                        "phrase": "put off the evil day",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "淋巴结结核",
+                        "phrase": "king's evil",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "邪恶的灵魂；鬼怪；邪灵",
+                        "phrase": "evil spirits",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "妖精；妖邪；邪灵",
+                        "phrase": "evil spirit",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "不可避免的灾祸",
+                        "phrase": "necessary evil",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "恶眼；邪恶之眼",
+                        "phrase": "evil eye",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "邪恶的行为；恶行",
+                        "phrase": "evil deed",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "不良影响",
+                        "phrase": "evil influence",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "生化危机",
+                        "phrase": "resident evil",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "恶劣的影响",
+                        "phrase": "evil effect",
+                        "pos": ""
+                    }
+                ],
+                "bilingual": [
+                    {
+                        "source": "He is an <em>evil</em> person.",
+                        "target": "他是个邪恶的人。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Find that <em>evil</em> criminal before he steals all my animals.",
+                        "target": "在他偷走我所有的动物之前找到那个邪恶的罪犯。",
+                        "url": ""
+                    },
+                    {
+                        "source": "He has an <em>evil</em> plan.",
+                        "target": "他有一个邪恶的计划。",
+                        "url": ""
+                    },
+                    {
+                        "source": "The story is about an <em>evil</em> hag.",
+                        "target": "这个故事讲述了一位邪恶的魔女。",
+                        "url": ""
+                    },
+                    {
+                        "source": "An <em>evil</em> laugh echoed in the room.",
+                        "target": "邪恶的笑声回荡在房间里。",
+                        "url": ""
+                    },
+                    {
+                        "source": "They must defeat the <em>evil</em> forces.",
+                        "target": "他们必须打败邪恶的势力。",
+                        "url": ""
+                    },
+                    {
+                        "source": "The story is about an <em>evil</em> witch.",
+                        "target": "那个故事讲的是一个邪恶的巫婆。",
+                        "url": ""
+                    },
+                    {
+                        "source": "The hero vowed to smite the <em>evil</em> king.",
+                        "target": "英雄发誓要打击邪恶的国王。",
+                        "url": ""
+                    },
+                    {
+                        "source": "He has an <em>evil</em> plan to take over the world.",
+                        "target": "他有一个邪恶的计划要统治世界。",
+                        "url": ""
+                    },
+                    {
+                        "source": "The <em>evil</em> witch cast a spell on the village.",
+                        "target": "邪恶的女巫对村庄施了咒语。",
+                        "url": ""
+                    }
+                ],
+                "baike": {
+                    "showMore": false,
+                    "list": [
+                        {
+                            "lemmaTitle": "Evil",
+                            "link": "https://baike.sogou.com/v155007635.htm?ch=sogou.fanyi",
+                            "abstract": "火影忍者背景音乐，把邪恶，诡异，恐慌的气氛表现得淋漓尽致，尤其是在鸣人一行对抗桃地再不斩和白时，曾多次出现",
+                            "wapPic": "//img01.sogoucdn.com/v2/thumb/retype_exclude_gif/ext/auto/q/80/crop/xy/ai/w/140/h/140/resize/w/140?appid=201005&sign=fd6a8dd9e82c5d9bad58de4f24a7c712&url=http%3A%2F%2Fpic.baike.soso.com%2Fugc%2Fbaikepic2%2F355%2F20220415135815-840274622_png_539_359_297356.jpg%2F0",
+                            "pcPic": "//img02.sogoucdn.com/v2/thumb/retype_exclude_gif/ext/auto/q/80/crop/xy/ai/w/140/h/140/resize/w/140?appid=201005&sign=fd6a8dd9e82c5d9bad58de4f24a7c712&url=http%3A%2F%2Fpic.baike.soso.com%2Fugc%2Fbaikepic2%2F355%2F20220415135815-840274622_png_539_359_297356.jpg%2F0"
+                        },
+                        {
+                            "lemmaTitle": "Evil",
+                            "link": "https://baike.sogou.com/v3668990.htm?ch=sogou.fanyi",
+                            "abstract": "EVIL是Electronic Viewfinder Interchangeable Lens（电子取景可换镜头相机）四个单词的缩写（也就是现在俗称的单电）。它取消原有的反光板以及五棱镜、目镜等组件，缩小了法兰焦距。",
+                            "wapPic": "//img01.sogoucdn.com/v2/thumb/retype_exclude_gif/ext/auto/q/80/crop/xy/ai/w/140/h/140/resize/w/140?appid=201005&sign=cc3fd516abb6709bebae3f74acb6df24&url=https%3A%2F%2Fpic.baike.soso.com%2Fugc%2Fbaikepic2%2F15124%2F20220421122429-728064569_jpeg_320_480_32631.jpg%2F800",
+                            "pcPic": "//img01.sogoucdn.com/v2/thumb/retype_exclude_gif/ext/auto/q/80/crop/xy/ai/w/140/h/140/resize/w/140?appid=201005&sign=cc3fd516abb6709bebae3f74acb6df24&url=https%3A%2F%2Fpic.baike.soso.com%2Fugc%2Fbaikepic2%2F15124%2F20220421122429-728064569_jpeg_320_480_32631.jpg%2F800"
+                        }
+                    ]
+                }
+            },
+            "book": {
+                "yingyinNormal": [
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/649fb0da5e02febcad57f332efe07876_46469.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/9929dd65864270cc83f1556f245d6bcf_66152.mp3",
+                        "isLavafox": true,
+                        "en": "Hans? Hans! Yo, <em>evil</em> twin!",
+                        "zh": "汉斯？汉斯！邪恶的双胞胎。",
+                        "videoNameZh": "《老友记 第二季》",
+                        "videoNameEn": "《Friends Season 2》",
+                        "url": "http://bisentence_movie.sogou.com/a7752efa6f6a56455d6cfec5f3064955_38da8e8a1e6bef89768a5e65edfd761091d32f18"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/ec157b0b25b8b35a32470033c8b04071_55002.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/7b2d87e6be32b40d7f1f5b5cb06afa14_49698.mp3",
+                        "isLavafox": true,
+                        "en": "My aunts said it was an <em>evil</em> fairy.",
+                        "zh": "我的阿姨说，那是一个邪恶的仙女。",
+                        "videoNameZh": "《沉睡魔咒》",
+                        "videoNameEn": "《Maleficent》",
+                        "url": "http://bisentence_movie.sogou.com/4edad42a846465b75d2c2bddd399884c_9dc6984439499fc8f1a164fc8cd972a93fc1ccc2"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/791389553cedc2dca8e4f0bcddd956ec_6163.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/0a9872a30e2d816ebef7554e9846942d_18742.mp3",
+                        "isLavafox": true,
+                        "en": "Ninth-century Japan. An <em>evil</em> warlord ruled the land.",
+                        "zh": "9世纪的日本，邪恶的军阀统治了当地。",
+                        "videoNameZh": "《忍者神龟：变种时代》",
+                        "videoNameEn": "《Teenage Mutant Ninja Turtles》",
+                        "url": "http://bisentence_movie.sogou.com/d59c4ba1bef6baeb0b44e2d457621e85_b17a00d1c339da25e9a99f481d9a856882a10640"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/3b7000d513bd4ca5dc4688820b246170_37746.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/8ed6f2d5dae514523923beb0a3764ef2_6450.mp3",
+                        "isLavafox": true,
+                        "en": "How sad is it that my own <em>evil</em> doppelganger was smarter than me?",
+                        "zh": "我邪恶的二重身居然比我聪明，这多可悲啊。",
+                        "videoNameZh": "《吸血鬼日记 第六季》",
+                        "videoNameEn": "《The Vampire Diaries Season 6》",
+                        "url": "http://bisentence_movie.sogou.com/045ba7597d9dc76855a4801b99675464_7522a0fac907c409158b44f9d9c935d59cf91f1e"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/ca940f411633b0de0be4ac84edea3b87_62478.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/9c509f186b32d1cac87e54f3558b06f1_25651.mp3",
+                        "isLavafox": true,
+                        "en": "We feel awful, Larry. Something took hold of us like an <em>evil</em> spell.",
+                        "zh": "我们感觉糟透了，拉瑞。好像有邪恶的魔咒缠着我们！",
+                        "videoNameZh": "《博物馆奇妙夜3》",
+                        "videoNameEn": "《Night at the Museum: Secret of the Tomb》",
+                        "url": "http://bisentence_movie.sogou.com/57498171cd960cb18d0da3bd324a8848_5a2ee4be0710fc8ef5881a4d99735d4f0e934967"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/aa7a748a86497e02e2b0a5098f3017b8_12619.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/9353a5b4beec3358c7fb3a7c8f39086c_13023.mp3",
+                        "isLavafox": true,
+                        "en": "I'm intrigued that my friends don't realize that you are an <em>evil</em> genius.",
+                        "zh": "我感兴趣的是我的朋友们居然没发现是你个邪恶的天才。",
+                        "videoNameZh": "《女孩成长记 第一季》",
+                        "videoNameEn": "《Girl Meets World Season 1》",
+                        "url": "http://bisentence_movie.sogou.com/2bc96514f357112311fe651b45068783_c807cd337c59163aa8d95c0467d9c5f0e918180c"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/dfdc97c7eab31e173bc0bccd4824440f_23407.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/a73b7665050429b06f24224937e40f4f_124.mp3",
+                        "isLavafox": true,
+                        "en": "I was like the Tin Man, perfectly content until that <em>evil</em> Wizard gave him a heart.",
+                        "zh": "当时的我就像铁皮人，对现状非常满足直到邪恶的巫师给了他一颗心。",
+                        "videoNameZh": "《生活大爆炸 第九季》",
+                        "videoNameEn": "《The Big Bang Theory Season 9》",
+                        "url": "http://bisentence_movie.sogou.com/b4243aa029ec4835e260d8c84d354ba1_65bb245ae1cbfe95c187804f5d904ad816dadfd3"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/9c83d7152fb0df988f6a1de8ac273775_53611.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/4eb811db0213b1ab9f8a9c070c51ef52_30954.mp3",
+                        "isLavafox": true,
+                        "en": "A mark like that only comes from being touched by a curse and an <em>evil</em> cursed at that.",
+                        "zh": "只有接触到魔咒才会留下那样的疤痕，一种邪恶的魔咒。",
+                        "videoNameZh": "《哈利·波特与魔法石》",
+                        "videoNameEn": "《Harry Potter and the Sorcerers Stone》",
+                        "url": "http://bisentence_movie.sogou.com/da5754f1e459b8fa858818ca9d8355a8_a47bb02d2aa8cd2d7f6c6905977081c2cf59cc91"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/886b76b0c552c22c57062be63cf27261_37722.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/e01add38398e4f49f4a81fb1564bfd24_2394.mp3",
+                        "isLavafox": true,
+                        "en": "Then it gets worse because I told him I would see him tomorrow night. Phoebe! I know! <em>Evil</em>!",
+                        "zh": "然后越来越糟糕，因为我答应他明晚跟他见面。菲比！我知道！邪恶的女人！",
+                        "videoNameZh": "《老友记 第九季》",
+                        "videoNameEn": "《Friends Season 9》",
+                        "url": "http://bisentence_movie.sogou.com/0f3a9fa29b5fe665c10a321544a0aa05_17f0b2926476790df95ab96e49d8b5fa2ad284e5"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/5bb981942caf87340ead3bfbb6c619e6_40098.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/1a4358a6c545b61ffbacf4e822a0970f_67694.mp3",
+                        "isLavafox": true,
+                        "en": "No, not because I cheated. Because I'm an <em>evil</em> genius. And you're just a kid. A stupid kid.",
+                        "zh": "不，不是因为我作弊。是因为我是邪恶的天才，你只是一个孩子，笨小孩。",
+                        "videoNameZh": "《海绵宝宝历险记》",
+                        "videoNameEn": "《The SpongeBob SquarePants Movie》",
+                        "url": "http://bisentence_movie.sogou.com/e5b100f1f76115c0023054fb906b7671_2c6c7d34db65668be9146f04ba187a7dd1dadb6d"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/843f614898b212fd0e40a05420b6d904_66325.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/f748effd7328b444ecd5fef087d52815_28529.mp3",
+                        "isLavafox": true,
+                        "en": "They bounced from one <em>evil</em> boss to another. But they never seemed to find their perfect fit.",
+                        "zh": "他们不停更换邪恶的主人，但从未找到一个合适的。",
+                        "videoNameZh": "《小黄人》",
+                        "videoNameEn": "《Minions》",
+                        "url": "http://bisentence_movie.sogou.com/24a90693af7a64424b000f0ac378787f_dbed32a9ebdcc94dfaf888fd007fb62b4fcfcc75"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/8b3da16ecbe350aacc1a7e4a01d210bc_49869.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/f5fe09022a745bfab3bab6ab23841d64_60123.mp3",
+                        "isLavafox": true,
+                        "en": "The name and the address drip with <em>evil</em>. What else do we know about him? Why, quite a bit, actually.",
+                        "zh": "这名字和地址都渗着邪恶的气息。我们还知道什么？还有很多，其实。",
+                        "videoNameZh": "《生活大爆炸 第四季》",
+                        "videoNameEn": "《The Big Bang Theory Season 4》",
+                        "url": "http://bisentence_movie.sogou.com/af7b29acc09c892a44f8bfbfd0157eba_101426a8988ee1a98252bd4bb030b5bdadd81199"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/649fb0da5e02febcad57f332efe07876_46469.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/a0759ac5698c5e48dbe06a0d1a978df9_30598.mp3",
+                        "isLavafox": true,
+                        "en": "Drake, what are you getting at? I'm not Drake. That's right! He's not Drake. He's Hans Ramoray, Drake's <em>evil</em> twin.",
+                        "zh": "德瑞克，你到底要说什么？我不是德瑞克，没错，他不是德瑞克，他是汉斯雷莫瑞，德瑞克邪恶的双胞胎兄弟。",
+                        "videoNameZh": "《老友记 第二季》",
+                        "videoNameEn": "《Friends Season 2》",
+                        "url": "http://bisentence_movie.sogou.com/79031ba50a1126902a2528ecaff8b5fc_dea6f2f97bbd43b10f771728af74ec0beacf4618"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/ae9d6f2f04858f0af8517ff08116148e_6738.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/7e59d59c37c81c2d8c5df496f30ce63a_75710.mp3",
+                        "isLavafox": true,
+                        "en": "People who are <em>evil</em> don't believe those lessons anymore, Riley. They stop thinking the world has anything to teach them.",
+                        "zh": "真正邪恶的人听不进去别人的话，莱丽，他们不再相信这个世界还能教他们。",
+                        "videoNameZh": "《女孩成长记 第三季》",
+                        "videoNameEn": "《Girl Meets World Season 3》",
+                        "url": "http://bisentence_movie.sogou.com/7de28fcfba2ef9e9fae072b1c25c22b7_28b3a1f9265d0e3b57d01fec4b74d3076ac80b54"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/ae9d6f2f04858f0af8517ff08116148e_6738.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/6e2d15c5bf5c44274cba47afb6752c9b_8393.mp3",
+                        "isLavafox": true,
+                        "en": "I have started my research, and I will continue down this dark journey that I can only call, \"Riley Matthews: <em>evil</em> person.\"",
+                        "zh": "我开始了研究，并且会继续完成这场黑暗的旅行，然后我就可以被说成：莱丽·马修斯，一个邪恶的人。",
+                        "videoNameZh": "《女孩成长记 第三季》",
+                        "videoNameEn": "《Girl Meets World Season 3》",
+                        "url": "http://bisentence_movie.sogou.com/b39555eca7275776b13562191d6aa8de_d5b0a198a3ffcffe11121a3071579e29c776be71"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/ae9d6f2f04858f0af8517ff08116148e_6738.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/89600adbe538b059e5d362e8fe8af94f_74515.mp3",
+                        "isLavafox": true,
+                        "en": "Well, pay attention, my <em>evil</em> darling, because I have spent my entire life meeting the world, and I know something about it.",
+                        "zh": "注意了，我邪恶的甜心，我的一生都在探寻这个世界，我还是对世界有点了解的。",
+                        "videoNameZh": "《女孩成长记 第三季》",
+                        "videoNameEn": "《Girl Meets World Season 3》",
+                        "url": "http://bisentence_movie.sogou.com/d17afa89cda325b5b56247eae4a279a5_fe9cb27e60d64ce27c41125b2fc049938bf45019"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/490665cd18df7afdfdb0f598300d2a11_15993.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/31ef7b2447507136e29a99026ab0b3ec_60498.mp3",
+                        "isLavafox": true,
+                        "en": "And this is Buzz Light-year, the coolest toy ever! Look, he can fly and shoot lasers. He's sworn to protect the Galaxy from the <em>evil</em> Emperor Zurg.",
+                        "zh": "他是巴斯光年，有史以来最酷的玩具! 看 他会飞，还会发射激光，他发誓要保护银河，不受邪恶的扎克天王侵略。",
+                        "videoNameZh": "《玩具总动员3》",
+                        "videoNameEn": "《Toy Story 3》",
+                        "url": "http://bisentence_movie.sogou.com/3ab04ddc5796b556aed949b97818fc2a_12f25135101114033ca3cbce14f297184ab7fc0d"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/46b4115557598e1ee93285923c5dd556_29528.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/d6140ca9ce6a5f8d151cfda84dd3ece2_56890.mp3",
+                        "isLavafox": true,
+                        "en": "It wasn't necessarily they were <em>evil</em> people. Clearly they were doing awful things and they have stolen millions of dollars of old ladies in reality.",
+                        "zh": "他们并不一定就是坏人。虽然他们做了非常邪恶的事情，且现实中的所作所为相当于从老人那儿偷了上百万美金。",
+                        "videoNameZh": "《怪诞行为学》",
+                        "videoNameEn": "《Predictably Irrational》",
+                        "url": "http://bisentence_movie.sogou.com/af440254328feaccd23880d62db1b9e5_b3fb5c8ca3e1abf9219a103b3fa6776cd55b5542"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/7eb0bec9540cbb2c5939554caf885c99_49670.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/6d5e63a98e018269e988c60b1df0524f_14570.mp3",
+                        "isLavafox": true,
+                        "en": "There's a tribe in Papua new Guinea where, when a hunter flaunts his success to the rest of the village, they kill him and drive away <em>evil</em> spirits with a drum made of his skin.",
+                        "zh": "在巴布亚新几内亚有一个部落，当一个猎人向其他部民炫耀他的成功时，他们宰了他，并敲打他的皮做的鼓以驱逐他邪恶的灵魂。",
+                        "videoNameZh": "《生活大爆炸 第二季》",
+                        "videoNameEn": "《The Big Bang Theory Season 2》",
+                        "url": "http://bisentence_movie.sogou.com/376d83be60257a9f4d407d47762bc3c1_d8ceaf236c71200890e4715f319e8ef9f3e1bae6"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/490665cd18df7afdfdb0f598300d2a11_15993.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/70327ef48f25041598e71d8942bcaeb3_63879.mp3",
+                        "isLavafox": true,
+                        "en": "Now Slinky here, is as loyal as any dog you could want. And Hamm, he'll keep your money safe, but he's also one of the most dastardly villains of all time, <em>Evil</em> Doctor Pork-chop.",
+                        "zh": "这是弹簧狗 他是世界上最忠诚的狗狗。他是火腿，可以帮你保管钱，不过他同时也是最坏的反派角色之一，邪恶的猪排博士。",
+                        "videoNameZh": "《玩具总动员3》",
+                        "videoNameEn": "《Toy Story 3》",
+                        "url": "http://bisentence_movie.sogou.com/df49d8e8704257878d158317f8c51a9f_5d06f0db6923431445b93c3853f5ba418897790d"
+                    }
+                ]
+            },
+            "pic": "",
+            "voice": {
+                "phonetic": [
+                    {
+                        "text": "ˈiːvl",
+                        "type": "uk",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/4855_evil_uk.mp3"
+                    },
+                    {
+                        "text": "ˈiːvl",
+                        "type": "usa",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/4855_evil_usa.mp3"
+                    }
+                ]
+            },
+            "dictType": "oxford_buchong",
+            "kaoyan": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 1,
+                        "pos": "adj/n",
+                        "chinese": "邪恶的; 罪恶",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "evil",
+                "direction_info": {
+                    "ranges": 12,
+                    "description": "数据源自2012-2023年12年间全国考研试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2012-2023年全国考研英语一和考研英语二共24套考研试卷，包括阅读、完型填空、翻译、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选全国考研考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2012-2023年12年间全国考研英语一和考研英语二试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 1,
+                "total_exam_freq": 1,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "profoundly immoral and malevolent",
+                            "zh": "邪恶的; 罪恶",
+                            "pos": "adj/n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "Bring out more <highlight>evils</highlight> of human nature.",
+                                    "month": -1,
+                                    "source": "英语二",
+                                    "coll": "",
+                                    "sentence_trans": "带来更多人性的邪恶。",
+                                    "year": 2012,
+                                    "type": "阅读理解A",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "word_usage": [
+                    {
+                        "usage": "evil作形容词时，常用于名词之前，修饰该名词，如：an evil man"
+                    },
+                    {
+                        "usage": "evil作名词，表示“害处；坏处”时，为可数名词，常用复数形式，如：the evils of drugs"
+                    }
+                ],
+                "disambiguation": [
+                    {
+                        "disambiguation_list": [
+                            {
+                                "word": "evil",
+                                "sense_disambiguation": "都包含随意违反道德观念，都指道德上存在问题或本质不好。"
+                            },
+                            {
+                                "word": "ill",
+                                "sense_disambiguation": "在指道德问题时，比evil要弱一些，现主要用于某些成语。例如ill-gotten gains，指“不义之财”。"
+                            },
+                            {
+                                "word": "bad",
+                                "sense_disambiguation": "可以指纯粹的不满意或腐败、堕落。"
+                            }
+                        ],
+                        "sense_group": "糟糕的; 坏的"
+                    }
+                ]
+            },
+            "CET6": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 2,
+                        "pos": "adj/n",
+                        "chinese": "邪恶",
+                        "sense_tier_ratio": 66.67
+                    },
+                    {
+                        "sense_tier": 1,
+                        "pos": "phr",
+                        "chinese": "(a necessary evil)不得已的事",
+                        "sense_tier_ratio": 33.33
+                    }
+                ],
+                "word": "evil",
+                "word_level_phrase_info": [
+                    {
+                        "brief_definition": "不想要但又必须接受的事物",
+                        "phrase": "a necessary evil",
+                        "pos": "phr"
+                    }
+                ],
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2016.6-2023.6年8年间全六级试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight>考纲释义</highlight>\n精选实考、考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2016-2023年51套试卷，包括阅读、听力、翻译等所有题型。\n\n<highlight>真题例句</highlight>\n精选2016-2023年8年间全六级试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 1,
+                "total_exam_freq": 3,
+                "sense": {
+                    "sense_num": 2,
+                    "sense_info_list": [
+                        {
+                            "en": "profoundly immoral and malevolent",
+                            "zh": "邪恶",
+                            "pos": "adj/n",
+                            "synonyms": "cruel,vicious,detrimental",
+                            "antonyms": "good,beneficial",
+                            "examination_example": [
+                                {
+                                    "sentence": "As a punishment for Prometheus' crime, the gods created Pandora and they gave her a box filled with <highlight>evils</highlight> and curses.",
+                                    "month": 12,
+                                    "source": "CET6",
+                                    "coll": "",
+                                    "sentence_trans": "为了惩罚普罗米修斯的罪行，众神创造了潘多拉，并给了她一个装满邪恶和诅咒的盒子。",
+                                    "year": 2020,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Using one <highlight>evil</highlight> to combat the other.",
+                                    "month": 6,
+                                    "source": "CET6",
+                                    "coll": "",
+                                    "sentence_trans": "用一种邪恶来对抗另一种邪恶。",
+                                    "year": 2018,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                }
+                            ]
+                        },
+                        {
+                            "en": "a thing that is bad or that you do not like but which you must accept for a particular reason",
+                            "zh": "(a necessary evil)不得已的事",
+                            "pos": "phr",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "It is by and large a necessary <highlight>evil</highlight>.",
+                                    "month": 6,
+                                    "source": "CET6",
+                                    "coll": "",
+                                    "sentence_trans": "总的来说，它是一种不可避免的邪恶。",
+                                    "year": 2021,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "disambiguation": [
+                    {
+                        "disambiguation_list": [
+                            {
+                                "word": "bad",
+                                "sense_disambiguation": "含义广泛, 如可表示\"不舒服\"、\"糟糕的\"、\"严重的\"、\"腐烂的\"等含义, 指任何不好的或不合需要的品质, 可用于修饰人或事物。"
+                            },
+                            {
+                                "word": "badly",
+                                "sense_disambiguation": "副词,不好,但与 need, want, require 连用为\"很,非常\" I need the book badly."
+                            },
+                            {
+                                "word": "evil",
+                                "sense_disambiguation": "语气比 bad 强, 强调道德上的邪恶不良, 含狡猾凶险或危害他人的意味。"
+                            },
+                            {
+                                "word": "ill",
+                                "sense_disambiguation": "ill 与 evil 意义接近, 但语气弱一些, 常指道德或性质方面的不良, 通常只作定语。"
+                            }
+                        ],
+                        "sense_group": "坏的"
+                    }
+                ],
+                "exchange_info": {
+                    "word_pl": [
+                        "evils"
+                    ],
+                    "word_er": [
+                        "eviler",
+                        "eviller"
+                    ],
+                    "word_est": [
+                        "evilest",
+                        "evillest"
+                    ]
+                }
+            },
+            "CET4": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 3,
+                        "pos": "adj/n",
+                        "chinese": "邪恶",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "evil",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2016.6-2023.6年8年间全四级试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight>考纲释义</highlight>\n精选实考、考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2016-2023年51套试卷，包括阅读、听力、翻译等所有题型。\n\n<highlight>真题例句</highlight>\n精选2016-2023年8年间试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 1,
+                "total_exam_freq": 3,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "profoundly immoral and malevolent",
+                            "zh": "邪恶",
+                            "pos": "adj/n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "There are also rules dealing with interpersonal relationships: Be a responsible human being and do not do <highlight>evil</highlight> things to others.",
+                                    "month": 6,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "处理人际关系也有规则：做一个负责任的人，不要对别人做坏事。",
+                                    "year": 2016,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "disambiguation": [
+                    {
+                        "disambiguation_list": [
+                            {
+                                "word": "bad",
+                                "sense_disambiguation": "含义广泛，如可表示\"不舒服\"、\"糟糕的\"、\"严重的\"、\"腐烂的\"等含义，指任何不好的或不合需要的品质，可用于修饰人或事物。"
+                            },
+                            {
+                                "word": "badly",
+                                "sense_disambiguation": "副词,不好,但与 need，want，require 连用为\"很,非常\" I need the book badly."
+                            },
+                            {
+                                "word": "evil",
+                                "sense_disambiguation": "语气比 bad 强，强调道德上的邪恶不良，含狡猾凶险或危害他人的意味。"
+                            },
+                            {
+                                "word": "ill",
+                                "sense_disambiguation": "ill 与 evil 意义接近，但语气弱一些，常指道德或性质方面的不良，通常只作定语。"
+                            }
+                        ],
+                        "sense_group": "坏的"
+                    }
+                ],
+                "exchange_info": {
+                    "word_pl": [
+                        "evils"
+                    ],
+                    "word_er": [
+                        "eviler",
+                        "eviller"
+                    ],
+                    "word_est": [
+                        "evilest",
+                        "evillest"
+                    ]
+                }
+            },
+            "gaokao": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 1,
+                        "pos": "adj/n",
+                        "chinese": "邪恶",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "evil",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2015-2022年8年间全国卷和自主命题省市高考卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2015-2022年全国卷高考试卷，包括阅读、完形、单选、填空、听力、改错、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选各省市考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2015-2022年8年间全国卷和自主命题省市高考卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 1,
+                "total_exam_freq": 1,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "profoundly immoral and malevolent",
+                            "zh": "邪恶",
+                            "pos": "adj/n",
+                            "synonyms": "cruel,vicious,detrimental",
+                            "antonyms": "good,beneficial",
+                            "examination_example": [
+                                {
+                                    "sentence": "After a serious flu outbreak wipes out 99.4% of the world's population, a battle unfolds between good and <highlight>evil</highlight> among those let.",
+                                    "month": -1,
+                                    "source": "全国卷2",
+                                    "coll": "",
+                                    "sentence_trans": "一场严重的流感爆发，摧毁了世界上99.4%的人口，一场正义与邪恶的战争就此展开。",
+                                    "year": 2019,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "disambiguation": [
+                    {
+                        "disambiguation_list": [
+                            {
+                                "word": "bad",
+                                "sense_disambiguation": "含义广泛，如可表示\"不舒服\"、\"糟糕的\"、\"严重的\"、\"腐烂的\"等含义，指任何不好的或不合需要的品质，可用于修饰人或事物。"
+                            },
+                            {
+                                "word": "badly",
+                                "sense_disambiguation": "副词，不好，但与 need，want，require 连用为\"很，非常\" I need the book badly."
+                            },
+                            {
+                                "word": "evil",
+                                "sense_disambiguation": "语气比 bad 强，强调道德上的邪恶不良，含狡猾凶险或危害他人的意味。"
+                            },
+                            {
+                                "word": "ill",
+                                "sense_disambiguation": "ill 与 evil 意义接近，但语气弱一些，常指道德或性质方面的不良，通常只作定语。"
+                            }
+                        ],
+                        "sense_group": "坏的"
+                    }
+                ],
+                "exchange_info": {
+                    "word_pl": [
+                        "evils"
+                    ],
+                    "word_er": [
+                        "eviler",
+                        "eviller"
+                    ],
+                    "word_est": [
+                        "evilest",
+                        "evillest"
+                    ]
+                }
+            },
+            "zhongkao": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 1,
+                        "pos": "adj/n",
+                        "chinese": "邪恶",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "evil",
+                "direction_info": {
+                    "ranges": 4,
+                    "description": "数据源自2018-2021年4年间全国各省市中考试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2018-2021年全国重点省市中考试卷，包括听力、阅读、完形、单选、填空、改错、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选各省市考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2018-2021年4年间全国各省市中考试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 1,
+                "total_exam_freq": 1,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "profoundly immoral and malevolent",
+                            "zh": "邪恶",
+                            "pos": "adj/n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "Hanging herbs (草药) on the front door is also popular，which is meant to protect people from <highlight>evil</highlight> (邪恶) and illness.",
+                                    "month": -1,
+                                    "source": "大庆市卷",
+                                    "coll": "",
+                                    "sentence_trans": "在前门挂药也很受欢迎，这是为了保护人们免受邪恶和疾病的侵害。",
+                                    "year": 2021,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            "sentencesData": {
+                "status": 1,
+                "info": "notZh2En",
+                "data": {}
+            },
+            "isAutoMatch": false,
+            "Zh2En": false
+        },
+        "query": "evil",
+        "result": "邪恶",
+        "tabSelect": "detail",
+        "dictionaryType": "oxford_buchong",
+        "notFound_show": false,
+        "phoneticShow": "",
+        "globalShowTranslateRecord": "",
+        "pronPrefer": {
+            "type": "usa_1",
+            "speaker": "male",
+            "speed": "standard"
+        },
+        "ServerRecord": "",
+        "ServerUIGS": {
+            "version": "new",
+            "type": "all",
+            "stype": "success",
+            "terminal": "web",
+            "fr": "default",
+            "direction": "etoz",
+            "from": "en",
+            "to": "zh-CHS",
+            "len": 4,
+            "qtype": "text",
+            "qctype": "qc_1",
+            "dict_cover": 1,
+            "detail": 1,
+            "wordCardCover": 1,
+            "wordCardEn": 1,
+            "wordCardCh": 0,
+            "wordCardMinor": 0,
+            "wordCardNetmean": 0,
+            "wordDeform": 1,
+            "keyword": 0,
+            "bilingual": 1,
+            "simple": 0,
+            "levelList": 1,
+            "synonym": 1,
+            "antonym": 1,
+            "conjugate": 1,
+            "rootaffix": 0,
+            "baike_sogou": 1,
+            "baike_wiki": 0,
+            "wordDifference": 1,
+            "word_phrase": 1,
+            "secondQuery": 0,
+            "dict_oxford": 0,
+            "dict_newcentury": 0,
+            "zhongkaotab": 1,
+            "gaokaotab": 1,
+            "CET4tab": 1,
+            "CET6tab": 1,
+            "kaoyantab": 1,
+            "network_tab": 0,
+            "yinying_tab": 1,
+            "tuozhan_tab": 0,
+            "one_pic": 0,
+            "more_pic": 0,
+            "no_pic": 0,
+            "uuid": "33c8b212-3a97-47c8-911b-00ca6faf4020",
+            "from_type": 0,
+            "t_trans_ssr": 154
+        },
+        "ServerModelUIGS": {
+            "terminal": "web",
+            "type": "trans_model",
+            "pbtype": "pv",
+            "model_general": 1,
+            "model_medical": 1,
+            "model_finance": 1
+        },
+        "ServerSgtkn": "6519CD798E4F26888385AC399BA9BE24845F23E3675548EF",
+        "suggShow": false,
+        "suggestion": "",
+        "suggDirection": "",
+        "usualTop": "",
+        "baseDict": "",
+        "wordCardClick": false,
+        "isFrInput": false,
+        "kanaTips": {
+            "show": false,
+            "left": "",
+            "top": "",
+            "type": "",
+            "arrowLeft": ""
+        },
+        "currSentenceIndex": -1,
+        "prefixStrObj": {
+            "prefixStr": "",
+            "oriPrefixStr": ""
+        },
+        "selectTransBox": {
+            "show": false,
+            "right": 0,
+            "top": 0,
+            "paraphraseInfo": {
+                "word": "",
+                "from": "",
+                "to": "",
+                "area": ""
+            }
+        },
+        "sentenceLoading": false,
+        "newSentenceInfo": {
+            "sentence": "",
+            "candidateIndex": 0
+        },
+        "moreTipInfo": {
+            "opacity": 0,
+            "zIndex": -1
+        },
+        "paraphraseShowInfo": {
+            "card": 0,
+            "query": "",
+            "card_dict": 0
+        },
+        "selectType": "",
+        "wordPos": 0,
+        "candidateWord": "",
+        "syntaxVisible": false,
+        "syntaxStatus": 0
+    },
+    "language": {
+        "from": "auto",
+        "to": "zh-CHS",
+        "detect": "en",
+        "model": "general",
+        "detectShow": false,
+        "langMap": {
+            "current": ""
+        },
+        "zh2en": false,
+        "fromItemList": [
+            {
+                "lang": "auto",
+                "text": "自动检测",
+                "play": false
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "th",
+                "text": "泰语",
+                "play": true,
+                "abbr": "泰"
+            },
+            {
+                "lang": "ko",
+                "text": "韩语",
+                "play": true,
+                "abbr": "韩"
+            },
+            {
+                "lang": "de",
+                "text": "德语",
+                "play": true,
+                "abbr": "德"
+            }
+        ],
+        "toItemList": [
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "ru",
+                "text": "俄语",
+                "play": true,
+                "abbr": "俄"
+            },
+            {
+                "lang": "ko",
+                "text": "韩语",
+                "play": true,
+                "abbr": "韩"
+            },
+            {
+                "lang": "vi",
+                "text": "越南语",
+                "play": true,
+                "abbr": "越"
+            }
+        ]
+    },
+    "voice": {
+        "from": {
+            "lang": "en",
+            "type": "from",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22evil%22%2C%22spokenDialect%22%3A%22en%22%2C%22rate%22%3A%220.8%22%7D",
+            "list": [
+                {
+                    "type": "uk_0",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "ˈiːvl",
+                    "abbr": "英",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/4855_evil_uk.mp3"
+                },
+                {
+                    "type": "usa_1",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "ˈiːvl",
+                    "abbr": "美",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/4855_evil_usa.mp3"
+                }
+            ],
+            "stype": "phonetic",
+            "phoneticShow": [
+                {
+                    "text": "ˈiːvl",
+                    "type": "uk",
+                    "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/4855_evil_uk.mp3"
+                }
+            ]
+        },
+        "to": {
+            "lang": "zh",
+            "type": "to",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22%E9%82%AA%E6%81%B6%22%2C%22spokenDialect%22%3A%22zh-CHS%22%2C%22rate%22%3A%220.8%22%7D",
+            "stype": "normal"
+        }
+    }
+}

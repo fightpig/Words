@@ -163,18 +163,15 @@ class Sogou(Base):
                 word_obj.us_phonetic = phonetic
                 word_obj.us_audio_url_dict["sogou"] = audio_url
 
-        for idx, item in enumerate(
-            word_json_data.get("textTranslate")
-            .get("translateData")
-            .get("book")
-            .get("yingyinNormal")
-        ):
-            audio_url = item.get("audioUrl")
-            en = item.get("en")
-            zh = item.get("zh")
-            word_obj.sentence_dict["sogou"][idx]["en"] = en
-            word_obj.sentence_dict["sogou"][idx]["cn"] = zh
-            word_obj.sentence_audio_url_dict["sogou"][idx] = audio_url
+        book = word_json_data.get("textTranslate").get("translateData").get("book")
+        if isinstance(book, dict):
+            for idx, item in enumerate(book.get("yingyinNormal")):
+                audio_url = item.get("audioUrl")
+                en = item.get("en")
+                zh = item.get("zh")
+                word_obj.sentence_dict["sogou"][idx]["en"] = en
+                word_obj.sentence_dict["sogou"][idx]["cn"] = zh
+                word_obj.sentence_audio_url_dict["sogou"][idx] = audio_url
 
         return word_obj
 
@@ -357,14 +354,11 @@ def test_sogou():
             word,
             to_my_word=True,
             save_json_path=f"../sources/sogou-word-info-libs/{word[0]}/{word}.json",
+            # override=True,
         )
-        ic(cn, my_word)
-        # pool.apply_async(
-        #     Sogou.fetch,
-        #     args=(word, True, f"../sources/sogou-word-info-libs/{word[0]}/{word}.json"),
-        # )
-    # pool.close()
-    # pool.join()
+        ic(cn)
+    pool.close()
+    pool.join()
 
 
 def test_bing():

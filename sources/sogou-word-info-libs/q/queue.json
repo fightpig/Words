@@ -1,0 +1,885 @@
+{
+    "route": {
+        "name": "text",
+        "path": "/text",
+        "hash": "",
+        "query": {
+            "keyword": "queue",
+            "transfrom": "auto",
+            "transto": "zh-CHS",
+            "model": "general",
+            "errcode": "s10"
+        },
+        "params": {},
+        "fullPath": "/text?keyword=queue&transfrom=auto&transto=zh-CHS&model=general&errcode=s10",
+        "meta": {
+            "mtype": [
+                "textTranslate",
+                "language",
+                "voice"
+            ]
+        },
+        "from": {
+            "name": null,
+            "path": "/",
+            "hash": "",
+            "query": {},
+            "params": {},
+            "fullPath": "/",
+            "meta": {}
+        }
+    },
+    "common": {
+        "CONFIG": {
+            "wuid": 1733638480249,
+            "loginInfo": {},
+            "isIE": 0,
+            "isHitSsrSwitch": true,
+            "isHitWritebookSwitch": false,
+            "isHitAmsSwitch": true,
+            "promotionList": "{\n    \"pc_bottom\":{\n        \"imgsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\",\n        \"qcsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\"\n    },\n    \"pc_middle\":[\n        {\n            \"src\":\"//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c\",\n            \"bgColor\":\"#ffffff\",\n            \"link\":\"\"\n        }\n    ],\n    \"pc_survey\":{\n        \"icon\":\"//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750\",\n        \"link\":\"https://wj.qq.com/s2/8193148/806d/\"\n    }\n}",
+            "bannerData": [],
+            "isHitAsideSurvey": false,
+            "secretCode": 109984457,
+            "uuid": "bb803574-2500-4e36-af05-e8de026fc4aa",
+            "referer": "",
+            "approveToken": "65030DF9E42548E2EAECC155C3215529EA832C9267553950",
+            "loadTime": 1733638480251,
+            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0",
+            "fcp": "139.59.89.214",
+            "temporaryId": "",
+            "fileId": ""
+        },
+        "hotWords": [],
+        "isFromCollect": false,
+        "psdModify": {
+            "currentStep": 1,
+            "scode": "",
+            "username": ""
+        },
+        "loginStatus": true,
+        "feedBackModule": false,
+        "showPromotionPopup": {
+            "show": false,
+            "type": ""
+        },
+        "showPromotionPCDownload": false,
+        "showShareBomb": false,
+        "shareData": null,
+        "showAppDownLoad": false,
+        "showLoginDialog": false,
+        "showLoading": {
+            "show": false
+        },
+        "toast": {
+            "show": false,
+            "text": "",
+            "loading": false
+        },
+        "modelToast": {
+            "show": false,
+            "text": ""
+        },
+        "selectionGlobalShow": true,
+        "selectionInfo": {
+            "left": 0,
+            "top": 0,
+            "show": false,
+            "from": "",
+            "to": "",
+            "val": "",
+            "area": ""
+        },
+        "showConfirmDialog": false,
+        "promotionList": {
+            "pc_bottom": {
+                "imgsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png",
+                "qcsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png"
+            },
+            "pc_middle": [
+                {
+                    "src": "//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c",
+                    "bgColor": "#ffffff",
+                    "link": ""
+                }
+            ],
+            "pc_survey": {
+                "icon": "//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750",
+                "link": "https://wj.qq.com/s2/8193148/806d/"
+            }
+        },
+        "transTypeTxt": "text",
+        "fixedTabStatus": 0,
+        "bodyTop": 0,
+        "ifHideUserOperation": false
+    },
+    "textTranslate": {
+        "prevTransQuery": "",
+        "translateData": {
+            "translate": {
+                "zly": "zly",
+                "errorCode": "0",
+                "qc_type": "1",
+                "index": "content0",
+                "from": "en",
+                "source": "sogou",
+                "text": "queue",
+                "to": "zh-CHS",
+                "id": "bb803574-2500-4e36-af05-e8de026fc4aa",
+                "dit": "长队",
+                "orig_text": "queue",
+                "md5": ""
+            },
+            "detect": {
+                "zly": "zly",
+                "detect": "en",
+                "errorCode": "0",
+                "language": "英语",
+                "id": "b55989e0-b52b-11ef-a6f5-bf4f75b091ff",
+                "text": "queue"
+            },
+            "sgtkn": "65030DFCE42548E2EAECC155C3215529EA832C9267553950",
+            "wordCard": {
+                "title": "queue",
+                "show": true,
+                "usualDict": [
+                    {
+                        "values": [
+                            "队列；排队；长队；辫子（尤指男性的长辫子）；计算机中的队列；打印队列（等待打印的文件列表）"
+                        ],
+                        "pos": "n."
+                    },
+                    {
+                        "values": [
+                            "（在交通中）缓慢前进；排队等待服务（或进入场所）；依次站成一行"
+                        ],
+                        "pos": "v."
+                    }
+                ],
+                "secondQuery": "",
+                "exchange": {
+                    "word_third": [
+                        "queues"
+                    ],
+                    "word_ing": [
+                        "queuing"
+                    ],
+                    "word_done": [
+                        "queued"
+                    ],
+                    "word_pl": [
+                        "queues"
+                    ],
+                    "word_past": [
+                        "queued"
+                    ]
+                },
+                "levelList": [
+                    "初中",
+                    "高中",
+                    "四级",
+                    "六级",
+                    "考研",
+                    "考博",
+                    "雅思",
+                    "GRE"
+                ]
+            },
+            "detail": {
+                "synonym": [
+                    {
+                        "word_list": [
+                            "train",
+                            "alignment",
+                            "tail",
+                            "rank"
+                        ],
+                        "pos": "n.",
+                        "mean": "队列；长队；辫子"
+                    },
+                    {
+                        "word_list": [
+                            "line up for",
+                            "stand in a line"
+                        ],
+                        "pos": "vi.",
+                        "mean": "排队；排队等候"
+                    }
+                ],
+                "word_difference_info": [
+                    {
+                        "common_mean": "列；队；排",
+                        "word_list": [
+                            "queue",
+                            " rank",
+                            " line",
+                            " row"
+                        ],
+                        "word_mean_info__list": [
+                            {
+                                "difference": "指人们为做某事而有顺序排成的队，在等的过程中不断向前移动。",
+                                "word": "queue"
+                            },
+                            {
+                                "difference": "和file常为军事用语，前者指肩并肩排列整齐的士兵横排，后者指纵队。",
+                                "word": "rank"
+                            },
+                            {
+                                "difference": "指人或物排成的行列。",
+                                "word": "line"
+                            },
+                            {
+                                "difference": "指单独的一列，也可指平行的数行中的一行，而不论是横或纵。",
+                                "word": "row"
+                            }
+                        ]
+                    }
+                ],
+                "word_group": [
+                    {
+                        "brief_definition": "打印队列",
+                        "phrase": "print queue",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "领取救济的失业人员",
+                        "phrase": "the dole queue",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "排队；队列等候；队列",
+                        "phrase": "queue up",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "长队列；长龙",
+                        "phrase": "long queue",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "插队, 不按次序排队",
+                        "phrase": "jump the queue",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "插队",
+                        "phrase": "jump queue",
+                        "pos": ""
+                    }
+                ],
+                "bilingual": [
+                    {
+                        "source": "I don't have the time to wait in that long <em>queue</em>.",
+                        "target": "我没有时间在那么长的队伍里等。",
+                        "url": ""
+                    },
+                    {
+                        "source": "People used to go to a shop, stand in a <em>queue</em> and wait.",
+                        "target": "人们过去常常去商店排队等待。",
+                        "url": ""
+                    },
+                    {
+                        "source": "The only thing that worked was the swing, and there was always a big <em>queue</em> of children waiting to swing on it.",
+                        "target": "唯一能用的东西是秋千，总是有一大群孩子在排队等着玩。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Please stay quiet in the <em>queue</em>.",
+                        "target": "请在队列中保持安静。",
+                        "url": ""
+                    },
+                    {
+                        "source": "We joined the <em>queue</em> for tickets.",
+                        "target": "我们加入了购票的队伍。",
+                        "url": ""
+                    },
+                    {
+                        "source": "He jumped the <em>queue</em> at the bank.",
+                        "target": "他在银行排队时插队了。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Please form a <em>queue</em> at the entrance.",
+                        "target": "请在入口处排成一个队列。",
+                        "url": ""
+                    },
+                    {
+                        "source": "It is impolite to jump the <em>queue</em> here.",
+                        "target": "在这里插队是不礼貌的。",
+                        "url": ""
+                    },
+                    {
+                        "source": "She was scolded for jumping the <em>queue</em>.",
+                        "target": "她因为插队而被责备。",
+                        "url": ""
+                    },
+                    {
+                        "source": "We stood in the bank <em>queue</em> for an hour.",
+                        "target": "我们在银行排了一个小时的队列。",
+                        "url": ""
+                    }
+                ],
+                "baike": {
+                    "showMore": false,
+                    "list": [
+                        {
+                            "lemmaTitle": "queue",
+                            "link": "https://baike.sogou.com/v174567302.htm?ch=sogou.fanyi",
+                            "abstract": "queue（英/美[kjuː]），英语单词。作名词时，释义为行列；长队；辫子。作动词时，释义为排队；排成队列。短语搭配为queue up（排队）。例句为“The queue for tickets was long.（买票的队伍很长。）” 其名词性近义词有train、alignment，不及物动词近义词有line up for、stand in a line。",
+                            "wapPic": "",
+                            "pcPic": ""
+                        },
+                        {
+                            "lemmaTitle": "queue",
+                            "link": "https://baike.sogou.com/v174567304.htm?ch=sogou.fanyi",
+                            "abstract": "队列是一种特殊的线性表，是一种先进先出（FIFO）的数据结构。它只允许在表的前端（front）进行删除操作，而在表的后端（rear）进行插入操作。进行插入操作的端称为队尾，进行删除操作的端称为队头。队列中没有元素时，称为空队列。",
+                            "wapPic": "//img04.sogoucdn.com/v2/thumb/retype_exclude_gif/ext/auto/q/80/crop/xy/ai/w/140/h/140/resize/w/140?appid=201005&sign=3ea937d777a937c37cc5949d9e41edd4&url=https%3A%2F%2Fpic.baike.soso.com%2Fugc%2Fbaikepic2%2F14969%2F20220525224211-1401569654_jpeg_670_469_23920.jpg%2F0",
+                            "pcPic": "//img04.sogoucdn.com/v2/thumb/retype_exclude_gif/ext/auto/q/80/crop/xy/ai/w/140/h/140/resize/w/140?appid=201005&sign=3ea937d777a937c37cc5949d9e41edd4&url=https%3A%2F%2Fpic.baike.soso.com%2Fugc%2Fbaikepic2%2F14969%2F20220525224211-1401569654_jpeg_670_469_23920.jpg%2F0"
+                        }
+                    ]
+                }
+            },
+            "book": {
+                "yingyinNormal": [
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/8005d54b57fe04f26a670220f9323bc7_59749.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/c76afc8651597bda03ef062aee3f99c3_36514.mp3",
+                        "isLavafox": true,
+                        "en": "What place? 221B Baker Street. See you in the morning. If there's a <em>queue</em>, join it.",
+                        "zh": "哪里？贝克街221B。明早见。如果有人排队你就多等会儿。",
+                        "videoNameZh": "《神探夏洛克 第四季》",
+                        "videoNameEn": "《Sherlock Season 4》",
+                        "url": "http://bisentence_movie.sogou.com/33df419851bf06648ba07498a993a2c8_c3a41eea4f8d51a5a17c90d3874c92598fe26b90"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/efb46b0d09a0d16595177f67fa563c67_36206.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/fc3aa177eb8af3f81f784e666d48d2f4_61864.mp3",
+                        "isLavafox": true,
+                        "en": "Just pop it on the scales. Anything valuable in it? No? Any more? Yes. You can take those little bags on the plane with you. Just join the <em>queue</em> over there.",
+                        "zh": "直接放在称上。有贵重物品在里面吗？没有？还有其他的吗？是的。你可以带那些小包上飞机。去那边排队就可以了。",
+                        "videoNameZh": "《100天养成流利口语》",
+                        "videoNameEn": "《Get fluent spoken English in 100 days》",
+                        "url": "http://bisentence_movie.sogou.com/2123fa1db9d07e26b03dd4cb5b433fae_680366db94aeaee51052ad7acbb64676fa692d2b"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/5dc3cf8cad26e071498ca907fcc13dc6_46983.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/41be63e97063c4e28113a3197a336d2e_1191.mp3",
+                        "isLavafox": true,
+                        "en": "Don't worry. Just pop it on the scales. Anything valuable in it? No? Any more? Yes. You can take those little bags on the plane with you. Just join the <em>queue</em> over there.",
+                        "zh": "不用担心！直接放在称上。有贵重物品在里面吗？没有？还有其他的吗？是的。你可以带那些小包上飞机。去那边排队就可以了。",
+                        "videoNameZh": "《小猪佩奇 第四季》",
+                        "videoNameEn": "《Peppa Pig Season 4》",
+                        "url": "http://bisentence_movie.sogou.com/be1ff2c2409502d4e0bba87c98b277ce_6d2b8e5dea8034e476490a187b1bba74434587e5"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/5784af55ab08e203ecc1fde609fc5bb5_17166.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/04e91ea9cc082bf98a8342878ee1a9ab_23314.mp3",
+                        "isLavafox": true,
+                        "en": "Sorry about that. There was rather a <em>queue</em>. It's popular. That's a good sign.",
+                        "zh": "抱歉，人好多。这里受欢迎，是个好迹象。",
+                        "videoNameZh": "《唐顿庄园 第六季》",
+                        "videoNameEn": "《Downton Abbey Season 6》",
+                        "url": "http://bisentence_movie.sogou.com/7cb393feaeedc48e5350b0a1da37005d_e2684631d4aa152fa0eb88443fe5de8e804ecb42"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/ed16ac8524b2f1f0c1489640f8396c3f_47421.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/881aa94dd5b3016ed84a02575f7984e8_234.mp3",
+                        "isLavafox": true,
+                        "en": "See, see. Look at my Netflix <em>queue</em>. There's two documentaries and the movie Friends with Benefits, which I thought was a documentary about employer health care plans.",
+                        "zh": "看我的线上视频待看列表。两部纪录片还有电影《朋友也上床》[朋友有福利]，我本来以为这也是纪录片讲雇主提供健康保险。",
+                        "videoNameZh": "《生活大爆炸 第十一季》",
+                        "videoNameEn": "《The Big Bang Theory Season 11》",
+                        "url": "http://bisentence_movie.sogou.com/577e89c590f1d8ead8c1c1ddd94c479d_2516cebee5c978714cda918bdb5ebe1be1fbde06"
+                    }
+                ]
+            },
+            "pic": "",
+            "voice": {
+                "phonetic": [
+                    {
+                        "text": "kjuː",
+                        "type": "uk",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/5318_queue_uk.mp3"
+                    },
+                    {
+                        "text": "kjuː",
+                        "type": "usa",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/5318_queue_usa.mp3"
+                    }
+                ]
+            },
+            "dictType": "oxford_buchong",
+            "kaoyan": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 0,
+                        "pos": "n/v",
+                        "chinese": "行列; 队列; 排队",
+                        "sense_tier_ratio": 0
+                    }
+                ],
+                "word": "queue",
+                "direction_info": {
+                    "ranges": 12,
+                    "description": "数据源自2012-2023年12年间全国考研试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2012-2023年全国考研英语一和考研英语二共24套考研试卷，包括阅读、完型填空、翻译、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选全国考研考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2012-2023年12年间全国考研英语一和考研英语二试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 1,
+                "total_exam_freq": 0,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "synonyms": "",
+                            "en": "",
+                            "zh": "行列; 队列; 排队",
+                            "pos": "n/v",
+                            "antonyms": ""
+                        }
+                    ]
+                },
+                "word_usage": [
+                    {
+                        "usage": "in a/the queue 表示“在队列里”，如：\nthe people in the queue  排队的人"
+                    }
+                ]
+            },
+            "CET6": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 2,
+                        "pos": "n",
+                        "chinese": "排队",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "queue",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2016.6-2023.6年8年间全六级试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight>考纲释义</highlight>\n精选实考、考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2016-2023年51套试卷，包括阅读、听力、翻译等所有题型。\n\n<highlight>真题例句</highlight>\n精选2016-2023年8年间全六级试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 1,
+                "total_exam_freq": 2,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "a line of people",
+                            "zh": "排队",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "There are <highlight>queues</highlight> to climb Mt. Jolmo Lungna as well as to see famous paintings.",
+                                    "month": 12,
+                                    "source": "CET6",
+                                    "coll": "",
+                                    "sentence_trans": "人们排起了长队去攀登珠穆朗玛峰，也欣赏名画。",
+                                    "year": 2020,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "The Uffizi in Florence, another site of cultural pilgrimage, has cut its entry <highlight>queues</highlight> down to seven minutes by clever management.",
+                                    "month": 12,
+                                    "source": "CET6",
+                                    "coll": "",
+                                    "sentence_trans": "佛罗伦萨的乌菲兹美术馆是另一个文化朝圣地，它通过巧妙的管理将入馆排队时间缩短到了7分钟。",
+                                    "year": 2020,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "exchange_info": {
+                    "word_third": [
+                        "queues"
+                    ],
+                    "word_ing": [
+                        "queuing"
+                    ],
+                    "word_done": [
+                        "queued"
+                    ],
+                    "word_pl": [
+                        "queues"
+                    ],
+                    "word_past": [
+                        "queued"
+                    ]
+                }
+            },
+            "CET4": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 2,
+                        "pos": "v/n",
+                        "chinese": "排队",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "queue",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2016.6-2023.6年8年间全四级试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight>考纲释义</highlight>\n精选实考、考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2016-2023年51套试卷，包括阅读、听力、翻译等所有题型。\n\n<highlight>真题例句</highlight>\n精选2016-2023年8年间试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 1,
+                "total_exam_freq": 2,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "排队",
+                            "pos": "v/n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "As customers began to <highlight>queue</highlight>, Mr. Azar reached beneath the counter for a black plastic bag.",
+                                    "month": 6,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "随着顾客开始排队，Azar伸手到柜台下面拿了一个黑色塑料袋。",
+                                    "year": 2016,
+                                    "type": "听力",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Long <highlight>queues</highlight>, delayed flights and overcrowding at airports have become almost as much a topic for conversation in Britain.",
+                                    "month": 6,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "在英国，排长队、航班延误和机场拥挤几乎成为人们日常闲谈的话题。",
+                                    "year": 2016,
+                                    "type": "听力",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "exchange_info": {
+                    "word_third": [
+                        "queues"
+                    ],
+                    "word_ing": [
+                        "queuing"
+                    ],
+                    "word_done": [
+                        "queued"
+                    ],
+                    "word_pl": [
+                        "queues"
+                    ],
+                    "word_past": [
+                        "queued"
+                    ]
+                }
+            },
+            "gaokao": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 0,
+                        "pos": "cn",
+                        "chinese": "行列; 队",
+                        "sense_tier_ratio": 0
+                    },
+                    {
+                        "sense_tier": 0,
+                        "pos": "vt",
+                        "chinese": "排队等候",
+                        "sense_tier_ratio": 0
+                    }
+                ],
+                "word": "queue",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2015-2022年8年间全国卷和自主命题省市高考卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2015-2022年全国卷高考试卷，包括阅读、完形、单选、填空、听力、改错、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选各省市考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2015-2022年8年间全国卷和自主命题省市高考卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 1,
+                "total_exam_freq": 0,
+                "sense": {
+                    "sense_num": 2,
+                    "sense_info_list": [
+                        {
+                            "synonyms": "",
+                            "en": "",
+                            "zh": "行列; 队",
+                            "pos": "cn",
+                            "antonyms": ""
+                        },
+                        {
+                            "synonyms": "",
+                            "en": "",
+                            "zh": "排队等候",
+                            "pos": "vt",
+                            "antonyms": ""
+                        }
+                    ]
+                }
+            },
+            "sentencesData": {
+                "status": 1,
+                "info": "notZh2En",
+                "data": {}
+            },
+            "isAutoMatch": false,
+            "Zh2En": false
+        },
+        "query": "queue",
+        "result": "长队",
+        "tabSelect": "detail",
+        "dictionaryType": "oxford_buchong",
+        "notFound_show": false,
+        "phoneticShow": "",
+        "globalShowTranslateRecord": "",
+        "pronPrefer": {
+            "type": "usa_1",
+            "speaker": "male",
+            "speed": "standard"
+        },
+        "ServerRecord": "",
+        "ServerUIGS": {
+            "version": "new",
+            "type": "all",
+            "stype": "success",
+            "terminal": "web",
+            "fr": "default",
+            "direction": "etoz",
+            "from": "en",
+            "to": "zh-CHS",
+            "len": 5,
+            "qtype": "text",
+            "qctype": "qc_1",
+            "dict_cover": 1,
+            "detail": 1,
+            "wordCardCover": 1,
+            "wordCardEn": 1,
+            "wordCardCh": 0,
+            "wordCardMinor": 0,
+            "wordCardNetmean": 0,
+            "wordDeform": 1,
+            "keyword": 0,
+            "bilingual": 1,
+            "simple": 0,
+            "levelList": 1,
+            "synonym": 1,
+            "antonym": 0,
+            "conjugate": 0,
+            "rootaffix": 0,
+            "baike_sogou": 1,
+            "baike_wiki": 0,
+            "wordDifference": 1,
+            "word_phrase": 1,
+            "secondQuery": 0,
+            "dict_oxford": 0,
+            "dict_newcentury": 0,
+            "zhongkaotab": 0,
+            "gaokaotab": 1,
+            "CET4tab": 1,
+            "CET6tab": 1,
+            "kaoyantab": 1,
+            "network_tab": 0,
+            "yinying_tab": 1,
+            "tuozhan_tab": 0,
+            "one_pic": 0,
+            "more_pic": 0,
+            "no_pic": 0,
+            "uuid": "bb803574-2500-4e36-af05-e8de026fc4aa",
+            "from_type": 0,
+            "t_trans_ssr": 147
+        },
+        "ServerModelUIGS": {
+            "terminal": "web",
+            "type": "trans_model",
+            "pbtype": "pv",
+            "model_general": 1,
+            "model_medical": 1,
+            "model_finance": 1
+        },
+        "ServerSgtkn": "65030DFCE42548E2EAECC155C3215529EA832C9267553950",
+        "suggShow": false,
+        "suggestion": "",
+        "suggDirection": "",
+        "usualTop": "",
+        "baseDict": "",
+        "wordCardClick": false,
+        "isFrInput": false,
+        "kanaTips": {
+            "show": false,
+            "left": "",
+            "top": "",
+            "type": "",
+            "arrowLeft": ""
+        },
+        "currSentenceIndex": -1,
+        "prefixStrObj": {
+            "prefixStr": "",
+            "oriPrefixStr": ""
+        },
+        "selectTransBox": {
+            "show": false,
+            "right": 0,
+            "top": 0,
+            "paraphraseInfo": {
+                "word": "",
+                "from": "",
+                "to": "",
+                "area": ""
+            }
+        },
+        "sentenceLoading": false,
+        "newSentenceInfo": {
+            "sentence": "",
+            "candidateIndex": 0
+        },
+        "moreTipInfo": {
+            "opacity": 0,
+            "zIndex": -1
+        },
+        "paraphraseShowInfo": {
+            "card": 0,
+            "query": "",
+            "card_dict": 0
+        },
+        "selectType": "",
+        "wordPos": 0,
+        "candidateWord": "",
+        "syntaxVisible": false,
+        "syntaxStatus": 0
+    },
+    "language": {
+        "from": "auto",
+        "to": "zh-CHS",
+        "detect": "en",
+        "model": "general",
+        "detectShow": false,
+        "langMap": {
+            "current": ""
+        },
+        "zh2en": false,
+        "fromItemList": [
+            {
+                "lang": "auto",
+                "text": "自动检测",
+                "play": false
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "ru",
+                "text": "俄语",
+                "play": true,
+                "abbr": "俄"
+            },
+            {
+                "lang": "th",
+                "text": "泰语",
+                "play": true,
+                "abbr": "泰"
+            },
+            {
+                "lang": "ko",
+                "text": "韩语",
+                "play": true,
+                "abbr": "韩"
+            }
+        ],
+        "toItemList": [
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "ko",
+                "text": "韩语",
+                "play": true,
+                "abbr": "韩"
+            },
+            {
+                "lang": "vi",
+                "text": "越南语",
+                "play": true,
+                "abbr": "越"
+            },
+            {
+                "lang": "ru",
+                "text": "俄语",
+                "play": true,
+                "abbr": "俄"
+            }
+        ]
+    },
+    "voice": {
+        "from": {
+            "lang": "en",
+            "type": "from",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22queue%22%2C%22spokenDialect%22%3A%22en%22%2C%22rate%22%3A%220.8%22%7D",
+            "list": [
+                {
+                    "type": "uk_0",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "kjuː",
+                    "abbr": "英",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/5318_queue_uk.mp3"
+                },
+                {
+                    "type": "usa_1",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "kjuː",
+                    "abbr": "美",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/5318_queue_usa.mp3"
+                }
+            ],
+            "stype": "phonetic",
+            "phoneticShow": [
+                {
+                    "text": "kjuː",
+                    "type": "uk",
+                    "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/5318_queue_uk.mp3"
+                }
+            ]
+        },
+        "to": {
+            "lang": "zh",
+            "type": "to",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22%E9%95%BF%E9%98%9F%22%2C%22spokenDialect%22%3A%22zh-CHS%22%2C%22rate%22%3A%220.8%22%7D",
+            "stype": "normal"
+        }
+    }
+}

@@ -1,0 +1,1442 @@
+{
+    "route": {
+        "name": "text",
+        "path": "/text",
+        "hash": "",
+        "query": {
+            "keyword": "tone",
+            "transfrom": "auto",
+            "transto": "zh-CHS",
+            "model": "general",
+            "errcode": "s10"
+        },
+        "params": {},
+        "fullPath": "/text?keyword=tone&transfrom=auto&transto=zh-CHS&model=general&errcode=s10",
+        "meta": {
+            "mtype": [
+                "textTranslate",
+                "language",
+                "voice"
+            ]
+        },
+        "from": {
+            "name": null,
+            "path": "/",
+            "hash": "",
+            "query": {},
+            "params": {},
+            "fullPath": "/",
+            "meta": {}
+        }
+    },
+    "common": {
+        "CONFIG": {
+            "wuid": 1733644128108,
+            "loginInfo": {},
+            "isIE": 0,
+            "isHitSsrSwitch": true,
+            "isHitWritebookSwitch": false,
+            "isHitAmsSwitch": true,
+            "promotionList": "{\n    \"pc_bottom\":{\n        \"imgsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\",\n        \"qcsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\"\n    },\n    \"pc_middle\":[\n        {\n            \"src\":\"//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c\",\n            \"bgColor\":\"#ffffff\",\n            \"link\":\"\"\n        }\n    ],\n    \"pc_survey\":{\n        \"icon\":\"//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750\",\n        \"link\":\"https://wj.qq.com/s2/8193148/806d/\"\n    }\n}",
+            "bannerData": [],
+            "isHitAsideSurvey": false,
+            "secretCode": 109984457,
+            "uuid": "2e983cbc-7e33-4f3c-ab5d-4724b91fae68",
+            "referer": "",
+            "approveToken": "6523AA7E3BFF913833351A8E485F0BCB3357FD7867554F60",
+            "loadTime": 1733644128110,
+            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0",
+            "fcp": "159.89.9.38",
+            "temporaryId": "",
+            "fileId": ""
+        },
+        "hotWords": [],
+        "isFromCollect": false,
+        "psdModify": {
+            "currentStep": 1,
+            "scode": "",
+            "username": ""
+        },
+        "loginStatus": true,
+        "feedBackModule": false,
+        "showPromotionPopup": {
+            "show": false,
+            "type": ""
+        },
+        "showPromotionPCDownload": false,
+        "showShareBomb": false,
+        "shareData": null,
+        "showAppDownLoad": false,
+        "showLoginDialog": false,
+        "showLoading": {
+            "show": false
+        },
+        "toast": {
+            "show": false,
+            "text": "",
+            "loading": false
+        },
+        "modelToast": {
+            "show": false,
+            "text": ""
+        },
+        "selectionGlobalShow": true,
+        "selectionInfo": {
+            "left": 0,
+            "top": 0,
+            "show": false,
+            "from": "",
+            "to": "",
+            "val": "",
+            "area": ""
+        },
+        "showConfirmDialog": false,
+        "promotionList": {
+            "pc_bottom": {
+                "imgsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png",
+                "qcsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png"
+            },
+            "pc_middle": [
+                {
+                    "src": "//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c",
+                    "bgColor": "#ffffff",
+                    "link": ""
+                }
+            ],
+            "pc_survey": {
+                "icon": "//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750",
+                "link": "https://wj.qq.com/s2/8193148/806d/"
+            }
+        },
+        "transTypeTxt": "text",
+        "fixedTabStatus": 0,
+        "bodyTop": 0,
+        "ifHideUserOperation": false
+    },
+    "textTranslate": {
+        "prevTransQuery": "",
+        "translateData": {
+            "translate": {
+                "zly": "zly",
+                "errorCode": "0",
+                "qc_type": "1",
+                "index": "content0",
+                "from": "en",
+                "source": "sogou",
+                "text": "tone",
+                "to": "zh-CHS",
+                "id": "2e983cbc-7e33-4f3c-ab5d-4724b91fae68",
+                "dit": "色调",
+                "orig_text": "tone",
+                "md5": ""
+            },
+            "detect": {
+                "zly": "zly",
+                "detect": "en",
+                "errorCode": "0",
+                "language": "英语",
+                "id": "dbbc6e10-b538-11ef-8f6a-538b97856d90",
+                "text": "tone"
+            },
+            "sgtkn": "6523AA843BFF913833351A8E485F0BCB3357FD7867554F60",
+            "wordCard": {
+                "title": "tone",
+                "show": true,
+                "usualDict": [
+                    {
+                        "values": [
+                            "语气；口吻；腔调；格调；音调；音色；音质；气氛；基调；风格；风尚；色调；明暗；（肌肉或皮肤的）健康状况；强健；语调；声调；音级；音程；特性；情感；态度；（Tone）托恩；托内（人名）"
+                        ],
+                        "pos": "n."
+                    },
+                    {
+                        "values": [
+                            "使有…调子；改变…的音调；改变…的色调；使（皮肤、肌肉等）强健；使结实"
+                        ],
+                        "pos": "v."
+                    }
+                ],
+                "secondQuery": "",
+                "exchange": {
+                    "word_third": [
+                        "tones"
+                    ],
+                    "word_ing": [
+                        "toning"
+                    ],
+                    "word_done": [
+                        "toned"
+                    ],
+                    "word_pl": [
+                        "tones"
+                    ],
+                    "word_past": [
+                        "toned"
+                    ]
+                },
+                "levelList": [
+                    "高中",
+                    "四级",
+                    "六级",
+                    "考研"
+                ]
+            },
+            "detail": {
+                "synonym": [
+                    {
+                        "word_list": [
+                            "mood",
+                            "hues"
+                        ],
+                        "pos": "n.",
+                        "mean": "语气；色调；音调；音色"
+                    },
+                    {
+                        "word_list": [
+                            "enchance",
+                            "to increase"
+                        ],
+                        "pos": "vt.",
+                        "mean": "增强；用某种调子说"
+                    }
+                ],
+                "antonym": [
+                    {
+                        "word_list": [
+                            "atonicity"
+                        ],
+                        "pos": "",
+                        "mean": ""
+                    }
+                ],
+                "wordRootInfo": {
+                    "word_info_list": [
+                        {
+                            "word": "tonal",
+                            "pos_mean_info_list": [
+                                {
+                                    "pos": "adj.",
+                                    "mean": "色调的；音调的"
+                                }
+                            ]
+                        },
+                        {
+                            "word": "toned",
+                            "pos_mean_info_list": [
+                                {
+                                    "pos": "adj.",
+                                    "mean": "年久变色的；有声调的，具有……音质的"
+                                }
+                            ]
+                        },
+                        {
+                            "word": "toneless",
+                            "pos_mean_info_list": [
+                                {
+                                    "pos": "adj.",
+                                    "mean": "沉闷的；单调的；缺乏声调的；无声的"
+                                }
+                            ]
+                        },
+                        {
+                            "word": "tonelessly",
+                            "pos_mean_info_list": [
+                                {
+                                    "pos": "adv.",
+                                    "mean": "单调地，沉闷地"
+                                }
+                            ]
+                        },
+                        {
+                            "word": "toner",
+                            "pos_mean_info_list": [
+                                {
+                                    "pos": "n.",
+                                    "mean": "调色剂，增色剂；色粉"
+                                }
+                            ]
+                        },
+                        {
+                            "word": "tonality",
+                            "pos_mean_info_list": [
+                                {
+                                    "pos": "n.",
+                                    "mean": "音调；色调"
+                                }
+                            ]
+                        }
+                    ],
+                    "root_word": "tone"
+                },
+                "word_group": [
+                    {
+                        "brief_definition": "设定基调；确定基调；定基调",
+                        "phrase": "set the tone",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "拨号音",
+                        "phrase": "dial tone",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "声调语言",
+                        "phrase": "tone language",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "交响诗；音诗",
+                        "phrase": "tone poem",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "拾音器臂；唱臂",
+                        "phrase": "tone arm",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "肌肉的紧张性",
+                        "phrase": "muscle tone",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "音阶第七音；下主音",
+                        "phrase": "leading tone",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "音品，音色，音质",
+                        "phrase": "tone colour",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "振铃音",
+                        "phrase": "ringing tone",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "基音",
+                        "phrase": "fundamental tone",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "侧音",
+                        "phrase": "side tone",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "占线信号；忙音",
+                        "phrase": "engaged tone",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "音簇",
+                        "phrase": "tone cluster",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "音列",
+                        "phrase": "tone row",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "声调群",
+                        "phrase": "tone group",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "拨号音",
+                        "phrase": "dialling tone",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "声调群",
+                        "phrase": "tone unit",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "音频拨号",
+                        "phrase": "tone dialling",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "使声音（或颜色）柔和；使缓和",
+                        "phrase": "tone something down",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "语音语调；声音的语气；口吻",
+                        "phrase": "tone of voice",
+                        "pos": ""
+                    }
+                ],
+                "bilingual": [
+                    {
+                        "source": "“Maybe tomorrow,” in his usual bored <em>tone</em>.",
+                        "target": "“也许明天吧，”他用一贯无聊的语气说。",
+                        "url": ""
+                    },
+                    {
+                        "source": "His <em>tone</em> was very calm.",
+                        "target": "他的音调很平静。",
+                        "url": ""
+                    },
+                    {
+                        "source": "His <em>tone</em> implies a threat.",
+                        "target": "他的语气隐含了威胁。",
+                        "url": ""
+                    },
+                    {
+                        "source": "His <em>tone</em> was very serious.",
+                        "target": "他的口气很严肃。",
+                        "url": ""
+                    },
+                    {
+                        "source": "She spoke in a gentle <em>tone</em>.",
+                        "target": "她用温柔的口气说话。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Her <em>tone</em> was full of urgent.",
+                        "target": "她的语气中充满了急切。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Her <em>tone</em> sounded very angry.",
+                        "target": "她的语气听起来很生气。",
+                        "url": ""
+                    },
+                    {
+                        "source": "His <em>tone</em> was full of sarcasm.",
+                        "target": "他的音调充满了讽刺。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Each key has a different <em>tone</em>.",
+                        "target": "每个琴键都有不同的音调。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Did you hear that warning <em>tone</em>?",
+                        "target": "你听到那个提示音了吗？",
+                        "url": ""
+                    }
+                ],
+                "baike": {
+                    "showMore": false,
+                    "list": [
+                        {
+                            "lemmaTitle": "tone",
+                            "link": "https://baike.sogou.com/v71201407.htm?ch=sogou.fanyi",
+                            "abstract": "《TONE》是韩国组合东方神起的第五张日语正规专辑，亦是东方神起以二人形式重组后发行的首张日语专辑，共收录15首歌曲，由avextrax公司于2011年9月28日发行。《TONE》在日本公信榜分别夺得日榜、周榜及月榜冠军。",
+                            "wapPic": "//img03.sogoucdn.com/v2/thumb/retype_exclude_gif/ext/auto/q/80/crop/xy/ai/w/140/h/140/resize/w/140?appid=201005&sign=b5c6831c4c1d7b8d137befbf5c936ed2&url=https%3A%2F%2Fpic.baike.soso.com%2Fugc%2Fbaikepic2%2F23157%2F20220419222448-417915658_png_740_494_330512.jpg%2F0",
+                            "pcPic": "//img02.sogoucdn.com/v2/thumb/retype_exclude_gif/ext/auto/q/80/crop/xy/ai/w/140/h/140/resize/w/140?appid=201005&sign=b5c6831c4c1d7b8d137befbf5c936ed2&url=https%3A%2F%2Fpic.baike.soso.com%2Fugc%2Fbaikepic2%2F23157%2F20220419222448-417915658_png_740_494_330512.jpg%2F0"
+                        }
+                    ]
+                }
+            },
+            "book": {
+                "yingyinNormal": [
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/90d695a9e78539f7e946c7586f56f1f7_47628.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/6f554d9ba6ac90b1dea028fae4757544_6348.mp3",
+                        "isLavafox": true,
+                        "en": "Yeah, they've got great muscle <em>tone</em>.",
+                        "zh": "是啊，他们的肌张力很出色。",
+                        "videoNameZh": "《阿凡达》",
+                        "videoNameEn": "《Avatar》",
+                        "url": "http://bisentence_movie.sogou.com/b3bd0224c7e2ffb3bc868d0962cad41c_eaae6f2a73e34d0132846c349dc6b7cb3d953ea4"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/f7d7167294560b5a445295985c93469c_14515.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/a2c0a7b45ddc46a16c11c103f32480e0_67341.mp3",
+                        "isLavafox": true,
+                        "en": "Well, anything can sound silly when you put it in that <em>tone</em>.",
+                        "zh": "什么事被你这种口气一说，都显得很蠢。",
+                        "videoNameZh": "《生活大爆炸 第十季》",
+                        "videoNameEn": "《The Big Bang Theory Season 10》",
+                        "url": "http://bisentence_movie.sogou.com/35b31610178270390c1ff460c923da78_67ba01fa28dd51df535558411ec055a6913f658e"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/dde03d29cdf9f1eb3170279dd5ad8ff2_46072.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/e8fa76c8d13261c9ada53d2bcdee1666_37283.mp3",
+                        "isLavafox": true,
+                        "en": "The words sound like you get it, but your <em>tone</em> is throwing me.",
+                        "zh": "你们的话好像是懂我了，但你们的口气却像在批评我。",
+                        "videoNameZh": "《摩登家庭 第六季》",
+                        "videoNameEn": "《Modern Family Season 6》",
+                        "url": "http://bisentence_movie.sogou.com/0eb917c228724ded9702fb44f689ac83_6a3ac1b04abdbb1c1e606d144483de4cb7c775d0"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/466fcb07ee18284cd2e11cc689fe88ec_17209.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/9edfc0c47840d8fa2944f0d39ab18610_52701.mp3",
+                        "isLavafox": true,
+                        "en": "I'll overlook your condescending <em>tone</em> if you heave the gravity of mine.",
+                        "zh": "如果你注意到我严肃的态度，我就忽略你这居高临下的语气。",
+                        "videoNameZh": "《变形金刚3》",
+                        "videoNameEn": "《Transformers: Dark of the Moon》",
+                        "url": "http://bisentence_movie.sogou.com/37a5323acea29816a868e2fe41bffbed_8e29760d088cb24185dede2b1cb6a267258e1196"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/69e52acd9e09b6a2ed378507a165e971_14638.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/6f8baaa46dc46810038c3cf3d2f94972_59416.mp3",
+                        "isLavafox": true,
+                        "en": "She really needs to <em>tone</em> down on the social niceties. It's embarrassing.",
+                        "zh": "她真该改改她的大小姐脾气，搞的挺尴尬的。",
+                        "videoNameZh": "《绯闻女孩 第一季》",
+                        "videoNameEn": "《Gossip Girl Season 1》",
+                        "url": "http://bisentence_movie.sogou.com/499e1a0101265ebdbe99b867124543b5_363238fa00de11f2de90d16c642db2e23d96e6cf"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/886b76b0c552c22c57062be63cf27261_37722.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/45454b03834da1163101557fa8b09950_27336.mp3",
+                        "isLavafox": true,
+                        "en": "Honey, there are like 20 tickets on the nightstand. Chandler, sense the <em>tone</em>.",
+                        "zh": "床头柜上有二张彩票。钱德，注意我的语气。",
+                        "videoNameZh": "《老友记 第九季》",
+                        "videoNameEn": "《Friends Season 9》",
+                        "url": "http://bisentence_movie.sogou.com/2ee8208919536f50fa575bc66e4934ac_25faa84c47b480e44f51aac3623da15e939b0c48"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/3bccca9abe5ab96bd7f3eaed6bd40cf2_52899.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/07cbba257fd978861e3ddde4930a4d44_6774.mp3",
+                        "isLavafox": true,
+                        "en": "All right, you know what? I'm sorry. I will try to <em>tone</em> it down and stop yelling.",
+                        "zh": "对不起，我会试着小声点，不再对你大吼大叫。",
+                        "videoNameZh": "《老友记 第七季》",
+                        "videoNameEn": "《Friends Season 7》",
+                        "url": "http://bisentence_movie.sogou.com/509f7f1fab0b69dc36342f3421416d29_8b09ff95d92efe26724c01c0cec8f95fc8d8d4c4"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/81d3916a49503fc329256a1bf031d8ef_46973.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/25ace17f73e01f6fecfa99940baa6ecf_32085.mp3",
+                        "isLavafox": true,
+                        "en": "The future of my pants hinges on the video pitch. The <em>tone</em> needs to be sad and pathetic.",
+                        "zh": "我未来的裤子就指望这条视频了，我要用很可怜很可悲的语气。",
+                        "videoNameZh": "《破产姐妹 第三季》",
+                        "videoNameEn": "《2 Broke Girls Season 3》",
+                        "url": "http://bisentence_movie.sogou.com/b25c82aa6db56dd4a82e9a34b5eea282_f5fe097da5150641ec0abe0f124d48003ba7c53b"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/a86e6e98cc64448e528c65f2085efa0f_30194.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/fd15e1512604a9cfec30b0eba0b8f2e2_42608.mp3",
+                        "isLavafox": true,
+                        "en": "Couple things, actually. Your <em>tone</em> of voice, your body language... Get out. Well, now, that.",
+                        "zh": "实际上好有几个，你的说话语气，身体语言... 给我出去。瞧，还有这个。",
+                        "videoNameZh": "《生活大爆炸 第7季》",
+                        "videoNameEn": "《The Big Bang Theory Season 7》",
+                        "url": "http://bisentence_movie.sogou.com/9e8d4883692c65cc96b803c15f03f9ce_d5c723143d8e5fbafdd62467624c624ec223d8cc"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/ae9d6f2f04858f0af8517ff08116148e_6738.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/c76267a9e2e4286279b40d68aa27eb77_74713.mp3",
+                        "isLavafox": true,
+                        "en": "Yeah, here, see, it says, \"A young lady speaks in a gentle <em>tone</em>, and never raises her voice.\"",
+                        "zh": "对，你看这里，这里说，“一个年轻女孩说话应该温柔体贴，不要大声叫喊”。",
+                        "videoNameZh": "《女孩成长记 第三季》",
+                        "videoNameEn": "《Girl Meets World Season 3》",
+                        "url": "http://bisentence_movie.sogou.com/0693c620caa09b5a1e076f61c72fd7f8_e590a278fa17cb6d4023ad1d21b08db0ba5c5a35"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/886b76b0c552c22c57062be63cf27261_37722.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/847afcf753b058edb86f02ed2d444846_71807.mp3",
+                        "isLavafox": true,
+                        "en": "Did you get it? One of the slots got filled. By you? Sense the <em>tone</em>. No, that kid Nate got it.",
+                        "zh": "你有得到吗？一个名额已经被占了。被你吗？注意我的语气。不是，一个叫做奈特的小子。",
+                        "videoNameZh": "《老友记 第九季》",
+                        "videoNameEn": "《Friends Season 9》",
+                        "url": "http://bisentence_movie.sogou.com/fc4fa1cad81917d9e4cb140dc03c1ab1_2aeff899dcb0887b243580a4523373ecd2953735"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/c3652a60f61ce63a5e9067648ae2439c_44092.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/282f9fbe04a55ade717d11869a6e10e0_45857.mp3",
+                        "isLavafox": true,
+                        "en": "Amy, please. Keeping in mind that whoever's on top may set the <em>tone</em> for the marriage. Okay, show's over.",
+                        "zh": "艾米，拜托。记住，谁在上，谁就掌握婚姻大权哦。好了，别拍了。",
+                        "videoNameZh": "《生活大爆炸 第五季》",
+                        "videoNameEn": "《The Big Bang Theory Season 5》",
+                        "url": "http://bisentence_movie.sogou.com/d234cf03562c1cf88de29b475ea11fda_e813996d389feacd426be011b58544c88c6ca2bd"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/ed16ac8524b2f1f0c1489640f8396c3f_47421.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/91a9a62e527a07f2a27beb4703b9165b_61927.mp3",
+                        "isLavafox": true,
+                        "en": "Look at how somber all the men in these portraits are. I feel like that sets a good <em>tone</em> for our wedding.",
+                        "zh": "你看这些人的画像看起来都多阴郁。感觉为我们的婚礼设下了良好的氛围。",
+                        "videoNameZh": "《生活大爆炸 第十一季》",
+                        "videoNameEn": "《The Big Bang Theory Season 11》",
+                        "url": "http://bisentence_movie.sogou.com/2f038955744cc765cc6c15d56a2887ba_148ad5560aee1e2f2f055c46788632d2858dd969"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/a9a5203295dada5468548a45bdbbe245_26977.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/7d408e719bfdc1192e6709b45eb9a1b8_42807.mp3",
+                        "isLavafox": true,
+                        "en": "And this is my version, and you can <em>tone</em> it down, you know, or have it spicy, or not as spicy as you want.",
+                        "zh": "这是我改良的版本，你可以按照你的喜好进行调整，加辣或是变清淡。",
+                        "videoNameZh": "《中餐速成》",
+                        "videoNameEn": "《Chinese Food Made Easy》",
+                        "url": "http://bisentence_movie.sogou.com/c0dbaa1860eb163d3c2cad707f18fabc_2ebc8888c89c669f7e1566cc26bcda00dcb9c0d6"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/c3652a60f61ce63a5e9067648ae2439c_44092.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/1fd439e00d653d609a2ee9bbebbc8ebe_71035.mp3",
+                        "isLavafox": true,
+                        "en": "I didn't get a lot of that because of your accent, but the general <em>tone</em> was soothing and somehow I feel better.",
+                        "zh": "虽然因为你的口音问题我没怎么听懂，但你的语气很抚慰人心，我感觉好多了。",
+                        "videoNameZh": "《生活大爆炸 第五季》",
+                        "videoNameEn": "《The Big Bang Theory Season 5》",
+                        "url": "http://bisentence_movie.sogou.com/1aa7e656adecdfe1574ba1ce4175a5cb_e6b85c69a881dfec646de6690b958553825cdc1a"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/dde03d29cdf9f1eb3170279dd5ad8ff2_46072.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/ed257e7024e704217072e82bc99ec4bb_73435.mp3",
+                        "isLavafox": true,
+                        "en": "When you say it in that <em>tone</em>, it implies that Luke and I haven't been spending quality time together. Which we have.",
+                        "zh": "你用这种语气说出来，表明卢克和我没有好好共度父子亲密时光，其实是有的。",
+                        "videoNameZh": "《摩登家庭 第六季》",
+                        "videoNameEn": "《Modern Family Season 6》",
+                        "url": "http://bisentence_movie.sogou.com/d993fea611cb78d6e5702e7eb748237a_c3c775dbd93f5d7cbfa6b71d435fac77e7a3b828"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/a501422482fd89e64251ebd1c480bc0a_8623.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/7d37ac9fa8a630d8aa1cbab48c7ff5f9_57605.mp3",
+                        "isLavafox": true,
+                        "en": "You know, I'm just realizing, it wasn't my <em>tone</em> of voice that my boss didn't like. It was the fact that I had a voice.",
+                        "zh": "我突然意识到老板不待见的不是我说话的声调，而是因为我的能力。",
+                        "videoNameZh": "《欲望都市2》",
+                        "videoNameEn": "《Sex and the City 2》",
+                        "url": "http://bisentence_movie.sogou.com/caca8396730d065cac68c5d46e445350_19fea233ccd69b7cf2c98384429e65d5ffa911ca"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/ca940f411633b0de0be4ac84edea3b87_62478.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/6fd403d49f868ff5c27f86468a2871d6_45068.mp3",
+                        "isLavafox": true,
+                        "en": "Let's reboot the whole energy, the whole <em>tone</em> of this puppy and we'll kill it, man. Team Daley! Not tonight, tomorrow.",
+                        "zh": "我们先养精蓄锐，原地满血满状态复活，然后一枪搞定，戴利组合！",
+                        "videoNameZh": "《博物馆奇妙夜3》",
+                        "videoNameEn": "《Night at the Museum: Secret of the Tomb》",
+                        "url": "http://bisentence_movie.sogou.com/3367859a8efd0b4cbee29c89474f0982_2c5d455f755e299cfb9437efc3a99087ef099aa2"
+                    }
+                ]
+            },
+            "pic": "",
+            "voice": {
+                "phonetic": [
+                    {
+                        "text": "təʊn",
+                        "type": "uk",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/5591_tone_uk.mp3"
+                    },
+                    {
+                        "text": "toʊn",
+                        "type": "usa",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/5591_tone_usa.mp3"
+                    }
+                ]
+            },
+            "dictType": "oxford_buchong",
+            "kaoyan": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 1,
+                        "pos": "n",
+                        "chinese": "腔调; 语气; 色调",
+                        "sense_tier_ratio": 50
+                    },
+                    {
+                        "sense_tier": 1,
+                        "pos": "n",
+                        "chinese": "基调",
+                        "sense_tier_ratio": 50
+                    },
+                    {
+                        "sense_tier": 0,
+                        "pos": "cn/un",
+                        "chinese": "音调; 风气; 气氛",
+                        "sense_tier_ratio": 0
+                    }
+                ],
+                "word": "tone",
+                "total_exam_freq": 2,
+                "direction_info": {
+                    "ranges": 12,
+                    "description": "数据源自2012-2023年12年间全国考研试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2012-2023年全国考研英语一和考研英语二共24套考研试卷，包括阅读、完型填空、翻译、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选全国考研考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2012-2023年12年间全国考研英语一和考研英语二试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 1,
+                "word_level_phrase_info": [
+                    {
+                        "brief_definition": "设定基调；确定基调；定基调",
+                        "phrase": "set the tone",
+                        "pos": "phr"
+                    }
+                ],
+                "sense": {
+                    "sense_num": 3,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "腔调; 语气; 色调",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "Simply slowing the pace and talking in an even <highlight>tone</highlight> helps the other person cool down and does the same for you.",
+                                    "month": -1,
+                                    "source": "英语二",
+                                    "coll": "",
+                                    "sentence_trans": "简单地放慢语速，用平稳的语气说话，可以帮助对方冷静下来，对你也一样。",
+                                    "year": 2021,
+                                    "type": "阅读理解B",
+                                    "day": -1
+                                }
+                            ]
+                        },
+                        {
+                            "en": "",
+                            "zh": "基调",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "But it sets the <highlight>tone</highlight> for an exhibition that contains a lot of black-and-white photographs and relatively few natural objects.",
+                                    "month": -1,
+                                    "source": "英语二",
+                                    "coll": "",
+                                    "sentence_trans": "但它为一个包含大量黑白照片和相对较少的自然物体的展览定下了基调。",
+                                    "year": 2014,
+                                    "type": "阅读理解B",
+                                    "day": -1
+                                }
+                            ]
+                        },
+                        {
+                            "synonyms": "",
+                            "en": "",
+                            "zh": "音调; 风气; 气氛",
+                            "pos": "cn/un",
+                            "antonyms": ""
+                        }
+                    ]
+                }
+            },
+            "CET6": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 2,
+                        "pos": "n",
+                        "chinese": "音调; 口气; 风格",
+                        "sense_tier_ratio": 28.57
+                    },
+                    {
+                        "sense_tier": 2,
+                        "pos": "n",
+                        "chinese": "色调",
+                        "sense_tier_ratio": 28.57
+                    },
+                    {
+                        "sense_tier": 2,
+                        "pos": "v",
+                        "chinese": "(色彩/音乐)调和",
+                        "sense_tier_ratio": 28.57
+                    },
+                    {
+                        "sense_tier": 1,
+                        "pos": "n/v",
+                        "chinese": "健康",
+                        "sense_tier_ratio": 14.29
+                    }
+                ],
+                "word": "tone",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2016.6-2023.6年8年间全六级试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight>考纲释义</highlight>\n精选实考、考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2016-2023年51套试卷，包括阅读、听力、翻译等所有题型。\n\n<highlight>真题例句</highlight>\n精选2016-2023年8年间全六级试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 2,
+                "word_family": {
+                    "derivative_info_list": [
+                        {
+                            "derivative_info_list": [],
+                            "word": "tonic",
+                            "mean": "n. 补药；滋补品；主音；具恢复精力功效的东西"
+                        }
+                    ],
+                    "word": "tone",
+                    "mean": "n. 音调；语气；音质；总体特性；风格；气氛；全音；色调；肌肉的紧张性；（Tone）人名：托恩"
+                },
+                "total_exam_freq": 7,
+                "sense": {
+                    "sense_num": 4,
+                    "sense_info_list": [
+                        {
+                            "en": "the quality or character of sound",
+                            "zh": "音调; 口气; 风格",
+                            "pos": "n",
+                            "synonyms": "mood,attitude,character",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "You are still encouraged to keep the talking at library <highlight>tones</highlight> and, whatever you do, keep the information you share simple, like a grocery list.",
+                                    "month": 6,
+                                    "source": "CET6",
+                                    "coll": "",
+                                    "sentence_trans": "我们仍然鼓励你小声说话，并且无论做什么，保持你分享的信息简单，就像一张购物清单一样。",
+                                    "year": 2017,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "One prevalent quality we have found in teen's statements about themselves, their friends and their families is a strikingly positive emotional <highlight>tone</highlight>.",
+                                    "month": 6,
+                                    "source": "CET6",
+                                    "coll": "",
+                                    "sentence_trans": "我们在青少年关于他们自己、他们的朋友和他们的家人的陈述中发现的一个普遍品质是一种非常积极的情绪基调。",
+                                    "year": 2016,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                }
+                            ]
+                        },
+                        {
+                            "en": "",
+                            "zh": "色调",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "Last year Mattel, the company that makes Barbie dolls, added some Barbies to its line that have different skin <highlight>tones</highlight> and hair textures.",
+                                    "month": 12,
+                                    "source": "CET6",
+                                    "coll": "",
+                                    "sentence_trans": "去年，制造芭比娃娃的公司美泰在其产品线中增加了一些具有不同肤色和头发质地的芭比娃娃。",
+                                    "year": 2017,
+                                    "type": "听力",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "There are now Barbies with one of seven skin <highlight>tones</highlight>, 22 eye colours and 24 hair styles to choose from.",
+                                    "month": 12,
+                                    "source": "CET6",
+                                    "coll": "",
+                                    "sentence_trans": "现在有七种肤色、22种眼睛颜色和24种发型可供选择的芭比娃娃。",
+                                    "year": 2017,
+                                    "type": "听力",
+                                    "day": -1
+                                }
+                            ]
+                        },
+                        {
+                            "synonyms": "",
+                            "en": "soften or change the color of",
+                            "zh": "(色彩/音乐)调和",
+                            "pos": "v",
+                            "antonyms": ""
+                        },
+                        {
+                            "synonyms": "",
+                            "en": "",
+                            "zh": "健康",
+                            "pos": "n/v",
+                            "antonyms": ""
+                        }
+                    ]
+                },
+                "exchange_info": {
+                    "word_third": [
+                        "tones"
+                    ],
+                    "word_ing": [
+                        "toning"
+                    ],
+                    "word_done": [
+                        "toned"
+                    ],
+                    "word_pl": [
+                        "tones"
+                    ],
+                    "word_past": [
+                        "toned"
+                    ]
+                }
+            },
+            "CET4": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 4,
+                        "pos": "n",
+                        "chinese": "音调; 口气; 风格",
+                        "sense_tier_ratio": 80
+                    },
+                    {
+                        "sense_tier": 1,
+                        "pos": "v",
+                        "chinese": "(色彩/音乐)调和",
+                        "sense_tier_ratio": 20
+                    }
+                ],
+                "word": "tone",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2016.6-2023.6年8年间全四级试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight>考纲释义</highlight>\n精选实考、考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2016-2023年51套试卷，包括阅读、听力、翻译等所有题型。\n\n<highlight>真题例句</highlight>\n精选2016-2023年8年间试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 1,
+                "total_exam_freq": 5,
+                "sense": {
+                    "sense_num": 2,
+                    "sense_info_list": [
+                        {
+                            "synonyms": "",
+                            "en": "the quality or character of sound",
+                            "zh": "音调; 口气; 风格",
+                            "pos": "n",
+                            "antonyms": ""
+                        },
+                        {
+                            "en": "soften or change the color of",
+                            "zh": "(色彩/音乐)调和",
+                            "pos": "v",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "While some of the budget airlines might use brighter, bolder shades, most others go with softened <highlight>tones</highlight>.",
+                                    "month": 9,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "虽然有的廉价航空公司会采用更明亮、大胆的颜色，但大多数航空公司都会选用柔和的色调。",
+                                    "year": 2020,
+                                    "type": "阅读理解A",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "disambiguation": [
+                    {
+                        "disambiguation_list": [
+                            {
+                                "word": "tone",
+                                "sense_disambiguation": "指人或物发出的声音的音调，引申为“语气”。"
+                            },
+                            {
+                                "word": "sound",
+                                "sense_disambiguation": "泛指任何人或物弄出的声响。"
+                            },
+                            {
+                                "word": "voice",
+                                "sense_disambiguation": "特指人发出的声音。"
+                            },
+                            {
+                                "word": "noise",
+                                "sense_disambiguation": "指噪音。"
+                            }
+                        ],
+                        "sense_group": "声音"
+                    }
+                ],
+                "exchange_info": {
+                    "word_third": [
+                        "tones"
+                    ],
+                    "word_ing": [
+                        "toning"
+                    ],
+                    "word_done": [
+                        "toned"
+                    ],
+                    "word_pl": [
+                        "tones"
+                    ],
+                    "word_past": [
+                        "toned"
+                    ]
+                }
+            },
+            "gaokao": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 1,
+                        "pos": "n",
+                        "chinese": "声音; 音调; 音色",
+                        "sense_tier_ratio": 100
+                    },
+                    {
+                        "sense_tier": 0,
+                        "pos": "n",
+                        "chinese": "声调; 字调",
+                        "sense_tier_ratio": 0
+                    },
+                    {
+                        "sense_tier": 0,
+                        "pos": "n",
+                        "chinese": "腔调; 语气",
+                        "sense_tier_ratio": 0
+                    },
+                    {
+                        "sense_tier": 0,
+                        "pos": "n",
+                        "chinese": "色调; 明暗",
+                        "sense_tier_ratio": 0
+                    },
+                    {
+                        "sense_tier": 0,
+                        "pos": "n",
+                        "chinese": "风格; 气氛",
+                        "sense_tier_ratio": 0
+                    },
+                    {
+                        "sense_tier": 0,
+                        "pos": "n",
+                        "chinese": "结实; 梁韧",
+                        "sense_tier_ratio": 0
+                    },
+                    {
+                        "sense_tier": 0,
+                        "pos": "v",
+                        "chinese": "使更健壮",
+                        "sense_tier_ratio": 0
+                    },
+                    {
+                        "sense_tier": 0,
+                        "pos": "v",
+                        "chinese": "与…协调; 与…相配",
+                        "sense_tier_ratio": 0
+                    }
+                ],
+                "word": "tone",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2015-2022年8年间全国卷和自主命题省市高考卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2015-2022年全国卷高考试卷，包括阅读、完形、单选、填空、听力、改错、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选各省市考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2015-2022年8年间全国卷和自主命题省市高考卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 1,
+                "total_exam_freq": 1,
+                "sense": {
+                    "sense_num": 8,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "声音; 音调; 音色",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "tends to imitate human beings' <highlight>tone</highlight> vividly",
+                                    "month": -1,
+                                    "source": "天津卷",
+                                    "coll": "",
+                                    "sentence_trans": "倾向于生动地模仿人类的语调",
+                                    "year": 2021,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                }
+                            ]
+                        },
+                        {
+                            "synonyms": "",
+                            "en": "",
+                            "zh": "声调; 字调",
+                            "pos": "n",
+                            "antonyms": ""
+                        },
+                        {
+                            "synonyms": "",
+                            "en": "",
+                            "zh": "腔调; 语气",
+                            "pos": "n",
+                            "antonyms": ""
+                        },
+                        {
+                            "synonyms": "",
+                            "en": "",
+                            "zh": "色调; 明暗",
+                            "pos": "n",
+                            "antonyms": ""
+                        },
+                        {
+                            "synonyms": "",
+                            "en": "",
+                            "zh": "风格; 气氛",
+                            "pos": "n",
+                            "antonyms": ""
+                        },
+                        {
+                            "synonyms": "",
+                            "en": "",
+                            "zh": "结实; 梁韧",
+                            "pos": "n",
+                            "antonyms": ""
+                        },
+                        {
+                            "synonyms": "",
+                            "en": "",
+                            "zh": "使更健壮",
+                            "pos": "v",
+                            "antonyms": ""
+                        },
+                        {
+                            "synonyms": "",
+                            "en": "",
+                            "zh": "与…协调; 与…相配",
+                            "pos": "v",
+                            "antonyms": ""
+                        }
+                    ]
+                }
+            },
+            "zhongkao": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 6,
+                        "pos": "n",
+                        "chinese": "腔调; 语气",
+                        "sense_tier_ratio": 75
+                    },
+                    {
+                        "sense_tier": 2,
+                        "pos": "n",
+                        "chinese": "声调; 字调",
+                        "sense_tier_ratio": 25
+                    }
+                ],
+                "word": "tone",
+                "direction_info": {
+                    "ranges": 4,
+                    "description": "数据源自2018-2021年4年间全国各省市中考试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2018-2021年全国重点省市中考试卷，包括听力、阅读、完形、单选、填空、改错、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选各省市考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2018-2021年4年间全国各省市中考试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 2,
+                "total_exam_freq": 8,
+                "sense": {
+                    "sense_num": 2,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "腔调; 语气",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "Daddy with a high falling <highlight>tone</highlight> means \"There's daddy\".",
+                                    "month": -1,
+                                    "source": "杭州市卷",
+                                    "coll": "",
+                                    "sentence_trans": "“爸爸”的降调很高，意思是“爸爸来了”。",
+                                    "year": 2021,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "The writer wrote the passage in a surprising <highlight>tone</highlight> (语气).",
+                                    "month": -1,
+                                    "source": "临沂市卷",
+                                    "coll": "",
+                                    "sentence_trans": "作者用令人惊讶的语调写了这篇文章。",
+                                    "year": 2021,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "You should also remember to smile as you speak, and use a friendly <highlight>tone</highlight>(语调).",
+                                    "month": -1,
+                                    "source": "江西卷",
+                                    "coll": "",
+                                    "sentence_trans": "你也应该记得说话时面带微笑，并使用友好的语气。",
+                                    "year": 2019,
+                                    "type": "完形填空B",
+                                    "day": -1
+                                }
+                            ]
+                        },
+                        {
+                            "en": "",
+                            "zh": "声调; 字调",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "Of course, only very basic meanings can be communicated using <highlight>tones</highlight> alone.",
+                                    "month": -1,
+                                    "source": "杭州市卷",
+                                    "coll": "",
+                                    "sentence_trans": "当然，只有非常基本的意思可以单独用音调来表达。",
+                                    "year": 2021,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            "sentencesData": {
+                "status": 1,
+                "info": "notZh2En",
+                "data": {}
+            },
+            "isAutoMatch": false,
+            "Zh2En": false
+        },
+        "query": "tone",
+        "result": "色调",
+        "tabSelect": "detail",
+        "dictionaryType": "oxford_buchong",
+        "notFound_show": false,
+        "phoneticShow": "",
+        "globalShowTranslateRecord": "",
+        "pronPrefer": {
+            "type": "usa_1",
+            "speaker": "male",
+            "speed": "standard"
+        },
+        "ServerRecord": "",
+        "ServerUIGS": {
+            "version": "new",
+            "type": "all",
+            "stype": "success",
+            "terminal": "web",
+            "fr": "default",
+            "direction": "etoz",
+            "from": "en",
+            "to": "zh-CHS",
+            "len": 4,
+            "qtype": "text",
+            "qctype": "qc_1",
+            "dict_cover": 1,
+            "detail": 1,
+            "wordCardCover": 1,
+            "wordCardEn": 1,
+            "wordCardCh": 0,
+            "wordCardMinor": 0,
+            "wordCardNetmean": 0,
+            "wordDeform": 1,
+            "keyword": 0,
+            "bilingual": 1,
+            "simple": 0,
+            "levelList": 1,
+            "synonym": 1,
+            "antonym": 1,
+            "conjugate": 1,
+            "rootaffix": 0,
+            "baike_sogou": 1,
+            "baike_wiki": 0,
+            "wordDifference": 0,
+            "word_phrase": 1,
+            "secondQuery": 0,
+            "dict_oxford": 0,
+            "dict_newcentury": 0,
+            "zhongkaotab": 1,
+            "gaokaotab": 1,
+            "CET4tab": 1,
+            "CET6tab": 1,
+            "kaoyantab": 1,
+            "network_tab": 0,
+            "yinying_tab": 1,
+            "tuozhan_tab": 0,
+            "one_pic": 0,
+            "more_pic": 0,
+            "no_pic": 0,
+            "uuid": "2e983cbc-7e33-4f3c-ab5d-4724b91fae68",
+            "from_type": 0,
+            "t_trans_ssr": 197
+        },
+        "ServerModelUIGS": {
+            "terminal": "web",
+            "type": "trans_model",
+            "pbtype": "pv",
+            "model_general": 1,
+            "model_medical": 1,
+            "model_finance": 1
+        },
+        "ServerSgtkn": "6523AA843BFF913833351A8E485F0BCB3357FD7867554F60",
+        "suggShow": false,
+        "suggestion": "",
+        "suggDirection": "",
+        "usualTop": "",
+        "baseDict": "",
+        "wordCardClick": false,
+        "isFrInput": false,
+        "kanaTips": {
+            "show": false,
+            "left": "",
+            "top": "",
+            "type": "",
+            "arrowLeft": ""
+        },
+        "currSentenceIndex": -1,
+        "prefixStrObj": {
+            "prefixStr": "",
+            "oriPrefixStr": ""
+        },
+        "selectTransBox": {
+            "show": false,
+            "right": 0,
+            "top": 0,
+            "paraphraseInfo": {
+                "word": "",
+                "from": "",
+                "to": "",
+                "area": ""
+            }
+        },
+        "sentenceLoading": false,
+        "newSentenceInfo": {
+            "sentence": "",
+            "candidateIndex": 0
+        },
+        "moreTipInfo": {
+            "opacity": 0,
+            "zIndex": -1
+        },
+        "paraphraseShowInfo": {
+            "card": 0,
+            "query": "",
+            "card_dict": 0
+        },
+        "selectType": "",
+        "wordPos": 0,
+        "candidateWord": "",
+        "syntaxVisible": false,
+        "syntaxStatus": 0
+    },
+    "language": {
+        "from": "auto",
+        "to": "zh-CHS",
+        "detect": "en",
+        "model": "general",
+        "detectShow": false,
+        "langMap": {
+            "current": ""
+        },
+        "zh2en": false,
+        "fromItemList": [
+            {
+                "lang": "auto",
+                "text": "自动检测",
+                "play": false
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "es",
+                "text": "西班牙语",
+                "play": true,
+                "abbr": "西"
+            },
+            {
+                "lang": "th",
+                "text": "泰语",
+                "play": true,
+                "abbr": "泰"
+            },
+            {
+                "lang": "vi",
+                "text": "越南语",
+                "play": true,
+                "abbr": "越"
+            }
+        ],
+        "toItemList": [
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "ko",
+                "text": "韩语",
+                "play": true,
+                "abbr": "韩"
+            },
+            {
+                "lang": "ru",
+                "text": "俄语",
+                "play": true,
+                "abbr": "俄"
+            },
+            {
+                "lang": "vi",
+                "text": "越南语",
+                "play": true,
+                "abbr": "越"
+            }
+        ]
+    },
+    "voice": {
+        "from": {
+            "lang": "en",
+            "type": "from",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22tone%22%2C%22spokenDialect%22%3A%22en%22%2C%22rate%22%3A%220.8%22%7D",
+            "list": [
+                {
+                    "type": "uk_0",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "təʊn",
+                    "abbr": "英",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/5591_tone_uk.mp3"
+                },
+                {
+                    "type": "usa_1",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "toʊn",
+                    "abbr": "美",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/5591_tone_usa.mp3"
+                }
+            ],
+            "stype": "phonetic",
+            "phoneticShow": [
+                {
+                    "text": "təʊn",
+                    "type": "uk",
+                    "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/5591_tone_uk.mp3"
+                },
+                {
+                    "text": "toʊn",
+                    "type": "usa",
+                    "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/5591_tone_usa.mp3"
+                }
+            ]
+        },
+        "to": {
+            "lang": "zh",
+            "type": "to",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22%E8%89%B2%E8%B0%83%22%2C%22spokenDialect%22%3A%22zh-CHS%22%2C%22rate%22%3A%220.8%22%7D",
+            "stype": "normal"
+        }
+    }
+}

@@ -1,0 +1,996 @@
+{
+    "route": {
+        "name": "text",
+        "path": "/text",
+        "hash": "",
+        "query": {
+            "keyword": "killing",
+            "transfrom": "auto",
+            "transto": "zh-CHS",
+            "model": "general",
+            "errcode": "s10"
+        },
+        "params": {},
+        "fullPath": "/text?keyword=killing&transfrom=auto&transto=zh-CHS&model=general&errcode=s10",
+        "meta": {
+            "mtype": [
+                "textTranslate",
+                "language",
+                "voice"
+            ]
+        },
+        "from": {
+            "name": null,
+            "path": "/",
+            "hash": "",
+            "query": {},
+            "params": {},
+            "fullPath": "/",
+            "meta": {}
+        }
+    },
+    "common": {
+        "CONFIG": {
+            "wuid": 1733641485935,
+            "loginInfo": {},
+            "isIE": 0,
+            "isHitSsrSwitch": true,
+            "isHitWritebookSwitch": false,
+            "isHitAmsSwitch": true,
+            "promotionList": "{\n    \"pc_bottom\":{\n        \"imgsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\",\n        \"qcsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\"\n    },\n    \"pc_middle\":[\n        {\n            \"src\":\"//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c\",\n            \"bgColor\":\"#ffffff\",\n            \"link\":\"\"\n        }\n    ],\n    \"pc_survey\":{\n        \"icon\":\"//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750\",\n        \"link\":\"https://wj.qq.com/s2/8193148/806d/\"\n    }\n}",
+            "bannerData": [],
+            "isHitAsideSurvey": false,
+            "secretCode": 109984457,
+            "uuid": "a694ab41-3a76-4312-abb2-74d39406baf2",
+            "referer": "",
+            "approveToken": "6513E731C8214FE7EDEBC4503102305DEDFD6C816755450D",
+            "loadTime": 1733641485937,
+            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0",
+            "fcp": "159.89.9.38",
+            "temporaryId": "",
+            "fileId": ""
+        },
+        "hotWords": [],
+        "isFromCollect": false,
+        "psdModify": {
+            "currentStep": 1,
+            "scode": "",
+            "username": ""
+        },
+        "loginStatus": true,
+        "feedBackModule": false,
+        "showPromotionPopup": {
+            "show": false,
+            "type": ""
+        },
+        "showPromotionPCDownload": false,
+        "showShareBomb": false,
+        "shareData": null,
+        "showAppDownLoad": false,
+        "showLoginDialog": false,
+        "showLoading": {
+            "show": false
+        },
+        "toast": {
+            "show": false,
+            "text": "",
+            "loading": false
+        },
+        "modelToast": {
+            "show": false,
+            "text": ""
+        },
+        "selectionGlobalShow": true,
+        "selectionInfo": {
+            "left": 0,
+            "top": 0,
+            "show": false,
+            "from": "",
+            "to": "",
+            "val": "",
+            "area": ""
+        },
+        "showConfirmDialog": false,
+        "promotionList": {
+            "pc_bottom": {
+                "imgsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png",
+                "qcsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png"
+            },
+            "pc_middle": [
+                {
+                    "src": "//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c",
+                    "bgColor": "#ffffff",
+                    "link": ""
+                }
+            ],
+            "pc_survey": {
+                "icon": "//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750",
+                "link": "https://wj.qq.com/s2/8193148/806d/"
+            }
+        },
+        "transTypeTxt": "text",
+        "fixedTabStatus": 0,
+        "bodyTop": 0,
+        "ifHideUserOperation": false
+    },
+    "textTranslate": {
+        "prevTransQuery": "",
+        "translateData": {
+            "translate": {
+                "zly": "zly",
+                "errorCode": "0",
+                "qc_type": "1",
+                "index": "content0",
+                "from": "en",
+                "source": "sogou",
+                "text": "killing",
+                "to": "zh-CHS",
+                "id": "a694ab41-3a76-4312-abb2-74d39406baf2",
+                "dit": "谋杀",
+                "orig_text": "killing",
+                "md5": ""
+            },
+            "detect": {
+                "zly": "zly",
+                "detect": "en",
+                "errorCode": "0",
+                "language": "英语",
+                "id": "b4e0ac30-b532-11ef-b9a5-25d1cca19dba",
+                "text": "killing"
+            },
+            "sgtkn": "6513E736C8214FE7EDEBC4503102305DEDFD6C816755450D",
+            "wordCard": {
+                "title": "killing",
+                "show": true,
+                "usualDict": [
+                    {
+                        "values": [
+                            "谋杀；杀戮；屠杀；（动物的）捕杀"
+                        ],
+                        "pos": "n."
+                    },
+                    {
+                        "values": [
+                            "杀害的；致死的；使人筋疲力尽的；费力的；令人发笑的"
+                        ],
+                        "pos": "adj."
+                    },
+                    {
+                        "values": [
+                            "杀害；消灭；扼杀；结束；使筋疲力尽；破坏；毁灭；使受折磨；（kill的现在分词）"
+                        ],
+                        "pos": "v."
+                    }
+                ],
+                "secondQuery": "",
+                "exchange": {
+                    "word_proto": [
+                        "kill"
+                    ],
+                    "word_pl": [
+                        "killings"
+                    ]
+                },
+                "levelList": [
+                    "小学",
+                    "初中",
+                    "高中",
+                    "四级",
+                    "六级",
+                    "考研"
+                ]
+            },
+            "detail": {
+                "synonym": [
+                    {
+                        "word_list": [
+                            "taking",
+                            "charming"
+                        ],
+                        "pos": "adj.",
+                        "mean": "杀害的；迷人的；使人筋疲力尽的"
+                    },
+                    {
+                        "word_list": [
+                            "bag",
+                            "murder"
+                        ],
+                        "pos": "n.",
+                        "mean": "杀戮；谋杀；猎获物"
+                    }
+                ],
+                "wordRootInfo": {
+                    "word_info_list": [
+                        {
+                            "word": "kill",
+                            "pos_mean_info_list": [
+                                {
+                                    "pos": "adj.",
+                                    "mean": "致命的；致死的"
+                                },
+                                {
+                                    "pos": "n.",
+                                    "mean": "杀戮；屠杀"
+                                },
+                                {
+                                    "pos": "vi.",
+                                    "mean": "杀死"
+                                },
+                                {
+                                    "pos": "vt.",
+                                    "mean": "杀死；扼杀；使终止；抵消"
+                                }
+                            ]
+                        },
+                        {
+                            "word": "killingly",
+                            "pos_mean_info_list": [
+                                {
+                                    "pos": "adv.",
+                                    "mean": "吸引人地"
+                                }
+                            ]
+                        },
+                        {
+                            "word": "killer",
+                            "pos_mean_info_list": [
+                                {
+                                    "pos": "n.",
+                                    "mean": "杀手；致死；止痛药；宰杀的器具；断路器"
+                                }
+                            ]
+                        }
+                    ],
+                    "root_word": "kill"
+                },
+                "word_group": [
+                    {
+                        "brief_definition": "安乐死；无痛致死",
+                        "phrase": "mercy killing",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "获得巨大财政收益；致富",
+                        "phrase": "make a killing",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "雪耻杀亲；荣誉杀亲",
+                        "phrase": "honour killing",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "屠场；血洗之地",
+                        "phrase": "killing field",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "军事行动的死亡密集区；人体致死部位",
+                        "phrase": "killing zone",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "杀虫瓶",
+                        "phrase": "killing bottle",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "非法谋杀；不合法的谋杀；非法致死",
+                        "phrase": "unlawful killing",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "残忍的杀害",
+                        "phrase": "brutal killing",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "停止杀戮",
+                        "phrase": "stop killing",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "杀戮狂欢；杀人狂欢；杀戒",
+                        "phrase": "killing spree",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "意外杀害；意外杀人",
+                        "phrase": "accidental killing",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "报复性杀戮；复仇杀戮；仇杀",
+                        "phrase": "revenge killing",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "无情的凶杀；无意义杀害；毫无意义的杀害",
+                        "phrase": "senseless killing",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "契约杀人；职业谋杀",
+                        "phrase": "contract killing",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "随机杀人",
+                        "phrase": "random killing",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "某人说要杀……",
+                        "phrase": "say killing",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "消遣性打猎",
+                        "phrase": "killing for sport",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "破坏一颗钻石",
+                        "phrase": "killing a diamond",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "报告死亡",
+                        "phrase": "report killing",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "复仇杀戮",
+                        "phrase": "avenge killing",
+                        "pos": ""
+                    }
+                ],
+                "bilingual": [
+                    {
+                        "source": "We condemn this premeditated <em>killing</em>.",
+                        "target": "我们谴责预谋杀害行为。",
+                        "url": "www.kekenet.com"
+                    },
+                    {
+                        "source": "A court in Pakistan has rejected the murder conviction of the accused mastermind in the Daniel Pearl <em>killing</em>.",
+                        "target": "巴基斯坦法院推翻了谋杀丹尼尔·珀尔始作俑者的谋杀罪名。",
+                        "url": "www.kekenet.com"
+                    },
+                    {
+                        "source": "I thought you said mercy <em>killing</em> and first-degree murder were very different crimes!",
+                        "target": "我想你说过安乐死跟一级谋杀是不同的罪名！",
+                        "url": "dict.youdao.com"
+                    },
+                    {
+                        "source": "The unlawful <em>killing</em> of one human being by another, especially with premeditated malice.",
+                        "target": "谋杀一个人对另一个的非法杀害，尤指有预谋的…",
+                        "url": "www.jukuu.com"
+                    },
+                    {
+                        "source": "Judges convicted Stephan Balliet of murder and attempted murder for <em>killing</em> two people and wounding others on Judaism's holiest day.",
+                        "target": "法官判定斯蒂芬·巴利特在犹太教最神圣的日子杀害两人并伤害其他人，罪名是谋杀和谋杀未遂。",
+                        "url": "www.kekenet.com"
+                    },
+                    {
+                        "source": "Markoff is accused of <em>killing</em> a masseuse whom he may have met through Craigslist.",
+                        "target": "马尔科夫被指控谋杀,对象为可能是他通过克雷格列表认识的女按摩师.",
+                        "url": "www.mayaguezincident.com"
+                    },
+                    {
+                        "source": "But what at first appeared to be a heartbreaking tragedy turned out to be a cold-blooded <em>killing</em>.",
+                        "target": "但一开始看起来令人心碎的悲剧最后被证明是一场冷血的谋杀。",
+                        "url": "www.kekenet.com"
+                    },
+                    {
+                        "source": "The man accused of abducting and <em>killing</em> a teenager from Kansas has made a brief appearance in court.",
+                        "target": "一名男子因被控绑架及谋杀一名堪萨斯州青年接受了法庭审判。",
+                        "url": "dict.youdao.com"
+                    },
+                    {
+                        "source": "Some states have specified varying penalties for murder, depending upon the circumstances of the <em>killing</em>.",
+                        "target": "一些州根据杀人的实际情况对谋杀罪规定了不同的惩罚。",
+                        "url": "dict.youdao.com"
+                    },
+                    {
+                        "source": "One of the fastest ways to cut our dependence on old dirty fuels that are <em>killing</em> our planet.",
+                        "target": "肮脏石油正在谋杀我们的星球，这是让我们减少对其依赖的最快方式。",
+                        "url": "www.kekenet.com"
+                    }
+                ]
+            },
+            "book": {
+                "yingyinNormal": [
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/abd937b2672222a78ae14a2575251d2d_52124.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/1079d87cff8da930b63c77990d55595a_64578.mp3",
+                        "isLavafox": true,
+                        "en": "Well. <em>Killing</em> me would make you a hero.",
+                        "zh": "那么杀了我，你就是个英雄了。",
+                        "videoNameZh": "《魔兽》",
+                        "videoNameEn": "《Warcraft》",
+                        "url": "http://bisentence_movie.sogou.com/466cf39652ab8271d403cbd5d971c1c0_10362b3f3ab7617cc5e76584cbb2ced089845bae"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/3cc7f04bc4e6bde5cc691b286df1a676_37630.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/25aa81d2a8b93f1cb6167f50e89024e8_5374.mp3",
+                        "isLavafox": true,
+                        "en": "Nice shoes, huh? God, you're <em>killing</em> me!",
+                        "zh": "鞋子正点吧，我快笑死了。",
+                        "videoNameZh": "《老友记第一季》",
+                        "videoNameEn": "《Friends Season 1》",
+                        "url": "http://bisentence_movie.sogou.com/23229a2db9deef03e42b4ab5fde1241b_eb554c4f81ce88ca432acfcae68df859565f4d48"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/a501422482fd89e64251ebd1c480bc0a_8623.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/6fe0d0fb0dfccae16d53cfdcc47c9845_28774.mp3",
+                        "isLavafox": true,
+                        "en": "Walking around. <em>Killing</em> time. Torturing you.",
+                        "zh": "四处游荡，消磨时间，折磨你。",
+                        "videoNameZh": "《欲望都市2》",
+                        "videoNameEn": "《Sex and the City 2》",
+                        "url": "http://bisentence_movie.sogou.com/13e98e83dcb8a607f8507261e1ca7824_7a9672d6ee3059e03c44dd0f98e84e6bd90cd4f5"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/dde03d29cdf9f1eb3170279dd5ad8ff2_46072.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/6d49798eecf32d0f516ca93d0ddecf57_49511.mp3",
+                        "isLavafox": true,
+                        "en": "This is <em>killing</em> her. At least something's dying.",
+                        "zh": "这简直要让她气死了，至少有什么要死掉了。",
+                        "videoNameZh": "《摩登家庭 第六季》",
+                        "videoNameEn": "《Modern Family Season 6》",
+                        "url": "http://bisentence_movie.sogou.com/e9be66ddb09c82cd259f25f1a1deedd5_8b9f6afad048f4774bd56bb133a700513e56bcf6"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/abd937b2672222a78ae14a2575251d2d_52124.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/03682ed337737df2bb708c68f5004261_18971.mp3",
+                        "isLavafox": true,
+                        "en": "Blackhand comes to claim the honor of <em>killing</em> you.",
+                        "zh": "黑手要过来杀掉你，从而获得荣耀。",
+                        "videoNameZh": "《魔兽》",
+                        "videoNameEn": "《Warcraft》",
+                        "url": "http://bisentence_movie.sogou.com/860131206098fe4999b8125d53b2e411_7a37bf2cf71a3d7b9677b5768547220f3612b74c"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/c5a4e88ca32eb4b490c0c5e6f032cbf8_9664.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/424befec64b8675a813e90271119adb3_29854.mp3",
+                        "isLavafox": true,
+                        "en": "Don't drink coke, it's <em>killing</em> you and your family.",
+                        "zh": "停止喝可乐，它正在杀死你与你的家人。",
+                        "videoNameZh": "《可口可乐史上最诚实的广告》",
+                        "videoNameEn": "《Most honest Brand Commercial》",
+                        "url": "http://bisentence_movie.sogou.com/08c9ec665e753ac59d09657ddd497d60_b92a8e0aefe9cb75d646c0a94c5378b6a3965ceb"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/90d695a9e78539f7e946c7586f56f1f7_47628.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/c01b5b19f2ebcf4c63ca3c4640011f60_16716.mp3",
+                        "isLavafox": true,
+                        "en": "I just wanted to say thanks for <em>killing</em> those things.",
+                        "zh": "等一下，我只是想谢谢你杀了那些东西。",
+                        "videoNameZh": "《阿凡达》",
+                        "videoNameEn": "《Avatar》",
+                        "url": "http://bisentence_movie.sogou.com/fb86273e260e7e63f248d2b5ec7bbd2f_2211f86a3cb77a5698fb6db298fb82b08a2a1a8e"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/1a903f0039362b0ab8a048b9ba9c9d66_30399.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/d879785e5843e09e8639e14442b60a09_54276.mp3",
+                        "isLavafox": true,
+                        "en": "Like <em>killing</em> people?",
+                        "zh": "例如杀人是吗？",
+                        "videoNameZh": "《木星上行》",
+                        "videoNameEn": "《Jupiter Ascending》",
+                        "url": "http://bisentence_movie.sogou.com/7a9d6168b8c17f08414d7e1b693d8ec5_68f6ef0fd2afb984b26181a7bcf52926af67bbd3"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/ce4704185ed874d2da0aa0211b7c5d4d_3508.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/45ffe7ede354c9d5e480d54eeb3915c1_46553.mp3",
+                        "isLavafox": true,
+                        "en": "But if you do this, you're not <em>killing</em> Rachel, you're <em>killing</em> Cassie.",
+                        "zh": "但是你要是下手，杀的就不是瑞秋，而是凯茜。",
+                        "videoNameZh": "《纸牌屋 第三季》",
+                        "videoNameEn": "《House of Cards Season 3》",
+                        "url": "http://bisentence_movie.sogou.com/6f9e76d0eae4286708b2529ad8e0e478_03dd2473473e505f518db36a1e7511ddbf0000ac"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/abd937b2672222a78ae14a2575251d2d_52124.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/631227b1d08bcd3c28ae9ef3ab1c3887_23931.mp3",
+                        "isLavafox": true,
+                        "en": "Your <em>killing</em> me is the only hope we have for peace.",
+                        "zh": "你杀了我是我们唯一能获得和平的希望。",
+                        "videoNameZh": "《魔兽》",
+                        "videoNameEn": "《Warcraft》",
+                        "url": "http://bisentence_movie.sogou.com/e24958f947a0cdf7daa2b1ff76145a58_7a55c55677e08e089a57cc254afa93b8f35c7d68"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/7eb0bec9540cbb2c5939554caf885c99_49670.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/4165b532221ac66a633f4875019af5af_50819.mp3",
+                        "isLavafox": true,
+                        "en": "By the way, my leg is <em>killing</em> me. Thanks for asking.",
+                        "zh": "顺便说一句，我的腿疼死了，谢谢关心。",
+                        "videoNameZh": "《生活大爆炸 第二季》",
+                        "videoNameEn": "《The Big Bang Theory Season 2》",
+                        "url": "http://bisentence_movie.sogou.com/9f6850b8e40c4f9d545eb3fd3430bc5b_0cff73f659e20ede95ebfce38415e36fe088ca00"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/7008ca6fbe26f870ee501ae605f56029_21423.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/4e7d62438a9b5d169235d3d69332b95d_34206.mp3",
+                        "isLavafox": true,
+                        "en": "So, what? We, either have a high chance of <em>killing</em> 1 person, or low chance of <em>killing</em> 6 people. How do we make that decision?",
+                        "zh": "所以怎么办？我们要么冒高风险杀死一个人，或者冒低风险杀死6个人。我们怎么抉择？",
+                        "videoNameZh": "《火星救援》",
+                        "videoNameEn": "《The Martian》",
+                        "url": "http://bisentence_movie.sogou.com/f8dda3a18791d1a80bc09cbe6453cc97_ea4c5e4f40175a45efd10554ff4974cf740b5065"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/eb018cf49e3f89f3bef3ea53525e6ccf_56032.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/05b26e4fc7968c058d63155b60a496b9_19090.mp3",
+                        "isLavafox": true,
+                        "en": "I find you guilty of murder, because you are <em>killing</em> it.",
+                        "zh": "我宣判你犯了杀人罪，因为我们要被你笑\"死\"啦。",
+                        "videoNameZh": "《生活大爆炸 第十二季》",
+                        "videoNameEn": "《The Big Bang Theory Season 12》",
+                        "url": "http://bisentence_movie.sogou.com/b022f581783c8508b9246e8eb9af9f73_ad7325e1cd38c7fe203fc6e149249476af6a5f6e"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/8c8121ba625813224bb8057be9bbd47c_49327.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/21e09b0d5808e0b05935f4fdcc9ea9b1_60310.mp3",
+                        "isLavafox": true,
+                        "en": "You're <em>killing</em> this team. Art, I can do this all day long.",
+                        "zh": "你在扼杀这支球队，阿尔特，我能这么一直搞下去。",
+                        "videoNameZh": "《点球成金》",
+                        "videoNameEn": "《Moneyball》",
+                        "url": "http://bisentence_movie.sogou.com/c2e07b0b0be724f52638067904020442_470a5c6c3eced4d9450b84f17c5c982a09ad0ca5"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/abd937b2672222a78ae14a2575251d2d_52124.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/aad4ba5b799a1f42e1ed96f2b2ac614a_33619.mp3",
+                        "isLavafox": true,
+                        "en": "You told Lady Taria that <em>killing</em> her would bring you honor.",
+                        "zh": "你跟塔丽雅夫人说过杀了她能带给你荣誉。",
+                        "videoNameZh": "《魔兽》",
+                        "videoNameEn": "《Warcraft》",
+                        "url": "http://bisentence_movie.sogou.com/43b5aabd6e86d77fa61442d6f933d749_2ac0c3b8c9a0385dfc9b87d5dddcc76a5bdb3692"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/3f86fa9dca75619883a88b3b0e866f56_16599.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/c31234bf3715b09a97f3cb6c00568120_30981.mp3",
+                        "isLavafox": true,
+                        "en": "<em>Killing</em> Shaw will not bring you peace. Peace was never an option.",
+                        "zh": "杀死萧，不会让你得到平静。我从未奢求内心平静。",
+                        "videoNameZh": "《X战警：第一战》",
+                        "videoNameEn": "《X-Men: First Class》",
+                        "url": "http://bisentence_movie.sogou.com/61015f74741a004f65497689df0bedc7_2c7896a61f6cfa5f2c76b4481ddd02d5a4b0db88"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/8b3da16ecbe350aacc1a7e4a01d210bc_49869.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/199084db121e6b4cdf461d97df39717b_24670.mp3",
+                        "isLavafox": true,
+                        "en": "That covers anything from farting in bed to <em>killing</em> a homeless guy.",
+                        "zh": "你说的这范围广的可以从被窝里放屁延伸到杀害流浪汉。",
+                        "videoNameZh": "《生活大爆炸 第四季》",
+                        "videoNameEn": "《The Big Bang Theory Season 4》",
+                        "url": "http://bisentence_movie.sogou.com/447d9bc5eda848efbd3389b7d49224eb_3be0bb7974ae474310f8588c1adeeae1846f7141"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/f16459596df3710a106bb1d872f3557d_7212.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/9c29216727e73d9b4b6ac72b9a3b5fde_21169.mp3",
+                        "isLavafox": true,
+                        "en": "Haven't I told you? <em>Killing</em> Mudbloods doesn't matter to me anymore.",
+                        "zh": "我没告诉过你吗？杀掉麻种对我来说已经没那么重要。",
+                        "videoNameZh": "《哈利波特与密室》",
+                        "videoNameEn": "《Harry Potter and the Chamber of Secrets》",
+                        "url": "http://bisentence_movie.sogou.com/8c5e2d6d41a64e0948107dca939881a6_400606c93367da939c33145dadf5cffd75f687d2"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/35dcfa93c7a7b3170f285e8ce3ee5949_46080.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/fc0ede25b1c24219593bee5bcc9fc6f4_4327.mp3",
+                        "isLavafox": true,
+                        "en": "He's trying to save up to build inventory, and rent is <em>killing</em> him.",
+                        "zh": "他想省下钱来多做一些产品，但房租快逼死他了。",
+                        "videoNameZh": "《摩登家庭 第七季》",
+                        "videoNameEn": "《Modern Family Season 7》",
+                        "url": "http://bisentence_movie.sogou.com/395abad89ce9f58eae86f59884926ffd_99c412d2fde915bc285db32ff813a2227b1554c2"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/178d946ef640c7de6e0f6c8df29d5810_67890.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/54ebe2997a641b327efdf93e2ba17021_35167.mp3",
+                        "isLavafox": true,
+                        "en": "I know what Trask has done, but <em>killing</em> him will not bring them back.",
+                        "zh": "我知道特斯拉克做了什么，但是杀了他也无补于事。",
+                        "videoNameZh": "《X战警：逆转未来》",
+                        "videoNameEn": "《X-Men: Days of Future Past》",
+                        "url": "http://bisentence_movie.sogou.com/be2a4e4ef34be5a41adc1c9fd06fcc43_91754636dcb8ae6f7fa3a5a3bdb6e9a9a151f66a"
+                    }
+                ]
+            },
+            "pic": "",
+            "voice": {
+                "phonetic": [
+                    {
+                        "text": "ˈkɪlɪŋ",
+                        "type": "uk",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/3960_killing_uk.mp3"
+                    },
+                    {
+                        "text": "ˈkɪlɪŋ",
+                        "type": "usa",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/3960_killing_usa.mp3"
+                    }
+                ]
+            },
+            "dictType": "oxford_buchong",
+            "CET4": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 1,
+                        "pos": "n",
+                        "chinese": "故意杀人; 谋杀",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "killing",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2016.6-2023.6年8年间全四级试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight>考纲释义</highlight>\n精选实考、考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2016-2023年51套试卷，包括阅读、听力、翻译等所有题型。\n\n<highlight>真题例句</highlight>\n精选2016-2023年8年间试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 1,
+                "word_family": {
+                    "derivative_info_list": [
+                        {
+                            "derivative_info_list": [],
+                            "word": "killer",
+                            "mean": "n. 杀者；杀手；凶手；待屠宰的动物；可怕的人；极好的人；戏谑；玩笑"
+                        },
+                        {
+                            "derivative_info_list": [],
+                            "word": "killing",
+                            "mean": "n. 谋杀；故意杀人；致死"
+                        }
+                    ],
+                    "word": "kill",
+                    "mean": "v. 致死；杀死；终止；挫败；使倾倒；使折服；消磨；杀光；灭绝；使绝迹"
+                },
+                "total_exam_freq": 1,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "an act of killing sb deliberately",
+                            "zh": "故意杀人; 谋杀",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "Dorchester County officials apologized for the accidental mass <highlight>killing</highlight> of bees.",
+                                    "month": 6,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "多切斯特县官员为意外大规模捕杀蜜蜂道歉。",
+                                    "year": 2018,
+                                    "type": "听力",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            "zhongkao": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 1,
+                        "pos": "n",
+                        "chinese": "谋杀",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "killing",
+                "direction_info": {
+                    "ranges": 4,
+                    "description": "数据源自2018-2021年4年间全国各省市中考试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2018-2021年全国重点省市中考试卷，包括听力、阅读、完形、单选、填空、改错、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选各省市考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2018-2021年4年间全国各省市中考试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 1,
+                "word_family": {
+                    "derivative_info_list": [
+                        {
+                            "derivative_info_list": [],
+                            "word": "killer",
+                            "mean": "n. 杀者；杀手；凶手；待屠宰的动物；可怕的人；极好的人；戏谑；玩笑"
+                        },
+                        {
+                            "derivative_info_list": [],
+                            "word": "killing",
+                            "mean": "n. 谋杀；故意杀人；致死"
+                        }
+                    ],
+                    "word": "kill",
+                    "mean": "v. 致死；杀死；终止；挫败；使倾倒；使折服；消磨；杀光；灭绝；使绝迹"
+                },
+                "total_exam_freq": 1,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "谋杀",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "There was more than one shooter in the <highlight>killing</highlight>.",
+                                    "month": -1,
+                                    "source": "绵阳卷",
+                                    "coll": "",
+                                    "sentence_trans": "这场谋杀的凶手不止一名。",
+                                    "year": 2018,
+                                    "type": "阅读理解 C",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            "sentencesData": {
+                "status": 1,
+                "info": "notZh2En",
+                "data": {}
+            },
+            "isAutoMatch": false,
+            "Zh2En": false
+        },
+        "query": "killing",
+        "result": "谋杀",
+        "tabSelect": "detail",
+        "dictionaryType": "oxford_buchong",
+        "notFound_show": false,
+        "phoneticShow": "",
+        "globalShowTranslateRecord": "",
+        "pronPrefer": {
+            "type": "usa_1",
+            "speaker": "male",
+            "speed": "standard"
+        },
+        "ServerRecord": "",
+        "ServerUIGS": {
+            "version": "new",
+            "type": "all",
+            "stype": "success",
+            "terminal": "web",
+            "fr": "default",
+            "direction": "etoz",
+            "from": "en",
+            "to": "zh-CHS",
+            "len": 7,
+            "qtype": "text",
+            "qctype": "qc_1",
+            "dict_cover": 1,
+            "detail": 1,
+            "wordCardCover": 1,
+            "wordCardEn": 1,
+            "wordCardCh": 0,
+            "wordCardMinor": 0,
+            "wordCardNetmean": 0,
+            "wordDeform": 1,
+            "keyword": 0,
+            "bilingual": 1,
+            "simple": 0,
+            "levelList": 1,
+            "synonym": 1,
+            "antonym": 0,
+            "conjugate": 1,
+            "rootaffix": 0,
+            "baike_sogou": 0,
+            "baike_wiki": 0,
+            "wordDifference": 0,
+            "word_phrase": 1,
+            "secondQuery": 0,
+            "dict_oxford": 0,
+            "dict_newcentury": 0,
+            "zhongkaotab": 1,
+            "gaokaotab": 0,
+            "CET4tab": 1,
+            "CET6tab": 0,
+            "kaoyantab": 0,
+            "network_tab": 0,
+            "yinying_tab": 1,
+            "tuozhan_tab": 0,
+            "one_pic": 0,
+            "more_pic": 0,
+            "no_pic": 0,
+            "uuid": "a694ab41-3a76-4312-abb2-74d39406baf2",
+            "from_type": 0,
+            "t_trans_ssr": 168
+        },
+        "ServerModelUIGS": {
+            "terminal": "web",
+            "type": "trans_model",
+            "pbtype": "pv",
+            "model_general": 1,
+            "model_medical": 1,
+            "model_finance": 1
+        },
+        "ServerSgtkn": "6513E736C8214FE7EDEBC4503102305DEDFD6C816755450D",
+        "suggShow": false,
+        "suggestion": "",
+        "suggDirection": "",
+        "usualTop": "",
+        "baseDict": "",
+        "wordCardClick": false,
+        "isFrInput": false,
+        "kanaTips": {
+            "show": false,
+            "left": "",
+            "top": "",
+            "type": "",
+            "arrowLeft": ""
+        },
+        "currSentenceIndex": -1,
+        "prefixStrObj": {
+            "prefixStr": "",
+            "oriPrefixStr": ""
+        },
+        "selectTransBox": {
+            "show": false,
+            "right": 0,
+            "top": 0,
+            "paraphraseInfo": {
+                "word": "",
+                "from": "",
+                "to": "",
+                "area": ""
+            }
+        },
+        "sentenceLoading": false,
+        "newSentenceInfo": {
+            "sentence": "",
+            "candidateIndex": 0
+        },
+        "moreTipInfo": {
+            "opacity": 0,
+            "zIndex": -1
+        },
+        "paraphraseShowInfo": {
+            "card": 0,
+            "query": "",
+            "card_dict": 0
+        },
+        "selectType": "",
+        "wordPos": 0,
+        "candidateWord": "",
+        "syntaxVisible": false,
+        "syntaxStatus": 0
+    },
+    "language": {
+        "from": "auto",
+        "to": "zh-CHS",
+        "detect": "en",
+        "model": "general",
+        "detectShow": false,
+        "langMap": {
+            "current": ""
+        },
+        "zh2en": false,
+        "fromItemList": [
+            {
+                "lang": "auto",
+                "text": "自动检测",
+                "play": false
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "th",
+                "text": "泰语",
+                "play": true,
+                "abbr": "泰"
+            },
+            {
+                "lang": "ko",
+                "text": "韩语",
+                "play": true,
+                "abbr": "韩"
+            },
+            {
+                "lang": "ru",
+                "text": "俄语",
+                "play": true,
+                "abbr": "俄"
+            }
+        ],
+        "toItemList": [
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "vi",
+                "text": "越南语",
+                "play": true,
+                "abbr": "越"
+            },
+            {
+                "lang": "ko",
+                "text": "韩语",
+                "play": true,
+                "abbr": "韩"
+            },
+            {
+                "lang": "fr",
+                "text": "法语",
+                "play": true,
+                "abbr": "法"
+            }
+        ]
+    },
+    "voice": {
+        "from": {
+            "lang": "en",
+            "type": "from",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22killing%22%2C%22spokenDialect%22%3A%22en%22%2C%22rate%22%3A%220.8%22%7D",
+            "list": [
+                {
+                    "type": "uk_0",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "ˈkɪlɪŋ",
+                    "abbr": "英",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/3960_killing_uk.mp3"
+                },
+                {
+                    "type": "usa_1",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "ˈkɪlɪŋ",
+                    "abbr": "美",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/3960_killing_usa.mp3"
+                }
+            ],
+            "stype": "phonetic",
+            "phoneticShow": [
+                {
+                    "text": "ˈkɪlɪŋ",
+                    "type": "uk",
+                    "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/3960_killing_uk.mp3"
+                }
+            ]
+        },
+        "to": {
+            "lang": "zh",
+            "type": "to",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22%E8%B0%8B%E6%9D%80%22%2C%22spokenDialect%22%3A%22zh-CHS%22%2C%22rate%22%3A%220.8%22%7D",
+            "stype": "normal"
+        }
+    }
+}

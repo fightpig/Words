@@ -1,0 +1,1270 @@
+{
+    "route": {
+        "name": "text",
+        "path": "/text",
+        "hash": "",
+        "query": {
+            "keyword": "string",
+            "transfrom": "auto",
+            "transto": "zh-CHS",
+            "model": "general",
+            "errcode": "s10"
+        },
+        "params": {},
+        "fullPath": "/text?keyword=string&transfrom=auto&transto=zh-CHS&model=general&errcode=s10",
+        "meta": {
+            "mtype": [
+                "textTranslate",
+                "language",
+                "voice"
+            ]
+        },
+        "from": {
+            "name": null,
+            "path": "/",
+            "hash": "",
+            "query": {},
+            "params": {},
+            "fullPath": "/",
+            "meta": {}
+        }
+    },
+    "common": {
+        "CONFIG": {
+            "wuid": 1733638714979,
+            "loginInfo": {},
+            "isIE": 0,
+            "isHitSsrSwitch": true,
+            "isHitWritebookSwitch": false,
+            "isHitAmsSwitch": true,
+            "promotionList": "{\n    \"pc_bottom\":{\n        \"imgsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\",\n        \"qcsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\"\n    },\n    \"pc_middle\":[\n        {\n            \"src\":\"//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c\",\n            \"bgColor\":\"#ffffff\",\n            \"link\":\"\"\n        }\n    ],\n    \"pc_survey\":{\n        \"icon\":\"//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750\",\n        \"link\":\"https://wj.qq.com/s2/8193148/806d/\"\n    }\n}",
+            "bannerData": [],
+            "isHitAsideSurvey": false,
+            "secretCode": 109984457,
+            "uuid": "a0808a33-7e9e-4cad-aeef-fb93dccb189f",
+            "referer": "",
+            "approveToken": "65043EBCFC3D53FAF0F7D84CC637A289F1F9F45A67553A3A",
+            "loadTime": 1733638714981,
+            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0",
+            "fcp": "139.59.89.214",
+            "temporaryId": "",
+            "fileId": ""
+        },
+        "hotWords": [],
+        "isFromCollect": false,
+        "psdModify": {
+            "currentStep": 1,
+            "scode": "",
+            "username": ""
+        },
+        "loginStatus": true,
+        "feedBackModule": false,
+        "showPromotionPopup": {
+            "show": false,
+            "type": ""
+        },
+        "showPromotionPCDownload": false,
+        "showShareBomb": false,
+        "shareData": null,
+        "showAppDownLoad": false,
+        "showLoginDialog": false,
+        "showLoading": {
+            "show": false
+        },
+        "toast": {
+            "show": false,
+            "text": "",
+            "loading": false
+        },
+        "modelToast": {
+            "show": false,
+            "text": ""
+        },
+        "selectionGlobalShow": true,
+        "selectionInfo": {
+            "left": 0,
+            "top": 0,
+            "show": false,
+            "from": "",
+            "to": "",
+            "val": "",
+            "area": ""
+        },
+        "showConfirmDialog": false,
+        "promotionList": {
+            "pc_bottom": {
+                "imgsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png",
+                "qcsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png"
+            },
+            "pc_middle": [
+                {
+                    "src": "//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c",
+                    "bgColor": "#ffffff",
+                    "link": ""
+                }
+            ],
+            "pc_survey": {
+                "icon": "//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750",
+                "link": "https://wj.qq.com/s2/8193148/806d/"
+            }
+        },
+        "transTypeTxt": "text",
+        "fixedTabStatus": 0,
+        "bodyTop": 0,
+        "ifHideUserOperation": false
+    },
+    "textTranslate": {
+        "prevTransQuery": "",
+        "translateData": {
+            "translate": {
+                "zly": "zly",
+                "errorCode": "0",
+                "qc_type": "1",
+                "index": "content0",
+                "from": "en",
+                "source": "sogou",
+                "text": "string",
+                "to": "zh-CHS",
+                "id": "a0808a33-7e9e-4cad-aeef-fb93dccb189f",
+                "dit": "线",
+                "orig_text": "string",
+                "md5": ""
+            },
+            "detect": {
+                "zly": "zly",
+                "detect": "en",
+                "errorCode": "0",
+                "language": "英语",
+                "id": "4141bb30-b52c-11ef-8eee-770046f16e7e",
+                "text": "string"
+            },
+            "sgtkn": "65043EBEFC3D53FAF0F7D84CC637A289F1F9F45A67553A3A",
+            "wordCard": {
+                "title": "string",
+                "show": true,
+                "usualDict": [
+                    {
+                        "values": [
+                            "串；一系列；一排；一组；（一连串相关的事物中的）一部分；线；弦；筋；纤维；细绳；带子；（管弦乐团的）弦乐器；[物理学]弦理论中的基本对象；[计算机]字符串"
+                        ],
+                        "pos": "n."
+                    },
+                    {
+                        "values": [
+                            "系；排列；用线串；使成串；使成行；悬挂；扎；连接；把…连在一起；装上弦（如乐器）；拉紧琴弦；去除（豆荚等的）筋"
+                        ],
+                        "pos": "v."
+                    }
+                ],
+                "secondQuery": "",
+                "exchange": {
+                    "word_third": [
+                        "strings"
+                    ],
+                    "word_ing": [
+                        "stringing"
+                    ],
+                    "word_done": [
+                        "strung"
+                    ],
+                    "word_pl": [
+                        "strings"
+                    ],
+                    "word_past": [
+                        "strung"
+                    ]
+                },
+                "levelList": [
+                    "小学",
+                    "初中",
+                    "高中",
+                    "四级",
+                    "六级",
+                    "考研",
+                    "考博",
+                    "雅思",
+                    "托福"
+                ]
+            },
+            "detail": {
+                "synonym": [
+                    {
+                        "word_list": [
+                            "thread",
+                            "linea"
+                        ],
+                        "pos": "n.",
+                        "mean": "线，细绳；一串，一行"
+                    },
+                    {
+                        "word_list": [
+                            "spread",
+                            "pink"
+                        ],
+                        "pos": "vt.",
+                        "mean": "扎，缚；使排成一列，串起；伸展，拉直"
+                    }
+                ],
+                "antonym": [
+                    {
+                        "word_list": [
+                            "unstring"
+                        ],
+                        "pos": "",
+                        "mean": ""
+                    }
+                ],
+                "wordRootInfo": {
+                    "word_info_list": [
+                        {
+                            "word": "stringy",
+                            "pos_mean_info_list": [
+                                {
+                                    "pos": "adj.",
+                                    "mean": "绳的；纤维的；线；多筋的"
+                                }
+                            ]
+                        },
+                        {
+                            "word": "stringer",
+                            "pos_mean_info_list": [
+                                {
+                                    "pos": "n.",
+                                    "mean": "纵梁，纵桁；上弦匠；[地质] 细脉；特约记者，特约通讯员；拉线人"
+                                }
+                            ]
+                        }
+                    ],
+                    "root_word": "string"
+                },
+                "word_difference_info": [
+                    {
+                        "common_mean": "线",
+                        "word_list": [
+                            "rope",
+                            " wire",
+                            " thread",
+                            " string",
+                            " line",
+                            " cord"
+                        ],
+                        "word_mean_info__list": [
+                            {
+                                "difference": "指用于捆绑大物件的粗壮而坚固的绳子，一般用绵、毛、麻、金属或其它材料制成。",
+                                "word": "rope"
+                            },
+                            {
+                                "difference": "专指用金属制成的线。",
+                                "word": "wire"
+                            },
+                            {
+                                "difference": "普通用词，指用棉、毛、丝或纤维等纹成的很细的线，通常用于缝纫、纺织等。",
+                                "word": "thread"
+                            },
+                            {
+                                "difference": "普通用词，指捆绑小件物品的细绳或细带子。",
+                                "word": "string"
+                            },
+                            {
+                                "difference": "普通用词，含义广泛，指任何一种线，常作引申用。",
+                                "word": "line"
+                            },
+                            {
+                                "difference": "指比string粗，比rope细，较牢固，通常用于捆扎较小物品的线或绳。用作引申当约束讲。",
+                                "word": "cord"
+                            }
+                        ]
+                    }
+                ],
+                "word_group": [
+                    {
+                        "brief_definition": "一串",
+                        "phrase": "a string of",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "字符串",
+                        "phrase": "character string",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "弦乐四重奏；弦乐四重奏曲",
+                        "phrase": "string quartet",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "替补资源；替补方案；备选队员；二线队员",
+                        "phrase": "second string",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "陪伴；伴随",
+                        "phrase": "string along",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "食荚菜豆；瘦高个子",
+                        "phrase": "string bean",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "排成一列；延伸为一线",
+                        "phrase": "string out",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "网眼背心",
+                        "phrase": "string vest",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "狭领带；狭领结",
+                        "phrase": "string tie",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "钻杆组；钻具组",
+                        "phrase": "drill string",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "宇宙弦理论",
+                        "phrase": "string theory",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "受…的控制；受…的影响",
+                        "phrase": "on a string",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "弦乐队",
+                        "phrase": "string orchestra",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "宇宙弦",
+                        "phrase": "cosmic string",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "台盘限制区界线；开球线",
+                        "phrase": "string line",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "低音提琴",
+                        "phrase": "string bass",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "轻便床；吊床",
+                        "phrase": "string bed",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "层拱；束带层",
+                        "phrase": "string course",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "共鸣弦",
+                        "phrase": "sympathetic string",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "用绳吊挂；绞死；吊死",
+                        "phrase": "string something up",
+                        "pos": ""
+                    }
+                ],
+                "bilingual": [
+                    {
+                        "source": "He wrote a long <em>string</em> of zeros on the paper.",
+                        "target": "他在纸上写了一长串的零。",
+                        "url": ""
+                    },
+                    {
+                        "source": "The ciphertext appeared as a random <em>string</em> of characters.",
+                        "target": "密文看起来像一串随机字符。",
+                        "url": ""
+                    },
+                    {
+                        "source": "She is wearing a <em>string</em> of glittering and translucent pearls.",
+                        "target": "她戴着一串晶莹的珍珠项链。",
+                        "url": ""
+                    },
+                    {
+                        "source": "He hung a <em>string</em> of lights on the fence.",
+                        "target": "他在栅栏上挂了一串灯。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Each char in the <em>string</em> has a unique index.",
+                        "target": "字符串中的每个字符都有一个唯一的索引。",
+                        "url": ""
+                    },
+                    {
+                        "source": "We made a colorful <em>string</em> of beads together.",
+                        "target": "我们一起做了一条五颜六色的串珠。",
+                        "url": ""
+                    },
+                    {
+                        "source": "The serial number is an alphanumeric <em>string</em>.",
+                        "target": "序列号是一个字母数字的字符串。",
+                        "url": ""
+                    },
+                    {
+                        "source": "This <em>string</em> of beads bracelet is made by me.",
+                        "target": "这个串珠手链是我自己做的。",
+                        "url": ""
+                    },
+                    {
+                        "source": "The <em>string</em> contains both letters and numbers.",
+                        "target": "这个字符串包含字母和数字。",
+                        "url": ""
+                    },
+                    {
+                        "source": "She wore a beautiful <em>string</em> of beads necklace.",
+                        "target": "她戴了一条漂亮的串珠项链。",
+                        "url": ""
+                    }
+                ],
+                "baike": {
+                    "showMore": false,
+                    "list": [
+                        {
+                            "lemmaTitle": "String",
+                            "link": "https://baike.sogou.com/v34951.htm?ch=sogou.fanyi",
+                            "abstract": "C++、java、VB等编程语言中的字符串。 在java、C#中，String类是不可变的，对String类的任何改变，都是返回一个新的String类对象。 String 对象是System.Char对象的有序集合，用于表示字符串。String 对象的值是该有序集合的内容，并且该值是不可变的。",
+                            "wapPic": "",
+                            "pcPic": ""
+                        },
+                        {
+                            "lemmaTitle": "String",
+                            "link": "https://baike.sogou.com/v154929118.htm?ch=sogou.fanyi",
+                            "abstract": "string，英语单词，名词，意为“ 线，弦，细绳；一串，一行”。",
+                            "wapPic": "",
+                            "pcPic": ""
+                        }
+                    ]
+                }
+            },
+            "book": {
+                "yingyinNormal": [
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/2e6798f529b7edcd99b65e568a300989_28262.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/f392b81f8ccdbdfb3aeeb82ff6016975_51562.mp3",
+                        "isLavafox": true,
+                        "en": "He gave her a <em>string</em> of pearls worth $350,000. But the morning of the wedding, Daisy received a letter.",
+                        "zh": "给了她一串价值三十五万美元的珍珠，但婚礼当天上午黛西收到了一封信。",
+                        "videoNameZh": "《了不起的盖茨比》",
+                        "videoNameEn": "《The Great Gatsby》",
+                        "url": "http://bisentence_movie.sogou.com/90692dad7d6260ada19180ce1171d512_4b0770800d19ef31d29cce734a5e9df402bbd46a"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/b73d6e20976b7ffe4e651b29ea5ddefc_31309.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/732d75ebea0503d3c506bea359d7539c_989.mp3",
+                        "isLavafox": true,
+                        "en": "Peppa has found some sticks. George has found some <em>string</em>.",
+                        "zh": "佩奇找到了两根棍子。乔治找到了一团绳子。",
+                        "videoNameZh": "《粉红猪小妹 第二季》",
+                        "videoNameEn": "《Peppa Pig Season 2》",
+                        "url": "http://bisentence_movie.sogou.com/8b928926f3596b8ec00dd346a6d02695_b6c54df7f27117fc6124faa3b208015580118000"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/5bb981942caf87340ead3bfbb6c619e6_40098.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/afe5923c2e290e792faf1fba91ea74fc_11345.mp3",
+                        "isLavafox": true,
+                        "en": "Step three: Remove <em>string</em> from bag, releasing the winds. Check.",
+                        "zh": "第三步，把绳子解开，把风放出来。好的。",
+                        "videoNameZh": "《海绵宝宝历险记》",
+                        "videoNameEn": "《The SpongeBob SquarePants Movie》",
+                        "url": "http://bisentence_movie.sogou.com/82f6fd39046404afb03a3848987f92c1_4398f780151eb6b95afa21d221481625be9abd76"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/5dc3cf8cad26e071498ca907fcc13dc6_46983.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/a6cef6df15252231db2c8a6c0b926af1_63525.mp3",
+                        "isLavafox": true,
+                        "en": "I know, we'll tie the <em>string</em> to your wrist, George. What a good idea.",
+                        "zh": "我知道了。我们可以把绳子系在乔治的腰上。好主意。",
+                        "videoNameZh": "《小猪佩奇 第四季》",
+                        "videoNameEn": "《Peppa Pig Season 4》",
+                        "url": "http://bisentence_movie.sogou.com/619280a1f206a56bb956abf1432feda3_ae497d90ef8d04f57fec2331b5f5e409c84139ce"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/3bccca9abe5ab96bd7f3eaed6bd40cf2_52899.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/bb39bf66b2c8e9a848993da7d082d189_37494.mp3",
+                        "isLavafox": true,
+                        "en": "All right, a <em>string</em> quartet for the procession. A jazz trio for cocktails.",
+                        "zh": "行进时用弦乐四重奏，鸡尾酒会时安排爵士乐。",
+                        "videoNameZh": "《老友记 第七季》",
+                        "videoNameEn": "《Friends Season 7》",
+                        "url": "http://bisentence_movie.sogou.com/c118d94d68e9af96f979f3a6bb93528c_98f34fc86514adf8284992843384c5ee1da740a2"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/a3f6ca8d0ebaa5b0956976d643673427_52102.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/e99b1b86d19b124e6bd39b0aec10edf4_76419.mp3",
+                        "isLavafox": true,
+                        "en": "Have you got a banjo? Four or five-<em>string</em>. You won't have a tree in your van?",
+                        "zh": "你的火车里有班卓琴吗。四弦还是五弦。你的货车里肯定没有树对不对。",
+                        "videoNameZh": "《小猪佩奇 第三季》",
+                        "videoNameEn": "《Peppa Pig Season 3》",
+                        "url": "http://bisentence_movie.sogou.com/e8f8ead2377788754cdbd6debe68ccb0_e87a1c39973d9ae8d62ca78192d2ebd8824c6284"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/ddeda38701415f391059f60a14ca0ada_53507.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/34a7dd50619eeaa97ad27f3a7c2c46e1_241.mp3",
+                        "isLavafox": true,
+                        "en": "Currently, you're being paid under a grant to specifically research <em>string</em> theory.",
+                        "zh": "目前大学给你的研究基金是只能做特定领域研究的。",
+                        "videoNameZh": "《生活大爆炸 第八季》",
+                        "videoNameEn": "《The Big Bang Theory Season 8》",
+                        "url": "http://bisentence_movie.sogou.com/ae5e0517d8cdd671de7d831d9c68e22c_1579dc05dad18edbdb9f37789db72fb146013710"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/5dc3cf8cad26e071498ca907fcc13dc6_46983.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/b8f29a7b569b0abc4ab1855571f38417_58679.mp3",
+                        "isLavafox": true,
+                        "en": "I'm the magic Fairy Carrot. Look, children. I can fly. There's a <em>string</em> lifting her up.",
+                        "zh": "我是胡萝卜茉魔力仙女，我可以飞啊。那是他用一根绳子吊起来的。",
+                        "videoNameZh": "《小猪佩奇 第四季》",
+                        "videoNameEn": "《Peppa Pig Season 4》",
+                        "url": "http://bisentence_movie.sogou.com/ec04dd158a86affefa9e6c7ffa5c62c4_baca61ed3b96453804b38f5857de5e419bcfda93"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/efb46b0d09a0d16595177f67fa563c67_36206.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/216385b7f17af1781cd7ecc481e13b36_33454.mp3",
+                        "isLavafox": true,
+                        "en": "Have you got a banjo? Four or five <em>string</em>? You won't have a tree in your van? Apple or pear?",
+                        "zh": "你的火车里有班卓琴吗？四弦还是五弦？你的货车里肯定没有树对不对？苹果树还是梨树？",
+                        "videoNameZh": "《100天养成流利口语》",
+                        "videoNameEn": "《Get fluent spoken English in 100 days》",
+                        "url": "http://bisentence_movie.sogou.com/036b4b5d64bac164ae24e91de42edf8b_5934510171e64c7cc078efbb64968ea4daf5d078"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/21d26cfef0cd26f0813072491b08dd5a_57364.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/20c1d2e55d2045756678aab3eebe1f25_12844.mp3",
+                        "isLavafox": true,
+                        "en": "You know, there's a foundational idea in <em>string</em> theory that the whole universe may be a hologram.",
+                        "zh": "弦理论中，有个基本概念，宇宙可能是一张全息图。",
+                        "videoNameZh": "《生活大爆炸 第六季》",
+                        "videoNameEn": "《The Big Bang Theory Season 6》",
+                        "url": "http://bisentence_movie.sogou.com/6bc1bfe294be6244701a0fa4487a45ea_819f671476a8210b235629cfcc6cb9a498243dde"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/dfdc97c7eab31e173bc0bccd4824440f_23407.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/5e1eaf406f7370a4b844a4e4d995b189_47517.mp3",
+                        "isLavafox": true,
+                        "en": "Used to be <em>string</em> theory, now it's dark matter. But let's not discuss Sheldon. Let's get back to you.",
+                        "zh": "之前是弦理论，现在换成了暗物质，不过我们还是不要谈谢尔顿了，还是来谈谈你吧。",
+                        "videoNameZh": "《生活大爆炸 第九季》",
+                        "videoNameEn": "《The Big Bang Theory Season 9》",
+                        "url": "http://bisentence_movie.sogou.com/028f12d1efdfd1707a5e025dd145bc6b_0ce9a2c1762ce0868679605ff96addfdcce4c89f"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/ddeda38701415f391059f60a14ca0ada_53507.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/35ead7fb959497aec79fd782621a6406_63417.mp3",
+                        "isLavafox": true,
+                        "en": "I assume you'd like to reopen our dialogue about the university forcing me to continue with <em>string</em> theory?",
+                        "zh": "我想你想要再开始大学逼我继续研究弦理论的谈话是吗？",
+                        "videoNameZh": "《生活大爆炸 第八季》",
+                        "videoNameEn": "《The Big Bang Theory Season 8》",
+                        "url": "http://bisentence_movie.sogou.com/a7bc29cdad3d60d8c42d55672054161b_d8515f30b995ee7861893333cb5cf45e7f6824ec"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/b630caafa2606557856da7a333933a5d_54182.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/c35a26da8f2bb5d44fd268af008d4adf_29725.mp3",
+                        "isLavafox": true,
+                        "en": "Senior theoretical particle physicist at CalTech, focusing on M theory, or, in layman's terms, <em>string</em> theory.",
+                        "zh": "加州理工学院的高级理论粒子物理学家，主要致力于M理论研究，外行人说法是弦理论。",
+                        "videoNameZh": "《生活大爆炸 第三季》",
+                        "videoNameEn": "《The Big Bang Theory Season 3》",
+                        "url": "http://bisentence_movie.sogou.com/24e18db8e9a8dfe196d699ba6b84251e_4bd269e5323ac2df1dad0b82b7ae04b092f9f8b0"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/7eb0bec9540cbb2c5939554caf885c99_49670.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/fb0ab4e0d3c525719d096d97b62bb83f_55978.mp3",
+                        "isLavafox": true,
+                        "en": "But if I'm able to detect slow-moving magnetic monopoles there, I will be the scientis to confirm <em>string</em> theory.",
+                        "zh": "但如果我能在北极勘测出慢速磁单极子，我就能成为证明弦理论的科学家。",
+                        "videoNameZh": "《生活大爆炸 第二季》",
+                        "videoNameEn": "《The Big Bang Theory Season 2》",
+                        "url": "http://bisentence_movie.sogou.com/21839c968d3c92463818740d27b412ca_bb3b72ff547999387cd355ea5d6f9c29c98b7a83"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/39e50807a5a1191398262e04787ff184_62485.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/f99a0a4cef1eea8e2adeb309352ef94e_6174.mp3",
+                        "isLavafox": true,
+                        "en": "So, I'm glad I ran into you. The Physics Department <em>string</em> quartet needs a new cellist. What happened to Elliot Wong?",
+                        "zh": "碰见你太好了，物理系弦乐四重奏还缺一个大提琴。埃利奥特·王怎么啦？",
+                        "videoNameZh": "《生活大爆炸 第一季》",
+                        "videoNameEn": "《The Big Bang Theory Season 1》",
+                        "url": "http://bisentence_movie.sogou.com/dc067037b3d7ab0df5e5935264a71f58_a02602c0bc285c214908fa6745768a1a6d4b418d"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/b630caafa2606557856da7a333933a5d_54182.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/658d4830d8fea7f9f60498605da26465_42219.mp3",
+                        "isLavafox": true,
+                        "en": "Well, actually, the risk of throat cutting is very low. On the other hand, severe <em>string</em> burn is a real and ever-present danger.",
+                        "zh": "其实，割到喉咙的风险很低，另外，严重被线擦伤才是真实且经常发生的危险。",
+                        "videoNameZh": "《生活大爆炸 第三季》",
+                        "videoNameEn": "《The Big Bang Theory Season 3》",
+                        "url": "http://bisentence_movie.sogou.com/bdd8d92d432507ed4f8dc66e31dacdbc_4ba7d6a707f3f4b41ee1b38691ecccbe9bb23b42"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/8b3da16ecbe350aacc1a7e4a01d210bc_49869.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/8ece90316ca482a6f495db0c3119fdb8_63245.mp3",
+                        "isLavafox": true,
+                        "en": "Oh, I'm working on time-dependent backgrounds in <em>string</em> theory, specifically quantum field theory in \"d-dimensional\" de Sitter space.",
+                        "zh": "我在研究弦理论的时间依赖性，尤其是量子场论在德西特时空d维空间中的应用。",
+                        "videoNameZh": "《生活大爆炸 第四季》",
+                        "videoNameEn": "《The Big Bang Theory Season 4》",
+                        "url": "http://bisentence_movie.sogou.com/ffa1b779fbdfc0251e3edf11f77b2999_84f51299e4e0c6e9a853c63c1b779173a815f471"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/b73d6e20976b7ffe4e651b29ea5ddefc_31309.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/1188c201a1dfee5f308fbe69b05d50cd_49996.mp3",
+                        "isLavafox": true,
+                        "en": "I am the king of the castle. Every castle needs a telephone. Hold this. Keep this <em>string</em> nice and tight and you can talk to the boys.",
+                        "zh": "我是城堡的国王，每一个城堡都需要一个电话。拿着这个。接下来你们拿紧着绳子，就可以跟男孩们说话了。",
+                        "videoNameZh": "《粉红猪小妹 第二季》",
+                        "videoNameEn": "《Peppa Pig Season 2》",
+                        "url": "http://bisentence_movie.sogou.com/38e7faa512bd3afdc66f39dc94456cde_e718fb8a89b9387d77eb6c02873ce61f8b6a9034"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/ed16ac8524b2f1f0c1489640f8396c3f_47421.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/c588018eb829901016b5071ddb7d8523_53282.mp3",
+                        "isLavafox": true,
+                        "en": "What do you need that kind of money for? I have figured out an experimental design that may corroborate my latest thinking on <em>string</em> theory.",
+                        "zh": "你要这么大一笔钱干什么啊？我想出了一个实验设计可以证实我最新的弦理论想法。",
+                        "videoNameZh": "《生活大爆炸 第十一季》",
+                        "videoNameEn": "《The Big Bang Theory Season 11》",
+                        "url": "http://bisentence_movie.sogou.com/001de42ab14f5b574993163b4b4a6e4a_453263e575d00466a9d0ff7509ff3fa97b482af5"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/5bb981942caf87340ead3bfbb6c619e6_40098.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/15cd74d77de904e163f2a56c7dee7366_36868.mp3",
+                        "isLavafox": true,
+                        "en": "Well, that seems simple enough. Point bag away from home, feet firmly on ground, pull <em>string</em>, releasing the winds. All right, let's do it for real.",
+                        "zh": "看上去很简单吗。把袋子指向家的反方向，站稳了，拉绳子把风放出来。好的，来做一遍吧。",
+                        "videoNameZh": "《海绵宝宝历险记》",
+                        "videoNameEn": "《The SpongeBob SquarePants Movie》",
+                        "url": "http://bisentence_movie.sogou.com/1229227135b87e9f03b55d4ad598cc71_290a702bec751469b136c749f85d927f670a371b"
+                    }
+                ]
+            },
+            "pic": "",
+            "voice": {
+                "phonetic": [
+                    {
+                        "text": "strɪŋ",
+                        "type": "uk",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/3469_string_uk.mp3"
+                    },
+                    {
+                        "text": "strɪŋ",
+                        "type": "usa",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/3469_string_usa.mp3"
+                    }
+                ]
+            },
+            "dictType": "oxford_buchong",
+            "kaoyan": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 3,
+                        "pos": "n",
+                        "chinese": "一系列; 一连串",
+                        "sense_tier_ratio": 100
+                    },
+                    {
+                        "sense_tier": 0,
+                        "pos": "n/v",
+                        "chinese": "弦; 细绳; 系紧; 上弦",
+                        "sense_tier_ratio": 0
+                    }
+                ],
+                "word": "string",
+                "word_level_phrase_info": [
+                    {
+                        "brief_definition": "一串",
+                        "phrase": "a string of",
+                        "pos": "phr"
+                    }
+                ],
+                "direction_info": {
+                    "ranges": 12,
+                    "description": "数据源自2012-2023年12年间全国考研试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2012-2023年全国考研英语一和考研英语二共24套考研试卷，包括阅读、完型填空、翻译、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选全国考研考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2012-2023年12年间全国考研英语一和考研英语二试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 1,
+                "total_exam_freq": 3,
+                "sense": {
+                    "sense_num": 2,
+                    "sense_info_list": [
+                        {
+                            "en": "a sequentially ordered set of things or events or ideas",
+                            "zh": "一系列; 一连串",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "When younger kids learn computer science, they learn that it's not just a confusing, endless <highlight>string</highlight> of letters and numbers.",
+                                    "month": -1,
+                                    "source": "英语二",
+                                    "coll": "",
+                                    "sentence_trans": "当更小的孩子学习计算机科学时，他们会发现它不仅仅是一串令人困惑的、无穷无尽的字母和数字。",
+                                    "year": 2016,
+                                    "type": "阅读理解A",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "As a News Feature article in Nature discusses, a <highlight>string</highlight> of lucrative awards for researchers have joined the Nobel Prizes in recent years.",
+                                    "month": -1,
+                                    "source": "英语一",
+                                    "coll": "",
+                                    "sentence_trans": "正如《自然》杂志的一篇新闻专题文章所讨论的那样，近年来，一系列对研究人员有利可图的奖项加入了诺贝尔奖。",
+                                    "year": 2014,
+                                    "type": "阅读理解A",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "A <highlight>string</highlight> of accidents raised serious questions about both Vermont Yankee's safety and Entergy's management.",
+                                    "month": -1,
+                                    "source": "英语一",
+                                    "coll": "",
+                                    "sentence_trans": "一连串的事故对佛蒙特州扬基的安全和Entergy的管理提出了严重的问题。",
+                                    "year": 2012,
+                                    "type": "阅读理解A",
+                                    "day": -1
+                                }
+                            ]
+                        },
+                        {
+                            "synonyms": "",
+                            "en": "a lightweight cord",
+                            "zh": "弦; 细绳; 系紧; 上弦",
+                            "pos": "n/v",
+                            "antonyms": ""
+                        }
+                    ]
+                },
+                "word_usage": [
+                    {
+                        "usage": "string作名词，表示“一串；一系列”时，常用搭配是a string of sth.。"
+                    },
+                    {
+                        "usage": "string作动词时，既可作及物动词，又可作不及物动词。作及物动词时，其后可直接接名词或者代词，如：string the shells on a silver chain 把贝壳串在银链上。"
+                    }
+                ]
+            },
+            "CET6": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 0,
+                        "pos": "n/v",
+                        "chinese": "弦; 细绳; 用绳串; 系紧; 上弦",
+                        "sense_tier_ratio": 0
+                    }
+                ],
+                "word": "string",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2016.6-2023.6年8年间全六级试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight>考纲释义</highlight>\n精选实考、考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2016-2023年51套试卷，包括阅读、听力、翻译等所有题型。\n\n<highlight>真题例句</highlight>\n精选2016-2023年8年间全六级试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 1,
+                "total_exam_freq": 0,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "synonyms": "twine",
+                            "en": "a lightweight cord",
+                            "zh": "弦; 细绳; 用绳串; 系紧; 上弦",
+                            "pos": "n/v",
+                            "antonyms": ""
+                        }
+                    ]
+                },
+                "exchange_info": {
+                    "word_third": [
+                        "strings"
+                    ],
+                    "word_ing": [
+                        "stringing"
+                    ],
+                    "word_done": [
+                        "strung"
+                    ],
+                    "word_past": [
+                        "strung"
+                    ]
+                }
+            },
+            "CET4": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 1,
+                        "pos": "n/v",
+                        "chinese": "弦; 细绳; 用绳串; 系紧; 上弦",
+                        "sense_tier_ratio": 100
+                    },
+                    {
+                        "sense_tier": 0,
+                        "pos": "n",
+                        "chinese": "一系列; 一连串",
+                        "sense_tier_ratio": 0
+                    }
+                ],
+                "word": "string",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2016.6-2023.6年8年间全四级试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight>考纲释义</highlight>\n精选实考、考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2016-2023年51套试卷，包括阅读、听力、翻译等所有题型。\n\n<highlight>真题例句</highlight>\n精选2016-2023年8年间试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 1,
+                "total_exam_freq": 1,
+                "sense": {
+                    "sense_num": 2,
+                    "sense_info_list": [
+                        {
+                            "en": "a lightweight cord",
+                            "zh": "弦; 细绳; 用绳串; 系紧; 上弦",
+                            "pos": "n/v",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "Mr Rahim tied one end of a <highlight>string</highlight> around his son's tooth, and the other end to his full-sized commercial helicopter.",
+                                    "month": 6,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "Mr Rahim将绳子的一端系在儿子的牙齿上，另一端系在他的全尺寸商用直升机上。",
+                                    "year": 2019,
+                                    "type": "听力",
+                                    "day": -1
+                                }
+                            ]
+                        },
+                        {
+                            "synonyms": "",
+                            "en": "a sequentially ordered set of things or events or ideas",
+                            "zh": "一系列; 一连串",
+                            "pos": "n",
+                            "antonyms": ""
+                        }
+                    ]
+                },
+                "exchange_info": {
+                    "word_third": [
+                        "strings"
+                    ],
+                    "word_ing": [
+                        "stringing"
+                    ],
+                    "word_done": [
+                        "strung"
+                    ],
+                    "word_past": [
+                        "strung"
+                    ]
+                }
+            },
+            "gaokao": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 1,
+                        "pos": "n",
+                        "chinese": "一系列; 一批",
+                        "sense_tier_ratio": 100
+                    },
+                    {
+                        "sense_tier": 0,
+                        "pos": "n",
+                        "chinese": "细绳; 线; 带子",
+                        "sense_tier_ratio": 0
+                    },
+                    {
+                        "sense_tier": 0,
+                        "pos": "vt",
+                        "chinese": "用线穿起来",
+                        "sense_tier_ratio": 0
+                    }
+                ],
+                "word": "string",
+                "total_exam_freq": 1,
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2015-2022年8年间全国卷和自主命题省市高考卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2015-2022年全国卷高考试卷，包括阅读、完形、单选、填空、听力、改错、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选各省市考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2015-2022年8年间全国卷和自主命题省市高考卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 1,
+                "word_level_phrase_info": [
+                    {
+                        "brief_definition": "一串",
+                        "phrase": "a string of",
+                        "pos": "phr."
+                    }
+                ],
+                "sense": {
+                    "sense_num": 3,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "一系列; 一批",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "It is the story of the people he meets on his way: Rustam, Oleg and Natasha, and a <highlight>string</highlight> of foreign aid workers.",
+                                    "month": -1,
+                                    "source": "山东卷",
+                                    "coll": "",
+                                    "sentence_trans": "这是他在路上遇到的人的故事：鲁斯塔姆、奥列格和娜塔莎，以及一系列外国救援人员。",
+                                    "year": 2020,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                }
+                            ]
+                        },
+                        {
+                            "synonyms": "",
+                            "en": "",
+                            "zh": "细绳; 线; 带子",
+                            "pos": "n",
+                            "antonyms": ""
+                        },
+                        {
+                            "synonyms": "",
+                            "en": "",
+                            "zh": "用线穿起来",
+                            "pos": "vt",
+                            "antonyms": ""
+                        }
+                    ]
+                }
+            },
+            "zhongkao": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 24,
+                        "pos": "n",
+                        "chinese": "细绳; 线; 弦",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "string",
+                "direction_info": {
+                    "ranges": 4,
+                    "description": "数据源自2018-2021年4年间全国各省市中考试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2018-2021年全国重点省市中考试卷，包括听力、阅读、完形、单选、填空、改错、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选各省市考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2018-2021年4年间全国各省市中考试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 5,
+                "total_exam_freq": 24,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "细绳; 线; 弦",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "Paper, sticks, glue and <highlight>string</highlight> are all you need.",
+                                    "month": -1,
+                                    "source": "广州市",
+                                    "coll": "",
+                                    "sentence_trans": "纸张，木棍，胶水和细线，你所需要的就是这些。",
+                                    "year": 2020,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "By using the <highlight>string</highlight> you help the kite go up in the right direction.",
+                                    "month": -1,
+                                    "source": "成都B卷",
+                                    "coll": "",
+                                    "sentence_trans": "通过使用绳子，你可以帮助风筝朝着正确的方向上升。",
+                                    "year": 2018,
+                                    "type": "选词填空",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "When you cut the <highlight>string</highlight>, it could not support the kite.",
+                                    "month": -1,
+                                    "source": "成都B卷",
+                                    "coll": "",
+                                    "sentence_trans": "当你剪断绳子时，它无法支撑风筝。",
+                                    "year": 2018,
+                                    "type": "选词填空",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            "sentencesData": {
+                "status": 1,
+                "info": "notZh2En",
+                "data": {}
+            },
+            "isAutoMatch": false,
+            "Zh2En": false
+        },
+        "query": "string",
+        "result": "线",
+        "tabSelect": "detail",
+        "dictionaryType": "oxford_buchong",
+        "notFound_show": false,
+        "phoneticShow": "",
+        "globalShowTranslateRecord": "",
+        "pronPrefer": {
+            "type": "usa_1",
+            "speaker": "male",
+            "speed": "standard"
+        },
+        "ServerRecord": "",
+        "ServerUIGS": {
+            "version": "new",
+            "type": "all",
+            "stype": "success",
+            "terminal": "web",
+            "fr": "default",
+            "direction": "etoz",
+            "from": "en",
+            "to": "zh-CHS",
+            "len": 6,
+            "qtype": "text",
+            "qctype": "qc_1",
+            "dict_cover": 1,
+            "detail": 1,
+            "wordCardCover": 1,
+            "wordCardEn": 1,
+            "wordCardCh": 0,
+            "wordCardMinor": 0,
+            "wordCardNetmean": 0,
+            "wordDeform": 1,
+            "keyword": 0,
+            "bilingual": 1,
+            "simple": 0,
+            "levelList": 1,
+            "synonym": 1,
+            "antonym": 1,
+            "conjugate": 1,
+            "rootaffix": 0,
+            "baike_sogou": 1,
+            "baike_wiki": 0,
+            "wordDifference": 1,
+            "word_phrase": 1,
+            "secondQuery": 0,
+            "dict_oxford": 0,
+            "dict_newcentury": 0,
+            "zhongkaotab": 1,
+            "gaokaotab": 1,
+            "CET4tab": 1,
+            "CET6tab": 1,
+            "kaoyantab": 1,
+            "network_tab": 0,
+            "yinying_tab": 1,
+            "tuozhan_tab": 0,
+            "one_pic": 0,
+            "more_pic": 0,
+            "no_pic": 0,
+            "uuid": "a0808a33-7e9e-4cad-aeef-fb93dccb189f",
+            "from_type": 0,
+            "t_trans_ssr": 282
+        },
+        "ServerModelUIGS": {
+            "terminal": "web",
+            "type": "trans_model",
+            "pbtype": "pv",
+            "model_general": 1,
+            "model_medical": 1,
+            "model_finance": 1
+        },
+        "ServerSgtkn": "65043EBEFC3D53FAF0F7D84CC637A289F1F9F45A67553A3A",
+        "suggShow": false,
+        "suggestion": "",
+        "suggDirection": "",
+        "usualTop": "",
+        "baseDict": "",
+        "wordCardClick": false,
+        "isFrInput": false,
+        "kanaTips": {
+            "show": false,
+            "left": "",
+            "top": "",
+            "type": "",
+            "arrowLeft": ""
+        },
+        "currSentenceIndex": -1,
+        "prefixStrObj": {
+            "prefixStr": "",
+            "oriPrefixStr": ""
+        },
+        "selectTransBox": {
+            "show": false,
+            "right": 0,
+            "top": 0,
+            "paraphraseInfo": {
+                "word": "",
+                "from": "",
+                "to": "",
+                "area": ""
+            }
+        },
+        "sentenceLoading": false,
+        "newSentenceInfo": {
+            "sentence": "",
+            "candidateIndex": 0
+        },
+        "moreTipInfo": {
+            "opacity": 0,
+            "zIndex": -1
+        },
+        "paraphraseShowInfo": {
+            "card": 0,
+            "query": "",
+            "card_dict": 0
+        },
+        "selectType": "",
+        "wordPos": 0,
+        "candidateWord": "",
+        "syntaxVisible": false,
+        "syntaxStatus": 0
+    },
+    "language": {
+        "from": "auto",
+        "to": "zh-CHS",
+        "detect": "en",
+        "model": "general",
+        "detectShow": false,
+        "langMap": {
+            "current": ""
+        },
+        "zh2en": false,
+        "fromItemList": [
+            {
+                "lang": "auto",
+                "text": "自动检测",
+                "play": false
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "de",
+                "text": "德语",
+                "play": true,
+                "abbr": "德"
+            },
+            {
+                "lang": "ko",
+                "text": "韩语",
+                "play": true,
+                "abbr": "韩"
+            },
+            {
+                "lang": "fr",
+                "text": "法语",
+                "play": true,
+                "abbr": "法"
+            }
+        ],
+        "toItemList": [
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "ar",
+                "text": "阿拉伯语",
+                "play": true,
+                "dir": "rtl",
+                "abbr": "阿"
+            },
+            {
+                "lang": "de",
+                "text": "德语",
+                "play": true,
+                "abbr": "德"
+            },
+            {
+                "lang": "th",
+                "text": "泰语",
+                "play": true,
+                "abbr": "泰"
+            }
+        ]
+    },
+    "voice": {
+        "from": {
+            "lang": "en",
+            "type": "from",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22string%22%2C%22spokenDialect%22%3A%22en%22%2C%22rate%22%3A%220.8%22%7D",
+            "list": [
+                {
+                    "type": "uk_0",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "strɪŋ",
+                    "abbr": "英",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/3469_string_uk.mp3"
+                },
+                {
+                    "type": "usa_1",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "strɪŋ",
+                    "abbr": "美",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/3469_string_usa.mp3"
+                }
+            ],
+            "stype": "phonetic",
+            "phoneticShow": [
+                {
+                    "text": "strɪŋ",
+                    "type": "uk",
+                    "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/3469_string_uk.mp3"
+                }
+            ]
+        },
+        "to": {
+            "lang": "zh",
+            "type": "to",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22%E7%BA%BF%22%2C%22spokenDialect%22%3A%22zh-CHS%22%2C%22rate%22%3A%220.8%22%7D",
+            "stype": "normal"
+        }
+    }
+}

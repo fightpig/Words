@@ -1,0 +1,979 @@
+{
+    "route": {
+        "name": "text",
+        "path": "/text",
+        "hash": "",
+        "query": {
+            "keyword": "portrait",
+            "transfrom": "auto",
+            "transto": "zh-CHS",
+            "model": "general",
+            "errcode": "s10"
+        },
+        "params": {},
+        "fullPath": "/text?keyword=portrait&transfrom=auto&transto=zh-CHS&model=general&errcode=s10",
+        "meta": {
+            "mtype": [
+                "textTranslate",
+                "language",
+                "voice"
+            ]
+        },
+        "from": {
+            "name": null,
+            "path": "/",
+            "hash": "",
+            "query": {},
+            "params": {},
+            "fullPath": "/",
+            "meta": {}
+        }
+    },
+    "common": {
+        "CONFIG": {
+            "wuid": 1733638393971,
+            "loginInfo": {},
+            "isIE": 0,
+            "isHitSsrSwitch": true,
+            "isHitWritebookSwitch": false,
+            "isHitAmsSwitch": true,
+            "promotionList": "{\n    \"pc_bottom\":{\n        \"imgsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\",\n        \"qcsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\"\n    },\n    \"pc_middle\":[\n        {\n            \"src\":\"//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c\",\n            \"bgColor\":\"#ffffff\",\n            \"link\":\"\"\n        }\n    ],\n    \"pc_survey\":{\n        \"icon\":\"//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750\",\n        \"link\":\"https://wj.qq.com/s2/8193148/806d/\"\n    }\n}",
+            "bannerData": [],
+            "isHitAsideSurvey": false,
+            "secretCode": 109984457,
+            "uuid": "45ee5395-076f-4d6b-a9cf-4aac6e790a18",
+            "referer": "",
+            "approveToken": "65029CFD99452A82898EA034AC2CB4D8892358B8675538F9",
+            "loadTime": 1733638393973,
+            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0",
+            "fcp": "139.59.89.214",
+            "temporaryId": "",
+            "fileId": ""
+        },
+        "hotWords": [],
+        "isFromCollect": false,
+        "psdModify": {
+            "currentStep": 1,
+            "scode": "",
+            "username": ""
+        },
+        "loginStatus": true,
+        "feedBackModule": false,
+        "showPromotionPopup": {
+            "show": false,
+            "type": ""
+        },
+        "showPromotionPCDownload": false,
+        "showShareBomb": false,
+        "shareData": null,
+        "showAppDownLoad": false,
+        "showLoginDialog": false,
+        "showLoading": {
+            "show": false
+        },
+        "toast": {
+            "show": false,
+            "text": "",
+            "loading": false
+        },
+        "modelToast": {
+            "show": false,
+            "text": ""
+        },
+        "selectionGlobalShow": true,
+        "selectionInfo": {
+            "left": 0,
+            "top": 0,
+            "show": false,
+            "from": "",
+            "to": "",
+            "val": "",
+            "area": ""
+        },
+        "showConfirmDialog": false,
+        "promotionList": {
+            "pc_bottom": {
+                "imgsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png",
+                "qcsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png"
+            },
+            "pc_middle": [
+                {
+                    "src": "//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c",
+                    "bgColor": "#ffffff",
+                    "link": ""
+                }
+            ],
+            "pc_survey": {
+                "icon": "//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750",
+                "link": "https://wj.qq.com/s2/8193148/806d/"
+            }
+        },
+        "transTypeTxt": "text",
+        "fixedTabStatus": 0,
+        "bodyTop": 0,
+        "ifHideUserOperation": false
+    },
+    "textTranslate": {
+        "prevTransQuery": "",
+        "translateData": {
+            "translate": {
+                "zly": "zly",
+                "errorCode": "0",
+                "qc_type": "1",
+                "index": "content0",
+                "from": "en",
+                "source": "sogou",
+                "text": "portrait",
+                "to": "zh-CHS",
+                "id": "45ee5395-076f-4d6b-a9cf-4aac6e790a18",
+                "dit": "肖像",
+                "orig_text": "portrait",
+                "md5": ""
+            },
+            "detect": {
+                "zly": "zly",
+                "detect": "en",
+                "errorCode": "0",
+                "language": "英语",
+                "id": "81ecb690-b52b-11ef-a3cf-0fc8182ba540",
+                "text": "portrait"
+            },
+            "sgtkn": "65029D0399452A82898EA034AC2CB4D8892358B8675538F9",
+            "wordCard": {
+                "title": "portrait",
+                "show": true,
+                "usualDict": [
+                    {
+                        "values": [
+                            "肖像；照片；画像；描绘；雕塑像；半身照；人物描绘；人物写照；人物传记；详细的描述"
+                        ],
+                        "pos": "n."
+                    },
+                    {
+                        "values": [
+                            "（打印格式）竖向的；纵向的"
+                        ],
+                        "pos": "adj."
+                    }
+                ],
+                "secondQuery": "",
+                "exchange": {
+                    "word_pl": [
+                        "portraits"
+                    ]
+                },
+                "levelList": [
+                    "高中",
+                    "四级",
+                    "六级",
+                    "考研",
+                    "考博",
+                    "托福"
+                ]
+            },
+            "detail": {
+                "synonym": [
+                    {
+                        "word_list": [
+                            "description",
+                            "image",
+                            "icon"
+                        ],
+                        "pos": "n.",
+                        "mean": "肖像；描写；半身雕塑像"
+                    }
+                ],
+                "wordRootInfo": {
+                    "word_info_list": [
+                        {
+                            "word": "portrayal",
+                            "pos_mean_info_list": [
+                                {
+                                    "pos": "n.",
+                                    "mean": "描绘；画像，肖像"
+                                }
+                            ]
+                        },
+                        {
+                            "word": "portraiture",
+                            "pos_mean_info_list": [
+                                {
+                                    "pos": "n.",
+                                    "mean": "肖像画；肖像绘制；人像摄影"
+                                }
+                            ]
+                        },
+                        {
+                            "word": "portraitist",
+                            "pos_mean_info_list": [
+                                {
+                                    "pos": "n.",
+                                    "mean": "肖像画家；人像摄影师"
+                                }
+                            ]
+                        },
+                        {
+                            "word": "portrayer",
+                            "pos_mean_info_list": [
+                                {
+                                    "pos": "n.",
+                                    "mean": "记述者；描画者；肖像画家"
+                                }
+                            ]
+                        }
+                    ],
+                    "root_word": "portrait"
+                },
+                "word_difference_info": [
+                    {
+                        "common_mean": "画；图",
+                        "word_list": [
+                            "picture",
+                            " sketch",
+                            " cartoon",
+                            " illustration",
+                            " diagram",
+                            " painting",
+                            " portrait",
+                            " drawing"
+                        ],
+                        "word_mean_info__list": [
+                            {
+                                "difference": "指广义的“图画”，现多用来指相片、画像。",
+                                "word": "picture"
+                            },
+                            {
+                                "difference": "通常指只画出物体主要特征的图画。",
+                                "word": "sketch"
+                            },
+                            {
+                                "difference": "指幽默或讽刺性漫画。",
+                                "word": "cartoon"
+                            },
+                            {
+                                "difference": "指插入书页之间帮助说明的任何插图或图解。",
+                                "word": "illustration"
+                            },
+                            {
+                                "difference": "多指科技书籍或文献中具有概括解说作用的图表、图样或略图。",
+                                "word": "diagram"
+                            },
+                            {
+                                "difference": "指着色的画。",
+                                "word": "painting"
+                            },
+                            {
+                                "difference": "指肖像，只用于指人。",
+                                "word": "portrait"
+                            },
+                            {
+                                "difference": "指用线条或色彩绘成的图画。",
+                                "word": "drawing"
+                            }
+                        ]
+                    }
+                ],
+                "word_group": [
+                    {
+                        "brief_definition": "大幅人像照片",
+                        "phrase": "studio portrait",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "家庭肖像；家族肖像；家庭照片",
+                        "phrase": "family portrait",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "头像；头像绘画；头像图片",
+                        "phrase": "head portrait",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "迷人的肖像",
+                        "phrase": "fascinating portrait",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "精确的肖像",
+                        "phrase": "accurate portrait",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "经典肖像；古典印象",
+                        "phrase": "classic portrait",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "画肖像",
+                        "phrase": "draw portrait",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "铅笔肖像",
+                        "phrase": "pencil portrait",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "画肖像",
+                        "phrase": "paint portrait",
+                        "pos": ""
+                    }
+                ],
+                "bilingual": [
+                    {
+                        "source": "This painting is a <em>portrait</em> of a man.",
+                        "target": "这幅画是一位男子的肖像。",
+                        "url": ""
+                    },
+                    {
+                        "source": "This <em>portrait</em> is very realistic.",
+                        "target": "这幅肖像画得非常逼真。",
+                        "url": ""
+                    },
+                    {
+                        "source": "The queen's <em>portrait</em> is on the coin.",
+                        "target": "女王的肖像印在硬币上。",
+                        "url": ""
+                    },
+                    {
+                        "source": "The dof in this <em>portrait</em> is perfect.",
+                        "target": "这张肖像的景深非常完美。",
+                        "url": ""
+                    },
+                    {
+                        "source": "This is a <em>portrait</em> of a famous artist.",
+                        "target": "这是一幅著名画家的肖像。",
+                        "url": ""
+                    },
+                    {
+                        "source": "The artist will draw a <em>portrait</em> of you.",
+                        "target": "艺术家将为你画一幅肖像。",
+                        "url": ""
+                    },
+                    {
+                        "source": "The artist painted a naked <em>portrait</em>.",
+                        "target": "画家画了一幅一丝不挂的肖像。",
+                        "url": ""
+                    },
+                    {
+                        "source": "The artist deftly painted the <em>portrait</em>.",
+                        "target": "艺术家熟练地画了这幅肖像。",
+                        "url": ""
+                    },
+                    {
+                        "source": "She drew a beautiful <em>portrait</em> freehand.",
+                        "target": "她徒手画了一幅美丽的肖像。",
+                        "url": ""
+                    },
+                    {
+                        "source": "She painted a <em>portrait</em> of her grandmother.",
+                        "target": "她为她的祖母画了一幅肖像。",
+                        "url": ""
+                    }
+                ],
+                "baike": {
+                    "showMore": false,
+                    "list": [
+                        {
+                            "lemmaTitle": "portrait",
+                            "link": "https://baike.sogou.com/v72968285.htm?ch=sogou.fanyi",
+                            "abstract": "2004年初，李云迪推出自己的首张自传式精选大碟《Portrait》。这张精选集收藏了李云迪头三张大碟《肖邦精选》、《李斯特钢琴精选集》和《安可集》的经典曲目。此外，还附送了李云迪自传式写真集，首次曝光了多张个人成长的珍贵照片，而且还有李云迪对自己21年成长苦与乐的剖白，包括他的第一个音乐朋友———手风琴、第一架钢琴、第一位启蒙老师，还有李云迪写着“将来长大以后，我要成为一位钢琴大师”的日记等。",
+                            "wapPic": "//img03.sogoucdn.com/v2/thumb/retype_exclude_gif/ext/auto/q/80/crop/xy/ai/w/140/h/140/resize/w/140?appid=201005&sign=8097b99246328d41a3556a0b14ae0ce2&url=https%3A%2F%2Fpic.baike.soso.com%2Fugc%2Fbaikepic2%2F13241%2F20220402125156-161977062_png_1517_1011_1342317.jpg%2F0",
+                            "pcPic": "//img04.sogoucdn.com/v2/thumb/retype_exclude_gif/ext/auto/q/80/crop/xy/ai/w/140/h/140/resize/w/140?appid=201005&sign=8097b99246328d41a3556a0b14ae0ce2&url=https%3A%2F%2Fpic.baike.soso.com%2Fugc%2Fbaikepic2%2F13241%2F20220402125156-161977062_png_1517_1011_1342317.jpg%2F0"
+                        }
+                    ]
+                }
+            },
+            "book": {
+                "yingyinNormal": [
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/21d26cfef0cd26f0813072491b08dd5a_57364.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/9a21605e70daffc01f91d7b96286a327_65982.mp3",
+                        "isLavafox": true,
+                        "en": "It's my official NASA <em>portrait</em>. To Stuart, your comic book store is out of this world. Just like the guy in this picture was.",
+                        "zh": "我的宇航局官方肖像画哦。致斯图尔特，你的漫画店是店上之店，就像画里的人是人上之人 一样。",
+                        "videoNameZh": "《生活大爆炸 第六季》",
+                        "videoNameEn": "《The Big Bang Theory Season 6》",
+                        "url": "http://bisentence_movie.sogou.com/e642bd740355ffc7a0c8965de7b15ee0_1e58d0a7702ecacd3cde7798a36c457d7d024df7"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/eb018cf49e3f89f3bef3ea53525e6ccf_56032.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/bb4f997084469d336abea5f8c3a9f88f_30892.mp3",
+                        "isLavafox": true,
+                        "en": "Now, I'm not sure if this helps, but did you know that pineapples were once so rare that King Charles posed for a <em>portrait</em> with one?",
+                        "zh": "我不确定这话是否有帮助，但你们知道吗菠萝曾经非常稀有查尔斯国王找人绘制肖像时曾让菠萝一起入画？",
+                        "videoNameZh": "《生活大爆炸 第十二季》",
+                        "videoNameEn": "《The Big Bang Theory Season 12》",
+                        "url": "http://bisentence_movie.sogou.com/a2647c9b5a9504cb92d606996aee5475_5b67e2ff4809183838efeb5290efea9e6cc44b3b"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/84db3d779d7851ae88ef308619fcf09a_6035.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/cab58d0d4dda03499e3604c25d7e8e34_23229.mp3",
+                        "isLavafox": true,
+                        "en": "Imagine a <em>portrait</em> of America showing all the food we consume.",
+                        "zh": "想象一下由美国人消费的食物构成的画面。",
+                        "videoNameZh": "《透视美国》",
+                        "videoNameEn": "《America Revealed》",
+                        "url": "http://bisentence_movie.sogou.com/dcd2c1fa2235a715a406ca411cceeba2_39ac94f9f4fd804578ba1e23cfc1cbb44749ec77"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/882c4a955031459b92686f70d94deed1_14165.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/1a3c3cac7d370015719fce25766fe555_15601.mp3",
+                        "isLavafox": true,
+                        "en": "I once saw an ink <em>portrait</em> of your grandfather. You are a more striking figure, I must say.",
+                        "zh": "我见过你祖父的水墨画像，不得不说，你看上去比他更引人注目。",
+                        "videoNameZh": "《马可波罗 第一季》",
+                        "videoNameEn": "《Marco Polo Season 1》",
+                        "url": "http://bisentence_movie.sogou.com/84becd1bb27dd0451a1735dbcfadaa0b_8d6fef05c257d8a5b515d39d77b41bdd55dc03ff"
+                    }
+                ]
+            },
+            "pic": "",
+            "voice": {
+                "phonetic": [
+                    {
+                        "text": "ˈpɔːtreɪt",
+                        "type": "uk",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/10511_portrait_uk.mp3"
+                    },
+                    {
+                        "text": "ˈpɔːrtrət",
+                        "type": "usa",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/10511_portrait_usa.mp3"
+                    }
+                ]
+            },
+            "dictType": "oxford_buchong",
+            "kaoyan": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 2,
+                        "pos": "cn",
+                        "chinese": "肖像; 画像",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "portrait",
+                "direction_info": {
+                    "ranges": 12,
+                    "description": "数据源自2012-2023年12年间全国考研试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2012-2023年全国考研英语一和考研英语二共24套考研试卷，包括阅读、完型填空、翻译、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选全国考研考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2012-2023年12年间全国考研英语一和考研英语二试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 1,
+                "word_family": {
+                    "derivative_info_list": [
+                        {
+                            "derivative_info_list": [
+                                {
+                                    "derivative_info_list": [],
+                                    "word": "portraiture",
+                                    "mean": "n. 肖像绘画艺术；人像摄影法；雕像制作法；画像；照片；生动具体描写；肖像；雕像"
+                                }
+                            ],
+                            "word": "portrait",
+                            "mean": "n. 肖像；画像；照片；雕像；竖排格式；描绘；描写；描述；写照"
+                        }
+                    ],
+                    "word": "portray",
+                    "mean": "v. 描述；刻画；描写；表现；扮演；饰演"
+                },
+                "total_exam_freq": 2,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "肖像; 画像",
+                            "pos": "cn",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "When it came to photographic <highlight>portraits</highlight>, there could be nothing more damning than a silly, foolish smile fixed forever.",
+                                    "month": -1,
+                                    "source": "英语一",
+                                    "coll": "",
+                                    "sentence_trans": "当谈到摄影肖像时，没有什么比一个荒唐的、愚蠢的、永远定格的微笑更令人讨厌了。",
+                                    "year": 2021,
+                                    "type": "阅读理解A",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "What does the author say about the Victorian <highlight>portraits</highlight> he has collected?",
+                                    "month": -1,
+                                    "source": "英语一",
+                                    "coll": "",
+                                    "sentence_trans": "作者对他收集的维多利亚时代的肖像有什么看法？",
+                                    "year": 2021,
+                                    "type": "阅读理解A",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            "CET6": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 1,
+                        "pos": "n",
+                        "chinese": "肖像画; 半身雕像",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "portrait",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2016.6-2023.6年8年间全六级试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight>考纲释义</highlight>\n精选实考、考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2016-2023年51套试卷，包括阅读、听力、翻译等所有题型。\n\n<highlight>真题例句</highlight>\n精选2016-2023年8年间全六级试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 1,
+                "word_family": {
+                    "derivative_info_list": [
+                        {
+                            "derivative_info_list": [],
+                            "word": "portrait",
+                            "mean": "n. 肖像；画像；照片；雕像；竖排格式；描绘；描写；描述；写照"
+                        },
+                        {
+                            "derivative_info_list": [],
+                            "word": "portrayal",
+                            "mean": "n. 画像；描绘；描写；肖像"
+                        }
+                    ],
+                    "word": "portray",
+                    "mean": "v. 描述；刻画；描写；表现；扮演；饰演"
+                },
+                "total_exam_freq": 1,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "synonyms": "sketch,sculpture",
+                            "en": "a painting or engraving of a person, especially one depicting only the face or head and shoulders",
+                            "zh": "肖像画; 半身雕像",
+                            "pos": "n",
+                            "antonyms": ""
+                        }
+                    ]
+                },
+                "exchange_info": {
+                    "word_pl": [
+                        "portraits"
+                    ]
+                }
+            },
+            "CET4": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 0,
+                        "pos": "n",
+                        "chinese": "肖像画; 半身雕像",
+                        "sense_tier_ratio": 0
+                    }
+                ],
+                "word": "portrait",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2016.6-2023.6年8年间全四级试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight>考纲释义</highlight>\n精选实考、考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2016-2023年51套试卷，包括阅读、听力、翻译等所有题型。\n\n<highlight>真题例句</highlight>\n精选2016-2023年8年间试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 1,
+                "word_family": {
+                    "derivative_info_list": [
+                        {
+                            "derivative_info_list": [],
+                            "word": "portrait",
+                            "mean": "n. 肖像；画像；照片；雕像；竖排格式；描绘；描写；描述；写照"
+                        },
+                        {
+                            "derivative_info_list": [],
+                            "word": "portrayal",
+                            "mean": "n. 画像；描绘；描写；肖像"
+                        }
+                    ],
+                    "word": "portray",
+                    "mean": "v. 描述；刻画；描写；表现；扮演；饰演"
+                },
+                "total_exam_freq": 0,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "synonyms": "",
+                            "en": "a painting or engraving of a person; especially one depicting only the face or head and shoulders",
+                            "zh": "肖像画; 半身雕像",
+                            "pos": "n",
+                            "antonyms": ""
+                        }
+                    ]
+                },
+                "exchange_info": {
+                    "word_pl": [
+                        "portraits"
+                    ]
+                }
+            },
+            "gaokao": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 0,
+                        "pos": "n",
+                        "chinese": "肖像; 描绘",
+                        "sense_tier_ratio": 0
+                    }
+                ],
+                "word": "portrait",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2015-2022年8年间全国卷和自主命题省市高考卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2015-2022年全国卷高考试卷，包括阅读、完形、单选、填空、听力、改错、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选各省市考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2015-2022年8年间全国卷和自主命题省市高考卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 1,
+                "total_exam_freq": 0,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "synonyms": "",
+                            "en": "",
+                            "zh": "肖像; 描绘",
+                            "pos": "n",
+                            "antonyms": ""
+                        }
+                    ]
+                }
+            },
+            "zhongkao": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 3,
+                        "pos": "n",
+                        "chinese": "肖像; 描绘",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "portrait",
+                "total_exam_freq": 3,
+                "direction_info": {
+                    "ranges": 4,
+                    "description": "数据源自2018-2021年4年间全国各省市中考试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2018-2021年全国重点省市中考试卷，包括听力、阅读、完形、单选、填空、改错、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选各省市考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2018-2021年4年间全国各省市中考试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 1,
+                "word_level_phrase_info": [
+                    {
+                        "brief_definition": "画肖像；画肖像画",
+                        "phrase": "paint a portrait",
+                        "pos": ""
+                    }
+                ],
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "肖像; 描绘",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "He quickly went to say sorry to him and paid 200,000 dollars to buy the <highlight>portrait</highlight>.",
+                                    "month": -1,
+                                    "source": "齐齐哈尔",
+                                    "coll": "",
+                                    "sentence_trans": "他赶紧去跟他道歉，然后花了20万美元买下了这幅画。",
+                                    "year": 2019,
+                                    "type": "完型填空",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "One day, a rich man asked him to paint a <highlight>portrait</highlight> for him and promised to pay him 10,000 dollars.",
+                                    "month": -1,
+                                    "source": "齐齐哈尔",
+                                    "coll": "",
+                                    "sentence_trans": "有一天，一个富人请他为他画一幅肖像，并答应付给他一万美元。",
+                                    "year": 2019,
+                                    "type": "完型填空",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "There was a young painter who made money by painting <highlight>portraits</highlight> (肖像).",
+                                    "month": -1,
+                                    "source": "齐齐哈尔",
+                                    "coll": "",
+                                    "sentence_trans": "有一个年轻的画家，他靠画肖像画赚钱。",
+                                    "year": 2019,
+                                    "type": "完型填空",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            "sentencesData": {
+                "status": 1,
+                "info": "notZh2En",
+                "data": {}
+            },
+            "isAutoMatch": false,
+            "Zh2En": false
+        },
+        "query": "portrait",
+        "result": "肖像",
+        "tabSelect": "detail",
+        "dictionaryType": "oxford_buchong",
+        "notFound_show": false,
+        "phoneticShow": "",
+        "globalShowTranslateRecord": "",
+        "pronPrefer": {
+            "type": "usa_1",
+            "speaker": "male",
+            "speed": "standard"
+        },
+        "ServerRecord": "",
+        "ServerUIGS": {
+            "version": "new",
+            "type": "all",
+            "stype": "success",
+            "terminal": "web",
+            "fr": "default",
+            "direction": "etoz",
+            "from": "en",
+            "to": "zh-CHS",
+            "len": 8,
+            "qtype": "text",
+            "qctype": "qc_1",
+            "dict_cover": 1,
+            "detail": 1,
+            "wordCardCover": 1,
+            "wordCardEn": 1,
+            "wordCardCh": 0,
+            "wordCardMinor": 0,
+            "wordCardNetmean": 0,
+            "wordDeform": 1,
+            "keyword": 0,
+            "bilingual": 1,
+            "simple": 0,
+            "levelList": 1,
+            "synonym": 1,
+            "antonym": 0,
+            "conjugate": 1,
+            "rootaffix": 0,
+            "baike_sogou": 1,
+            "baike_wiki": 0,
+            "wordDifference": 1,
+            "word_phrase": 1,
+            "secondQuery": 0,
+            "dict_oxford": 0,
+            "dict_newcentury": 0,
+            "zhongkaotab": 1,
+            "gaokaotab": 1,
+            "CET4tab": 1,
+            "CET6tab": 1,
+            "kaoyantab": 1,
+            "network_tab": 0,
+            "yinying_tab": 1,
+            "tuozhan_tab": 0,
+            "one_pic": 0,
+            "more_pic": 0,
+            "no_pic": 0,
+            "uuid": "45ee5395-076f-4d6b-a9cf-4aac6e790a18",
+            "from_type": 0,
+            "t_trans_ssr": 146
+        },
+        "ServerModelUIGS": {
+            "terminal": "web",
+            "type": "trans_model",
+            "pbtype": "pv",
+            "model_general": 1,
+            "model_medical": 1,
+            "model_finance": 1
+        },
+        "ServerSgtkn": "65029D0399452A82898EA034AC2CB4D8892358B8675538F9",
+        "suggShow": false,
+        "suggestion": "",
+        "suggDirection": "",
+        "usualTop": "",
+        "baseDict": "",
+        "wordCardClick": false,
+        "isFrInput": false,
+        "kanaTips": {
+            "show": false,
+            "left": "",
+            "top": "",
+            "type": "",
+            "arrowLeft": ""
+        },
+        "currSentenceIndex": -1,
+        "prefixStrObj": {
+            "prefixStr": "",
+            "oriPrefixStr": ""
+        },
+        "selectTransBox": {
+            "show": false,
+            "right": 0,
+            "top": 0,
+            "paraphraseInfo": {
+                "word": "",
+                "from": "",
+                "to": "",
+                "area": ""
+            }
+        },
+        "sentenceLoading": false,
+        "newSentenceInfo": {
+            "sentence": "",
+            "candidateIndex": 0
+        },
+        "moreTipInfo": {
+            "opacity": 0,
+            "zIndex": -1
+        },
+        "paraphraseShowInfo": {
+            "card": 0,
+            "query": "",
+            "card_dict": 0
+        },
+        "selectType": "",
+        "wordPos": 0,
+        "candidateWord": "",
+        "syntaxVisible": false,
+        "syntaxStatus": 0
+    },
+    "language": {
+        "from": "auto",
+        "to": "zh-CHS",
+        "detect": "en",
+        "model": "general",
+        "detectShow": false,
+        "langMap": {
+            "current": ""
+        },
+        "zh2en": false,
+        "fromItemList": [
+            {
+                "lang": "auto",
+                "text": "自动检测",
+                "play": false
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "fr",
+                "text": "法语",
+                "play": true,
+                "abbr": "法"
+            },
+            {
+                "lang": "ko",
+                "text": "韩语",
+                "play": true,
+                "abbr": "韩"
+            },
+            {
+                "lang": "th",
+                "text": "泰语",
+                "play": true,
+                "abbr": "泰"
+            }
+        ],
+        "toItemList": [
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "fr",
+                "text": "法语",
+                "play": true,
+                "abbr": "法"
+            },
+            {
+                "lang": "vi",
+                "text": "越南语",
+                "play": true,
+                "abbr": "越"
+            },
+            {
+                "lang": "ru",
+                "text": "俄语",
+                "play": true,
+                "abbr": "俄"
+            }
+        ]
+    },
+    "voice": {
+        "from": {
+            "lang": "en",
+            "type": "from",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22portrait%22%2C%22spokenDialect%22%3A%22en%22%2C%22rate%22%3A%220.8%22%7D",
+            "list": [
+                {
+                    "type": "uk_0",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "ˈpɔːtreɪt",
+                    "abbr": "英",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/10511_portrait_uk.mp3"
+                },
+                {
+                    "type": "usa_1",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "ˈpɔːrtrət",
+                    "abbr": "美",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/10511_portrait_usa.mp3"
+                }
+            ],
+            "stype": "phonetic",
+            "phoneticShow": [
+                {
+                    "text": "ˈpɔːtreɪt",
+                    "type": "uk",
+                    "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/10511_portrait_uk.mp3"
+                },
+                {
+                    "text": "ˈpɔːrtrət",
+                    "type": "usa",
+                    "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/10511_portrait_usa.mp3"
+                }
+            ]
+        },
+        "to": {
+            "lang": "zh",
+            "type": "to",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22%E8%82%96%E5%83%8F%22%2C%22spokenDialect%22%3A%22zh-CHS%22%2C%22rate%22%3A%220.8%22%7D",
+            "stype": "normal"
+        }
+    }
+}

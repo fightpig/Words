@@ -1,0 +1,1461 @@
+{
+    "route": {
+        "name": "text",
+        "path": "/text",
+        "hash": "",
+        "query": {
+            "keyword": "whatever",
+            "transfrom": "auto",
+            "transto": "zh-CHS",
+            "model": "general",
+            "errcode": "s10"
+        },
+        "params": {},
+        "fullPath": "/text?keyword=whatever&transfrom=auto&transto=zh-CHS&model=general&errcode=s10",
+        "meta": {
+            "mtype": [
+                "textTranslate",
+                "language",
+                "voice"
+            ]
+        },
+        "from": {
+            "name": null,
+            "path": "/",
+            "hash": "",
+            "query": {},
+            "params": {},
+            "fullPath": "/",
+            "meta": {}
+        }
+    },
+    "common": {
+        "CONFIG": {
+            "wuid": 1733638920314,
+            "loginInfo": {},
+            "isIE": 0,
+            "isHitSsrSwitch": true,
+            "isHitWritebookSwitch": false,
+            "isHitAmsSwitch": true,
+            "promotionList": "{\n    \"pc_bottom\":{\n        \"imgsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\",\n        \"qcsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\"\n    },\n    \"pc_middle\":[\n        {\n            \"src\":\"//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c\",\n            \"bgColor\":\"#ffffff\",\n            \"link\":\"\"\n        }\n    ],\n    \"pc_survey\":{\n        \"icon\":\"//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750\",\n        \"link\":\"https://wj.qq.com/s2/8193148/806d/\"\n    }\n}",
+            "bannerData": [],
+            "isHitAsideSurvey": false,
+            "secretCode": 109984457,
+            "uuid": "3f65a767-fafa-4a35-aa16-e58e3ad5989c",
+            "referer": "",
+            "approveToken": "6505545888543A93999FB025DD9B050999B80D9267553B08",
+            "loadTime": 1733638920316,
+            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0",
+            "fcp": "139.59.89.214",
+            "temporaryId": "",
+            "fileId": ""
+        },
+        "hotWords": [],
+        "isFromCollect": false,
+        "psdModify": {
+            "currentStep": 1,
+            "scode": "",
+            "username": ""
+        },
+        "loginStatus": true,
+        "feedBackModule": false,
+        "showPromotionPopup": {
+            "show": false,
+            "type": ""
+        },
+        "showPromotionPCDownload": false,
+        "showShareBomb": false,
+        "shareData": null,
+        "showAppDownLoad": false,
+        "showLoginDialog": false,
+        "showLoading": {
+            "show": false
+        },
+        "toast": {
+            "show": false,
+            "text": "",
+            "loading": false
+        },
+        "modelToast": {
+            "show": false,
+            "text": ""
+        },
+        "selectionGlobalShow": true,
+        "selectionInfo": {
+            "left": 0,
+            "top": 0,
+            "show": false,
+            "from": "",
+            "to": "",
+            "val": "",
+            "area": ""
+        },
+        "showConfirmDialog": false,
+        "promotionList": {
+            "pc_bottom": {
+                "imgsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png",
+                "qcsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png"
+            },
+            "pc_middle": [
+                {
+                    "src": "//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c",
+                    "bgColor": "#ffffff",
+                    "link": ""
+                }
+            ],
+            "pc_survey": {
+                "icon": "//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750",
+                "link": "https://wj.qq.com/s2/8193148/806d/"
+            }
+        },
+        "transTypeTxt": "text",
+        "fixedTabStatus": 0,
+        "bodyTop": 0,
+        "ifHideUserOperation": false
+    },
+    "textTranslate": {
+        "prevTransQuery": "",
+        "translateData": {
+            "translate": {
+                "zly": "zly",
+                "errorCode": "0",
+                "qc_type": "1",
+                "index": "content0",
+                "from": "en",
+                "source": "sogou",
+                "text": "whatever",
+                "to": "zh-CHS",
+                "id": "3f65a767-fafa-4a35-aa16-e58e3ad5989c",
+                "dit": "无论什么",
+                "orig_text": "whatever",
+                "md5": ""
+            },
+            "detect": {
+                "zly": "zly",
+                "detect": "en",
+                "errorCode": "0",
+                "language": "英语",
+                "id": "bba66f10-b52c-11ef-8e60-cb6c6cb3b1a8",
+                "text": "whatever"
+            },
+            "sgtkn": "6505545E88543A93999FB025DD9B050999B80D9267553B08",
+            "wordCard": {
+                "title": "whatever",
+                "show": true,
+                "usualDict": [
+                    {
+                        "values": [
+                            "无论什么；任何事物；不管什么；究竟什么；任何一个；无论哪个；不论何种；一切事物；到底是什么；究竟是什么；任何…的事物；凡是…的东西"
+                        ],
+                        "pos": "pron."
+                    },
+                    {
+                        "values": [
+                            "任何的；任何…的；凡是…的；所有的；全部的"
+                        ],
+                        "pos": "adj."
+                    },
+                    {
+                        "values": [
+                            "无论如何；不管怎样；任何程度上；毫不在乎地；无论什么情况；丝毫（不）；一点儿都（不）"
+                        ],
+                        "pos": "adv."
+                    },
+                    {
+                        "values": [
+                            "随便；管它呢（表示漠不关心或不以为意）"
+                        ],
+                        "pos": "excl."
+                    }
+                ],
+                "secondQuery": "",
+                "exchange": {},
+                "levelList": [
+                    "初中",
+                    "高中",
+                    "四级",
+                    "六级",
+                    "考研",
+                    "雅思"
+                ]
+            },
+            "detail": {
+                "affix": {
+                    "word": "whatever",
+                    "sub_affix_info_list": [
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "什么",
+                                    "affix_type": "stem"
+                                }
+                            ],
+                            "affix": "what",
+                            "affix_mean": "什么"
+                        },
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "究竟, 永远",
+                                    "affix_type": "stem"
+                                },
+                                {
+                                    "sample": [],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "曾经",
+                                    "affix_type": "stem"
+                                }
+                            ],
+                            "affix": "ever",
+                            "affix_mean": "究竟, 永远"
+                        }
+                    ],
+                    "word_mean": "relative pron. & det. 任何…的事物"
+                },
+                "word_group": [
+                    {
+                        "brief_definition": "诸如此类, 等等",
+                        "phrase": "or whatever",
+                        "pos": "idm"
+                    },
+                    {
+                        "brief_definition": "(警告某人绝不要做某事)无论如何",
+                        "phrase": "whatever you do",
+                        "pos": "idm"
+                    },
+                    {
+                        "brief_definition": "下一步怎么样；还会有何等样的荒唐事",
+                        "phrase": "whatever next",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "无论发生什么；不管发生什么；不管怎样",
+                        "phrase": "whatever happens",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "(因不想争论而同意)由你, 随你",
+                        "phrase": "whatever you say",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "不管缺点是什么；不管有什么短处",
+                        "phrase": "whatever the shortcomings",
+                        "pos": ""
+                    }
+                ],
+                "bilingual": [
+                    {
+                        "source": "Now we can wear <em>whatever</em> we like.",
+                        "target": "现在我们可以穿任何我们喜欢的衣服。",
+                        "url": ""
+                    },
+                    {
+                        "source": "If you are asking for something from others, you take <em>whatever</em> they give you.",
+                        "target": "如果你向别人要东西，你就接受他们给你的任何东西。",
+                        "url": ""
+                    },
+                    {
+                        "source": "The polly mimics <em>whatever</em> you say.",
+                        "target": "这只鹦鹉会模仿你说的任何话。",
+                        "url": ""
+                    },
+                    {
+                        "source": "During the winter, animals forage for <em>whatever</em> they can find.",
+                        "target": "冬天时，动物们搜寻食物，寻找任何可以找到的东西。",
+                        "url": ""
+                    },
+                    {
+                        "source": "It allows workers to do <em>whatever</em> their hearts desire.",
+                        "target": "它允许工人做任何他们想做的事。",
+                        "url": ""
+                    },
+                    {
+                        "source": "You don't have to take anyone else into consideration and can do <em>whatever</em> you please.",
+                        "target": "你不必考虑其他任何人，你可以做任何你想做的事情。",
+                        "url": ""
+                    },
+                    {
+                        "source": "They're convinced that <em>whatever</em> decision they make will be the wrong one.",
+                        "target": "他们坚信自己做出的任何决定都是错误的。",
+                        "url": ""
+                    },
+                    {
+                        "source": "I feel awful whenever I make a mistake in <em>whatever</em> I'm trying to do.",
+                        "target": "每当我在尝试做的任何事情上犯了错误，我都会感到很糟糕。",
+                        "url": ""
+                    },
+                    {
+                        "source": "It is said that the mind is restless and pays attention to <em>whatever</em> is in front of it.",
+                        "target": "据说，躁动的心对眼前的任何事物都会关注。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Exercising makes you more awake and ready to handle <em>whatever</em> is ahead of you for the day.",
+                        "target": "锻炼让你更加清醒，并准备好应对一天中的任何事情。",
+                        "url": ""
+                    }
+                ],
+                "baike": {
+                    "showMore": true,
+                    "list": [
+                        {
+                            "lemmaTitle": "whatever",
+                            "link": "https://baike.sogou.com/v9497973.htm?ch=sogou.fanyi",
+                            "abstract": "《Whatever》是蔡卓妍演唱的一首粤语歌曲，收录于Twins分道扬镳后蔡卓妍的首张个人专辑《二缺一》，由英皇娱乐集团于2009年4月6日发行。",
+                            "wapPic": "//img02.sogoucdn.com/v2/thumb/retype_exclude_gif/ext/auto/q/80/crop/xy/ai/w/140/h/140/resize/w/140?appid=201005&sign=03b49f264b288335058dd2a3faef292d&url=https%3A%2F%2Fpic.baike.soso.com%2Fugc%2Fbaikepic2%2F0%2F20240506120505-2091469478_jpeg_393_578_93355.jpg%2F0",
+                            "pcPic": "//img04.sogoucdn.com/v2/thumb/retype_exclude_gif/ext/auto/q/80/crop/xy/ai/w/140/h/140/resize/w/140?appid=201005&sign=03b49f264b288335058dd2a3faef292d&url=https%3A%2F%2Fpic.baike.soso.com%2Fugc%2Fbaikepic2%2F0%2F20240506120505-2091469478_jpeg_393_578_93355.jpg%2F0"
+                        },
+                        {
+                            "lemmaTitle": "whatever",
+                            "link": "https://baike.sogou.com/v106195178.htm?ch=sogou.fanyi",
+                            "abstract": "《whatever》是周笔畅演唱的歌曲，该曲收录在音乐专辑《翻白眼Ⅱ》中。",
+                            "wapPic": "//img04.sogoucdn.com/v2/thumb/retype_exclude_gif/ext/auto/q/80/crop/xy/ai/w/140/h/140/resize/w/140?appid=201005&sign=f457e89f7525cf84cf7ac10a39151a19&url=https%3A%2F%2Fpic.baike.soso.com%2Fugc%2Fbaikepic2%2F2392%2F20220512213346-1802630679_jpeg_489_495_33087.jpg%2F0",
+                            "pcPic": "//img04.sogoucdn.com/v2/thumb/retype_exclude_gif/ext/auto/q/80/crop/xy/ai/w/140/h/140/resize/w/140?appid=201005&sign=f457e89f7525cf84cf7ac10a39151a19&url=https%3A%2F%2Fpic.baike.soso.com%2Fugc%2Fbaikepic2%2F2392%2F20220512213346-1802630679_jpeg_489_495_33087.jpg%2F0"
+                        }
+                    ]
+                }
+            },
+            "book": {
+                "yingyinNormal": [
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/ae9d6f2f04858f0af8517ff08116148e_6738.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/f52c07dfb7384fe27b57c66238eb2433_76107.mp3",
+                        "isLavafox": true,
+                        "en": "Maya isn't influenced by anybody. are you? <em>Whatever</em> you say.",
+                        "zh": "玛雅没被任何人影响，对吧？随你怎么说。",
+                        "videoNameZh": "《女孩成长记 第三季》",
+                        "videoNameEn": "《Girl Meets World Season 3》",
+                        "url": "http://bisentence_movie.sogou.com/a02b9aba389f70676befd8ac034c40bc_407b8de918692680ab8c85fd60f1cb5bb166de33"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/886b76b0c552c22c57062be63cf27261_37722.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/502b9175b80b9c427977b4df5584fe1f_70636.mp3",
+                        "isLavafox": true,
+                        "en": "When you're sick, you do <em>whatever</em> you can to make yourself feel better.",
+                        "zh": "当你生病的时候，你会做任何事情来让自己觉得好过一些。",
+                        "videoNameZh": "《老友记 第九季》",
+                        "videoNameEn": "《Friends Season 9》",
+                        "url": "http://bisentence_movie.sogou.com/6c992c8094d8461678191796f9e3f562_c54692ea6fd99d0acfbb0e69cc2d43a720112efd"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/c147f8d54a969778fef4aa74fdb25c24_34800.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/32080c52d0d77621dd5f08a948d88455_4098.mp3",
+                        "isLavafox": true,
+                        "en": "So I'm looking forward to hearing <em>whatever</em> ideas and solutions that they may have, because a smart president will steal good ideas from anyone.",
+                        "zh": "所以我期待听到他们可能有的任何想法和方案，因为聪明的总统会想偷任何人的好主意。",
+                        "videoNameZh": "《纸牌屋 第四季》",
+                        "videoNameEn": "《House of Cards Season 4》",
+                        "url": "http://bisentence_movie.sogou.com/bf2a77b68d11ad3eec7117d10ba2f4a3_de1f9f8b4f7cdaaed9f82df45588fcc0cbccda44"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/178d946ef640c7de6e0f6c8df29d5810_67890.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/660d3b9a3fcdc66fc1d069ec7f7293ee_24183.mp3",
+                        "isLavafox": true,
+                        "en": "But once you wake up, <em>whatever</em> you've done will take hold and become history.",
+                        "zh": "但是，只要你一旦醒来，你所做的任何事都会固定下来，变成历史。",
+                        "videoNameZh": "《X战警：逆转未来》",
+                        "videoNameEn": "《X-Men: Days of Future Past》",
+                        "url": "http://bisentence_movie.sogou.com/ba252d5c9612beba5bf1c56ebd04f46d_552db398ded3c9d6b72536c79890dc449ffea69a"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/2da4e63bad2cfd9397933ffbea0713b8_48989.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/7344f0a90e28fb3763295f8c7cea8fe4_24509.mp3",
+                        "isLavafox": true,
+                        "en": "And once the moon is mine, the world will give me <em>whatever</em> I want to get it back!",
+                        "zh": "一旦月球落到我手里，想要我交出来的话 整个世界都得满足我的任何条件！",
+                        "videoNameZh": "《神偷奶爸》",
+                        "videoNameEn": "《Despicable Me》",
+                        "url": "http://bisentence_movie.sogou.com/d20712a1cd370afd3a7025a23d0df26d_ae30504c1a45bc3f60df942f19500b20775bc76d"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/bc809734180889bd06c4d5bc2c8ecd0d_28512.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/713761bcf6d2705c9f774e28c2a1a566_40453.mp3",
+                        "isLavafox": true,
+                        "en": "Eat thing <em>whatever</em> we could find, animal carcasses and rotten fruit, and leaving people behind.",
+                        "zh": "吃我们能找到的任何食物 动物尸体 腐烂的水果 还有 抛弃其他人",
+                        "videoNameZh": "《行尸走肉 第四季》",
+                        "videoNameEn": "《The Walking Dead S4》",
+                        "url": "http://bisentence_movie.sogou.com/7a21b8f18be0577037dbf7879a519828_1b4b6b061c953ef8df66784877366645408fdaec"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/f5f16d3165593ebdb6d6ae8299e72880_33413.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/fbe8f9aa48bf4f16da0f78c8be9cde6e_32076.mp3",
+                        "isLavafox": true,
+                        "en": "Well, why don't you hire him as an actor? You could have him dress up and put on little skits. Just <em>whatever</em> you want.",
+                        "zh": "你怎么不雇他当演员？你可以在你需要的任何时间叫他扮演短剧。",
+                        "videoNameZh": "《老友记 第六季》",
+                        "videoNameEn": "《Friends Season 6》",
+                        "url": "http://bisentence_movie.sogou.com/22bbb57163c526e604bb397af0ec3ba5_da56e7dc2e5dca682bc7f5a50be8798154efbd64"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/334ae739c2d3bef71ab483cd142c3ad8_18137.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/801bf2aa10da142fbade86bc111ca63a_62140.mp3",
+                        "isLavafox": true,
+                        "en": "Assistant Director Green and I will bring <em>whatever</em> is valuable forward. I want direct access. Live streaming.",
+                        "zh": "格林副处长和我会汇报任何有价值的情报。我想要直接访问权。实时影像。",
+                        "videoNameZh": "《纸牌屋 第五季》",
+                        "videoNameEn": "《House of Cards Season 5》",
+                        "url": "http://bisentence_movie.sogou.com/895af5dd54afade93f11e1dc8d8e1429_6226ec4e3b84ada93a8c6d9c626dfbb66c40be93"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/83bcab8039fa5140ba0e29ca21fce0eb_17113.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/841c343dbe41598e479f282ae3f8b351_11155.mp3",
+                        "isLavafox": true,
+                        "en": "Spare me the cod psychology. Just go and raid your grandma's wardrobe, or <em>whatever</em> it is you do when you're not making tea.",
+                        "zh": "省省吧，别以为你懂我，去扫荡你奶奶的衣橱吧，或者做除了泡茶以外的任何事。",
+                        "videoNameZh": "《遇见你之前》",
+                        "videoNameEn": "《Me before you》",
+                        "url": "http://bisentence_movie.sogou.com/4f9ecff5af649cfa286af8f9570e1681_9e4951249befe1b0df22228121ef127a571f98fc"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/39e50807a5a1191398262e04787ff184_62485.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/d614de131b7b128dc03dde7ec52db9fc_35690.mp3",
+                        "isLavafox": true,
+                        "en": "Howard, listen. no, it's okay. It's your millennium falcon. You and Chewbacca do <em>whatever</em> you want to do.",
+                        "zh": "霍华德，听着。不，没关系，那是你的命根子。你可以跟楚巴卡(体型高大、身披毛发的战士)得到任何你们想要的。",
+                        "videoNameZh": "《生活大爆炸 第一季》",
+                        "videoNameEn": "《The Big Bang Theory Season 1》",
+                        "url": "http://bisentence_movie.sogou.com/b490781986e633da5b664092e300283d_00aece6e0c8d73b39ae6901d4b9bcac068b3e3db"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/cd691129f8e9dcbc91a6d539bdf265c0_37307.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/557c1361c663a75f9860e1fb5119c260_57840.mp3",
+                        "isLavafox": true,
+                        "en": "I took a tactical risk and I woke that bastard up, believing that his superior intelligence could help us protect ourselves from <em>whatever</em> came at us next.",
+                        "zh": "我冒了一个战略性风险，唤醒了那个混蛋，我以为他超人的智力能保护我们，应对未来任何挑战。",
+                        "videoNameZh": "《星际迷航：暗黑无界》",
+                        "videoNameEn": "《Star Trek Into Darkness》",
+                        "url": "http://bisentence_movie.sogou.com/d64ed83e393007235292112d8cdfb64f_46cb6d3fdee370187bdb14789c35fc519ba2dceb"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/f012eb5fd120cc2d5b68f18e3d0e7c8c_67362.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/d8e35726c6ad48e941856099aad54444_72066.mp3",
+                        "isLavafox": true,
+                        "en": "You can rationalize it any way you want, but it would still. I'm not rationalizing anything. <em>Whatever</em> we do, it's a partner's decision. You're not a partner.",
+                        "zh": "你想找什么借口都行，但这还是。我没找任何借口，不管要怎么做，那都由合伙人来定，而你不是合伙人。",
+                        "videoNameZh": "《傲骨贤妻 第五季》",
+                        "videoNameEn": "《The Good Wife Season 5》",
+                        "url": "http://bisentence_movie.sogou.com/844f7b090d86131d4a434af03c9cff69_e5a21775f9e5095969d93766799ab8301ef7e3f5"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/a9a5203295dada5468548a45bdbbe245_26977.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/67f11308f5fdb2a5769af804de84b700_55000.mp3",
+                        "isLavafox": true,
+                        "en": "Now, these are dry wheat flour noodles. You can use <em>whatever</em> noodles you like, but traditionally the Chinese would use a thin noodle, just like this one.",
+                        "zh": "这些干面条由小麦面粉制成。你可以选用任何一种你喜爱的面条，但传统的中国人会使用细面，就像这种面条。",
+                        "videoNameZh": "《中餐速成》",
+                        "videoNameEn": "《Chinese Food Made Easy》",
+                        "url": "http://bisentence_movie.sogou.com/af4fe177d461219f52c5dd0f207074bf_fd757be81525318052917c2d6e833e168fe3d4c1"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/68eeb648a2ff0cbf1b553571b1bde0b8_47107.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/027e92c682a4ea9b2d0ce957f6993404_18365.mp3",
+                        "isLavafox": true,
+                        "en": "Listen up, Manny. Of course you want to run away from <em>whatever</em> happened back that party. Anybody would. But that just guarantees that it sticks with you forever.",
+                        "zh": "听我说，曼尼。在经历了那个派对上发生的事以后，也难怪你想逃跑，任何人都会想逃。但那样这些糗事就保证会跟着你到永远了。",
+                        "videoNameZh": "《摩登家庭 第八季》",
+                        "videoNameEn": "《Modern Family Season 8》",
+                        "url": "http://bisentence_movie.sogou.com/42c892a8241af2824d046bdd44d70b4d_a139ca0fbecef7f4746d423c8361159df55669d7"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/e467156305f6c767dff48dd0b161ca0d_48791.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/1699cceea05e496e1e32c96a3cdf8f57_20190.mp3",
+                        "isLavafox": true,
+                        "en": "On the upper deck of the next carriage there is a conductor's compartment. It's a small office containing a strongbox. Inside is a loaded handgun. Get to it. You are authorized to use <em>whatever</em> force necessary.",
+                        "zh": "旁边车厢的二楼有一个乘务员室，里面有一个保险箱，箱内有一把上膛的手枪，找到它，必要时你可以使用任何武力。",
+                        "videoNameZh": "《源代码》",
+                        "videoNameEn": "《Source Code》",
+                        "url": "http://bisentence_movie.sogou.com/a2faea171cf3b494f0387f82be64d382_439b9435e6e5bcb187e56be11239cba9ad0b636b"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/41e670b24fee0dadd583ddcbb0171dae_29321.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/60a8fa7a64502e030357946accf52de2_26872.mp3",
+                        "isLavafox": true,
+                        "en": "<em>Whatever</em> comes, I want to know.",
+                        "zh": "还会怎样，告诉我吧。",
+                        "videoNameZh": "《少年派的奇幻漂流》",
+                        "videoNameEn": "《Life of Pi》",
+                        "url": "http://bisentence_movie.sogou.com/7249cc4898dea5a86a6ca144e40906e6_8263f86f4acf52e3432d6563dc251a3799bb946b"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/3bccca9abe5ab96bd7f3eaed6bd40cf2_52899.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/34ea74b39494dbe386e13eb7e50863e7_20166.mp3",
+                        "isLavafox": true,
+                        "en": "<em>Whatever</em> dude, you kissed a guy.",
+                        "zh": "随便你，兄弟，你吻了男人。",
+                        "videoNameZh": "《老友记 第七季》",
+                        "videoNameEn": "《Friends Season 7》",
+                        "url": "http://bisentence_movie.sogou.com/d89385d31f16432e91a37de8f8dec511_ff5c80f6f76c6daaa2d20213da250b0b6716f9d1"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/f5f16d3165593ebdb6d6ae8299e72880_33413.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/09db8a9c9381d9a22dbfc5412b80d23f_11510.mp3",
+                        "isLavafox": true,
+                        "en": "<em>Whatever</em> Linus, I'm opening mine.",
+                        "zh": "谁理你，莱纳斯（漫画史努比的主人查理布朗的好朋友），我要拆我的。",
+                        "videoNameZh": "《老友记 第六季》",
+                        "videoNameEn": "《Friends Season 6》",
+                        "url": "http://bisentence_movie.sogou.com/5685e0452aeedfee2d56e560141ebfa6_c67fa11e8ca36c0a8398e6fadda748ef470bc0c4"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/aa7a748a86497e02e2b0a5098f3017b8_12619.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/2859f8bafa4bad7908d51555178eac3c_40073.mp3",
+                        "isLavafox": true,
+                        "en": "Farkle, do <em>whatever</em> you do with that.",
+                        "zh": "弗科，该怎么做就怎么做吧。",
+                        "videoNameZh": "《女孩成长记 第一季》",
+                        "videoNameEn": "《Girl Meets World Season 1》",
+                        "url": "http://bisentence_movie.sogou.com/c0ac92503261c483783122720fa9c1c3_cf54b6a590a031f4b3cc082e3bb49022c1bf6238"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/6a0f1af500949aabdf79e8935d4a7230_22265.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/90510978451353fe8f74705dcd359fd7_34117.mp3",
+                        "isLavafox": true,
+                        "en": "Oh, mine's December... Yeah, <em>whatever</em>.",
+                        "zh": "我是12月… 随便。",
+                        "videoNameZh": "《老友记 第四季》",
+                        "videoNameEn": "《Friends Season 4》",
+                        "url": "http://bisentence_movie.sogou.com/b65c85e833c862a6d65b111153912e77_2323f7f2ad58b80c4d3efa37f3fad3177604d55a"
+                    }
+                ]
+            },
+            "pic": "",
+            "voice": {
+                "phonetic": [
+                    {
+                        "text": "wɒtˈevə",
+                        "type": "uk",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/3137_whatever_uk.mp3"
+                    },
+                    {
+                        "text": "wətˈevər",
+                        "type": "usa",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/3137_whatever_usa.mp3"
+                    }
+                ]
+            },
+            "dictType": "oxford_buchong",
+            "kaoyan": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 9,
+                        "pos": "pron/det",
+                        "chinese": "无论什么; 任何",
+                        "sense_tier_ratio": 100
+                    },
+                    {
+                        "sense_tier": 0,
+                        "pos": "excl",
+                        "chinese": "随便",
+                        "sense_tier_ratio": 0
+                    },
+                    {
+                        "sense_tier": 0,
+                        "pos": "adv",
+                        "chinese": "丝毫(不); 任何",
+                        "sense_tier_ratio": 0
+                    },
+                    {
+                        "sense_tier": 0,
+                        "pos": "adv",
+                        "chinese": "不管怎样",
+                        "sense_tier_ratio": 0
+                    }
+                ],
+                "word": "whatever",
+                "direction_info": {
+                    "ranges": 12,
+                    "description": "数据源自2012-2023年12年间全国考研试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2012-2023年全国考研英语一和考研英语二共24套考研试卷，包括阅读、完型填空、翻译、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选全国考研考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2012-2023年12年间全国考研英语一和考研英语二试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 2,
+                "word_family": {
+                    "derivative_info_list": [
+                        {
+                            "derivative_info_list": [],
+                            "word": "whatever",
+                            "mean": "relative pron. & det. 任何…的事物；无论什么"
+                        },
+                        {
+                            "derivative_info_list": [],
+                            "word": "somewhat",
+                            "mean": "adv. 稍微；有点"
+                        }
+                    ],
+                    "word": "what",
+                    "mean": "pron. 什么；所…的事物；多少；不管什么；无论什么；凡是…的东西"
+                },
+                "total_exam_freq": 9,
+                "sense": {
+                    "sense_num": 4,
+                    "sense_info_list": [
+                        {
+                            "en": "used to emphasize a lack of restriction in referring to any thing or amount, no matter what",
+                            "zh": "无论什么; 任何",
+                            "pos": "pron/det",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "But do <highlight>whatever</highlight> you can to remain neutral in both your words and actions.",
+                                    "month": -1,
+                                    "source": "英语二",
+                                    "coll": "",
+                                    "sentence_trans": "但是尽你所能在言语和行动上保持中立。",
+                                    "year": 2021,
+                                    "type": "阅读理解B",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Each spouse retains <highlight>whatever</highlight> property he or she brought into the marriage, and jointly-acquired property is divided equally.",
+                                    "month": -1,
+                                    "source": "英语一",
+                                    "coll": "",
+                                    "sentence_trans": "夫妻双方保留其带入婚姻的任何财产，共同获得的财产平均分配。",
+                                    "year": 2016,
+                                    "type": "完型填空",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "We unconsciously associate fast food with speed and impatience and carry those impulses into <highlight>whatever</highlight> else we're doing.",
+                                    "month": -1,
+                                    "source": "英语二",
+                                    "coll": "",
+                                    "sentence_trans": "我们一想到快餐，就无意识地联想起快速和急躁，并把这些一时产生的情绪带到我们正在做的任何事情当中。",
+                                    "year": 2013,
+                                    "type": "阅读理解A",
+                                    "day": -1
+                                }
+                            ]
+                        },
+                        {
+                            "synonyms": "",
+                            "en": "informal said as a response indicating a reluctance to discuss something, often implying indifference",
+                            "zh": "随便",
+                            "pos": "excl",
+                            "antonyms": ""
+                        },
+                        {
+                            "synonyms": "",
+                            "en": "at all; of any kind (used for emphasis)",
+                            "zh": "丝毫(不); 任何",
+                            "pos": "adv",
+                            "antonyms": ""
+                        },
+                        {
+                            "synonyms": "",
+                            "en": "informal no matter what happens",
+                            "zh": "不管怎样",
+                            "pos": "adv",
+                            "antonyms": ""
+                        }
+                    ]
+                },
+                "word_affix": {
+                    "word": "whatever",
+                    "sub_affix_info_list": [
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "什么",
+                                    "affix_type": "stem"
+                                }
+                            ],
+                            "affix": "what",
+                            "affix_mean": "什么"
+                        },
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "究竟, 永远",
+                                    "affix_type": "stem"
+                                },
+                                {
+                                    "sample": [],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "曾经",
+                                    "affix_type": "stem"
+                                }
+                            ],
+                            "affix": "ever",
+                            "affix_mean": "究竟, 永远"
+                        }
+                    ],
+                    "word_mean": "relative pron. & det. 任何…的事物"
+                },
+                "word_usage": [
+                    {
+                        "usage": "whatever和no matter what都表示“无论什么”，区别在于：\nno matter what只能引导状语从句，不能引导名词性从句，而whatever两者都可以，如：\nWhatever he did was right.\n无论他做什么都是对的。（此句中只能用whatever）"
+                    }
+                ]
+            },
+            "CET6": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 6,
+                        "pos": "n",
+                        "chinese": "任何事物",
+                        "sense_tier_ratio": 66.67
+                    },
+                    {
+                        "sense_tier": 3,
+                        "pos": "adv",
+                        "chinese": "无论什么",
+                        "sense_tier_ratio": 33.33
+                    }
+                ],
+                "word": "whatever",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2016.6-2023.6年8年间全六级试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight>考纲释义</highlight>\n精选实考、考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2016-2023年51套试卷，包括阅读、听力、翻译等所有题型。\n\n<highlight>真题例句</highlight>\n精选2016-2023年8年间全六级试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 2,
+                "total_exam_freq": 9,
+                "sense": {
+                    "sense_num": 2,
+                    "sense_info_list": [
+                        {
+                            "en": "any or every; anything or everything",
+                            "zh": "任何事物",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "In reality, your role is <highlight>whatever</highlight> you make of it.",
+                                    "month": 12,
+                                    "source": "CET6",
+                                    "coll": "",
+                                    "sentence_trans": "事实上，你的角色是你自己创造的。",
+                                    "year": 2021,
+                                    "type": "听力",
+                                    "day": -1
+                                }
+                            ]
+                        },
+                        {
+                            "en": "",
+                            "zh": "无论什么",
+                            "pos": "adv",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "Snapping a photo directs attention, which heightens the pleasure you get from <highlight>whatever</highlight> you're looking at, Diehl says.",
+                                    "month": 6,
+                                    "source": "CET6",
+                                    "coll": "",
+                                    "sentence_trans": "Diehl 说，拍照可以吸引人们的注意力，这可以使你从正在看的任何事物中获得更大乐趣。",
+                                    "year": 2018,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "word_affix": {
+                    "word": "whatever",
+                    "sub_affix_info_list": [
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "什么",
+                                    "affix_type": "stem"
+                                }
+                            ],
+                            "affix": "what",
+                            "affix_mean": "什么"
+                        },
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "究竟, 永远",
+                                    "affix_type": "stem"
+                                },
+                                {
+                                    "sample": [],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "曾经",
+                                    "affix_type": "stem"
+                                }
+                            ],
+                            "affix": "ever",
+                            "affix_mean": "究竟, 永远"
+                        }
+                    ],
+                    "word_mean": "relative pron. & det. 任何…的事物"
+                }
+            },
+            "CET4": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 16,
+                        "pos": "det/pron",
+                        "chinese": "无论什么",
+                        "sense_tier_ratio": 69.57
+                    },
+                    {
+                        "sense_tier": 7,
+                        "pos": "n",
+                        "chinese": "任何事物",
+                        "sense_tier_ratio": 30.43
+                    }
+                ],
+                "word": "whatever",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2016.6-2023.6年8年间全四级试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight>考纲释义</highlight>\n精选实考、考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2016-2023年51套试卷，包括阅读、听力、翻译等所有题型。\n\n<highlight>真题例句</highlight>\n精选2016-2023年8年间试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 5,
+                "total_exam_freq": 23,
+                "sense": {
+                    "sense_num": 2,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "无论什么",
+                            "pos": "det/pron",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "And <highlight>whatever</highlight> their financial background, or their educational background, most people will have something in common with each other.",
+                                    "month": 6,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "无论他们的经济背景或教育背景如何，大多数人都会有一些共同之处。",
+                                    "year": 2021,
+                                    "type": "听力",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Once you are done demonstrating <highlight>whatever</highlight> concept was in the textbook, you throw away the pipe cleaners, the straws, the cardboard tubes.",
+                                    "month": 6,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "一旦完成对教科书某个概念的演示，你就会扔掉管道清洁器、吸管和纸板管。",
+                                    "year": 2019,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "He said people will be the winner, <highlight>whatever</highlight> the outcome.",
+                                    "month": 12,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "他说，无论结果如何，人都是赢家。",
+                                    "year": 2018,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                }
+                            ]
+                        },
+                        {
+                            "en": "any or every; anything or everything",
+                            "zh": "任何事物",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "A total of nine furry friends freely wander around in the office and do <highlight>whatever</highlight> their little hearts desire.",
+                                    "month": 6,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "总共有九个毛茸茸的朋友在办公室里到处自由地闲逛，随心所欲。",
+                                    "year": 2021,
+                                    "type": "听力",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "It allows workers to do <highlight>whatever</highlight> their hearts desire.",
+                                    "month": 6,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "它允许工人做任何他们想做的事。",
+                                    "year": 2021,
+                                    "type": "听力",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "The toughness of the race allows for racers to eat pretty much <highlight>whatever</highlight> they want.",
+                                    "month": 6,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "比赛的激烈程度使得参赛者几乎可以想吃什么就吃什么。",
+                                    "year": 2021,
+                                    "type": "听力",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "word_affix": {
+                    "word": "whatever",
+                    "sub_affix_info_list": [
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "什么",
+                                    "affix_type": "stem"
+                                }
+                            ],
+                            "affix": "what",
+                            "affix_mean": "什么"
+                        },
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "究竟, 永远",
+                                    "affix_type": "stem"
+                                },
+                                {
+                                    "sample": [],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "曾经",
+                                    "affix_type": "stem"
+                                }
+                            ],
+                            "affix": "ever",
+                            "affix_mean": "究竟, 永远"
+                        }
+                    ],
+                    "word_mean": "relative pron. & det. 任何…的事物"
+                },
+                "word_usage": [
+                    {
+                        "usage": "whatever引导让步状语从句时，可以用no matter what代替。如：Whatever you say (No matter what you say)，I won't go there with you.不管你说什么，我也不会和你一起去那儿。"
+                    }
+                ]
+            },
+            "gaokao": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 5,
+                        "pos": "det/pron/adv",
+                        "chinese": "任何事物",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "whatever",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2015-2022年8年间全国卷和自主命题省市高考卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2015-2022年全国卷高考试卷，包括阅读、完形、单选、填空、听力、改错、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选各省市考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2015-2022年8年间全国卷和自主命题省市高考卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 1,
+                "word_family": {
+                    "derivative_info_list": [
+                        {
+                            "derivative_info_list": [],
+                            "word": "whatever",
+                            "mean": "relative pron. & det. 任何…的事物；无论什么"
+                        },
+                        {
+                            "derivative_info_list": [],
+                            "word": "somewhat",
+                            "mean": "adv. 稍微；有点"
+                        }
+                    ],
+                    "word": "what",
+                    "mean": "pron. 什么；所…的事物；多少；不管什么；无论什么；凡是…的东西"
+                },
+                "total_exam_freq": 5,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "any or every; anything or everything",
+                            "zh": "任何事物",
+                            "pos": "det/pron/adv",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "Donate <highlight>whatever</highlight> clothes are left over.",
+                                    "month": -1,
+                                    "source": "全国甲卷",
+                                    "coll": "",
+                                    "sentence_trans": "把剩下的衣服都捐出去。",
+                                    "year": 2021,
+                                    "type": "七选五",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Maybe you say \"go,\" or turn on a certain song, or <highlight>whatever</highlight>.",
+                                    "month": -1,
+                                    "source": "全国甲卷",
+                                    "coll": "",
+                                    "sentence_trans": "也许你会说“走”，或者打开某首歌，或者别的什么。",
+                                    "year": 2021,
+                                    "type": "七选五",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Exercising makes you more awake and ready to handle <highlight>whatever</highlight> is ahead of you for the day.",
+                                    "month": -1,
+                                    "source": "全国卷",
+                                    "coll": "",
+                                    "sentence_trans": "锻炼让你更加清醒，并准备好应对一天中的任何事情。",
+                                    "year": 2018,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "word_affix": {
+                    "word": "whatever",
+                    "sub_affix_info_list": [
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "什么",
+                                    "affix_type": "stem"
+                                }
+                            ],
+                            "affix": "what",
+                            "affix_mean": "什么"
+                        },
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "究竟, 永远",
+                                    "affix_type": "stem"
+                                },
+                                {
+                                    "sample": [],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "曾经",
+                                    "affix_type": "stem"
+                                }
+                            ],
+                            "affix": "ever",
+                            "affix_mean": "究竟, 永远"
+                        }
+                    ],
+                    "word_mean": "relative pron. & det. 任何…的事物"
+                },
+                "word_usage": [
+                    {
+                        "usage": "whatever引导让步状语从句时，可以用no matter what代替。如：Whatever you say (No matter what you say)，I won't go there with you.不管你说什么，我也不会和你一起去那儿。"
+                    }
+                ]
+            },
+            "zhongkao": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 22,
+                        "pos": "pron",
+                        "chinese": "无论什么; 不管什么",
+                        "sense_tier_ratio": 52.38
+                    },
+                    {
+                        "sense_tier": 20,
+                        "pos": "pron",
+                        "chinese": "任何; 每一; 一切事物; 任何事物",
+                        "sense_tier_ratio": 47.62
+                    }
+                ],
+                "word": "whatever",
+                "direction_info": {
+                    "ranges": 4,
+                    "description": "数据源自2018-2021年4年间全国各省市中考试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2018-2021年全国重点省市中考试卷，包括听力、阅读、完形、单选、填空、改错、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选各省市考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2018-2021年4年间全国各省市中考试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 5,
+                "word_family": {
+                    "derivative_info_list": [
+                        {
+                            "derivative_info_list": [],
+                            "word": "whatever",
+                            "mean": "relative pron. & det. 任何…的事物；无论什么"
+                        },
+                        {
+                            "derivative_info_list": [],
+                            "word": "somewhat",
+                            "mean": "adv. 稍微；有点"
+                        }
+                    ],
+                    "word": "what",
+                    "mean": "pron. 什么；所…的事物；多少；不管什么；无论什么；凡是…的东西"
+                },
+                "total_exam_freq": 42,
+                "sense": {
+                    "sense_num": 2,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "无论什么; 不管什么",
+                            "pos": "pron",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "However, <highlight>whatever</highlight> advantages online learning has, it just offers a way of learning.",
+                                    "month": -1,
+                                    "source": "山西卷",
+                                    "coll": "",
+                                    "sentence_trans": "然而，不论在线学习有什么优势，它只是提供一种学习的方式。",
+                                    "year": 2020,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                }
+                            ]
+                        },
+                        {
+                            "en": "",
+                            "zh": "任何; 每一; 一切事物; 任何事物",
+                            "pos": "pron",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "Inside the room, they could do <highlight>whatever</highlight> they liked, except using the phone or the Internet.",
+                                    "month": -1,
+                                    "source": "重庆市B卷",
+                                    "coll": "",
+                                    "sentence_trans": "他们可以在房间里做任何想做的事情，除了使用手机和上网。",
+                                    "year": 2021,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Keeping a diary is not like doing your homework —there are no rules, so do <highlight>whatever</highlight> feels best.",
+                                    "month": -1,
+                                    "source": "安徽卷",
+                                    "coll": "",
+                                    "sentence_trans": "坚持写日记并不像做作业——写日记没有规则的束缚，所以怎么舒服怎么来。",
+                                    "year": 2020,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "word_affix": {
+                    "sub_affix_info_list": [
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "什么",
+                                    "affix_type": "stem"
+                                }
+                            ],
+                            "affix": "what",
+                            "affix_mean": "什么"
+                        },
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "究竟, 永远",
+                                    "affix_type": "stem"
+                                },
+                                {
+                                    "sample": [],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "曾经",
+                                    "affix_type": "stem"
+                                }
+                            ],
+                            "affix": "ever",
+                            "affix_mean": "究竟, 永远"
+                        }
+                    ],
+                    "word": "whatever",
+                    "word_mean": "relative pron. & det. 任何…的事物"
+                }
+            },
+            "sentencesData": {
+                "status": 1,
+                "info": "notZh2En",
+                "data": {}
+            },
+            "isAutoMatch": false,
+            "Zh2En": false
+        },
+        "query": "whatever",
+        "result": "无论什么",
+        "tabSelect": "detail",
+        "dictionaryType": "oxford_buchong",
+        "notFound_show": false,
+        "phoneticShow": "",
+        "globalShowTranslateRecord": "",
+        "pronPrefer": {
+            "type": "usa_1",
+            "speaker": "male",
+            "speed": "standard"
+        },
+        "ServerRecord": "",
+        "ServerUIGS": {
+            "version": "new",
+            "type": "all",
+            "stype": "success",
+            "terminal": "web",
+            "fr": "default",
+            "direction": "etoz",
+            "from": "en",
+            "to": "zh-CHS",
+            "len": 8,
+            "qtype": "text",
+            "qctype": "qc_1",
+            "dict_cover": 1,
+            "detail": 1,
+            "wordCardCover": 1,
+            "wordCardEn": 1,
+            "wordCardCh": 0,
+            "wordCardMinor": 0,
+            "wordCardNetmean": 0,
+            "wordDeform": 0,
+            "keyword": 0,
+            "bilingual": 1,
+            "simple": 0,
+            "levelList": 1,
+            "synonym": 0,
+            "antonym": 0,
+            "conjugate": 0,
+            "rootaffix": 1,
+            "baike_sogou": 1,
+            "baike_wiki": 0,
+            "wordDifference": 0,
+            "word_phrase": 1,
+            "secondQuery": 0,
+            "dict_oxford": 0,
+            "dict_newcentury": 0,
+            "zhongkaotab": 1,
+            "gaokaotab": 1,
+            "CET4tab": 1,
+            "CET6tab": 1,
+            "kaoyantab": 1,
+            "network_tab": 0,
+            "yinying_tab": 1,
+            "tuozhan_tab": 0,
+            "one_pic": 0,
+            "more_pic": 0,
+            "no_pic": 0,
+            "uuid": "3f65a767-fafa-4a35-aa16-e58e3ad5989c",
+            "from_type": 0,
+            "t_trans_ssr": 166
+        },
+        "ServerModelUIGS": {
+            "terminal": "web",
+            "type": "trans_model",
+            "pbtype": "pv",
+            "model_general": 1,
+            "model_medical": 1,
+            "model_finance": 1
+        },
+        "ServerSgtkn": "6505545E88543A93999FB025DD9B050999B80D9267553B08",
+        "suggShow": false,
+        "suggestion": "",
+        "suggDirection": "",
+        "usualTop": "",
+        "baseDict": "",
+        "wordCardClick": false,
+        "isFrInput": false,
+        "kanaTips": {
+            "show": false,
+            "left": "",
+            "top": "",
+            "type": "",
+            "arrowLeft": ""
+        },
+        "currSentenceIndex": -1,
+        "prefixStrObj": {
+            "prefixStr": "",
+            "oriPrefixStr": ""
+        },
+        "selectTransBox": {
+            "show": false,
+            "right": 0,
+            "top": 0,
+            "paraphraseInfo": {
+                "word": "",
+                "from": "",
+                "to": "",
+                "area": ""
+            }
+        },
+        "sentenceLoading": false,
+        "newSentenceInfo": {
+            "sentence": "",
+            "candidateIndex": 0
+        },
+        "moreTipInfo": {
+            "opacity": 0,
+            "zIndex": -1
+        },
+        "paraphraseShowInfo": {
+            "card": 0,
+            "query": "",
+            "card_dict": 0
+        },
+        "selectType": "",
+        "wordPos": 0,
+        "candidateWord": "",
+        "syntaxVisible": false,
+        "syntaxStatus": 0
+    },
+    "language": {
+        "from": "auto",
+        "to": "zh-CHS",
+        "detect": "en",
+        "model": "general",
+        "detectShow": false,
+        "langMap": {
+            "current": ""
+        },
+        "zh2en": false,
+        "fromItemList": [
+            {
+                "lang": "auto",
+                "text": "自动检测",
+                "play": false
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "ru",
+                "text": "俄语",
+                "play": true,
+                "abbr": "俄"
+            },
+            {
+                "lang": "vi",
+                "text": "越南语",
+                "play": true,
+                "abbr": "越"
+            },
+            {
+                "lang": "th",
+                "text": "泰语",
+                "play": true,
+                "abbr": "泰"
+            }
+        ],
+        "toItemList": [
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "vi",
+                "text": "越南语",
+                "play": true,
+                "abbr": "越"
+            },
+            {
+                "lang": "fr",
+                "text": "法语",
+                "play": true,
+                "abbr": "法"
+            },
+            {
+                "lang": "pt",
+                "text": "葡萄牙语",
+                "play": true,
+                "abbr": "葡"
+            }
+        ]
+    },
+    "voice": {
+        "from": {
+            "lang": "en",
+            "type": "from",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22whatever%22%2C%22spokenDialect%22%3A%22en%22%2C%22rate%22%3A%220.8%22%7D",
+            "list": [
+                {
+                    "type": "uk_0",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "wɒtˈevə",
+                    "abbr": "英",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/3137_whatever_uk.mp3"
+                },
+                {
+                    "type": "usa_1",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "wətˈevər",
+                    "abbr": "美",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/3137_whatever_usa.mp3"
+                }
+            ],
+            "stype": "phonetic",
+            "phoneticShow": [
+                {
+                    "text": "wɒtˈevə",
+                    "type": "uk",
+                    "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/3137_whatever_uk.mp3"
+                },
+                {
+                    "text": "wətˈevər",
+                    "type": "usa",
+                    "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/3137_whatever_usa.mp3"
+                }
+            ]
+        },
+        "to": {
+            "lang": "zh",
+            "type": "to",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22%E6%97%A0%E8%AE%BA%E4%BB%80%E4%B9%88%22%2C%22spokenDialect%22%3A%22zh-CHS%22%2C%22rate%22%3A%220.8%22%7D",
+            "stype": "normal"
+        }
+    }
+}
