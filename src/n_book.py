@@ -715,11 +715,11 @@ class Book:
                 word,
                 auto_fetch_word_info=True,
                 auto_download_audio=True,
-                refetch_word=False,
+                refetch_word=True,
                 refetch_audio=False,
             )
             pprint(my_word.get_word_meaning(book.get_word_info_priority()))
 
 
 if __name__ == "__main__":
-    Book.create_a_book("909")
+    Book.create_a_book("oxford3000")
