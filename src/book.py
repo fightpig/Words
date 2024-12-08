@@ -5,6 +5,7 @@ from collections import defaultdict
 from datetime import datetime
 from pathlib import Path
 import random
+from pprint import pprint
 from tkinter import messagebox
 import tkinter as tk
 from typing import List, Dict, Union, Tuple, Self
@@ -15,7 +16,6 @@ from pydantic import BaseModel
 
 from src.configuration import Config, AudioKind, AudioSource
 
-# from src.fetcher import Bing, Sogou
 from src.utils import (
     save_to_json,
     save_to_yaml,
@@ -23,6 +23,7 @@ from src.utils import (
     read_from_yaml,
     read_file,
     download_audio_file,
+    my_logger,
 )
 
 
@@ -234,103 +235,61 @@ class MyWord(BaseModel):
             to_print=to_print,
         )
 
-    def load_word_info(
-        self,
-        word: str | None = None,
-        word_idx: int | None = None,
-        cur_book_name: str | None = None,
-    ) -> Self:
-        """加载单词信息"""
-        return self.load_word_info_with_download(
-            word,
-            word_idx,
-            cur_book_name,
-            auto_fetch_word_info=False,
-            auto_download_audio=False,
-        )
+    def get_word_meaning(self, word_info_priority: List[str]) -> Dict[str, str] | None:
+        """根据配置文件的优先级，获取含义
 
-    def load_word_info_with_download(
-        self,
-        word: str,
-        word_idx: int,
-        cur_book_name: str,
-        word_info_libs_dir_path: Path,
-        sogou_word_info_libs_dir_path: Path,
-        auto_fetch_word_info: bool = False,
-        auto_download_audio: bool = False,
-    ) -> Self:
-        """加载单词信息，不存在时从网上爬取，并更新"""
-        assert word or word_idx is not None
-        # word = word if word else self.cur_idx_words.get(word_idx)
-        # word_idx = word_idx if word_idx else self.cur_word_idxes.get(word)
-        # cur_book_name = cur_book_name if cur_book_name else self.cur_book_name
-        my_word = MyWord(word=word, cur_book_name=str(cur_book_name), idx=word_idx)
-        word_json_path = self.word_info_path_dict.get(word)
-        need_save = False
+        :param word_or_obj:
+        :param word_info_priority:
+            word-info-libs:
+            - bing  # bing-网络.
+            - nce
+            - sogou
+            - sogou-cet4
+        """
+        # priority: List[str] = [
+        #     kind for kind in self.config["priority"]["word-info-libs"]
+        # ]
 
-        if not word_json_path or not word_json_path.exists():
-            # 下载单词信息
-            need_save = True
-            if auto_fetch_word_info:
-                bing_my_word = Bing.fetch(word)
-                sogou_my_word = Sogou.fetch(
-                    word,
-                    to_my_word=True,
-                    save_json_path=(
-                        sogou_word_info_libs_dir_path / f"{word}.json"
-                        if sogou_word_info_libs_dir_path
-                        else None
-                    ),
-                )
-                my_word = MyWord.update_my_word(my_word, bing_my_word)
-                my_word = MyWord.update_my_word(my_word, sogou_my_word)
-        else:
-            # 从本地json读取单词信息
-            with open(word_json_path, "r", encoding="utf-8") as f:
-                kvs = json.load(f)
-                kvs.pop("id", None)
-                kvs.pop("cur_book_name", None)
-                my_word.__dict__.update(**kvs)
+        for source in word_info_priority:
+            meaning_dict: Dict[str, str] = self.meaning_dict.get(source)
+            if meaning_dict:
+                return meaning_dict
 
-        if need_save:  # 保存json
-            self.update_word_audio_paths(
-                my_word
-            )  # TODO，不需要写audio_path，每次启动时重新加载
-            my_word.save_to_json(word_info_libs_dir_path / f"{word[0].lower()}")
+            if len(source.split("-")) == 2:
+                source, key = source.split("-")
+                meaning_dict: Dict[str, str] = self.meaning_dict.get(source)
+                if meaning_dict:
+                    if key and key in meaning_dict:
+                        return {key: meaning_dict.get(key)}
+                    return meaning_dict
 
-        self.get_word_audio_path_with_download(
-            my_word, auto_download_audio, auto_download_audio, check=True
-        )
-        return my_word
-
-    def get_my_word(self, word_or_obj: str | Self) -> Self:
-        return (
-            word_or_obj
-            if isinstance(word_or_obj, MyWord)
-            else self.load_word_info(word_or_obj)
-        )
-
+    @staticmethod
     def get_word_audio_path_with_download(
-        self,
-        word_or_obj: str | Self,
-        word_audio_path_dict: Dict[str, Dict[str, Dict[str, str]]],
-        config: Dict[str, List[str]],
+        my_word: "MyWord",
+        word_audio_path_dict: Dict[str, Dict[str, str]],
+        word_audio_priority: Dict[str, List[str]],
         word_audio_libs_dir_path,
         auto_download=True,
         using_baidu_when_fail=True,
-        check=True,
+        refetch_audio=False,
     ) -> List[str]:
         """根据配置文件的优先级，从本地word-audio-libs库中依次寻找对应的音频"""
-        my_word = self.get_my_word(word_or_obj)
         for kind in list(AudioKind):
-            setattr(my_word, f"{kind}_audio_url_dict", word_audio_path_dict.get(kind))
+            audio_path_dict = (
+                word_audio_path_dict.get(kind) if word_audio_path_dict else dict()
+            )
+            (
+                setattr(my_word, f"{kind}_audio_path_dict", audio_path_dict)
+                if audio_path_dict
+                else None
+            )
 
         priority: List[Tuple[str, str]] = [
             (source, kind)
             # for source in self.config["priority"]["word-audio-libs"]["path"]
             # for kind in self.config["priority"]["word-audio-libs"]["path"].get(source)
-            for source in config.keys()
-            for kind in config[source]
+            for source in word_audio_priority.keys()
+            for kind in word_audio_priority[source]
         ]
 
         audio_path_dicts = {
@@ -354,39 +313,71 @@ class MyWord(BaseModel):
                     my_word.word,
                     url,
                     using_baidu_when_fail=using_baidu_when_fail,
-                    refetch_audio=check,
+                    refetch_audio=refetch_audio,
                     to_print=True,
                 )
-                audio_paths.append(audio_path)
+                audio_paths.append(audio_path) if ret else None
         return audio_paths
 
-    def get_word_meaning(
-        self, word_or_obj: str | Self, priority: List[str]
-    ) -> Dict[str, str] | None:
-        """根据配置文件的优先级，获取含义
+    @staticmethod
+    def load_word_info_with_download(
+        word: str,
+        word_json_path: Path | None,
+        word_info_libs_dir_path: Path,
+        sogou_word_info_libs_dir_path: Path,
+        word_audio_libs_dir_path,
+        word_audio_path_dict: Dict[str, Dict[str, Dict[str, str]]],
+        word_audio_priority: Dict[str, List[str]],
+        auto_fetch_word_info: bool = False,
+        auto_download_audio: bool = False,
+        refetch_word=False,
+        refetch_audio=False,
+    ) -> "MyWord":
+        """加载单词信息，不存在时从网上爬取，并更新"""
+        from src.fetcher import Bing, Sogou
 
-        :param word_or_obj:
-        :param priority:
-            word-info-libs:
-            - bing  # bing-网络.
-            - nce
-            - sogou
-        """
-        word_obj = self.get_my_word(word_or_obj)
+        my_word = MyWord(word=word)
+        need_save = False
 
-        # priority: List[str] = [
-        #     kind for kind in self.config["priority"]["word-info-libs"]
-        # ]
+        if refetch_word or not word_json_path or not word_json_path.exists():
+            # 下载单词信息
+            need_save = True
+            if auto_fetch_word_info:
+                bing_my_word = Bing.fetch(word)
+                sogou_my_word = Sogou.fetch(
+                    word,
+                    to_my_word=True,
+                    save_json_path=(
+                        sogou_word_info_libs_dir_path / f"{word}.json"
+                        if sogou_word_info_libs_dir_path
+                        else None
+                    ),
+                )
+                my_word = MyWord.update_my_word(my_word, bing_my_word)
+                my_word = MyWord.update_my_word(my_word, sogou_my_word)
+        else:
+            # 从本地json读取单词信息
+            with open(word_json_path, "r", encoding="utf-8") as f:
+                kvs = json.load(f)
+                kvs.pop("id", None)
+                kvs.pop("cur_book_name", None)
+                my_word.__dict__.update(**kvs)
+            # TODO 判断是否有bing和sogou信息，否则重新下载
 
-        for kind in priority:
-            key = None
-            if len(kind.split("-")) == 2:
-                kind, key = kind.split("-")
-            meaning_dict: Dict[str, str] = word_obj.meaning_dict.get(kind)
-            if meaning_dict:
-                if key and key in meaning_dict:
-                    return {key: meaning_dict.get(key)}
-                return meaning_dict
+        if need_save:  # 保存json
+            my_word.save_to_json(word_info_libs_dir_path / f"{word[0].lower()}")
+            my_logger.info(f"{my_word.word}.json已保存")
+
+        MyWord.get_word_audio_path_with_download(
+            my_word,
+            word_audio_path_dict.get(my_word.word),
+            word_audio_priority,
+            word_audio_libs_dir_path,
+            auto_download_audio,
+            auto_download_audio,
+            refetch_audio=refetch_audio,
+        )
+        return my_word
 
     @staticmethod
     def read_from_json(json_path: str | Path) -> "MyWord":
@@ -411,15 +402,15 @@ class MyWord(BaseModel):
 
     @staticmethod
     def update_my_word(
-        to_word_obj: "MyWord",
-        from_word_obj: Union["MyWord", None],
+        to_my_word: "MyWord",
+        from_my_word: Union["MyWord", None],
         exclude_attrs=("id", "word", "cur_book_name"),
     ) -> "MyWord":
-        if from_word_obj is None:
-            return to_word_obj
+        if from_my_word is None:
+            return to_my_word
 
-        updated_word = to_word_obj.model_copy(deep=True)
-        for attr, value in from_word_obj:
+        updated_word = to_my_word.model_copy(deep=True)
+        for attr, value in from_my_word:
             if attr not in exclude_attrs and value is not None:
                 current_value = getattr(updated_word, attr)
                 if isinstance(value, defaultdict) and isinstance(
@@ -462,7 +453,7 @@ class Book:
         self.cur_idx_words = dict()
 
         self.cur_book_name = None
-        self.cur_word_obj: MyWord | None = None
+        self.cur_my_word: MyWord | None = None
 
         # [(nce, us), (nce, uk), (oxford5000, us), (oxford5000, uk)]
         self.priority: List[Tuple[str, str]] = list()
@@ -480,18 +471,6 @@ class Book:
             self.word_info_libs_dir_path, self.word_info_path_dict
         )
 
-    # def list_all_word_audio_paths(self):
-    #     """加载所有单词音频的mp3/wav路径
-    #     word_audio_path_dict[cook][us][oxford5000] = '../sources/word-audio-libs/oxford5000/us/c/cook.mp3'
-    #     """
-    #     list_all_word_audio_paths(
-    #         self.word_audio_libs_dir_path, self.word_audio_path_dict
-    #     )
-
-    # def list_all_word_info_paths(self):
-    #     """加载所有单词信息的json路径"""
-    #     list_all_word_info_paths(self.word_info_libs_dir_path, self.word_info_path_dict)
-
     def list_all_book_names(self) -> List[str]:
         """单词书名列表"""
         try:
@@ -499,7 +478,7 @@ class Book:
                 config = Config(p / "conf.yaml")
                 self.bookname_dirs[str(config.get("name"))] = p.name
         except Exception as e:
-            print(e)
+            my_logger.exception(e)
             # (
             #     messagebox.showerror("错误", "列出单词书出错")
             #     if self.showerror_by_messagebox
@@ -511,7 +490,7 @@ class Book:
     def list_all_words(self, book_name: str):
         """指定单词书的单词列表"""
         try:
-            self.list_all_book_names()
+            self.list_all_book_names() if not self.bookname_dirs else None
             book_dir = self.bookname_dirs.get(book_name)
             config = read_from_yaml(self.book_dir_path / book_dir / "conf.yaml")
             self.config.update(**config)
@@ -523,7 +502,7 @@ class Book:
                 line.strip() for line in lines if self.parse_word_rule_1(line)
             ]  # TODO，读取方式
         except Exception as e:
-            print(e)
+            my_logger.exception(e)
             # if self.showerror_by_messagebox:
             #     messagebox.showerror("错误", f"无法打开单词书: {book_name}\n{e}")
             raise Exception(f"无法打开单词书: {book_name}")
@@ -532,67 +511,81 @@ class Book:
             self.cur_word_idxes = {word: idx for idx, word in enumerate(words)}
             self.cur_idx_words = {idx: word for idx, word in enumerate(words)}
 
-    def update_word_audio_paths(
+    def get_word_info_priority(self) -> List[str]:
+        """
+        :return:
+            - bing  # bing-网络.
+            - nce
+            - sogou
+            - cet4
+            - cet6
+        """
+        return self.config["priority"]["word-info-libs"]
+
+    def get_word_audio_priority(self) -> Dict[str, List[str]]:
+        """
+        :return:
+            oxford5000:
+                - us
+                - uk
+            nce:
+                - us
+                - uk
+        """
+        return self.config["priority"]["word-audio-libs"]["path"]
+
+    def get_my_word_with_download(
         self,
-        word_or_obj: str | MyWord,
-        generate_ai_audio_when_no=False,  # TODO
-    ) -> Tuple[int, MyWord]:
+        word_or_idx: str | int,
+        auto_fetch_word_info=True,
+        auto_download_audio=True,
+        refetch_word=False,
+        refetch_audio=False,
+    ) -> MyWord:
+        word = (
+            word_or_idx
+            if isinstance(word_or_idx, str)
+            else self.cur_idx_words.get(word_or_idx)
+        )
+        idx = self.cur_word_idxes.get(word)
+        my_word = MyWord.load_word_info_with_download(
+            word,
+            word_json_path=self.word_info_path_dict.get(word),
+            word_info_libs_dir_path=self.word_info_libs_dir_path,
+            sogou_word_info_libs_dir_path=self.sogou_word_info_libs_dir_path,
+            word_audio_libs_dir_path=self.word_audio_libs_dir_path,
+            word_audio_path_dict=self.word_audio_path_dict,
+            word_audio_priority=self.get_word_audio_priority(),
+            auto_fetch_word_info=auto_fetch_word_info,
+            auto_download_audio=auto_download_audio,
+            refetch_word=refetch_word,
+            refetch_audio=refetch_audio,
+        )
+        my_word.idx = idx
+        my_word.cur_book_name = self.cur_book_name
+        return my_word
 
-        def _f(kind_):
-            nonlocal cn
-            for source, audio_path in (
-                self.word_audio_path_dict.get(word, dict()).get(kind, dict()).items()
-            ):
-                if audio_path and Path(audio_path).exists():
-                    getattr(my_word, f"{kind_}_audio_path_dict").update(
-                        {source: audio_path}
-                    )
-                    cn += 1
+    def get_my_word(
+        self,
+        word_or_idx: str | int,
+    ) -> MyWord:
+        return self.get_my_word_with_download(
+            word_or_idx, auto_fetch_word_info=False, auto_download_audio=False
+        )
 
-        word = word_or_obj.word if isinstance(word_or_obj, MyWord) else word_or_obj
-        my_word = word_or_obj if isinstance(word_or_obj, MyWord) else MyWord(word=word)
-        cn = 0
+    def get_word_audio_paths(self, my_word: MyWord) -> List[str]:
+        return my_word.get_word_audio_path_with_download(
+            my_word,
+            self.word_audio_path_dict.get(my_word.word),
+            self.get_word_audio_priority(),
+            self.word_audio_libs_dir_path,
+            auto_download=False,
+            using_baidu_when_fail=False,
+            refetch_audio=False,
+        )
 
-        for kind in list(AudioKind):  # us | uk | default | ai
-            _f(kind)
-
-        print(f"word: {word} have no audio") if cn == 0 else None
-        return cn, my_word
-
-    def generate_word_listbox(
-        self, selected_book_name: str, word_listbox: tk.Listbox, to_random=False
-    ):
-        """
-        1 清空单词列表框
-        2 获取单词书的所有单词插入到列表中
-        3 选中第一个单词
-        """
-        word_listbox.delete(0, tk.END)  # 清空列表框
-        self.list_all_words(selected_book_name)
-
-        # 添加单词到列表框
-        idxes = list(self.cur_idx_words.keys())
-        random.shuffle(idxes) if to_random else None
-        [word_listbox.insert(tk.END, self.cur_idx_words[idx]) for idx in idxes]
-
-        self.select_word(0, word_listbox)  # 选中第一个单词
-
-    def select_word(self, word_idx: int, word_listbox: tk.Listbox):
-        """触发选中左侧单词列表中的单词"""
-        # 选中单词
-        word_listbox.selection_clear(0, tk.END)
-        word_listbox.selection_set(word_idx)
-        word_listbox.activate(word_idx)
-        word_listbox.event_generate("<<ListboxSelect>>")
-
-        self.cur_word_obj = self.load_word_info(word_idx=word_idx)
-
-    @staticmethod
-    def parse_word_rule_1(line: str):
-        """不为空行，不以#开头"""
-        if line and len(line.strip()) > 0 and not line.strip().startswith("#"):
-            return True
-        return False
+    def get_word_meaning(self, my_word: MyWord) -> Dict[str, str]:
+        return my_word.get_word_meaning(self.get_word_info_priority())
 
     def save_to_word_book(self, words: List[str], word_book_name: str):
         """将新增的文章的单词保存成单词书"""
@@ -615,7 +608,7 @@ class Book:
 
     @staticmethod
     def get_my_words(book_path: str, word_info_dir_path: str) -> List[MyWord]:  # noqa
-        with open(book_path, "r", encoding="utf-8") as f:
+        with open(book_path, "r", encoding="utf-8") as f:  # TODO
             lines = f.readlines()
             words = [
                 line.strip()
@@ -711,75 +704,33 @@ class Book:
                 word_info_path_dict[p.name.replace(".json", "")] = p
         return word_info_path_dict
 
+    @staticmethod
+    def parse_word_rule_1(line: str):
+        """不为空行，不以#开头"""
+        if line and len(line.strip()) > 0 and not line.strip().startswith("#"):
+            return True
+        return False
 
-def test1():
-    config = Config()
-    book = Book(config=config)
-    book.list_all_words("909")
-    print(book.get_word_audio_path_with_download("cook"))
+    @staticmethod
+    def create_a_book(book_name: str):
+        """根据单词下载单词信息和音频"""
+        book = Book()
+        book_names = book.list_all_book_names()
+        if book_name not in book_names:
+            my_logger.info(f"Have no this book: {book_name}")
+            return
 
-
-def create_909():
-    """ """
-
-    book = Book()
-    book_names = book.list_all_book_names()
-    if "909" not in book_names:
-        print("Have no this book: 909")
-        return
-
-    book.list_all_words("909")
-
-    for idx, word in book.cur_idx_words.items():
-        print(idx, word)
-        book.load_word_info_with_download(
-            word, word_idx=idx, auto_fetch_word_info=True, auto_download_audio=True
-        )
-
-
-def create_oxford3000():
-    book = Book()
-    book_names = book.list_all_book_names()
-    if "oxford3000" not in book_names:
-        print("Have no this book: oxford3000")
-        return
-
-    book.list_all_words("oxford3000")
-
-    for idx, word in book.cur_idx_words.items():
-        book.load_word_info_with_download(
-            word, word_idx=idx, auto_fetch_word_info=True, auto_download_audio=True
-        )
-
-
-def update_book(book_name: str):
-    book = Book()
-    book_names = book.list_all_book_names()
-    if book_name not in book_names:
-        print(f"Have no this book: {book_name}")
-        return
-
-    book.list_all_words(book_name)
-
-    for idx, word in book.cur_idx_words.items():
-        word_obj = book.load_word_info_with_download(
-            word, word_idx=idx, auto_fetch_word_info=False, auto_download_audio=False
-        )
-        old_mp3 = word_obj.us_audio_path_dict.get("oxford5000")
-        if not old_mp3 or not Path(old_mp3).exists():
-            mp3 = book.word_audio_path_dict[word]["us"]["oxford5000"]
-            if mp3 and Path(mp3).exists():
-                word_obj.us_audio_path_dict["oxford5000"] = mp3
-        old_mp3 = word_obj.uk_audio_path_dict.get("oxford5000")
-        if not old_mp3 or not Path(old_mp3).exists():
-            mp3 = book.word_audio_path_dict[word]["uk"]["oxford5000"]
-            if mp3 and Path(mp3).exists():
-                word_obj.uk_audio_path_dict["oxford5000"] = mp3
-
-        word_obj.save_to_json(f"{book.word_info_libs_dir_path}/{word[0].lower()}")
-        print(f"idx: {idx}, word: {word}")
+        book.list_all_words(book_name)
+        for idx, word in book.cur_idx_words.items():
+            my_word = book.get_my_word_with_download(
+                word,
+                auto_fetch_word_info=True,
+                auto_download_audio=True,
+                refetch_word=True,
+                refetch_audio=False,
+            )
+            pprint(my_word.get_word_meaning(book.get_word_info_priority()))
 
 
 if __name__ == "__main__":
-    # create_909()
-    update_book("oxford3000")
+    Book.create_a_book("oxford3000")
