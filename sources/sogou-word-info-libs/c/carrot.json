@@ -1,0 +1,969 @@
+{
+    "route": {
+        "name": "text",
+        "path": "/text",
+        "hash": "",
+        "query": {
+            "keyword": "carrot",
+            "transfrom": "auto",
+            "transto": "zh-CHS",
+            "model": "general",
+            "errcode": "s10"
+        },
+        "params": {},
+        "fullPath": "/text?keyword=carrot&transfrom=auto&transto=zh-CHS&model=general&errcode=s10",
+        "meta": {
+            "mtype": [
+                "textTranslate",
+                "language",
+                "voice"
+            ]
+        },
+        "from": {
+            "name": null,
+            "path": "/",
+            "hash": "",
+            "query": {},
+            "params": {},
+            "fullPath": "/",
+            "meta": {}
+        }
+    },
+    "common": {
+        "CONFIG": {
+            "wuid": 1733632620852,
+            "loginInfo": {},
+            "isIE": 0,
+            "isHitSsrSwitch": true,
+            "isHitWritebookSwitch": false,
+            "isHitAmsSwitch": true,
+            "promotionList": "{\n    \"pc_bottom\":{\n        \"imgsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\",\n        \"qcsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\"\n    },\n    \"pc_middle\":[\n        {\n            \"src\":\"//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c\",\n            \"bgColor\":\"#ffffff\",\n            \"link\":\"\"\n        }\n    ],\n    \"pc_survey\":{\n        \"icon\":\"//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750\",\n        \"link\":\"https://wj.qq.com/s2/8193148/806d/\"\n    }\n}",
+            "bannerData": [],
+            "isHitAsideSurvey": false,
+            "secretCode": 109984457,
+            "uuid": "5adfbc51-4b1f-4aee-8caa-5743dfb7d56d",
+            "referer": "",
+            "approveToken": "64EAD8B9F9127CD6DED8F5641254B1E6DEB46D416755226C",
+            "loadTime": 1733632620854,
+            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0",
+            "fcp": "138.197.122.177",
+            "temporaryId": "",
+            "fileId": ""
+        },
+        "hotWords": [],
+        "isFromCollect": false,
+        "psdModify": {
+            "currentStep": 1,
+            "scode": "",
+            "username": ""
+        },
+        "loginStatus": true,
+        "feedBackModule": false,
+        "showPromotionPopup": {
+            "show": false,
+            "type": ""
+        },
+        "showPromotionPCDownload": false,
+        "showShareBomb": false,
+        "shareData": null,
+        "showAppDownLoad": false,
+        "showLoginDialog": false,
+        "showLoading": {
+            "show": false
+        },
+        "toast": {
+            "show": false,
+            "text": "",
+            "loading": false
+        },
+        "modelToast": {
+            "show": false,
+            "text": ""
+        },
+        "selectionGlobalShow": true,
+        "selectionInfo": {
+            "left": 0,
+            "top": 0,
+            "show": false,
+            "from": "",
+            "to": "",
+            "val": "",
+            "area": ""
+        },
+        "showConfirmDialog": false,
+        "promotionList": {
+            "pc_bottom": {
+                "imgsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png",
+                "qcsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png"
+            },
+            "pc_middle": [
+                {
+                    "src": "//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c",
+                    "bgColor": "#ffffff",
+                    "link": ""
+                }
+            ],
+            "pc_survey": {
+                "icon": "//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750",
+                "link": "https://wj.qq.com/s2/8193148/806d/"
+            }
+        },
+        "transTypeTxt": "text",
+        "fixedTabStatus": 0,
+        "bodyTop": 0,
+        "ifHideUserOperation": false
+    },
+    "textTranslate": {
+        "prevTransQuery": "",
+        "translateData": {
+            "translate": {
+                "zly": "zly",
+                "errorCode": "0",
+                "qc_type": "1",
+                "index": "content0",
+                "from": "en",
+                "source": "sogou",
+                "text": "carrot",
+                "to": "zh-CHS",
+                "id": "5adfbc51-4b1f-4aee-8caa-5743dfb7d56d",
+                "dit": "胡萝卜",
+                "orig_text": "carrot",
+                "md5": ""
+            },
+            "detect": {
+                "zly": "zly",
+                "detect": "en",
+                "errorCode": "0",
+                "language": "英语",
+                "id": "10e0f7c0-b51e-11ef-b0be-c38d55c078cd",
+                "text": "carrot"
+            },
+            "sgtkn": "64EAD8BBF9127CD6DED8F5641254B1E6DEB46D416755226C",
+            "wordCard": {
+                "title": "carrot",
+                "show": true,
+                "usualDict": [
+                    {
+                        "values": [
+                            "胡萝卜；诱惑物；激励措施；诱人的承诺（或奖励）；<俚语>红头发的人"
+                        ],
+                        "pos": "n."
+                    }
+                ],
+                "secondQuery": "",
+                "exchange": {
+                    "word_pl": [
+                        "carrots"
+                    ]
+                },
+                "levelList": [
+                    "小学",
+                    "初中",
+                    "高中",
+                    "四级",
+                    "六级",
+                    "考研",
+                    "考博",
+                    "雅思"
+                ]
+            },
+            "detail": {
+                "synonym": [
+                    {
+                        "word_list": [
+                            "carota"
+                        ],
+                        "pos": "n.",
+                        "mean": "胡萝卜"
+                    }
+                ],
+                "wordRootInfo": {
+                    "word_info_list": [
+                        {
+                            "word": "carroty",
+                            "pos_mean_info_list": [
+                                {
+                                    "pos": "adj.",
+                                    "mean": "胡萝卜色的；红发的"
+                                }
+                            ]
+                        }
+                    ],
+                    "root_word": "carrot"
+                },
+                "word_group": [
+                    {
+                        "brief_definition": "胡萝卜茎蝇",
+                        "phrase": "carrot fly",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "胡萝卜汁",
+                        "phrase": "carrot juice",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "胡萝卜加大棒；软硬兼施；恩威并施",
+                        "phrase": "carrot and stick",
+                        "pos": ""
+                    }
+                ],
+                "bilingual": [
+                    {
+                        "source": "I have a <em>carrot</em>. Follow me!",
+                        "target": "我有一根胡萝卜。跟我来！",
+                        "url": ""
+                    },
+                    {
+                        "source": "Beef and <em>carrot</em> dumplings, please.",
+                        "target": "牛肉胡萝卜饺子，谢谢。",
+                        "url": ""
+                    },
+                    {
+                        "source": "The rabbit nibbled on the <em>carrot</em>.",
+                        "target": "兔子轻咬胡萝卜。",
+                        "url": ""
+                    },
+                    {
+                        "source": "The cony nibbled on a <em>carrot</em>.",
+                        "target": "兔子啃了一根胡萝卜。",
+                        "url": ""
+                    },
+                    {
+                        "source": "<em>Carrot</em> is good for your eyes.",
+                        "target": "胡萝卜对眼睛有好处。",
+                        "url": ""
+                    },
+                    {
+                        "source": "This recipe needs two <em>carrot</em>.",
+                        "target": "这道菜需要两根胡萝卜。",
+                        "url": ""
+                    },
+                    {
+                        "source": "The rabbit is nibbling on a <em>carrot</em>.",
+                        "target": "兔子在轻咬胡萝卜。",
+                        "url": ""
+                    },
+                    {
+                        "source": "He pares the <em>carrot</em> to make a salad.",
+                        "target": "他削皮胡萝卜来做沙拉。",
+                        "url": ""
+                    },
+                    {
+                        "source": "She cut some <em>carrot</em> for the kids.",
+                        "target": "她给孩子们切了一些胡萝卜。",
+                        "url": ""
+                    },
+                    {
+                        "source": "The rabbit quickly nibbled on the <em>carrot</em>.",
+                        "target": "兔子迅速啃食胡萝卜。",
+                        "url": ""
+                    }
+                ],
+                "baike": {
+                    "showMore": false,
+                    "list": [
+                        {
+                            "lemmaTitle": "Carrot",
+                            "link": "https://baike.sogou.com/v5847277.htm?ch=sogou.fanyi",
+                            "abstract": "Carrot（英 [ˈkærət]，美 [ˈkærət]），英语单词，作名词为胡萝卜；诱人的建议；红发人。短语搭配有carrot fly（胡萝卜茎蝇）。例句为“The carrot is much easier to grow.（胡萝卜更容易种植。）” Carrot相关近义词有carota。",
+                            "wapPic": "//img02.sogoucdn.com/v2/thumb/retype_exclude_gif/ext/auto/q/80/crop/xy/ai/w/140/h/140/resize/w/140?appid=201005&sign=a915292c244d75a45922dc49f082cda4&url=https%3A%2F%2Fpic.baike.soso.com%2Fugc%2Fbaikepic2%2F0%2F20240429023130-194682346_png_865_546_5897.jpg%2F0",
+                            "pcPic": "//img01.sogoucdn.com/v2/thumb/retype_exclude_gif/ext/auto/q/80/crop/xy/ai/w/140/h/140/resize/w/140?appid=201005&sign=a915292c244d75a45922dc49f082cda4&url=https%3A%2F%2Fpic.baike.soso.com%2Fugc%2Fbaikepic2%2F0%2F20240429023130-194682346_png_865_546_5897.jpg%2F0"
+                        }
+                    ]
+                }
+            },
+            "book": {
+                "yingyinNormal": [
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/a3f6ca8d0ebaa5b0956976d643673427_52102.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/ef490f80b3bd44f579a8e6da0d0b8074_924.mp3",
+                        "isLavafox": true,
+                        "en": "I can smell <em>carrot</em> soup, too. And me.",
+                        "zh": "我也闻到了胡萝卜汤的味道。我也是！",
+                        "videoNameZh": "《小猪佩奇 第三季》",
+                        "videoNameEn": "《Peppa Pig Season 3》",
+                        "url": "http://bisentence_movie.sogou.com/a56372bc7886f7dd54a39f85ca9df176_33bfbd669569a47af21da69c3e1db745a309e6a6"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/efb46b0d09a0d16595177f67fa563c67_36206.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/0936c08ff0cb1c21462c7f94a1f4fb79_61887.mp3",
+                        "isLavafox": true,
+                        "en": "I can smell <em>carrot</em> soup, too. And me.",
+                        "zh": "我也闻到了胡萝卜汤的味道。我也是！",
+                        "videoNameZh": "《100天养成流利口语》",
+                        "videoNameEn": "《Get fluent spoken English in 100 days》",
+                        "url": "http://bisentence_movie.sogou.com/49698b5163c8a74f8eaf4787f3aae623_553933a106245089763c2d8b4f0ba04d8ce6679a"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/a3f6ca8d0ebaa5b0956976d643673427_52102.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/abbc007e42127c2ab4d5a0a6b82a6287_59672.mp3",
+                        "isLavafox": true,
+                        "en": "Dinner is ready. Come and get your <em>carrot</em> soup.",
+                        "zh": "晚餐好了。快来喝胡萝卜汤吧。",
+                        "videoNameZh": "《小猪佩奇 第三季》",
+                        "videoNameEn": "《Peppa Pig Season 3》",
+                        "url": "http://bisentence_movie.sogou.com/55aabf8b01372e31baf7773873e3b35b_6de4363c4c4b5640a2eda489f710c43cb53aa9e5"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/efb46b0d09a0d16595177f67fa563c67_36206.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/8ca85e05f5661b831f0094440e44c88b_7269.mp3",
+                        "isLavafox": true,
+                        "en": "Dinner is ready. Come and get your <em>carrot</em> soup.",
+                        "zh": "晚餐好了。快来喝胡萝卜汤吧。",
+                        "videoNameZh": "《100天养成流利口语》",
+                        "videoNameEn": "《Get fluent spoken English in 100 days》",
+                        "url": "http://bisentence_movie.sogou.com/e0834c8c39ddf6b17d524ef7e2861bc1_071cf6c1a749ce1f35659d02daeee744eb9ffabb"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/629af26ee246702b04dae9c64fe5736b_64581.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/b9757f66b208f7b8b527569975309c61_35450.mp3",
+                        "isLavafox": true,
+                        "en": "Zoe has her toy monkey. Ou-ou. Emily has her frog. Rub-it. Suzy has her owl. Twit-twoo. And Rebecca has her <em>carrot</em>. <em>Carrot</em>, <em>carrot</em>.",
+                        "zh": "佐伊有她的玩具猴。哦哦。艾米丽她的青蛙，摸摸它。苏西带了她的猫头鹰。笨蛋。瑞贝卡带了她的胡萝卜。胡萝卜，胡萝卜。",
+                        "videoNameZh": "《小猪佩奇（精选版）》",
+                        "videoNameEn": "《Peppa Pig》",
+                        "url": "http://bisentence_movie.sogou.com/45a74fddc30b82ab8161cad9ec9a70e1_667ff8f24c84da7287fc6d59575862ac6ca93faf"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/efb46b0d09a0d16595177f67fa563c67_36206.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/e402e922cf8d8cb74e2af8af6fd6e22a_48685.mp3",
+                        "isLavafox": true,
+                        "en": "Grandpa, I think George wants to grow a <em>carrot</em>. George, would you like to grow a <em>carrot</em>? No.",
+                        "zh": "爷爷，我觉得乔治想种胡萝卜。乔治，你想要种胡萝卜吗？不要。",
+                        "videoNameZh": "《100天养成流利口语》",
+                        "videoNameEn": "《Get fluent spoken English in 100 days》",
+                        "url": "http://bisentence_movie.sogou.com/88cda5494818370c96c6b55dfa8de1b6_86f680385f3ff8574ef1c34955122bb501d23a82"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/5440028de015a767476054a27cf789d8_26933.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/82d43e9a8de4b41c393657d3d2576ae5_43810.mp3",
+                        "isLavafox": true,
+                        "en": "Grandpa, I think George wants to grow a <em>carrot</em>. George, would you like to grow a <em>carrot</em>? No!",
+                        "zh": "爷爷，我觉得乔治想种胡萝卜。乔治，你想要种胡萝卜吗？不要。",
+                        "videoNameZh": "《小猪佩奇 第一季》",
+                        "videoNameEn": "《Peppa Pig Season 1》",
+                        "url": "http://bisentence_movie.sogou.com/c0af435468ac8a20abf5ec84aa2e7fac_041f1ad411604f3d33c6c6dac4ab96bd8fdbbe43"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/b73d6e20976b7ffe4e651b29ea5ddefc_31309.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/8668e9eb9be1b74b323265c98e876ade_39332.mp3",
+                        "isLavafox": true,
+                        "en": "I've got my Teddy, hello, everyone. Zoe has her toy monkey. Emily has her frog. Suzy has her owl. And Rebecca has her <em>carrot</em>. <em>Carrot</em>, <em>carrot</em>.",
+                        "zh": "我带了我的泰迪，大家好。佐伊的玩具是小猴。艾米丽的玩具是小青蛙。苏西的玩具是猫头鹰。瑞贝卡的玩具是她的胡萝卜。胡萝卜，胡萝卜。",
+                        "videoNameZh": "《粉红猪小妹 第二季》",
+                        "videoNameEn": "《Peppa Pig Season 2》",
+                        "url": "http://bisentence_movie.sogou.com/265f4e40fcabf8fac703a189e0acb804_09e36b908fa2b62f7eeed0719489dad9e384eda0"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/b73d6e20976b7ffe4e651b29ea5ddefc_31309.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/6064010397bc1b267063ff743c4df644_55115.mp3",
+                        "isLavafox": true,
+                        "en": "Wow. George is eating <em>carrot</em>. This is our favorite cake, <em>carrot</em> cake. Hooray. <em>Carrot</em> cake. George is a proper rabbit now.",
+                        "zh": "乔治愿意吃胡萝卜。还有这个，我们最喜欢的蛋糕。太好了！胡萝卜蛋糕。乔治是真正的小兔子啦。",
+                        "videoNameZh": "《粉红猪小妹 第二季》",
+                        "videoNameEn": "《Peppa Pig Season 2》",
+                        "url": "http://bisentence_movie.sogou.com/a9e82fdabe151e84042ecbfdbf6e3cca_34cb0585bebec25eb0ca02b465a351f1e19408be"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/629af26ee246702b04dae9c64fe5736b_64581.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/bf4c3283502c2c3cf11893b32635d426_15550.mp3",
+                        "isLavafox": true,
+                        "en": "Yes! You choose, George. Choose a <em>carrot</em>. Grandpa, I think George wants to grow a <em>carrot</em>.",
+                        "zh": "好的！你来选，乔治。选... 一个胡萝卜！爷爷，我觉得乔治想种一颗胡萝卜。",
+                        "videoNameZh": "《小猪佩奇（精选版）》",
+                        "videoNameEn": "《Peppa Pig》",
+                        "url": "http://bisentence_movie.sogou.com/380762f31fc95e7b2394d42a4f278237_b30db0ab434c0e8410e4dc05d35da451135fe561"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/efb46b0d09a0d16595177f67fa563c67_36206.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/626ffbecc8f605f1688aa4819e925786_68806.mp3",
+                        "isLavafox": true,
+                        "en": "That's funny. And what are you, Rebecca Rabbit? I'm a <em>carrot</em>.",
+                        "zh": "太好笑了，你扮的是什么，瑞贝卡？我是胡萝卜。",
+                        "videoNameZh": "《100天养成流利口语》",
+                        "videoNameEn": "《Get fluent spoken English in 100 days》",
+                        "url": "http://bisentence_movie.sogou.com/d539ea3f63d47a8370b9d7c2ae899894_616d1dfcbedd7fff669aa6905588f2db610793d5"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/5440028de015a767476054a27cf789d8_26933.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/73192d60665566dc8b2d4680e2b52560_35654.mp3",
+                        "isLavafox": true,
+                        "en": "That's funny. And what are you, Rebecca Rabbit? I'm a <em>carrot</em>.",
+                        "zh": "太好笑了，你扮的是什么，瑞贝卡？我是胡萝卜。",
+                        "videoNameZh": "《小猪佩奇 第一季》",
+                        "videoNameEn": "《Peppa Pig Season 1》",
+                        "url": "http://bisentence_movie.sogou.com/1075f956fdb06f351da293744a6e9e10_c54fe596b4a9545a5f979893962ca9f6268d6628"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/629af26ee246702b04dae9c64fe5736b_64581.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/9baa2a68f35efeb9d5719dd549667603_49743.mp3",
+                        "isLavafox": true,
+                        "en": "George, would you like to grow a <em>carrot</em>? No! What would you like to grow?",
+                        "zh": "乔治，你想种一个胡萝卜吗？不！你想种什么？",
+                        "videoNameZh": "《小猪佩奇（精选版）》",
+                        "videoNameEn": "《Peppa Pig》",
+                        "url": "http://bisentence_movie.sogou.com/3fc6260e854082cc818aaac57041b984_f88f532a70d1ac215e308726fa5675253c5eafc0"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/b73d6e20976b7ffe4e651b29ea5ddefc_31309.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/d897b41732a6d51737bed0c74f1553aa_20703.mp3",
+                        "isLavafox": true,
+                        "en": "You could be something else though. Something exciting from the garden. A <em>Carrot</em>? Rebecca Rabbit likes <em>carrot</em>s.",
+                        "zh": "你们可以扮别的东西呀。在花园里还有很多别的选择，比如说胡萝卜？小兔瑞贝卡喜欢胡萝卜。",
+                        "videoNameZh": "《粉红猪小妹 第二季》",
+                        "videoNameEn": "《Peppa Pig Season 2》",
+                        "url": "http://bisentence_movie.sogou.com/9ab731e570a6ad379216a8ee56c29908_c0e1e33486a617cef3fca48a3650c669084fc46d"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/a3f6ca8d0ebaa5b0956976d643673427_52102.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/dc125e6706fc0876eca4cc148a0cb8ff_66003.mp3",
+                        "isLavafox": true,
+                        "en": "Everyone is enjoying Mommy Rabbit's <em>carrot</em> soup. This soup is yummy.",
+                        "zh": "大家都在享用兔妈妈做的胡萝卜汤。这汤实在太好喝了。",
+                        "videoNameZh": "《小猪佩奇 第三季》",
+                        "videoNameEn": "《Peppa Pig Season 3》",
+                        "url": "http://bisentence_movie.sogou.com/ba323a9e62552d6c37acf1d48507da4b_5d9f342ea8c8728e8db8f81b75704e73d5c650b6"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/efb46b0d09a0d16595177f67fa563c67_36206.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/01cfa3aed292220318978fe86c1cabd3_40608.mp3",
+                        "isLavafox": true,
+                        "en": "Everyone is enjoying Mommy Rabbit's <em>carrot</em> soup. This soup is yummy.",
+                        "zh": "大家都在享用兔妈妈做的胡萝卜汤。这汤实在太好喝了。",
+                        "videoNameZh": "《100天养成流利口语》",
+                        "videoNameEn": "《Get fluent spoken English in 100 days》",
+                        "url": "http://bisentence_movie.sogou.com/f0091c614667c8757d2b8507cd0d4b3b_c324d9d106b5ed638f42b3860e09f4285b5ac168"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/5440028de015a767476054a27cf789d8_26933.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/92b4f1911c59398a4620a29a2ced8213_36910.mp3",
+                        "isLavafox": true,
+                        "en": "I'm a clown. Do something funny. Rebecca, why are you dressed as a <em>carrot</em>? I like <em>carrot</em>s. Dine saw. A scary dinosaur.",
+                        "zh": "我是小丑，来表演一个吧。瑞贝卡，你为什么扮成胡萝卜？我喜欢胡萝卜。恐龙。有一只可怕的恐龙。",
+                        "videoNameZh": "《小猪佩奇 第一季》",
+                        "videoNameEn": "《Peppa Pig Season 1》",
+                        "url": "http://bisentence_movie.sogou.com/290cb0d60bb1e6b2861b60f60757d582_0705653f1a0a4e5478c0fef68357f05270fdf126"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/efb46b0d09a0d16595177f67fa563c67_36206.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/0751481a6eebf962532257a5e376fcee_31096.mp3",
+                        "isLavafox": true,
+                        "en": "I'm a clown. Do something funny. Rebecca, why are you dressed as a <em>carrot</em>? I like <em>carrot</em>s. Dine saw. A scary dinosaur.",
+                        "zh": "我是小丑，来表演一个吧。瑞贝卡，你为什么扮成胡萝卜？我喜欢胡萝卜。恐龙。有一只可怕的恐龙。",
+                        "videoNameZh": "《100天养成流利口语》",
+                        "videoNameEn": "《Get fluent spoken English in 100 days》",
+                        "url": "http://bisentence_movie.sogou.com/e5e38c7075b72d183861fe9cfe29919e_e3ef4655f485ae22f6b8fe3f4b54479a498cc825"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/dfdc97c7eab31e173bc0bccd4824440f_23407.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/92cf94d384c63371c2e31a2fe55422c6_8550.mp3",
+                        "isLavafox": true,
+                        "en": "Because it's orange and you think it makes you look like a slutty <em>carrot</em>.",
+                        "zh": "因为它是橘色的，你觉得自己穿起来时像淫荡的胡萝卜。",
+                        "videoNameZh": "《生活大爆炸 第九季》",
+                        "videoNameEn": "《The Big Bang Theory Season 9》",
+                        "url": "http://bisentence_movie.sogou.com/3b67704ffc03af7850e7a3fbf1deec7c_8d978cc0c7ac24b31a9556597c5e51bdee19ab69"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/efb46b0d09a0d16595177f67fa563c67_36206.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/714d635d199420ed3a96fc1af908fd26_15119.mp3",
+                        "isLavafox": true,
+                        "en": "It is nearly dinner time. How do you know? I can smell <em>carrot</em> soup.",
+                        "zh": "现在快到晚餐时间了。你是怎么知道的？因为我闻到了胡萝卜汤的味道。",
+                        "videoNameZh": "《100天养成流利口语》",
+                        "videoNameEn": "《Get fluent spoken English in 100 days》",
+                        "url": "http://bisentence_movie.sogou.com/d1fbea8448d58e05efa1faeb9f635b92_52f067aabc3eebf7bbc379b59ea3c42c5f3eba22"
+                    }
+                ]
+            },
+            "pic": "",
+            "voice": {
+                "phonetic": [
+                    {
+                        "text": "ˈkærət",
+                        "type": "uk",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/12354_carrot_uk.mp3"
+                    },
+                    {
+                        "text": "ˈkærət",
+                        "type": "usa",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/12354_carrot_usa.mp3"
+                    }
+                ]
+            },
+            "dictType": "oxford_buchong",
+            "kaoyan": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 1,
+                        "pos": "n",
+                        "chinese": "胡萝卜",
+                        "sense_tier_ratio": 100
+                    },
+                    {
+                        "sense_tier": 0,
+                        "pos": "n",
+                        "chinese": "酬报; 好处",
+                        "sense_tier_ratio": 0
+                    }
+                ],
+                "word": "carrot",
+                "direction_info": {
+                    "ranges": 12,
+                    "description": "数据源自2012-2023年12年间全国考研试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2012-2023年全国考研英语一和考研英语二共24套考研试卷，包括阅读、完型填空、翻译、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选全国考研考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2012-2023年12年间全国考研英语一和考研英语二试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 1,
+                "total_exam_freq": 1,
+                "sense": {
+                    "sense_num": 2,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "胡萝卜",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "There's not the same embarrassment as when buying one <highlight>carrot</highlight> in a little greengrocer.",
+                                    "month": -1,
+                                    "source": "英语二",
+                                    "coll": "",
+                                    "sentence_trans": "没有像在小蔬菜水果店里买一根胡萝卜那么尴尬了。",
+                                    "year": 2013,
+                                    "type": "阅读理解B",
+                                    "day": -1
+                                }
+                            ]
+                        },
+                        {
+                            "synonyms": "",
+                            "en": "",
+                            "zh": "酬报; 好处",
+                            "pos": "n",
+                            "antonyms": ""
+                        }
+                    ]
+                }
+            },
+            "CET6": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 7,
+                        "pos": "n",
+                        "chinese": "胡萝卜",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "carrot",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2016.6-2023.6年8年间全六级试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight>考纲释义</highlight>\n精选实考、考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2016-2023年51套试卷，包括阅读、听力、翻译等所有题型。\n\n<highlight>真题例句</highlight>\n精选2016-2023年8年间全六级试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 2,
+                "total_exam_freq": 7,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "synonyms": "",
+                            "en": "",
+                            "zh": "胡萝卜",
+                            "pos": "n",
+                            "antonyms": ""
+                        }
+                    ]
+                },
+                "exchange_info": {
+                    "word_pl": [
+                        "carrots"
+                    ]
+                }
+            },
+            "CET4": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 6,
+                        "pos": "n",
+                        "chinese": "胡萝卜",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "carrot",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2016.6-2023.6年8年间全四级试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight>考纲释义</highlight>\n精选实考、考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2016-2023年51套试卷，包括阅读、听力、翻译等所有题型。\n\n<highlight>真题例句</highlight>\n精选2016-2023年8年间试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 2,
+                "total_exam_freq": 6,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "synonyms": "",
+                            "en": "",
+                            "zh": "胡萝卜",
+                            "pos": "n",
+                            "antonyms": ""
+                        }
+                    ]
+                },
+                "exchange_info": {
+                    "word_pl": [
+                        "carrots"
+                    ]
+                }
+            },
+            "gaokao": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 0,
+                        "pos": "cn/un",
+                        "chinese": "胡萝卜",
+                        "sense_tier_ratio": 0
+                    }
+                ],
+                "word": "carrot",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2015-2022年8年间全国卷和自主命题省市高考卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2015-2022年全国卷高考试卷，包括阅读、完形、单选、填空、听力、改错、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选各省市考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2015-2022年8年间全国卷和自主命题省市高考卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 1,
+                "total_exam_freq": 0,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "synonyms": "",
+                            "en": "",
+                            "zh": "胡萝卜",
+                            "pos": "cn/un",
+                            "antonyms": ""
+                        }
+                    ]
+                }
+            },
+            "zhongkao": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 18,
+                        "pos": "cn",
+                        "chinese": "胡萝卜",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "carrot",
+                "direction_info": {
+                    "ranges": 4,
+                    "description": "数据源自2018-2021年4年间全国各省市中考试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2018-2021年全国重点省市中考试卷，包括听力、阅读、完形、单选、填空、改错、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选各省市考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2018-2021年4年间全国各省市中考试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 4,
+                "total_exam_freq": 18,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "胡萝卜",
+                            "pos": "cn",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "They planted watermelon, <highlight>carrot</highlight> and corn.",
+                                    "month": -1,
+                                    "source": "恩施市卷",
+                                    "coll": "",
+                                    "sentence_trans": "他们种了西瓜、胡萝卜和玉米。",
+                                    "year": 2021,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "First cut up the <highlight>carrot</highlight>, and then put it into the blender.",
+                                    "month": -1,
+                                    "source": "兰州卷",
+                                    "coll": "",
+                                    "sentence_trans": "首先把胡萝卜切碎，然后放进搅拌机。",
+                                    "year": 2019,
+                                    "type": "按要求完成句子",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "The <highlight>carrot</highlight> is much easier to grow.",
+                                    "month": -1,
+                                    "source": "安徽卷",
+                                    "coll": "",
+                                    "sentence_trans": "胡萝卜更容易种植。",
+                                    "year": 2018,
+                                    "type": "阅读理解C",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            "sentencesData": {
+                "status": 1,
+                "info": "notZh2En",
+                "data": {}
+            },
+            "isAutoMatch": false,
+            "Zh2En": false
+        },
+        "query": "carrot",
+        "result": "胡萝卜",
+        "tabSelect": "detail",
+        "dictionaryType": "oxford_buchong",
+        "notFound_show": false,
+        "phoneticShow": "",
+        "globalShowTranslateRecord": "",
+        "pronPrefer": {
+            "type": "usa_1",
+            "speaker": "male",
+            "speed": "standard"
+        },
+        "ServerRecord": "",
+        "ServerUIGS": {
+            "version": "new",
+            "type": "all",
+            "stype": "success",
+            "terminal": "web",
+            "fr": "default",
+            "direction": "etoz",
+            "from": "en",
+            "to": "zh-CHS",
+            "len": 6,
+            "qtype": "text",
+            "qctype": "qc_1",
+            "dict_cover": 1,
+            "detail": 1,
+            "wordCardCover": 1,
+            "wordCardEn": 1,
+            "wordCardCh": 0,
+            "wordCardMinor": 0,
+            "wordCardNetmean": 0,
+            "wordDeform": 1,
+            "keyword": 0,
+            "bilingual": 1,
+            "simple": 0,
+            "levelList": 1,
+            "synonym": 1,
+            "antonym": 0,
+            "conjugate": 1,
+            "rootaffix": 0,
+            "baike_sogou": 1,
+            "baike_wiki": 0,
+            "wordDifference": 0,
+            "word_phrase": 1,
+            "secondQuery": 0,
+            "dict_oxford": 0,
+            "dict_newcentury": 0,
+            "zhongkaotab": 1,
+            "gaokaotab": 1,
+            "CET4tab": 1,
+            "CET6tab": 1,
+            "kaoyantab": 1,
+            "network_tab": 0,
+            "yinying_tab": 1,
+            "tuozhan_tab": 0,
+            "one_pic": 0,
+            "more_pic": 0,
+            "no_pic": 0,
+            "uuid": "5adfbc51-4b1f-4aee-8caa-5743dfb7d56d",
+            "from_type": 0,
+            "t_trans_ssr": 163
+        },
+        "ServerModelUIGS": {
+            "terminal": "web",
+            "type": "trans_model",
+            "pbtype": "pv",
+            "model_general": 1,
+            "model_medical": 1,
+            "model_finance": 1
+        },
+        "ServerSgtkn": "64EAD8BBF9127CD6DED8F5641254B1E6DEB46D416755226C",
+        "suggShow": false,
+        "suggestion": "",
+        "suggDirection": "",
+        "usualTop": "",
+        "baseDict": "",
+        "wordCardClick": false,
+        "isFrInput": false,
+        "kanaTips": {
+            "show": false,
+            "left": "",
+            "top": "",
+            "type": "",
+            "arrowLeft": ""
+        },
+        "currSentenceIndex": -1,
+        "prefixStrObj": {
+            "prefixStr": "",
+            "oriPrefixStr": ""
+        },
+        "selectTransBox": {
+            "show": false,
+            "right": 0,
+            "top": 0,
+            "paraphraseInfo": {
+                "word": "",
+                "from": "",
+                "to": "",
+                "area": ""
+            }
+        },
+        "sentenceLoading": false,
+        "newSentenceInfo": {
+            "sentence": "",
+            "candidateIndex": 0
+        },
+        "moreTipInfo": {
+            "opacity": 0,
+            "zIndex": -1
+        },
+        "paraphraseShowInfo": {
+            "card": 0,
+            "query": "",
+            "card_dict": 0
+        },
+        "selectType": "",
+        "wordPos": 0,
+        "candidateWord": "",
+        "syntaxVisible": false,
+        "syntaxStatus": 0
+    },
+    "language": {
+        "from": "auto",
+        "to": "zh-CHS",
+        "detect": "en",
+        "model": "general",
+        "detectShow": false,
+        "langMap": {
+            "current": ""
+        },
+        "zh2en": false,
+        "fromItemList": [
+            {
+                "lang": "auto",
+                "text": "自动检测",
+                "play": false
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "ru",
+                "text": "俄语",
+                "play": true,
+                "abbr": "俄"
+            },
+            {
+                "lang": "fr",
+                "text": "法语",
+                "play": true,
+                "abbr": "法"
+            },
+            {
+                "lang": "th",
+                "text": "泰语",
+                "play": true,
+                "abbr": "泰"
+            }
+        ],
+        "toItemList": [
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "ru",
+                "text": "俄语",
+                "play": true,
+                "abbr": "俄"
+            },
+            {
+                "lang": "vi",
+                "text": "越南语",
+                "play": true,
+                "abbr": "越"
+            },
+            {
+                "lang": "fr",
+                "text": "法语",
+                "play": true,
+                "abbr": "法"
+            }
+        ]
+    },
+    "voice": {
+        "from": {
+            "lang": "en",
+            "type": "from",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22carrot%22%2C%22spokenDialect%22%3A%22en%22%2C%22rate%22%3A%220.8%22%7D",
+            "list": [
+                {
+                    "type": "uk_0",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "ˈkærət",
+                    "abbr": "英",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/12354_carrot_uk.mp3"
+                },
+                {
+                    "type": "usa_1",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "ˈkærət",
+                    "abbr": "美",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/12354_carrot_usa.mp3"
+                }
+            ],
+            "stype": "phonetic",
+            "phoneticShow": [
+                {
+                    "text": "ˈkærət",
+                    "type": "uk",
+                    "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/12354_carrot_uk.mp3"
+                }
+            ]
+        },
+        "to": {
+            "lang": "zh",
+            "type": "to",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22%E8%83%A1%E8%90%9D%E5%8D%9C%22%2C%22spokenDialect%22%3A%22zh-CHS%22%2C%22rate%22%3A%220.8%22%7D",
+            "stype": "normal"
+        }
+    }
+}

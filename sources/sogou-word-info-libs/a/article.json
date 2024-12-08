@@ -1,0 +1,1826 @@
+{
+    "route": {
+        "name": "text",
+        "path": "/text",
+        "hash": "",
+        "query": {
+            "keyword": "article",
+            "transfrom": "auto",
+            "transto": "zh-CHS",
+            "model": "general",
+            "errcode": "s10"
+        },
+        "params": {},
+        "fullPath": "/text?keyword=article&transfrom=auto&transto=zh-CHS&model=general&errcode=s10",
+        "meta": {
+            "mtype": [
+                "textTranslate",
+                "language",
+                "voice"
+            ]
+        },
+        "from": {
+            "name": null,
+            "path": "/",
+            "hash": "",
+            "query": {},
+            "params": {},
+            "fullPath": "/",
+            "meta": {}
+        }
+    },
+    "common": {
+        "CONFIG": {
+            "wuid": 1733632336253,
+            "loginInfo": {},
+            "isIE": 0,
+            "isHitSsrSwitch": true,
+            "isHitWritebookSwitch": false,
+            "isHitAmsSwitch": true,
+            "promotionList": "{\n    \"pc_bottom\":{\n        \"imgsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\",\n        \"qcsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\"\n    },\n    \"pc_middle\":[\n        {\n            \"src\":\"//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c\",\n            \"bgColor\":\"#ffffff\",\n            \"link\":\"\"\n        }\n    ],\n    \"pc_survey\":{\n        \"icon\":\"//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750\",\n        \"link\":\"https://wj.qq.com/s2/8193148/806d/\"\n    }\n}",
+            "bannerData": [],
+            "isHitAsideSurvey": false,
+            "secretCode": 109984457,
+            "uuid": "207539c4-ac8c-4eae-ae21-72f83139a984",
+            "referer": "",
+            "approveToken": "64E9EEDBD72C7DD4E0D9C865647230A8E07B4ACD67552150",
+            "loadTime": 1733632336256,
+            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0",
+            "fcp": "138.197.122.177",
+            "temporaryId": "",
+            "fileId": ""
+        },
+        "hotWords": [],
+        "isFromCollect": false,
+        "psdModify": {
+            "currentStep": 1,
+            "scode": "",
+            "username": ""
+        },
+        "loginStatus": true,
+        "feedBackModule": false,
+        "showPromotionPopup": {
+            "show": false,
+            "type": ""
+        },
+        "showPromotionPCDownload": false,
+        "showShareBomb": false,
+        "shareData": null,
+        "showAppDownLoad": false,
+        "showLoginDialog": false,
+        "showLoading": {
+            "show": false
+        },
+        "toast": {
+            "show": false,
+            "text": "",
+            "loading": false
+        },
+        "modelToast": {
+            "show": false,
+            "text": ""
+        },
+        "selectionGlobalShow": true,
+        "selectionInfo": {
+            "left": 0,
+            "top": 0,
+            "show": false,
+            "from": "",
+            "to": "",
+            "val": "",
+            "area": ""
+        },
+        "showConfirmDialog": false,
+        "promotionList": {
+            "pc_bottom": {
+                "imgsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png",
+                "qcsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png"
+            },
+            "pc_middle": [
+                {
+                    "src": "//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c",
+                    "bgColor": "#ffffff",
+                    "link": ""
+                }
+            ],
+            "pc_survey": {
+                "icon": "//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750",
+                "link": "https://wj.qq.com/s2/8193148/806d/"
+            }
+        },
+        "transTypeTxt": "text",
+        "fixedTabStatus": 0,
+        "bodyTop": 0,
+        "ifHideUserOperation": false
+    },
+    "textTranslate": {
+        "prevTransQuery": "",
+        "translateData": {
+            "translate": {
+                "zly": "zly",
+                "errorCode": "0",
+                "qc_type": "1",
+                "index": "content0",
+                "from": "en",
+                "source": "sogou",
+                "text": "article",
+                "to": "zh-CHS",
+                "id": "207539c4-ac8c-4eae-ae21-72f83139a984",
+                "dit": "文章",
+                "orig_text": "article",
+                "md5": ""
+            },
+            "detect": {
+                "zly": "zly",
+                "detect": "en",
+                "errorCode": "0",
+                "language": "英语",
+                "id": "673e7440-b51d-11ef-bd2f-e7399eb4ea47",
+                "text": "article"
+            },
+            "sgtkn": "64E9EEDED72C7DD4E0D9C865647230A8E07B4ACD67552150",
+            "wordCard": {
+                "title": "article",
+                "show": true,
+                "usualDict": [
+                    {
+                        "values": [
+                            "文章；（报刊上的）论文；物品；物件；（协议、契约的）条款；规定；条文；报道；冠词"
+                        ],
+                        "pos": "n."
+                    },
+                    {
+                        "values": [
+                            "订约将…收为学徒（或徒弟）；签订协议；以协议（或契约）约束；担任学徒；使受协议条款的约束；定约雇用进行控告；提出罪状（或指责）"
+                        ],
+                        "pos": "v."
+                    }
+                ],
+                "secondQuery": "",
+                "exchange": {
+                    "word_third": [
+                        "articles"
+                    ],
+                    "word_ing": [
+                        "articling"
+                    ],
+                    "word_done": [
+                        "articled"
+                    ],
+                    "word_pl": [
+                        "articles"
+                    ],
+                    "word_past": [
+                        "articled"
+                    ]
+                },
+                "levelList": [
+                    "小学",
+                    "初中",
+                    "高中",
+                    "四级",
+                    "六级",
+                    "考研",
+                    "雅思",
+                    "托福"
+                ]
+            },
+            "detail": {
+                "synonym": [
+                    {
+                        "word_list": [
+                            "item",
+                            "provision",
+                            "clause"
+                        ],
+                        "pos": "n.",
+                        "mean": "文章；物品；条款；冠词"
+                    }
+                ],
+                "affix": {
+                    "word": "article",
+                    "sub_affix_info_list": [
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "artifact",
+                                            "mean": "n. 人工制品；历史文物；非自然存在物体"
+                                        },
+                                        {
+                                            "word": "artificial",
+                                            "mean": "adj. 人工的；人造的；虚伪的；做作的；非自然存在的；人为的；假的；按约定而非随意的"
+                                        },
+                                        {
+                                            "word": "artisan",
+                                            "mean": "n. 工匠；手艺人"
+                                        },
+                                        {
+                                            "word": "artistry",
+                                            "mean": "n. 艺术创造技巧"
+                                        },
+                                        {
+                                            "word": "artless",
+                                            "mean": "adj. 不诡诈的；无欺的；单纯的；不谙世故的；不做作的；自然而简单的；无技巧（或手腕）的"
+                                        },
+                                        {
+                                            "word": "artwork",
+                                            "mean": "n. 插图；艺术作品"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "技巧, 技术",
+                                    "affix_type": "stem"
+                                }
+                            ],
+                            "affix": "art",
+                            "affix_mean": "技巧, 技术"
+                        },
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "名词后缀, 表示\"...物品, 状态\"",
+                                    "affix_type": "suffix"
+                                }
+                            ],
+                            "affix": "-icle",
+                            "affix_mean": "状态"
+                        }
+                    ],
+                    "word_mean": "n. 一件"
+                },
+                "wordRootInfo": {
+                    "word_info_list": [
+                        {
+                            "word": "articled",
+                            "pos_mean_info_list": [
+                                {
+                                    "pos": "adj.",
+                                    "mean": "合同雇用培训的；（学徒）受契约约束的"
+                                },
+                                {
+                                    "pos": "v.",
+                                    "mean": "使受协议条款的约束；指控（article的过去式和过去分词）"
+                                }
+                            ]
+                        }
+                    ],
+                    "root_word": "article"
+                },
+                "word_difference_info": [
+                    {
+                        "common_mean": "文章",
+                        "word_list": [
+                            "article",
+                            " paper",
+                            " theme",
+                            " composition",
+                            " dissertation",
+                            " essay",
+                            " prose",
+                            " thesis"
+                        ],
+                        "word_mean_info__list": [
+                            {
+                                "difference": "多指在报刊、杂志上发表的非文艺性的文章，包括新闻报导、学术论文等。",
+                                "word": "article"
+                            },
+                            {
+                                "difference": "正式用词，多指在学术刊物上发表或在学术会议上宣读的专题论文，也指高等学校的学期论文，或学校里的作文练习。",
+                                "word": "paper"
+                            },
+                            {
+                                "difference": "一般指大学或高中生作为作业所写的篇幅有限、较完整论述某个观点的文章。也可指作品或谈话的主要论题。",
+                                "word": "theme"
+                            },
+                            {
+                                "difference": "多指学校里老师给学生的作文练习。",
+                                "word": "composition"
+                            },
+                            {
+                                "difference": "书面语用词，指独立研究后所写的较为详细的专题文章；也可指学位论文。",
+                                "word": "dissertation"
+                            },
+                            {
+                                "difference": "指任何一种非小说性的，篇幅不长、结构简练的文章，如论说文、报道、评论、讽刺性杂文等。",
+                                "word": "essay"
+                            },
+                            {
+                                "difference": "专指散文。",
+                                "word": "prose"
+                            },
+                            {
+                                "difference": "既可指毕业论文、学位论文，又可指一般的为阐述学术观点而写的论文。",
+                                "word": "thesis"
+                            }
+                        ]
+                    }
+                ],
+                "word_group": [
+                    {
+                        "brief_definition": "研究文章；研究论文；科研论文",
+                        "phrase": "research article",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "特写文章；特稿；专题文章",
+                        "phrase": "feature article",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "高质量的文章",
+                        "phrase": "high-quality article",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "定冠词",
+                        "phrase": "definite article",
+                        "pos": "phr"
+                    },
+                    {
+                        "brief_definition": "不定冠词",
+                        "phrase": "indefinite article",
+                        "pos": "phr"
+                    },
+                    {
+                        "brief_definition": "社论",
+                        "phrase": "leading article",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "坚定的信念",
+                        "phrase": "an article of faith",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "同类人中的典范",
+                        "phrase": "the genuine article",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "成品",
+                        "phrase": "the finished article",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "主导文章",
+                        "phrase": "lead article",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "古玩；古董；珍品；艺术品",
+                        "phrase": "article of virtu",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "首件",
+                        "phrase": "first article",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "报纸文章；报刊文章",
+                        "phrase": "newspaper article",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "初始文章；原始文章；原创文章",
+                        "phrase": "original article",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "杂志文章；报刊文章；杂志上的文章",
+                        "phrase": "magazine article",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "新闻文章；消息文章；新闻报道",
+                        "phrase": "news article",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "期刊论文；期刊文章",
+                        "phrase": "journal article",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "文章编号；编号；品号",
+                        "phrase": "article number",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "公司章程；组织章程",
+                        "phrase": "article of association",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "有趣的文章",
+                        "phrase": "interesting article",
+                        "pos": ""
+                    }
+                ],
+                "bilingual": [
+                    {
+                        "source": "You can read an <em>article</em> in a magazine.",
+                        "target": "你可以在杂志上读到一篇文章。",
+                        "url": ""
+                    },
+                    {
+                        "source": "I read a great <em>article</em> in my magazine.",
+                        "target": "我在我的杂志上读了一篇很棒的文章。",
+                        "url": ""
+                    },
+                    {
+                        "source": "How does the <em>article</em> show Daniel's love for science?",
+                        "target": "这篇文章如何展示丹尼尔对科学的热爱？",
+                        "url": ""
+                    },
+                    {
+                        "source": "Jane is eager to share the magazine <em>article</em> with Luke.",
+                        "target": "简迫不及待地想和卢克分享这篇杂志文章。",
+                        "url": ""
+                    },
+                    {
+                        "source": "You can put it with your <em>article</em> in the school magazine.",
+                        "target": "你可以把它和你的文章一起放在校刊里。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Then someone wrote an <em>article</em> about Bruno in a local newspaper.",
+                        "target": "然后有人在当地报纸上写了一篇关于布鲁诺的文章。",
+                        "url": ""
+                    },
+                    {
+                        "source": "And if you want to read Lingling's <em>article</em>, you can find it in the school magazine.",
+                        "target": "如果你想读玲玲的文章，你可以在校刊上找到。",
+                        "url": ""
+                    },
+                    {
+                        "source": "I will know about the lives of many English writers after I finish reading this <em>article</em> next week.",
+                        "target": "我下周读完这篇文章后会了解许多英国作家的生活。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Last week, Anne was attracted by a particular <em>article</em> in a magazine, so she bought it.",
+                        "target": "上周，安妮被杂志上的一篇特定文章吸引了，所以她买了它。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Each student is going to design an outfit for daily wear and write an <em>article</em> about it.",
+                        "target": "每个学生将设计一套日常穿着的服装并写一篇关于它的文章。",
+                        "url": ""
+                    }
+                ],
+                "baike": {
+                    "showMore": false,
+                    "list": [
+                        {
+                            "lemmaTitle": "Article",
+                            "link": "https://baike.sogou.com/v63993522.htm?ch=sogou.fanyi",
+                            "abstract": "Article，英语单词，名词、及物动词、不及物动词，作名词时意为“文章；物品；条款；[语] 冠词”。作及物动词时意为“订约将…收为学徒或见习生；使…受协议条款的约束”。作不及物动词时意为“签订协议；进行控告”。",
+                            "wapPic": "",
+                            "pcPic": ""
+                        }
+                    ]
+                }
+            },
+            "book": {
+                "yingyinNormal": [
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/334ae739c2d3bef71ab483cd142c3ad8_18137.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/1bb684592c9789c984cee75dda31299c_40172.mp3",
+                        "isLavafox": true,
+                        "en": "Get them talking about anything but that goddamn <em>article</em>.",
+                        "zh": "让他们谈什么都好，就是别谈那篇文章。",
+                        "videoNameZh": "《纸牌屋 第五季》",
+                        "videoNameEn": "《House of Cards Season 5》",
+                        "url": "http://bisentence_movie.sogou.com/b460057ce19d028f75633cb0f908df69_35fe98dbbc9d10d8b3bdb2889d964a76822b92e8"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/c147f8d54a969778fef4aa74fdb25c24_34800.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/2a8ae4eb802113a9ee65b3b44dd8aa36_20705.mp3",
+                        "isLavafox": true,
+                        "en": "I'm sure they'll answer my calls once this <em>article</em> comes out.",
+                        "zh": "相信等文章发布，他们会接我的电话的。",
+                        "videoNameZh": "《纸牌屋 第四季》",
+                        "videoNameEn": "《House of Cards Season 4》",
+                        "url": "http://bisentence_movie.sogou.com/7b559c6deee3ea62a382b1aee7e104ad_efef41d8fbf224b12ffa2408410a4bb0bb40bee3"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/f012eb5fd120cc2d5b68f18e3d0e7c8c_67362.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/d44ea9dda4e5cd5c8e92aec05260241d_54725.mp3",
+                        "isLavafox": true,
+                        "en": "This is a Reuters <em>article</em> on the NSA. The NSA? Yeah.",
+                        "zh": "这是篇路透社关于国家安全局的文章。国家安全局？对。",
+                        "videoNameZh": "《傲骨贤妻 第五季》",
+                        "videoNameEn": "《The Good Wife Season 5》",
+                        "url": "http://bisentence_movie.sogou.com/ff6d4bb0a4669221f9f5f39460a83de0_1c5fe27baf962aa4f5eb89475a4e45a9ab5547ad"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/7eb0bec9540cbb2c5939554caf885c99_49670.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/20664d482ee69456fcff0b058d07c10a_19996.mp3",
+                        "isLavafox": true,
+                        "en": "What are you guys talking about? There's a reception for my magazine <em>article</em> on Saturday.",
+                        "zh": "你们在说什么？周六有场为我的杂志文章举行的招待会。",
+                        "videoNameZh": "《生活大爆炸 第二季》",
+                        "videoNameEn": "《The Big Bang Theory Season 2》",
+                        "url": "http://bisentence_movie.sogou.com/b53d88ba2da3e167088a2ea7b3440315_0935672a9388f9419584fe3e87326bc52bfa164c"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/f7d7167294560b5a445295985c93469c_14515.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/054a646e0230c736bd0c702f3f751f59_70234.mp3",
+                        "isLavafox": true,
+                        "en": "What are you reading? This <em>article</em> says the peak age for making a Nobel Prize-winning discovery is 40.",
+                        "zh": "你在看什么？这文章说诺贝尔获奖者取得大发现的巅峰年纪是40岁。",
+                        "videoNameZh": "《生活大爆炸 第十季》",
+                        "videoNameEn": "《The Big Bang Theory Season 10》",
+                        "url": "http://bisentence_movie.sogou.com/4ae643c8b5f04b910dcbf202789808e1_bdb98a0d2c0dba2b00ec457e30973dfbe5315d55"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/334ae739c2d3bef71ab483cd142c3ad8_18137.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/e5b3469bb6430da8b04f4cbd76bd68e7_12407.mp3",
+                        "isLavafox": true,
+                        "en": "Cleared? Please. The White House has not had a single press briefing since the Herald ran my <em>article</em>.",
+                        "zh": "无罪？得了吧。白宫自《先驱报》刊登了我的文章，就没举行过一次新闻发布会。",
+                        "videoNameZh": "《纸牌屋 第五季》",
+                        "videoNameEn": "《House of Cards Season 5》",
+                        "url": "http://bisentence_movie.sogou.com/92510fc1a043f46efc6dd8f95cce0857_f4d32817947997a49cbd54ecc6bef907b2c08903"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/334ae739c2d3bef71ab483cd142c3ad8_18137.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/a18d1c65f19d9314cd953be62633cb20_27839.mp3",
+                        "isLavafox": true,
+                        "en": "You know, a Tom Hammerschmidt <em>article</em> used to be the first thing I would look for when I opened the Washington Herald.",
+                        "zh": "汤姆·汉默施密特的文章以前是我打开《华盛顿先驱报》后，第一个要找的东西。",
+                        "videoNameZh": "《纸牌屋 第五季》",
+                        "videoNameEn": "《House of Cards Season 5》",
+                        "url": "http://bisentence_movie.sogou.com/ef55c2c70aca81270757dac2b186ce2b_a010183a8af00605f6abb211cca29deda52e87ad"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/c147f8d54a969778fef4aa74fdb25c24_34800.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/1fdd67b8db0b191ba628e78ae113583b_72140.mp3",
+                        "isLavafox": true,
+                        "en": "Will you comment on the Wall Street Telegraph <em>article</em> about Governor Conway's alleged interference with the House Intelligence Committee?",
+                        "zh": "你是否可以就《华尔街电讯报》的文章指出康威州长可能干涉了众议院情报委员会做出评论？",
+                        "videoNameZh": "《纸牌屋 第四季》",
+                        "videoNameEn": "《House of Cards Season 4》",
+                        "url": "http://bisentence_movie.sogou.com/899e6bf1713a360538a5133de1cf2532_a248e7e022b7f384e921bbbc76dc604fa55bd2f7"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/ce4704185ed874d2da0aa0211b7c5d4d_3508.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/cac33b04cf652fae0dc59df7a5c49805_69471.mp3",
+                        "isLavafox": true,
+                        "en": "I read an amusing <em>article</em> about, a Civil War re-enactor, who said that your great-great-grandfather killed a Yankee soldier with his bare hands.",
+                        "zh": "我读过一篇有趣的文章，一个内战情景重现演员，他说你的曾曾祖父赤手杀了一名北方兵。",
+                        "videoNameZh": "《纸牌屋 第三季》",
+                        "videoNameEn": "《House of Cards Season 3》",
+                        "url": "http://bisentence_movie.sogou.com/06e44ae8f481af93a512dfcef8f3fdd4_6daf7105fd154d8aaf420a96844f202055ae5c7b"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/334ae739c2d3bef71ab483cd142c3ad8_18137.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/45c3290353873b98ac0406e13c572c11_64151.mp3",
+                        "isLavafox": true,
+                        "en": "Tom. I understand you believe in the importance of your <em>article</em>. And I agreed to come here today and talk with you about it. But we're fighting to keep this country safe.",
+                        "zh": "汤姆。我知道你相信你的文章很重要。我答应今天来跟你谈谈它。但我们正在奋力保护国家的安全。",
+                        "videoNameZh": "《纸牌屋 第五季》",
+                        "videoNameEn": "《House of Cards Season 5》",
+                        "url": "http://bisentence_movie.sogou.com/50896608cd11afe6c20abe39ace991f4_a28508b6d4451cdb39228658abc79be3c36913fc"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/f0ed3bd1897036484d259b1dfb2cebc8_22838.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/0315a5266e951d150d8fcba438e1047d_48014.mp3",
+                        "isLavafox": true,
+                        "en": "I read an <em>article</em> in the paper the other day that said that although US teenagers are not the most sexually active, we have the highest rate of teenage pregnancy, okay?",
+                        "zh": "有天，我读到一篇文章上面说，虽然美国青年并不算是最性活跃的，但我们的青少年怀孕率是最高的，知道吗？",
+                        "videoNameZh": "《少年时代》",
+                        "videoNameEn": "《Boyhood》",
+                        "url": "http://bisentence_movie.sogou.com/14ba0b0178f014a7129cacd5d8a305cc_285a38573a65faf961e9ea02beac25ba66f2625b"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/a86e6e98cc64448e528c65f2085efa0f_30194.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/ea4968a5caeb210b707b63c2ab38b4f0_74888.mp3",
+                        "isLavafox": true,
+                        "en": "Ooh, guess who's getting an <em>article</em> written about him in Physics Today?",
+                        "zh": "哇哦，猜猜\"今日物理\"写了篇关于谁的报道？",
+                        "videoNameZh": "《生活大爆炸 第7季》",
+                        "videoNameEn": "《The Big Bang Theory Season 7》",
+                        "url": "http://bisentence_movie.sogou.com/aad9183c20dd2f1e454c3fca17b318e3_09484fdfad29ef7eed26c23a160f2f4081f8889a"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/b21f5975b6c4f0b3c33038710709a274_56412.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/7985e4d2360458e94517e6cc635529b4_47513.mp3",
+                        "isLavafox": true,
+                        "en": "Listen. There is no such thing as bad publicity, sweetheart. Read the <em>article</em>, babe.",
+                        "zh": "听着，亲爱的，坏消息总比没消息好。你读读这篇报道啊，宝贝。",
+                        "videoNameZh": "《华尔街之狼》",
+                        "videoNameEn": "《The Wolf of Wall Street》",
+                        "url": "http://bisentence_movie.sogou.com/4b43c6671fb5a168fe39990032bb2beb_d9ec31aa4baefc46323202bfd2ddbe9af879cbfb"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/dfdc97c7eab31e173bc0bccd4824440f_23407.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/0c8ab92bd488aeba0a966970a03323e6_74533.mp3",
+                        "isLavafox": true,
+                        "en": "Which brings us to <em>article</em> 23 subsection C, please check here to reserve your spot at the ten year roommate reunion.",
+                        "zh": "请看到第23条第C款，请在这里签名来预留十年后室友团聚会的位子。",
+                        "videoNameZh": "《生活大爆炸 第九季》",
+                        "videoNameEn": "《The Big Bang Theory Season 9》",
+                        "url": "http://bisentence_movie.sogou.com/532d3ca42e19b7ec41aef2fb01d73662_8b37d46371e0fe82b1b930511528cca5492b4f1d"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/eb018cf49e3f89f3bef3ea53525e6ccf_56032.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/96513ac9461690db32dac4f709987c8b_48470.mp3",
+                        "isLavafox": true,
+                        "en": "I tried to ask him about it, and he invoked section three, <em>article</em> five of the marriage contract: beeswax comma none of your.",
+                        "zh": "我试着问过他，但他引用了婚姻协议中的第3节第5条：\"屁事关你\"。",
+                        "videoNameZh": "《生活大爆炸 第十二季》",
+                        "videoNameEn": "《The Big Bang Theory Season 12》",
+                        "url": "http://bisentence_movie.sogou.com/c30dc42dfaf02041171a688d4e51738a_ec93a7f61172108511159583f1425ef7172e90e3"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/7eb0bec9540cbb2c5939554caf885c99_49670.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/fbe2377ec8c16f36d63fa73f5801be36_424.mp3",
+                        "isLavafox": true,
+                        "en": "Leonard, there's one more thing. Under <em>Article</em> One, Section Three of our Roommate Agreement, I'm calling an emergency meeting. No, you're not.",
+                        "zh": "莱纳德，还有件事，根据我们的合租协议第一章第三段，我要召开一个紧急会议。你不是吧。",
+                        "videoNameZh": "《生活大爆炸 第二季》",
+                        "videoNameEn": "《The Big Bang Theory Season 2》",
+                        "url": "http://bisentence_movie.sogou.com/acf8be1796e230676cf57134aaa6550a_5a01053c295724272c4d7f71fe4bd89cd97fc5e7"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/7527e2a9ec38f59ad126037938e4289c_52101.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/de591ab0c96ddc5956c114507f756f8b_33744.mp3",
+                        "isLavafox": true,
+                        "en": "No, it's New York magazine. It's an <em>article</em> about the best schools in the city. So how well do you know Sting? I actually haven't even met him.",
+                        "zh": "我在看《纽约杂志》报导城里最棒的学校。你跟史汀很熟吗？事实上我没有见过他。",
+                        "videoNameZh": "《老友记 第八季》",
+                        "videoNameEn": "《Friends Season 8》",
+                        "url": "http://bisentence_movie.sogou.com/1186cebdc52c9002ad83ac484c2c34a3_6cc58227e6125db4ff22d769e17f86bc780ec2a2"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/0a13ccf38dbac0df5a5c6a86f5d3355c_59759.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/b093454ff566f09a5d00b5dfbe8d98cc_42144.mp3",
+                        "isLavafox": true,
+                        "en": "Then one day on the treadmill, I was reading this <em>article</em> on Sociology Journal about how people don't start out lying to other people, they start out lying to themselve, and the things we repeat most frequently are often those lies.",
+                        "zh": "有天在跑步机上，我正在读社会学杂志上的论文。上面写道，相比对他人撒谎，人们更喜欢对自己撒谎。而重复最多的那些话，通常就是谎言。",
+                        "videoNameZh": "《Facebook COO谢丽尔·桑德伯格哈佛演讲》",
+                        "videoNameEn": "《Sheryl Speech at Harvard》",
+                        "url": "http://bisentence_movie.sogou.com/03966b184f8820462ab15321ba86fcd3_17dc05b8e14cb5ff74ee5da13f936212cd95e9ed"
+                    }
+                ]
+            },
+            "pic": "",
+            "voice": {
+                "phonetic": [
+                    {
+                        "text": "ˈɑːtɪkl",
+                        "type": "uk",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/127_article_uk.mp3"
+                    },
+                    {
+                        "text": "ˈɑːrtɪkl",
+                        "type": "usa",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/127_article_usa.mp3"
+                    }
+                ]
+            },
+            "dictType": "oxford_buchong",
+            "kaoyan": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 16,
+                        "pos": "n",
+                        "chinese": "文章; 论文",
+                        "sense_tier_ratio": 94.12
+                    },
+                    {
+                        "sense_tier": 1,
+                        "pos": "n",
+                        "chinese": "物件; 物品",
+                        "sense_tier_ratio": 5.88
+                    },
+                    {
+                        "sense_tier": 0,
+                        "pos": "n/v",
+                        "chinese": "条款; 约定",
+                        "sense_tier_ratio": 0
+                    },
+                    {
+                        "sense_tier": 0,
+                        "pos": "n",
+                        "chinese": "[语法]冠词",
+                        "sense_tier_ratio": 0
+                    },
+                    {
+                        "sense_tier": 0,
+                        "pos": "n",
+                        "chinese": "事件",
+                        "sense_tier_ratio": 0
+                    }
+                ],
+                "word": "article",
+                "word_level_phrase_info": [
+                    {
+                        "brief_definition": "研究文章；研究论文；科研论文",
+                        "phrase": "research article",
+                        "pos": "phr"
+                    }
+                ],
+                "direction_info": {
+                    "ranges": 12,
+                    "description": "数据源自2012-2023年12年间全国考研试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2012-2023年全国考研英语一和考研英语二共24套考研试卷，包括阅读、完型填空、翻译、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选全国考研考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2012-2023年12年间全国考研英语一和考研英语二试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 4,
+                "total_exam_freq": 17,
+                "sense": {
+                    "sense_num": 5,
+                    "sense_info_list": [
+                        {
+                            "en": "a piece of writing included with others in a newspaper, magazine, or other publication",
+                            "zh": "文章; 论文",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "Scientists need journals in which to publish their research, so they will supply the <highlight>articles</highlight> without monetary reward.",
+                                    "month": -1,
+                                    "source": "英语一",
+                                    "coll": "",
+                                    "sentence_trans": "科学家需要期刊发表他们的研究，所以他们没有金钱奖励也会提供文章。",
+                                    "year": 2020,
+                                    "type": "阅读理解A",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "The web's full of <highlight>articles</highlight> offering tips on making time to read.",
+                                    "month": -1,
+                                    "source": "英语二",
+                                    "coll": "",
+                                    "sentence_trans": "网上有很多文章提供关于如何挤出时间阅读的建议。",
+                                    "year": 2016,
+                                    "type": "阅读理解A",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "An <highlight>article</highlight> in Scientific America has pointed out that empirical research says that, actually, you think you're more beautiful than you are.",
+                                    "month": -1,
+                                    "source": "英语二",
+                                    "coll": "",
+                                    "sentence_trans": "《科学美国人》的一篇文章指出，实证研究表明，你认为自己比真实的自己更漂亮。",
+                                    "year": 2014,
+                                    "type": "阅读理解A",
+                                    "day": -1
+                                }
+                            ]
+                        },
+                        {
+                            "en": "a particular a thing or person of a particular and distinctive kind or class item or object, typically one of a specified type",
+                            "zh": "物件; 物品",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "Buy all your clothes at once with a stylist instead of shopping alone, one <highlight>article</highlight> of clothing at a time.",
+                                    "month": -1,
+                                    "source": "英语一",
+                                    "coll": "",
+                                    "sentence_trans": "和造型师一起一次性买下你所有的衣服，而不是一个人逛街，一次买一件。",
+                                    "year": 2016,
+                                    "type": "阅读理解B",
+                                    "day": -1
+                                }
+                            ]
+                        },
+                        {
+                            "synonyms": "",
+                            "en": "a separate clause or paragraph of a legal document or agreement, typically one outlining a single rule or regulation",
+                            "zh": "条款; 约定",
+                            "pos": "n/v",
+                            "antonyms": ""
+                        },
+                        {
+                            "synonyms": "",
+                            "en": "a determiner that may indicate the specificity of reference of a noun phrase",
+                            "zh": "[语法]冠词",
+                            "pos": "n",
+                            "antonyms": ""
+                        },
+                        {
+                            "synonyms": "",
+                            "en": "an item of business",
+                            "zh": "事件",
+                            "pos": "n",
+                            "antonyms": ""
+                        }
+                    ]
+                },
+                "word_affix": {
+                    "word": "article",
+                    "sub_affix_info_list": [
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "artifact",
+                                            "mean": "n. 人工制品；历史文物；非自然存在物体"
+                                        },
+                                        {
+                                            "word": "artificial",
+                                            "mean": "adj. 人工的；人造的；虚伪的；做作的；非自然存在的；人为的；假的；按约定而非随意的"
+                                        },
+                                        {
+                                            "word": "artisan",
+                                            "mean": "n. 工匠；手艺人"
+                                        },
+                                        {
+                                            "word": "artistry",
+                                            "mean": "n. 艺术创造技巧"
+                                        },
+                                        {
+                                            "word": "artless",
+                                            "mean": "adj. 不诡诈的；无欺的；单纯的；不谙世故的；不做作的；自然而简单的；无技巧（或手腕）的"
+                                        },
+                                        {
+                                            "word": "artwork",
+                                            "mean": "n. 插图；艺术作品"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "技巧, 技术",
+                                    "affix_type": "stem"
+                                }
+                            ],
+                            "affix": "art",
+                            "affix_mean": "技巧, 技术"
+                        },
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "名词后缀, 表示\"...物品, 状态\"",
+                                    "affix_type": "suffix"
+                                }
+                            ],
+                            "affix": "-icle",
+                            "affix_mean": "状态"
+                        }
+                    ],
+                    "word_mean": "n. 一件"
+                },
+                "disambiguation": [
+                    {
+                        "disambiguation_list": [
+                            {
+                                "word": "article",
+                                "sense_disambiguation": "指报刊杂志上的文章。"
+                            },
+                            {
+                                "word": "essay",
+                                "sense_disambiguation": "指文学上的和哲学上的论文。"
+                            },
+                            {
+                                "word": "paper",
+                                "sense_disambiguation": "指供朗读的论文。"
+                            },
+                            {
+                                "word": "thesis",
+                                "sense_disambiguation": "指毕业论文、学位论文等。"
+                            },
+                            {
+                                "word": "dissertation",
+                                "sense_disambiguation": "篇幅最长，学术含量高，多指经过一定调查与实践后所写的专题论文。"
+                            }
+                        ],
+                        "sense_group": "文章"
+                    }
+                ]
+            },
+            "CET6": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 10,
+                        "pos": "n",
+                        "chinese": "文章; 论文",
+                        "sense_tier_ratio": 100
+                    },
+                    {
+                        "sense_tier": 0,
+                        "pos": "n",
+                        "chinese": "物件; 物品(尤指整套中的一件)",
+                        "sense_tier_ratio": 0
+                    }
+                ],
+                "word": "article",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2016.6-2023.6年8年间全六级试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight>考纲释义</highlight>\n精选实考、考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2016-2023年51套试卷，包括阅读、听力、翻译等所有题型。\n\n<highlight>真题例句</highlight>\n精选2016-2023年8年间全六级试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 2,
+                "total_exam_freq": 10,
+                "sense": {
+                    "sense_num": 2,
+                    "sense_info_list": [
+                        {
+                            "en": "a piece of writing included with others in a newspaper, magazine, or other publication",
+                            "zh": "文章; 论文",
+                            "pos": "n",
+                            "synonyms": "report,commentary",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "In another study, researchers found that reading scientific <highlight>articles</highlight> containing jargon led people to doubt the actual science.",
+                                    "month": 6,
+                                    "source": "CET6",
+                                    "coll": "",
+                                    "sentence_trans": "在另一项研究中，研究人员发现，阅读包含行话的科学文章会导致人们怀疑真正的科学。",
+                                    "year": 2021,
+                                    "type": "听力",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "What do researchers find about people reading scientific <highlight>articles</highlight> containing jargon terms?",
+                                    "month": 6,
+                                    "source": "CET6",
+                                    "coll": "",
+                                    "sentence_trans": "当人们阅读含有术语的科学文章时，研究人员发现了什么？",
+                                    "year": 2021,
+                                    "type": "听力",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "The so-called \"ghostwriting\" can take various forms: books, <highlight>articles</highlight>, autobiographies, and even social media posts.",
+                                    "month": 6,
+                                    "source": "CET6",
+                                    "coll": "",
+                                    "sentence_trans": "所谓的“代笔”可以采用各种形式：书籍、文章、自传，甚至社交媒体帖子。",
+                                    "year": 2021,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                }
+                            ]
+                        },
+                        {
+                            "synonyms": "item,thing,object",
+                            "en": "a particular a thing or person of a particular and distinctive kind or class item or object, typically one of a specified type",
+                            "zh": "物件; 物品(尤指整套中的一件)",
+                            "pos": "n",
+                            "antonyms": ""
+                        }
+                    ]
+                },
+                "word_affix": {
+                    "word": "article",
+                    "sub_affix_info_list": [
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "artifact",
+                                            "mean": "n. 人工制品；历史文物；非自然存在物体"
+                                        },
+                                        {
+                                            "word": "artificial",
+                                            "mean": "adj. 人工的；人造的；虚伪的；做作的；非自然存在的；人为的；假的；按约定而非随意的"
+                                        },
+                                        {
+                                            "word": "artisan",
+                                            "mean": "n. 工匠；手艺人"
+                                        },
+                                        {
+                                            "word": "artistry",
+                                            "mean": "n. 艺术创造技巧"
+                                        },
+                                        {
+                                            "word": "artless",
+                                            "mean": "adj. 不诡诈的；无欺的；单纯的；不谙世故的；不做作的；自然而简单的；无技巧（或手腕）的"
+                                        },
+                                        {
+                                            "word": "artwork",
+                                            "mean": "n. 插图；艺术作品"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "技巧, 技术",
+                                    "affix_type": "stem"
+                                }
+                            ],
+                            "affix": "art",
+                            "affix_mean": "技巧, 技术"
+                        },
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "名词后缀, 表示\"...物品, 状态\"",
+                                    "affix_type": "suffix"
+                                }
+                            ],
+                            "affix": "-icle",
+                            "affix_mean": "状态"
+                        }
+                    ],
+                    "word_mean": "n. 一件"
+                },
+                "word_usage": [
+                    {
+                        "usage": "article表“物件”“物品”(尤指整套中的一件)时，为可数名词，常与介词of连用。\n示例：articles of clothing\n衣物"
+                    },
+                    {
+                        "usage": "article表“(报纸/杂志上的)文章”时，为可数名词。“关于...的文章”，用article on/about sth.表达。\n示例：Have you seen that article about young fashion designers? \n你看到了关于年轻时装设计师的那篇文章没有？"
+                    }
+                ],
+                "disambiguation": [
+                    {
+                        "disambiguation_list": [
+                            {
+                                "word": "article",
+                                "sense_disambiguation": "多指在报刊、杂志上发表的非文艺性的文章, 包括新闻报导、学术论文等。"
+                            },
+                            {
+                                "word": "composition",
+                                "sense_disambiguation": "多指学校里老师给学生的作文练习。"
+                            },
+                            {
+                                "word": "dissertation",
+                                "sense_disambiguation": "书面语用词, 指独立研究后所写的较为详细的专题文章; 也可指学位论文。"
+                            },
+                            {
+                                "word": "essay",
+                                "sense_disambiguation": "指任何一种非小说性的, 篇幅不长、结构简练的文章, 如论说文、报道、评论、讽刺性杂文等。"
+                            }
+                        ],
+                        "sense_group": "文章"
+                    }
+                ],
+                "exchange_info": {
+                    "word_third": [
+                        "articles"
+                    ],
+                    "word_ing": [
+                        "articling"
+                    ],
+                    "word_done": [
+                        "articled"
+                    ],
+                    "word_pl": [
+                        "articles"
+                    ],
+                    "word_past": [
+                        "articled"
+                    ]
+                }
+            },
+            "CET4": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 15,
+                        "pos": "n",
+                        "chinese": "文章; 论文",
+                        "sense_tier_ratio": 100
+                    },
+                    {
+                        "sense_tier": 0,
+                        "pos": "n",
+                        "chinese": "物件; 物品(尤指整套中的一件)",
+                        "sense_tier_ratio": 0
+                    },
+                    {
+                        "sense_tier": 0,
+                        "pos": "n/v",
+                        "chinese": "条款; 约定",
+                        "sense_tier_ratio": 0
+                    }
+                ],
+                "word": "article",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2016.6-2023.6年8年间全四级试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight>考纲释义</highlight>\n精选实考、考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2016-2023年51套试卷，包括阅读、听力、翻译等所有题型。\n\n<highlight>真题例句</highlight>\n精选2016-2023年8年间试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 3,
+                "total_exam_freq": 15,
+                "sense": {
+                    "sense_num": 3,
+                    "sense_info_list": [
+                        {
+                            "en": "a piece of writing included with others in a newspaper; magazine; or other publication",
+                            "zh": "文章; 论文",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "In 1975, geochemist Wallace Broecker introduced the term \"climate change\" in an <highlight>article</highlight> published by Science.",
+                                    "month": 12,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "1975年，地球化学家华莱士·布罗克在《科学》杂志发表的一篇文章中引入了“气候变化”一词。",
+                                    "year": 2020,
+                                    "type": "阅读理解C",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "In conclusion, the <highlight>article</highlight> says innovative ideas alone do not ensure success.",
+                                    "month": 6,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "总之，这篇文章说，创新的想法本身并不能确保成功。",
+                                    "year": 2016,
+                                    "type": "听力",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "The <highlight>article</highlight> says many people tend to assume that innovation just means creating something new, but actually it's more than that.",
+                                    "month": 6,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "这篇文章说，许多人倾向于认为创新只是意味着创造新的东西，但事实上不仅仅如此。",
+                                    "year": 2016,
+                                    "type": "听力",
+                                    "day": -1
+                                }
+                            ]
+                        },
+                        {
+                            "synonyms": "",
+                            "en": "a particular a thing or person of a particular and distinctive kind or class item or object; typically one of a specified type",
+                            "zh": "物件; 物品(尤指整套中的一件)",
+                            "pos": "n",
+                            "antonyms": ""
+                        },
+                        {
+                            "synonyms": "",
+                            "en": "a separate clause or paragraph of a legal document or agreement; typically one outlining a single rule or regulation",
+                            "zh": "条款; 约定",
+                            "pos": "n/v",
+                            "antonyms": ""
+                        }
+                    ]
+                },
+                "word_affix": {
+                    "word": "article",
+                    "sub_affix_info_list": [
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "artifact",
+                                            "mean": "n. 人工制品；历史文物；非自然存在物体"
+                                        },
+                                        {
+                                            "word": "artificial",
+                                            "mean": "adj. 人工的；人造的；虚伪的；做作的；非自然存在的；人为的；假的；按约定而非随意的"
+                                        },
+                                        {
+                                            "word": "artisan",
+                                            "mean": "n. 工匠；手艺人"
+                                        },
+                                        {
+                                            "word": "artistry",
+                                            "mean": "n. 艺术创造技巧"
+                                        },
+                                        {
+                                            "word": "artless",
+                                            "mean": "adj. 不诡诈的；无欺的；单纯的；不谙世故的；不做作的；自然而简单的；无技巧（或手腕）的"
+                                        },
+                                        {
+                                            "word": "artwork",
+                                            "mean": "n. 插图；艺术作品"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "技巧, 技术",
+                                    "affix_type": "stem"
+                                }
+                            ],
+                            "affix": "art",
+                            "affix_mean": "技巧, 技术"
+                        },
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "名词后缀, 表示\"...物品, 状态\"",
+                                    "affix_type": "suffix"
+                                }
+                            ],
+                            "affix": "-icle",
+                            "affix_mean": "状态"
+                        }
+                    ],
+                    "word_mean": "n. 一件"
+                },
+                "word_usage": [
+                    {
+                        "usage": "article表“(报纸/杂志上的)文章”时，为可数名词。“关于...的文章”，用article on/about sth.表达。\n示例：Have you seen that article about young fashion designers? \n你看到了关于年轻时装设计师的那篇文章没有？"
+                    },
+                    {
+                        "usage": "article表“物件”“物品”(尤指整套中的一件)时，为可数名词，常与介词of连用。\n示例：articles of clothing\n衣物"
+                    }
+                ],
+                "disambiguation": [
+                    {
+                        "disambiguation_list": [
+                            {
+                                "word": "article",
+                                "sense_disambiguation": "多指在报刊、杂志上发表的非文艺性的文章，包括新闻报导、学术论文等。"
+                            },
+                            {
+                                "word": "composition",
+                                "sense_disambiguation": "多指学校里老师给学生的作文练习。"
+                            },
+                            {
+                                "word": "dissertation",
+                                "sense_disambiguation": "书面语用词，指独立研究后所写的较为详细的专题文章; 也可指学位论文。"
+                            },
+                            {
+                                "word": "essay",
+                                "sense_disambiguation": "指任何一种非小说性的，篇幅不长、结构简练的文章，如论说文、报道、评论、讽刺性杂文等。"
+                            }
+                        ],
+                        "sense_group": "文章"
+                    }
+                ],
+                "exchange_info": {
+                    "word_third": [
+                        "articles"
+                    ],
+                    "word_ing": [
+                        "articling"
+                    ],
+                    "word_done": [
+                        "articled"
+                    ],
+                    "word_pl": [
+                        "articles"
+                    ],
+                    "word_past": [
+                        "articled"
+                    ]
+                }
+            },
+            "gaokao": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 4,
+                        "pos": "n",
+                        "chinese": "文章; 论文",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "article",
+                "word_level_phrase_info": [
+                    {
+                        "brief_definition": "研究文章；研究论文；科研论文",
+                        "phrase": "research article",
+                        "pos": "phr."
+                    },
+                    {
+                        "brief_definition": "特写文章；特稿；专题文章",
+                        "phrase": "feature article",
+                        "pos": "phr."
+                    }
+                ],
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2015-2022年8年间全国卷和自主命题省市高考卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2015-2022年全国卷高考试卷，包括阅读、完形、单选、填空、听力、改错、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选各省市考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2015-2022年8年间全国卷和自主命题省市高考卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 1,
+                "total_exam_freq": 4,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "a piece of writing included with others in a newspaper, magazine, or other publication",
+                            "zh": "文章; 论文",
+                            "pos": "n",
+                            "synonyms": "report,commentary",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "Readers also tended to share <highlight>articles</highlight> that were exciting or funny but not <highlight>articles</highlight> that left them merely sad.",
+                                    "month": -1,
+                                    "source": "全国卷3",
+                                    "coll": "",
+                                    "sentence_trans": "读者也趋向于分享令人快乐和兴奋的文章，但是不愿意分享只让他们难过的文章。",
+                                    "year": 2016,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "One of his first findings was that <highlight>articles</highlight> in the science section were much more likely to make the list than non-science <highlight>articles</highlight>.",
+                                    "month": -1,
+                                    "source": "全国卷3",
+                                    "coll": "",
+                                    "sentence_trans": "他的第一个发现是科学板块的文章比非科学板块的文章更容易上榜。",
+                                    "year": 2016,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "word_affix": {
+                    "word": "article",
+                    "sub_affix_info_list": [
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "artifact",
+                                            "mean": "n. 人工制品；历史文物；非自然存在物体"
+                                        },
+                                        {
+                                            "word": "artificial",
+                                            "mean": "adj. 人工的；人造的；虚伪的；做作的；非自然存在的；人为的；假的；按约定而非随意的"
+                                        },
+                                        {
+                                            "word": "artisan",
+                                            "mean": "n. 工匠；手艺人"
+                                        },
+                                        {
+                                            "word": "artistry",
+                                            "mean": "n. 艺术创造技巧"
+                                        },
+                                        {
+                                            "word": "artless",
+                                            "mean": "adj. 不诡诈的；无欺的；单纯的；不谙世故的；不做作的；自然而简单的；无技巧（或手腕）的"
+                                        },
+                                        {
+                                            "word": "artwork",
+                                            "mean": "n. 插图；艺术作品"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "技巧, 技术",
+                                    "affix_type": "stem"
+                                }
+                            ],
+                            "affix": "art",
+                            "affix_mean": "技巧, 技术"
+                        },
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "名词后缀, 表示\"...物品, 状态\"",
+                                    "affix_type": "suffix"
+                                }
+                            ],
+                            "affix": "-icle",
+                            "affix_mean": "状态"
+                        }
+                    ],
+                    "word_mean": "n. 一件"
+                },
+                "disambiguation": [
+                    {
+                        "disambiguation_list": [
+                            {
+                                "word": "article",
+                                "sense_disambiguation": "多指在报刊、杂志上发表的非文艺性的文章，包括新闻报导、学术论文等。"
+                            },
+                            {
+                                "word": "composition",
+                                "sense_disambiguation": "多指学校里老师给学生的作文练习。"
+                            },
+                            {
+                                "word": "dissertation",
+                                "sense_disambiguation": "书面语用词，指独立研究后所写的较为详细的专题文章；也可指学位论文。"
+                            },
+                            {
+                                "word": "essay",
+                                "sense_disambiguation": "指任何一种非小说性的，篇幅不长、结构简练的文章，如论说文、报道、评论、讽刺性杂文等。"
+                            }
+                        ],
+                        "sense_group": "文章"
+                    }
+                ],
+                "exchange_info": {
+                    "word_third": [
+                        "articles"
+                    ],
+                    "word_ing": [
+                        "articling"
+                    ],
+                    "word_done": [
+                        "articled"
+                    ],
+                    "word_pl": [
+                        "articles"
+                    ],
+                    "word_past": [
+                        "articled"
+                    ]
+                }
+            },
+            "zhongkao": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 77,
+                        "pos": "n",
+                        "chinese": "文章; 论文",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "article",
+                "total_exam_freq": 77,
+                "direction_info": {
+                    "ranges": 4,
+                    "description": "数据源自2018-2021年4年间全国各省市中考试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2018-2021年全国重点省市中考试卷，包括听力、阅读、完形、单选、填空、改错、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选各省市考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2018-2021年4年间全国各省市中考试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 5,
+                "word_level_phrase_info": [
+                    {
+                        "brief_definition": "高质量的文章",
+                        "phrase": "high-quality article",
+                        "pos": ""
+                    }
+                ],
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "a piece of writing included with others in a newspaper, magazine, or other publication",
+                            "zh": "文章; 论文",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "This <highlight>article</highlight> is about the disadvantages of Chinese products.",
+                                    "month": -1,
+                                    "source": "云南省卷",
+                                    "coll": "",
+                                    "sentence_trans": "这篇文章是关于中国产品的缺点。",
+                                    "year": 2019,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "The purpose of the <highlight>article</highlight> is to introduce the development of schoolbags.",
+                                    "month": -1,
+                                    "source": "云南省卷",
+                                    "coll": "",
+                                    "sentence_trans": "这篇文章的目的是介绍书包的发展。",
+                                    "year": 2018,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "What is the best title of the <highlight>article</highlight>?",
+                                    "month": -1,
+                                    "source": "衡阳市卷",
+                                    "coll": "",
+                                    "sentence_trans": "这篇文章最好的标题是什么？",
+                                    "year": 2018,
+                                    "type": "综合阅读",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "word_affix": {
+                    "sub_affix_info_list": [
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "artifact",
+                                            "mean": "n. 人工制品；历史文物；非自然存在物体"
+                                        },
+                                        {
+                                            "word": "artificial",
+                                            "mean": "adj. 人工的；人造的；虚伪的；做作的；非自然存在的；人为的；假的；按约定而非随意的"
+                                        },
+                                        {
+                                            "word": "artisan",
+                                            "mean": "n. 工匠；手艺人"
+                                        },
+                                        {
+                                            "word": "artistry",
+                                            "mean": "n. 艺术创造技巧"
+                                        },
+                                        {
+                                            "word": "artless",
+                                            "mean": "adj. 不诡诈的；无欺的；单纯的；不谙世故的；不做作的；自然而简单的；无技巧（或手腕）的"
+                                        },
+                                        {
+                                            "word": "artwork",
+                                            "mean": "n. 插图；艺术作品"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "技巧, 技术",
+                                    "affix_type": "stem"
+                                }
+                            ],
+                            "affix": "art",
+                            "affix_mean": "技巧, 技术"
+                        },
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "名词后缀, 表示\"...物品, 状态\"",
+                                    "affix_type": "suffix"
+                                }
+                            ],
+                            "affix": "-icle",
+                            "affix_mean": "状态"
+                        }
+                    ],
+                    "word": "article",
+                    "word_mean": "n. 一件"
+                },
+                "word_usage": [
+                    {
+                        "usage": "article表“物件”“物品”(尤指整套中的一件)时，为可数名词，常与介词of连用。\n示例：articles of clothing\n衣物"
+                    },
+                    {
+                        "usage": "article表“(报纸/杂志上的)文章”时，为可数名词。“关于...的文章”，用article on/about sth.表达。\n示例：Have you seen that article about young fashion designers? \n你看到了关于年轻时装设计师的那篇文章没有？"
+                    }
+                ]
+            },
+            "sentencesData": {
+                "status": 1,
+                "info": "notZh2En",
+                "data": {}
+            },
+            "isAutoMatch": false,
+            "Zh2En": false
+        },
+        "query": "article",
+        "result": "文章",
+        "tabSelect": "detail",
+        "dictionaryType": "oxford_buchong",
+        "notFound_show": false,
+        "phoneticShow": "",
+        "globalShowTranslateRecord": "",
+        "pronPrefer": {
+            "type": "usa_1",
+            "speaker": "male",
+            "speed": "standard"
+        },
+        "ServerRecord": "",
+        "ServerUIGS": {
+            "version": "new",
+            "type": "all",
+            "stype": "success",
+            "terminal": "web",
+            "fr": "default",
+            "direction": "etoz",
+            "from": "en",
+            "to": "zh-CHS",
+            "len": 7,
+            "qtype": "text",
+            "qctype": "qc_1",
+            "dict_cover": 1,
+            "detail": 1,
+            "wordCardCover": 1,
+            "wordCardEn": 1,
+            "wordCardCh": 0,
+            "wordCardMinor": 0,
+            "wordCardNetmean": 0,
+            "wordDeform": 1,
+            "keyword": 0,
+            "bilingual": 1,
+            "simple": 0,
+            "levelList": 1,
+            "synonym": 1,
+            "antonym": 0,
+            "conjugate": 1,
+            "rootaffix": 1,
+            "baike_sogou": 1,
+            "baike_wiki": 0,
+            "wordDifference": 1,
+            "word_phrase": 1,
+            "secondQuery": 0,
+            "dict_oxford": 0,
+            "dict_newcentury": 0,
+            "zhongkaotab": 1,
+            "gaokaotab": 1,
+            "CET4tab": 1,
+            "CET6tab": 1,
+            "kaoyantab": 1,
+            "network_tab": 0,
+            "yinying_tab": 1,
+            "tuozhan_tab": 0,
+            "one_pic": 0,
+            "more_pic": 0,
+            "no_pic": 0,
+            "uuid": "207539c4-ac8c-4eae-ae21-72f83139a984",
+            "from_type": 0,
+            "t_trans_ssr": 167
+        },
+        "ServerModelUIGS": {
+            "terminal": "web",
+            "type": "trans_model",
+            "pbtype": "pv",
+            "model_general": 1,
+            "model_medical": 1,
+            "model_finance": 1
+        },
+        "ServerSgtkn": "64E9EEDED72C7DD4E0D9C865647230A8E07B4ACD67552150",
+        "suggShow": false,
+        "suggestion": "",
+        "suggDirection": "",
+        "usualTop": "",
+        "baseDict": "",
+        "wordCardClick": false,
+        "isFrInput": false,
+        "kanaTips": {
+            "show": false,
+            "left": "",
+            "top": "",
+            "type": "",
+            "arrowLeft": ""
+        },
+        "currSentenceIndex": -1,
+        "prefixStrObj": {
+            "prefixStr": "",
+            "oriPrefixStr": ""
+        },
+        "selectTransBox": {
+            "show": false,
+            "right": 0,
+            "top": 0,
+            "paraphraseInfo": {
+                "word": "",
+                "from": "",
+                "to": "",
+                "area": ""
+            }
+        },
+        "sentenceLoading": false,
+        "newSentenceInfo": {
+            "sentence": "",
+            "candidateIndex": 0
+        },
+        "moreTipInfo": {
+            "opacity": 0,
+            "zIndex": -1
+        },
+        "paraphraseShowInfo": {
+            "card": 0,
+            "query": "",
+            "card_dict": 0
+        },
+        "selectType": "",
+        "wordPos": 0,
+        "candidateWord": "",
+        "syntaxVisible": false,
+        "syntaxStatus": 0
+    },
+    "language": {
+        "from": "auto",
+        "to": "zh-CHS",
+        "detect": "en",
+        "model": "general",
+        "detectShow": false,
+        "langMap": {
+            "current": ""
+        },
+        "zh2en": false,
+        "fromItemList": [
+            {
+                "lang": "auto",
+                "text": "自动检测",
+                "play": false
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "th",
+                "text": "泰语",
+                "play": true,
+                "abbr": "泰"
+            },
+            {
+                "lang": "fr",
+                "text": "法语",
+                "play": true,
+                "abbr": "法"
+            },
+            {
+                "lang": "ru",
+                "text": "俄语",
+                "play": true,
+                "abbr": "俄"
+            }
+        ],
+        "toItemList": [
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "ru",
+                "text": "俄语",
+                "play": true,
+                "abbr": "俄"
+            },
+            {
+                "lang": "fr",
+                "text": "法语",
+                "play": true,
+                "abbr": "法"
+            },
+            {
+                "lang": "ar",
+                "text": "阿拉伯语",
+                "play": true,
+                "dir": "rtl",
+                "abbr": "阿"
+            }
+        ]
+    },
+    "voice": {
+        "from": {
+            "lang": "en",
+            "type": "from",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22article%22%2C%22spokenDialect%22%3A%22en%22%2C%22rate%22%3A%220.8%22%7D",
+            "list": [
+                {
+                    "type": "uk_0",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "ˈɑːtɪkl",
+                    "abbr": "英",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/127_article_uk.mp3"
+                },
+                {
+                    "type": "usa_1",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "ˈɑːrtɪkl",
+                    "abbr": "美",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/127_article_usa.mp3"
+                }
+            ],
+            "stype": "phonetic",
+            "phoneticShow": [
+                {
+                    "text": "ˈɑːtɪkl",
+                    "type": "uk",
+                    "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/127_article_uk.mp3"
+                },
+                {
+                    "text": "ˈɑːrtɪkl",
+                    "type": "usa",
+                    "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/127_article_usa.mp3"
+                }
+            ]
+        },
+        "to": {
+            "lang": "zh",
+            "type": "to",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22%E6%96%87%E7%AB%A0%22%2C%22spokenDialect%22%3A%22zh-CHS%22%2C%22rate%22%3A%220.8%22%7D",
+            "stype": "normal"
+        }
+    }
+}

@@ -1,0 +1,1563 @@
+{
+    "route": {
+        "name": "text",
+        "path": "/text",
+        "hash": "",
+        "query": {
+            "keyword": "bicycle",
+            "transfrom": "auto",
+            "transto": "zh-CHS",
+            "model": "general",
+            "errcode": "s10"
+        },
+        "params": {},
+        "fullPath": "/text?keyword=bicycle&transfrom=auto&transto=zh-CHS&model=general&errcode=s10",
+        "meta": {
+            "mtype": [
+                "textTranslate",
+                "language",
+                "voice"
+            ]
+        },
+        "from": {
+            "name": null,
+            "path": "/",
+            "hash": "",
+            "query": {},
+            "params": {},
+            "fullPath": "/",
+            "meta": {}
+        }
+    },
+    "common": {
+        "CONFIG": {
+            "wuid": 1733632453741,
+            "loginInfo": {},
+            "isIE": 0,
+            "isHitSsrSwitch": true,
+            "isHitWritebookSwitch": false,
+            "isHitAmsSwitch": true,
+            "promotionList": "{\n    \"pc_bottom\":{\n        \"imgsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\",\n        \"qcsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\"\n    },\n    \"pc_middle\":[\n        {\n            \"src\":\"//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c\",\n            \"bgColor\":\"#ffffff\",\n            \"link\":\"\"\n        }\n    ],\n    \"pc_survey\":{\n        \"icon\":\"//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750\",\n        \"link\":\"https://wj.qq.com/s2/8193148/806d/\"\n    }\n}",
+            "bannerData": [],
+            "isHitAsideSurvey": false,
+            "secretCode": 109984457,
+            "uuid": "6fd9106d-3cfa-4221-bb7d-dfc04d122bcf",
+            "referer": "",
+            "approveToken": "64EA4B545EB7D9707B7C52C0B8E8FE9B7B71783C675521C5",
+            "loadTime": 1733632453743,
+            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0",
+            "fcp": "138.197.122.177",
+            "temporaryId": "",
+            "fileId": ""
+        },
+        "hotWords": [],
+        "isFromCollect": false,
+        "psdModify": {
+            "currentStep": 1,
+            "scode": "",
+            "username": ""
+        },
+        "loginStatus": true,
+        "feedBackModule": false,
+        "showPromotionPopup": {
+            "show": false,
+            "type": ""
+        },
+        "showPromotionPCDownload": false,
+        "showShareBomb": false,
+        "shareData": null,
+        "showAppDownLoad": false,
+        "showLoginDialog": false,
+        "showLoading": {
+            "show": false
+        },
+        "toast": {
+            "show": false,
+            "text": "",
+            "loading": false
+        },
+        "modelToast": {
+            "show": false,
+            "text": ""
+        },
+        "selectionGlobalShow": true,
+        "selectionInfo": {
+            "left": 0,
+            "top": 0,
+            "show": false,
+            "from": "",
+            "to": "",
+            "val": "",
+            "area": ""
+        },
+        "showConfirmDialog": false,
+        "promotionList": {
+            "pc_bottom": {
+                "imgsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png",
+                "qcsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png"
+            },
+            "pc_middle": [
+                {
+                    "src": "//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c",
+                    "bgColor": "#ffffff",
+                    "link": ""
+                }
+            ],
+            "pc_survey": {
+                "icon": "//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750",
+                "link": "https://wj.qq.com/s2/8193148/806d/"
+            }
+        },
+        "transTypeTxt": "text",
+        "fixedTabStatus": 0,
+        "bodyTop": 0,
+        "ifHideUserOperation": false
+    },
+    "textTranslate": {
+        "prevTransQuery": "",
+        "translateData": {
+            "translate": {
+                "zly": "zly",
+                "errorCode": "0",
+                "qc_type": "1",
+                "index": "content0",
+                "from": "en",
+                "source": "sogou",
+                "text": "bicycle",
+                "to": "zh-CHS",
+                "id": "6fd9106d-3cfa-4221-bb7d-dfc04d122bcf",
+                "dit": "自行车",
+                "orig_text": "bicycle",
+                "md5": ""
+            },
+            "detect": {
+                "zly": "zly",
+                "detect": "en",
+                "errorCode": "0",
+                "language": "英语",
+                "id": "ad45b340-b51d-11ef-811d-db2041b03f2e",
+                "text": "bicycle"
+            },
+            "sgtkn": "64EA4B565EB7D9707B7C52C0B8E8FE9B7B71783C675521C5",
+            "wordCard": {
+                "title": "bicycle",
+                "show": true,
+                "usualDict": [
+                    {
+                        "values": [
+                            "自行车；脚踏车；双轮车；两轮车；单车；自行车运动"
+                        ],
+                        "pos": "n."
+                    },
+                    {
+                        "values": [
+                            "骑自行车；骑脚踏车；进行自行车运动"
+                        ],
+                        "pos": "v."
+                    }
+                ],
+                "secondQuery": "",
+                "exchange": {
+                    "word_third": [
+                        "bicycles"
+                    ],
+                    "word_ing": [
+                        "bicycling"
+                    ],
+                    "word_done": [
+                        "bicycled"
+                    ],
+                    "word_pl": [
+                        "bicycles"
+                    ],
+                    "word_past": [
+                        "bicycled"
+                    ]
+                },
+                "levelList": [
+                    "小学",
+                    "初中",
+                    "高中",
+                    "四级",
+                    "六级",
+                    "考研"
+                ]
+            },
+            "detail": {
+                "synonym": [
+                    {
+                        "word_list": [
+                            "bike",
+                            "cycle",
+                            "pushbike"
+                        ],
+                        "pos": "n.",
+                        "mean": "自行车"
+                    }
+                ],
+                "affix": {
+                    "word": "bicycle",
+                    "sub_affix_info_list": [
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "bilateral",
+                                            "mean": "adj. 有两边的；两边的；影响两边的；双方的；双边的"
+                                        },
+                                        {
+                                            "word": "bilingual",
+                                            "mean": "adj. 流利地讲两种语言的；双语的；用两种语言进行的；使用两种语言的"
+                                        },
+                                        {
+                                            "word": "bisect",
+                                            "mean": "v. 把…分为两个部分；把…二等分"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "表示数量, \"两\"",
+                                    "affix_type": "prefix"
+                                },
+                                {
+                                    "sample": [],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "生命, 生物",
+                                    "affix_type": "prefix"
+                                }
+                            ],
+                            "affix": "bi-",
+                            "affix_mean": "双, 两"
+                        },
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "cyclist",
+                                            "mean": "n. 自行车骑手"
+                                        },
+                                        {
+                                            "word": "recycle",
+                                            "mean": "v. 回收利用；重新使用；使再循环"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "圆, 环",
+                                    "affix_type": "prefix"
+                                }
+                            ],
+                            "affix": "cycl-",
+                            "affix_mean": "圆, 环"
+                        },
+                        {
+                            "affix": "-e",
+                            "affix_mean": ""
+                        }
+                    ],
+                    "word_mean": "n. 自行车"
+                },
+                "wordRootInfo": {
+                    "word_info_list": [
+                        {
+                            "word": "bicycling",
+                            "pos_mean_info_list": [
+                                {
+                                    "pos": "n.",
+                                    "mean": "骑车"
+                                },
+                                {
+                                    "pos": "v.",
+                                    "mean": "骑自行车（bicycling的现在分词）"
+                                }
+                            ]
+                        },
+                        {
+                            "word": "bicyclist",
+                            "pos_mean_info_list": [
+                                {
+                                    "pos": "n.",
+                                    "mean": "骑脚踏车者"
+                                }
+                            ]
+                        },
+                        {
+                            "word": "bicycler",
+                            "pos_mean_info_list": [
+                                {
+                                    "pos": "n.",
+                                    "mean": "骑单车的人"
+                                }
+                            ]
+                        }
+                    ],
+                    "root_word": "bicycle"
+                },
+                "word_group": [
+                    {
+                        "brief_definition": "骑自行车",
+                        "phrase": "ride a bicycle",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "自行车链条",
+                        "phrase": "bicycle chain",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "自行车打气筒",
+                        "phrase": "bicycle pump",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "健身脚踏车",
+                        "phrase": "stationary bicycle",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "脚踏黄包车；三轮车",
+                        "phrase": "bicycle rickshaw",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "裤管夹",
+                        "phrase": "bicycle clip",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "自行车兜风；骑车；骑自行车",
+                        "phrase": "bicycle ride",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "骑自行车",
+                        "phrase": "ride bicycle",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "健身单车；踏车运动",
+                        "phrase": "exercise bicycle",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "脚踏车骑士；骑自行车人；骑自行车者",
+                        "phrase": "bicycle riders",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "自行车车道；脚踏车车道；非机动车道",
+                        "phrase": "bicycle lane",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "踏板自行车",
+                        "phrase": "pedal bicycle",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "自行车信使；单车快递；单车信使",
+                        "phrase": "bicycle messenger",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "自行车友好的",
+                        "phrase": "bicycle friendly",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "自行车通道；自行车廊道；自行车走廊",
+                        "phrase": "bicycle corridor",
+                        "pos": ""
+                    }
+                ],
+                "bilingual": [
+                    {
+                        "source": "He is in the <em>bicycle</em>.",
+                        "target": "他在自行车上。",
+                        "url": ""
+                    },
+                    {
+                        "source": "I have a new <em>bicycle</em>.",
+                        "target": "我有一辆新自行车。",
+                        "url": ""
+                    },
+                    {
+                        "source": "A <em>bicycle</em> has two wheels.",
+                        "target": "自行车有两个轮子。",
+                        "url": ""
+                    },
+                    {
+                        "source": "So I bought her a <em>bicycle</em>.",
+                        "target": "所以我给她买了一辆自行车。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Do you have any <em>bicycle</em> rental apps?",
+                        "target": "你有任何自行车租赁应用吗？",
+                        "url": ""
+                    },
+                    {
+                        "source": "Hello, Emma! I have a new <em>bicycle</em>.",
+                        "target": "你好，艾玛！我有一辆新自行车。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Or riding my <em>bicycle</em>, wheels going round?",
+                        "target": "还是骑我的自行车，轮子转动？",
+                        "url": ""
+                    },
+                    {
+                        "source": "My sister said, \"Please buy me a <em>bicycle</em>.\"",
+                        "target": "我妹妹说：“请给我买辆自行车。”",
+                        "url": ""
+                    },
+                    {
+                        "source": "Jimmy fixes up broken <em>bicycle</em> parts, like wheels.",
+                        "target": "吉米修理破损的自行车零件，比如车轮。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Johannes, an elderly person, fell off his <em>bicycle</em> last night.",
+                        "target": "约翰内斯，一位老人，昨晚从自行车上摔下来。",
+                        "url": ""
+                    }
+                ],
+                "baike": {
+                    "showMore": false,
+                    "list": [
+                        {
+                            "lemmaTitle": "bicycle",
+                            "link": "https://baike.sogou.com/v66020.htm?ch=sogou.fanyi",
+                            "abstract": "bicycle，英语单词。作名词为自行车；脚踏车。作动词为骑自行车。例句：He designed a shining bicycle path.（他设计了一条闪闪发光的自行车道）。 近义词有bike、cycle、pushbike。",
+                            "wapPic": "",
+                            "pcPic": ""
+                        }
+                    ]
+                }
+            },
+            "book": {
+                "yingyinNormal": [
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/629af26ee246702b04dae9c64fe5736b_64581.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/b96224be7568ea874d71c9a44002012b_30795.mp3",
+                        "isLavafox": true,
+                        "en": "Daddy Pig is going to ride on Peppa's little <em>bicycle</em>.",
+                        "zh": "猪爸爸要骑佩佩的小自行车了。",
+                        "videoNameZh": "《小猪佩奇（精选版）》",
+                        "videoNameEn": "《Peppa Pig》",
+                        "url": "http://bisentence_movie.sogou.com/e721bb2c2688e9228d7e5329b40361d0_034730acb9922d6968dcbe27995e84b8f7cafaee"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/5440028de015a767476054a27cf789d8_26933.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/6b0f5c4fae662c3768cc93b87158ff88_58907.mp3",
+                        "isLavafox": true,
+                        "en": "Daddy Pig is going to ride on Peppa's little <em>bicycle</em>.",
+                        "zh": "猪爸爸要骑佩佩的小自行车了。",
+                        "videoNameZh": "《小猪佩奇 第一季》",
+                        "videoNameEn": "《Peppa Pig Season 1》",
+                        "url": "http://bisentence_movie.sogou.com/26d5c7cac086e416373875d7198dc2f7_cb8770523bd7c8eee9c41cc4b546b15fceb362f5"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/b73d6e20976b7ffe4e651b29ea5ddefc_31309.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/1c220247b2f40e9e29c14b1b458683da_19272.mp3",
+                        "isLavafox": true,
+                        "en": "Peppa has her <em>bicycle</em>. George has his tricycle. Mummy and Daddy have their tandem.",
+                        "zh": "佩奇有自行车，乔治也有自行车，爸爸妈妈有双人自行车。",
+                        "videoNameZh": "《粉红猪小妹 第二季》",
+                        "videoNameEn": "《Peppa Pig Season 2》",
+                        "url": "http://bisentence_movie.sogou.com/8884d55a411019f36a8dc6a56e9c6b1b_0d3d255b2e674c5b90ee61e513f205f821ed7d34"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/95bf83fa9c39ec4f55b8511dc0c4ed29_55630.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/b97ca8856251916e53dca4c90f1e0e19_20547.mp3",
+                        "isLavafox": true,
+                        "en": "Is the woman on the <em>bicycle</em> still alive? Yeah, she jumped right back up.",
+                        "zh": "自行车上的老太太还活着吗？活着！她及时跳开了！",
+                        "videoNameZh": "《老友记 第十季》",
+                        "videoNameEn": "《Friends Season 10》",
+                        "url": "http://bisentence_movie.sogou.com/f6b476252552ad9dd70ec12935b51481_b35c96a1c8f8fc46fa17bec976d1249e0c9a3e04"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/efb46b0d09a0d16595177f67fa563c67_36206.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/392ffb8d5204f1caeb1a0937ff68821a_37035.mp3",
+                        "isLavafox": true,
+                        "en": "Three clocks are much better than one. Dad, have you got a <em>bicycle</em> bell, please?",
+                        "zh": "三个时钟可比一个好多了。爸爸，可不可以给我已给自行车铃呢？",
+                        "videoNameZh": "《100天养成流利口语》",
+                        "videoNameEn": "《Get fluent spoken English in 100 days》",
+                        "url": "http://bisentence_movie.sogou.com/28a68fd999362b4f32f3d70ac357af2f_9fbc3aba1e9280998622d0f0df00b809a93a4abd"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/a3f6ca8d0ebaa5b0956976d643673427_52102.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/3c43101e243659360c0aab3b3834a946_72559.mp3",
+                        "isLavafox": true,
+                        "en": "Three clocks are much better than one. Dad, have you got a <em>bicycle</em> bell, please?",
+                        "zh": "三个时钟可比一个好多了。爸爸，可不可以给我已给自行车铃呢。",
+                        "videoNameZh": "《小猪佩奇 第三季》",
+                        "videoNameEn": "《Peppa Pig Season 3》",
+                        "url": "http://bisentence_movie.sogou.com/fdd8da7b6082bfb7bf2716b6bfd4ccb9_aaceea163a5902d59170e85ed000c9eea975f024"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/5440028de015a767476054a27cf789d8_26933.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/c939b07ab8d3af629329fbeb1426fe97_17898.mp3",
+                        "isLavafox": true,
+                        "en": "Peppa wishes she did not have stabilizers on her <em>bicycle</em>. Daddy, I don't want stabilizers anymore. Do you think you can ride without them? Yes.",
+                        "zh": "佩琪现在希望自己的自行车上没有辅助轮。爸爸，我不想再自行车上装辅助轮了。你没有它们能骑好吗？是的。",
+                        "videoNameZh": "《小猪佩奇 第一季》",
+                        "videoNameEn": "《Peppa Pig Season 1》",
+                        "url": "http://bisentence_movie.sogou.com/1c6c20b1840f926248523b88f1a05a5b_b4a52ec34157f361cc3e89487946bdcfd0cfff8c"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/5440028de015a767476054a27cf789d8_26933.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/97452a1149773ad8f376dedb30de59fc_13990.mp3",
+                        "isLavafox": true,
+                        "en": "Alright, Peppa. Let's take them off. Daddy Pig is taking the stabilizers off Peppa's <em>bicycle</em>. Are you sure you want to ride without stabilizers? Yes!",
+                        "zh": "好的，佩琪，那就把它们拆掉。猪爸爸把自行车后面的辅助轮拆掉了。你确定你骑自行车时 可以不用辅助轮？是的。",
+                        "videoNameZh": "《小猪佩奇 第一季》",
+                        "videoNameEn": "《Peppa Pig Season 1》",
+                        "url": "http://bisentence_movie.sogou.com/9c03cd7acbd88c68551a12f0dc98e014_01c793f53bbe92cd8bffc72ac5088cbf819d7775"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/a3f6ca8d0ebaa5b0956976d643673427_52102.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/7b0585ae8a49f96b96367e876248961c_74995.mp3",
+                        "isLavafox": true,
+                        "en": "Freddy Fox now has two <em>bicycle</em> bells. Brilliant. Thanks, dad. Dad gave me two bells.",
+                        "zh": "狐狸弗雷迪现在有两个自行车铃。太棒了，谢谢你爸爸。爸爸给了我两个车铃。",
+                        "videoNameZh": "《小猪佩奇 第三季》",
+                        "videoNameEn": "《Peppa Pig Season 3》",
+                        "url": "http://bisentence_movie.sogou.com/d2bf22dc4b3a07a6870710effb9ec4e7_7b34a5ad5af1a18309e4abafd23ddec7c8ebd70c"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/efb46b0d09a0d16595177f67fa563c67_36206.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/77e5db2b7a614cac03a5b3317463221c_36732.mp3",
+                        "isLavafox": true,
+                        "en": "Freddy Fox now has two <em>bicycle</em> bells. Brilliant. Thanks, Dad. Dad gave me two bells.",
+                        "zh": "狐狸弗雷迪现在有两个自行车铃。太棒了，谢谢你爸爸。爸爸给了我两个车铃。",
+                        "videoNameZh": "《100天养成流利口语》",
+                        "videoNameEn": "《Get fluent spoken English in 100 days》",
+                        "url": "http://bisentence_movie.sogou.com/e8e3363a0b86bd0e993d08c25f31d7ee_790854becddeaf328277eaad6b3160e566c9d1f1"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/5dc3cf8cad26e071498ca907fcc13dc6_46983.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/9f20004c032e60445ae5e587b5dd1939_64911.mp3",
+                        "isLavafox": true,
+                        "en": "Daddy Pig is riding Peppa's little <em>bicycle</em>. Have a nice ride to work. I will, Peppa. Bye. Bye.",
+                        "zh": "猪爸爸骑上了佩奇的小自行车，祝你工作愉快爸爸。我会的，佩奇，再见！再见！",
+                        "videoNameZh": "《小猪佩奇 第四季》",
+                        "videoNameEn": "《Peppa Pig Season 4》",
+                        "url": "http://bisentence_movie.sogou.com/7de27b85828c8651c82e849dd31abbce_fc4e90927ee41ddf92e79e86ec55e6c21c010c61"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/b630caafa2606557856da7a333933a5d_54182.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/4dcb0d2a73bb1009a64970bb53ecc58e_48724.mp3",
+                        "isLavafox": true,
+                        "en": "That's nothing. I couldn't ride a <em>bicycle</em> 'cause my mother was afraid I'd hit a bump and lose my virginity.",
+                        "zh": "这没什么，我妈不让我骑自行车因为她怕我撞到什么，从此不再是处女身。",
+                        "videoNameZh": "《生活大爆炸 第三季》",
+                        "videoNameEn": "《The Big Bang Theory Season 3》",
+                        "url": "http://bisentence_movie.sogou.com/d99f670aef19b882125ed9f38f71a9df_a62f2c10f20a2d8e5453102440dcc7c23e525df7"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/a3f6ca8d0ebaa5b0956976d643673427_52102.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/8592778a0c0b20da5c75a0bb35f57ded_75003.mp3",
+                        "isLavafox": true,
+                        "en": "What shall we play now? Let's have a <em>bicycle</em> race. With a big, shiny cup for the winner.",
+                        "zh": "那我们现在该玩什么呢。我们来比赛骑自行车怎么样。赢了的人就可以得到一个亮闪闪的大奖杯。",
+                        "videoNameZh": "《小猪佩奇 第三季》",
+                        "videoNameEn": "《Peppa Pig Season 3》",
+                        "url": "http://bisentence_movie.sogou.com/b7eae3d79d5de2712636d05dcaffdd08_e22959ba24c1c71336ca0cb45cbf15edad910540"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/efb46b0d09a0d16595177f67fa563c67_36206.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/88e4f655935dfffb45147ed876d346ed_58129.mp3",
+                        "isLavafox": true,
+                        "en": "What shall we play now? Let's have a <em>bicycle</em> race. With a big, shiny cup for the winner.",
+                        "zh": "那我们现在该玩什么呢？我们来比赛骑自行车怎么样。赢了的人就可以得到一个亮闪闪的大奖杯。",
+                        "videoNameZh": "《100天养成流利口语》",
+                        "videoNameEn": "《Get fluent spoken English in 100 days》",
+                        "url": "http://bisentence_movie.sogou.com/595cb601024cbb94cd84fc9e7a69c7a0_c45b91800fb0d7b779611583dc562e7fa5b6089b"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/a3f6ca8d0ebaa5b0956976d643673427_52102.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/b24bfebab3b9fa1231d40ada1cb0ab08_43787.mp3",
+                        "isLavafox": true,
+                        "en": "It's impossible. It takes time to learn how to do important things like riding a <em>bicycle</em> or playing the piano.",
+                        "zh": "这个根本就不可能！重要的事需要花时间才能学会比如说骑自行车或者是弹钢琴。",
+                        "videoNameZh": "《小猪佩奇 第三季》",
+                        "videoNameEn": "《Peppa Pig Season 3》",
+                        "url": "http://bisentence_movie.sogou.com/a9fa8145eeae37a207c4f76c6da85ad5_a3fe5eb8b4d5411d9ff72dde9d2a371f67d8b457"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/b73d6e20976b7ffe4e651b29ea5ddefc_31309.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/5a9ab216420786c3e18deda5e2cf6ede_13185.mp3",
+                        "isLavafox": true,
+                        "en": "I am winning. It is not a race, Peppa. It's just a gentle <em>bicycle</em> ride. Yes, Daddy but I'm still winning.",
+                        "zh": "我比你们快。我们没有在比赛，佩奇，这是场轻松的自行车之类。是的，爸爸，但是我比较快。",
+                        "videoNameZh": "《粉红猪小妹 第二季》",
+                        "videoNameEn": "《Peppa Pig Season 2》",
+                        "url": "http://bisentence_movie.sogou.com/16dad9dbefda1faebaa3dc6c25653492_1cf4a789ae0bd8240a4920e85e31eff98325fcda"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/629af26ee246702b04dae9c64fe5736b_64581.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/d3118af43c60a2fd9bede27862d30876_8293.mp3",
+                        "isLavafox": true,
+                        "en": "You've got to get fit somehow. I know. You can use my <em>bicycle</em>. Yes, and then you'll get some fresh air as well.",
+                        "zh": "你必须通过某种方法来保持健康。我知道.你可以用我的自行车。是的，然后你还可以呼吸一些新鲜空气。",
+                        "videoNameZh": "《小猪佩奇（精选版）》",
+                        "videoNameEn": "《Peppa Pig》",
+                        "url": "http://bisentence_movie.sogou.com/1716d10cd8f60461520dc70cb5a628b2_c25503845acf50f270d73e9bc2319d95b800f498"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/5440028de015a767476054a27cf789d8_26933.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/a50041bb7dfe0886646ed397c40eeeb3_55104.mp3",
+                        "isLavafox": true,
+                        "en": "You've got to get fit somehow. I know. You can use my <em>bicycle</em>. Yes, and then you'll get some fresh air as well.",
+                        "zh": "你必须通过某种方法来保持健康。我知道.你可以用我的自行车。是的，然后你还可以呼吸一些新鲜空气。",
+                        "videoNameZh": "《小猪佩奇 第一季》",
+                        "videoNameEn": "《Peppa Pig Season 1》",
+                        "url": "http://bisentence_movie.sogou.com/5f82df7748ef461c596e5bae73a93314_e08137bc928ff9f4b91ccbe91cdbfaafa077c68a"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/a3f6ca8d0ebaa5b0956976d643673427_52102.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/14b5c61556efd4a152d8aca3f28cab93_73213.mp3",
+                        "isLavafox": true,
+                        "en": "The best thing about having your own cement mixer is... Dad, have you got a big shiny winner's cup for our <em>bicycle</em> race, please?",
+                        "zh": "自己拥有一台水泥搅拌机的好处就是... 爸爸，能给我们的自行车比赛找一个。亮闪闪的大奖杯吗？",
+                        "videoNameZh": "《小猪佩奇 第三季》",
+                        "videoNameEn": "《Peppa Pig Season 3》",
+                        "url": "http://bisentence_movie.sogou.com/ca278d80d1c98544e34a3aa329030c20_522958684e270b5d4df301766be3e85d12425d38"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/efb46b0d09a0d16595177f67fa563c67_36206.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/77ab1be27e89c0ed2a26eee73ee8bd61_11962.mp3",
+                        "isLavafox": true,
+                        "en": "The best thing about having your own cement mixer is that... Dad, have you got a big shiny winner's cup for our <em>bicycle</em> race, please?",
+                        "zh": "自己拥有一台水泥搅拌机的好处就是... 爸爸，能给我们的自行车比赛找一个。亮闪闪的大奖杯吗？",
+                        "videoNameZh": "《100天养成流利口语》",
+                        "videoNameEn": "《Get fluent spoken English in 100 days》",
+                        "url": "http://bisentence_movie.sogou.com/b30ac3ed0de8bb15409b2c1b7d3cca92_bc1f69989294de0827bd8415bf55ad0791c67b5e"
+                    }
+                ]
+            },
+            "pic": "",
+            "voice": {
+                "phonetic": [
+                    {
+                        "text": "ˈbaɪsɪkl",
+                        "type": "uk",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/7003_bicycle_uk.mp3"
+                    },
+                    {
+                        "text": "ˈbaɪsɪkl",
+                        "type": "usa",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/7003_bicycle_usa.mp3"
+                    }
+                ]
+            },
+            "dictType": "oxford_buchong",
+            "kaoyan": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 2,
+                        "pos": "n/v",
+                        "chinese": "自行车; 骑行",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "bicycle",
+                "direction_info": {
+                    "ranges": 12,
+                    "description": "数据源自2012-2023年12年间全国考研试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2012-2023年全国考研英语一和考研英语二共24套考研试卷，包括阅读、完型填空、翻译、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选全国考研考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2012-2023年12年间全国考研英语一和考研英语二试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 1,
+                "total_exam_freq": 2,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "自行车; 骑行",
+                            "pos": "n/v",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "They can also learn geometry by assembling a <highlight>bicycle</highlight>.",
+                                    "month": -1,
+                                    "source": "英语二",
+                                    "coll": "",
+                                    "sentence_trans": "他们还可以通过组装自行车来学习几何学。",
+                                    "year": 2018,
+                                    "type": "阅读理解A",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Princes and princesses have day-jobs and ride <highlight>bicycles</highlight>, not horses (or helicopters).",
+                                    "month": -1,
+                                    "source": "英语一",
+                                    "coll": "",
+                                    "sentence_trans": "王子和公主们白天骑自行车去工作，而不是骑马（也不是乘坐直升机）。",
+                                    "year": 2015,
+                                    "type": "阅读理解A",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "word_affix": {
+                    "word": "bicycle",
+                    "sub_affix_info_list": [
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "bilateral",
+                                            "mean": "adj. 有两边的；两边的；影响两边的；双方的；双边的"
+                                        },
+                                        {
+                                            "word": "bilingual",
+                                            "mean": "adj. 流利地讲两种语言的；双语的；用两种语言进行的；使用两种语言的"
+                                        },
+                                        {
+                                            "word": "bisect",
+                                            "mean": "v. 把…分为两个部分；把…二等分"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "表示数量, \"两\"",
+                                    "affix_type": "prefix"
+                                },
+                                {
+                                    "sample": [],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "生命, 生物",
+                                    "affix_type": "prefix"
+                                }
+                            ],
+                            "affix": "bi-",
+                            "affix_mean": "双, 两"
+                        },
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "cyclist",
+                                            "mean": "n. 自行车骑手"
+                                        },
+                                        {
+                                            "word": "recycle",
+                                            "mean": "v. 回收利用；重新使用；使再循环"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "圆, 环",
+                                    "affix_type": "prefix"
+                                }
+                            ],
+                            "affix": "cycl-",
+                            "affix_mean": "圆, 环"
+                        },
+                        {
+                            "affix": "-e",
+                            "affix_mean": ""
+                        }
+                    ],
+                    "word_mean": "n. 自行车"
+                }
+            },
+            "CET6": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 1,
+                        "pos": "n/v",
+                        "chinese": "自行车; 骑行",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "bicycle",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2016.6-2023.6年8年间全六级试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight>考纲释义</highlight>\n精选实考、考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2016-2023年51套试卷，包括阅读、听力、翻译等所有题型。\n\n<highlight>真题例句</highlight>\n精选2016-2023年8年间全六级试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 1,
+                "total_exam_freq": 1,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "自行车; 骑行",
+                            "pos": "n/v",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "Last week, one operated by the taxi company Uber struck and killed a woman pushing her <highlight>bicycle</highlight> across a wide road in Arizona.",
+                                    "month": 6,
+                                    "source": "CET6",
+                                    "coll": "",
+                                    "sentence_trans": "上周，Uber出租车公司运营的一辆出租车在亚利桑那州撞死了一名推着自行车穿过宽阔马路的妇女。",
+                                    "year": 2021,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "word_affix": {
+                    "word": "bicycle",
+                    "sub_affix_info_list": [
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "bilateral",
+                                            "mean": "adj. 有两边的；两边的；影响两边的；双方的；双边的"
+                                        },
+                                        {
+                                            "word": "bilingual",
+                                            "mean": "adj. 流利地讲两种语言的；双语的；用两种语言进行的；使用两种语言的"
+                                        },
+                                        {
+                                            "word": "bisect",
+                                            "mean": "v. 把…分为两个部分；把…二等分"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "表示数量, \"两\"",
+                                    "affix_type": "prefix"
+                                },
+                                {
+                                    "sample": [],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "生命, 生物",
+                                    "affix_type": "prefix"
+                                }
+                            ],
+                            "affix": "bi-",
+                            "affix_mean": "双, 两"
+                        },
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "cyclist",
+                                            "mean": "n. 自行车骑手"
+                                        },
+                                        {
+                                            "word": "recycle",
+                                            "mean": "v. 回收利用；重新使用；使再循环"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "圆, 环",
+                                    "affix_type": "prefix"
+                                }
+                            ],
+                            "affix": "cycl-",
+                            "affix_mean": "圆, 环"
+                        },
+                        {
+                            "affix": "-e",
+                            "affix_mean": ""
+                        }
+                    ],
+                    "word_mean": "n. 自行车"
+                },
+                "exchange_info": {
+                    "word_third": [
+                        "bicycles"
+                    ],
+                    "word_ing": [
+                        "bicycling"
+                    ],
+                    "word_done": [
+                        "bicycled"
+                    ],
+                    "word_pl": [
+                        "bicycles"
+                    ],
+                    "word_past": [
+                        "bicycled"
+                    ]
+                }
+            },
+            "CET4": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 9,
+                        "pos": "n/v",
+                        "chinese": "自行车; 骑行",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "bicycle",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2016.6-2023.6年8年间全四级试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight>考纲释义</highlight>\n精选实考、考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2016-2023年51套试卷，包括阅读、听力、翻译等所有题型。\n\n<highlight>真题例句</highlight>\n精选2016-2023年8年间试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 2,
+                "total_exam_freq": 9,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "自行车; 骑行",
+                            "pos": "n/v",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "Almost half the center of Paris will be accessible only by foot or <highlight>bicycle</highlight> this Sunday to mark World Car-Free Day.",
+                                    "month": 12,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "本周日，为了响应世界无车日，几乎半个巴黎市中心只允许人们步行或骑车。",
+                                    "year": 2020,
+                                    "type": "听力",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "At this time, ReBicycle got involved and gave Leila a second-hand <highlight>bicycle</highlight>.",
+                                    "month": 12,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "此时，ReBicycle也参与进来，给了Leila一辆二手自行车。",
+                                    "year": 2020,
+                                    "type": "听力",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "The <highlight>bicycle</highlight> totally changed her life, giving her hope and a true feeling of freedom.",
+                                    "month": 12,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "这辆自行车彻底改变了她的生活，给了她希望和真正的自由。",
+                                    "year": 2020,
+                                    "type": "听力",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "word_affix": {
+                    "word": "bicycle",
+                    "sub_affix_info_list": [
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "bilateral",
+                                            "mean": "adj. 有两边的；两边的；影响两边的；双方的；双边的"
+                                        },
+                                        {
+                                            "word": "bilingual",
+                                            "mean": "adj. 流利地讲两种语言的；双语的；用两种语言进行的；使用两种语言的"
+                                        },
+                                        {
+                                            "word": "bisect",
+                                            "mean": "v. 把…分为两个部分；把…二等分"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "表示数量, \"两\"",
+                                    "affix_type": "prefix"
+                                },
+                                {
+                                    "sample": [],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "生命, 生物",
+                                    "affix_type": "prefix"
+                                }
+                            ],
+                            "affix": "bi-",
+                            "affix_mean": "双, 两"
+                        },
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "cyclist",
+                                            "mean": "n. 自行车骑手"
+                                        },
+                                        {
+                                            "word": "recycle",
+                                            "mean": "v. 回收利用；重新使用；使再循环"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "圆, 环",
+                                    "affix_type": "prefix"
+                                }
+                            ],
+                            "affix": "cycl-",
+                            "affix_mean": "圆, 环"
+                        },
+                        {
+                            "affix": "-e",
+                            "affix_mean": ""
+                        }
+                    ],
+                    "word_mean": "n. 自行车"
+                },
+                "exchange_info": {
+                    "word_third": [
+                        "bicycles"
+                    ],
+                    "word_ing": [
+                        "bicycling"
+                    ],
+                    "word_done": [
+                        "bicycled"
+                    ],
+                    "word_pl": [
+                        "bicycles"
+                    ],
+                    "word_past": [
+                        "bicycled"
+                    ]
+                }
+            },
+            "gaokao": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 13,
+                        "pos": "n/v",
+                        "chinese": "自行车; 骑行",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "bicycle",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2015-2022年8年间全国卷和自主命题省市高考卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2015-2022年全国卷高考试卷，包括阅读、完形、单选、填空、听力、改错、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选各省市考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2015-2022年8年间全国卷和自主命题省市高考卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 3,
+                "word_family": {
+                    "derivative_info_list": [
+                        {
+                            "derivative_info_list": [],
+                            "word": "bicyclist",
+                            "mean": "n. 骑脚踏车者"
+                        }
+                    ],
+                    "word": "bicycle",
+                    "mean": "n. 自行车；脚踏车"
+                },
+                "total_exam_freq": 13,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "自行车; 骑行",
+                            "pos": "n/v",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "The day the post went live, Pruitt received thirty used <highlight>bicycles</highlight>.",
+                                    "month": -1,
+                                    "source": "天津卷",
+                                    "coll": "",
+                                    "sentence_trans": "华盛顿邮报上线的那天，Pruitt收到了30辆二手自行车。",
+                                    "year": 2021,
+                                    "type": "完形填空",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "<highlight>Bicycles</highlight> are available if needed.",
+                                    "month": -1,
+                                    "source": "天津卷",
+                                    "coll": "",
+                                    "sentence_trans": "如有需要，可提供自行车。",
+                                    "year": 2021,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "word_affix": {
+                    "word": "bicycle",
+                    "sub_affix_info_list": [
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "bilateral",
+                                            "mean": "adj. 有两边的；两边的；影响两边的；双方的；双边的"
+                                        },
+                                        {
+                                            "word": "bilingual",
+                                            "mean": "adj. 流利地讲两种语言的；双语的；用两种语言进行的；使用两种语言的"
+                                        },
+                                        {
+                                            "word": "bisect",
+                                            "mean": "v. 把…分为两个部分；把…二等分"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "表示数量, \"两\"",
+                                    "affix_type": "prefix"
+                                },
+                                {
+                                    "sample": [],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "生命, 生物",
+                                    "affix_type": "prefix"
+                                }
+                            ],
+                            "affix": "bi-",
+                            "affix_mean": "双, 两"
+                        },
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "cyclist",
+                                            "mean": "n. 自行车骑手"
+                                        },
+                                        {
+                                            "word": "recycle",
+                                            "mean": "v. 回收利用；重新使用；使再循环"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "圆, 环",
+                                    "affix_type": "prefix"
+                                }
+                            ],
+                            "affix": "cycl-",
+                            "affix_mean": "圆, 环"
+                        },
+                        {
+                            "affix": "-e",
+                            "affix_mean": ""
+                        }
+                    ],
+                    "word_mean": "n. 自行车"
+                },
+                "exchange_info": {
+                    "word_third": [
+                        "bicycles"
+                    ],
+                    "word_ing": [
+                        "bicycling"
+                    ],
+                    "word_done": [
+                        "bicycled"
+                    ],
+                    "word_pl": [
+                        "bicycles"
+                    ],
+                    "word_past": [
+                        "bicycled"
+                    ]
+                }
+            },
+            "zhongkao": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 27,
+                        "pos": "cn",
+                        "chinese": "自行车",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "bicycle",
+                "total_exam_freq": 27,
+                "direction_info": {
+                    "ranges": 4,
+                    "description": "数据源自2018-2021年4年间全国各省市中考试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2018-2021年全国重点省市中考试卷，包括听力、阅读、完形、单选、填空、改错、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选各省市考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2018-2021年4年间全国各省市中考试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 5,
+                "word_level_phrase_info": [
+                    {
+                        "brief_definition": "骑自行车",
+                        "phrase": "ride a bicycle",
+                        "pos": ""
+                    }
+                ],
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "自行车",
+                            "pos": "cn",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "Which <highlight>bicycle</highlight> should I choose, sir?",
+                                    "month": -1,
+                                    "source": "南京卷",
+                                    "coll": "",
+                                    "sentence_trans": "先生，我应该选择哪辆自行车？",
+                                    "year": 2020,
+                                    "type": "单项填空",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "You must be at least 13 years old and have your own <highlight>bicycle</highlight>.",
+                                    "month": -1,
+                                    "source": "杭州卷",
+                                    "coll": "",
+                                    "sentence_trans": "你必须至少13岁才能拥有自己的自行车。",
+                                    "year": 2019,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "What is the most important thing for <highlight>bicycle</highlight>？",
+                                    "month": -1,
+                                    "source": "内蒙古省包头卷",
+                                    "coll": "",
+                                    "sentence_trans": "自行车最重要的东西是什么？",
+                                    "year": 2018,
+                                    "type": "听力",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "word_affix": {
+                    "sub_affix_info_list": [
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "bilateral",
+                                            "mean": "adj. 有两边的；两边的；影响两边的；双方的；双边的"
+                                        },
+                                        {
+                                            "word": "bilingual",
+                                            "mean": "adj. 流利地讲两种语言的；双语的；用两种语言进行的；使用两种语言的"
+                                        },
+                                        {
+                                            "word": "bisect",
+                                            "mean": "v. 把…分为两个部分；把…二等分"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "表示数量, \"两\"",
+                                    "affix_type": "prefix"
+                                },
+                                {
+                                    "sample": [],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "生命, 生物",
+                                    "affix_type": "prefix"
+                                }
+                            ],
+                            "affix": "bi-",
+                            "affix_mean": "双, 两"
+                        },
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "cyclist",
+                                            "mean": "n. 自行车骑手"
+                                        },
+                                        {
+                                            "word": "recycle",
+                                            "mean": "v. 回收利用；重新使用；使再循环"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "圆, 环",
+                                    "affix_type": "prefix"
+                                }
+                            ],
+                            "affix": "cycl-",
+                            "affix_mean": "圆, 环"
+                        },
+                        {
+                            "affix": "-e",
+                            "affix_mean": ""
+                        }
+                    ],
+                    "word": "bicycle",
+                    "word_mean": "n. 自行车"
+                }
+            },
+            "sentencesData": {
+                "status": 1,
+                "info": "notZh2En",
+                "data": {}
+            },
+            "isAutoMatch": false,
+            "Zh2En": false
+        },
+        "query": "bicycle",
+        "result": "自行车",
+        "tabSelect": "detail",
+        "dictionaryType": "oxford_buchong",
+        "notFound_show": false,
+        "phoneticShow": "",
+        "globalShowTranslateRecord": "",
+        "pronPrefer": {
+            "type": "usa_1",
+            "speaker": "male",
+            "speed": "standard"
+        },
+        "ServerRecord": "",
+        "ServerUIGS": {
+            "version": "new",
+            "type": "all",
+            "stype": "success",
+            "terminal": "web",
+            "fr": "default",
+            "direction": "etoz",
+            "from": "en",
+            "to": "zh-CHS",
+            "len": 7,
+            "qtype": "text",
+            "qctype": "qc_1",
+            "dict_cover": 1,
+            "detail": 1,
+            "wordCardCover": 1,
+            "wordCardEn": 1,
+            "wordCardCh": 0,
+            "wordCardMinor": 0,
+            "wordCardNetmean": 0,
+            "wordDeform": 1,
+            "keyword": 0,
+            "bilingual": 1,
+            "simple": 0,
+            "levelList": 1,
+            "synonym": 1,
+            "antonym": 0,
+            "conjugate": 1,
+            "rootaffix": 1,
+            "baike_sogou": 1,
+            "baike_wiki": 0,
+            "wordDifference": 0,
+            "word_phrase": 1,
+            "secondQuery": 0,
+            "dict_oxford": 0,
+            "dict_newcentury": 0,
+            "zhongkaotab": 1,
+            "gaokaotab": 1,
+            "CET4tab": 1,
+            "CET6tab": 1,
+            "kaoyantab": 1,
+            "network_tab": 0,
+            "yinying_tab": 1,
+            "tuozhan_tab": 0,
+            "one_pic": 0,
+            "more_pic": 0,
+            "no_pic": 0,
+            "uuid": "6fd9106d-3cfa-4221-bb7d-dfc04d122bcf",
+            "from_type": 0,
+            "t_trans_ssr": 150
+        },
+        "ServerModelUIGS": {
+            "terminal": "web",
+            "type": "trans_model",
+            "pbtype": "pv",
+            "model_general": 1,
+            "model_medical": 1,
+            "model_finance": 1
+        },
+        "ServerSgtkn": "64EA4B565EB7D9707B7C52C0B8E8FE9B7B71783C675521C5",
+        "suggShow": false,
+        "suggestion": "",
+        "suggDirection": "",
+        "usualTop": "",
+        "baseDict": "",
+        "wordCardClick": false,
+        "isFrInput": false,
+        "kanaTips": {
+            "show": false,
+            "left": "",
+            "top": "",
+            "type": "",
+            "arrowLeft": ""
+        },
+        "currSentenceIndex": -1,
+        "prefixStrObj": {
+            "prefixStr": "",
+            "oriPrefixStr": ""
+        },
+        "selectTransBox": {
+            "show": false,
+            "right": 0,
+            "top": 0,
+            "paraphraseInfo": {
+                "word": "",
+                "from": "",
+                "to": "",
+                "area": ""
+            }
+        },
+        "sentenceLoading": false,
+        "newSentenceInfo": {
+            "sentence": "",
+            "candidateIndex": 0
+        },
+        "moreTipInfo": {
+            "opacity": 0,
+            "zIndex": -1
+        },
+        "paraphraseShowInfo": {
+            "card": 0,
+            "query": "",
+            "card_dict": 0
+        },
+        "selectType": "",
+        "wordPos": 0,
+        "candidateWord": "",
+        "syntaxVisible": false,
+        "syntaxStatus": 0
+    },
+    "language": {
+        "from": "auto",
+        "to": "zh-CHS",
+        "detect": "en",
+        "model": "general",
+        "detectShow": false,
+        "langMap": {
+            "current": ""
+        },
+        "zh2en": false,
+        "fromItemList": [
+            {
+                "lang": "auto",
+                "text": "自动检测",
+                "play": false
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "ru",
+                "text": "俄语",
+                "play": true,
+                "abbr": "俄"
+            },
+            {
+                "lang": "ko",
+                "text": "韩语",
+                "play": true,
+                "abbr": "韩"
+            },
+            {
+                "lang": "fr",
+                "text": "法语",
+                "play": true,
+                "abbr": "法"
+            }
+        ],
+        "toItemList": [
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "fr",
+                "text": "法语",
+                "play": true,
+                "abbr": "法"
+            },
+            {
+                "lang": "vi",
+                "text": "越南语",
+                "play": true,
+                "abbr": "越"
+            },
+            {
+                "lang": "es",
+                "text": "西班牙语",
+                "play": true,
+                "abbr": "西"
+            }
+        ]
+    },
+    "voice": {
+        "from": {
+            "lang": "en",
+            "type": "from",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22bicycle%22%2C%22spokenDialect%22%3A%22en%22%2C%22rate%22%3A%220.8%22%7D",
+            "list": [
+                {
+                    "type": "uk_0",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "ˈbaɪsɪkl",
+                    "abbr": "英",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/7003_bicycle_uk.mp3"
+                },
+                {
+                    "type": "usa_1",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "ˈbaɪsɪkl",
+                    "abbr": "美",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/7003_bicycle_usa.mp3"
+                }
+            ],
+            "stype": "phonetic",
+            "phoneticShow": [
+                {
+                    "text": "ˈbaɪsɪkl",
+                    "type": "uk",
+                    "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/7003_bicycle_uk.mp3"
+                }
+            ]
+        },
+        "to": {
+            "lang": "zh",
+            "type": "to",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22%E8%87%AA%E8%A1%8C%E8%BD%A6%22%2C%22spokenDialect%22%3A%22zh-CHS%22%2C%22rate%22%3A%220.8%22%7D",
+            "stype": "normal"
+        }
+    }
+}

@@ -1,0 +1,1348 @@
+{
+    "route": {
+        "name": "text",
+        "path": "/text",
+        "hash": "",
+        "query": {
+            "keyword": "twice",
+            "transfrom": "auto",
+            "transto": "zh-CHS",
+            "model": "general",
+            "errcode": "s10"
+        },
+        "params": {},
+        "fullPath": "/text?keyword=twice&transfrom=auto&transto=zh-CHS&model=general&errcode=s10",
+        "meta": {
+            "mtype": [
+                "textTranslate",
+                "language",
+                "voice"
+            ]
+        },
+        "from": {
+            "name": null,
+            "path": "/",
+            "hash": "",
+            "query": {},
+            "params": {},
+            "fullPath": "/",
+            "meta": {}
+        }
+    },
+    "common": {
+        "CONFIG": {
+            "wuid": 1733634626556,
+            "loginInfo": {},
+            "isIE": 0,
+            "isHitSsrSwitch": true,
+            "isHitWritebookSwitch": false,
+            "isHitAmsSwitch": true,
+            "promotionList": "{\n    \"pc_bottom\":{\n        \"imgsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\",\n        \"qcsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\"\n    },\n    \"pc_middle\":[\n        {\n            \"src\":\"//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c\",\n            \"bgColor\":\"#ffffff\",\n            \"link\":\"\"\n        }\n    ],\n    \"pc_survey\":{\n        \"icon\":\"//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750\",\n        \"link\":\"https://wj.qq.com/s2/8193148/806d/\"\n    }\n}",
+            "bannerData": [],
+            "isHitAsideSurvey": false,
+            "secretCode": 109984457,
+            "uuid": "951f7379-8a89-4d28-8a77-dbb624db1713",
+            "referer": "",
+            "approveToken": "64F27E24E8345AF3F8FFD143BCEEF581F93086F467552A42",
+            "loadTime": 1733634626558,
+            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0",
+            "fcp": "170.64.148.76",
+            "temporaryId": "",
+            "fileId": ""
+        },
+        "hotWords": [],
+        "isFromCollect": false,
+        "psdModify": {
+            "currentStep": 1,
+            "scode": "",
+            "username": ""
+        },
+        "loginStatus": true,
+        "feedBackModule": false,
+        "showPromotionPopup": {
+            "show": false,
+            "type": ""
+        },
+        "showPromotionPCDownload": false,
+        "showShareBomb": false,
+        "shareData": null,
+        "showAppDownLoad": false,
+        "showLoginDialog": false,
+        "showLoading": {
+            "show": false
+        },
+        "toast": {
+            "show": false,
+            "text": "",
+            "loading": false
+        },
+        "modelToast": {
+            "show": false,
+            "text": ""
+        },
+        "selectionGlobalShow": true,
+        "selectionInfo": {
+            "left": 0,
+            "top": 0,
+            "show": false,
+            "from": "",
+            "to": "",
+            "val": "",
+            "area": ""
+        },
+        "showConfirmDialog": false,
+        "promotionList": {
+            "pc_bottom": {
+                "imgsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png",
+                "qcsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png"
+            },
+            "pc_middle": [
+                {
+                    "src": "//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c",
+                    "bgColor": "#ffffff",
+                    "link": ""
+                }
+            ],
+            "pc_survey": {
+                "icon": "//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750",
+                "link": "https://wj.qq.com/s2/8193148/806d/"
+            }
+        },
+        "transTypeTxt": "text",
+        "fixedTabStatus": 0,
+        "bodyTop": 0,
+        "ifHideUserOperation": false
+    },
+    "textTranslate": {
+        "prevTransQuery": "",
+        "translateData": {
+            "translate": {
+                "zly": "zly",
+                "errorCode": "0",
+                "qc_type": "1",
+                "index": "content0",
+                "from": "en",
+                "source": "sogou",
+                "text": "twice",
+                "to": "zh-CHS",
+                "id": "951f7379-8a89-4d28-8a77-dbb624db1713",
+                "dit": "两次",
+                "orig_text": "twice",
+                "md5": ""
+            },
+            "detect": {
+                "zly": "zly",
+                "detect": "en",
+                "errorCode": "0",
+                "language": "英语",
+                "id": "bc5e8000-b522-11ef-9978-3fa131c4da30",
+                "text": "twice"
+            },
+            "sgtkn": "64F27E26E8345AF3F8FFD143BCEEF581F93086F467552A42",
+            "wordCard": {
+                "title": "twice",
+                "show": true,
+                "usualDict": [
+                    {
+                        "values": [
+                            "两次；两倍；加倍；再一次；双重地；两遍"
+                        ],
+                        "pos": "adv."
+                    }
+                ],
+                "secondQuery": "",
+                "exchange": {},
+                "levelList": [
+                    "小学",
+                    "初中",
+                    "高中",
+                    "四级",
+                    "六级",
+                    "考研"
+                ]
+            },
+            "detail": {
+                "affix": {
+                    "word": "twice",
+                    "sub_affix_info_list": [
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "二",
+                                    "affix_type": "prefix"
+                                }
+                            ],
+                            "affix": "twi-",
+                            "affix_mean": "二"
+                        },
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "hospice",
+                                            "mean": "n. 病人收容所；救济院；旅客招待所"
+                                        },
+                                        {
+                                            "word": "novice",
+                                            "mean": "n. 生手；新手；初学者；见习修士；新皈依的教徒；见习马；与“见习马”情况相似的其他动物"
+                                        },
+                                        {
+                                            "word": "service",
+                                            "mean": "n. 服务；公共服务体系；系统的运行；宗教仪式；成套餐具；发球；正式送达；售后服务；帮助；协助；军队"
+                                        },
+                                        {
+                                            "word": "justice",
+                                            "mean": "n. 正义；公正；公平；法官；司法；审判；公平性；合理性"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "名词后缀",
+                                    "affix_type": "suffix"
+                                }
+                            ],
+                            "affix": "-ce",
+                            "affix_mean": "名词后缀"
+                        }
+                    ],
+                    "word_mean": "adv. 两次"
+                },
+                "word_group": [
+                    {
+                        "brief_definition": "重新考虑；仔细考虑",
+                        "phrase": "think twice",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "每天两次；一日两次",
+                        "phrase": "twice a day",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "一两次, 几次",
+                        "phrase": "once or twice",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "重新考虑；仔细考虑",
+                        "phrase": "thick twice",
+                        "pos": "idm."
+                    },
+                    {
+                        "brief_definition": "罕见的事情不会在完全相同的情况下再度发生",
+                        "phrase": "lightning never strikes twice in the same place",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "一次吃亏；下次小心；一次被咬；下次胆小",
+                        "phrase": "once bitten, twice shy",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "嫡堂（或嫡表）兄弟姐妹的孙子女",
+                        "phrase": "first cousin twice removed",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "每周两次",
+                        "phrase": "twice a week",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "每日两次；一天两次",
+                        "phrase": "twice daily",
+                        "pos": ""
+                    }
+                ],
+                "bilingual": [
+                    {
+                        "source": "I visit <em>twice</em> a year.",
+                        "target": "我每年去两次。",
+                        "url": ""
+                    },
+                    {
+                        "source": "At least once or <em>twice</em>.",
+                        "target": "至少一到两次。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Maybe about <em>twice</em> a month.",
+                        "target": "也许大约每月两次。",
+                        "url": ""
+                    },
+                    {
+                        "source": "He plays at least <em>twice</em> a week.",
+                        "target": "他每周至少玩两次。",
+                        "url": ""
+                    },
+                    {
+                        "source": "He has fallen off the horse <em>twice</em>.",
+                        "target": "他从马上摔下来两次。",
+                        "url": ""
+                    },
+                    {
+                        "source": "We meet <em>twice</em> a month on Saturdays.",
+                        "target": "我们每月两次在周六见面。",
+                        "url": ""
+                    },
+                    {
+                        "source": "<em>Twice</em> a week, on Wednesday and Friday.",
+                        "target": "每周两次，在周三和周五。",
+                        "url": ""
+                    },
+                    {
+                        "source": "The children went to camp <em>twice</em> a year.",
+                        "target": "孩子们每年去两次露营。",
+                        "url": ""
+                    },
+                    {
+                        "source": "You should brush your teeth <em>twice</em> a day.",
+                        "target": "你应该每天刷两次牙。",
+                        "url": ""
+                    },
+                    {
+                        "source": "I read English books about <em>twice</em> a week.",
+                        "target": "我大约每周读两次英文书。",
+                        "url": ""
+                    }
+                ],
+                "baike": {
+                    "showMore": true,
+                    "list": [
+                        {
+                            "lemmaTitle": "TWICE",
+                            "link": "https://baike.sogou.com/v101694210.htm?ch=sogou.fanyi",
+                            "abstract": "TWICE，是JYP Entertainment于2015年10月20日推出的韩国女子演唱组合，由林娜琏、俞定延、平井桃（Momo）、凑崎纱夏（Sana）、朴志效、名井南（Mina）、金多贤、孙彩瑛、周子瑜9名成员组成。 2015年10月20日，TWICE发布首张迷你专辑《THE STORY BEGINS》，正式出道。12月，获得第17届Mnet亚洲音乐大奖最佳女子新人奖。2016年4月，发布第二张迷你专辑《PAGE TWO》。而后相继获得韩国金唱片大奖唱片部门新人赏 、Mnet亚洲音乐大奖最佳女子团体奖。2017年1月，TWICE首次获得韩国金唱片大奖音源部门大赏；10月，TWICE发行了首张团体正规专辑《Twicetagram》 。2018年12月，获得包括最佳女子团体在内的五项殊荣 。2019年12月31日，参演了NHK播出的音乐节目《第70回NHK红白歌合战》。2023年5月31日，在日本发行第十张单曲《Hare Hare》。11月28日，TWICE获得2023MAMA全球粉丝选择奖。 2024年2月23日，发行迷你13辑《With YOU-th》和主打曲《ONE SPARK》。",
+                            "wapPic": "//img02.sogoucdn.com/v2/thumb/retype_exclude_gif/ext/auto/q/80/crop/xy/ai/w/140/h/140/resize/w/140?appid=201005&sign=a2a6bf0518b70016038ef6bef6aac13f&url=https%3A%2F%2Fpic.baike.soso.com%2Fugc%2Fbaikepic2%2F0%2F20240508202821-494124581_jpeg_792_1024_130017.jpg%2F0",
+                            "pcPic": "//img01.sogoucdn.com/v2/thumb/retype_exclude_gif/ext/auto/q/80/crop/xy/ai/w/140/h/140/resize/w/140?appid=201005&sign=a2a6bf0518b70016038ef6bef6aac13f&url=https%3A%2F%2Fpic.baike.soso.com%2Fugc%2Fbaikepic2%2F0%2F20240508202821-494124581_jpeg_792_1024_130017.jpg%2F0"
+                        },
+                        {
+                            "lemmaTitle": "twice",
+                            "link": "https://baike.sogou.com/v64646554.htm?ch=sogou.fanyi",
+                            "abstract": "twice，英文单词，主要用作为副词，作为副词时译为“两次；两倍”。",
+                            "wapPic": "",
+                            "pcPic": ""
+                        }
+                    ]
+                }
+            },
+            "book": {
+                "yingyinNormal": [
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/bb1aa62556923fccd02df9cb65d887ce_58358.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/8543500b538c6265c93c9232b688029f_43484.mp3",
+                        "isLavafox": true,
+                        "en": "This dough will need to prove <em>twice</em>.",
+                        "zh": "面团需要醒两次。",
+                        "videoNameZh": "《保罗教你做面包》",
+                        "videoNameEn": "《Baul Hollywoods Bread》",
+                        "url": "http://bisentence_movie.sogou.com/deea36ad3b0d20592c5d8c38e663199e_0bf9cadc31ee725763f6aafaf427d782fd4c4a0f"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/dde03d29cdf9f1eb3170279dd5ad8ff2_46072.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/c2d1b8551f7ff21a94aefee76c0eb337_70060.mp3",
+                        "isLavafox": true,
+                        "en": "Yes! There'd be <em>twice</em> as many parades!",
+                        "zh": "会啊！会有两次夺冠游行！",
+                        "videoNameZh": "《摩登家庭 第六季》",
+                        "videoNameEn": "《Modern Family Season 6》",
+                        "url": "http://bisentence_movie.sogou.com/d3fcc2dd907b7a66a93932364bd5e1b9_518f134d80b6cb6ec33be95ff8d656e44c57083f"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/ed16ac8524b2f1f0c1489640f8396c3f_47421.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/50b4ba9ae49253ad1d2f5d215d88fa4c_2031.mp3",
+                        "isLavafox": true,
+                        "en": "Didn't you see Taylor Swift <em>twice</em> this month?",
+                        "zh": "你这个月看了两次泰勒·斯威夫特的演唱会吧？{她的歌词以女孩恋爱/分手后的心情为主}",
+                        "videoNameZh": "《生活大爆炸 第十一季》",
+                        "videoNameEn": "《The Big Bang Theory Season 11》",
+                        "url": "http://bisentence_movie.sogou.com/9e62a8b9b7b7b8e2855dc12e74772218_374965e3db76447370239a5894bce1d24ca44f09"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/ed16ac8524b2f1f0c1489640f8396c3f_47421.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/bb7e199a118feb5649d320027c2bd154_45177.mp3",
+                        "isLavafox": true,
+                        "en": "Why are you smiling? I had sex <em>twice</em> last night.",
+                        "zh": "那你为什么在笑？我昨晚做了两次爱。",
+                        "videoNameZh": "《生活大爆炸 第十一季》",
+                        "videoNameEn": "《The Big Bang Theory Season 11》",
+                        "url": "http://bisentence_movie.sogou.com/d7387f826a61df1cf7c3d729870eb17b_307bd83aeac3209bbc2a173fa25b7f7b2ffb4fed"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/882c4a955031459b92686f70d94deed1_14165.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/0b2c661e0205062e05ccfab9ab3ddfee_47188.mp3",
+                        "isLavafox": true,
+                        "en": "But hear me, please, cousin. <em>Twice</em> my men and horses have ridden under your banner. <em>Twice</em> my men and two sons have fallen to the Chinese.",
+                        "zh": "但是请听我说，皇兄，我的人马跟着你征战了两次，两次，我的战士和我的两个儿子都战死在中原。",
+                        "videoNameZh": "《马可波罗 第一季》",
+                        "videoNameEn": "《Marco Polo Season 1》",
+                        "url": "http://bisentence_movie.sogou.com/65d6adb23851be3f774351531d0c1538_da6d22b7be8839004eda38b3183ee8f2a19de90a"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/f7d7167294560b5a445295985c93469c_14515.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/73ae42e5e83ca7c333fa263e28bc51e3_49368.mp3",
+                        "isLavafox": true,
+                        "en": "Yeah, well, a circumstance can happen <em>twice</em> and still be special.",
+                        "zh": "是啊，有些情况就算发生两次，仍然可以算作特殊。",
+                        "videoNameZh": "《生活大爆炸 第十季》",
+                        "videoNameEn": "《The Big Bang Theory Season 10》",
+                        "url": "http://bisentence_movie.sogou.com/4814b783c9a6f93ab4884dc5ee102718_8d76bda21e33d285fea0d9b76ac3d51539151ed4"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/6a0f1af500949aabdf79e8935d4a7230_22265.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/c52eb29d94125ecdeb704098a7725a86_44372.mp3",
+                        "isLavafox": true,
+                        "en": "Wait, so, you get to be my best man <em>twice</em> and I never get to be yours at all?",
+                        "zh": "等一下，我让你当两次，你一次也不让我当？",
+                        "videoNameZh": "《老友记 第四季》",
+                        "videoNameEn": "《Friends Season 4》",
+                        "url": "http://bisentence_movie.sogou.com/732788f7f369bfabd3db71338d4b80e8_bfb3654a1a59757d124d65eb3ccd13be6f179399"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/81d3916a49503fc329256a1bf031d8ef_46973.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/aea78e7e572a947f17fee3da11dd6bab_66961.mp3",
+                        "isLavafox": true,
+                        "en": "I personally have shooed a homeless man away from peeing on that shrine <em>twice</em>.",
+                        "zh": "我亲自赶走了一个流浪汉不让他往神龛上撒尿，赶了两次啊。",
+                        "videoNameZh": "《破产姐妹 第三季》",
+                        "videoNameEn": "《2 Broke Girls Season 3》",
+                        "url": "http://bisentence_movie.sogou.com/26e4206e754a27f144fe9e95813e1c9a_df22a465511edb4e4128bf337295c320c2afba0d"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/3bccca9abe5ab96bd7f3eaed6bd40cf2_52899.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/18872463b43597cd0571c540728711d3_27599.mp3",
+                        "isLavafox": true,
+                        "en": "You've been married <em>twice</em>? Yes. And another time after that. Boy I'm getting hungry.",
+                        "zh": "你结过两次婚？对，那个之后又结了一次，天啊，我饿了。",
+                        "videoNameZh": "《老友记 第七季》",
+                        "videoNameEn": "《Friends Season 7》",
+                        "url": "http://bisentence_movie.sogou.com/cf684ef3366d62509ea3832679933311_791c5fe06fb064bbcb25293824a1fbdfc3fc5495"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/c147f8d54a969778fef4aa74fdb25c24_34800.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/68ca631ed1461490f2b4c198694f1da1_76138.mp3",
+                        "isLavafox": true,
+                        "en": "You managed to get the president of the United States on the phone not once, but <em>twice</em>.",
+                        "zh": "你已经两次打通了美国总统的电话。",
+                        "videoNameZh": "《纸牌屋 第四季》",
+                        "videoNameEn": "《House of Cards Season 4》",
+                        "url": "http://bisentence_movie.sogou.com/9c3714eed7c5684b002628236ff94ea3_44b7e1c72a47206166a9c028025926f57f53cc54"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/eb018cf49e3f89f3bef3ea53525e6ccf_56032.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/2efef56b1519a4500989f085cbaa3ec1_26119.mp3",
+                        "isLavafox": true,
+                        "en": "How are you with pets? Well, I did take care of Sheldon for 15 years, and he only bit me <em>twice</em>.",
+                        "zh": "你跟宠物相处得好吗？我照顾了谢尔顿十五年，他只咬过我两次。",
+                        "videoNameZh": "《生活大爆炸 第十二季》",
+                        "videoNameEn": "《The Big Bang Theory Season 12》",
+                        "url": "http://bisentence_movie.sogou.com/20622962cb56b95cd160a94f773d1a86_f1e63abb2ddf1340b899356a7094b98d953215aa"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/3cc7f04bc4e6bde5cc691b286df1a676_37630.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/3bfe755fa73854518bf272f2933a1b88_5049.mp3",
+                        "isLavafox": true,
+                        "en": "Calm down. Calm down. You set me up with the woman that I've dumped <em>twice</em> in the last five months.",
+                        "zh": "冷静点？冷静？你竟撮合我与在五个月内被我甩掉两次的女人。",
+                        "videoNameZh": "《老友记第一季》",
+                        "videoNameEn": "《Friends Season 1》",
+                        "url": "http://bisentence_movie.sogou.com/a9a0a29a97cc12e8ed651c1443376bf6_7838990fd78bd686e032910529e4981beaf7c2ed"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/65861602801590fdaf378b1d1c997a40_10433.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/70192abb79e6c187d7fc5022b5528bc0_19067.mp3",
+                        "isLavafox": true,
+                        "en": "Just a sandwich? Look, I am 30 years old, okay? I'm gonna be divorced <em>twice</em> and I just got evicted.",
+                        "zh": "不过是个三明治？我今年30岁，已经离婚两次，还没地方可住。",
+                        "videoNameZh": "《老友记 第五季》",
+                        "videoNameEn": "《Friends Season 5》",
+                        "url": "http://bisentence_movie.sogou.com/2e5edb3ce3666fce33848b9a7988efcb_11e93d42140d1777d65e7c889a67aac48134cf9a"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/625c0890e8315f7c9f6a34088e8124da_23511.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/b92f800beb1dd1f9ca55075d14e17056_51052.mp3",
+                        "isLavafox": true,
+                        "en": "Went to Sam's grave every day. Then <em>twice</em> a week. Then once a week. I sought out therapy for myself.",
+                        "zh": "每天都去山姆的墓前，后来一周去两次，再后来一周一次，我还给自己找了心理医生。",
+                        "videoNameZh": "《情妇 第二季》",
+                        "videoNameEn": "《Mistresses Season 2》",
+                        "url": "http://bisentence_movie.sogou.com/b4d7c1f4dbee505c067d8b0bb485547c_9e2703df480af254e709dccd21c941c4ed07beaa"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/69e52acd9e09b6a2ed378507a165e971_14638.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/9f7a0035c18c0e0d07e90783340b5b2f_66353.mp3",
+                        "isLavafox": true,
+                        "en": "I don't know what I was thinking. I mean, sleeping with him once, maybe you could understand, but <em>twice</em>?",
+                        "zh": "我不知道我在想什么，我是说，和他睡一次，我还能理解，但两次？",
+                        "videoNameZh": "《绯闻女孩 第一季》",
+                        "videoNameEn": "《Gossip Girl Season 1》",
+                        "url": "http://bisentence_movie.sogou.com/fcdef865417b34537985a5e136ec1722_8951e8f1a9197d46a7339cac92cf6b55dce0925f"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/39e50807a5a1191398262e04787ff184_62485.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/c7cd4373d5cece24edc4295cb280273c_65.mp3",
+                        "isLavafox": true,
+                        "en": "I shower <em>twice</em> a day and wash my hands as often as I can. Really? So do I. But you're a dentist. He's nuts.",
+                        "zh": "我每天洗两次澡，洗手无数次。真的？我也是。但你是牙科学生，他只是疯子。",
+                        "videoNameZh": "《生活大爆炸 第一季》",
+                        "videoNameEn": "《The Big Bang Theory Season 1》",
+                        "url": "http://bisentence_movie.sogou.com/0337a40995f3413393d4be95382b92c8_ca309ab9620829c3f83ce26f3fd997513d36d31b"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/65861602801590fdaf378b1d1c997a40_10433.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/07378c60ef9f0bbeececb9ba803f4322_69481.mp3",
+                        "isLavafox": true,
+                        "en": "This is Vegas man. People will pay to see freaky stuff. Okay, how much would you pay to see this hand <em>twice</em>?",
+                        "zh": "这里可是拉斯维加斯，大家就爱付钱看怪东西，好，你愿意付多少钱看两次这只手？",
+                        "videoNameZh": "《老友记 第五季》",
+                        "videoNameEn": "《Friends Season 5》",
+                        "url": "http://bisentence_movie.sogou.com/3bf305ff5e39e0dfb5163373142bafaa_c0eac263829b32d03c4fe027759f540decfae252"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/466fcb07ee18284cd2e11cc689fe88ec_17209.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/a3ecafb1f590f3c72c1f620e5724d8ae_8695.mp3",
+                        "isLavafox": true,
+                        "en": "Mister I saved your life <em>twice</em>. Okay, I can't tell you how or when or why, but I have done shit that matters.",
+                        "zh": "先生，我曾两次救过您的命，明白吗？我不能告诉你何时怎样，或为何，但我的确做了。",
+                        "videoNameZh": "《变形金刚3》",
+                        "videoNameEn": "《Transformers: Dark of the Moon》",
+                        "url": "http://bisentence_movie.sogou.com/7af402937983a0d91ef5997a27f54e85_82595f786f3ec9e419def620f8d3decf2511ff61"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/91ea895405abc384e9051be6a1aae416_6904.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/5c697432297a4de7e494baa6099f33c4_52793.mp3",
+                        "isLavafox": true,
+                        "en": "Uniform's forgotten. You have no voice? You were enlist? I was sir, Belleau Wood. <em>Twice</em> decorated. I see it, sir.",
+                        "zh": "仅剩制服，无权发声？你参战了？是的，长官。在贝洛伍德。两次授勋，我看到的，先生。",
+                        "videoNameZh": "《血战钢锯岭》",
+                        "videoNameEn": "《Hacksaw Ridge》",
+                        "url": "http://bisentence_movie.sogou.com/1957c244b7de3dc40728e54e015b3e34_a320bdb240eba7d0be94d707e0bafb0bf7fcd81f"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/2ab82841fbb948a4b86d0b597b1f1b6e_62826.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/8edbeb5521f758914f4c0afb52695100_66566.mp3",
+                        "isLavafox": true,
+                        "en": "No, I wasn't in a fire. And the word's \"supposedly.\" What? You said that science is supposably really hard. <em>Twice</em>.",
+                        "zh": "我没被火烧过。还有你刚刚提到恐怕。什么？你说科学课恐怕真的挺难的。说了两次呢。",
+                        "videoNameZh": "《奇迹男孩》",
+                        "videoNameEn": "《Wonder》",
+                        "url": "http://bisentence_movie.sogou.com/f88e94f896ead1f1ea2c6e1f6f359a8f_3bf294207b6ca219961fe18bd17c15aebd325626"
+                    }
+                ]
+            },
+            "pic": "",
+            "voice": {
+                "phonetic": [
+                    {
+                        "text": "twaɪs",
+                        "type": "uk",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/3546_twice_uk.mp3"
+                    },
+                    {
+                        "text": "twaɪs",
+                        "type": "usa",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/3546_twice_usa.mp3"
+                    }
+                ]
+            },
+            "dictType": "oxford_buchong",
+            "CET6": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 6,
+                        "pos": "adv",
+                        "chinese": "两倍",
+                        "sense_tier_ratio": 66.67
+                    },
+                    {
+                        "sense_tier": 2,
+                        "pos": "adv",
+                        "chinese": "(频率)两次",
+                        "sense_tier_ratio": 22.22
+                    },
+                    {
+                        "sense_tier": 1,
+                        "pos": "phr",
+                        "chinese": "(think twice)三思",
+                        "sense_tier_ratio": 11.11
+                    }
+                ],
+                "word": "twice",
+                "word_level_phrase_info": [
+                    {
+                        "brief_definition": "重新考虑；仔细考虑",
+                        "phrase": "think twice",
+                        "pos": "vphr"
+                    }
+                ],
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2016.6-2023.6年8年间全六级试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight>考纲释义</highlight>\n精选实考、考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2016-2023年51套试卷，包括阅读、听力、翻译等所有题型。\n\n<highlight>真题例句</highlight>\n精选2016-2023年8年间全六级试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 2,
+                "total_exam_freq": 9,
+                "sense": {
+                    "sense_num": 3,
+                    "sense_info_list": [
+                        {
+                            "synonyms": "",
+                            "en": "doubled in amount or degree",
+                            "zh": "两倍",
+                            "pos": "adv",
+                            "antonyms": ""
+                        },
+                        {
+                            "en": "two times",
+                            "zh": "(频率)两次",
+                            "pos": "adv",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "In an online forum post, Ahmed Bouchfaa responded that the brand holds sales of old stock for staff members <highlight>twice</highlight> a year.",
+                                    "month": 12,
+                                    "source": "CET6",
+                                    "coll": "",
+                                    "sentence_trans": "在一个在线论坛帖子中，Ahmed Bouchfaa回应说，该品牌每年为员工销售两次旧库存。",
+                                    "year": 2021,
+                                    "type": "阅读理解B",
+                                    "day": -1
+                                }
+                            ]
+                        },
+                        {
+                            "en": "",
+                            "zh": "(think twice)三思",
+                            "pos": "phr",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "One should think <highlight>twice</highlight> upon reading online comments and information, as they may be groundless and fictitious just to catch people's attention.",
+                                    "month": 12,
+                                    "source": "CET6",
+                                    "coll": "",
+                                    "sentence_trans": "一个人在阅读网上的评论和信息时应该三思，因为它们可能是毫无根据和虚构的，只是为了引起人们的注意。",
+                                    "year": 2021,
+                                    "type": "写作",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "word_affix": {
+                    "word": "twice",
+                    "sub_affix_info_list": [
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "二",
+                                    "affix_type": "prefix"
+                                }
+                            ],
+                            "affix": "twi-",
+                            "affix_mean": "二"
+                        },
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "hospice",
+                                            "mean": "n. 病人收容所；救济院；旅客招待所"
+                                        },
+                                        {
+                                            "word": "novice",
+                                            "mean": "n. 生手；新手；初学者；见习修士；新皈依的教徒；见习马；与“见习马”情况相似的其他动物"
+                                        },
+                                        {
+                                            "word": "service",
+                                            "mean": "n. 服务；公共服务体系；系统的运行；宗教仪式；成套餐具；发球；正式送达；售后服务；帮助；协助；军队"
+                                        },
+                                        {
+                                            "word": "justice",
+                                            "mean": "n. 正义；公正；公平；法官；司法；审判；公平性；合理性"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "名词后缀",
+                                    "affix_type": "suffix"
+                                }
+                            ],
+                            "affix": "-ce",
+                            "affix_mean": "名词后缀"
+                        }
+                    ],
+                    "word_mean": "adv. 两次"
+                }
+            },
+            "CET4": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 7,
+                        "pos": "adv",
+                        "chinese": "两倍",
+                        "sense_tier_ratio": 53.85
+                    },
+                    {
+                        "sense_tier": 5,
+                        "pos": "adv",
+                        "chinese": "(频率)两次",
+                        "sense_tier_ratio": 38.46
+                    },
+                    {
+                        "sense_tier": 1,
+                        "pos": "vphr",
+                        "chinese": "(think twice)慎重考虑",
+                        "sense_tier_ratio": 7.69
+                    }
+                ],
+                "word": "twice",
+                "word_level_phrase_info": [
+                    {
+                        "brief_definition": "重新考虑；仔细考虑",
+                        "phrase": "thick twice",
+                        "pos": "idm"
+                    }
+                ],
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2016.6-2023.6年8年间全四级试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight>考纲释义</highlight>\n精选实考、考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2016-2023年51套试卷，包括阅读、听力、翻译等所有题型。\n\n<highlight>真题例句</highlight>\n精选2016-2023年8年间试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 3,
+                "total_exam_freq": 13,
+                "sense": {
+                    "sense_num": 3,
+                    "sense_info_list": [
+                        {
+                            "en": "doubled in amount or degree",
+                            "zh": "两倍",
+                            "pos": "adv",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "Women are <highlight>twice</highlight> as likely to suffer from severe stress and anxiety as men, according to a 2016 study published.",
+                                    "month": 12,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "根据2016年发表的一项研究，女性遭受严重压力和焦虑的可能性是男性的两倍。",
+                                    "year": 2021,
+                                    "type": "阅读理解B",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Researchers concluded that those who just barely qualified for a grant were able to get <highlight>twice</highlight> as much money.",
+                                    "month": 6,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "研究人员得出结论，那些勉强有资格获得资助的人能够得到两倍的钱。",
+                                    "year": 2021,
+                                    "type": "阅读理解B",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Both words were used more frequently, and climate change was used nearly <highlight>twice</highlight> as often as global warming.",
+                                    "month": 12,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "这两个词的使用频率都更高，气候变化的使用频率几乎是全球变暖的两倍。",
+                                    "year": 2020,
+                                    "type": "阅读理解C",
+                                    "day": -1
+                                }
+                            ]
+                        },
+                        {
+                            "synonyms": "",
+                            "en": "two times",
+                            "zh": "(频率)两次",
+                            "pos": "adv",
+                            "antonyms": ""
+                        },
+                        {
+                            "en": "",
+                            "zh": "(think twice)慎重考虑",
+                            "pos": "vphr",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "Think <highlight>twice</highlight> about new nutrition research findings.",
+                                    "month": 6,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "对新的营养研究结果要慎重考虑。",
+                                    "year": 2021,
+                                    "type": "阅读理解C",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "word_affix": {
+                    "word": "twice",
+                    "sub_affix_info_list": [
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "二",
+                                    "affix_type": "prefix"
+                                }
+                            ],
+                            "affix": "twi-",
+                            "affix_mean": "二"
+                        },
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "hospice",
+                                            "mean": "n. 病人收容所；救济院；旅客招待所"
+                                        },
+                                        {
+                                            "word": "novice",
+                                            "mean": "n. 生手；新手；初学者；见习修士；新皈依的教徒；见习马；与“见习马”情况相似的其他动物"
+                                        },
+                                        {
+                                            "word": "service",
+                                            "mean": "n. 服务；公共服务体系；系统的运行；宗教仪式；成套餐具；发球；正式送达；售后服务；帮助；协助；军队"
+                                        },
+                                        {
+                                            "word": "justice",
+                                            "mean": "n. 正义；公正；公平；法官；司法；审判；公平性；合理性"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "名词后缀",
+                                    "affix_type": "suffix"
+                                }
+                            ],
+                            "affix": "-ce",
+                            "affix_mean": "名词后缀"
+                        }
+                    ],
+                    "word_mean": "adv. 两次"
+                }
+            },
+            "gaokao": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 2,
+                        "pos": "adv",
+                        "chinese": "两倍",
+                        "sense_tier_ratio": 66.67
+                    },
+                    {
+                        "sense_tier": 1,
+                        "pos": "adv",
+                        "chinese": "两次",
+                        "sense_tier_ratio": 33.33
+                    }
+                ],
+                "word": "twice",
+                "word_level_phrase_info": [
+                    {
+                        "brief_definition": "两次；几次",
+                        "phrase": "once or twice",
+                        "pos": "phr."
+                    }
+                ],
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2015-2022年8年间全国卷和自主命题省市高考卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2015-2022年全国卷高考试卷，包括阅读、完形、单选、填空、听力、改错、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选各省市考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2015-2022年8年间全国卷和自主命题省市高考卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 1,
+                "total_exam_freq": 3,
+                "sense": {
+                    "sense_num": 2,
+                    "sense_info_list": [
+                        {
+                            "en": "doubled in amount or degree",
+                            "zh": "两倍",
+                            "pos": "adv",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "Americans eat about fifteen pounds of fish per person per year, but we eat <highlight>twice</highlight> as much fish in restaurants as at home.",
+                                    "month": -1,
+                                    "source": "全国卷3",
+                                    "coll": "",
+                                    "sentence_trans": "美国人每年每人吃大约15磅的鱼，但是我们在餐馆里吃的鱼是在家里吃的两倍。",
+                                    "year": 2016,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "We eat <highlight>twice</highlight> as much fish in restaurants as at home.",
+                                    "month": -1,
+                                    "source": "全国卷3",
+                                    "coll": "",
+                                    "sentence_trans": "我们在餐馆里吃的鱼是在家里的两倍。",
+                                    "year": 2016,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                }
+                            ]
+                        },
+                        {
+                            "en": "two times; on ten occasions",
+                            "zh": "两次",
+                            "pos": "adv",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "The traffic signals generally don't flash the same length of green <highlight>twice</highlight> in a row, especially at rush hour.",
+                                    "month": -1,
+                                    "source": "浙江卷",
+                                    "coll": "",
+                                    "sentence_trans": "交通信号灯通常不会连续两次闪烁相同长度的绿灯，尤其是在高峰时间。",
+                                    "year": 2020,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "word_affix": {
+                    "word": "twice",
+                    "sub_affix_info_list": [
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "二",
+                                    "affix_type": "prefix"
+                                }
+                            ],
+                            "affix": "twi-",
+                            "affix_mean": "二"
+                        },
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "hospice",
+                                            "mean": "n. 病人收容所；救济院；旅客招待所"
+                                        },
+                                        {
+                                            "word": "novice",
+                                            "mean": "n. 生手；新手；初学者；见习修士；新皈依的教徒；见习马；与“见习马”情况相似的其他动物"
+                                        },
+                                        {
+                                            "word": "service",
+                                            "mean": "n. 服务；公共服务体系；系统的运行；宗教仪式；成套餐具；发球；正式送达；售后服务；帮助；协助；军队"
+                                        },
+                                        {
+                                            "word": "justice",
+                                            "mean": "n. 正义；公正；公平；法官；司法；审判；公平性；合理性"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "名词后缀",
+                                    "affix_type": "suffix"
+                                }
+                            ],
+                            "affix": "-ce",
+                            "affix_mean": "名词后缀"
+                        }
+                    ],
+                    "word_mean": "adv. 两次"
+                }
+            },
+            "zhongkao": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 93,
+                        "pos": "adv",
+                        "chinese": "两次; 两倍",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "twice",
+                "total_exam_freq": 93,
+                "direction_info": {
+                    "ranges": 4,
+                    "description": "数据源自2018-2021年4年间全国各省市中考试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2018-2021年全国重点省市中考试卷，包括听力、阅读、完形、单选、填空、改错、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选各省市考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2018-2021年4年间全国各省市中考试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 5,
+                "word_level_phrase_info": [
+                    {
+                        "brief_definition": "重新考虑；仔细考虑",
+                        "phrase": "think twice",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "每天两次；一日两次",
+                        "phrase": "twice a day",
+                        "pos": ""
+                    }
+                ],
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "两次; 两倍",
+                            "pos": "adv",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "As common people, the medical workers choose to stand out and protect others without thinking <highlight>twice</highlight>.",
+                                    "month": -1,
+                                    "source": "昆明市",
+                                    "coll": "",
+                                    "sentence_trans": "作为普通人，医务工作者不假思索地选择站出来保护他人。",
+                                    "year": 2020,
+                                    "type": "单项选择",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Take some pills <highlight>twice</highlight> a day.",
+                                    "month": -1,
+                                    "source": "福建省卷",
+                                    "coll": "",
+                                    "sentence_trans": "一天吃两次药。",
+                                    "year": 2020,
+                                    "type": "听力",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Basically, an electric car can go <highlight>twice</highlight> as far as a gas car for the same price.",
+                                    "month": -1,
+                                    "source": "南京卷",
+                                    "coll": "",
+                                    "sentence_trans": "基本上，同样的价格，一辆电动车的续航能力是一辆汽油车的两倍。",
+                                    "year": 2020,
+                                    "type": "阅读填空",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "word_affix": {
+                    "sub_affix_info_list": [
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "二",
+                                    "affix_type": "prefix"
+                                }
+                            ],
+                            "affix": "twi-",
+                            "affix_mean": "二"
+                        },
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "hospice",
+                                            "mean": "n. 病人收容所；救济院；旅客招待所"
+                                        },
+                                        {
+                                            "word": "novice",
+                                            "mean": "n. 生手；新手；初学者；见习修士；新皈依的教徒；见习马；与“见习马”情况相似的其他动物"
+                                        },
+                                        {
+                                            "word": "service",
+                                            "mean": "n. 服务；公共服务体系；系统的运行；宗教仪式；成套餐具；发球；正式送达；售后服务；帮助；协助；军队"
+                                        },
+                                        {
+                                            "word": "justice",
+                                            "mean": "n. 正义；公正；公平；法官；司法；审判；公平性；合理性"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "名词后缀",
+                                    "affix_type": "suffix"
+                                }
+                            ],
+                            "affix": "-ce",
+                            "affix_mean": "名词后缀"
+                        }
+                    ],
+                    "word": "twice",
+                    "word_mean": "adv. 两次"
+                }
+            },
+            "sentencesData": {
+                "status": 1,
+                "info": "notZh2En",
+                "data": {}
+            },
+            "isAutoMatch": false,
+            "Zh2En": false
+        },
+        "query": "twice",
+        "result": "两次",
+        "tabSelect": "detail",
+        "dictionaryType": "oxford_buchong",
+        "notFound_show": false,
+        "phoneticShow": "",
+        "globalShowTranslateRecord": "",
+        "pronPrefer": {
+            "type": "usa_1",
+            "speaker": "male",
+            "speed": "standard"
+        },
+        "ServerRecord": "",
+        "ServerUIGS": {
+            "version": "new",
+            "type": "all",
+            "stype": "success",
+            "terminal": "web",
+            "fr": "default",
+            "direction": "etoz",
+            "from": "en",
+            "to": "zh-CHS",
+            "len": 5,
+            "qtype": "text",
+            "qctype": "qc_1",
+            "dict_cover": 1,
+            "detail": 1,
+            "wordCardCover": 1,
+            "wordCardEn": 1,
+            "wordCardCh": 0,
+            "wordCardMinor": 0,
+            "wordCardNetmean": 0,
+            "wordDeform": 0,
+            "keyword": 0,
+            "bilingual": 1,
+            "simple": 0,
+            "levelList": 1,
+            "synonym": 0,
+            "antonym": 0,
+            "conjugate": 0,
+            "rootaffix": 1,
+            "baike_sogou": 1,
+            "baike_wiki": 0,
+            "wordDifference": 0,
+            "word_phrase": 1,
+            "secondQuery": 0,
+            "dict_oxford": 0,
+            "dict_newcentury": 0,
+            "zhongkaotab": 1,
+            "gaokaotab": 1,
+            "CET4tab": 1,
+            "CET6tab": 1,
+            "kaoyantab": 0,
+            "network_tab": 0,
+            "yinying_tab": 1,
+            "tuozhan_tab": 0,
+            "one_pic": 0,
+            "more_pic": 0,
+            "no_pic": 0,
+            "uuid": "951f7379-8a89-4d28-8a77-dbb624db1713",
+            "from_type": 0,
+            "t_trans_ssr": 151
+        },
+        "ServerModelUIGS": {
+            "terminal": "web",
+            "type": "trans_model",
+            "pbtype": "pv",
+            "model_general": 1,
+            "model_medical": 1,
+            "model_finance": 1
+        },
+        "ServerSgtkn": "64F27E26E8345AF3F8FFD143BCEEF581F93086F467552A42",
+        "suggShow": false,
+        "suggestion": "",
+        "suggDirection": "",
+        "usualTop": "",
+        "baseDict": "",
+        "wordCardClick": false,
+        "isFrInput": false,
+        "kanaTips": {
+            "show": false,
+            "left": "",
+            "top": "",
+            "type": "",
+            "arrowLeft": ""
+        },
+        "currSentenceIndex": -1,
+        "prefixStrObj": {
+            "prefixStr": "",
+            "oriPrefixStr": ""
+        },
+        "selectTransBox": {
+            "show": false,
+            "right": 0,
+            "top": 0,
+            "paraphraseInfo": {
+                "word": "",
+                "from": "",
+                "to": "",
+                "area": ""
+            }
+        },
+        "sentenceLoading": false,
+        "newSentenceInfo": {
+            "sentence": "",
+            "candidateIndex": 0
+        },
+        "moreTipInfo": {
+            "opacity": 0,
+            "zIndex": -1
+        },
+        "paraphraseShowInfo": {
+            "card": 0,
+            "query": "",
+            "card_dict": 0
+        },
+        "selectType": "",
+        "wordPos": 0,
+        "candidateWord": "",
+        "syntaxVisible": false,
+        "syntaxStatus": 0
+    },
+    "language": {
+        "from": "auto",
+        "to": "zh-CHS",
+        "detect": "en",
+        "model": "general",
+        "detectShow": false,
+        "langMap": {
+            "current": ""
+        },
+        "zh2en": false,
+        "fromItemList": [
+            {
+                "lang": "auto",
+                "text": "自动检测",
+                "play": false
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "fr",
+                "text": "法语",
+                "play": true,
+                "abbr": "法"
+            },
+            {
+                "lang": "ko",
+                "text": "韩语",
+                "play": true,
+                "abbr": "韩"
+            },
+            {
+                "lang": "th",
+                "text": "泰语",
+                "play": true,
+                "abbr": "泰"
+            }
+        ],
+        "toItemList": [
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "vi",
+                "text": "越南语",
+                "play": true,
+                "abbr": "越"
+            },
+            {
+                "lang": "th",
+                "text": "泰语",
+                "play": true,
+                "abbr": "泰"
+            },
+            {
+                "lang": "fr",
+                "text": "法语",
+                "play": true,
+                "abbr": "法"
+            }
+        ]
+    },
+    "voice": {
+        "from": {
+            "lang": "en",
+            "type": "from",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22twice%22%2C%22spokenDialect%22%3A%22en%22%2C%22rate%22%3A%220.8%22%7D",
+            "list": [
+                {
+                    "type": "uk_0",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "twaɪs",
+                    "abbr": "英",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/3546_twice_uk.mp3"
+                },
+                {
+                    "type": "usa_1",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "twaɪs",
+                    "abbr": "美",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/3546_twice_usa.mp3"
+                }
+            ],
+            "stype": "phonetic",
+            "phoneticShow": [
+                {
+                    "text": "twaɪs",
+                    "type": "uk",
+                    "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/3546_twice_uk.mp3"
+                }
+            ]
+        },
+        "to": {
+            "lang": "zh",
+            "type": "to",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22%E4%B8%A4%E6%AC%A1%22%2C%22spokenDialect%22%3A%22zh-CHS%22%2C%22rate%22%3A%220.8%22%7D",
+            "stype": "normal"
+        }
+    }
+}

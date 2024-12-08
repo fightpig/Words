@@ -1,0 +1,1618 @@
+{
+    "route": {
+        "name": "text",
+        "path": "/text",
+        "hash": "",
+        "query": {
+            "keyword": "another",
+            "transfrom": "auto",
+            "transto": "zh-CHS",
+            "model": "general",
+            "errcode": "s10"
+        },
+        "params": {},
+        "fullPath": "/text?keyword=another&transfrom=auto&transto=zh-CHS&model=general&errcode=s10",
+        "meta": {
+            "mtype": [
+                "textTranslate",
+                "language",
+                "voice"
+            ]
+        },
+        "from": {
+            "name": null,
+            "path": "/",
+            "hash": "",
+            "query": {},
+            "params": {},
+            "fullPath": "/",
+            "meta": {}
+        }
+    },
+    "common": {
+        "CONFIG": {
+            "wuid": 1733632294265,
+            "loginInfo": {},
+            "isIE": 0,
+            "isHitSsrSwitch": true,
+            "isHitWritebookSwitch": false,
+            "isHitAmsSwitch": true,
+            "promotionList": "{\n    \"pc_bottom\":{\n        \"imgsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\",\n        \"qcsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\"\n    },\n    \"pc_middle\":[\n        {\n            \"src\":\"//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c\",\n            \"bgColor\":\"#ffffff\",\n            \"link\":\"\"\n        }\n    ],\n    \"pc_survey\":{\n        \"icon\":\"//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750\",\n        \"link\":\"https://wj.qq.com/s2/8193148/806d/\"\n    }\n}",
+            "bannerData": [],
+            "isHitAsideSurvey": false,
+            "secretCode": 109984457,
+            "uuid": "4075e601-447f-45d7-8fa7-1d7ba2cd0d82",
+            "referer": "",
+            "approveToken": "64E9CBB743ABC56368614FDDD1755720689E180567552126",
+            "loadTime": 1733632294267,
+            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0",
+            "fcp": "138.197.122.177",
+            "temporaryId": "",
+            "fileId": ""
+        },
+        "hotWords": [],
+        "isFromCollect": false,
+        "psdModify": {
+            "currentStep": 1,
+            "scode": "",
+            "username": ""
+        },
+        "loginStatus": true,
+        "feedBackModule": false,
+        "showPromotionPopup": {
+            "show": false,
+            "type": ""
+        },
+        "showPromotionPCDownload": false,
+        "showShareBomb": false,
+        "shareData": null,
+        "showAppDownLoad": false,
+        "showLoginDialog": false,
+        "showLoading": {
+            "show": false
+        },
+        "toast": {
+            "show": false,
+            "text": "",
+            "loading": false
+        },
+        "modelToast": {
+            "show": false,
+            "text": ""
+        },
+        "selectionGlobalShow": true,
+        "selectionInfo": {
+            "left": 0,
+            "top": 0,
+            "show": false,
+            "from": "",
+            "to": "",
+            "val": "",
+            "area": ""
+        },
+        "showConfirmDialog": false,
+        "promotionList": {
+            "pc_bottom": {
+                "imgsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png",
+                "qcsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png"
+            },
+            "pc_middle": [
+                {
+                    "src": "//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c",
+                    "bgColor": "#ffffff",
+                    "link": ""
+                }
+            ],
+            "pc_survey": {
+                "icon": "//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750",
+                "link": "https://wj.qq.com/s2/8193148/806d/"
+            }
+        },
+        "transTypeTxt": "text",
+        "fixedTabStatus": 0,
+        "bodyTop": 0,
+        "ifHideUserOperation": false
+    },
+    "textTranslate": {
+        "prevTransQuery": "",
+        "translateData": {
+            "translate": {
+                "zly": "zly",
+                "errorCode": "0",
+                "qc_type": "1",
+                "index": "content0",
+                "from": "en",
+                "source": "sogou",
+                "text": "another",
+                "to": "zh-CHS",
+                "id": "4075e601-447f-45d7-8fa7-1d7ba2cd0d82",
+                "dit": "另一个",
+                "orig_text": "another",
+                "md5": ""
+            },
+            "detect": {
+                "zly": "zly",
+                "detect": "en",
+                "errorCode": "0",
+                "language": "英语",
+                "id": "4e3770f0-b51d-11ef-91d8-af02f197b0f6",
+                "text": "another"
+            },
+            "sgtkn": "64E9CBB843ABC56368614FDDD1755720689E180567552126",
+            "wordCard": {
+                "title": "another",
+                "show": true,
+                "usualDict": [
+                    {
+                        "values": [
+                            "（同类中的）又一个；再一个；另一个；不同的一个；另一种；不确切的事物"
+                        ],
+                        "pos": "pron."
+                    },
+                    {
+                        "values": [
+                            "（同类中）又一的；再一个的；再一批的；再加一个的；另一的；别的；不同的；另一类似的"
+                        ],
+                        "pos": "adj."
+                    }
+                ],
+                "secondQuery": "",
+                "exchange": {},
+                "levelList": [
+                    "小学",
+                    "初中",
+                    "高中",
+                    "四级",
+                    "六级",
+                    "考研"
+                ]
+            },
+            "detail": {
+                "synonym": [
+                    {
+                        "word_list": [
+                            "different",
+                            "diverse",
+                            "other",
+                            "unlike",
+                            "varying"
+                        ],
+                        "pos": "adj.",
+                        "mean": "又一，另一；另外的；不同的"
+                    }
+                ],
+                "word_difference_info": [],
+                "word_group": [
+                    {
+                        "brief_definition": "彼此",
+                        "phrase": "one another",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "另一天；又一天；另一日",
+                        "phrase": "another day",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "一个接一个地",
+                        "phrase": "one after another",
+                        "pos": "coll"
+                    },
+                    {
+                        "brief_definition": "不管怎样",
+                        "phrase": "one way or another",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "另一方式；另一途径",
+                        "phrase": "another way",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "另一时间；另外时间",
+                        "phrase": "another time",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "另一；为另一；用于另一",
+                        "phrase": "for another",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "另一种；另一个；另外一个",
+                        "phrase": "yet another",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "兴趣爱好因人而异；一人手中宝, 他人脚下草",
+                        "phrase": "one man's meat is another man's poison",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "另一议院",
+                        "phrase": "another place",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "一系列事物中的某一个；这个或那个",
+                        "phrase": "one or another",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "明天又是新的开始",
+                        "phrase": "tomorrow is another day",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "这样那样的事",
+                        "phrase": "one thing and another",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "不见得吧；我不相信；哪有这种事；别胡说",
+                        "phrase": "tell me another",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "大难不死；熬过来了",
+                        "phrase": "live to fight another day",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "全面地看；总的来看",
+                        "phrase": "one way and another",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "事情接踵而来",
+                        "phrase": "one thing leads to another",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "我不知道　　　‘",
+                        "phrase": "ask me another",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "再想一想；另作打算",
+                        "phrase": "got another think coming",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "再想一想；另作打算",
+                        "phrase": "have another think coming",
+                        "pos": ""
+                    }
+                ],
+                "bilingual": [
+                    {
+                        "source": "Now I need <em>another</em> weekend.",
+                        "target": "现在我需要另一个周末。",
+                        "url": ""
+                    },
+                    {
+                        "source": "She lives in <em>another</em> country.",
+                        "target": "她住在另一个国家。",
+                        "url": ""
+                    },
+                    {
+                        "source": "That's <em>another</em> lie you've told!",
+                        "target": "那是你撒的另一个谎！",
+                        "url": ""
+                    },
+                    {
+                        "source": "<em>Another</em> product will be oxygen.",
+                        "target": "另一个产品将是氧气。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Actually you have <em>another</em> option.",
+                        "target": "其实你还有另一个选择。",
+                        "url": ""
+                    },
+                    {
+                        "source": "This is <em>another</em> word for disadvantage.",
+                        "target": "这是劣势的另一个词。",
+                        "url": ""
+                    },
+                    {
+                        "source": "This is <em>another</em> word for questionnaire.",
+                        "target": "这是问卷的另一个词。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Talk about <em>another</em> environmental problem.",
+                        "target": "讨论另一个环境问题。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Tintin is <em>another</em> favourite cartoon hero.",
+                        "target": "丁丁是另一个受欢迎的卡通英雄。",
+                        "url": ""
+                    },
+                    {
+                        "source": "<em>Another</em> good thing about it was the money.",
+                        "target": "另一个好处是钱。",
+                        "url": ""
+                    }
+                ],
+                "baike": {
+                    "showMore": true,
+                    "list": [
+                        {
+                            "lemmaTitle": "替身",
+                            "link": "https://baike.sogou.com/v101206300.htm?ch=sogou.fanyi",
+                            "abstract": "《替身》（Another）是一部由P.A.WORKS制作，水岛努执导，高森奈津美、阿部敦、米泽圆等担任主要配音的日本动画，于2012年1月9日在日本播出。 动画根据本格派推理小说家绫辻行人的原著及经清原纮漫画化的原著改编，讲述了15岁少年榊原恒一转学到夜见山北中学后所发生的一系列故事。 2015年，《替身》（Another）被中华人民共和国文化和旅游部列入网络动漫产品“黑名单”。",
+                            "wapPic": "//img04.sogoucdn.com/v2/thumb/retype_exclude_gif/ext/auto/q/80/crop/xy/ai/w/140/h/140/resize/w/140?appid=201005&sign=dad686967ed5c9a2d1480761a8fe7f9c&url=https%3A%2F%2Fpic.baike.soso.com%2Fugc%2Fbaikepic2%2F0%2F20240429070726-644700216_png_483_682_583636.jpg%2F0",
+                            "pcPic": "//img01.sogoucdn.com/v2/thumb/retype_exclude_gif/ext/auto/q/80/crop/xy/ai/w/140/h/140/resize/w/140?appid=201005&sign=dad686967ed5c9a2d1480761a8fe7f9c&url=https%3A%2F%2Fpic.baike.soso.com%2Fugc%2Fbaikepic2%2F0%2F20240429070726-644700216_png_483_682_583636.jpg%2F0"
+                        },
+                        {
+                            "lemmaTitle": "ANOTHER",
+                            "link": "https://baike.sogou.com/v28557944.htm?ch=sogou.fanyi",
+                            "abstract": "《替身》是日本作家绫辻行人著长篇小说，2009年10月由角川书店首版。",
+                            "wapPic": "//img02.sogoucdn.com/v2/thumb/retype_exclude_gif/ext/auto/q/80/crop/xy/ai/w/140/h/140/resize/w/140?appid=201005&sign=e935b04dbb31640550ad429e21bc0f3c&url=https%3A%2F%2Fpic.baike.soso.com%2Fugc%2Fbaikepic2%2F8473%2F20220617105517-920330438_png_530_350_408285.jpg%2F0",
+                            "pcPic": "//img04.sogoucdn.com/v2/thumb/retype_exclude_gif/ext/auto/q/80/crop/xy/ai/w/140/h/140/resize/w/140?appid=201005&sign=e935b04dbb31640550ad429e21bc0f3c&url=https%3A%2F%2Fpic.baike.soso.com%2Fugc%2Fbaikepic2%2F8473%2F20220617105517-920330438_png_530_350_408285.jpg%2F0"
+                        }
+                    ]
+                }
+            },
+            "book": {
+                "yingyinNormal": [
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/3cc7f04bc4e6bde5cc691b286df1a676_37630.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/b3941289444258af842531c0dc52f036_42028.mp3",
+                        "isLavafox": true,
+                        "en": "Monica, I had <em>another</em> answer all ready.",
+                        "zh": "莫妮卡，我本来有另一个回复的。",
+                        "videoNameZh": "《老友记第一季》",
+                        "videoNameEn": "《Friends Season 1》",
+                        "url": "http://bisentence_movie.sogou.com/0a84be2b78b219c4387284967db76e7f_4cbe77ef7ea09a5af8bd3d28c687de84e2197f2d"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/7527e2a9ec38f59ad126037938e4289c_52101.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/df69d78565c74d5744c0da1f25fafd3a_42521.mp3",
+                        "isLavafox": true,
+                        "en": "You kissed <em>another</em> woman. Call it even? Okay.",
+                        "zh": "你吻了另一个女人？我们扯平了？好吧。",
+                        "videoNameZh": "《老友记 第八季》",
+                        "videoNameEn": "《Friends Season 8》",
+                        "url": "http://bisentence_movie.sogou.com/8d6782cba6e0712a4e2bb2924897d7d1_5c383c405f9b17d2992e02c90a471a5318b76711"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/345831827db23c6dca86447206da99f3_25724.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/ba56b938dcc0455d0d6c78f6901a788b_17830.mp3",
+                        "isLavafox": true,
+                        "en": "All right. First thing we're gonna need is <em>another</em> Riley.",
+                        "zh": "我们需要的第一样东西就是另一个莱丽。",
+                        "videoNameZh": "《女孩成长记 第二季》",
+                        "videoNameEn": "《Girl Meets World Season 2》",
+                        "url": "http://bisentence_movie.sogou.com/02279e86d0f5af7d0f5c60af2cd8a8fa_027b895f5d11c574e8b3cd2fe9fb246bf5e76674"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/7527e2a9ec38f59ad126037938e4289c_52101.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/24378650210d4c46620bea68a024e610_49866.mp3",
+                        "isLavafox": true,
+                        "en": "You got <em>another</em> ex-wife back there? Please start drinking.",
+                        "zh": "你另一个前妻也藏在里面？请开始喝香槟。",
+                        "videoNameZh": "《老友记 第八季》",
+                        "videoNameEn": "《Friends Season 8》",
+                        "url": "http://bisentence_movie.sogou.com/f81a20121a01ded17066a0c66523409d_f3229dc033751b24fee557ac1e00c5525a0a473e"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/8005d54b57fe04f26a670220f9323bc7_59749.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/572d2f8c6045025e070fcf684fa2e1b1_49393.mp3",
+                        "isLavafox": true,
+                        "en": "No, it's <em>another</em> one, different owner, different part of town.",
+                        "zh": "不，是另一个。不同的主人，不同的地点。",
+                        "videoNameZh": "《神探夏洛克 第四季》",
+                        "videoNameEn": "《Sherlock Season 4》",
+                        "url": "http://bisentence_movie.sogou.com/424c76ab7b05649fd03899849387f432_d41de5d4ffb77b4112643f0e7c6c2c032a398edd"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/3f86fa9dca75619883a88b3b0e866f56_16599.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/f6d0a095bbd6f5577589107c49d03e88_6143.mp3",
+                        "isLavafox": true,
+                        "en": "How wonderful. <em>Another</em> mutant already here. Why didn't you say?",
+                        "zh": "太好了，另一个变异人，已经在这儿了。你为什么不说？",
+                        "videoNameZh": "《X战警：第一战》",
+                        "videoNameEn": "《X-Men: First Class》",
+                        "url": "http://bisentence_movie.sogou.com/dab67fa4189d09613bc2f5d7cdaedc30_8d6b1d438dbd3b578021e31863a3a7ae160a636c"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/2932ffdc99c11566a817682dbb06e964_57579.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/dd79a3f1b97db3b290ce42d229803b81_29892.mp3",
+                        "isLavafox": true,
+                        "en": "I saw their whole planet destroyed. How do you know if there was <em>another</em> colony? Or <em>another</em> queen out there?",
+                        "zh": "我看见他们整个星球都毁了，你怎么知道他们没有其他殖民地，或者另一个虫后?",
+                        "videoNameZh": "《安德的游戏》",
+                        "videoNameEn": "《Enders Game》",
+                        "url": "http://bisentence_movie.sogou.com/c2c9ab61364ac4e137bb3d32c7ab956a_28bf1077426a46988cd6370b32ac90bc01843577"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/46b4115557598e1ee93285923c5dd556_29528.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/a5716525803979177561ecc5dbfffd62_54946.mp3",
+                        "isLavafox": true,
+                        "en": "And you can search one door and one room and <em>another</em> door and <em>another</em> room and the third door the third room.",
+                        "zh": "你可以点击这一扇门进入这个房间，也可以点另一扇门进另一个房间，或者第三扇门和房间。",
+                        "videoNameZh": "《怪诞行为学》",
+                        "videoNameEn": "《Predictably Irrational》",
+                        "url": "http://bisentence_movie.sogou.com/e0aae0d03009093ebd058a38ee36b3a0_5f1005756c37198ccd56f945d4599d8e08576d21"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/6a0f1af500949aabdf79e8935d4a7230_22265.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/cdef511b06456faaf46b347de3e5fe2e_56805.mp3",
+                        "isLavafox": true,
+                        "en": "And <em>another</em> one had never been to a party before, so…",
+                        "zh": "另一个没参加过派对。",
+                        "videoNameZh": "《老友记 第四季》",
+                        "videoNameEn": "《Friends Season 4》",
+                        "url": "http://bisentence_movie.sogou.com/c3ee60b142452403c064c2ccad7e8172_93745da176f7593591d764139d5bfc58e2e0315f"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/79503c1e736da4c03e70d85340fb568d_45273.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/6c54a61b9403f0dd0a628c2c80b8dad2_68757.mp3",
+                        "isLavafox": true,
+                        "en": "Failure is just life trying to move us in <em>another</em> direction.",
+                        "zh": "失败只不过是命运试图将我们推向另一个方向罢了。",
+                        "videoNameZh": "《奥普拉演讲》",
+                        "videoNameEn": "《Oprah Winfrey Speech at Harvard》",
+                        "url": "http://bisentence_movie.sogou.com/7c7eb4a1344d5994dfd9390daae36760_d889b17888038a9103716387eedfcede59c924d5"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/bedafc9cbd9ff62be49e08cf3cb8efa0_35632.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/ac992c7ae0376688ba73848f9a6faba7_41014.mp3",
+                        "isLavafox": true,
+                        "en": "<em>Another</em> legacy of England's monarchy are the Royal Parks of London.",
+                        "zh": "而伦敦皇家公园则是另一个英格兰皇室遗留下来的景点。",
+                        "videoNameZh": "《10大名城旅游攻略》",
+                        "videoNameEn": "《10 Cities Vacation Travel Guide》",
+                        "url": "http://bisentence_movie.sogou.com/7047001632149eb4eacbefa351d5730e_29b94a69d32c9d232c4d35788c07ebd2a382e442"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/d67496d18ec93ce1f31c004316546728_12072.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/80ebab57ca7c9fb6c8310a9feb09ae8a_66881.mp3",
+                        "isLavafox": true,
+                        "en": "There's doors and more doors, and behind all the doors, there's <em>another</em> inside, and <em>another</em> outside, and things happen, happen, happening. It never stops.",
+                        "zh": "世界里有很多门，在每扇门背后都有一个里面的世界，又会有另一个外面事情发生，不断发生，从不停止。",
+                        "videoNameZh": "《房间》",
+                        "videoNameEn": "《Room》",
+                        "url": "http://bisentence_movie.sogou.com/0e126027ec22cff32dc5d854f1b78032_7daaa14a2178b55ffe12af35ead20f88603add05"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/f7d7167294560b5a445295985c93469c_14515.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/cbc71f8f7fc5e4a9616cf6878d254314_10497.mp3",
+                        "isLavafox": true,
+                        "en": "When I opened the door, I saw my father having relations with <em>another</em> woman.",
+                        "zh": "当我打开卧室门，看到了我父亲和另一个女人在\"结合\"。",
+                        "videoNameZh": "《生活大爆炸 第十季》",
+                        "videoNameEn": "《The Big Bang Theory Season 10》",
+                        "url": "http://bisentence_movie.sogou.com/6768f0e1457cb3a84bc6fb5d0b917342_7392237aafb01b19f5986ac01bdb8533d5b23688"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/3bccca9abe5ab96bd7f3eaed6bd40cf2_52899.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/971c8c4f9298f48e74de840aad577960_62730.mp3",
+                        "isLavafox": true,
+                        "en": "Hey, Joey, I got you <em>another</em> present. Oh wait, before you tell me what it is.",
+                        "zh": "乔伊，送你另一个礼物。等一下，先不要告诉我是什么。",
+                        "videoNameZh": "《老友记 第七季》",
+                        "videoNameEn": "《Friends Season 7》",
+                        "url": "http://bisentence_movie.sogou.com/56b84e768bb7ce9c4773aabb6a0a502c_f6ae2eb3e3d4671dd818caa4ed9ca3120eb3f8e5"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/8259b3a5049520d81cd7daab217cd558_33586.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/48e566568fe954c3e9ea9fb94fc0b526_63318.mp3",
+                        "isLavafox": true,
+                        "en": "The Dragon Lady, career-obsessed. Snow Queen drives away <em>another</em> Mr. Priestly.",
+                        "zh": "女权至上的霸道女人，工作第一的冰山皇后，把另一个皮斯利先生扫地出门。",
+                        "videoNameZh": "《穿普拉达的女王》",
+                        "videoNameEn": "《The Devil Wears Prada》",
+                        "url": "http://bisentence_movie.sogou.com/4aa6e02a54e850fdd1b42ba7198e9f60_0ac58a92b4b230aab1a08a2effc05e837929eee2"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/aa7a748a86497e02e2b0a5098f3017b8_12619.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/ebc56077bdb63f797c25579a85040fec_58754.mp3",
+                        "isLavafox": true,
+                        "en": "Now I always believed a friend helps <em>another</em> friend out of trouble, not into it.",
+                        "zh": "我一直深信一个朋友会帮助另一个朋友摆脱麻烦，而不是卷入麻烦。",
+                        "videoNameZh": "《女孩成长记 第一季》",
+                        "videoNameEn": "《Girl Meets World Season 1》",
+                        "url": "http://bisentence_movie.sogou.com/35f7fd9f425932cb8e4b86c48a649b3a_e4662d19fb1b2d0a7a0f45d93d7b01fb6725ef33"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/fbd36068a45ee4cc0e4a4e35ee0653bd_43525.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/b0ea0f2b8446cdfb19edb2d8ff1d464a_17456.mp3",
+                        "isLavafox": true,
+                        "en": "Is that a Wormhole? It appeared 48 years ago. And it leads where? <em>Another</em> galaxy.",
+                        "zh": "那是虫洞吗？四十八年前出现的。它通向哪里？另一个星系。",
+                        "videoNameZh": "《星际穿越》",
+                        "videoNameEn": "《Interstellar》",
+                        "url": "http://bisentence_movie.sogou.com/90f8784b35619054467b3c0dee3b882a_a4322c92fe0dd83c0725756785e637c0b9424862"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/886b76b0c552c22c57062be63cf27261_37722.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/c4abc6440f0f1682b8e6e469d87d5d00_5894.mp3",
+                        "isLavafox": true,
+                        "en": "You know what I mean. What are you saying? Joey said you're here with <em>another</em> man!",
+                        "zh": "你知道我在说什么。你是在说什么？乔伊说你跟另一个男人在一起！",
+                        "videoNameZh": "《老友记 第九季》",
+                        "videoNameEn": "《Friends Season 9》",
+                        "url": "http://bisentence_movie.sogou.com/f339d6a7ca172d3691c8a0547213011b_6932330de4c4d51b8b058cbedc39469afd068107"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/aa7a748a86497e02e2b0a5098f3017b8_12619.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/5393c853d8e09571ca9a49df3f8d4641_38161.mp3",
+                        "isLavafox": true,
+                        "en": "Oh, wondrous gatekeeper of the knowledge, we are travelers from <em>another</em> time and place.",
+                        "zh": "伟大的知识守门人，我们是来自另一个时空的旅人。",
+                        "videoNameZh": "《女孩成长记 第一季》",
+                        "videoNameEn": "《Girl Meets World Season 1》",
+                        "url": "http://bisentence_movie.sogou.com/f362336840725c641e3bb44aecba598e_85ff191f49f15825cff24078faa65670ad56c539"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/2932ffdc99c11566a817682dbb06e964_57579.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/abcd6f6018fefcccb2f21b636c441b43_10426.mp3",
+                        "isLavafox": true,
+                        "en": "They're planning to colonize <em>another</em> planet before they breed themselves into extinction.",
+                        "zh": "他们打算在耗尽资源前向另一个星球殖民。",
+                        "videoNameZh": "《安德的游戏》",
+                        "videoNameEn": "《Enders Game》",
+                        "url": "http://bisentence_movie.sogou.com/2b042b422924da0e7e2e4dc397558dea_b0df3c36e6e991ad303c1b8177d4be0a9b7e8ec3"
+                    }
+                ]
+            },
+            "pic": "",
+            "voice": {
+                "phonetic": [
+                    {
+                        "text": "əˈnʌðə",
+                        "type": "uk",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/379_another_uk.mp3"
+                    },
+                    {
+                        "text": "əˈnʌðər",
+                        "type": "usa",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/379_another_usa.mp3"
+                    }
+                ]
+            },
+            "dictType": "oxford_buchong",
+            "kaoyan": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 39,
+                        "pos": "pron/det",
+                        "chinese": "另一; 别的; 不同的(人或事物)",
+                        "sense_tier_ratio": 78
+                    },
+                    {
+                        "sense_tier": 7,
+                        "pos": "pron/det",
+                        "chinese": "又一; 再一; 另一(事物或人)",
+                        "sense_tier_ratio": 14
+                    },
+                    {
+                        "sense_tier": 4,
+                        "pos": "pron",
+                        "chinese": "互相; 彼此",
+                        "sense_tier_ratio": 8
+                    },
+                    {
+                        "sense_tier": 0,
+                        "pos": "pron/det",
+                        "chinese": "类似的",
+                        "sense_tier_ratio": 0
+                    }
+                ],
+                "word": "another",
+                "word_level_phrase_info": [
+                    {
+                        "brief_definition": "彼此",
+                        "phrase": "one another",
+                        "pos": "phr"
+                    },
+                    {
+                        "brief_definition": "不管怎样",
+                        "phrase": "one way or another",
+                        "pos": "phr"
+                    },
+                    {
+                        "brief_definition": "另一；为另一；用于另一",
+                        "phrase": "for another",
+                        "pos": "phr"
+                    }
+                ],
+                "direction_info": {
+                    "ranges": 12,
+                    "description": "数据源自2012-2023年12年间全国考研试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2012-2023年全国考研英语一和考研英语二共24套考研试卷，包括阅读、完型填空、翻译、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选全国考研考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2012-2023年12年间全国考研英语一和考研英语二试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 5,
+                "total_exam_freq": 50,
+                "sense": {
+                    "sense_num": 4,
+                    "sense_info_list": [
+                        {
+                            "en": "someone or something different",
+                            "zh": "另一; 别的; 不同的(人或事物)",
+                            "pos": "pron/det",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "But <highlight>another</highlight>, related force — a policy often buried deep in course catalogs called \"grade forgiveness\" — is helping raise GPAs.",
+                                    "month": -1,
+                                    "source": "英语一",
+                                    "coll": "",
+                                    "sentence_trans": "但是另一种相关的力量——一种经常被深埋在课程目录中的政策，叫做“分数宽恕”——正在帮助提高平均绩点。",
+                                    "year": 2019,
+                                    "type": "阅读理解A",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "To put it <highlight>another</highlight> way: How can we make sure that the thinking of intelligent machines reflects humanity's highest values?",
+                                    "month": -1,
+                                    "source": "英语一",
+                                    "coll": "",
+                                    "sentence_trans": "换句话说：我们如何确保智能机器的思维反映了人类的最高价值观？",
+                                    "year": 2019,
+                                    "type": "阅读理解A",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Indeed, grade forgiveness is just <highlight>another</highlight> way that universities are responding to consumers' expectations for higher education.",
+                                    "month": -1,
+                                    "source": "英语一",
+                                    "coll": "",
+                                    "sentence_trans": "事实上，分数减免只是大学回应用户对高等教育期望的另一种方式。",
+                                    "year": 2019,
+                                    "type": "阅读理解A",
+                                    "day": -1
+                                }
+                            ]
+                        },
+                        {
+                            "en": "some other; one more",
+                            "zh": "又一; 再一; 另一(事物或人)",
+                            "pos": "pron/det",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "There is <highlight>another</highlight> problem: people became immensely inventive in hitting targets.",
+                                    "month": -1,
+                                    "source": "英语二",
+                                    "coll": "",
+                                    "sentence_trans": "还有另一个问题：人们在实现目标方面变得非常有创造力。",
+                                    "year": 2021,
+                                    "type": "完型填空",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "How can the train operators possibly justify yet <highlight>another</highlight> increase to rail passenger fares?",
+                                    "month": -1,
+                                    "source": "英语一",
+                                    "coll": "",
+                                    "sentence_trans": "铁路运营商如何证明再次提高铁路客运票价是合理的？",
+                                    "year": 2021,
+                                    "type": "阅读理解A",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Pledging to run Pilgrim safely, the company has applied for federal permission to keep it open for <highlight>another</highlight> 20 years.",
+                                    "month": -1,
+                                    "source": "英语一",
+                                    "coll": "",
+                                    "sentence_trans": "为了保证Pilgrim的安全运营，该公司已经向联邦政府申请了再开放20年的许可。",
+                                    "year": 2012,
+                                    "type": "阅读理解A",
+                                    "day": -1
+                                }
+                            ]
+                        },
+                        {
+                            "en": "",
+                            "zh": "互相; 彼此",
+                            "pos": "pron",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "Their brains release oxytocin, a hormone triggers the herding instinct that prompts humans to connect with one <highlight>another</highlight>.",
+                                    "month": -1,
+                                    "source": "英语一",
+                                    "coll": "",
+                                    "sentence_trans": "它们的大脑会释放催产素，这是一种激发群居本能的荷尔蒙，促使人类相互联系。",
+                                    "year": 2018,
+                                    "type": "完型填空",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "But the force of geographic conditions peculiar to America, the interplay of the varied national groups upon one <highlight>another</highlight> caused significant changes.",
+                                    "month": -1,
+                                    "source": "英语一",
+                                    "coll": "",
+                                    "sentence_trans": "但是，由于美国特有的地理条件，以及不同民族群体之间的相互作用，导致了重大的变化。",
+                                    "year": 2015,
+                                    "type": "翻译",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Ideally, different kinds of reading inform each other, and act as useful reference points for and counterbalances to one <highlight>another</highlight>.",
+                                    "month": -1,
+                                    "source": "英语一",
+                                    "coll": "",
+                                    "sentence_trans": "理想的是，不同的阅读方式互相影响，互为有用的参考点，互相平衡。",
+                                    "year": 2015,
+                                    "type": "阅读理解B",
+                                    "day": -1
+                                }
+                            ]
+                        },
+                        {
+                            "synonyms": "",
+                            "en": "a person or thing of a very similar type",
+                            "zh": "类似的",
+                            "pos": "pron/det",
+                            "antonyms": ""
+                        }
+                    ]
+                },
+                "word_usage": [
+                    {
+                        "usage": "another指另一个同一类型的人或事物：Rick's got another camera（里克又添置了一架相机）。other指不同类的人或事物，通常后接可数名词复数形式，但有时也接不可数名词。"
+                    },
+                    {
+                        "usage": "表示“又一；再一；另一”时，another后可接单数名词、of加复数名词或数字加复数名词。"
+                    }
+                ]
+            },
+            "CET6": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 55,
+                        "pos": "adj",
+                        "chinese": "另一个的",
+                        "sense_tier_ratio": 74.32
+                    },
+                    {
+                        "sense_tier": 19,
+                        "pos": "n",
+                        "chinese": "其他的人/物",
+                        "sense_tier_ratio": 25.68
+                    }
+                ],
+                "word": "another",
+                "word_level_phrase_info": [
+                    {
+                        "brief_definition": "一个接一个地",
+                        "phrase": "one after another",
+                        "pos": "phr"
+                    }
+                ],
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2016.6-2023.6年8年间全六级试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight>考纲释义</highlight>\n精选实考、考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2016-2023年51套试卷，包括阅读、听力、翻译等所有题型。\n\n<highlight>真题例句</highlight>\n精选2016-2023年8年间全六级试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 5,
+                "total_exam_freq": 74,
+                "sense": {
+                    "sense_num": 2,
+                    "sense_info_list": [
+                        {
+                            "en": "some other; one more",
+                            "zh": "另一个的",
+                            "pos": "adj",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "<highlight>Another</highlight> way to improve your frame of mind is to mix things up.",
+                                    "month": 12,
+                                    "source": "CET6",
+                                    "coll": "",
+                                    "sentence_trans": "另一个改善你的心态的方法是把事情搞混。",
+                                    "year": 2021,
+                                    "type": "阅读理解A",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "<highlight>Another</highlight> consideration is the risks when humans interact with large machinery.",
+                                    "month": 6,
+                                    "source": "CET6",
+                                    "coll": "",
+                                    "sentence_trans": "另一个考虑因素是人类与大型机械相互作用时的风险。",
+                                    "year": 2021,
+                                    "type": "听力",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "In <highlight>another</highlight> study, researchers found that reading scientific articles containing jargon led people to doubt the actual science.",
+                                    "month": 6,
+                                    "source": "CET6",
+                                    "coll": "",
+                                    "sentence_trans": "在另一项研究中，研究人员发现，阅读包含行话的科学文章会导致人们怀疑真正的科学。",
+                                    "year": 2021,
+                                    "type": "听力",
+                                    "day": -1
+                                }
+                            ]
+                        },
+                        {
+                            "en": "someone or something different",
+                            "zh": "其他的人/物",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "But I found myself moving from one accommodation to <highlight>another</highlight>, trying to find the perfect place.",
+                                    "month": 6,
+                                    "source": "CET6",
+                                    "coll": "",
+                                    "sentence_trans": "但我发现自己从一个住处搬到另一个住处，试图找到一个完美的地方。",
+                                    "year": 2021,
+                                    "type": "听力",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Repeat what their partners say one way or <highlight>another</highlight>.",
+                                    "month": 6,
+                                    "source": "CET6",
+                                    "coll": "",
+                                    "sentence_trans": "无论如何，重复他们的伙伴所说的话。",
+                                    "year": 2021,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Still, many things we do are about copying others one way or <highlight>another</highlight>.",
+                                    "month": 6,
+                                    "source": "CET6",
+                                    "coll": "",
+                                    "sentence_trans": "尽管如此，我们做的很多事情都是以某种方式模仿他人。",
+                                    "year": 2021,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "word_usage": [
+                    {
+                        "usage": "another这个形容词是由an和other两词合缀而成，因此它不能加冠词或其他限定性的形容词。"
+                    },
+                    {
+                        "usage": "another指“另外的任何一个”，加上原本的那个，至少有三个才有“任何一个”的可能，因此不适用于只有两个时，如不能说I have two brothers, one is twenty, and another is fifteen，此处应用the other代替。"
+                    },
+                    {
+                        "usage": "another后可接数字和复数形式的名词，如another five hours。"
+                    },
+                    {
+                        "usage": "one another和each other均指“相互，彼此”。"
+                    }
+                ]
+            },
+            "CET4": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 59,
+                        "pos": "adj",
+                        "chinese": "另一个的",
+                        "sense_tier_ratio": 81.94
+                    },
+                    {
+                        "sense_tier": 9,
+                        "pos": "n",
+                        "chinese": "其他的人/物",
+                        "sense_tier_ratio": 12.5
+                    },
+                    {
+                        "sense_tier": 4,
+                        "pos": "pron",
+                        "chinese": "(one another)互相",
+                        "sense_tier_ratio": 5.56
+                    }
+                ],
+                "word": "another",
+                "word_level_phrase_info": [
+                    {
+                        "brief_definition": "彼此",
+                        "phrase": "one another",
+                        "pos": "phr"
+                    },
+                    {
+                        "brief_definition": "另一；为另一；用于另一",
+                        "phrase": "for another",
+                        "pos": "phr"
+                    }
+                ],
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2016.6-2023.6年8年间全四级试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight>考纲释义</highlight>\n精选实考、考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2016-2023年51套试卷，包括阅读、听力、翻译等所有题型。\n\n<highlight>真题例句</highlight>\n精选2016-2023年8年间试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 5,
+                "total_exam_freq": 72,
+                "sense": {
+                    "sense_num": 3,
+                    "sense_info_list": [
+                        {
+                            "en": "some other; one more",
+                            "zh": "另一个的",
+                            "pos": "adj",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "<highlight>Another</highlight> cause is that the proportion of people who are trying to lose weight has been increasing over time.",
+                                    "month": 6,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "另一个原因是，随着时间的推移，试图减肥的人的比例一直在增加。",
+                                    "year": 2021,
+                                    "type": "阅读理解C",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "<highlight>Another</highlight> typical example is that with the appearance of various social video Apps, people can't resist the temptation of them.",
+                                    "month": 6,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "另一个典型的例子是，随着各种短视频应用的出现，人们无法抗拒它们的诱惑。",
+                                    "year": 2021,
+                                    "type": "写作",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Then I can devote more time and energy to finding a better position at <highlight>another</highlight> company.",
+                                    "month": 7,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "然后我可以投入更多的时间和精力在另一家公司找到更好的职位。",
+                                    "year": 2020,
+                                    "type": "听力",
+                                    "day": -1
+                                }
+                            ]
+                        },
+                        {
+                            "en": "someone or something different",
+                            "zh": "其他的人/物",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "A research paper rejected by one journal may get accepted by <highlight>another</highlight>.",
+                                    "month": 6,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "被一家期刊拒绝的一篇研究性论文可能会被另一家期刊接受。",
+                                    "year": 2021,
+                                    "type": "阅读理解B",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "For <highlight>another</highlight>, many video games are full of violence to boost players' excitement, thus enhancing their appeal.",
+                                    "month": 6,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "另一方面，许多电子游戏充斥着暴力，以提高玩家的兴奋点，从而增强他们的吸引力。",
+                                    "year": 2021,
+                                    "type": "写作",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Maybe that's why many people are hopping from one website to <highlight>another</highlight>, having no idea of what they are doing.",
+                                    "month": 6,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "也许这就是为什么许多人从一个网站不断更换到另一个网站，不知道他们在做什么。",
+                                    "year": 2021,
+                                    "type": "写作",
+                                    "day": -1
+                                }
+                            ]
+                        },
+                        {
+                            "en": "",
+                            "zh": "(one another)互相",
+                            "pos": "pron",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "He is now supporting \"friendly benches,\" which are public seating areas where people are encouraged to go and chat with one <highlight>another</highlight>.",
+                                    "month": 6,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "他现在支持“友好的长椅”，这是一种鼓励人们聊天的公共座位区。",
+                                    "year": 2021,
+                                    "type": "阅读理解A",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Colleagues who don't trust one <highlight>another</highlight> will need to spend more time watching their backs than doing any useful work.",
+                                    "month": 12,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "彼此不信任的同事会将更多的时间用于提防对方，而不是做任何有用的工作。",
+                                    "year": 2020,
+                                    "type": "阅读理解A",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Cooking benefits people in many ways and enables them to connect with one <highlight>another</highlight>.",
+                                    "month": 7,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "烹饪在许多方面给人们带来好处，并使他们能够彼此联系。",
+                                    "year": 2020,
+                                    "type": "阅读理解B",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "word_usage": [
+                    {
+                        "usage": "another后可接数字和复数形式的名词，如another five hours。"
+                    },
+                    {
+                        "usage": "another这个形容词是由an和other两词合缀而成，因此它不能加冠词或其他限定性的形容词。"
+                    },
+                    {
+                        "usage": "another指“另外的任何一个”，加上原本的那个，至少有三个才有“任何一个”的可能，因此不适用于只有两个时，如不能说I have two brothers, one is twenty, and another is fifteen，此处应用the other代替。"
+                    },
+                    {
+                        "usage": "one another和each other均指“相互，彼此”。"
+                    }
+                ]
+            },
+            "gaokao": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 38,
+                        "pos": "adj",
+                        "chinese": "另一个的",
+                        "sense_tier_ratio": 95
+                    },
+                    {
+                        "sense_tier": 2,
+                        "pos": "n",
+                        "chinese": "其他的人/物",
+                        "sense_tier_ratio": 5
+                    }
+                ],
+                "word": "another",
+                "word_level_phrase_info": [
+                    {
+                        "brief_definition": "相互；彼此",
+                        "phrase": "one another",
+                        "pos": "phr."
+                    },
+                    {
+                        "brief_definition": "另一天；又一天；另一日",
+                        "phrase": "another day",
+                        "pos": "phr."
+                    },
+                    {
+                        "brief_definition": "相继；依次",
+                        "phrase": "one after another",
+                        "pos": "phr."
+                    }
+                ],
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2015-2022年8年间全国卷和自主命题省市高考卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2015-2022年全国卷高考试卷，包括阅读、完形、单选、填空、听力、改错、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选各省市考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2015-2022年8年间全国卷和自主命题省市高考卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 5,
+                "total_exam_freq": 40,
+                "sense": {
+                    "sense_num": 2,
+                    "sense_info_list": [
+                        {
+                            "en": "some other; one more",
+                            "zh": "另一个的",
+                            "pos": "adj",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "<highlight>Another</highlight> way of setting realistic goals is to analyze your short and long term objectives, keeping in mind your beliefs, values and strengths.",
+                                    "month": -1,
+                                    "source": "全国卷2",
+                                    "coll": "",
+                                    "sentence_trans": "设定现实目标的另一种方法是分析你的短期和长期目标，记住你的信仰、价值观和优势。",
+                                    "year": 2019,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "It makes me happy to think that I'll never have to go to <highlight>another</highlight> training session again.",
+                                    "month": -1,
+                                    "source": "全国卷3",
+                                    "coll": "",
+                                    "sentence_trans": "一想到我再也不用去参加另外的训练课，我就很高兴。",
+                                    "year": 2018,
+                                    "type": "听力",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "I'll never find <highlight>another</highlight> apartment like it around here.",
+                                    "month": -1,
+                                    "source": "全国卷3",
+                                    "coll": "",
+                                    "sentence_trans": "我在这附近再也找不到像这样的公寓了。",
+                                    "year": 2016,
+                                    "type": "听力",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Thank you George, but I've decided to travel a bit before finding <highlight>another</highlight> job.",
+                                    "month": -1,
+                                    "source": "全国卷2",
+                                    "coll": "",
+                                    "sentence_trans": "谢谢你，乔治，但我决定在找另一份工作之前先去旅行一下。",
+                                    "year": 2016,
+                                    "type": "听力",
+                                    "day": -1
+                                }
+                            ]
+                        },
+                        {
+                            "en": "someone or something different",
+                            "zh": "其他的人/物",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "If you're worried about taking classes one after <highlight>another</highlight> in different buildings, a quick test run won't hurt.",
+                                    "month": -1,
+                                    "source": "天津卷",
+                                    "coll": "",
+                                    "sentence_trans": "如果你担心在不同的大楼里一个接一个地上课，快速试跑一下也无妨。",
+                                    "year": 2021,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "We begin to see the interconnectedness of one thing to <highlight>another</highlight> in all aspects of our life, of ourselves and the universe.",
+                                    "month": -1,
+                                    "source": "天津卷",
+                                    "coll": "",
+                                    "sentence_trans": "在生活的各个方面，我们开始看到一件事和另一件事间的相互联系，开始发现我们自身和宇宙间的相互联系。",
+                                    "year": 2021,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            "zhongkao": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 283,
+                        "pos": "adj/det",
+                        "chinese": "又一; 再一; 别的",
+                        "sense_tier_ratio": 94.97
+                    },
+                    {
+                        "sense_tier": 15,
+                        "pos": "pron",
+                        "chinese": "(one another)互相",
+                        "sense_tier_ratio": 5.03
+                    }
+                ],
+                "word": "another",
+                "total_exam_freq": 298,
+                "direction_info": {
+                    "ranges": 4,
+                    "description": "数据源自2018-2021年4年间全国各省市中考试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2018-2021年全国重点省市中考试卷，包括听力、阅读、完形、单选、填空、改错、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选各省市考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2018-2021年4年间全国各省市中考试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 5,
+                "word_level_phrase_info": [
+                    {
+                        "brief_definition": "彼此",
+                        "phrase": "one another",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "另一天；又一天；另一日",
+                        "phrase": "another day",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "另一时间；另外时间",
+                        "phrase": "another time",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "另一方式；另一途径",
+                        "phrase": "another way",
+                        "pos": ""
+                    }
+                ],
+                "sense": {
+                    "sense_num": 2,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "又一; 再一; 别的",
+                            "pos": "adj/det",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "Thanks to her help, the patient was at once transferred to <highlight>another</highlight> hospital and his life was saved.",
+                                    "month": -1,
+                                    "source": "黄冈市卷",
+                                    "coll": "",
+                                    "sentence_trans": "由于她的帮助，病人立即被转移到另一家医院，他的生命得到了挽救。",
+                                    "year": 2020,
+                                    "type": "交际应用",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "There's <highlight>another</highlight> gas causing climate change.",
+                                    "month": -1,
+                                    "source": "潍坊市卷",
+                                    "coll": "",
+                                    "sentence_trans": "又有一种气体导致了气候变化。",
+                                    "year": 2020,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "<highlight>Another</highlight> bridge over the Jialing River was built last year.",
+                                    "month": -1,
+                                    "source": "重庆市A卷",
+                                    "coll": "",
+                                    "sentence_trans": "嘉陵江上的另一座桥是去年建造的。",
+                                    "year": 2020,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                }
+                            ]
+                        },
+                        {
+                            "en": "",
+                            "zh": "(one another)互相",
+                            "pos": "pron",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "But people all over the world still tell one <highlight>another</highlight> stories out loud.",
+                                    "month": -1,
+                                    "source": "广州市卷",
+                                    "coll": "",
+                                    "sentence_trans": "但是世界各地的人们仍然大声地互相讲着故事。",
+                                    "year": 2020,
+                                    "type": "阅读还原",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "As time goes by, we learn to respect one <highlight>another</highlight>'s differences．",
+                                    "month": -1,
+                                    "source": "天津市卷",
+                                    "coll": "",
+                                    "sentence_trans": "随着时间的推移，我们学会了尊重彼此的差异。",
+                                    "year": 2019,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "We stayed close to one <highlight>another</highlight> and cried.",
+                                    "month": -1,
+                                    "source": "绵阳市卷",
+                                    "coll": "",
+                                    "sentence_trans": "我们靠近彼此，哭了。",
+                                    "year": 2018,
+                                    "type": "听力",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "word_usage": [
+                    {
+                        "usage": "another这个形容词是由an和other两词合缀而成，因此它不能加冠词或其他限定性的形容词。"
+                    },
+                    {
+                        "usage": "another指“另外的任何一个”，加上原本的那个，至少有三个才有“任何一个”的可能，因此不适用于只有两个时，如不能说I have two brothers, one is twenty, and another is fifteen，此处应用the other代替。"
+                    },
+                    {
+                        "usage": "another后可接数字和复数形式的名词，如another five hours。"
+                    },
+                    {
+                        "usage": "one another和each other均指“相互，彼此”。"
+                    }
+                ],
+                "disambiguation": [
+                    {
+                        "disambiguation_list": [
+                            {
+                                "word": "another",
+                                "sense_disambiguation": "可以作形容词，也可以作代词。泛指三者或三者以上的人或物中的“任何一个”或“另外一个”。"
+                            },
+                            {
+                                "word": "the other",
+                                "sense_disambiguation": "特指两者中的“另外一个”,one... the other 表示一个...另一个”。"
+                            }
+                        ],
+                        "sense_group": "另一个"
+                    }
+                ]
+            },
+            "sentencesData": {
+                "status": 1,
+                "info": "notZh2En",
+                "data": {}
+            },
+            "isAutoMatch": false,
+            "Zh2En": false
+        },
+        "query": "another",
+        "result": "另一个",
+        "tabSelect": "detail",
+        "dictionaryType": "oxford_buchong",
+        "notFound_show": false,
+        "phoneticShow": "",
+        "globalShowTranslateRecord": "",
+        "pronPrefer": {
+            "type": "usa_1",
+            "speaker": "male",
+            "speed": "standard"
+        },
+        "ServerRecord": "",
+        "ServerUIGS": {
+            "version": "new",
+            "type": "all",
+            "stype": "success",
+            "terminal": "web",
+            "fr": "default",
+            "direction": "etoz",
+            "from": "en",
+            "to": "zh-CHS",
+            "len": 7,
+            "qtype": "text",
+            "qctype": "qc_1",
+            "dict_cover": 1,
+            "detail": 1,
+            "wordCardCover": 1,
+            "wordCardEn": 1,
+            "wordCardCh": 0,
+            "wordCardMinor": 0,
+            "wordCardNetmean": 0,
+            "wordDeform": 0,
+            "keyword": 0,
+            "bilingual": 1,
+            "simple": 0,
+            "levelList": 1,
+            "synonym": 1,
+            "antonym": 0,
+            "conjugate": 0,
+            "rootaffix": 0,
+            "baike_sogou": 1,
+            "baike_wiki": 0,
+            "wordDifference": 1,
+            "word_phrase": 1,
+            "secondQuery": 0,
+            "dict_oxford": 0,
+            "dict_newcentury": 0,
+            "zhongkaotab": 1,
+            "gaokaotab": 1,
+            "CET4tab": 1,
+            "CET6tab": 1,
+            "kaoyantab": 1,
+            "network_tab": 0,
+            "yinying_tab": 1,
+            "tuozhan_tab": 0,
+            "one_pic": 0,
+            "more_pic": 0,
+            "no_pic": 0,
+            "uuid": "4075e601-447f-45d7-8fa7-1d7ba2cd0d82",
+            "from_type": 0,
+            "t_trans_ssr": 159
+        },
+        "ServerModelUIGS": {
+            "terminal": "web",
+            "type": "trans_model",
+            "pbtype": "pv",
+            "model_general": 1,
+            "model_medical": 1,
+            "model_finance": 1
+        },
+        "ServerSgtkn": "64E9CBB843ABC56368614FDDD1755720689E180567552126",
+        "suggShow": false,
+        "suggestion": "",
+        "suggDirection": "",
+        "usualTop": "",
+        "baseDict": "",
+        "wordCardClick": false,
+        "isFrInput": false,
+        "kanaTips": {
+            "show": false,
+            "left": "",
+            "top": "",
+            "type": "",
+            "arrowLeft": ""
+        },
+        "currSentenceIndex": -1,
+        "prefixStrObj": {
+            "prefixStr": "",
+            "oriPrefixStr": ""
+        },
+        "selectTransBox": {
+            "show": false,
+            "right": 0,
+            "top": 0,
+            "paraphraseInfo": {
+                "word": "",
+                "from": "",
+                "to": "",
+                "area": ""
+            }
+        },
+        "sentenceLoading": false,
+        "newSentenceInfo": {
+            "sentence": "",
+            "candidateIndex": 0
+        },
+        "moreTipInfo": {
+            "opacity": 0,
+            "zIndex": -1
+        },
+        "paraphraseShowInfo": {
+            "card": 0,
+            "query": "",
+            "card_dict": 0
+        },
+        "selectType": "",
+        "wordPos": 0,
+        "candidateWord": "",
+        "syntaxVisible": false,
+        "syntaxStatus": 0
+    },
+    "language": {
+        "from": "auto",
+        "to": "zh-CHS",
+        "detect": "en",
+        "model": "general",
+        "detectShow": false,
+        "langMap": {
+            "current": ""
+        },
+        "zh2en": false,
+        "fromItemList": [
+            {
+                "lang": "auto",
+                "text": "自动检测",
+                "play": false
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "th",
+                "text": "泰语",
+                "play": true,
+                "abbr": "泰"
+            },
+            {
+                "lang": "ru",
+                "text": "俄语",
+                "play": true,
+                "abbr": "俄"
+            },
+            {
+                "lang": "ko",
+                "text": "韩语",
+                "play": true,
+                "abbr": "韩"
+            }
+        ],
+        "toItemList": [
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "fr",
+                "text": "法语",
+                "play": true,
+                "abbr": "法"
+            },
+            {
+                "lang": "ko",
+                "text": "韩语",
+                "play": true,
+                "abbr": "韩"
+            },
+            {
+                "lang": "vi",
+                "text": "越南语",
+                "play": true,
+                "abbr": "越"
+            }
+        ]
+    },
+    "voice": {
+        "from": {
+            "lang": "en",
+            "type": "from",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22another%22%2C%22spokenDialect%22%3A%22en%22%2C%22rate%22%3A%220.8%22%7D",
+            "list": [
+                {
+                    "type": "uk_0",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "əˈnʌðə",
+                    "abbr": "英",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/379_another_uk.mp3"
+                },
+                {
+                    "type": "usa_1",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "əˈnʌðər",
+                    "abbr": "美",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/379_another_usa.mp3"
+                }
+            ],
+            "stype": "phonetic",
+            "phoneticShow": [
+                {
+                    "text": "əˈnʌðə",
+                    "type": "uk",
+                    "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/379_another_uk.mp3"
+                },
+                {
+                    "text": "əˈnʌðər",
+                    "type": "usa",
+                    "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/379_another_usa.mp3"
+                }
+            ]
+        },
+        "to": {
+            "lang": "zh",
+            "type": "to",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22%E5%8F%A6%E4%B8%80%E4%B8%AA%22%2C%22spokenDialect%22%3A%22zh-CHS%22%2C%22rate%22%3A%220.8%22%7D",
+            "stype": "normal"
+        }
+    }
+}

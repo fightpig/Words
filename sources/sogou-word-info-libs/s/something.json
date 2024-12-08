@@ -1,0 +1,1369 @@
+{
+    "route": {
+        "name": "text",
+        "path": "/text",
+        "hash": "",
+        "query": {
+            "keyword": "something",
+            "transfrom": "auto",
+            "transto": "zh-CHS",
+            "model": "general",
+            "errcode": "s10"
+        },
+        "params": {},
+        "fullPath": "/text?keyword=something&transfrom=auto&transto=zh-CHS&model=general&errcode=s10",
+        "meta": {
+            "mtype": [
+                "textTranslate",
+                "language",
+                "voice"
+            ]
+        },
+        "from": {
+            "name": null,
+            "path": "/",
+            "hash": "",
+            "query": {},
+            "params": {},
+            "fullPath": "/",
+            "meta": {}
+        }
+    },
+    "common": {
+        "CONFIG": {
+            "wuid": 1733634368415,
+            "loginInfo": {},
+            "isIE": 0,
+            "isHitSsrSwitch": true,
+            "isHitWritebookSwitch": false,
+            "isHitAmsSwitch": true,
+            "promotionList": "{\n    \"pc_bottom\":{\n        \"imgsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\",\n        \"qcsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\"\n    },\n    \"pc_middle\":[\n        {\n            \"src\":\"//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c\",\n            \"bgColor\":\"#ffffff\",\n            \"link\":\"\"\n        }\n    ],\n    \"pc_survey\":{\n        \"icon\":\"//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750\",\n        \"link\":\"https://wj.qq.com/s2/8193148/806d/\"\n    }\n}",
+            "bannerData": [],
+            "isHitAsideSurvey": false,
+            "secretCode": 109984457,
+            "uuid": "3e7859c3-14c9-43d0-bf34-38062d2096bb",
+            "referer": "",
+            "approveToken": "64F16AF1834A248D8583AE3EB136A39E863EF27C67552940",
+            "loadTime": 1733634368417,
+            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0",
+            "fcp": "31.223.184.69",
+            "temporaryId": "",
+            "fileId": ""
+        },
+        "hotWords": [],
+        "isFromCollect": false,
+        "psdModify": {
+            "currentStep": 1,
+            "scode": "",
+            "username": ""
+        },
+        "loginStatus": true,
+        "feedBackModule": false,
+        "showPromotionPopup": {
+            "show": false,
+            "type": ""
+        },
+        "showPromotionPCDownload": false,
+        "showShareBomb": false,
+        "shareData": null,
+        "showAppDownLoad": false,
+        "showLoginDialog": false,
+        "showLoading": {
+            "show": false
+        },
+        "toast": {
+            "show": false,
+            "text": "",
+            "loading": false
+        },
+        "modelToast": {
+            "show": false,
+            "text": ""
+        },
+        "selectionGlobalShow": true,
+        "selectionInfo": {
+            "left": 0,
+            "top": 0,
+            "show": false,
+            "from": "",
+            "to": "",
+            "val": "",
+            "area": ""
+        },
+        "showConfirmDialog": false,
+        "promotionList": {
+            "pc_bottom": {
+                "imgsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png",
+                "qcsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png"
+            },
+            "pc_middle": [
+                {
+                    "src": "//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c",
+                    "bgColor": "#ffffff",
+                    "link": ""
+                }
+            ],
+            "pc_survey": {
+                "icon": "//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750",
+                "link": "https://wj.qq.com/s2/8193148/806d/"
+            }
+        },
+        "transTypeTxt": "text",
+        "fixedTabStatus": 0,
+        "bodyTop": 0,
+        "ifHideUserOperation": false
+    },
+    "textTranslate": {
+        "prevTransQuery": "",
+        "translateData": {
+            "translate": {
+                "zly": "zly",
+                "errorCode": "0",
+                "qc_type": "1",
+                "index": "content0",
+                "from": "en",
+                "source": "sogou",
+                "text": "something",
+                "to": "zh-CHS",
+                "id": "3e7859c3-14c9-43d0-bf34-38062d2096bb",
+                "dit": "某物",
+                "orig_text": "something",
+                "md5": ""
+            },
+            "detect": {
+                "zly": "zly",
+                "detect": "en",
+                "errorCode": "0",
+                "language": "英语",
+                "id": "22814f30-b522-11ef-99a7-ed8c73f104a5",
+                "text": "something"
+            },
+            "sgtkn": "64F16AF3834A248D8583AE3EB136A39E863EF27C67552940",
+            "wordCard": {
+                "title": "something",
+                "show": true,
+                "usualDict": [
+                    {
+                        "values": [
+                            "某物；某事；一些东西；吃的东西；喝的东西；大致；左右；（与数字连用）…多岁；大约…岁；有价值的东西；重要的事物；聊以自慰的事；实有之物"
+                        ],
+                        "pos": "pron."
+                    },
+                    {
+                        "values": [
+                            "<口>非常；很；相当；多少；略为；在某种程度上；有些；有点；稍微；颇；几分；大约"
+                        ],
+                        "pos": "adv."
+                    }
+                ],
+                "secondQuery": "",
+                "exchange": {},
+                "levelList": [
+                    "小学",
+                    "初中",
+                    "高中",
+                    "四级",
+                    "六级",
+                    "考研"
+                ]
+            },
+            "detail": {
+                "synonym": [
+                    {
+                        "word_list": [
+                            "extremely",
+                            "badly",
+                            "highly",
+                            "greatly",
+                            "too"
+                        ],
+                        "pos": "adv.",
+                        "mean": "非常；有点；大约"
+                    }
+                ],
+                "affix": {
+                    "word": "something",
+                    "sub_affix_info_list": [
+                        {
+                            "affix": "some",
+                            "affix_mean": "det. 若干"
+                        },
+                        {
+                            "affix": "thing",
+                            "affix_mean": "n. 东西"
+                        }
+                    ],
+                    "word_mean": "pron. 某物"
+                },
+                "wordRootInfo": {
+                    "word_info_list": [
+                        {
+                            "word": "some",
+                            "pos_mean_info_list": [
+                                {
+                                    "pos": "adj.",
+                                    "mean": "一些；某一；大约"
+                                },
+                                {
+                                    "pos": "pron.",
+                                    "mean": "一些；若干"
+                                }
+                            ]
+                        },
+                        {
+                            "word": "somewhat",
+                            "pos_mean_info_list": [
+                                {
+                                    "pos": "adv.",
+                                    "mean": "有点；多少；几分；稍微"
+                                },
+                                {
+                                    "pos": "n.",
+                                    "mean": "几分；某物"
+                                }
+                            ]
+                        },
+                        {
+                            "word": "somebody",
+                            "pos_mean_info_list": [
+                                {
+                                    "pos": "n.",
+                                    "mean": "大人物；重要人物"
+                                },
+                                {
+                                    "pos": "pron.",
+                                    "mean": "有人；某人"
+                                }
+                            ]
+                        }
+                    ],
+                    "root_word": "some"
+                },
+                "word_group": [
+                    {
+                        "brief_definition": "给某人某物",
+                        "phrase": "give something to someone",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "习惯于某事/物",
+                        "phrase": "be used to something",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "出毛病",
+                        "phrase": "something wrong with",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "给某人某物",
+                        "phrase": "give someone something",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "有共同之处",
+                        "phrase": "have something in common",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "另外一件事, 别的东西",
+                        "phrase": "something else",
+                        "pos": "idm"
+                    },
+                    {
+                        "brief_definition": "诸如此类的什么",
+                        "phrase": "or something",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "在某种程度上",
+                        "phrase": "something of",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "外卖；拿走",
+                        "phrase": "take something away",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "能够做某事",
+                        "phrase": "be able to do something",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "把...分成",
+                        "phrase": "divide something into",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "切碎",
+                        "phrase": "cut something up",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "习惯于做某事",
+                        "phrase": "be accustomed to doing something",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "归咎于",
+                        "phrase": "blame something on",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "因某事责备某人",
+                        "phrase": "blame someone for something",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "以…为基础",
+                        "phrase": "base something on something",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "我（你或他等）有何权做某事",
+                        "phrase": "to do something",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "改善（或有损于）外观；改进（或降低）质量",
+                        "phrase": "do something for",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "不寻常的事；值得注意的事",
+                        "phrase": "really something",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "损伤",
+                        "phrase": "do something in",
+                        "pos": ""
+                    }
+                ],
+                "bilingual": [
+                    {
+                        "source": "A metaphor describes <em>something</em> as if it is <em>something</em> else.",
+                        "target": "暗喻将某物描述成另一物。",
+                        "url": ""
+                    },
+                    {
+                        "source": "<em>Something</em> has this if it looks really good.",
+                        "target": "如果某物看起来很好，它就有这个。",
+                        "url": ""
+                    },
+                    {
+                        "source": "When <em>something</em> decays, it helps feed new living things.",
+                        "target": "当某物腐烂时，它有助于滋养新的生物。",
+                        "url": ""
+                    },
+                    {
+                        "source": "A metaphor describes <em>something</em> as if it actually is <em>something</em> else.",
+                        "target": "隐喻将某物描述成另一种东西。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Got rid of <em>something</em> so that it does not happen or exist anymore.",
+                        "target": "摆脱某物使其不再发生或存在。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Apostrophes are also used to show us that <em>something</em> belongs to someone.",
+                        "target": "撇号也用于表示某物属于某人。",
+                        "url": ""
+                    },
+                    {
+                        "source": "An explanatory text explains a process or tells us how <em>something</em> works.",
+                        "target": "说明文解释一个过程或告诉我们某物如何运作。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Can you help me find <em>something</em>?",
+                        "target": "你能帮我找某物吗？",
+                        "url": ""
+                    },
+                    {
+                        "source": "I need <em>something</em> to write with.",
+                        "target": "我需要某物来写字。",
+                        "url": ""
+                    },
+                    {
+                        "source": "He is looking for <em>something</em> in his bag.",
+                        "target": "他在包里找某物。",
+                        "url": ""
+                    }
+                ],
+                "baike": {
+                    "showMore": true,
+                    "list": [
+                        {
+                            "lemmaTitle": "something",
+                            "link": "https://baike.sogou.com/v46447512.htm?ch=sogou.fanyi",
+                            "abstract": "something（[ˈsʌmθɪŋ]），英文单词，作代词为某物；某事；若干。作副词为很；非常；有点。短语搭配有give something to someone（给某人某物）。例句为“People donated money and something else, and Ewan handed them out to those in need.（人们捐了钱和其他东西，伊万把它们分发给有需要的人。）”。 该单词的副词类近义词为extremely、badly、highly、greatly、too。",
+                            "wapPic": "//img04.sogoucdn.com/v2/thumb/retype_exclude_gif/ext/auto/q/80/crop/xy/ai/w/140/h/140/resize/w/140?appid=201005&sign=d5fdd62e5f73ed0837d8355fefc73ecf&url=https%3A%2F%2Fpic.baike.soso.com%2Fugc%2Fbaikepic2%2F0%2F20240507125314-1184207173_png_675_475_7396.jpg%2F0",
+                            "pcPic": "//img01.sogoucdn.com/v2/thumb/retype_exclude_gif/ext/auto/q/80/crop/xy/ai/w/140/h/140/resize/w/140?appid=201005&sign=d5fdd62e5f73ed0837d8355fefc73ecf&url=https%3A%2F%2Fpic.baike.soso.com%2Fugc%2Fbaikepic2%2F0%2F20240507125314-1184207173_png_675_475_7396.jpg%2F0"
+                        },
+                        {
+                            "lemmaTitle": "something",
+                            "link": "https://baike.sogou.com/v147914499.htm?ch=sogou.fanyi",
+                            "abstract": "Girl's day新专辑\"something\"是东张西望的男人撒谎对女人说爱她。描绘出了他们之间各种细微的情感还有他们怎么对待他们的关系。 舞曲普遍都是和电子音乐配对着，但这次不用电子音乐反而是用hip hop groove的风格和原声乐器。这是为了更突出Girl's day的声音。成员们不同的音域，包括假声，还有值得一提的是她们戏剧性的变现出了女人们的感受：爱是夺门的痛、爱会给你带来眼泪、还有爱普遍的都很困难。",
+                            "wapPic": "//img04.sogoucdn.com/v2/thumb/retype_exclude_gif/ext/auto/q/80/crop/xy/ai/w/140/h/140/resize/w/140?appid=201005&sign=494ae814d6abc31f0fd7cf0c3cdaebd6&url=https%3A%2F%2Fpic.baike.soso.com%2Fugc%2Fbaikepic2%2F11449%2F20220513172808-1696074423_jpeg_1024_682_97054.jpg%2F0",
+                            "pcPic": "//img04.sogoucdn.com/v2/thumb/retype_exclude_gif/ext/auto/q/80/crop/xy/ai/w/140/h/140/resize/w/140?appid=201005&sign=494ae814d6abc31f0fd7cf0c3cdaebd6&url=https%3A%2F%2Fpic.baike.soso.com%2Fugc%2Fbaikepic2%2F11449%2F20220513172808-1696074423_jpeg_1024_682_97054.jpg%2F0"
+                        }
+                    ]
+                }
+            },
+            "book": {
+                "yingyinNormal": [
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/f012eb5fd120cc2d5b68f18e3d0e7c8c_67362.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/0146c570e376e954bda97ae34295bbf3_42729.mp3",
+                        "isLavafox": true,
+                        "en": "Okay. I guess it's <em>something</em>. It's <em>something</em>.",
+                        "zh": "好吧，我想这还挺不错的。是挺不错的。",
+                        "videoNameZh": "《傲骨贤妻 第五季》",
+                        "videoNameEn": "《The Good Wife Season 5》",
+                        "url": "http://bisentence_movie.sogou.com/90eae078fc1b4ed5c2b6c12ca6f63f3c_13b31a4406a937c139d70758f8d2e3c3f7473245"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/fbd36068a45ee4cc0e4a4e35ee0653bd_43525.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/33e9c798061762789c0dc070b831165b_21653.mp3",
+                        "isLavafox": true,
+                        "en": "Maybe it means <em>something</em> more, <em>something</em> we can't yet understand.",
+                        "zh": "也许这有更深的意义，那些我们还无法理解的。",
+                        "videoNameZh": "《星际穿越》",
+                        "videoNameEn": "《Interstellar》",
+                        "url": "http://bisentence_movie.sogou.com/8deeb3ee1860ff02224e8dd7985fbb1c_9d0cd5eff00101094ad436de82ae3645074f5f54"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/3cc7f04bc4e6bde5cc691b286df1a676_37630.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/50243a108e86cf782a71f7538795587e_69735.mp3",
+                        "isLavafox": true,
+                        "en": "You know, I just always pictured myself doing <em>something</em>, <em>something</em>.",
+                        "zh": "我总是想像自己能做点事情，事情。",
+                        "videoNameZh": "《老友记第一季》",
+                        "videoNameEn": "《Friends Season 1》",
+                        "url": "http://bisentence_movie.sogou.com/34d3edcb5ee0e8fabcac36414c9e952a_19648b5312115b6a00816b99e6cafd7b17b132f9"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/3f86fa9dca75619883a88b3b0e866f56_16599.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/2e0f3261f0085754442e1378074e5680_56053.mp3",
+                        "isLavafox": true,
+                        "en": "We have to do <em>something</em>.",
+                        "zh": "我们必须采取行动",
+                        "videoNameZh": "《X战警：第一战》",
+                        "videoNameEn": "《X-Men: First Class》",
+                        "url": "http://bisentence_movie.sogou.com/7e41f631a99aab905108ed9dc31bc312_99e50c91d3e504db313ffd4bb1dc9709ec090dd7"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/e467156305f6c767dff48dd0b161ca0d_48791.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/35b9daf1ec383c1bc2f29ff8c3778825_19828.mp3",
+                        "isLavafox": true,
+                        "en": "Shawn, did I do <em>something</em>？",
+                        "zh": "肖恩，我做了什么吗？",
+                        "videoNameZh": "《源代码》",
+                        "videoNameEn": "《Source Code》",
+                        "url": "http://bisentence_movie.sogou.com/8c92ed119f1bbb328ab7d07d89832de1_9d6d98edec5882012f41c6b163af8a1c1aa8201c"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/f7d7167294560b5a445295985c93469c_14515.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/ffd58be586f3635c5b30645beb7f3abb_74125.mp3",
+                        "isLavafox": true,
+                        "en": "I'd like to say <em>something</em>.",
+                        "zh": "我想说两句。",
+                        "videoNameZh": "《生活大爆炸 第十季》",
+                        "videoNameEn": "《The Big Bang Theory Season 10》",
+                        "url": "http://bisentence_movie.sogou.com/6d400dddaefaed989be073826e92cff4_f3936a2d6cbe0d2fa8b03a38ce2d64209a0017b7"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/625c0890e8315f7c9f6a34088e8124da_23511.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/30eae8067aaeb9ba9fdf1f8b60691d63_53656.mp3",
+                        "isLavafox": true,
+                        "en": "Did it do <em>something</em> wrong?",
+                        "zh": "它做什么错事了吗？",
+                        "videoNameZh": "《情妇 第二季》",
+                        "videoNameEn": "《Mistresses Season 2》",
+                        "url": "http://bisentence_movie.sogou.com/2088b69b2e886022ca7b508e7c86f421_87a78d108d3b8a26160b5e37866fdf437696c909"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/95bf83fa9c39ec4f55b8511dc0c4ed29_55630.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/3f54f81ab43e7a475c1a78c3ce4d1711_5066.mp3",
+                        "isLavafox": true,
+                        "en": "Did I do <em>something</em> to you?",
+                        "zh": "我是不是和你有什么过节？",
+                        "videoNameZh": "《老友记 第十季》",
+                        "videoNameEn": "《Friends Season 10》",
+                        "url": "http://bisentence_movie.sogou.com/e5bb74ddd0e49588bb09b03de50d65b4_80c13857a93561d7690cf48ac440a525809c767b"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/83bcab8039fa5140ba0e29ca21fce0eb_17113.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/5cd87a0c4ff29d46ac740137f891f811_61406.mp3",
+                        "isLavafox": true,
+                        "en": "I have to tell you <em>something</em>.",
+                        "zh": "我有话要和你说。",
+                        "videoNameZh": "《遇见你之前》",
+                        "videoNameEn": "《Me before you》",
+                        "url": "http://bisentence_movie.sogou.com/f316d7ba7c39dacd290965dd7593711e_fb4f05a010e78f55aed9eb239947676d30b2e67b"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/f012eb5fd120cc2d5b68f18e3d0e7c8c_67362.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/17bf2ed4a043ec48c07779a931526456_69848.mp3",
+                        "isLavafox": true,
+                        "en": "It's time I try <em>something</em> new.",
+                        "zh": "是时候我尝试一些新的东西。",
+                        "videoNameZh": "《傲骨贤妻 第五季》",
+                        "videoNameEn": "《The Good Wife Season 5》",
+                        "url": "http://bisentence_movie.sogou.com/fff9a0e0968e014594b070bc52cd3eeb_6184d5918233c20c0cf87aa0d2bf6df4764debb6"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/b27a0ff79100dfea4af89238f0bf1176_48419.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/46053b4fe2df8b44284a28eaaf66f7d6_6585.mp3",
+                        "isLavafox": true,
+                        "en": "You want get <em>something</em> to eat?",
+                        "zh": "你想吃点东西吗?",
+                        "videoNameZh": "《功夫熊猫》",
+                        "videoNameEn": "《Kung Fu Panda》",
+                        "url": "http://bisentence_movie.sogou.com/dbdf197f8ef85f6baa76069d52213b75_e48c275c681c63da1278a2f1c327d168c2925167"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/5bb981942caf87340ead3bfbb6c619e6_40098.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/db28f879675329d638bd1d91d37157f2_17347.mp3",
+                        "isLavafox": true,
+                        "en": "Can't your father do <em>something</em>?",
+                        "zh": "你爸爸不能作什么吗？",
+                        "videoNameZh": "《海绵宝宝历险记》",
+                        "videoNameEn": "《The SpongeBob SquarePants Movie》",
+                        "url": "http://bisentence_movie.sogou.com/749824263ceb28cde0214764641a5565_9cd399d7decce08e08138bc0fd96cef0208a3784"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/4bce173228bf81079afce38020f15ffd_13179.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/4cb0bc18ecf9c94b9d5ffbfe3d04b8d3_3720.mp3",
+                        "isLavafox": true,
+                        "en": "Don't say <em>something</em> stupid, Kim.",
+                        "zh": "别说傻话，小金。",
+                        "videoNameZh": "《采访》",
+                        "videoNameEn": "《The Interview》",
+                        "url": "http://bisentence_movie.sogou.com/dfc72668c814dfbddca32ab0c76334b2_130e8478fceca9f3ebe0159e2960416bd44e29c6"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/368277e4523e7b27b12887e16057df56_64015.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/9451805d5b3eebe5e72da40316966586_35682.mp3",
+                        "isLavafox": true,
+                        "en": "<em>Something</em> else is troubling you.",
+                        "zh": "你还有别的烦心事。",
+                        "videoNameZh": "《西部世界 第一季》",
+                        "videoNameEn": "《Westworld Season 1》",
+                        "url": "http://bisentence_movie.sogou.com/36f9c3d8278ef0aecfcf83e6a95b0e3b_42a406d1f622522983c51fbdc5d552f70f76bf2f"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/2932ffdc99c11566a817682dbb06e964_57579.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/43b87970ddd3f4af0047cddbec6904e1_38709.mp3",
+                        "isLavafox": true,
+                        "en": "Is <em>something</em> funny? Go on, Alai.",
+                        "zh": "什么事这么好笑？继续 阿莱。",
+                        "videoNameZh": "《安德的游戏》",
+                        "videoNameEn": "《Enders Game》",
+                        "url": "http://bisentence_movie.sogou.com/bb41b2e2a7c450d9d2bb4ca85dd300a5_ed1bd8dd6e65a6f661536f60c5ad716ac139743c"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/0874ab49bec571fad2481e4608394e9f_8544.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/59cf46d9a9062015c90d8c0295624ffa_20508.mp3",
+                        "isLavafox": true,
+                        "en": "What are you, a cop or <em>something</em>?",
+                        "zh": "你是警察还是什么？",
+                        "videoNameZh": "《前目的地》",
+                        "videoNameEn": "《Predestination》",
+                        "url": "http://bisentence_movie.sogou.com/8f2888d1ac3efd2b5adae9209ae029cc_d5da32395ab7e75782fc09a2638246c85f3da216"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/d67496d18ec93ce1f31c004316546728_12072.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/5f5020e3da53c22389d465037461c4c3_31637.mp3",
+                        "isLavafox": true,
+                        "en": "Can I have <em>something</em> else to eat?",
+                        "zh": "我能不能吃点别的？",
+                        "videoNameZh": "《房间》",
+                        "videoNameEn": "《Room》",
+                        "url": "http://bisentence_movie.sogou.com/badc79b599b8806480bc20642e488221_cf214dba937ee878645aa3dc64f6ddbeae19b467"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/8a5b25dfe5e482fce849895959f35aba_1648.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/cc5cdf1daadbac144b1b05289e7235f9_54361.mp3",
+                        "isLavafox": true,
+                        "en": "<em>Something</em> else I might have said?",
+                        "zh": "我说错了什么吗？",
+                        "videoNameZh": "《老友记 第三季》",
+                        "videoNameEn": "《Friends Season 3》",
+                        "url": "http://bisentence_movie.sogou.com/ae7616c987e463cad22613af8bc6c21d_11f5d50f92a00b6d0080ded8cda96acbf219bb74"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/d67496d18ec93ce1f31c004316546728_12072.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/3fcce22a6b523ac2a455f2645427e2b0_65403.mp3",
+                        "isLavafox": true,
+                        "en": "You think the kid's on <em>something</em>?",
+                        "zh": "你觉得孩子能知道点什么？",
+                        "videoNameZh": "《房间》",
+                        "videoNameEn": "《Room》",
+                        "url": "http://bisentence_movie.sogou.com/cdb8da4a85ba9413783f1644c06f84b1_9649ffc87de22b52d55c133c836f64c00172eca4"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/b73d6e20976b7ffe4e651b29ea5ddefc_31309.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/6552c19a4b6557ace2cbf2acca42f5cf_41891.mp3",
+                        "isLavafox": true,
+                        "en": "Look. It's going to do <em>something</em>.",
+                        "zh": "你看，她好像要做点什么了。",
+                        "videoNameZh": "《粉红猪小妹 第二季》",
+                        "videoNameEn": "《Peppa Pig Season 2》",
+                        "url": "http://bisentence_movie.sogou.com/aac73a5280a46810eacadcafd127ae9f_39bc796e0f943da850a982f7862d57ccc4f61339"
+                    }
+                ]
+            },
+            "pic": "",
+            "voice": {
+                "phonetic": [
+                    {
+                        "text": "ˈsʌmθɪŋ",
+                        "type": "uk",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/940_something_uk.mp3"
+                    },
+                    {
+                        "text": "ˈsʌmθɪŋ",
+                        "type": "usa",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/940_something_usa.mp3"
+                    }
+                ]
+            },
+            "dictType": "oxford_buchong",
+            "CET6": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 78,
+                        "pos": "n",
+                        "chinese": "某物; 某事; 重要事物",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "something",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2016.6-2023.6年8年间全六级试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight>考纲释义</highlight>\n精选实考、考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2016-2023年51套试卷，包括阅读、听力、翻译等所有题型。\n\n<highlight>真题例句</highlight>\n精选2016-2023年8年间全六级试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 5,
+                "word_family": {
+                    "derivative_info_list": [
+                        {
+                            "derivative_info_list": [],
+                            "word": "someday",
+                            "mean": "adv. 有朝一日；有一天"
+                        },
+                        {
+                            "derivative_info_list": [],
+                            "word": "someone",
+                            "mean": "pron. 某人；有人；重要的人；有权力的人"
+                        },
+                        {
+                            "derivative_info_list": [],
+                            "word": "sometimes",
+                            "mean": "adv. 有时候"
+                        },
+                        {
+                            "derivative_info_list": [],
+                            "word": "something",
+                            "mean": "pron. 某物；某事；若干；什么；差不多"
+                        },
+                        {
+                            "derivative_info_list": [],
+                            "word": "somehow",
+                            "mean": "adv. 以某种方式；用某种方法；不知什么原因"
+                        },
+                        {
+                            "derivative_info_list": [],
+                            "word": "sometime",
+                            "mean": "adv. 某个时候；从前；一度"
+                        },
+                        {
+                            "derivative_info_list": [],
+                            "word": "somebody",
+                            "mean": "pron. 某人；有人；重要人物；当权人物"
+                        }
+                    ],
+                    "word": "some",
+                    "mean": "det. 若干；一些；某个；大约；大量的；可观的；至少有一点；了不起的；很不错的；一点也不"
+                },
+                "total_exam_freq": 78,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "某物; 某事; 重要事物",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "It was <highlight>something</highlight> he apologized for later.",
+                                    "month": 6,
+                                    "source": "CET6",
+                                    "coll": "",
+                                    "sentence_trans": "这是他后来为之道歉的事。",
+                                    "year": 2021,
+                                    "type": "听力",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "There's <highlight>something</highlight> about the founder's energy and enthusiasm that infects the rest of the team.",
+                                    "month": 6,
+                                    "source": "CET6",
+                                    "coll": "",
+                                    "sentence_trans": "创始人的活力和热情感染了团队的其他成员。",
+                                    "year": 2021,
+                                    "type": "听力",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "<highlight>Something</highlight> as complex as intellect is likely to be affected by many factors beyond genes.",
+                                    "month": 6,
+                                    "source": "CET6",
+                                    "coll": "",
+                                    "sentence_trans": "像智力这样复杂的东西很可能会受到基因以外的许多因素的影响。",
+                                    "year": 2021,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "word_affix": {
+                    "word": "something",
+                    "sub_affix_info_list": [
+                        {
+                            "affix": "some",
+                            "affix_mean": "det. 若干"
+                        },
+                        {
+                            "affix": "thing",
+                            "affix_mean": "n. 东西"
+                        }
+                    ],
+                    "word_mean": "pron. 某物"
+                }
+            },
+            "CET4": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 106,
+                        "pos": "pron",
+                        "chinese": "某物; 某事",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "something",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2016.6-2023.6年8年间全四级试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight>考纲释义</highlight>\n精选实考、考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2016-2023年51套试卷，包括阅读、听力、翻译等所有题型。\n\n<highlight>真题例句</highlight>\n精选2016-2023年8年间试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 5,
+                "total_exam_freq": 106,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "某物; 某事",
+                            "pos": "pron",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "He wanted to conceal <highlight>something</highlight> from his parents.",
+                                    "month": 6,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "他想对父母隐瞒一些事情。",
+                                    "year": 2021,
+                                    "type": "听力",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "His teacher recognized Joe's talent and posted all his work online, which led to <highlight>something</highlight> pretty wonderful.",
+                                    "month": 6,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "他的老师认可乔的才华，并把他所有的作品都发布在网上，这使得一些非常精彩的事情发生了。",
+                                    "year": 2021,
+                                    "type": "听力",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "They will find they have <highlight>something</highlight> in common.",
+                                    "month": 6,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "他们会发现他们有一些共同之处。",
+                                    "year": 2021,
+                                    "type": "听力",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "word_affix": {
+                    "word": "something",
+                    "sub_affix_info_list": [
+                        {
+                            "affix": "some",
+                            "affix_mean": "det. 若干"
+                        },
+                        {
+                            "affix": "thing",
+                            "affix_mean": "n. 东西"
+                        }
+                    ],
+                    "word_mean": "pron. 某物"
+                },
+                "word_usage": [
+                    {
+                        "usage": "something在作主语时，其谓语动词和相应的代词均用单数：\nThere was something wrong with the machine.\n这台机器有些故障。\n当有形容词修饰something时，形容词一般放在其后：\nI have something important to tell you.\n我有重要的事情告诉你。"
+                    }
+                ]
+            },
+            "gaokao": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 32,
+                        "pos": "n",
+                        "chinese": "某物; 某事",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "something",
+                "total_exam_freq": 32,
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2015-2022年8年间全国卷和自主命题省市高考卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2015-2022年全国卷高考试卷，包括阅读、完形、单选、填空、听力、改错、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选各省市考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2015-2022年8年间全国卷和自主命题省市高考卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 5,
+                "word_family": {
+                    "derivative_info_list": [
+                        {
+                            "derivative_info_list": [],
+                            "word": "someone",
+                            "mean": "pron. 某人；有人；重要的人；有权力的人"
+                        },
+                        {
+                            "derivative_info_list": [],
+                            "word": "sometimes",
+                            "mean": "adv. 有时候"
+                        },
+                        {
+                            "derivative_info_list": [],
+                            "word": "something",
+                            "mean": "pron. 某物；某事；若干；什么；差不多"
+                        },
+                        {
+                            "derivative_info_list": [],
+                            "word": "somehow",
+                            "mean": "adv. 以某种方式；用某种方法；不知什么原因"
+                        },
+                        {
+                            "derivative_info_list": [],
+                            "word": "sometime",
+                            "mean": "adv. 某个时候；从前；一度"
+                        },
+                        {
+                            "derivative_info_list": [],
+                            "word": "somebody",
+                            "mean": "pron. 某人；有人；重要人物；当权人物"
+                        }
+                    ],
+                    "word": "some",
+                    "mean": "det. 若干；一些；某个；大约；大量的；可观的；至少有一点；了不起的；很不错的；一点也不"
+                },
+                "word_level_phrase_info": [
+                    {
+                        "brief_definition": "习惯于某事/物",
+                        "phrase": "be used to something",
+                        "pos": "phr."
+                    },
+                    {
+                        "brief_definition": "给某人某物",
+                        "phrase": "give something to someone",
+                        "pos": "phr."
+                    },
+                    {
+                        "brief_definition": "给某人某物",
+                        "phrase": "give someone something",
+                        "pos": "phr."
+                    }
+                ],
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "某物; 某事",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "After doing some research, I believed that we could really do <highlight>something</highlight> for those kids.",
+                                    "month": -1,
+                                    "source": "北京卷",
+                                    "coll": "",
+                                    "sentence_trans": "在进行了一些调查后，我相信我们真的能为那些孩子们做点事情。",
+                                    "year": 2021,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "During an interview for one of my books, my interviewer said <highlight>something</highlight> I still think about often.",
+                                    "month": -1,
+                                    "source": "全国乙卷",
+                                    "coll": "",
+                                    "sentence_trans": "在有关我一本书的采访当中，采访者说了一些我仍会经常想起的事情。",
+                                    "year": 2021,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "He discovered that he could earn some money while doing <highlight>something</highlight> he really enjoyed.",
+                                    "month": -1,
+                                    "source": "全国卷3",
+                                    "coll": "",
+                                    "sentence_trans": "他发现他可以一边赚钱，一边做他真正喜欢的事情。",
+                                    "year": 2019,
+                                    "type": "听力",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "word_affix": {
+                    "word": "something",
+                    "sub_affix_info_list": [
+                        {
+                            "affix": "some",
+                            "affix_mean": "det. 若干"
+                        },
+                        {
+                            "affix": "thing",
+                            "affix_mean": "n. 东西"
+                        }
+                    ],
+                    "word_mean": "pron. 某物"
+                },
+                "word_usage": [
+                    {
+                        "usage": "something在作主语时，其谓语动词和相应的代词均用单数：\nThere was something wrong with the machine.\n这台机器有些故障。\n当有形容词修饰something时，形容词一般放在其后：\nI have something important to tell you.\n我有重要的事情告诉你。"
+                    }
+                ]
+            },
+            "zhongkao": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 534,
+                        "pos": "pron",
+                        "chinese": "某物; 某事",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "something",
+                "word_level_phrase_info": [
+                    {
+                        "brief_definition": "出毛病",
+                        "phrase": "something wrong with",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "有共同之处",
+                        "phrase": "have something in common",
+                        "pos": ""
+                    }
+                ],
+                "direction_info": {
+                    "ranges": 4,
+                    "description": "数据源自2018-2021年4年间全国各省市中考试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2018-2021年全国重点省市中考试卷，包括听力、阅读、完形、单选、填空、改错、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选各省市考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2018-2021年4年间全国各省市中考试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 5,
+                "word_family": {
+                    "derivative_info_list": [
+                        {
+                            "derivative_info_list": [],
+                            "word": "someday",
+                            "mean": "adv. 有朝一日；有一天"
+                        },
+                        {
+                            "derivative_info_list": [],
+                            "word": "someone",
+                            "mean": "pron. 某人；有人；重要的人；有权力的人"
+                        },
+                        {
+                            "derivative_info_list": [],
+                            "word": "sometimes",
+                            "mean": "adv. 有时候"
+                        },
+                        {
+                            "derivative_info_list": [],
+                            "word": "something",
+                            "mean": "pron. 某物；某事；若干；什么；差不多"
+                        },
+                        {
+                            "derivative_info_list": [],
+                            "word": "somehow",
+                            "mean": "adv. 以某种方式；用某种方法；不知什么原因"
+                        },
+                        {
+                            "derivative_info_list": [],
+                            "word": "sometime",
+                            "mean": "adv. 某个时候；从前；一度"
+                        },
+                        {
+                            "derivative_info_list": [],
+                            "word": "somebody",
+                            "mean": "pron. 某人；有人；重要人物；当权人物"
+                        }
+                    ],
+                    "word": "some",
+                    "mean": "det. 若干；一些；某个；大约；大量的；可观的；至少有一点；了不起的；很不错的；一点也不"
+                },
+                "total_exam_freq": 534,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "某物; 某事",
+                            "pos": "pron",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "What should Mary always say when she asks for <highlight>something</highlight> in Britain?",
+                                    "month": -1,
+                                    "source": "临沂市卷",
+                                    "coll": "",
+                                    "sentence_trans": "在英国，当玛丽提出要求时，她应该说什么？",
+                                    "year": 2021,
+                                    "type": "听写",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "And you’ll feel good about doing <highlight>something</highlight> that helps people or improves the places around you.",
+                                    "month": -1,
+                                    "source": "丽水市卷",
+                                    "coll": "",
+                                    "sentence_trans": "做一些能帮助他人或改善周围环境的事情，你会感觉很好。",
+                                    "year": 2021,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Let's call Cathy and she may know <highlight>something</highlight> about it.",
+                                    "month": -1,
+                                    "source": "昆明市",
+                                    "coll": "",
+                                    "sentence_trans": "我们打电话给凯茜，她可能知道一些事情。",
+                                    "year": 2020,
+                                    "type": "单项选择",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "word_affix": {
+                    "sub_affix_info_list": [
+                        {
+                            "affix": "some",
+                            "affix_mean": "det. 若干"
+                        },
+                        {
+                            "affix": "thing",
+                            "affix_mean": "n. 东西"
+                        }
+                    ],
+                    "word": "something",
+                    "word_mean": "pron. 某物"
+                },
+                "disambiguation": [
+                    {
+                        "disambiguation_list": [
+                            {
+                                "word": "something",
+                                "sense_disambiguation": "表示“某事；某物”，通常用在肯定句中；something还可以用在表示邀请、请求或期待得到肯定回答的疑问句中。"
+                            },
+                            {
+                                "word": "anything",
+                                "sense_disambiguation": "表示“某事；某物”，通常用在否定句或疑问句中；还可以表示“任何事；任何东西”，此时可以用在肯定句中。"
+                            }
+                        ],
+                        "sense_group": "某事；某物"
+                    }
+                ]
+            },
+            "sentencesData": {
+                "status": 1,
+                "info": "notZh2En",
+                "data": {}
+            },
+            "isAutoMatch": false,
+            "Zh2En": false
+        },
+        "query": "something",
+        "result": "某物",
+        "tabSelect": "detail",
+        "dictionaryType": "oxford_buchong",
+        "notFound_show": false,
+        "phoneticShow": "",
+        "globalShowTranslateRecord": "",
+        "pronPrefer": {
+            "type": "usa_1",
+            "speaker": "male",
+            "speed": "standard"
+        },
+        "ServerRecord": "",
+        "ServerUIGS": {
+            "version": "new",
+            "type": "all",
+            "stype": "success",
+            "terminal": "web",
+            "fr": "default",
+            "direction": "etoz",
+            "from": "en",
+            "to": "zh-CHS",
+            "len": 9,
+            "qtype": "text",
+            "qctype": "qc_1",
+            "dict_cover": 1,
+            "detail": 1,
+            "wordCardCover": 1,
+            "wordCardEn": 1,
+            "wordCardCh": 0,
+            "wordCardMinor": 0,
+            "wordCardNetmean": 0,
+            "wordDeform": 0,
+            "keyword": 0,
+            "bilingual": 1,
+            "simple": 0,
+            "levelList": 1,
+            "synonym": 1,
+            "antonym": 0,
+            "conjugate": 1,
+            "rootaffix": 1,
+            "baike_sogou": 1,
+            "baike_wiki": 0,
+            "wordDifference": 0,
+            "word_phrase": 1,
+            "secondQuery": 0,
+            "dict_oxford": 0,
+            "dict_newcentury": 0,
+            "zhongkaotab": 1,
+            "gaokaotab": 1,
+            "CET4tab": 1,
+            "CET6tab": 1,
+            "kaoyantab": 0,
+            "network_tab": 0,
+            "yinying_tab": 1,
+            "tuozhan_tab": 0,
+            "one_pic": 0,
+            "more_pic": 0,
+            "no_pic": 0,
+            "uuid": "3e7859c3-14c9-43d0-bf34-38062d2096bb",
+            "from_type": 0,
+            "t_trans_ssr": 237
+        },
+        "ServerModelUIGS": {
+            "terminal": "web",
+            "type": "trans_model",
+            "pbtype": "pv",
+            "model_general": 1,
+            "model_medical": 1,
+            "model_finance": 1
+        },
+        "ServerSgtkn": "64F16AF3834A248D8583AE3EB136A39E863EF27C67552940",
+        "suggShow": false,
+        "suggestion": "",
+        "suggDirection": "",
+        "usualTop": "",
+        "baseDict": "",
+        "wordCardClick": false,
+        "isFrInput": false,
+        "kanaTips": {
+            "show": false,
+            "left": "",
+            "top": "",
+            "type": "",
+            "arrowLeft": ""
+        },
+        "currSentenceIndex": -1,
+        "prefixStrObj": {
+            "prefixStr": "",
+            "oriPrefixStr": ""
+        },
+        "selectTransBox": {
+            "show": false,
+            "right": 0,
+            "top": 0,
+            "paraphraseInfo": {
+                "word": "",
+                "from": "",
+                "to": "",
+                "area": ""
+            }
+        },
+        "sentenceLoading": false,
+        "newSentenceInfo": {
+            "sentence": "",
+            "candidateIndex": 0
+        },
+        "moreTipInfo": {
+            "opacity": 0,
+            "zIndex": -1
+        },
+        "paraphraseShowInfo": {
+            "card": 0,
+            "query": "",
+            "card_dict": 0
+        },
+        "selectType": "",
+        "wordPos": 0,
+        "candidateWord": "",
+        "syntaxVisible": false,
+        "syntaxStatus": 0
+    },
+    "language": {
+        "from": "auto",
+        "to": "zh-CHS",
+        "detect": "en",
+        "model": "general",
+        "detectShow": false,
+        "langMap": {
+            "current": ""
+        },
+        "zh2en": false,
+        "fromItemList": [
+            {
+                "lang": "auto",
+                "text": "自动检测",
+                "play": false
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "ru",
+                "text": "俄语",
+                "play": true,
+                "abbr": "俄"
+            },
+            {
+                "lang": "th",
+                "text": "泰语",
+                "play": true,
+                "abbr": "泰"
+            },
+            {
+                "lang": "vi",
+                "text": "越南语",
+                "play": true,
+                "abbr": "越"
+            }
+        ],
+        "toItemList": [
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "fr",
+                "text": "法语",
+                "play": true,
+                "abbr": "法"
+            },
+            {
+                "lang": "vi",
+                "text": "越南语",
+                "play": true,
+                "abbr": "越"
+            },
+            {
+                "lang": "ko",
+                "text": "韩语",
+                "play": true,
+                "abbr": "韩"
+            }
+        ]
+    },
+    "voice": {
+        "from": {
+            "lang": "en",
+            "type": "from",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22something%22%2C%22spokenDialect%22%3A%22en%22%2C%22rate%22%3A%220.8%22%7D",
+            "list": [
+                {
+                    "type": "uk_0",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "ˈsʌmθɪŋ",
+                    "abbr": "英",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/940_something_uk.mp3"
+                },
+                {
+                    "type": "usa_1",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "ˈsʌmθɪŋ",
+                    "abbr": "美",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/940_something_usa.mp3"
+                }
+            ],
+            "stype": "phonetic",
+            "phoneticShow": [
+                {
+                    "text": "ˈsʌmθɪŋ",
+                    "type": "uk",
+                    "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/940_something_uk.mp3"
+                }
+            ]
+        },
+        "to": {
+            "lang": "zh",
+            "type": "to",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22%E6%9F%90%E7%89%A9%22%2C%22spokenDialect%22%3A%22zh-CHS%22%2C%22rate%22%3A%220.8%22%7D",
+            "stype": "normal"
+        }
+    }
+}

@@ -1,0 +1,892 @@
+{
+    "route": {
+        "name": "text",
+        "path": "/text",
+        "hash": "",
+        "query": {
+            "keyword": "nine",
+            "transfrom": "auto",
+            "transto": "zh-CHS",
+            "model": "general",
+            "errcode": "s10"
+        },
+        "params": {},
+        "fullPath": "/text?keyword=nine&transfrom=auto&transto=zh-CHS&model=general&errcode=s10",
+        "meta": {
+            "mtype": [
+                "textTranslate",
+                "language",
+                "voice"
+            ]
+        },
+        "from": {
+            "name": null,
+            "path": "/",
+            "hash": "",
+            "query": {},
+            "params": {},
+            "fullPath": "/",
+            "meta": {}
+        }
+    },
+    "common": {
+        "CONFIG": {
+            "wuid": 1733634058688,
+            "loginInfo": {},
+            "isIE": 0,
+            "isHitSsrSwitch": true,
+            "isHitWritebookSwitch": false,
+            "isHitAmsSwitch": true,
+            "promotionList": "{\n    \"pc_bottom\":{\n        \"imgsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\",\n        \"qcsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\"\n    },\n    \"pc_middle\":[\n        {\n            \"src\":\"//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c\",\n            \"bgColor\":\"#ffffff\",\n            \"link\":\"\"\n        }\n    ],\n    \"pc_survey\":{\n        \"icon\":\"//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750\",\n        \"link\":\"https://wj.qq.com/s2/8193148/806d/\"\n    }\n}",
+            "bannerData": [],
+            "isHitAsideSurvey": false,
+            "secretCode": 109984457,
+            "uuid": "38273b95-4425-41d6-b34d-f2074e05b6cc",
+            "referer": "",
+            "approveToken": "64F027B8EA2A44EDE5E0CD5DC4D8F4FDE6A1751E6755280A",
+            "loadTime": 1733634058690,
+            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0",
+            "fcp": "31.223.184.69",
+            "temporaryId": "",
+            "fileId": ""
+        },
+        "hotWords": [],
+        "isFromCollect": false,
+        "psdModify": {
+            "currentStep": 1,
+            "scode": "",
+            "username": ""
+        },
+        "loginStatus": true,
+        "feedBackModule": false,
+        "showPromotionPopup": {
+            "show": false,
+            "type": ""
+        },
+        "showPromotionPCDownload": false,
+        "showShareBomb": false,
+        "shareData": null,
+        "showAppDownLoad": false,
+        "showLoginDialog": false,
+        "showLoading": {
+            "show": false
+        },
+        "toast": {
+            "show": false,
+            "text": "",
+            "loading": false
+        },
+        "modelToast": {
+            "show": false,
+            "text": ""
+        },
+        "selectionGlobalShow": true,
+        "selectionInfo": {
+            "left": 0,
+            "top": 0,
+            "show": false,
+            "from": "",
+            "to": "",
+            "val": "",
+            "area": ""
+        },
+        "showConfirmDialog": false,
+        "promotionList": {
+            "pc_bottom": {
+                "imgsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png",
+                "qcsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png"
+            },
+            "pc_middle": [
+                {
+                    "src": "//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c",
+                    "bgColor": "#ffffff",
+                    "link": ""
+                }
+            ],
+            "pc_survey": {
+                "icon": "//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750",
+                "link": "https://wj.qq.com/s2/8193148/806d/"
+            }
+        },
+        "transTypeTxt": "text",
+        "fixedTabStatus": 0,
+        "bodyTop": 0,
+        "ifHideUserOperation": false
+    },
+    "textTranslate": {
+        "prevTransQuery": "",
+        "translateData": {
+            "translate": {
+                "zly": "zly",
+                "errorCode": "0",
+                "qc_type": "1",
+                "index": "content0",
+                "from": "en",
+                "source": "sogou",
+                "text": "nine",
+                "to": "zh-CHS",
+                "id": "38273b95-4425-41d6-b34d-f2074e05b6cc",
+                "dit": "九",
+                "orig_text": "nine",
+                "md5": ""
+            },
+            "detect": {
+                "zly": "zly",
+                "detect": "en",
+                "errorCode": "0",
+                "language": "英语",
+                "id": "69e5f0c0-b521-11ef-985b-8f7e85999dd6",
+                "text": "nine"
+            },
+            "sgtkn": "64F027BCEA2A44EDE5E0CD5DC4D8F4FDE6A1751E6755280A",
+            "wordCard": {
+                "title": "nine",
+                "show": true,
+                "usualDict": [
+                    {
+                        "values": [
+                            "九；9"
+                        ],
+                        "pos": "num."
+                    },
+                    {
+                        "values": [
+                            "九；九个；九点；九分；九岁；九元"
+                        ],
+                        "pos": "n."
+                    },
+                    {
+                        "values": [
+                            "九的；九个的"
+                        ],
+                        "pos": "adj."
+                    }
+                ],
+                "secondQuery": "",
+                "exchange": {
+                    "word_pl": [
+                        "nines"
+                    ]
+                },
+                "levelList": [
+                    "小学",
+                    "初中",
+                    "高中",
+                    "四级",
+                    "考研"
+                ]
+            },
+            "detail": {
+                "word_group": [
+                    {
+                        "brief_definition": "喜出望外；遭嫌疑, 受怀疑",
+                        "phrase": "on cloud nine",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "十之八九",
+                        "phrase": "nine times out of ten",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "几乎全部",
+                        "phrase": "nine tenths",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "小洞不补；大洞吃苦",
+                        "phrase": "a stitch in time saves nine",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "任何可能的事；任何可得到的东西",
+                        "phrase": "the whole nine yards",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "轰动一时的东西",
+                        "phrase": "nine days' wonder",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "轰动一时的东西",
+                        "phrase": "nine one-day wonder",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "轰动一时的东西",
+                        "phrase": "nine seven-day wonder",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "头九；前九个",
+                        "phrase": "first nine",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "九霄云；极乐心境",
+                        "phrase": "cloud nine",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "9毫米",
+                        "phrase": "nine millimeter",
+                        "pos": ""
+                    }
+                ],
+                "bilingual": [
+                    {
+                        "source": "So meet me at <em>nine</em>.",
+                        "target": "所以九点见。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Five plus four is <em>nine</em>.",
+                        "target": "五加四等于九。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Umar is <em>nine</em> years old.",
+                        "target": "乌玛尔九岁了。",
+                        "url": ""
+                    },
+                    {
+                        "source": "I give you <em>nine</em> shells.",
+                        "target": "我给你九个贝壳。",
+                        "url": ""
+                    },
+                    {
+                        "source": "<em>Nine</em> is a square number.",
+                        "target": "九是一个平方数。",
+                        "url": ""
+                    },
+                    {
+                        "source": "There were <em>nine</em> of them altogether.",
+                        "target": "一共有九个。",
+                        "url": ""
+                    },
+                    {
+                        "source": "I go to bed at <em>nine</em> o'clock.",
+                        "target": "我在九点上床睡觉。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Six, seven, eight, <em>nine</em>, ten.",
+                        "target": "六，七，八，九，十。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Then I eat breakfast at <em>nine</em>.",
+                        "target": "然后我在九点吃早餐。",
+                        "url": ""
+                    },
+                    {
+                        "source": "We start work at <em>nine</em> o'clock.",
+                        "target": "我们在九点开始工作。",
+                        "url": ""
+                    }
+                ],
+                "baike": {
+                    "showMore": true,
+                    "list": [
+                        {
+                            "lemmaTitle": "机器人9号",
+                            "link": "https://baike.sogou.com/v6405503.htm?ch=sogou.fanyi",
+                            "abstract": "《机器人9号》是由申·阿克执导，伊利亚·伍德、詹妮弗·康纳利、约翰·C·赖利等配音，帕米拉·帕特勒、申·阿克担任编剧的科幻动画电影，于2009年9月9日在美国上映，2009年12月3日在中国香港上映。 该片改编自导演申·阿克2005年的同名短片《9》，讲述了机器人9号（伊利亚·伍德 配音）突然醒来，发现身边的世界充满危机，9号带着一个画有三个奇怪符号的圆形物体逃到街上，幸遇发明家机器人2号（马丁·兰道 配音）给自己装上了声音，但2号却不幸被机器怪兽抓走，9号找到了老兵1号（克里斯托弗·普卢默 配音）、机械工5号（约翰·雷利 配音）、疯癫画家6号（克里斯品·格拉夫 配音）和大力士8号（弗雷德·塔塔绍尔 配音），9号与5号擅自出行援救2号，危急时被女武士7号（詹妮佛·康纳利 配音）救下，但无意中9号却令终极机器兽复活的故事。 2009年，获得第8届华盛顿影评人协会奖最佳动画片（提名）。",
+                            "wapPic": "//img03.sogoucdn.com/v2/thumb/retype_exclude_gif/ext/auto/q/80/crop/xy/ai/w/140/h/140/resize/w/140?appid=201005&sign=5af6041b09f2ccac55da90326940d821&url=https%3A%2F%2Fpic.baike.soso.com%2Fugc%2Fbaikepic2%2F16639%2Fcut-20180823212244-433263109_jpg_981_654_106109.jpg%2F0",
+                            "pcPic": "//img04.sogoucdn.com/v2/thumb/retype_exclude_gif/ext/auto/q/80/crop/xy/ai/w/140/h/140/resize/w/140?appid=201005&sign=5af6041b09f2ccac55da90326940d821&url=https%3A%2F%2Fpic.baike.soso.com%2Fugc%2Fbaikepic2%2F16639%2Fcut-20180823212244-433263109_jpg_981_654_106109.jpg%2F0"
+                        },
+                        {
+                            "lemmaTitle": "Nine",
+                            "link": "https://baike.sogou.com/v65056131.htm?ch=sogou.fanyi",
+                            "abstract": "《Nine》是金在中作词、作曲的一首歌曲。",
+                            "wapPic": "//img03.sogoucdn.com/v2/thumb/retype_exclude_gif/ext/auto/q/80/crop/xy/ai/w/140/h/140/resize/w/140?appid=201005&sign=f91e7d0e0b4543f2468dc02e131e0a89&url=https%3A%2F%2Fpic.baike.soso.com%2Fugc%2Fbaikepic2%2F0%2F20240916022202-395692175_jpeg_384_500_22650.jpg%2F0",
+                            "pcPic": "//img03.sogoucdn.com/v2/thumb/retype_exclude_gif/ext/auto/q/80/crop/xy/ai/w/140/h/140/resize/w/140?appid=201005&sign=f91e7d0e0b4543f2468dc02e131e0a89&url=https%3A%2F%2Fpic.baike.soso.com%2Fugc%2Fbaikepic2%2F0%2F20240916022202-395692175_jpeg_384_500_22650.jpg%2F0"
+                        }
+                    ]
+                }
+            },
+            "book": {
+                "yingyinNormal": [
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/f16459596df3710a106bb1d872f3557d_7212.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/650f4d1ae2e96ce738a2eb33974e6a8b_33985.mp3",
+                        "isLavafox": true,
+                        "en": "What a night. <em>Nine</em> raids. <em>Nine</em>!",
+                        "zh": "昨天晚上真累。九次突袭检查。九次！",
+                        "videoNameZh": "《哈利波特与密室》",
+                        "videoNameEn": "《Harry Potter and the Chamber of Secrets》",
+                        "url": "http://bisentence_movie.sogou.com/6fcf262855a61004aa71cb483e14fae1_13e93279031bb406315cad8a318c654ed90e89e7"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/a86e6e98cc64448e528c65f2085efa0f_30194.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/68195470e63df717a35647c3f2601a24_37280.mp3",
+                        "isLavafox": true,
+                        "en": "I own <em>nine</em> pairs of underpants.",
+                        "zh": "我有九条内裤。",
+                        "videoNameZh": "《生活大爆炸 第7季》",
+                        "videoNameEn": "《The Big Bang Theory Season 7》",
+                        "url": "http://bisentence_movie.sogou.com/6f2b075715c23081f5d0ecc652c96f63_17d9eb97b9549ad8fbfa445ba20719e65bf5fa77"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/c255f294269b9934ed9db8b4d8634d56_69716.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/a08b225c239e24984766b7b1243af959_39946.mp3",
+                        "isLavafox": true,
+                        "en": "Chimp number <em>nine</em>, just one dose.",
+                        "zh": "九号猩猩，就用了一剂药。",
+                        "videoNameZh": "《猩球崛起》",
+                        "videoNameEn": "《Rise of the Planet of the Apes》",
+                        "url": "http://bisentence_movie.sogou.com/0d50870bc004fbbd3c7e2bd8566aee16_a74e2777909962fc1d0a6d8efc75b704346ff238"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/a86e6e98cc64448e528c65f2085efa0f_30194.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/7d4db09c57276d0ac9af6d00ed5e9336_73902.mp3",
+                        "isLavafox": true,
+                        "en": "Oh, yes! <em>Nine</em>! Welcome back, buddy.",
+                        "zh": "好的! 九个!欢迎回来，朋友。",
+                        "videoNameZh": "《生活大爆炸 第7季》",
+                        "videoNameEn": "《The Big Bang Theory Season 7》",
+                        "url": "http://bisentence_movie.sogou.com/31cff5d67ef75d04f2d71bc645c2876b_1f207c1cf917431cb7d37400264cbb1e1155f76c"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/82dcb4b353ca13d16949f6578b53771d_14776.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/ddd9b64622042708ec821f2a295ef23b_63267.mp3",
+                        "isLavafox": true,
+                        "en": "Though I couldn't speak, I held up <em>nine</em> fingers.",
+                        "zh": "我不能说话，我举起九个手指。",
+                        "videoNameZh": "《星运里的错》",
+                        "videoNameEn": "《The Fault in Our Stars》",
+                        "url": "http://bisentence_movie.sogou.com/f537cd6964330dc485a004fa65960628_9dc22bbbdddd40bdcd5ef005589d988bf633df4d"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/a3f6ca8d0ebaa5b0956976d643673427_52102.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/aac4ebd1d6728b0cdfe5aeb3c2abf904_10197.mp3",
+                        "isLavafox": true,
+                        "en": "Seven, eight, <em>nine</em>, ten. Ready or not, here I come.",
+                        "zh": "七，八，九，十！你藏好了吗，我要来找你啦。",
+                        "videoNameZh": "《小猪佩奇 第三季》",
+                        "videoNameEn": "《Peppa Pig Season 3》",
+                        "url": "http://bisentence_movie.sogou.com/2b2540a79a8ac3c9f1ac402cbb562244_a062c20ce2b69977a9186096cc96d05bab1bbbe0"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/32d369945d659bbcebcc4b948ad1fe77_13656.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/b8f61b55d8583ba0f288ff993bb16f45_15872.mp3",
+                        "isLavafox": true,
+                        "en": "The <em>Nine</em> Eyes motion is therefore not passed. Democracy.",
+                        "zh": "因此，九眼提案不予通过。这就是民主啊。",
+                        "videoNameZh": "《007幽灵党》",
+                        "videoNameEn": "《Spectre》",
+                        "url": "http://bisentence_movie.sogou.com/86dd70215160aa5e8bb7bbf846e19887_f3d4ce224fc33fad853bbb7cbee60f5e07b97874"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/6f0d696675593d9f503fb1f80b15fc44_60104.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/095124c4d46ebbb0cdeb5cb675d8bbea_40560.mp3",
+                        "isLavafox": true,
+                        "en": "A <em>nine</em> Millie. Bullets. And another <em>nine</em> Millie. What'd you plan to do with all these guns?",
+                        "zh": "一把九厘米手枪，子弹，又一把九厘米手枪，你带着这些枪是要干嘛？",
+                        "videoNameZh": "《这个杀手不太冷》",
+                        "videoNameEn": "《Léon》",
+                        "url": "http://bisentence_movie.sogou.com/0b5d63b7d265a30718159785135e40e6_ee4f172dabbcedd35174c812956431504dc74a4f"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/a3f6ca8d0ebaa5b0956976d643673427_52102.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/b4fadb9c0985ccdee7e4a77d980055db_13236.mp3",
+                        "isLavafox": true,
+                        "en": "Yes? After seven, there is eight, <em>nine</em>, ten. Eight, <em>nine</em>, ten. Very good.",
+                        "zh": "是的。在七之后，是八，九，十。非常好！",
+                        "videoNameZh": "《小猪佩奇 第三季》",
+                        "videoNameEn": "《Peppa Pig Season 3》",
+                        "url": "http://bisentence_movie.sogou.com/6df674f3b696263d1d675c7cd69393b6_b67565633e45fbcdc7d2b340e59d443490638056"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/82dcb4b353ca13d16949f6578b53771d_14776.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/814df676fdd7fca0bc69747a0b3829d1_62201.mp3",
+                        "isLavafox": true,
+                        "en": "I didn't call it a <em>nine</em> because I was brave. The reason I called it a <em>nine</em> was because I was saving my ten.",
+                        "zh": "我不是因为勇敢才说的九级，那是因为我想留着我的十级。",
+                        "videoNameZh": "《星运里的错》",
+                        "videoNameEn": "《The Fault in Our Stars》",
+                        "url": "http://bisentence_movie.sogou.com/1dbca2f8b50abed27ddee0c55162e209_5d5b7ba45eb0367ecbeccf0c639ab74e55d81fb1"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/b630caafa2606557856da7a333933a5d_54182.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/440fd5f81f504a695409c873be29c386_8025.mp3",
+                        "isLavafox": true,
+                        "en": "<em>Nine</em> rings were made for use in the Lord of the Rings movies.",
+                        "zh": "为拍摄《指环王》共打造了九枚戒指。",
+                        "videoNameZh": "《生活大爆炸 第三季》",
+                        "videoNameEn": "《The Big Bang Theory Season 3》",
+                        "url": "http://bisentence_movie.sogou.com/7743d28d4d187bb8ddc7194cb6a61e92_95b38130b0b6b71c7082bb7d8400ebe569ae9291"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/95bf83fa9c39ec4f55b8511dc0c4ed29_55630.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/6b02feaee658ee77eeaaa416fac50fe1_61653.mp3",
+                        "isLavafox": true,
+                        "en": "Okay, 10. Okay, Monica picks 10. I call <em>nine</em>. Anyone else?",
+                        "zh": "好喔，我选“十”。那我选“九”。还有其他的吗?",
+                        "videoNameZh": "《老友记 第十季》",
+                        "videoNameEn": "《Friends Season 10》",
+                        "url": "http://bisentence_movie.sogou.com/9c6ec995baa738766c666b3878c935c4_4e591da659cf9fea0e8479312f78a75b6bb71877"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/7eb0bec9540cbb2c5939554caf885c99_49670.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/ef2bb7779a7b40650be0cb7d8a35a0cd_35660.mp3",
+                        "isLavafox": true,
+                        "en": "And he was <em>nine</em> feet tall and he took my pants off and you said...",
+                        "zh": "他有九英尺高，把我裤子都扒了，然后你说...",
+                        "videoNameZh": "《生活大爆炸 第二季》",
+                        "videoNameEn": "《The Big Bang Theory Season 2》",
+                        "url": "http://bisentence_movie.sogou.com/838687722ed7abbb186a18429c4c9653_feaa17faeb9c7c93838f3aec0df8fc516b9917c1"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/f5f16d3165593ebdb6d6ae8299e72880_33413.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/99b6659f1736eae46053910bab72fd25_42225.mp3",
+                        "isLavafox": true,
+                        "en": "Four different women. I've had sex way more times. How many? <em>Nine</em>.",
+                        "zh": "是四个不同的女人，次数就多太多了。几次？九次。",
+                        "videoNameZh": "《老友记 第六季》",
+                        "videoNameEn": "《Friends Season 6》",
+                        "url": "http://bisentence_movie.sogou.com/86618788045c27a3c5a49e352018ef5b_e0318522017700e01c8ab20e913718d9c6d363e3"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/8ebc69621c845dba3ee412feb5096db1_6534.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/b18e323c11162fd60d3e9b80e09cf695_49268.mp3",
+                        "isLavafox": true,
+                        "en": "Bec. Seven, fine, but only because there are three of them. Baby, And the thing is, I'm trying really hard to get us to a <em>nine</em>. Because they are cute kids, and they deserve <em>nine</em> parents.",
+                        "zh": "小贝……那就七分，但那只是因为我们有三个孩子。宝贝……问题是我拼命想达到九分的标准，因为这些可爱的孩子值得九分的父母。",
+                        "videoNameZh": "《我们这一天 第一季》",
+                        "videoNameEn": "《This Is Us Season 1》",
+                        "url": "http://bisentence_movie.sogou.com/b1c2111add9077b6665be72a2d417c69_05d90f00fa45172717380a81fd2819969a83bade"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/f012eb5fd120cc2d5b68f18e3d0e7c8c_67362.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/11829129c76835dcde85aa09d653b28d_73947.mp3",
+                        "isLavafox": true,
+                        "en": "Yes. And what time did he leave? <em>Nine</em> thirty. He had to get to work.",
+                        "zh": "是的。他是什么时候离开的？九点半，他要赶回去工作。",
+                        "videoNameZh": "《傲骨贤妻 第五季》",
+                        "videoNameEn": "《The Good Wife Season 5》",
+                        "url": "http://bisentence_movie.sogou.com/6b504270ebe1a0939c7abb6fc86ff2fe_240a3521208e7cc2313ee6c9d554b36485fa1884"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/d56465f32cfb60b309184591f56a2a7e_8302.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/2bece29e8f4964c4111ddd337444d8e0_48796.mp3",
+                        "isLavafox": true,
+                        "en": "This is Berk. It snows <em>nine</em> months of the year and hails the other three.",
+                        "zh": "这是博克岛，一年有九个月下雪，其它三个月下冰雹。",
+                        "videoNameZh": "《驯龙高手》",
+                        "videoNameEn": "《How to Train Your Dragon》",
+                        "url": "http://bisentence_movie.sogou.com/23eeac2e5a2a1da572b4c8e64a204c44_6d84ed119548a28a4997bc023381a502cc26051f"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/82dcb4b353ca13d16949f6578b53771d_14776.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/e1147b659abffd2ddecc2bb2abc2ff88_26809.mp3",
+                        "isLavafox": true,
+                        "en": "\"You know how I know?\" she said. \"You called a ten a <em>nine</em>.\"",
+                        "zh": "她说“你知道我是怎么知道的吗？” 她说。“你把十级疼痛当成九级”。",
+                        "videoNameZh": "《星运里的错》",
+                        "videoNameEn": "《The Fault in Our Stars》",
+                        "url": "http://bisentence_movie.sogou.com/45e21c383dd07ed04c8ab4bc245420a5_3b704a4faa44bceb8a5039fbcd7130852b4157a0"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/7527e2a9ec38f59ad126037938e4289c_52101.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/91db5c3e6ce0433eee718a37f529e9f9_26920.mp3",
+                        "isLavafox": true,
+                        "en": "Phoebe, I think he would notice if you didn't have a baby in <em>nine</em> months. It's Joey.",
+                        "zh": "九个月后你生不出孩子，他会发现的。他是乔伊唉。",
+                        "videoNameZh": "《老友记 第八季》",
+                        "videoNameEn": "《Friends Season 8》",
+                        "url": "http://bisentence_movie.sogou.com/bbb547e13b7028a1ed78fd176ca9ee8e_9b29008f8ebd2b1ec12d0e99cf334a15e087732e"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/a3f6ca8d0ebaa5b0956976d643673427_52102.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/80a2bc96e1d72eb424ed7b5b6805724c_11163.mp3",
+                        "isLavafox": true,
+                        "en": "Susie and Emily are hiding behind the bush. <em>Nine</em>, ten. Ready or not, here I come.",
+                        "zh": "苏西和艾米丽藏到了灌木丛中。九，十！藏好了吗？我要来找了！",
+                        "videoNameZh": "《小猪佩奇 第三季》",
+                        "videoNameEn": "《Peppa Pig Season 3》",
+                        "url": "http://bisentence_movie.sogou.com/bf7f009095fd4746be8d718c410915fd_9483bf74b9d405b4fe397772687bd1546716713c"
+                    }
+                ]
+            },
+            "pic": "",
+            "voice": {
+                "phonetic": [
+                    {
+                        "text": "naɪn",
+                        "type": "uk",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/2636_nine_uk.mp3"
+                    },
+                    {
+                        "text": "naɪn",
+                        "type": "usa",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/2636_nine_usa.mp3"
+                    }
+                ]
+            },
+            "dictType": "oxford_buchong",
+            "gaokao": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 4,
+                        "pos": "num",
+                        "chinese": "九; 九个",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "nine",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2015-2022年8年间全国卷和自主命题省市高考卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2015-2022年全国卷高考试卷，包括阅读、完形、单选、填空、听力、改错、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选各省市考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2015-2022年8年间全国卷和自主命题省市高考卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 1,
+                "total_exam_freq": 4,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "九; 九个",
+                            "pos": "num",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "By the time I was <highlight>nine</highlight>, I was dancing five days a week.",
+                                    "month": -1,
+                                    "source": "全国卷3",
+                                    "coll": "",
+                                    "sentence_trans": "我一周跳五天舞，直到九岁。",
+                                    "year": 2018,
+                                    "type": "听力",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            "zhongkao": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 60,
+                        "pos": "num",
+                        "chinese": "九",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "nine",
+                "direction_info": {
+                    "ranges": 4,
+                    "description": "数据源自2018-2021年4年间全国各省市中考试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2018-2021年全国重点省市中考试卷，包括听力、阅读、完形、单选、填空、改错、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选各省市考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2018-2021年4年间全国各省市中考试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 5,
+                "total_exam_freq": 60,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "九",
+                            "pos": "num",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "Meet at <highlight>nine</highlight> in the classroom.",
+                                    "month": -1,
+                                    "source": "自贡市卷",
+                                    "coll": "",
+                                    "sentence_trans": "九点在教室见面。",
+                                    "year": 2021,
+                                    "type": "听力",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "At the top of the mountain, he shot down <highlight>nine</highlight> suns, leaving only one in the sky.",
+                                    "month": -1,
+                                    "source": "岳阳市卷",
+                                    "coll": "",
+                                    "sentence_trans": "在山顶，他击落了九个太阳，只在天空中留下一个。",
+                                    "year": 2021,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Every cold period has <highlight>nine</highlight> days.",
+                                    "month": -1,
+                                    "source": "云南省",
+                                    "coll": "",
+                                    "sentence_trans": "每个寒冷期有九天。",
+                                    "year": 2020,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            "sentencesData": {
+                "status": 1,
+                "info": "notZh2En",
+                "data": {}
+            },
+            "isAutoMatch": false,
+            "Zh2En": false
+        },
+        "query": "nine",
+        "result": "九",
+        "tabSelect": "detail",
+        "dictionaryType": "oxford_buchong",
+        "notFound_show": false,
+        "phoneticShow": "",
+        "globalShowTranslateRecord": "",
+        "pronPrefer": {
+            "type": "usa_1",
+            "speaker": "male",
+            "speed": "standard"
+        },
+        "ServerRecord": "",
+        "ServerUIGS": {
+            "version": "new",
+            "type": "all",
+            "stype": "success",
+            "terminal": "web",
+            "fr": "default",
+            "direction": "etoz",
+            "from": "en",
+            "to": "zh-CHS",
+            "len": 4,
+            "qtype": "text",
+            "qctype": "qc_1",
+            "dict_cover": 1,
+            "detail": 1,
+            "wordCardCover": 1,
+            "wordCardEn": 1,
+            "wordCardCh": 0,
+            "wordCardMinor": 0,
+            "wordCardNetmean": 0,
+            "wordDeform": 1,
+            "keyword": 0,
+            "bilingual": 1,
+            "simple": 0,
+            "levelList": 1,
+            "synonym": 0,
+            "antonym": 0,
+            "conjugate": 0,
+            "rootaffix": 0,
+            "baike_sogou": 1,
+            "baike_wiki": 0,
+            "wordDifference": 0,
+            "word_phrase": 1,
+            "secondQuery": 0,
+            "dict_oxford": 0,
+            "dict_newcentury": 0,
+            "zhongkaotab": 1,
+            "gaokaotab": 1,
+            "CET4tab": 0,
+            "CET6tab": 0,
+            "kaoyantab": 0,
+            "network_tab": 0,
+            "yinying_tab": 1,
+            "tuozhan_tab": 0,
+            "one_pic": 0,
+            "more_pic": 0,
+            "no_pic": 0,
+            "uuid": "38273b95-4425-41d6-b34d-f2074e05b6cc",
+            "from_type": 0,
+            "t_trans_ssr": 159
+        },
+        "ServerModelUIGS": {
+            "terminal": "web",
+            "type": "trans_model",
+            "pbtype": "pv",
+            "model_general": 1,
+            "model_medical": 1,
+            "model_finance": 1
+        },
+        "ServerSgtkn": "64F027BCEA2A44EDE5E0CD5DC4D8F4FDE6A1751E6755280A",
+        "suggShow": false,
+        "suggestion": "",
+        "suggDirection": "",
+        "usualTop": "",
+        "baseDict": "",
+        "wordCardClick": false,
+        "isFrInput": false,
+        "kanaTips": {
+            "show": false,
+            "left": "",
+            "top": "",
+            "type": "",
+            "arrowLeft": ""
+        },
+        "currSentenceIndex": -1,
+        "prefixStrObj": {
+            "prefixStr": "",
+            "oriPrefixStr": ""
+        },
+        "selectTransBox": {
+            "show": false,
+            "right": 0,
+            "top": 0,
+            "paraphraseInfo": {
+                "word": "",
+                "from": "",
+                "to": "",
+                "area": ""
+            }
+        },
+        "sentenceLoading": false,
+        "newSentenceInfo": {
+            "sentence": "",
+            "candidateIndex": 0
+        },
+        "moreTipInfo": {
+            "opacity": 0,
+            "zIndex": -1
+        },
+        "paraphraseShowInfo": {
+            "card": 0,
+            "query": "",
+            "card_dict": 0
+        },
+        "selectType": "",
+        "wordPos": 0,
+        "candidateWord": "",
+        "syntaxVisible": false,
+        "syntaxStatus": 0
+    },
+    "language": {
+        "from": "auto",
+        "to": "zh-CHS",
+        "detect": "en",
+        "model": "general",
+        "detectShow": false,
+        "langMap": {
+            "current": ""
+        },
+        "zh2en": false,
+        "fromItemList": [
+            {
+                "lang": "auto",
+                "text": "自动检测",
+                "play": false
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "es",
+                "text": "西班牙语",
+                "play": true,
+                "abbr": "西"
+            },
+            {
+                "lang": "ko",
+                "text": "韩语",
+                "play": true,
+                "abbr": "韩"
+            },
+            {
+                "lang": "fr",
+                "text": "法语",
+                "play": true,
+                "abbr": "法"
+            }
+        ],
+        "toItemList": [
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "de",
+                "text": "德语",
+                "play": true,
+                "abbr": "德"
+            },
+            {
+                "lang": "ko",
+                "text": "韩语",
+                "play": true,
+                "abbr": "韩"
+            },
+            {
+                "lang": "vi",
+                "text": "越南语",
+                "play": true,
+                "abbr": "越"
+            }
+        ]
+    },
+    "voice": {
+        "from": {
+            "lang": "en",
+            "type": "from",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22nine%22%2C%22spokenDialect%22%3A%22en%22%2C%22rate%22%3A%220.8%22%7D",
+            "list": [
+                {
+                    "type": "uk_0",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "naɪn",
+                    "abbr": "英",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/2636_nine_uk.mp3"
+                },
+                {
+                    "type": "usa_1",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "naɪn",
+                    "abbr": "美",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/2636_nine_usa.mp3"
+                }
+            ],
+            "stype": "phonetic",
+            "phoneticShow": [
+                {
+                    "text": "naɪn",
+                    "type": "uk",
+                    "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/2636_nine_uk.mp3"
+                }
+            ]
+        },
+        "to": {
+            "lang": "zh",
+            "type": "to",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22%E4%B9%9D%22%2C%22spokenDialect%22%3A%22zh-CHS%22%2C%22rate%22%3A%220.8%22%7D",
+            "stype": "normal"
+        }
+    }
+}

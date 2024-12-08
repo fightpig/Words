@@ -1,0 +1,963 @@
+{
+    "route": {
+        "name": "text",
+        "path": "/text",
+        "hash": "",
+        "query": {
+            "keyword": "blog",
+            "transfrom": "auto",
+            "transto": "zh-CHS",
+            "model": "general",
+            "errcode": "s10"
+        },
+        "params": {},
+        "fullPath": "/text?keyword=blog&transfrom=auto&transto=zh-CHS&model=general&errcode=s10",
+        "meta": {
+            "mtype": [
+                "textTranslate",
+                "language",
+                "voice"
+            ]
+        },
+        "from": {
+            "name": null,
+            "path": "/",
+            "hash": "",
+            "query": {},
+            "params": {},
+            "fullPath": "/",
+            "meta": {}
+        }
+    },
+    "common": {
+        "CONFIG": {
+            "wuid": 1733632477961,
+            "loginInfo": {},
+            "isIE": 0,
+            "isHitSsrSwitch": true,
+            "isHitWritebookSwitch": false,
+            "isHitAmsSwitch": true,
+            "promotionList": "{\n    \"pc_bottom\":{\n        \"imgsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\",\n        \"qcsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\"\n    },\n    \"pc_middle\":[\n        {\n            \"src\":\"//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c\",\n            \"bgColor\":\"#ffffff\",\n            \"link\":\"\"\n        }\n    ],\n    \"pc_survey\":{\n        \"icon\":\"//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750\",\n        \"link\":\"https://wj.qq.com/s2/8193148/806d/\"\n    }\n}",
+            "bannerData": [],
+            "isHitAsideSurvey": false,
+            "secretCode": 109984457,
+            "uuid": "c79f6644-c6d9-4596-9592-71eb3b6d169d",
+            "referer": "",
+            "approveToken": "64EA5F9A569EF15952557AE897574512538CA46D675521DD",
+            "loadTime": 1733632477963,
+            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0",
+            "fcp": "138.197.122.177",
+            "temporaryId": "",
+            "fileId": ""
+        },
+        "hotWords": [],
+        "isFromCollect": false,
+        "psdModify": {
+            "currentStep": 1,
+            "scode": "",
+            "username": ""
+        },
+        "loginStatus": true,
+        "feedBackModule": false,
+        "showPromotionPopup": {
+            "show": false,
+            "type": ""
+        },
+        "showPromotionPCDownload": false,
+        "showShareBomb": false,
+        "shareData": null,
+        "showAppDownLoad": false,
+        "showLoginDialog": false,
+        "showLoading": {
+            "show": false
+        },
+        "toast": {
+            "show": false,
+            "text": "",
+            "loading": false
+        },
+        "modelToast": {
+            "show": false,
+            "text": ""
+        },
+        "selectionGlobalShow": true,
+        "selectionInfo": {
+            "left": 0,
+            "top": 0,
+            "show": false,
+            "from": "",
+            "to": "",
+            "val": "",
+            "area": ""
+        },
+        "showConfirmDialog": false,
+        "promotionList": {
+            "pc_bottom": {
+                "imgsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png",
+                "qcsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png"
+            },
+            "pc_middle": [
+                {
+                    "src": "//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c",
+                    "bgColor": "#ffffff",
+                    "link": ""
+                }
+            ],
+            "pc_survey": {
+                "icon": "//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750",
+                "link": "https://wj.qq.com/s2/8193148/806d/"
+            }
+        },
+        "transTypeTxt": "text",
+        "fixedTabStatus": 0,
+        "bodyTop": 0,
+        "ifHideUserOperation": false
+    },
+    "textTranslate": {
+        "prevTransQuery": "",
+        "translateData": {
+            "translate": {
+                "zly": "zly",
+                "errorCode": "0",
+                "qc_type": "1",
+                "index": "content0",
+                "from": "en",
+                "source": "sogou",
+                "text": "blog",
+                "to": "zh-CHS",
+                "id": "c79f6644-c6d9-4596-9592-71eb3b6d169d",
+                "dit": "博客",
+                "orig_text": "blog",
+                "md5": ""
+            },
+            "detect": {
+                "zly": "zly",
+                "detect": "en",
+                "errorCode": "0",
+                "language": "英语",
+                "id": "bbb56100-b51d-11ef-a9ed-3927f9ca8d89",
+                "text": "blog"
+            },
+            "sgtkn": "64EA5F9D569EF15952557AE897574512538CA46D675521DD",
+            "wordCard": {
+                "title": "blog",
+                "show": true,
+                "usualDict": [
+                    {
+                        "values": [
+                            "博客；网志；网络日志；在线日记；网上专栏"
+                        ],
+                        "pos": "n."
+                    },
+                    {
+                        "values": [
+                            "撰写博客；写网志；写博客"
+                        ],
+                        "pos": "v."
+                    }
+                ],
+                "secondQuery": "",
+                "exchange": {
+                    "word_third": [
+                        "blogs"
+                    ],
+                    "word_ing": [
+                        "blogging"
+                    ],
+                    "word_done": [
+                        "blogged"
+                    ],
+                    "word_pl": [
+                        "blogs"
+                    ],
+                    "word_past": [
+                        "blogged"
+                    ]
+                },
+                "levelList": [
+                    "小学",
+                    "初中",
+                    "高中",
+                    "四级",
+                    "六级",
+                    "考研"
+                ]
+            },
+            "detail": {
+                "synonym": [
+                    {
+                        "word_list": [
+                            "boke",
+                            "weblog"
+                        ],
+                        "pos": "n.",
+                        "mean": "博客；部落格；网络日志"
+                    }
+                ],
+                "bilingual": [
+                    {
+                        "source": "The <em>blog</em> is very popular.",
+                        "target": "这个博客很受欢迎。",
+                        "url": ""
+                    },
+                    {
+                        "source": "I write a lot on my <em>blog</em>.",
+                        "target": "我在我的博客上写了很多。",
+                        "url": ""
+                    },
+                    {
+                        "source": "A <em>blog</em> post about online safety.",
+                        "target": "一篇关于网络安全的博客文章。",
+                        "url": ""
+                    },
+                    {
+                        "source": "So I decided to post pictures on my <em>blog</em>.",
+                        "target": "所以我决定在我的博客上发布照片。",
+                        "url": ""
+                    },
+                    {
+                        "source": "I have a <em>blog</em> about environmental issues in my city.",
+                        "target": "我有一个关于我市环境问题的博客。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Today I thought I'd <em>blog</em> about a question that has been asked many times.",
+                        "target": "今天我想写一篇关于一个被问过很多次的问题的博客。",
+                        "url": ""
+                    },
+                    {
+                        "source": "In less than 18 months, there were over 200,000 people reading my <em>blog</em>!",
+                        "target": "在不到18个月的时间里，有超过20万人在阅读我的博客！",
+                        "url": ""
+                    },
+                    {
+                        "source": "Do you have your own <em>blog</em>?",
+                        "target": "你有自己的博客吗？",
+                        "url": ""
+                    },
+                    {
+                        "source": "I update my <em>blog</em> every day.",
+                        "target": "我每天都会更新我的博客。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Her <em>blog</em>'s <em>blog</em>roll helped me discover many new <em>blog</em>s.",
+                        "target": "她的博客友情链接帮助我发现了很多新博客。",
+                        "url": ""
+                    }
+                ],
+                "baike": {
+                    "showMore": false,
+                    "list": [
+                        {
+                            "lemmaTitle": "博客",
+                            "link": "https://baike.sogou.com/v5828.htm?ch=sogou.fanyi",
+                            "abstract": "博客，仅音译，英文名为Blogger,为Web Log的混成词。它的正式名称为网络日记；又音译为部落格或部落阁等，是使用特定的软件，在网络上出版、发表和张贴个人文章的人；或者是一种通常由个人管理、不定期张贴新的文章的网站。博客上的文章通常以网员形式出现，并根据张贴时间，以倒序排列。博客是继MSN.BBS.ICQ之后出现的第4种网络交流方式，现已受到大家的欢迎，是网络时代的个人“读者文摘”，是以超级链接为武器的网络日记，它代表着新的生活、工作和学习方式。许多博客专注在特定的课题上提供评论或新闻，其他则被作为比较个人的日记。一个典型的博客结合了文字、图像、其他博客或网站的链接及其它与主题相关的媒体，能够让读者以互动的方式留下意见，是许多博客的重要要素。大部分的博客内容以文字为主，仍有一些博客专注在艺术、摄影、视频、音乐、播客等各种主题。博客是社会媒体网络的一部分。比较著名的有新浪、网易等博客。",
+                            "wapPic": "//img03.sogoucdn.com/v2/thumb/retype_exclude_gif/ext/auto/q/80/crop/xy/ai/w/140/h/140/resize/w/140?appid=201005&sign=00d93c225d772d801222b204475bc97c&url=https%3A%2F%2Fpic.baike.soso.com%2Fugc%2Fbaikepic2%2F24%2Fcut-20180918173942-121161108_jpg_790_527_20076.jpg%2F0",
+                            "pcPic": "//img04.sogoucdn.com/v2/thumb/retype_exclude_gif/ext/auto/q/80/crop/xy/ai/w/140/h/140/resize/w/140?appid=201005&sign=00d93c225d772d801222b204475bc97c&url=https%3A%2F%2Fpic.baike.soso.com%2Fugc%2Fbaikepic2%2F24%2Fcut-20180918173942-121161108_jpg_790_527_20076.jpg%2F0"
+                        }
+                    ]
+                }
+            },
+            "book": {
+                "yingyinNormal": [
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/8b3da16ecbe350aacc1a7e4a01d210bc_49869.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/fe64c8d757faba577677ca78423b59eb_59876.mp3",
+                        "isLavafox": true,
+                        "en": "I'm your best friend? Don't you read my <em>blog</em>?",
+                        "zh": "我是你最好的朋友吗？你不看我的博客吗？",
+                        "videoNameZh": "《生活大爆炸 第四季》",
+                        "videoNameEn": "《The Big Bang Theory Season 4》",
+                        "url": "http://bisentence_movie.sogou.com/98bdec9569d521b6d68674595c173a9c_628b8a6bbdaee1cea3445438e52ae2bdef1c61df"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/39e50807a5a1191398262e04787ff184_62485.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/16458270662e9644435c5710b50a0c45_35556.mp3",
+                        "isLavafox": true,
+                        "en": "Okay, where were we? Not now, I have a <em>blog</em> to find.",
+                        "zh": "好吧，我们讲到哪儿了？别急，我要先搜索一个博客。",
+                        "videoNameZh": "《生活大爆炸 第一季》",
+                        "videoNameEn": "《The Big Bang Theory Season 1》",
+                        "url": "http://bisentence_movie.sogou.com/1dd2e81ddddbe20fed80c09a80961b51_a980e365d743ee7931b12c92a77568fa79d6bddb"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/8b3da16ecbe350aacc1a7e4a01d210bc_49869.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/e3d4d3eecaba0d8617bce35d2127296e_32213.mp3",
+                        "isLavafox": true,
+                        "en": "We are? Of course, we're best friends. Oh, right, right, the <em>blog</em>.",
+                        "zh": "不介意吗？当然了，我们是闺蜜嘛。哦，对了，博客写了。",
+                        "videoNameZh": "《生活大爆炸 第四季》",
+                        "videoNameEn": "《The Big Bang Theory Season 4》",
+                        "url": "http://bisentence_movie.sogou.com/8ba7ed4899270ea3c61f631754784f55_595db6356a840dda35116f8feeddfce6cfcbf0b2"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/01c17509086ef8842dc81dd84a41285d_68420.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/eb81ffabb8fd4ffb898cf996d6d0ca25_55057.mp3",
+                        "isLavafox": true,
+                        "en": "Unlike the nicely embellished fictions on your <em>blog</em>, John, real life is rarely so neat.",
+                        "zh": "和你博客上那些精妙小说不一样，约翰，真实的世界从没那么明了。",
+                        "videoNameZh": "《神探夏洛克 第三季》",
+                        "videoNameEn": "《Sherlock Season 3》",
+                        "url": "http://bisentence_movie.sogou.com/18e858e204e2f04e9eae9a435581953f_34ee3153661c9972f650dc98c5e5398549c02005"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/dde03d29cdf9f1eb3170279dd5ad8ff2_46072.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/82519c5608f5c42e022051c0f9027a32_16775.mp3",
+                        "isLavafox": true,
+                        "en": "My fashion <em>blog</em> is blowing up. I started doing these live video chats, and now I have over 50,000 subscribers!",
+                        "zh": "我的时尚博客人气暴涨，我搞起了视频聊天秀，现在我的频道有五万多订阅者！",
+                        "videoNameZh": "《摩登家庭 第六季》",
+                        "videoNameEn": "《Modern Family Season 6》",
+                        "url": "http://bisentence_movie.sogou.com/0d8fab461c7cdd0b9b065aea7dd528c9_46f50aa9659364027cdde3ddda4a58cb2d514f27"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/39e50807a5a1191398262e04787ff184_62485.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/13d9509fc89d60103d455478b979383a_51997.mp3",
+                        "isLavafox": true,
+                        "en": "What's going on? I'll tell you what's going on. That stupid self-centered bastard wrote about our sex life in his <em>blog</em>.",
+                        "zh": "怎么了这是？我来告诉你这是怎么了，那自恋的蠢蛋把我们的性生活写进了博客里。",
+                        "videoNameZh": "《生活大爆炸 第一季》",
+                        "videoNameEn": "《The Big Bang Theory Season 1》",
+                        "url": "http://bisentence_movie.sogou.com/d5c34836c4fefb0dc41128d4ca226ea3_43760934d32c99093b8316066e5b3ffb75f1cba0"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/dde03d29cdf9f1eb3170279dd5ad8ff2_46072.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/2d8731a895bd14292cb96e0237530221_64789.mp3",
+                        "isLavafox": true,
+                        "en": "Yeah, I looked at your <em>blog</em>. It's a little too cutesy for me. I need someone with edge. I have edge.",
+                        "zh": "是，没错，但我查看了你的博客，对我来说有点太故意卖萌了，我需要一个犀利的人。我很犀利啊。",
+                        "videoNameZh": "《摩登家庭 第六季》",
+                        "videoNameEn": "《Modern Family Season 6》",
+                        "url": "http://bisentence_movie.sogou.com/881f1a63dc7cc03144107144d9a56cea_dd9c861ae61758b290ac3b6781f5bbe1ebc3d442"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/8005d54b57fe04f26a670220f9323bc7_59749.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/79896abde367b4d95f0361dd7cce51e6_13896.mp3",
+                        "isLavafox": true,
+                        "en": "Who the hell are you?! It's Sherlock Holmes, surely you recognize him? Oh, my God! Sherlock Holmes. I love your <em>blog</em>.",
+                        "zh": "你是谁？是夏洛克·福尔摩斯，你认得出吧？天哪，夏洛克·福尔摩斯，我喜欢你的博客。",
+                        "videoNameZh": "《神探夏洛克 第四季》",
+                        "videoNameEn": "《Sherlock Season 4》",
+                        "url": "http://bisentence_movie.sogou.com/09baee7a57a376b369d57c032caec8fa_85117f8758c3894f1a69021c6e91be14cb8d76f3"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/8005d54b57fe04f26a670220f9323bc7_59749.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/a9ab64db4f57b0be99de67249a4a1f68_53059.mp3",
+                        "isLavafox": true,
+                        "en": "What do you mean, saline? Well, obviously, I got Nurse Cornish to switch the bags. She's a big fan, you know? Loves my <em>blog</em>.",
+                        "zh": "什么意思？生理盐水。显然，我让考尼什护士把点滴调包了。她是位忠实粉丝，超爱我的博客。",
+                        "videoNameZh": "《神探夏洛克 第四季》",
+                        "videoNameEn": "《Sherlock Season 4》",
+                        "url": "http://bisentence_movie.sogou.com/40d67a6a42f50bf05067f313b71c3f74_1378deafb8bb99692d3c6f6d0164bffd3fd9ca25"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/01c17509086ef8842dc81dd84a41285d_68420.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/c884cb9bacdaa5796f21a771aac83e29_51769.mp3",
+                        "isLavafox": true,
+                        "en": "But it'll be in an odd phrase in an on-line <em>blog</em>, or an unexpected trip to the countryside, or a misplaced lonely hearts ad. Your move!",
+                        "zh": "答案也许是网上博客一处奇怪用词，一次临时乡间旅行，或者发错地方的征友广告。该你走了!",
+                        "videoNameZh": "《神探夏洛克 第三季》",
+                        "videoNameEn": "《Sherlock Season 3》",
+                        "url": "http://bisentence_movie.sogou.com/a283eb4865cc5d9d2f86af86b0306f77_47a17f759952ada0f912915f26e6c8b88c4e10a7"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/466fcb07ee18284cd2e11cc689fe88ec_17209.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/5952489b8da0c5abeed11d57acf7b937_66504.mp3",
+                        "isLavafox": true,
+                        "en": "I'm a twitter junkie, I <em>blog</em> everything, I can't keep secrets.",
+                        "zh": "我是个微博控，什么东西都往上写，不能保守秘密。",
+                        "videoNameZh": "《变形金刚3》",
+                        "videoNameEn": "《Transformers: Dark of the Moon》",
+                        "url": "http://bisentence_movie.sogou.com/061272ec8570a74688eb659b2af584fa_884fe1cad57901dfc4cf0f77d71268db70a723a4"
+                    }
+                ]
+            },
+            "pic": "",
+            "voice": {
+                "phonetic": [
+                    {
+                        "text": "blɒɡ",
+                        "type": "uk",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/5883_blog_uk.mp3"
+                    },
+                    {
+                        "text": "blɑːɡ",
+                        "type": "usa",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/5883_blog_usa.mp3"
+                    }
+                ]
+            },
+            "dictType": "oxford_buchong",
+            "kaoyan": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 3,
+                        "pos": "n/vi",
+                        "chinese": "(写)网络日志; 博客",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "blog",
+                "direction_info": {
+                    "ranges": 12,
+                    "description": "数据源自2012-2023年12年间全国考研试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2012-2023年全国考研英语一和考研英语二共24套考研试卷，包括阅读、完型填空、翻译、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选全国考研考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2012-2023年12年间全国考研英语一和考研英语二试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 1,
+                "total_exam_freq": 3,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "a website where a person writes regularly about recent events or topics that interest them, usually with photos and links to other websites that they find interesting",
+                            "zh": "(写)网络日志; 博客",
+                            "pos": "n/vi",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "The hugely popular <highlight>blog</highlight> the Skint Foodie chronicles how Tony balances his love of good food with living on benefits.",
+                                    "month": -1,
+                                    "source": "英语二",
+                                    "coll": "",
+                                    "sentence_trans": "广受欢迎的博客“穷光蛋美食家”记录了托尼如何平衡他对美食的热爱和靠救济金生活的困境。",
+                                    "year": 2013,
+                                    "type": "阅读理解B",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "And I felt like that again, to a certain degree, when people responded to the <highlight>blog</highlight> so well.",
+                                    "month": -1,
+                                    "source": "英语二",
+                                    "coll": "",
+                                    "sentence_trans": "在某种程度上，当人们对博客的反应如此之好时，我再次有了同样的感觉。",
+                                    "year": 2013,
+                                    "type": "阅读理解B",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "The author's attitude towards what Brendon Lynch said in his <highlight>blog</highlight> is one of skepticism.",
+                                    "month": -1,
+                                    "source": "英语一",
+                                    "coll": "",
+                                    "sentence_trans": "作者对布兰登·林奇在博客中所说的持怀疑态度。",
+                                    "year": 2013,
+                                    "type": "阅读理解A",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            "CET6": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 1,
+                        "pos": "n/vi",
+                        "chinese": "(写)网络日志; 博客",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "blog",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2016.6-2023.6年8年间全六级试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight>考纲释义</highlight>\n精选实考、考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2016-2023年51套试卷，包括阅读、听力、翻译等所有题型。\n\n<highlight>真题例句</highlight>\n精选2016-2023年8年间全六级试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 1,
+                "total_exam_freq": 1,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "synonyms": "",
+                            "en": "a website where a person writes regularly about recent events or topics that interest them, usually with photos and links to other websites that they find interesting",
+                            "zh": "(写)网络日志; 博客",
+                            "pos": "n/vi",
+                            "antonyms": ""
+                        }
+                    ]
+                },
+                "exchange_info": {
+                    "word_third": [
+                        "blogs"
+                    ],
+                    "word_ing": [
+                        "blogging"
+                    ],
+                    "word_done": [
+                        "blogged"
+                    ],
+                    "word_pl": [
+                        "blogs"
+                    ],
+                    "word_past": [
+                        "blogged"
+                    ]
+                }
+            },
+            "CET4": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 3,
+                        "pos": "n/vi",
+                        "chinese": "(写)网络日志; 博客",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "blog",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2016.6-2023.6年8年间全四级试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight>考纲释义</highlight>\n精选实考、考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2016-2023年51套试卷，包括阅读、听力、翻译等所有题型。\n\n<highlight>真题例句</highlight>\n精选2016-2023年8年间试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 1,
+                "total_exam_freq": 3,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "a website where a person writes regularly about recent events or topics that interest them; usually with photos and links to other websites that they find interesting",
+                            "zh": "(写)网络日志; 博客",
+                            "pos": "n/vi",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "The essay sparked a massive thread on the internet community <highlight>blog</highlight> MetaFilter.",
+                                    "month": 12,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "这篇文章在网络社区博客MetaFilter上引发了大量的讨论。",
+                                    "year": 2021,
+                                    "type": "阅读理解B",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "A recent <highlight>blog</highlight> suggested maybe people are drinking less milk because it is poisonous to many of us.",
+                                    "month": 12,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "最近的一篇博客指出，人们喝牛奶的量减少可能是因为牛奶对我们很多人来说是有毒的。",
+                                    "year": 2020,
+                                    "type": "听力",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "exchange_info": {
+                    "word_third": [
+                        "blogs"
+                    ],
+                    "word_ing": [
+                        "blogging"
+                    ],
+                    "word_done": [
+                        "blogged"
+                    ],
+                    "word_pl": [
+                        "blogs"
+                    ],
+                    "word_past": [
+                        "blogged"
+                    ]
+                }
+            },
+            "gaokao": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 1,
+                        "pos": "n/vi",
+                        "chinese": "(写)博客",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "blog",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2015-2022年8年间全国卷和自主命题省市高考卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2015-2022年全国卷高考试卷，包括阅读、完形、单选、填空、听力、改错、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选各省市考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2015-2022年8年间全国卷和自主命题省市高考卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 1,
+                "total_exam_freq": 1,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "a website where a person writes regularly about recent events or topics that interest them, usually with photos and links to other websites that they find interesting",
+                            "zh": "(写)博客",
+                            "pos": "n/vi",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "Participate in discussion forums (论坛), <highlight>blogs</highlight> and other open-ended forums for dialogue.",
+                                    "month": -1,
+                                    "source": "全国卷3",
+                                    "coll": "",
+                                    "sentence_trans": "参与论坛、博客和其他开放式论坛进行对话。",
+                                    "year": 2019,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "exchange_info": {
+                    "word_third": [
+                        "blogs"
+                    ],
+                    "word_ing": [
+                        "blogging"
+                    ],
+                    "word_done": [
+                        "blogged"
+                    ],
+                    "word_pl": [
+                        "blogs"
+                    ],
+                    "word_past": [
+                        "blogged"
+                    ]
+                }
+            },
+            "zhongkao": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 5,
+                        "pos": "n/vi",
+                        "chinese": "(写)网络日志; 博客",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "blog",
+                "direction_info": {
+                    "ranges": 4,
+                    "description": "数据源自2018-2021年4年间全国各省市中考试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2018-2021年全国重点省市中考试卷，包括听力、阅读、完形、单选、填空、改错、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选各省市考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2018-2021年4年间全国各省市中考试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 1,
+                "word_family": {
+                    "derivative_info_list": [
+                        {
+                            "derivative_info_list": [],
+                            "word": "blogger",
+                            "mean": "n. 写日志（部落格）的人"
+                        }
+                    ],
+                    "word": "blog",
+                    "mean": "n. 网络日志；博客"
+                },
+                "total_exam_freq": 5,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "a website where a person writes regularly about recent events or topics that interest them, usually with photos and links to other websites that they find interesting",
+                            "zh": "(写)网络日志; 博客",
+                            "pos": "n/vi",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "What is the purpose of this <highlight>blog</highlight>?",
+                                    "month": -1,
+                                    "source": "杭州市卷",
+                                    "coll": "",
+                                    "sentence_trans": "这个博客的目的是什么？",
+                                    "year": 2021,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Read the following <highlight>blog</highlight> (博客) and replies about a fun, easy and creative way to make your lifestyle greener.",
+                                    "month": -1,
+                                    "source": "杭州卷",
+                                    "coll": "",
+                                    "sentence_trans": "阅读下面的博客和回复，了解一种有趣、简单且有创意的方式，让你的生活方式更加环保。",
+                                    "year": 2020,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "There is something different in this week's <highlight>blog</highlight>.",
+                                    "month": -1,
+                                    "source": "山东青岛卷",
+                                    "coll": "",
+                                    "sentence_trans": "本周的博客有些不同。",
+                                    "year": 2019,
+                                    "type": "阅读填空",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            "sentencesData": {
+                "status": 1,
+                "info": "notZh2En",
+                "data": {}
+            },
+            "isAutoMatch": false,
+            "Zh2En": false
+        },
+        "query": "blog",
+        "result": "博客",
+        "tabSelect": "detail",
+        "dictionaryType": "oxford_buchong",
+        "notFound_show": false,
+        "phoneticShow": "",
+        "globalShowTranslateRecord": "",
+        "pronPrefer": {
+            "type": "usa_1",
+            "speaker": "male",
+            "speed": "standard"
+        },
+        "ServerRecord": "",
+        "ServerUIGS": {
+            "version": "new",
+            "type": "all",
+            "stype": "success",
+            "terminal": "web",
+            "fr": "default",
+            "direction": "etoz",
+            "from": "en",
+            "to": "zh-CHS",
+            "len": 4,
+            "qtype": "text",
+            "qctype": "qc_1",
+            "dict_cover": 1,
+            "detail": 1,
+            "wordCardCover": 1,
+            "wordCardEn": 1,
+            "wordCardCh": 0,
+            "wordCardMinor": 0,
+            "wordCardNetmean": 0,
+            "wordDeform": 1,
+            "keyword": 0,
+            "bilingual": 1,
+            "simple": 0,
+            "levelList": 1,
+            "synonym": 1,
+            "antonym": 0,
+            "conjugate": 0,
+            "rootaffix": 0,
+            "baike_sogou": 1,
+            "baike_wiki": 0,
+            "wordDifference": 0,
+            "word_phrase": 0,
+            "secondQuery": 0,
+            "dict_oxford": 0,
+            "dict_newcentury": 0,
+            "zhongkaotab": 1,
+            "gaokaotab": 1,
+            "CET4tab": 1,
+            "CET6tab": 1,
+            "kaoyantab": 1,
+            "network_tab": 0,
+            "yinying_tab": 1,
+            "tuozhan_tab": 0,
+            "one_pic": 0,
+            "more_pic": 0,
+            "no_pic": 0,
+            "uuid": "c79f6644-c6d9-4596-9592-71eb3b6d169d",
+            "from_type": 0,
+            "t_trans_ssr": 130
+        },
+        "ServerModelUIGS": {
+            "terminal": "web",
+            "type": "trans_model",
+            "pbtype": "pv",
+            "model_general": 1,
+            "model_medical": 1,
+            "model_finance": 1
+        },
+        "ServerSgtkn": "64EA5F9D569EF15952557AE897574512538CA46D675521DD",
+        "suggShow": false,
+        "suggestion": "",
+        "suggDirection": "",
+        "usualTop": "",
+        "baseDict": "",
+        "wordCardClick": false,
+        "isFrInput": false,
+        "kanaTips": {
+            "show": false,
+            "left": "",
+            "top": "",
+            "type": "",
+            "arrowLeft": ""
+        },
+        "currSentenceIndex": -1,
+        "prefixStrObj": {
+            "prefixStr": "",
+            "oriPrefixStr": ""
+        },
+        "selectTransBox": {
+            "show": false,
+            "right": 0,
+            "top": 0,
+            "paraphraseInfo": {
+                "word": "",
+                "from": "",
+                "to": "",
+                "area": ""
+            }
+        },
+        "sentenceLoading": false,
+        "newSentenceInfo": {
+            "sentence": "",
+            "candidateIndex": 0
+        },
+        "moreTipInfo": {
+            "opacity": 0,
+            "zIndex": -1
+        },
+        "paraphraseShowInfo": {
+            "card": 0,
+            "query": "",
+            "card_dict": 0
+        },
+        "selectType": "",
+        "wordPos": 0,
+        "candidateWord": "",
+        "syntaxVisible": false,
+        "syntaxStatus": 0
+    },
+    "language": {
+        "from": "auto",
+        "to": "zh-CHS",
+        "detect": "en",
+        "model": "general",
+        "detectShow": false,
+        "langMap": {
+            "current": ""
+        },
+        "zh2en": false,
+        "fromItemList": [
+            {
+                "lang": "auto",
+                "text": "自动检测",
+                "play": false
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "ko",
+                "text": "韩语",
+                "play": true,
+                "abbr": "韩"
+            },
+            {
+                "lang": "th",
+                "text": "泰语",
+                "play": true,
+                "abbr": "泰"
+            },
+            {
+                "lang": "fr",
+                "text": "法语",
+                "play": true,
+                "abbr": "法"
+            }
+        ],
+        "toItemList": [
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "ru",
+                "text": "俄语",
+                "play": true,
+                "abbr": "俄"
+            },
+            {
+                "lang": "fr",
+                "text": "法语",
+                "play": true,
+                "abbr": "法"
+            },
+            {
+                "lang": "vi",
+                "text": "越南语",
+                "play": true,
+                "abbr": "越"
+            }
+        ]
+    },
+    "voice": {
+        "from": {
+            "lang": "en",
+            "type": "from",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22blog%22%2C%22spokenDialect%22%3A%22en%22%2C%22rate%22%3A%220.8%22%7D",
+            "list": [
+                {
+                    "type": "uk_0",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "blɒɡ",
+                    "abbr": "英",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/5883_blog_uk.mp3"
+                },
+                {
+                    "type": "usa_1",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "blɑːɡ",
+                    "abbr": "美",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/5883_blog_usa.mp3"
+                }
+            ],
+            "stype": "phonetic",
+            "phoneticShow": [
+                {
+                    "text": "blɒɡ",
+                    "type": "uk",
+                    "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/5883_blog_uk.mp3"
+                },
+                {
+                    "text": "blɑːɡ",
+                    "type": "usa",
+                    "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/5883_blog_usa.mp3"
+                }
+            ]
+        },
+        "to": {
+            "lang": "zh",
+            "type": "to",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22%E5%8D%9A%E5%AE%A2%22%2C%22spokenDialect%22%3A%22zh-CHS%22%2C%22rate%22%3A%220.8%22%7D",
+            "stype": "normal"
+        }
+    }
+}

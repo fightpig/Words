@@ -1,0 +1,812 @@
+{
+    "route": {
+        "name": "text",
+        "path": "/text",
+        "hash": "",
+        "query": {
+            "keyword": "ice cream",
+            "transfrom": "auto",
+            "transto": "zh-CHS",
+            "model": "general",
+            "errcode": "s10"
+        },
+        "params": {},
+        "fullPath": "/text?keyword=ice%20cream&transfrom=auto&transto=zh-CHS&model=general&errcode=s10",
+        "meta": {
+            "mtype": [
+                "textTranslate",
+                "language",
+                "voice"
+            ]
+        },
+        "from": {
+            "name": null,
+            "path": "/",
+            "hash": "",
+            "query": {},
+            "params": {},
+            "fullPath": "/",
+            "meta": {}
+        }
+    },
+    "common": {
+        "CONFIG": {
+            "wuid": 1733633845792,
+            "loginInfo": {},
+            "isIE": 0,
+            "isHitSsrSwitch": true,
+            "isHitWritebookSwitch": false,
+            "isHitAmsSwitch": true,
+            "promotionList": "{\n    \"pc_bottom\":{\n        \"imgsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\",\n        \"qcsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\"\n    },\n    \"pc_middle\":[\n        {\n            \"src\":\"//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c\",\n            \"bgColor\":\"#ffffff\",\n            \"link\":\"\"\n        }\n    ],\n    \"pc_survey\":{\n        \"icon\":\"//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750\",\n        \"link\":\"https://wj.qq.com/s2/8193148/806d/\"\n    }\n}",
+            "bannerData": [],
+            "isHitAsideSurvey": false,
+            "secretCode": 109984457,
+            "uuid": "77ddbb8f-0e35-4dd9-a907-ea758d5f4f9d",
+            "referer": "",
+            "approveToken": "64EF3FE1BA721CB5BEB99604AA3232BEBFA9856967552735",
+            "loadTime": 1733633845794,
+            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0",
+            "fcp": "31.223.184.69",
+            "temporaryId": "",
+            "fileId": ""
+        },
+        "hotWords": [],
+        "isFromCollect": false,
+        "psdModify": {
+            "currentStep": 1,
+            "scode": "",
+            "username": ""
+        },
+        "loginStatus": true,
+        "feedBackModule": false,
+        "showPromotionPopup": {
+            "show": false,
+            "type": ""
+        },
+        "showPromotionPCDownload": false,
+        "showShareBomb": false,
+        "shareData": null,
+        "showAppDownLoad": false,
+        "showLoginDialog": false,
+        "showLoading": {
+            "show": false
+        },
+        "toast": {
+            "show": false,
+            "text": "",
+            "loading": false
+        },
+        "modelToast": {
+            "show": false,
+            "text": ""
+        },
+        "selectionGlobalShow": true,
+        "selectionInfo": {
+            "left": 0,
+            "top": 0,
+            "show": false,
+            "from": "",
+            "to": "",
+            "val": "",
+            "area": ""
+        },
+        "showConfirmDialog": false,
+        "promotionList": {
+            "pc_bottom": {
+                "imgsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png",
+                "qcsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png"
+            },
+            "pc_middle": [
+                {
+                    "src": "//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c",
+                    "bgColor": "#ffffff",
+                    "link": ""
+                }
+            ],
+            "pc_survey": {
+                "icon": "//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750",
+                "link": "https://wj.qq.com/s2/8193148/806d/"
+            }
+        },
+        "transTypeTxt": "text",
+        "fixedTabStatus": 0,
+        "bodyTop": 0,
+        "ifHideUserOperation": false
+    },
+    "textTranslate": {
+        "prevTransQuery": "",
+        "translateData": {
+            "translate": {
+                "zly": "zly",
+                "errorCode": "0",
+                "qc_type": "1",
+                "index": "content0",
+                "from": "en",
+                "source": "sogou",
+                "text": "ice cream",
+                "to": "zh-CHS",
+                "id": "77ddbb8f-0e35-4dd9-a907-ea758d5f4f9d",
+                "dit": "冰淇淋",
+                "orig_text": "ice cream",
+                "md5": ""
+            },
+            "detect": {
+                "zly": "zly",
+                "detect": "en",
+                "errorCode": "0",
+                "language": "英语",
+                "id": "eaffac60-b520-11ef-b000-a3dc05e91dda",
+                "text": "ice cream"
+            },
+            "sgtkn": "64EF3FE9BA721CB5BEB99604AA3232BEBFA9856967552735",
+            "wordCard": {
+                "title": "ice cream",
+                "show": true,
+                "usualDict": [
+                    {
+                        "values": [
+                            "冰淇淋；冰激凌"
+                        ],
+                        "pos": "n."
+                    }
+                ],
+                "secondQuery": "",
+                "exchange": {
+                    "word_pl": [
+                        "ice creams"
+                    ]
+                },
+                "levelList": [
+                    "小学",
+                    "初中",
+                    "考研"
+                ]
+            },
+            "detail": {
+                "word_group": [
+                    {
+                        "brief_definition": "三色冰激凌",
+                        "phrase": "Neapolitan ice cream",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "冰淇淋蛋卷；冰淇淋甜筒；冰淇淋蛋筒",
+                        "phrase": "ice cream cone",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "冰淇淋三明治",
+                        "phrase": "ice cream sandwich",
+                        "pos": ""
+                    }
+                ],
+                "bilingual": [
+                    {
+                        "source": "Colour in the <em>ice cream</em>.",
+                        "target": "给冰淇淋涂色。",
+                        "url": ""
+                    },
+                    {
+                        "source": "I am having an <em>ice cream</em>.",
+                        "target": "我在吃冰淇淋。",
+                        "url": ""
+                    },
+                    {
+                        "source": "The <em>ice cream</em> is ready.",
+                        "target": "冰淇淋准备好了。",
+                        "url": ""
+                    },
+                    {
+                        "source": "I don't want no <em>ice cream</em>.",
+                        "target": "我不想要冰淇淋。",
+                        "url": ""
+                    },
+                    {
+                        "source": "I like strawberry <em>ice cream</em>.",
+                        "target": "我喜欢草莓冰淇淋。",
+                        "url": ""
+                    },
+                    {
+                        "source": "The <em>ice cream</em> van had vanished.",
+                        "target": "冰淇淋车消失了。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Jaber doesn't like <em>ice cream</em>.",
+                        "target": "贾贝尔不喜欢冰淇淋。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Can I have <em>ice cream</em> or jam?",
+                        "target": "我可以吃冰淇淋或果酱吗？",
+                        "url": ""
+                    },
+                    {
+                        "source": "Andy wants <em>ice cream</em> and candy.",
+                        "target": "安迪想要冰淇淋和糖果。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Can I have some <em>ice cream</em>, please?",
+                        "target": "我能要一些冰淇淋吗？",
+                        "url": ""
+                    }
+                ],
+                "baike": {
+                    "showMore": true,
+                    "list": [
+                        {
+                            "lemmaTitle": "冰淇淋",
+                            "link": "https://baike.sogou.com/v49705.htm?ch=op.sogou.fanyi",
+                            "abstract": "冰淇淋是以饮用水、牛乳、奶粉、奶油（或植物油脂）、食糖等为主要原料，加入适量食品添加剂，经混合、灭菌、均质、老化、凝冻、硬化等工艺制成的体积膨胀的冷冻食品，起源于意大利。 冰淇淋含有蛋白质及高糖高脂，大多数口味含糖，成品会呈现表面平滑的半凝固状态，可塑型或用勺子挖取。",
+                            "wapPic": "//img03.sogoucdn.com/v2/thumb/retype_exclude_gif/ext/auto/q/80/crop/xy/ai/w/140/h/140/resize/w/140?appid=201005&sign=655d17ba75c59fdc77d3a741198a52ab&url=https%3A%2F%2Fpic.baike.soso.com%2Fugc%2Fbaikepic2%2F407%2Fcut-20170814111528-1765502766_jpg_1005_670_56075.jpg%2F800",
+                            "pcPic": "//img03.sogoucdn.com/v2/thumb/retype_exclude_gif/ext/auto/q/80/crop/xy/ai/w/140/h/140/resize/w/140?appid=201005&sign=2fab1916538ae5fdfeef5c91cd5becde&url=http%3A%2F%2Fpic.baike.soso.com%2Fugc%2Fbaikepic2%2F4594%2Fcut-20210215112849-1158203044_jpg_806_648_77448.jpg%2F300"
+                        },
+                        {
+                            "lemmaTitle": "Ice Cream",
+                            "link": "https://baike.sogou.com/v193010998.htm?ch=op.sogou.fanyi",
+                            "abstract": "《Ice Cream》是韩国女子演唱组合BLACKPINK与美国女歌手赛琳娜·戈麦斯（Selena Gomez）共同演唱的一首歌曲，于2020年8月28日首发。 《Ice Cream》是一首突出简约节奏和轻快旋律的歌曲，正如歌名一样，是最适合炎热夏天的流行歌曲。",
+                            "wapPic": "//img03.sogoucdn.com/v2/thumb/retype_exclude_gif/ext/auto/q/80/crop/xy/ai/w/140/h/140/resize/w/140?appid=201005&sign=1999f66944034d5e3e028fd2657bb4c6&url=https%3A%2F%2Fpic.baike.soso.com%2Fugc%2Fbaikepic2%2F2885%2F20200829110109-486454014_jpeg_300_300_17184.jpg%2F300",
+                            "pcPic": "//img03.sogoucdn.com/v2/thumb/retype_exclude_gif/ext/auto/q/80/crop/xy/ai/w/140/h/140/resize/w/140?appid=201005&sign=1999f66944034d5e3e028fd2657bb4c6&url=https%3A%2F%2Fpic.baike.soso.com%2Fugc%2Fbaikepic2%2F2885%2F20200829110109-486454014_jpeg_300_300_17184.jpg%2F300"
+                        }
+                    ]
+                }
+            },
+            "book": {
+                "yingyinNormal": [
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/629af26ee246702b04dae9c64fe5736b_64581.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/031e269d38e472901009d4218aeb68a5_68073.mp3",
+                        "isLavafox": true,
+                        "en": "Can I have a cherry <em>ice-cream</em>?",
+                        "zh": "我可以要一个樱桃味的冰淇淋吗？",
+                        "videoNameZh": "《小猪佩奇（精选版）》",
+                        "videoNameEn": "《Peppa Pig》",
+                        "url": "http://bisentence_movie.sogou.com/0f96a63eb1bc0ed1548f41eab8713b23_85a0962d39aeb78fe69c92e89bacb8b83140207c"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/ab18255ca7e77ff7cadaab56e4d92197_48116.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/4311194118f95bb46006cc05196ce800_9772.mp3",
+                        "isLavafox": true,
+                        "en": "Once again, I was fooled by <em>ice cream</em>.",
+                        "zh": "我又一次被冰淇淋蒙蔽了双眼。",
+                        "videoNameZh": "《破产姐妹 第四季》",
+                        "videoNameEn": "《2 Broke Girls Season 4》",
+                        "url": "http://bisentence_movie.sogou.com/28713d23307e76cea77661045b37da97_546330e8bfedf58d2e7ba288437ea83e10c321d8"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/3bccca9abe5ab96bd7f3eaed6bd40cf2_52899.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/bcae056db0df3eb90666385e865167f0_30398.mp3",
+                        "isLavafox": true,
+                        "en": "You don't like <em>ice cream</em>? It's too cold.",
+                        "zh": "你不喜欢冰淇淋？它太冰了。",
+                        "videoNameZh": "《老友记 第七季》",
+                        "videoNameEn": "《Friends Season 7》",
+                        "url": "http://bisentence_movie.sogou.com/2c1fc422e0134c580387633315d72355_47b5d3a9898dc5540a60701092862dd098e02da2"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/8a5b25dfe5e482fce849895959f35aba_1648.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/4e29a1117da612e72923e0a2283342d9_44115.mp3",
+                        "isLavafox": true,
+                        "en": "This <em>ice cream</em> tastes like crap by the way.",
+                        "zh": "对了，这个冰淇淋味道好烂。",
+                        "videoNameZh": "《老友记 第三季》",
+                        "videoNameEn": "《Friends Season 3》",
+                        "url": "http://bisentence_movie.sogou.com/588db6717fefa42a81f3a99c3916c842_ddd1d06904aa419a7c85196af8fd4c929eb97fd2"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/5dc3cf8cad26e071498ca907fcc13dc6_46983.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/90a63ab50a76562cb550e19d952394a6_51035.mp3",
+                        "isLavafox": true,
+                        "en": "Do you not want an <em>ice cream</em> George? No, dinosaur.",
+                        "zh": "你不想要冰淇淋吧，乔治？不，要恐龙！",
+                        "videoNameZh": "《小猪佩奇 第四季》",
+                        "videoNameEn": "《Peppa Pig Season 4》",
+                        "url": "http://bisentence_movie.sogou.com/4e9bb86ff600896ee63b065a8bafffac_175cbc33f6628be9cf512c771f12abeff43b6dcb"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/efb46b0d09a0d16595177f67fa563c67_36206.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/2a81ce3a62c0852ecbb2b81b29bc611a_31089.mp3",
+                        "isLavafox": true,
+                        "en": "It's melted. How about <em>ice-cream</em> soup, instead?",
+                        "zh": "怎么都化了呢，要不然，给你来个冰淇淋汤怎么样？",
+                        "videoNameZh": "《100天养成流利口语》",
+                        "videoNameEn": "《Get fluent spoken English in 100 days》",
+                        "url": "http://bisentence_movie.sogou.com/2f71686e6074c32f360136caeaa9ea13_34cee01773a8e981927bd79c3caa3c611cbacbba"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/629af26ee246702b04dae9c64fe5736b_64581.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/8ed5c9dcb8be7df1b1463ba6c80446f3_4309.mp3",
+                        "isLavafox": true,
+                        "en": "Strawberry. Oh, it's melted. How about <em>ice-cream</em> soup, instead?",
+                        "zh": "草莓。噢，它化了。换成冰淇淋汤怎么样？",
+                        "videoNameZh": "《小猪佩奇（精选版）》",
+                        "videoNameEn": "《Peppa Pig》",
+                        "url": "http://bisentence_movie.sogou.com/16dbc71e0c483b7d17d93c99f82d0c3a_70e33b18d7cbf73eb61e8e767c2eba3462caa84c"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/5440028de015a767476054a27cf789d8_26933.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/c323c05014a0e99b2cf05a7f60a9c406_5340.mp3",
+                        "isLavafox": true,
+                        "en": "<em>Ice cream</em>. <em>Ice cream</em>. Ms. Rabbit, the <em>ice cream</em> lady. lce cream. On very hot days, Ms. Rabbit sells <em>ice cream</em>.",
+                        "zh": "冰淇淋，冰淇淋。是卖冰淇淋的兔小姐。冰淇淋。天很热的时候，兔小姐会卖冰淇淋。",
+                        "videoNameZh": "《小猪佩奇 第一季》",
+                        "videoNameEn": "《Peppa Pig Season 1》",
+                        "url": "http://bisentence_movie.sogou.com/7dec996810f761f74664031705c325c4_262685f4d32fbbf8f28e2bbb6556bc1ab376dd6f"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/b73d6e20976b7ffe4e651b29ea5ddefc_31309.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/639b253e26eae21ba3244c8573e79240_68686.mp3",
+                        "isLavafox": true,
+                        "en": "<em>Ice cream</em>. <em>Ice cream</em>. It is Miss Rabbit, the <em>ice cream</em> lady.",
+                        "zh": "冰淇淋！过来的是来买冰淇淋的兔小姐。",
+                        "videoNameZh": "《粉红猪小妹 第二季》",
+                        "videoNameEn": "《Peppa Pig Season 2》",
+                        "url": "http://bisentence_movie.sogou.com/5cb93879ab6f49a71fab892a669bbba7_61a05d65ee9c4aaee028c95e67b62bec9503771a"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/629af26ee246702b04dae9c64fe5736b_64581.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/ea2cc219ae8201bcd863699ed82dce04_57310.mp3",
+                        "isLavafox": true,
+                        "en": "<em>Ice cream</em>. <em>Ice cream</em>. Ms. Rabbit, the <em>ice cream</em> lady. <em>Ice cream</em>. On very hot days, Ms. Rabbit sells <em>ice cream</em>.",
+                        "zh": "冰淇淋！兔小姐，冰淇林女士！冰淇淋！天气非常热的时候，兔小姐卖冰淇淋。",
+                        "videoNameZh": "《小猪佩奇（精选版）》",
+                        "videoNameEn": "《Peppa Pig》",
+                        "url": "http://bisentence_movie.sogou.com/c9028958fe55369ae7147a35eb5c0185_740ef6fdefad4c185f89333a0ca35f0a97b48ce3"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/5440028de015a767476054a27cf789d8_26933.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/c875abbdb19507c6ec37f423400c0d0e_49777.mp3",
+                        "isLavafox": true,
+                        "en": "<em>Ice cream</em>, everyone. <em>Ice cream</em>. Peppa. George. You must take off those muddy clothes before you eat.",
+                        "zh": "大家来吃冰淇淋。有冰淇淋吃。佩琪，乔治，在吃冰淇淋之前，得把脏衣服给脱掉。",
+                        "videoNameZh": "《小猪佩奇 第一季》",
+                        "videoNameEn": "《Peppa Pig Season 1》",
+                        "url": "http://bisentence_movie.sogou.com/896f953e5f099277821f9e9196e94dea_baf2a5938eb1929d084e1be422c4117cada67293"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/629af26ee246702b04dae9c64fe5736b_64581.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/69fe25973a802652ba4bc004cef76b4e_11551.mp3",
+                        "isLavafox": true,
+                        "en": "Miss Rabbit is ill. You've got to sell the <em>ice-cream</em> today. Oh, I am an expert of <em>ice-cream</em>.",
+                        "zh": "兔女士生病了。你今天要卖冰淇淋。噢，我可是冰淇淋专家。",
+                        "videoNameZh": "《小猪佩奇（精选版）》",
+                        "videoNameEn": "《Peppa Pig》",
+                        "url": "http://bisentence_movie.sogou.com/0f7a16f9690344a159d43b43cb6507bf_e94af6dc3085af48ba627a5c0bb67d5589fb368a"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/a3f6ca8d0ebaa5b0956976d643673427_52102.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/676c2060e9aea5b3f3dbadb3c5a4caa1_50173.mp3",
+                        "isLavafox": true,
+                        "en": "Miss rabbit's <em>ice-cream</em> store. Daddy, why are you buying an <em>ice-cream</em>? Oh, Peppa, I was on the way to the gym. Well I thought an <em>ice-Cream</em> would be nice.",
+                        "zh": "这里是兔小姐的冰淇淋店。爸爸，你为什么会去买冰淇淋呢。哦，佩奇，我本来要去健身房的。后来觉得买个冰淇淋也不错。",
+                        "videoNameZh": "《小猪佩奇 第三季》",
+                        "videoNameEn": "《Peppa Pig Season 3》",
+                        "url": "http://bisentence_movie.sogou.com/4408ed5e1eb12d8644f51a8b18c6711b_5076ba16f7f82609eaad0d3739b6589b40f1bb1f"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/629af26ee246702b04dae9c64fe5736b_64581.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/e7fe15ca72679a0ae1f5fee5793764e5_47875.mp3",
+                        "isLavafox": true,
+                        "en": "Miss rabbit's <em>ice-cream</em> store.",
+                        "zh": "兔女士的冰淇淋店。",
+                        "videoNameZh": "《小猪佩奇（精选版）》",
+                        "videoNameEn": "《Peppa Pig》",
+                        "url": "http://bisentence_movie.sogou.com/5ed241b18416ab947ac6de5672150053_06f0596c87c78bd0d2ba8969fd37a54a14367166"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/a3f6ca8d0ebaa5b0956976d643673427_52102.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/3e1b0265f1da86ecaecc9c55abe482f9_31378.mp3",
+                        "isLavafox": true,
+                        "en": "Miss Rabbit is ill. You've got to sell the <em>ice-cream</em> today. Oh, I am an expert of <em>ice-cream</em>.",
+                        "zh": "兔小姐生病了，今天需要你来替她卖冰淇淋了。哦，我可是很擅长卖冰淇淋的。",
+                        "videoNameZh": "《小猪佩奇 第三季》",
+                        "videoNameEn": "《Peppa Pig Season 3》",
+                        "url": "http://bisentence_movie.sogou.com/8a7484a0c0eeefbcfb71beb1cbfb1803_01da5559aeb78021c396c750f0589e13907a267e"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/efb46b0d09a0d16595177f67fa563c67_36206.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/d9c0f54c79b7db9f88d7234a163e79b9_29272.mp3",
+                        "isLavafox": true,
+                        "en": "Miss Rabbit is ill. You've got to sell the <em>ice-cream</em> today. Oh, I am an expert of <em>ice-cream</em>.",
+                        "zh": "兔小姐生病了，今天需要你来替她卖冰淇淋了。哦，我可是很擅长卖冰淇淋的。",
+                        "videoNameZh": "《100天养成流利口语》",
+                        "videoNameEn": "《Get fluent spoken English in 100 days》",
+                        "url": "http://bisentence_movie.sogou.com/73731ad4bd39c06c6a0745fed768affe_50bf0c2d0ba819035c1a56d725e97c26540ef070"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/b73d6e20976b7ffe4e651b29ea5ddefc_31309.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/bd11328ebf227e6986d4c3140769d87e_43062.mp3",
+                        "isLavafox": true,
+                        "en": "What's that noise? <em>Ice-cream</em>. <em>Ice-cream</em>. Horray. Oh dear, George has forgotten to close the door.",
+                        "zh": "这是什么声音啊？冰淇淋车!冰淇淋车！好嘞！噢糟糕，乔治忘了把门给关上了。",
+                        "videoNameZh": "《粉红猪小妹 第二季》",
+                        "videoNameEn": "《Peppa Pig Season 2》",
+                        "url": "http://bisentence_movie.sogou.com/7f2f7bee835d893c0f3146dcd20ab922_5ea02789acc893a8805437c03d1ec9eddd04d59c"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/a3f6ca8d0ebaa5b0956976d643673427_52102.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/ddd268acef2cb89313a87b231dba9b4a_61149.mp3",
+                        "isLavafox": true,
+                        "en": "Who wants an <em>ice-cream</em>? Me, me, me. Everyone likes <em>ice cream</em>s of the seaside.",
+                        "zh": "有谁要冰淇淋吗？我要，我要！大家都喜欢在海边吃冰淇淋。",
+                        "videoNameZh": "《小猪佩奇 第三季》",
+                        "videoNameEn": "《Peppa Pig Season 3》",
+                        "url": "http://bisentence_movie.sogou.com/7b0cb7d4c83843fb85e3dc575bb9de8a_c1f057ac766ab01ae03f6a63d62656a792235120"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/629af26ee246702b04dae9c64fe5736b_64581.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/74a4e29de4a1f09731e7d890ef78ef27_45869.mp3",
+                        "isLavafox": true,
+                        "en": "<em>Ice cream</em>, everyone. <em>Ice cream</em>! Peppa! George! You must take off those muddy clothes before you eat.",
+                        "zh": "冰淇淋来了，大家！冰淇淋！佩佩！乔治！在你们吃之前，你们必须脱掉这些泥衣服。",
+                        "videoNameZh": "《小猪佩奇（精选版）》",
+                        "videoNameEn": "《Peppa Pig》",
+                        "url": "http://bisentence_movie.sogou.com/7e1d7d3d852581a03398bc16589f5b70_1c4ed41a71dcfc3612ca4c963ebbb4bd095233ca"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/629af26ee246702b04dae9c64fe5736b_64581.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/541327040fd7644c4ba3b19542eb9891_28990.mp3",
+                        "isLavafox": true,
+                        "en": "Daddy, why are you buying an <em>ice-cream</em>? Oh, Peppa, I was on the way to the gym. What I thought an <em>ice-Cream</em> would be nice.",
+                        "zh": "爸爸，为什么你买了一个冰淇淋？噢，佩佩，我正要去体育场，我觉得吃个冰淇淋感觉比较好。",
+                        "videoNameZh": "《小猪佩奇（精选版）》",
+                        "videoNameEn": "《Peppa Pig》",
+                        "url": "http://bisentence_movie.sogou.com/72f3d53aea298eb95da8a3d2a5f521c6_82c18ab5c447922f41c9bd306e28c8da0bcf2aa7"
+                    }
+                ]
+            },
+            "pic": "",
+            "voice": {
+                "phonetic": [
+                    {
+                        "text": "ˈaɪs kriːm",
+                        "type": "uk",
+                        "filename": "http://pic04.sogoucdn.com/s3/a/201051/ice_cream_uk_20231206.mp3"
+                    },
+                    {
+                        "text": "ˈaɪs kriːm",
+                        "type": "usa",
+                        "filename": "http://pic02.sogoucdn.com/s3/a/201051/ice_cream_usa_20231206.mp3"
+                    }
+                ]
+            },
+            "keywords": [
+                {
+                    "key": "ice cream",
+                    "value": "冰淇淋；冰激凌"
+                }
+            ],
+            "dictType": "oxford_buchong",
+            "gaokao": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 3,
+                        "pos": "n.phr",
+                        "chinese": "冰淇淋",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "ice cream",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2015-2022年8年间全国卷和自主命题省市高考卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2015-2022年全国卷高考试卷，包括阅读、完形、单选、填空、听力、改错、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选各省市考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2015-2022年8年间全国卷和自主命题省市高考卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 1,
+                "total_exam_freq": 3,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "冰淇淋",
+                            "pos": "n.phr",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "Can I still have <highlight>ice cream</highlight>?",
+                                    "month": -1,
+                                    "source": "全国乙卷",
+                                    "coll": "",
+                                    "sentence_trans": "我还能吃冰淇淋吗？",
+                                    "year": 2021,
+                                    "type": "听力",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            "zhongkao": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 0,
+                        "pos": "n",
+                        "chinese": "冰淇淋",
+                        "sense_tier_ratio": 0
+                    }
+                ],
+                "word": "ice cream",
+                "direction_info": {
+                    "ranges": 4,
+                    "description": "数据源自2018-2021年4年间全国各省市中考试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2018-2021年全国重点省市中考试卷，包括听力、阅读、完形、单选、填空、改错、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选各省市考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2018-2021年4年间全国各省市中考试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 1,
+                "total_exam_freq": 0,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "synonyms": "",
+                            "en": "",
+                            "zh": "冰淇淋",
+                            "pos": "n",
+                            "antonyms": ""
+                        }
+                    ]
+                }
+            },
+            "sentencesData": {
+                "status": 1,
+                "info": "notZh2En",
+                "data": {}
+            },
+            "isAutoMatch": false,
+            "Zh2En": false
+        },
+        "query": "ice cream",
+        "result": "冰淇淋",
+        "tabSelect": "detail",
+        "dictionaryType": "oxford_buchong",
+        "notFound_show": false,
+        "phoneticShow": "",
+        "globalShowTranslateRecord": "",
+        "pronPrefer": {
+            "type": "usa_1",
+            "speaker": "male",
+            "speed": "standard"
+        },
+        "ServerRecord": "",
+        "ServerUIGS": {
+            "version": "new",
+            "type": "all",
+            "stype": "success",
+            "terminal": "web",
+            "fr": "default",
+            "direction": "etoz",
+            "from": "en",
+            "to": "zh-CHS",
+            "len": 9,
+            "qtype": "text",
+            "qctype": "qc_1",
+            "dict_cover": 1,
+            "detail": 1,
+            "wordCardCover": 1,
+            "wordCardEn": 1,
+            "wordCardCh": 0,
+            "wordCardMinor": 0,
+            "wordCardNetmean": 0,
+            "wordDeform": 1,
+            "keyword": 1,
+            "bilingual": 1,
+            "simple": 0,
+            "levelList": 1,
+            "synonym": 0,
+            "antonym": 0,
+            "conjugate": 0,
+            "rootaffix": 0,
+            "baike_sogou": 1,
+            "baike_wiki": 0,
+            "wordDifference": 0,
+            "word_phrase": 1,
+            "secondQuery": 0,
+            "dict_oxford": 0,
+            "dict_newcentury": 0,
+            "zhongkaotab": 1,
+            "gaokaotab": 1,
+            "CET4tab": 0,
+            "CET6tab": 0,
+            "kaoyantab": 0,
+            "network_tab": 0,
+            "yinying_tab": 1,
+            "tuozhan_tab": 0,
+            "one_pic": 0,
+            "more_pic": 0,
+            "no_pic": 0,
+            "uuid": "77ddbb8f-0e35-4dd9-a907-ea758d5f4f9d",
+            "from_type": 0,
+            "t_trans_ssr": 149
+        },
+        "ServerModelUIGS": {
+            "terminal": "web",
+            "type": "trans_model",
+            "pbtype": "pv",
+            "model_general": 1,
+            "model_medical": 1,
+            "model_finance": 1
+        },
+        "ServerSgtkn": "64EF3FE9BA721CB5BEB99604AA3232BEBFA9856967552735",
+        "suggShow": false,
+        "suggestion": "",
+        "suggDirection": "",
+        "usualTop": "",
+        "baseDict": "",
+        "wordCardClick": false,
+        "isFrInput": false,
+        "kanaTips": {
+            "show": false,
+            "left": "",
+            "top": "",
+            "type": "",
+            "arrowLeft": ""
+        },
+        "currSentenceIndex": -1,
+        "prefixStrObj": {
+            "prefixStr": "",
+            "oriPrefixStr": ""
+        },
+        "selectTransBox": {
+            "show": false,
+            "right": 0,
+            "top": 0,
+            "paraphraseInfo": {
+                "word": "",
+                "from": "",
+                "to": "",
+                "area": ""
+            }
+        },
+        "sentenceLoading": false,
+        "newSentenceInfo": {
+            "sentence": "",
+            "candidateIndex": 0
+        },
+        "moreTipInfo": {
+            "opacity": 0,
+            "zIndex": -1
+        },
+        "paraphraseShowInfo": {
+            "card": 0,
+            "query": "",
+            "card_dict": 0
+        },
+        "selectType": "",
+        "wordPos": 0,
+        "candidateWord": "",
+        "syntaxVisible": false,
+        "syntaxStatus": 0
+    },
+    "language": {
+        "from": "auto",
+        "to": "zh-CHS",
+        "detect": "en",
+        "model": "general",
+        "detectShow": false,
+        "langMap": {
+            "current": ""
+        },
+        "zh2en": false,
+        "fromItemList": [
+            {
+                "lang": "auto",
+                "text": "自动检测",
+                "play": false
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "th",
+                "text": "泰语",
+                "play": true,
+                "abbr": "泰"
+            },
+            {
+                "lang": "fr",
+                "text": "法语",
+                "play": true,
+                "abbr": "法"
+            },
+            {
+                "lang": "de",
+                "text": "德语",
+                "play": true,
+                "abbr": "德"
+            }
+        ],
+        "toItemList": [
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "ko",
+                "text": "韩语",
+                "play": true,
+                "abbr": "韩"
+            },
+            {
+                "lang": "fr",
+                "text": "法语",
+                "play": true,
+                "abbr": "法"
+            },
+            {
+                "lang": "vi",
+                "text": "越南语",
+                "play": true,
+                "abbr": "越"
+            }
+        ]
+    },
+    "voice": {
+        "from": {
+            "lang": "en",
+            "type": "from",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22ice%20cream%22%2C%22spokenDialect%22%3A%22en%22%2C%22rate%22%3A%220.8%22%7D",
+            "list": [
+                {
+                    "type": "uk_0",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "ˈaɪs kriːm",
+                    "abbr": "英",
+                    "src": "http://pic04.sogoucdn.com/s3/a/201051/ice_cream_uk_20231206.mp3"
+                },
+                {
+                    "type": "usa_1",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "ˈaɪs kriːm",
+                    "abbr": "美",
+                    "src": "http://pic02.sogoucdn.com/s3/a/201051/ice_cream_usa_20231206.mp3"
+                }
+            ],
+            "stype": "phonetic",
+            "phoneticShow": [
+                {
+                    "text": "ˈaɪs kriːm",
+                    "type": "uk",
+                    "filename": "http://pic04.sogoucdn.com/s3/a/201051/ice_cream_uk_20231206.mp3"
+                }
+            ]
+        },
+        "to": {
+            "lang": "zh",
+            "type": "to",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22%E5%86%B0%E6%B7%87%E6%B7%8B%22%2C%22spokenDialect%22%3A%22zh-CHS%22%2C%22rate%22%3A%220.8%22%7D",
+            "stype": "normal"
+        }
+    }
+}

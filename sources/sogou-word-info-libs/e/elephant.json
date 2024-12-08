@@ -1,0 +1,977 @@
+{
+    "route": {
+        "name": "text",
+        "path": "/text",
+        "hash": "",
+        "query": {
+            "keyword": "elephant",
+            "transfrom": "auto",
+            "transto": "zh-CHS",
+            "model": "general",
+            "errcode": "s10"
+        },
+        "params": {},
+        "fullPath": "/text?keyword=elephant&transfrom=auto&transto=zh-CHS&model=general&errcode=s10",
+        "meta": {
+            "mtype": [
+                "textTranslate",
+                "language",
+                "voice"
+            ]
+        },
+        "from": {
+            "name": null,
+            "path": "/",
+            "hash": "",
+            "query": {},
+            "params": {},
+            "fullPath": "/",
+            "meta": {}
+        }
+    },
+    "common": {
+        "CONFIG": {
+            "wuid": 1733632993817,
+            "loginInfo": {},
+            "isIE": 0,
+            "isHitSsrSwitch": true,
+            "isHitWritebookSwitch": false,
+            "isHitAmsSwitch": true,
+            "promotionList": "{\n    \"pc_bottom\":{\n        \"imgsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\",\n        \"qcsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\"\n    },\n    \"pc_middle\":[\n        {\n            \"src\":\"//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c\",\n            \"bgColor\":\"#ffffff\",\n            \"link\":\"\"\n        }\n    ],\n    \"pc_survey\":{\n        \"icon\":\"//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750\",\n        \"link\":\"https://wj.qq.com/s2/8193148/806d/\"\n    }\n}",
+            "bannerData": [],
+            "isHitAsideSurvey": false,
+            "secretCode": 109984457,
+            "uuid": "c2b62271-5c45-4cad-bab8-9c545675e4d4",
+            "referer": "",
+            "approveToken": "64EC05E75796F852595C71E3BB9D2BF25A3DE465675523E1",
+            "loadTime": 1733632993820,
+            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0",
+            "fcp": "138.197.122.177",
+            "temporaryId": "",
+            "fileId": ""
+        },
+        "hotWords": [],
+        "isFromCollect": false,
+        "psdModify": {
+            "currentStep": 1,
+            "scode": "",
+            "username": ""
+        },
+        "loginStatus": true,
+        "feedBackModule": false,
+        "showPromotionPopup": {
+            "show": false,
+            "type": ""
+        },
+        "showPromotionPCDownload": false,
+        "showShareBomb": false,
+        "shareData": null,
+        "showAppDownLoad": false,
+        "showLoginDialog": false,
+        "showLoading": {
+            "show": false
+        },
+        "toast": {
+            "show": false,
+            "text": "",
+            "loading": false
+        },
+        "modelToast": {
+            "show": false,
+            "text": ""
+        },
+        "selectionGlobalShow": true,
+        "selectionInfo": {
+            "left": 0,
+            "top": 0,
+            "show": false,
+            "from": "",
+            "to": "",
+            "val": "",
+            "area": ""
+        },
+        "showConfirmDialog": false,
+        "promotionList": {
+            "pc_bottom": {
+                "imgsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png",
+                "qcsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png"
+            },
+            "pc_middle": [
+                {
+                    "src": "//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c",
+                    "bgColor": "#ffffff",
+                    "link": ""
+                }
+            ],
+            "pc_survey": {
+                "icon": "//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750",
+                "link": "https://wj.qq.com/s2/8193148/806d/"
+            }
+        },
+        "transTypeTxt": "text",
+        "fixedTabStatus": 0,
+        "bodyTop": 0,
+        "ifHideUserOperation": false
+    },
+    "textTranslate": {
+        "prevTransQuery": "",
+        "translateData": {
+            "translate": {
+                "zly": "zly",
+                "errorCode": "0",
+                "qc_type": "1",
+                "index": "content0",
+                "from": "en",
+                "source": "sogou",
+                "text": "elephant",
+                "to": "zh-CHS",
+                "id": "c2b62271-5c45-4cad-bab8-9c545675e4d4",
+                "dit": "大象",
+                "orig_text": "elephant",
+                "md5": ""
+            },
+            "detect": {
+                "zly": "zly",
+                "detect": "en",
+                "errorCode": "0",
+                "language": "英语",
+                "id": "ef2ec200-b51e-11ef-8f6a-538b97856d90",
+                "text": "elephant"
+            },
+            "sgtkn": "64EC05EA5796F852595C71E3BB9D2BF25A3DE465675523E1",
+            "wordCard": {
+                "title": "elephant",
+                "show": true,
+                "usualDict": [
+                    {
+                        "values": [
+                            "象；大象；（印刷）象形纸尺寸（约为28×23英寸）"
+                        ],
+                        "pos": "n."
+                    }
+                ],
+                "secondQuery": "",
+                "exchange": {
+                    "word_pl": [
+                        "elephants"
+                    ]
+                },
+                "levelList": [
+                    "小学",
+                    "初中",
+                    "高中",
+                    "四级",
+                    "六级",
+                    "考研"
+                ]
+            },
+            "detail": {
+                "word_group": [
+                    {
+                        "brief_definition": "明摆着的难题, 众所周知却避而不谈的事",
+                        "phrase": "the elephant in the room",
+                        "pos": "idm"
+                    },
+                    {
+                        "brief_definition": "海象；象海豹",
+                        "phrase": "elephant seal",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "印度象，亚洲象。亦称ASIAN ELEPHANT",
+                        "phrase": "Indian elephant",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "海象；象海豹",
+                        "phrase": "sea elephant",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "累赘东西；费而不惠的东西",
+                        "phrase": "white elephant",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "非洲象",
+                        "phrase": "African elephant",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "印度象；亚洲象",
+                        "phrase": "Asian elephant",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "紫狼尾草；象草",
+                        "phrase": "elephant grass",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "隆鸟",
+                        "phrase": "elephant bird",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "象鼩；长鼻鼩",
+                        "phrase": "elephant shrew",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "象耳叶植物",
+                        "phrase": "elephant ear",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "吻或鼻如象鼻的鱼",
+                        "phrase": "elephant fish",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "象天蛾",
+                        "phrase": "elephant hawkmoth",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "一头白象；沉重的负担；无用之物",
+                        "phrase": "a white elephant",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "公象",
+                        "phrase": "bull elephant",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "象群",
+                        "phrase": "elephant herd",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "大象的数量",
+                        "phrase": "elephant numbers",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "骑大象；骑象",
+                        "phrase": "an elephant ride",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "\"非洲象的种群",
+                        "phrase": "African elephant populations",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "大象研究员",
+                        "phrase": "elephant researcher",
+                        "pos": ""
+                    }
+                ],
+                "bilingual": [
+                    {
+                        "source": "The <em>elephant</em> whisperers are the <em>elephant</em> keepers.",
+                        "target": "大象低语者是大象饲养员。",
+                        "url": ""
+                    },
+                    {
+                        "source": "The <em>elephant</em> is drinking water.",
+                        "target": "大象在喝水。",
+                        "url": ""
+                    },
+                    {
+                        "source": "I'm looking at an <em>elephant</em>.",
+                        "target": "我在看一头大象。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Look, the <em>elephant</em> is clever.",
+                        "target": "看，大象很聪明。",
+                        "url": ""
+                    },
+                    {
+                        "source": "I'm walking like an <em>elephant</em>.",
+                        "target": "我像大象一样走路。",
+                        "url": ""
+                    },
+                    {
+                        "source": "The mouse frightened the <em>elephant</em>.",
+                        "target": "老鼠吓到了大象。",
+                        "url": ""
+                    },
+                    {
+                        "source": "The <em>elephant</em> walked into the sunlight.",
+                        "target": "大象走进阳光中。",
+                        "url": ""
+                    },
+                    {
+                        "source": "What's this? It's an <em>elephant</em>.",
+                        "target": "这是什么？这是一只大象。",
+                        "url": ""
+                    },
+                    {
+                        "source": "The <em>elephant</em> woke up and moved slowly.",
+                        "target": "大象醒来并慢慢移动。",
+                        "url": ""
+                    },
+                    {
+                        "source": "The <em>elephant</em> was frightened by the mouse.",
+                        "target": "大象被老鼠吓到了。",
+                        "url": ""
+                    }
+                ],
+                "baike": {
+                    "showMore": true,
+                    "list": [
+                        {
+                            "lemmaTitle": "elephant",
+                            "link": "https://baike.sogou.com/v174614423.htm?ch=sogou.fanyi",
+                            "abstract": "《elephant》是一首由Alexandra Burke演唱的英文歌曲。",
+                            "wapPic": "//img03.sogoucdn.com/v2/thumb/retype_exclude_gif/ext/auto/q/80/crop/xy/ai/w/140/h/140/resize/w/140?appid=201005&sign=6f42e11a689b14eb54c633f8c847de21&url=https%3A%2F%2Fpic.baike.soso.com%2Fugc%2Fbaikepic2%2F6121%2F20220331210712-548554903_png_739_493_374898.jpg%2F0",
+                            "pcPic": "//img03.sogoucdn.com/v2/thumb/retype_exclude_gif/ext/auto/q/80/crop/xy/ai/w/140/h/140/resize/w/140?appid=201005&sign=6f42e11a689b14eb54c633f8c847de21&url=https%3A%2F%2Fpic.baike.soso.com%2Fugc%2Fbaikepic2%2F6121%2F20220331210712-548554903_png_739_493_374898.jpg%2F0"
+                        },
+                        {
+                            "lemmaTitle": "elephant",
+                            "link": "https://baike.sogou.com/v174614425.htm?ch=sogou.fanyi",
+                            "abstract": "This is got to die This is got to stop\n这一切终将消散停止\nThis has got to lie down\n这时要有人屈服\nSomeone else on top\n让另一人高高在上\nYou can keep me pinned\n你可以继续把我的躯体死死钉住\nIt's easier to tease\n这样可以更好的嘲谑\nBut you can't paint an elephant\n但你却无法绘出一头大象\nQuite as good as she\n同她的一样栩栩如生\nAnd she may cry like a baby\n她有时也会如婴儿般哭得泣不成声\nAnd she may drive me Crazy\n有时也令我神魂颠倒\n'Cause I am lately lonely\n可能因为我近来时常茕茕孑立吧\nSo why d' you have to lie?\n你何必欺瞒与我？\nI take it I'm your crutch\n我想我是你精神的拐杖\nThe pillow in your pillow case\n是你枕套里的枕芯\nIt's easier to touch\n更从容简单地去抚摸\nAnd when you think you've sinned\n当你认识到自己身负罪孽\nDo you fall upon your knees?\n你是否会跪下双膝祈求宽恕？\nAnd do you sit within your picture?\n或者是耽溺于你所作的画？\nDo you still forget the breeze?\n仍旧记不得那如微风吹拂般的悸动？\nAnd she may rise'if I sing you down\n如果我的歌声中没有你（放得下你），我或许会真正地关心她\nAnd she may wisely cling to the ground\n她也许也明智地降低自己的地位\nCause I'm lately horny\n因为我近来实在是欲火中烧\nSo why would she take me horny?\n她为何让我如此欲火焚身？\nWhat's the point of this song?Or even singing?\n这首歌有何意义？或只是在无病呻吟？\nYou've already gone'why am I clinging?\n你早已离我远去，我又为何纠缠不休？\nWell I could throw it out' and I could live without\n好吧，我可以抛弃这沉重的枷锁，没有它我也能活下去\nAnd I could do it all for you\n我甘心情愿的为你付出所有\nI could be strong\n我能不再软弱\nTell me if you want me to lie\n告诉我吧，你是否想让我欺骗你\n'Cause this has got to die\n因为这些终究会烟消云散\nThis has got to stop\n这些终究会停止不前\nThis has got to lie down'down\n必须要有人屈服了\nWith someone else on top\n成全另一人高高在上\nYou can both keep me pinned\n你们两个都能让我泥泽深陷，无法自拔\n'Cause it's easier to tease\n这样就可以更好的戏虐于我\nBut you can't make me happy\n但是你们都无法令我\nQuite as good as me\n比自娱自乐时更开心\nWell you know that's a lie\n好吧，一切不过只是自欺欺人的谎言罢了",
+                            "wapPic": "",
+                            "pcPic": ""
+                        }
+                    ]
+                }
+            },
+            "book": {
+                "yingyinNormal": [
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/b73d6e20976b7ffe4e651b29ea5ddefc_31309.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/227e86e412e9c3909871055e4e9f8d88_11558.mp3",
+                        "isLavafox": true,
+                        "en": "Dr. <em>Elephant</em> polishes Mr. Dinosaur's teeth. Pink, pink.",
+                        "zh": "大象医生为恐龙先生的牙齿抛光。粉色，粉色。",
+                        "videoNameZh": "《粉红猪小妹 第二季》",
+                        "videoNameEn": "《Peppa Pig Season 2》",
+                        "url": "http://bisentence_movie.sogou.com/8c722eea938ac99205e7319c8c91e3fd_320248f9dce2d841f49898e659bcce57ceb1533a"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/12bb014710975d04f43433592bed094b_23839.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/ab392e5dd24357dcfb0c47231c463232_37013.mp3",
+                        "isLavafox": true,
+                        "en": "Well. Why don't we go down to the <em>elephant</em> lot and rent an <em>elephant</em>?",
+                        "zh": "要不我们去大象堆里借一头大象？",
+                        "videoNameZh": "《头脑特工队》",
+                        "videoNameEn": "《Inside Out》",
+                        "url": "http://bisentence_movie.sogou.com/8290023e7051c076d05ccf366ee52215_860d0bcb3fd1a556cd7662fa44a08690df8360d9"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/a3f6ca8d0ebaa5b0956976d643673427_52102.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/669c9b04df59d9c3dc3414de3c51e3aa_66818.mp3",
+                        "isLavafox": true,
+                        "en": "Edmond <em>Elephant</em>'s Birthday",
+                        "zh": "大象埃德蒙的生日",
+                        "videoNameZh": "《小猪佩奇 第三季》",
+                        "videoNameEn": "《Peppa Pig Season 3》",
+                        "url": "http://bisentence_movie.sogou.com/782a9a2bee7d4df6ac74888891a1aa6a_a753b0bf6ddeb8a24919917437b617889201c646"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/a3f6ca8d0ebaa5b0956976d643673427_52102.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/5c553bac9da578cac3aa8c6295447ecd_59415.mp3",
+                        "isLavafox": true,
+                        "en": "Everyone is here for Edmond <em>Elephant</em>'s party. Oh the helpers are here. Hello Mrs. <em>Elephant</em>.",
+                        "zh": "所有的孩子都来参加大象爱德蒙得派对了。哦，小帮手们来了。你好啊，大象太太。",
+                        "videoNameZh": "《小猪佩奇 第三季》",
+                        "videoNameEn": "《Peppa Pig Season 3》",
+                        "url": "http://bisentence_movie.sogou.com/0cbd304e6435874b545423ea725d4fe3_fd94691bb593cf38e5b918aeff57f2e3b5113646"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/c8253082939248ccde5e6e75864351c0_33339.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/6fe70787c39b622856e16d4cba8c50ea_9516.mp3",
+                        "isLavafox": true,
+                        "en": "Are we going to talk about it? What? The <em>elephant</em> in the room. What <em>elephant</em>? I guess not then.",
+                        "zh": "我们要谈谈那件事吗？什么？不要回避了[房里有头大象]。什么大象？看来是不谈了。",
+                        "videoNameZh": "《超人总动员2》",
+                        "videoNameEn": "《Incredibles 2》",
+                        "url": "http://bisentence_movie.sogou.com/abcf242b430a02de25f3d8bbf50285a1_4f50756d1ca3c890f613ccad1f2053e8a278c969"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/5dc3cf8cad26e071498ca907fcc13dc6_46983.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/a9def4e26a1dfd91e8e06ee6d892242f_58612.mp3",
+                        "isLavafox": true,
+                        "en": "Hello. Hello, Doctor Hamster. This is Mr. <em>Elephant</em>. Mr. <em>Elephant</em> and his family are out for a walk in the mountains.",
+                        "zh": "你好。你好仓鼠兽医！我是大象先生。大象先生和他的家人现在正在山上游玩。",
+                        "videoNameZh": "《小猪佩奇 第四季》",
+                        "videoNameEn": "《Peppa Pig Season 4》",
+                        "url": "http://bisentence_movie.sogou.com/0c03e5a0a218b60940c060f4745882a7_bc8e3609194ad39181717c015c60434a903f9b0e"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/a58ed194f1b80b4b3a378a48a1ea9e4b_23523.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/b9d83dad9004e138d13379f017f73d71_12433.mp3",
+                        "isLavafox": true,
+                        "en": "Shh. She'll hear you. She's got ears like an <em>elephant</em>. Bum like one, too.",
+                        "zh": "她会听见你说话的。她耳朵简直和大象那么大。屁股也像大象一样。",
+                        "videoNameZh": "《小飞侠：幻梦启航》",
+                        "videoNameEn": "《Pan》",
+                        "url": "http://bisentence_movie.sogou.com/02a4078d04a164f2f2d6f647b7d74062_7b8f28b75caf2d7e0166ff5f5cf8054c00860822"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/0ce3ba1d09aadca7b93fbf3633e423d4_26694.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/654dd88cde9495a92fc41ba0011c24bc_26570.mp3",
+                        "isLavafox": true,
+                        "en": "And you, little guy. You wanna be an <em>elephant</em> when you grow up? You be an <em>elephant</em>. Because this is Zootopia. Anyone can be anything.",
+                        "zh": "你呢，小家伙，长大了想做大象吗？那就去做大象好了，这是动物城，谁都能成就无限可能。",
+                        "videoNameZh": "《疯狂动物城》",
+                        "videoNameEn": "《Zootopia》",
+                        "url": "http://bisentence_movie.sogou.com/0c9ab3f28b414b9b14569f91fee5956b_0f672e59119f724563263c2397d2582e4f0af98f"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/5dc3cf8cad26e071498ca907fcc13dc6_46983.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/7ee3d752cef599ac639bda83615b816d_42946.mp3",
+                        "isLavafox": true,
+                        "en": "The <em>elephant</em> family like canoeing. Paddles ready? Yes Daddy Elepant.Then let's go.",
+                        "zh": "大象家庭喜欢划独木舟。浆准备好了吗？是的，大象爸爸。我们走吧！",
+                        "videoNameZh": "《小猪佩奇 第四季》",
+                        "videoNameEn": "《Peppa Pig Season 4》",
+                        "url": "http://bisentence_movie.sogou.com/3e7e27be24ad1e2abfaa1b2394205e62_19acaca0b7716e9cd357dc294679e1f3271cff78"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/4e732b9c66f1a8504b8b7760a42b6e03_1168.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/2c479e41020c881393f4af601d563dfb_66229.mp3",
+                        "isLavafox": true,
+                        "en": "I've never seen anyone get that close to an <em>elephant</em> before.",
+                        "zh": "我还从没见过有谁敢跟大象走得这么近。",
+                        "videoNameZh": "《奇幻森林》",
+                        "videoNameEn": "《The Jungle Book》",
+                        "url": "http://bisentence_movie.sogou.com/4f6d0e7e24ca96c27314f9b1164cd6f1_3fab79d751e92d215222815b35c67dba63ab7f30"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/5440028de015a767476054a27cf789d8_26933.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/175448cf197e6b4734c7bf04c7e02594_34625.mp3",
+                        "isLavafox": true,
+                        "en": "Can I have an <em>elephant</em> balloon? Please. Here you are, Peppa.",
+                        "zh": "能不能给我一个大象气球？好的，给你佩琪。",
+                        "videoNameZh": "《小猪佩奇 第一季》",
+                        "videoNameEn": "《Peppa Pig Season 1》",
+                        "url": "http://bisentence_movie.sogou.com/14475a3257ce87cefb7291b3c97fa0f6_d771246e25c5dbd8006e48500ed52c93fcff2616"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/b73d6e20976b7ffe4e651b29ea5ddefc_31309.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/7a4075a26afee781a30f0ddc6371d4c1_67083.mp3",
+                        "isLavafox": true,
+                        "en": "Hello, Peppa, have you been brushing your teeth? Yes, Dr. <em>Elephant</em>.",
+                        "zh": "你好啊，佩奇，你已经刷好牙了吗？是的，大象先生。",
+                        "videoNameZh": "《粉红猪小妹 第二季》",
+                        "videoNameEn": "《Peppa Pig Season 2》",
+                        "url": "http://bisentence_movie.sogou.com/7a25ea49cd5d1d9c8bb17d1b78485944_a14d994754b3dc08fc50a9861c84f0c575acc6b3"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/0ce3ba1d09aadca7b93fbf3633e423d4_26694.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/b2ba31895e7f71aa5c33147d4aa0379d_50528.mp3",
+                        "isLavafox": true,
+                        "en": "First, we need to acknowledge the <em>elephant</em> in the room. Francine. Happy birthday.",
+                        "zh": "首先，来说屋子里的大象，弗朗辛，生日快乐。",
+                        "videoNameZh": "《疯狂动物城》",
+                        "videoNameEn": "《Zootopia》",
+                        "url": "http://bisentence_movie.sogou.com/566d3975cda0c5346163a1c16b94f010_f964a4ad507098641de87c65519a9bd869611709"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/b73d6e20976b7ffe4e651b29ea5ddefc_31309.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/597cf29983b935324b474f650d55b821_41694.mp3",
+                        "isLavafox": true,
+                        "en": "Today, we have a new pupil, Emily <em>Elephant</em>. Hello, Emily. Hello.",
+                        "zh": "今天有一位新学生要加入我们，大象艾米丽。你好艾米丽。你们好。",
+                        "videoNameZh": "《粉红猪小妹 第二季》",
+                        "videoNameEn": "《Peppa Pig Season 2》",
+                        "url": "http://bisentence_movie.sogou.com/2130bd8222948c67d9f5f973926a09b8_2e64aed83bc7c6bd0202d15813fa14526b950b45"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/5440028de015a767476054a27cf789d8_26933.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/8c83f79233af39f765b069e99e022ce6_67241.mp3",
+                        "isLavafox": true,
+                        "en": "Peppa, Would you like your face painted? Yes, please. Can I be an <em>elephant</em>?",
+                        "zh": "佩琪，你想在脸上画画吗？我想，谢谢，我要画成大象行吗？",
+                        "videoNameZh": "《小猪佩奇 第一季》",
+                        "videoNameEn": "《Peppa Pig Season 1》",
+                        "url": "http://bisentence_movie.sogou.com/cb54f92143bf4d2f556a03046e02c126_fe1439f9ed241d11445b1b10aedbc54fb1b2334c"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/a3f6ca8d0ebaa5b0956976d643673427_52102.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/125a5dd1e1f9178eeb1515463ebcb542_4692.mp3",
+                        "isLavafox": true,
+                        "en": "Hello. Oh, it's for you Peppa. It's Emily <em>Elephant</em>. Hello. Hello Peppa.",
+                        "zh": "你好，哦，是找你的佩奇，大象艾米丽打来的。你好。你好佩奇。",
+                        "videoNameZh": "《小猪佩奇 第三季》",
+                        "videoNameEn": "《Peppa Pig Season 3》",
+                        "url": "http://bisentence_movie.sogou.com/d3f447cca6add1cbed77dac7b472d670_3f22b85d95abebb0bb729c8f4b0446be2c90ab22"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/ebb0b0408bf12dc64801723d985508e9_40124.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/35be8834678e57354852ef598b65c6ac_34418.mp3",
+                        "isLavafox": true,
+                        "en": "These days, kids look at a Stegosaurus like an <em>elephant</em> from the city zoo.",
+                        "zh": "而现在，孩子们看见一只剑龙就像在城市动物园看见大象一样。",
+                        "videoNameZh": "《侏罗纪世界》",
+                        "videoNameEn": "《Jurassic World》",
+                        "url": "http://bisentence_movie.sogou.com/b04dde7990e374555792bed0cbb447df_5e33ead961895a9fbebb8ccb7d7531cf0231ec75"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/dde03d29cdf9f1eb3170279dd5ad8ff2_46072.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/1576fb4a5e35b255e0e70406fd99b564_29888.mp3",
+                        "isLavafox": true,
+                        "en": "If I'm your <em>elephant</em>, you have a shot. That's what I'm trying to say, dummy.",
+                        "zh": "如果我就是你的大象，你是可以追到我的，我想说的就这么多，傻瓜。",
+                        "videoNameZh": "《摩登家庭 第六季》",
+                        "videoNameEn": "《Modern Family Season 6》",
+                        "url": "http://bisentence_movie.sogou.com/ced93cbf30b56ef87f1119dadbcbcc95_6d87036a0f7ba09e886d64ea1b824cafe25132ee"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/0ce3ba1d09aadca7b93fbf3633e423d4_26694.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/f27e92d9e8fc8f53d875d86ff6423c4a_69138.mp3",
+                        "isLavafox": true,
+                        "en": "No, no. There are, there are. It's just, my boy, this goofy little stinker, he loves all things <em>elephant</em>.",
+                        "zh": "有啊，有，只是我儿子这只小傻狐狸，特别迷大象。",
+                        "videoNameZh": "《疯狂动物城》",
+                        "videoNameEn": "《Zootopia》",
+                        "url": "http://bisentence_movie.sogou.com/36703355c803533321055c5b3917a2e8_75ea583efac1695b0a9fff12148c410918feb3a9"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/5dc3cf8cad26e071498ca907fcc13dc6_46983.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/9fd390cdba2f43059f1e37a2f7f6e80d_14789.mp3",
+                        "isLavafox": true,
+                        "en": "Oh, yes, that's it. There is quite a clever clogs, aren't you? Edmond <em>Elephant</em> is a clever clogs.",
+                        "zh": "哦，是的，你很聪明，是不是？大象爱德曼是个聪明的人。",
+                        "videoNameZh": "《小猪佩奇 第四季》",
+                        "videoNameEn": "《Peppa Pig Season 4》",
+                        "url": "http://bisentence_movie.sogou.com/226a7260a3028e5d9d830da097c36bdf_8f346ba00f960a7f68e14e83d9055835c64e812e"
+                    }
+                ]
+            },
+            "pic": "",
+            "voice": {
+                "phonetic": [
+                    {
+                        "text": "ˈelɪfənt",
+                        "type": "uk",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/9631_elephant_uk.mp3"
+                    },
+                    {
+                        "text": "ˈelɪfənt",
+                        "type": "usa",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/9631_elephant_usa.mp3"
+                    }
+                ]
+            },
+            "dictType": "oxford_buchong",
+            "CET6": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 1,
+                        "pos": "n",
+                        "chinese": "大象",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "elephant",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2016.6-2023.6年8年间全六级试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight>考纲释义</highlight>\n精选实考、考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2016-2023年51套试卷，包括阅读、听力、翻译等所有题型。\n\n<highlight>真题例句</highlight>\n精选2016-2023年8年间全六级试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 1,
+                "total_exam_freq": 1,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "大象",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "On a glacier-filled island with fjords (峡湾) and <highlight>elephant</highlight> seals, Russia has built Antarctica's first Orthodox church on a hill overlooking its research base.",
+                                    "month": 12,
+                                    "source": "CET6",
+                                    "coll": "",
+                                    "sentence_trans": "在一个满是冰川、有峡湾和象海豹的岛屿上，俄罗斯在一座俯瞰其研究基地的小山上建造了南极洲第一座东正教教堂。",
+                                    "year": 2016,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "exchange_info": {
+                    "word_pl": [
+                        "elephants"
+                    ]
+                }
+            },
+            "gaokao": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 1,
+                        "pos": "n",
+                        "chinese": "大象",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "elephant",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2015-2022年8年间全国卷和自主命题省市高考卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2015-2022年全国卷高考试卷，包括阅读、完形、单选、填空、听力、改错、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选各省市考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2015-2022年8年间全国卷和自主命题省市高考卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 1,
+                "total_exam_freq": 1,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "大象",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "For example, the first letters of \"My <highlight>elephant</highlight> eats too many eels\" Spell out the hidden message \"Meet me\".",
+                                    "month": -1,
+                                    "source": "全国卷1",
+                                    "coll": "",
+                                    "sentence_trans": "例如，“My elephant eats too many eels（我的大象吃了太多的鳗鱼）”的第一个字母们拼出了隐藏的信息“Meet me（来见我）”。",
+                                    "year": 2016,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "exchange_info": {
+                    "word_pl": [
+                        "elephants"
+                    ]
+                }
+            },
+            "zhongkao": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 117,
+                        "pos": "cn",
+                        "chinese": "象; 大象",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "elephant",
+                "direction_info": {
+                    "ranges": 4,
+                    "description": "数据源自2018-2021年4年间全国各省市中考试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2018-2021年全国重点省市中考试卷，包括听力、阅读、完形、单选、填空、改错、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选各省市考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2018-2021年4年间全国各省市中考试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 5,
+                "total_exam_freq": 117,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "象; 大象",
+                            "pos": "cn",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "An <highlight>elephant</highlight> was standing and picking leaves from a tree.",
+                                    "month": -1,
+                                    "source": "眉山市卷",
+                                    "coll": "",
+                                    "sentence_trans": "一只大象正站着从树上摘树叶。",
+                                    "year": 2021,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "An <highlight>elephant</highlight> and a crocodile were once standing beside a river.",
+                                    "month": -1,
+                                    "source": "广州卷",
+                                    "coll": "",
+                                    "sentence_trans": "一只大象和一只鳄鱼曾经站在河边。",
+                                    "year": 2019,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "At one time the African <highlight>elephant</highlight> also was trained.",
+                                    "month": -1,
+                                    "source": "青岛市",
+                                    "coll": "",
+                                    "sentence_trans": "曾经，非洲象也受过训练。",
+                                    "year": 2018,
+                                    "type": "阅读理解B",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            "sentencesData": {
+                "status": 1,
+                "info": "notZh2En",
+                "data": {}
+            },
+            "isAutoMatch": false,
+            "Zh2En": false
+        },
+        "query": "elephant",
+        "result": "大象",
+        "tabSelect": "detail",
+        "dictionaryType": "oxford_buchong",
+        "notFound_show": false,
+        "phoneticShow": "",
+        "globalShowTranslateRecord": "",
+        "pronPrefer": {
+            "type": "usa_1",
+            "speaker": "male",
+            "speed": "standard"
+        },
+        "ServerRecord": "",
+        "ServerUIGS": {
+            "version": "new",
+            "type": "all",
+            "stype": "success",
+            "terminal": "web",
+            "fr": "default",
+            "direction": "etoz",
+            "from": "en",
+            "to": "zh-CHS",
+            "len": 8,
+            "qtype": "text",
+            "qctype": "qc_1",
+            "dict_cover": 1,
+            "detail": 1,
+            "wordCardCover": 1,
+            "wordCardEn": 1,
+            "wordCardCh": 0,
+            "wordCardMinor": 0,
+            "wordCardNetmean": 0,
+            "wordDeform": 1,
+            "keyword": 0,
+            "bilingual": 1,
+            "simple": 0,
+            "levelList": 1,
+            "synonym": 0,
+            "antonym": 0,
+            "conjugate": 0,
+            "rootaffix": 0,
+            "baike_sogou": 1,
+            "baike_wiki": 0,
+            "wordDifference": 0,
+            "word_phrase": 1,
+            "secondQuery": 0,
+            "dict_oxford": 0,
+            "dict_newcentury": 0,
+            "zhongkaotab": 1,
+            "gaokaotab": 1,
+            "CET4tab": 0,
+            "CET6tab": 1,
+            "kaoyantab": 0,
+            "network_tab": 0,
+            "yinying_tab": 1,
+            "tuozhan_tab": 0,
+            "one_pic": 0,
+            "more_pic": 0,
+            "no_pic": 0,
+            "uuid": "c2b62271-5c45-4cad-bab8-9c545675e4d4",
+            "from_type": 0,
+            "t_trans_ssr": 165
+        },
+        "ServerModelUIGS": {
+            "terminal": "web",
+            "type": "trans_model",
+            "pbtype": "pv",
+            "model_general": 1,
+            "model_medical": 1,
+            "model_finance": 1
+        },
+        "ServerSgtkn": "64EC05EA5796F852595C71E3BB9D2BF25A3DE465675523E1",
+        "suggShow": false,
+        "suggestion": "",
+        "suggDirection": "",
+        "usualTop": "",
+        "baseDict": "",
+        "wordCardClick": false,
+        "isFrInput": false,
+        "kanaTips": {
+            "show": false,
+            "left": "",
+            "top": "",
+            "type": "",
+            "arrowLeft": ""
+        },
+        "currSentenceIndex": -1,
+        "prefixStrObj": {
+            "prefixStr": "",
+            "oriPrefixStr": ""
+        },
+        "selectTransBox": {
+            "show": false,
+            "right": 0,
+            "top": 0,
+            "paraphraseInfo": {
+                "word": "",
+                "from": "",
+                "to": "",
+                "area": ""
+            }
+        },
+        "sentenceLoading": false,
+        "newSentenceInfo": {
+            "sentence": "",
+            "candidateIndex": 0
+        },
+        "moreTipInfo": {
+            "opacity": 0,
+            "zIndex": -1
+        },
+        "paraphraseShowInfo": {
+            "card": 0,
+            "query": "",
+            "card_dict": 0
+        },
+        "selectType": "",
+        "wordPos": 0,
+        "candidateWord": "",
+        "syntaxVisible": false,
+        "syntaxStatus": 0
+    },
+    "language": {
+        "from": "auto",
+        "to": "zh-CHS",
+        "detect": "en",
+        "model": "general",
+        "detectShow": false,
+        "langMap": {
+            "current": ""
+        },
+        "zh2en": false,
+        "fromItemList": [
+            {
+                "lang": "auto",
+                "text": "自动检测",
+                "play": false
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "fr",
+                "text": "法语",
+                "play": true,
+                "abbr": "法"
+            },
+            {
+                "lang": "ru",
+                "text": "俄语",
+                "play": true,
+                "abbr": "俄"
+            },
+            {
+                "lang": "th",
+                "text": "泰语",
+                "play": true,
+                "abbr": "泰"
+            }
+        ],
+        "toItemList": [
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "ru",
+                "text": "俄语",
+                "play": true,
+                "abbr": "俄"
+            },
+            {
+                "lang": "fr",
+                "text": "法语",
+                "play": true,
+                "abbr": "法"
+            },
+            {
+                "lang": "ko",
+                "text": "韩语",
+                "play": true,
+                "abbr": "韩"
+            }
+        ]
+    },
+    "voice": {
+        "from": {
+            "lang": "en",
+            "type": "from",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22elephant%22%2C%22spokenDialect%22%3A%22en%22%2C%22rate%22%3A%220.8%22%7D",
+            "list": [
+                {
+                    "type": "uk_0",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "ˈelɪfənt",
+                    "abbr": "英",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/9631_elephant_uk.mp3"
+                },
+                {
+                    "type": "usa_1",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "ˈelɪfənt",
+                    "abbr": "美",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/9631_elephant_usa.mp3"
+                }
+            ],
+            "stype": "phonetic",
+            "phoneticShow": [
+                {
+                    "text": "ˈelɪfənt",
+                    "type": "uk",
+                    "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/9631_elephant_uk.mp3"
+                }
+            ]
+        },
+        "to": {
+            "lang": "zh",
+            "type": "to",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22%E5%A4%A7%E8%B1%A1%22%2C%22spokenDialect%22%3A%22zh-CHS%22%2C%22rate%22%3A%220.8%22%7D",
+            "stype": "normal"
+        }
+    }
+}

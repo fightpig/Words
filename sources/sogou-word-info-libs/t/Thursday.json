@@ -1,0 +1,860 @@
+{
+    "route": {
+        "name": "text",
+        "path": "/text",
+        "hash": "",
+        "query": {
+            "keyword": "Thursday",
+            "transfrom": "auto",
+            "transto": "zh-CHS",
+            "model": "general",
+            "errcode": "s10"
+        },
+        "params": {},
+        "fullPath": "/text?keyword=Thursday&transfrom=auto&transto=zh-CHS&model=general&errcode=s10",
+        "meta": {
+            "mtype": [
+                "textTranslate",
+                "language",
+                "voice"
+            ]
+        },
+        "from": {
+            "name": null,
+            "path": "/",
+            "hash": "",
+            "query": {},
+            "params": {},
+            "fullPath": "/",
+            "meta": {}
+        }
+    },
+    "common": {
+        "CONFIG": {
+            "wuid": 1733634511825,
+            "loginInfo": {},
+            "isIE": 0,
+            "isHitSsrSwitch": true,
+            "isHitWritebookSwitch": false,
+            "isHitAmsSwitch": true,
+            "promotionList": "{\n    \"pc_bottom\":{\n        \"imgsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\",\n        \"qcsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\"\n    },\n    \"pc_middle\":[\n        {\n            \"src\":\"//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c\",\n            \"bgColor\":\"#ffffff\",\n            \"link\":\"\"\n        }\n    ],\n    \"pc_survey\":{\n        \"icon\":\"//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750\",\n        \"link\":\"https://wj.qq.com/s2/8193148/806d/\"\n    }\n}",
+            "bannerData": [],
+            "isHitAsideSurvey": false,
+            "secretCode": 109984457,
+            "uuid": "64897eb6-763e-4869-960c-b9a7f9fd557e",
+            "referer": "",
+            "approveToken": "64F2061E5A96FB525A5C72E164653DD95A434FAB675529CF",
+            "loadTime": 1733634511827,
+            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0",
+            "fcp": "170.64.148.76",
+            "temporaryId": "",
+            "fileId": ""
+        },
+        "hotWords": [],
+        "isFromCollect": false,
+        "psdModify": {
+            "currentStep": 1,
+            "scode": "",
+            "username": ""
+        },
+        "loginStatus": true,
+        "feedBackModule": false,
+        "showPromotionPopup": {
+            "show": false,
+            "type": ""
+        },
+        "showPromotionPCDownload": false,
+        "showShareBomb": false,
+        "shareData": null,
+        "showAppDownLoad": false,
+        "showLoginDialog": false,
+        "showLoading": {
+            "show": false
+        },
+        "toast": {
+            "show": false,
+            "text": "",
+            "loading": false
+        },
+        "modelToast": {
+            "show": false,
+            "text": ""
+        },
+        "selectionGlobalShow": true,
+        "selectionInfo": {
+            "left": 0,
+            "top": 0,
+            "show": false,
+            "from": "",
+            "to": "",
+            "val": "",
+            "area": ""
+        },
+        "showConfirmDialog": false,
+        "promotionList": {
+            "pc_bottom": {
+                "imgsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png",
+                "qcsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png"
+            },
+            "pc_middle": [
+                {
+                    "src": "//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c",
+                    "bgColor": "#ffffff",
+                    "link": ""
+                }
+            ],
+            "pc_survey": {
+                "icon": "//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750",
+                "link": "https://wj.qq.com/s2/8193148/806d/"
+            }
+        },
+        "transTypeTxt": "text",
+        "fixedTabStatus": 0,
+        "bodyTop": 0,
+        "ifHideUserOperation": false
+    },
+    "textTranslate": {
+        "prevTransQuery": "",
+        "translateData": {
+            "translate": {
+                "zly": "zly",
+                "errorCode": "0",
+                "qc_type": "1",
+                "index": "content0",
+                "from": "en",
+                "source": "sogou",
+                "text": "Thursday",
+                "to": "zh-CHS",
+                "id": "64897eb6-763e-4869-960c-b9a7f9fd557e",
+                "dit": "星期四",
+                "orig_text": "Thursday",
+                "md5": ""
+            },
+            "detect": {
+                "zly": "zly",
+                "detect": "en",
+                "errorCode": "0",
+                "language": "英语",
+                "id": "77fc3e70-b522-11ef-a25b-79124cdf2a87",
+                "text": "Thursday"
+            },
+            "sgtkn": "64F206225A96FB525A5C72E164653DD95A434FAB675529CF",
+            "wordCard": {
+                "title": "Thursday",
+                "show": true,
+                "usualDict": [
+                    {
+                        "values": [
+                            "周四；星期四；礼拜四"
+                        ],
+                        "pos": "n."
+                    }
+                ],
+                "secondQuery": "",
+                "exchange": {
+                    "word_pl": [
+                        "Thursdays"
+                    ]
+                },
+                "levelList": [
+                    "小学",
+                    "初中",
+                    "高中",
+                    "四级",
+                    "考研"
+                ]
+            },
+            "detail": {
+                "word_group": [
+                    {
+                        "brief_definition": "濯足节，濯足星期四",
+                        "phrase": "Maundy Thursday",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "圣星期四，圣周四；耶稣升天节",
+                        "phrase": "Holy Thursday",
+                        "pos": "n."
+                    }
+                ],
+                "bilingual": [
+                    {
+                        "source": "Next week, on <em>Thursday</em> night.",
+                        "target": "下周，星期四晚上。",
+                        "url": ""
+                    },
+                    {
+                        "source": "On <em>Thursday</em> I'll do my homework.",
+                        "target": "星期四我做作业。",
+                        "url": ""
+                    },
+                    {
+                        "source": "What do you do on <em>Thursday</em> evenings?",
+                        "target": "你星期四晚上做什么？",
+                        "url": ""
+                    },
+                    {
+                        "source": "Where is the monkey going on <em>Thursday</em>?",
+                        "target": "猴子星期四要去哪里？",
+                        "url": ""
+                    },
+                    {
+                        "source": "<em>Thursday</em> is his eleventh birthday.",
+                        "target": "星期四是他的十一岁生日。",
+                        "url": ""
+                    },
+                    {
+                        "source": "On <em>Thursday</em> mornings I help in the shop.",
+                        "target": "星期四早上我在店里帮忙。",
+                        "url": ""
+                    },
+                    {
+                        "source": "We went to Al Dahna desert on <em>Thursday</em>.",
+                        "target": "我们星期四去了阿达纳沙漠。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Sunday, Monday, Tuesday, Wednesday, <em>Thursday</em>, Friday.",
+                        "target": "星期天，星期一，星期二，星期三，星期四，星期五。",
+                        "url": ""
+                    },
+                    {
+                        "source": "I love <em>Thursday</em> afternoons because we have a fun class then.",
+                        "target": "我喜欢星期四下午，因为我们那时有有趣的课。",
+                        "url": ""
+                    },
+                    {
+                        "source": "<em>Thursday</em> is my busiest day.",
+                        "target": "星期四是我最忙的一天。",
+                        "url": ""
+                    }
+                ],
+                "baike": {
+                    "showMore": true,
+                    "list": [
+                        {
+                            "lemmaTitle": "星期四",
+                            "link": "https://baike.sogou.com/v441200.htm?ch=sogou.fanyi",
+                            "abstract": "星期四（英文：Thursday），汉语词语，指的是一周中星期三之后、星期五之前的那一天，例句为“一如既往，我们将继续每星期四开会”。 该词语的英文缩写为Thur。其相关的作品有保加利亚小说家兹德拉夫科 • 伊蒂莫娃的小说《星期四》，并且这部小说获得了保加利亚作家协会颁发的2003年保加利亚最佳小说奖。",
+                            "wapPic": "",
+                            "pcPic": ""
+                        },
+                        {
+                            "lemmaTitle": "Thursday",
+                            "link": "https://baike.sogou.com/v64643082.htm?ch=sogou.fanyi",
+                            "abstract": "Thursday是指一个摇滚乐队，主要成员是Geoff Rickly(主唱)，Tom Keeley(吉他手)，Steve Pedulla(吉他手)，Tim Payne(贝斯手)，Tucker Rule(鼓手)。",
+                            "wapPic": "",
+                            "pcPic": ""
+                        }
+                    ]
+                }
+            },
+            "book": {
+                "yingyinNormal": [
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/f5f16d3165593ebdb6d6ae8299e72880_33413.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/8a4392cf56661ee83619e62745a03121_29806.mp3",
+                        "isLavafox": true,
+                        "en": "So I gotta get in there by <em>Thursday</em>. Okay? Just remember <em>Thursday</em>. <em>Thursday</em>. Can you remember <em>Thursday</em>? Yeah so, Tuesday?",
+                        "zh": "我星期四之前得过去，记得星期四就对了，你记得吗？星期二吗？",
+                        "videoNameZh": "《老友记 第六季》",
+                        "videoNameEn": "《Friends Season 6》",
+                        "url": "http://bisentence_movie.sogou.com/cf99bee1760ecbe9df7b2cb2d2decf04_dba2e7bba3714e3ec34409d11bf739d329c069e5"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/8b3da16ecbe350aacc1a7e4a01d210bc_49869.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/581e43b8f85541072353060b03ae76f5_21944.mp3",
+                        "isLavafox": true,
+                        "en": "No, thank you. I'm not eating pizza tonight. But it's <em>Thursday</em>. <em>Thursday</em>'s pizza night.",
+                        "zh": "不了，谢谢，我今晚不吃披萨。可今天是星期四，星期四是披萨之夜。",
+                        "videoNameZh": "《生活大爆炸 第四季》",
+                        "videoNameEn": "《The Big Bang Theory Season 4》",
+                        "url": "http://bisentence_movie.sogou.com/21e474770f9d0efc13e6b0433dbfd00e_e90f3af6f6f2e7a6d5cb2ea8abc7ae573bfd2675"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/7eb0bec9540cbb2c5939554caf885c99_49670.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/efc277e0a3a55e7c6d65114e30f33eb8_31200.mp3",
+                        "isLavafox": true,
+                        "en": "Yes, but we all agreed that the third <em>Thursday</em> at every month would be anything can happen <em>Thursday</em>.",
+                        "zh": "对，但我们说过每月第三个星期四是一切皆有可能的星期四。",
+                        "videoNameZh": "《生活大爆炸 第二季》",
+                        "videoNameEn": "《The Big Bang Theory Season 2》",
+                        "url": "http://bisentence_movie.sogou.com/f91038e198375f97d92f4706fd7ee1da_491322e10ca76d9360d660dd4a7f40d00cd4edd5"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/8b3da16ecbe350aacc1a7e4a01d210bc_49869.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/74286d6ece6717dbc1e0fde92c82d6af_20365.mp3",
+                        "isLavafox": true,
+                        "en": "But tonight's <em>Thursday</em>. On <em>Thursday</em>s, everybody comes over here and has pizza.",
+                        "zh": "可今天是星期四啊，每个星期四大家都会过来一起吃披萨。",
+                        "videoNameZh": "《生活大爆炸 第四季》",
+                        "videoNameEn": "《The Big Bang Theory Season 4》",
+                        "url": "http://bisentence_movie.sogou.com/506262de0b544c47f047881d129b74e4_fcf6c8463347cce9c3da36043205077ad999a991"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/c3652a60f61ce63a5e9067648ae2439c_44092.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/ad8fc21bdc824577b1f8009679eee163_72051.mp3",
+                        "isLavafox": true,
+                        "en": "Oh, yes. Our relationship agreement specifies that the second <em>Thursday</em> of every month, or the third <em>Thursday</em> in a month with five <em>Thursday</em>s, is date night.",
+                        "zh": "是的，我们的恋爱协议明确规定了每个月的第二个星期四，如一个月有五个周四，则第三个星期四，便是约会之夜。",
+                        "videoNameZh": "《生活大爆炸 第五季》",
+                        "videoNameEn": "《The Big Bang Theory Season 5》",
+                        "url": "http://bisentence_movie.sogou.com/866fd205ede8bf04b3a630be0eb140c8_f7ba7973b1119d37d10a2c9d68f98be9049030ec"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/801dfe77494721a1ea27b2da97ba5878_52038.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/b3a2398d31fe81bb3cbf1d29d5f2e7f8_39609.mp3",
+                        "isLavafox": true,
+                        "en": "I was pretty close with my dad. And he died when I was 17, on a Tuesday. And we didn't have any savings. So I got a haircut that <em>Thursday</em> and a job the same <em>Thursday</em>.",
+                        "zh": "我跟我的父亲很亲。他去世时，我17才岁。周二，和我们没有任何积蓄。于是我剪了头发 星期四找了工作...同样在星期四。",
+                        "videoNameZh": "《白日梦想家》",
+                        "videoNameEn": "《The Secret Life of Walter Mitty》",
+                        "url": "http://bisentence_movie.sogou.com/92ebc924425e0d4a55632515011728cf_7ca125f9af5a3c64bb4747db34edb20022a0e878"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/f5f16d3165593ebdb6d6ae8299e72880_33413.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/d72b26d2472a85b81bab7dd8d3d1603d_48176.mp3",
+                        "isLavafox": true,
+                        "en": "But would it be possible for him to get an audition for your movie say on <em>Thursday</em>?",
+                        "zh": "但你可不可能让他去试镜，就星期四吧？",
+                        "videoNameZh": "《老友记 第六季》",
+                        "videoNameEn": "《Friends Season 6》",
+                        "url": "http://bisentence_movie.sogou.com/b5503cbe52c1bcfb8fb42feeb05b665a_e9a54946b3c66a8340145db0f7164afc3aee1d1a"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/f5f16d3165593ebdb6d6ae8299e72880_33413.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/9ffe59cb59e363bfd1aaa7dbfe10bbf3_39570.mp3",
+                        "isLavafox": true,
+                        "en": "All right. Thanks. You're the best. Now listen, the last day of auditions is <em>Thursday</em>. Okay?",
+                        "zh": "谢了，你最好了，试镜是星期四截止。",
+                        "videoNameZh": "《老友记 第六季》",
+                        "videoNameEn": "《Friends Season 6》",
+                        "url": "http://bisentence_movie.sogou.com/d3cbd61b7efe4a66ba5fd217b24bfe4d_9586437fc8dc22b3c69acba8a7f65b09c70f387d"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/f5f16d3165593ebdb6d6ae8299e72880_33413.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/a7f42e944955f0d47ddb8f649f576468_53958.mp3",
+                        "isLavafox": true,
+                        "en": "<em>Thursday</em>. Look if you need help remembering think of like this, the third day. All right?",
+                        "zh": "是星期四，你如果记不住就记是第三天。",
+                        "videoNameZh": "《老友记 第六季》",
+                        "videoNameEn": "《Friends Season 6》",
+                        "url": "http://bisentence_movie.sogou.com/b6d2aa49bbf09ee2085b6ae75d4b1db7_2699bd0325058a034dc2ecacb86306c7db25bf03"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/7eb0bec9540cbb2c5939554caf885c99_49670.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/e17ff2c922d8aa7d95357822295d1f3e_3438.mp3",
+                        "isLavafox": true,
+                        "en": "Oh, you're right. It's anything can happen <em>Thursday</em> let's hit the club and meet hot women.",
+                        "zh": "你说得对，今天是一切皆有可能的星期四，大家去酒吧美眉。",
+                        "videoNameZh": "《生活大爆炸 第二季》",
+                        "videoNameEn": "《The Big Bang Theory Season 2》",
+                        "url": "http://bisentence_movie.sogou.com/2e6bb2e4a07800d99410f5c3bd24b232_c233bdd8aded095511dafdd5db7d205bde40266d"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/7eb0bec9540cbb2c5939554caf885c99_49670.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/013c77dd4b1c149e5ff996c2cd7d790f_26015.mp3",
+                        "isLavafox": true,
+                        "en": "Last night was Wednesday. Wednesday is comic book night tonight we will be going on <em>Thursday</em> because it is Anything Can Happen <em>Thursday</em>.",
+                        "zh": "昨天是星期三，星期三是漫画之夜，今天去就是周四去啦，因为今天是一切皆有可能的星期四。",
+                        "videoNameZh": "《生活大爆炸 第二季》",
+                        "videoNameEn": "《The Big Bang Theory Season 2》",
+                        "url": "http://bisentence_movie.sogou.com/2cfa582054d24f9b72007210f919ff52_52585aed688c592a098fd1bfe094c684aa2e2568"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/7eb0bec9540cbb2c5939554caf885c99_49670.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/ed5f522ef122cc46abc53ec901ff51a3_4019.mp3",
+                        "isLavafox": true,
+                        "en": "Rut? I think you mean consistency. And if we're going to abandon that, then why even call it <em>Thursday</em>?",
+                        "zh": "刻板？你是说连贯性吧，如果要废除这个那干嘛要叫它星期四？",
+                        "videoNameZh": "《生活大爆炸 第二季》",
+                        "videoNameEn": "《The Big Bang Theory Season 2》",
+                        "url": "http://bisentence_movie.sogou.com/893dadc129e03943fa125a6da8fe854c_79ae1b5e5d354a4cd021ad385bed4fe3bd6624ba"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/7eb0bec9540cbb2c5939554caf885c99_49670.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/66265a2d77d729a81b745321e502a3a0_54369.mp3",
+                        "isLavafox": true,
+                        "en": "Come on, the whole idea hehind anything can happen <em>Thursday</em> is to get out this rut we've been in lately.",
+                        "zh": "拜托，一切皆有可能的星期四它的含义是摆脱近期的刻板生活。",
+                        "videoNameZh": "《生活大爆炸 第二季》",
+                        "videoNameEn": "《The Big Bang Theory Season 2》",
+                        "url": "http://bisentence_movie.sogou.com/e9a2a21293a7c5059612247679787c3b_ed322f0aadcbb70e86e178ed1d29313d9feb1d09"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/7eb0bec9540cbb2c5939554caf885c99_49670.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/789d3a057722bc4507774481db5f8367_8690.mp3",
+                        "isLavafox": true,
+                        "en": "Well, apparently that you didn't reach my digestive system which when startle has its own version on anything can happen <em>Thursday</em>.",
+                        "zh": "显然没有满足我的消化系统要求，在一切皆有可能的星期四也有自己的要求。",
+                        "videoNameZh": "《生活大爆炸 第二季》",
+                        "videoNameEn": "《The Big Bang Theory Season 2》",
+                        "url": "http://bisentence_movie.sogou.com/7fefd7b2c7bc412d7da7e3dc5d8962d7_b3fcd03b9f7a8f74bffa4b1ca4f541108bb23e11"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/f5f16d3165593ebdb6d6ae8299e72880_33413.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/281d86f4a2ebb88dba90c38a432b6d27_20683.mp3",
+                        "isLavafox": true,
+                        "en": "Monday, one day. Tuesday, two day. Wednesday, when? What day? <em>Thursday</em>. The third day. Okay? Thank you. Okay.",
+                        "zh": "星期一，一天，星期二，二天，星期三，三天？ 哪一天？星期四，第三天，好吗？谢谢你。不客气。",
+                        "videoNameZh": "《老友记 第六季》",
+                        "videoNameEn": "《Friends Season 6》",
+                        "url": "http://bisentence_movie.sogou.com/e740c7342e788828c86cb29d38d19165_d67d6ebd779fd4c07776fcc394d45da5c9871b14"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/a3f6ca8d0ebaa5b0956976d643673427_52102.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/cf921e8dc225752d4fbfb55e32828823_33618.mp3",
+                        "isLavafox": true,
+                        "en": "Daddy Pig doesn't work on Saturdays. Daddy Pig, you'll be late for work. But it is Saturday, Mummy Pig, isn't it? No. It's <em>Thursday</em>.",
+                        "zh": "猪爸爸星期六是不上班的。猪爸爸，你上班要迟到了！但是今天是星期六啊，猪妈妈，难道不是？不是啊。今天是星期四！",
+                        "videoNameZh": "《小猪佩奇 第三季》",
+                        "videoNameEn": "《Peppa Pig Season 3》",
+                        "url": "http://bisentence_movie.sogou.com/e95f6eb7fc3e5a5073a584417ef3b1b9_c05120e70d13e7fb9203e7b4ceca5dba9880e7ce"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/9a0d4fcdea6f5721a9e0b0fe2ee7da05_35555.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/3208406cfe8679e72a3d13675b3e71b6_36891.mp3",
+                        "isLavafox": true,
+                        "en": "Understood, detective. Okay, let's see if I got this right. One: after a group study session, Margot, with her car, didn't return home <em>Thursday</em> evening.",
+                        "zh": "明白了，警探。好的，你来听听我说的对不对。一：一次学习小组学习后，玛戈还有她的车在星期四晚上都失踪了。",
+                        "videoNameZh": "《网络谜踪》",
+                        "videoNameEn": "《Searching》",
+                        "url": "http://bisentence_movie.sogou.com/7d54228943d73fb4faf21103241c3931_a446dc734e9d96c8f611f6f295cdeb50447c26a5"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/7eb0bec9540cbb2c5939554caf885c99_49670.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/d7396da068eb2ee882b648c80d81be04_34181.mp3",
+                        "isLavafox": true,
+                        "en": "So, Leonard, how are you enjoying anything can happen <em>Thursday</em>?",
+                        "zh": "莱纳德，你现在对\"周四夜惊喜\"怎么看？",
+                        "videoNameZh": "《生活大爆炸 第二季》",
+                        "videoNameEn": "《The Big Bang Theory Season 2》",
+                        "url": "http://bisentence_movie.sogou.com/44b067acfd78c81c69f059d484627788_ff575e037993be47cde520508e977a79050a9cba"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/9a0d4fcdea6f5721a9e0b0fe2ee7da05_35555.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/21ec76abe1b3c6c66b2d9669888d2350_33731.mp3",
+                        "isLavafox": true,
+                        "en": "And what about <em>Thursday</em> night? <em>Thursday</em> night, I was finishing up my final paper for English.",
+                        "zh": "那礼拜四晚上你都在做什么？礼拜四晚上，我在写我英文课的期末论文。",
+                        "videoNameZh": "《网络谜踪》",
+                        "videoNameEn": "《Searching》",
+                        "url": "http://bisentence_movie.sogou.com/e6c5913c3ad26e0531eedae8ae249ad7_a9eb16e3e69b85bee68346c861f0bf03c63e2bf9"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/7eb0bec9540cbb2c5939554caf885c99_49670.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/55b32dd49cbba0aa7cfcc8aa009daa7d_8219.mp3",
+                        "isLavafox": true,
+                        "en": "Problem? This is Thai food. Here we go. We don't have Thai food on <em>Thursday</em>. We have pizza on <em>Thursday</em>.",
+                        "zh": "有问题吗？这是泰国菜。又来了。我们周四不吃泰国菜，我们吃批萨。",
+                        "videoNameZh": "《生活大爆炸 第二季》",
+                        "videoNameEn": "《The Big Bang Theory Season 2》",
+                        "url": "http://bisentence_movie.sogou.com/06cb8df65df5cdd72d3516bf07e8f29a_8d5840c9adb255276a7ce752274098e1b1d31d1a"
+                    }
+                ]
+            },
+            "pic": "",
+            "voice": {
+                "phonetic": [
+                    {
+                        "text": "ˈθɜːzdeɪ",
+                        "type": "uk",
+                        "filename": ""
+                    },
+                    {
+                        "text": "ˈθɜːrzdeɪ",
+                        "type": "usa",
+                        "filename": ""
+                    }
+                ]
+            },
+            "dictType": "oxford_buchong",
+            "gaokao": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 9,
+                        "pos": "n",
+                        "chinese": "星期四",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "Thursday",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2015-2022年8年间全国卷和自主命题省市高考卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2015-2022年全国卷高考试卷，包括阅读、完形、单选、填空、听力、改错、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选各省市考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2015-2022年8年间全国卷和自主命题省市高考卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 2,
+                "total_exam_freq": 9,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "星期四",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "The reason I'm calling is that we'd like to offer you the position you were interviewed for last <highlight>Thursday</highlight>.",
+                                    "month": -1,
+                                    "source": "全国卷3",
+                                    "coll": "",
+                                    "sentence_trans": "我打来电话，是因为想给你提供上周四你面试过的职位。",
+                                    "year": 2019,
+                                    "type": "听力",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Our monthly talks start at 19: 30 on the first <highlight>Thursday</highlight> of each month except August.",
+                                    "month": -1,
+                                    "source": "全国卷1",
+                                    "coll": "",
+                                    "sentence_trans": "除八月外，我们会在每月第一个星期四的19:30开始会谈。",
+                                    "year": 2015,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "This evening, as on every <highlight>Thursday</highlight> night, psychologist Maud Lehanne is leading two of France's favorite pastimes, coffee drinking and the \"talking cure\".",
+                                    "month": -1,
+                                    "source": "全国卷1",
+                                    "coll": "",
+                                    "sentence_trans": "和每个周四晚上一样，今天晚上，心理学家Maud Lehanne将主持法国最受欢迎的两项消遣活动：喝咖啡和“谈话疗法”。",
+                                    "year": 2015,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            "zhongkao": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 57,
+                        "pos": "n",
+                        "chinese": "星期四",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "Thursday",
+                "direction_info": {
+                    "ranges": 4,
+                    "description": "数据源自2018-2021年4年间全国各省市中考试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2018-2021年全国重点省市中考试卷，包括听力、阅读、完形、单选、填空、改错、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选各省市考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2018-2021年4年间全国各省市中考试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 5,
+                "total_exam_freq": 57,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "星期四",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "On <highlight>Thursday</highlight> afternoon.",
+                                    "month": -1,
+                                    "source": "大庆市卷",
+                                    "coll": "",
+                                    "sentence_trans": "周四下午。",
+                                    "year": 2021,
+                                    "type": "听力",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Our friendly group meets at the library every <highlight>Thursday</highlight> afternoon.",
+                                    "month": -1,
+                                    "source": "乐山市卷",
+                                    "coll": "",
+                                    "sentence_trans": "我们友好的小组每周四下午在图书馆开会。",
+                                    "year": 2021,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "They’re going on the school tmp on <highlight>Thursday</highlight>.",
+                                    "month": -1,
+                                    "source": "江西卷",
+                                    "coll": "",
+                                    "sentence_trans": "他们星期四要去学校上课。",
+                                    "year": 2018,
+                                    "type": "听力",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            "sentencesData": {
+                "status": 1,
+                "info": "notZh2En",
+                "data": {}
+            },
+            "isAutoMatch": false,
+            "Zh2En": false
+        },
+        "query": "Thursday",
+        "result": "星期四",
+        "tabSelect": "detail",
+        "dictionaryType": "oxford_buchong",
+        "notFound_show": false,
+        "phoneticShow": "",
+        "globalShowTranslateRecord": "",
+        "pronPrefer": {
+            "type": "usa_1",
+            "speaker": "male",
+            "speed": "standard"
+        },
+        "ServerRecord": "",
+        "ServerUIGS": {
+            "version": "new",
+            "type": "all",
+            "stype": "success",
+            "terminal": "web",
+            "fr": "default",
+            "direction": "etoz",
+            "from": "en",
+            "to": "zh-CHS",
+            "len": 8,
+            "qtype": "text",
+            "qctype": "qc_1",
+            "dict_cover": 1,
+            "detail": 1,
+            "wordCardCover": 1,
+            "wordCardEn": 1,
+            "wordCardCh": 0,
+            "wordCardMinor": 0,
+            "wordCardNetmean": 0,
+            "wordDeform": 1,
+            "keyword": 0,
+            "bilingual": 1,
+            "simple": 0,
+            "levelList": 1,
+            "synonym": 0,
+            "antonym": 0,
+            "conjugate": 0,
+            "rootaffix": 0,
+            "baike_sogou": 1,
+            "baike_wiki": 0,
+            "wordDifference": 0,
+            "word_phrase": 1,
+            "secondQuery": 0,
+            "dict_oxford": 0,
+            "dict_newcentury": 0,
+            "zhongkaotab": 1,
+            "gaokaotab": 1,
+            "CET4tab": 0,
+            "CET6tab": 0,
+            "kaoyantab": 0,
+            "network_tab": 0,
+            "yinying_tab": 1,
+            "tuozhan_tab": 0,
+            "one_pic": 0,
+            "more_pic": 0,
+            "no_pic": 0,
+            "uuid": "64897eb6-763e-4869-960c-b9a7f9fd557e",
+            "from_type": 0,
+            "t_trans_ssr": 137
+        },
+        "ServerModelUIGS": {
+            "terminal": "web",
+            "type": "trans_model",
+            "pbtype": "pv",
+            "model_general": 1,
+            "model_medical": 1,
+            "model_finance": 1
+        },
+        "ServerSgtkn": "64F206225A96FB525A5C72E164653DD95A434FAB675529CF",
+        "suggShow": false,
+        "suggestion": "",
+        "suggDirection": "",
+        "usualTop": "",
+        "baseDict": "",
+        "wordCardClick": false,
+        "isFrInput": false,
+        "kanaTips": {
+            "show": false,
+            "left": "",
+            "top": "",
+            "type": "",
+            "arrowLeft": ""
+        },
+        "currSentenceIndex": -1,
+        "prefixStrObj": {
+            "prefixStr": "",
+            "oriPrefixStr": ""
+        },
+        "selectTransBox": {
+            "show": false,
+            "right": 0,
+            "top": 0,
+            "paraphraseInfo": {
+                "word": "",
+                "from": "",
+                "to": "",
+                "area": ""
+            }
+        },
+        "sentenceLoading": false,
+        "newSentenceInfo": {
+            "sentence": "",
+            "candidateIndex": 0
+        },
+        "moreTipInfo": {
+            "opacity": 0,
+            "zIndex": -1
+        },
+        "paraphraseShowInfo": {
+            "card": 0,
+            "query": "",
+            "card_dict": 0
+        },
+        "selectType": "",
+        "wordPos": 0,
+        "candidateWord": "",
+        "syntaxVisible": false,
+        "syntaxStatus": 0
+    },
+    "language": {
+        "from": "auto",
+        "to": "zh-CHS",
+        "detect": "en",
+        "model": "general",
+        "detectShow": false,
+        "langMap": {
+            "current": ""
+        },
+        "zh2en": false,
+        "fromItemList": [
+            {
+                "lang": "auto",
+                "text": "自动检测",
+                "play": false
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "fr",
+                "text": "法语",
+                "play": true,
+                "abbr": "法"
+            },
+            {
+                "lang": "ru",
+                "text": "俄语",
+                "play": true,
+                "abbr": "俄"
+            },
+            {
+                "lang": "th",
+                "text": "泰语",
+                "play": true,
+                "abbr": "泰"
+            }
+        ],
+        "toItemList": [
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "ru",
+                "text": "俄语",
+                "play": true,
+                "abbr": "俄"
+            },
+            {
+                "lang": "fr",
+                "text": "法语",
+                "play": true,
+                "abbr": "法"
+            },
+            {
+                "lang": "ko",
+                "text": "韩语",
+                "play": true,
+                "abbr": "韩"
+            }
+        ]
+    },
+    "voice": {
+        "from": {
+            "lang": "en",
+            "type": "from",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22Thursday%22%2C%22spokenDialect%22%3A%22en%22%2C%22rate%22%3A%220.8%22%7D",
+            "list": [
+                {
+                    "type": "uk_0",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "ˈθɜːzdeɪ",
+                    "abbr": "英",
+                    "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22Thursday%22%2C%22spokenDialect%22%3A%22en%22%2C%22rate%22%3A%220.8%22%7D"
+                },
+                {
+                    "type": "usa_1",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "ˈθɜːrzdeɪ",
+                    "abbr": "美",
+                    "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22Thursday%22%2C%22spokenDialect%22%3A%22en%22%2C%22rate%22%3A%220.8%22%7D"
+                }
+            ],
+            "stype": "phonetic",
+            "phoneticShow": [
+                {
+                    "text": "ˈθɜːzdeɪ",
+                    "type": "uk",
+                    "filename": ""
+                },
+                {
+                    "text": "ˈθɜːrzdeɪ",
+                    "type": "usa",
+                    "filename": ""
+                }
+            ]
+        },
+        "to": {
+            "lang": "zh",
+            "type": "to",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22%E6%98%9F%E6%9C%9F%E5%9B%9B%22%2C%22spokenDialect%22%3A%22zh-CHS%22%2C%22rate%22%3A%220.8%22%7D",
+            "stype": "normal"
+        }
+    }
+}

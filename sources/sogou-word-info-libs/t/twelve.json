@@ -1,0 +1,923 @@
+{
+    "route": {
+        "name": "text",
+        "path": "/text",
+        "hash": "",
+        "query": {
+            "keyword": "twelve",
+            "transfrom": "auto",
+            "transto": "zh-CHS",
+            "model": "general",
+            "errcode": "s10"
+        },
+        "params": {},
+        "fullPath": "/text?keyword=twelve&transfrom=auto&transto=zh-CHS&model=general&errcode=s10",
+        "meta": {
+            "mtype": [
+                "textTranslate",
+                "language",
+                "voice"
+            ]
+        },
+        "from": {
+            "name": null,
+            "path": "/",
+            "hash": "",
+            "query": {},
+            "params": {},
+            "fullPath": "/",
+            "meta": {}
+        }
+    },
+    "common": {
+        "CONFIG": {
+            "wuid": 1733634617341,
+            "loginInfo": {},
+            "isIE": 0,
+            "isHitSsrSwitch": true,
+            "isHitWritebookSwitch": false,
+            "isHitAmsSwitch": true,
+            "promotionList": "{\n    \"pc_bottom\":{\n        \"imgsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\",\n        \"qcsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\"\n    },\n    \"pc_middle\":[\n        {\n            \"src\":\"//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c\",\n            \"bgColor\":\"#ffffff\",\n            \"link\":\"\"\n        }\n    ],\n    \"pc_survey\":{\n        \"icon\":\"//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750\",\n        \"link\":\"https://wj.qq.com/s2/8193148/806d/\"\n    }\n}",
+            "bannerData": [],
+            "isHitAsideSurvey": false,
+            "secretCode": 109984457,
+            "uuid": "90242563-8731-42ba-ab2c-7ff36a21d3bc",
+            "referer": "",
+            "approveToken": "64F273992BEB8A2327210F9364AE5C6F2829B11E67552A39",
+            "loadTime": 1733634617343,
+            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0",
+            "fcp": "170.64.148.76",
+            "temporaryId": "",
+            "fileId": ""
+        },
+        "hotWords": [],
+        "isFromCollect": false,
+        "psdModify": {
+            "currentStep": 1,
+            "scode": "",
+            "username": ""
+        },
+        "loginStatus": true,
+        "feedBackModule": false,
+        "showPromotionPopup": {
+            "show": false,
+            "type": ""
+        },
+        "showPromotionPCDownload": false,
+        "showShareBomb": false,
+        "shareData": null,
+        "showAppDownLoad": false,
+        "showLoginDialog": false,
+        "showLoading": {
+            "show": false
+        },
+        "toast": {
+            "show": false,
+            "text": "",
+            "loading": false
+        },
+        "modelToast": {
+            "show": false,
+            "text": ""
+        },
+        "selectionGlobalShow": true,
+        "selectionInfo": {
+            "left": 0,
+            "top": 0,
+            "show": false,
+            "from": "",
+            "to": "",
+            "val": "",
+            "area": ""
+        },
+        "showConfirmDialog": false,
+        "promotionList": {
+            "pc_bottom": {
+                "imgsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png",
+                "qcsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png"
+            },
+            "pc_middle": [
+                {
+                    "src": "//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c",
+                    "bgColor": "#ffffff",
+                    "link": ""
+                }
+            ],
+            "pc_survey": {
+                "icon": "//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750",
+                "link": "https://wj.qq.com/s2/8193148/806d/"
+            }
+        },
+        "transTypeTxt": "text",
+        "fixedTabStatus": 0,
+        "bodyTop": 0,
+        "ifHideUserOperation": false
+    },
+    "textTranslate": {
+        "prevTransQuery": "",
+        "translateData": {
+            "translate": {
+                "zly": "zly",
+                "errorCode": "0",
+                "qc_type": "1",
+                "index": "content0",
+                "from": "en",
+                "source": "sogou",
+                "text": "twelve",
+                "to": "zh-CHS",
+                "id": "90242563-8731-42ba-ab2c-7ff36a21d3bc",
+                "dit": "十二",
+                "orig_text": "twelve",
+                "md5": ""
+            },
+            "detect": {
+                "zly": "zly",
+                "detect": "en",
+                "errorCode": "0",
+                "language": "英语",
+                "id": "b6e0b530-b522-11ef-b4aa-afaf4923e4bd",
+                "text": "twelve"
+            },
+            "sgtkn": "64F2739F2BEB8A2327210F9364AE5C6F2829B11E67552A39",
+            "wordCard": {
+                "title": "twelve",
+                "show": true,
+                "usualDict": [
+                    {
+                        "values": [
+                            "十二；12"
+                        ],
+                        "pos": "num."
+                    },
+                    {
+                        "values": [
+                            "十二；十二个（人或物）；十二岁；十二点钟；[宗]（耶稣的）十二门徒；十二音；十二进制；十二个单位一组；（指服装尺码）十二号"
+                        ],
+                        "pos": "n."
+                    },
+                    {
+                        "values": [
+                            "十二的；十二个的"
+                        ],
+                        "pos": "adj."
+                    }
+                ],
+                "secondQuery": "",
+                "exchange": {
+                    "word_pl": [
+                        "twelves"
+                    ]
+                },
+                "levelList": [
+                    "小学",
+                    "初中",
+                    "高中",
+                    "四级",
+                    "考研"
+                ]
+            },
+            "detail": {
+                "synonym": [
+                    {
+                        "word_list": [
+                            "dozen"
+                        ],
+                        "pos": "n.",
+                        "mean": "十二；十二个"
+                    },
+                    {
+                        "word_list": [
+                            "duodenary"
+                        ],
+                        "pos": "adj.",
+                        "mean": "十二的；十二个的"
+                    }
+                ],
+                "wordRootInfo": {
+                    "word_info_list": [
+                        {
+                            "word": "twelfth",
+                            "pos_mean_info_list": [
+                                {
+                                    "pos": "adj.",
+                                    "mean": "第十二的，第十二个的；十二分之一的"
+                                },
+                                {
+                                    "pos": "n.",
+                                    "mean": "第十二；月的第十二日"
+                                }
+                            ]
+                        }
+                    ],
+                    "root_word": "twelve"
+                },
+                "word_group": [
+                    {
+                        "brief_definition": "十二个不在场的证人；十二个辩解证人",
+                        "phrase": "twelve alibi witnesss",
+                        "pos": ""
+                    }
+                ],
+                "bilingual": [
+                    {
+                        "source": "She is <em>twelve</em> years old.",
+                        "target": "她十二岁。",
+                        "url": ""
+                    },
+                    {
+                        "source": "<em>Twelve</em> months in a year.",
+                        "target": "一年有十二个月。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Lingling is <em>twelve</em> years old.",
+                        "target": "玲玲十二岁。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Alex was <em>twelve</em> years old.",
+                        "target": "亚历克斯当时十二岁。",
+                        "url": ""
+                    },
+                    {
+                        "source": "I was born <em>twelve</em> years ago.",
+                        "target": "我出生在十二年前。",
+                        "url": ""
+                    },
+                    {
+                        "source": "In New York, it's <em>twelve</em> o'clock.",
+                        "target": "在纽约，现在是十二点。",
+                        "url": ""
+                    },
+                    {
+                        "source": "There are <em>twelve</em> boys on the bike.",
+                        "target": "自行车上有十二个男孩。",
+                        "url": ""
+                    },
+                    {
+                        "source": "We have lunch at half past <em>twelve</em>.",
+                        "target": "我们在十二点半吃午饭。",
+                        "url": ""
+                    },
+                    {
+                        "source": "He was going to do <em>twelve</em> of these.",
+                        "target": "他打算做十二个这样的。",
+                        "url": ""
+                    },
+                    {
+                        "source": "You ate <em>twelve</em> chocolate brownies.",
+                        "target": "你吃了十二块巧克力布朗尼。",
+                        "url": ""
+                    }
+                ],
+                "baike": {
+                    "showMore": true,
+                    "list": [
+                        {
+                            "lemmaTitle": "twelve",
+                            "link": "https://baike.sogou.com/v8305008.htm?ch=sogou.fanyi",
+                            "abstract": "twelve，在GILL的秘密结社制造出来的，究极的人型杀戮兵器。采用改造尼可罗的方法，并进行强化改良之后制造出来的量产型的完成型，拥有变幻自如的身体。每次完成任务之后都回到研究所的座仓中，复原受伤的肉体并改写记忆，把一切回复到初期化状态。但是这样一个杀戮机器不断地觉醒自我意识，这点连以吴博士为首的研究者们都没有注意到的。",
+                            "wapPic": "//img02.sogoucdn.com/v2/thumb/retype_exclude_gif/ext/auto/q/80/crop/xy/ai/w/140/h/140/resize/w/140?appid=201005&sign=a7b6a814612d6ee199b02d530ab59cae&url=https%3A%2F%2Fpic.baike.soso.com%2Fugc%2Fbaikepic2%2F5831%2F20220413115540-1848322503_png_750_500_315648.jpg%2F0",
+                            "pcPic": "//img01.sogoucdn.com/v2/thumb/retype_exclude_gif/ext/auto/q/80/crop/xy/ai/w/140/h/140/resize/w/140?appid=201005&sign=a7b6a814612d6ee199b02d530ab59cae&url=https%3A%2F%2Fpic.baike.soso.com%2Fugc%2Fbaikepic2%2F5831%2F20220413115540-1848322503_png_750_500_315648.jpg%2F0"
+                        },
+                        {
+                            "lemmaTitle": "TWELVE",
+                            "link": "https://baike.sogou.com/v148671139.htm?ch=sogou.fanyi",
+                            "abstract": "《TWELVE》是2010年上映的电影，由Joel Schumacher执导，Emma Roberts、Chace Crawford等主演，讲述了一个年轻的毒品贩子过着富家子弟纸醉金迷的生活的故事。",
+                            "wapPic": "",
+                            "pcPic": ""
+                        }
+                    ]
+                }
+            },
+            "book": {
+                "yingyinNormal": [
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/a3f6ca8d0ebaa5b0956976d643673427_52102.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/18ea5226b314c385f80ae0811f394214_49613.mp3",
+                        "isLavafox": true,
+                        "en": "Eleven, <em>twelve</em>, thirteen ,fourteen, fifteen, sixteen, seventeen, eighteen, nineteen, twenty.",
+                        "zh": "十一，十二，十三，十四，十五，十六，十七，十八，十九，二十！",
+                        "videoNameZh": "《小猪佩奇 第三季》",
+                        "videoNameEn": "《Peppa Pig Season 3》",
+                        "url": "http://bisentence_movie.sogou.com/99092632eb29b1861d96dda914d3e96d_99363348687ef88c826832c691f3b01430df8496"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/fbd36068a45ee4cc0e4a4e35ee0653bd_43525.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/e1fd96560b1d51718f8cd2db1d3881b8_17472.mp3",
+                        "isLavafox": true,
+                        "en": "<em>Twelve</em> possible worlds, <em>twelve</em> Ranger launches carrying the bravest humans ever to live led by the remarkable Dr. Mann.",
+                        "zh": "十二个可能的世界，十二架漫游者飞船，载着最勇敢的人，由了不起的Mann博士带队。",
+                        "videoNameZh": "《星际穿越》",
+                        "videoNameEn": "《Interstellar》",
+                        "url": "http://bisentence_movie.sogou.com/d4c05ade2eee49eebd3fe0d52d5a62ed_c5c8139223edbec5b9c7a0c8c145bcd72dda902f"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/bd2008660cd3445b80373a4184215c30_37784.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/b116b601b4aa6f144df95f05475c7d43_44768.mp3",
+                        "isLavafox": true,
+                        "en": "This is the ship that made the Kessel Run in 14 parsecs? <em>Twelve</em>! Fourteen.",
+                        "zh": "这就是那艘只用十四秒差距完成科舍尔航程的飞船？十二秒！什么十四秒。",
+                        "videoNameZh": "《星球大战7：原力觉醒》",
+                        "videoNameEn": "《Star Wars: The Force Awakens》",
+                        "url": "http://bisentence_movie.sogou.com/62af827719db65aee703ed2a31d57709_54fd5a79145ced57392a789a0184477c04d14c4f"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/fbd36068a45ee4cc0e4a4e35ee0653bd_43525.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/2afc92e0ac8adf3f3c7a374d29cd0e61_57309.mp3",
+                        "isLavafox": true,
+                        "en": "They've put potentially habitable worlds right within our reach. <em>Twelve</em>, in fact, from our initial probes.",
+                        "zh": "他们将宜居的世界，放在了我们触手可及的地方，十二个，这是我们初步探查的结果。",
+                        "videoNameZh": "《星际穿越》",
+                        "videoNameEn": "《Interstellar》",
+                        "url": "http://bisentence_movie.sogou.com/8c54f62388cb79a4ef8ae43154c99975_a0df8167bf66799b26ab8edb0d1a7ef8dca3dc7d"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/1a903f0039362b0ab8a048b9ba9c9d66_30399.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/d5a88ff7b333ef2b06b660e41c777907_52348.mp3",
+                        "isLavafox": true,
+                        "en": "What? The gun. But it works better if you flip the switch by your thumb. Careful. You've been asleep for almost <em>twelve</em> hours.",
+                        "zh": "什么？那把枪。想要开枪得先把保险打开才行。小心点，你已经昏睡了十二个小时。",
+                        "videoNameZh": "《木星上行》",
+                        "videoNameEn": "《Jupiter Ascending》",
+                        "url": "http://bisentence_movie.sogou.com/d0fbd5c7323f97c15033ea805fb9d970_6b88f6e2868ee17563367c3a074933d71925db0d"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/68eeb648a2ff0cbf1b553571b1bde0b8_47107.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/649e8b9986592a92364d67f872e05279_32161.mp3",
+                        "isLavafox": true,
+                        "en": "I am loving this country theme. This reminds me of when I worked for Newscenter <em>Twelve</em> in Tulsa, except no one here's bitter and drunk.",
+                        "zh": "我超爱这个乡村主题！让我想起当初给塔尔萨市的十二新闻台工作的日子，除了这里没有刻薄的醉汉。",
+                        "videoNameZh": "《摩登家庭 第八季》",
+                        "videoNameEn": "《Modern Family Season 8》",
+                        "url": "http://bisentence_movie.sogou.com/9ed1a40ee5f8cb48ca8edbfd53c94894_0638be519eb67b378fec9540c50dcee1acfaaed7"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/bedafc9cbd9ff62be49e08cf3cb8efa0_35632.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/c8e2e705664d771afaab1fb721ebc504_54486.mp3",
+                        "isLavafox": true,
+                        "en": "Kowloon's Walled City Park is a gateway into the world of classic Qing Dynasty design, and features statues of the <em>twelve</em> animals of the Chinese zodiac.",
+                        "zh": "九龙寨城公园是进入清朝时期的时光门，里面不但有清朝的建筑设计，还有以中国十二生肖为题材而建的雕像。",
+                        "videoNameZh": "《10大名城旅游攻略》",
+                        "videoNameEn": "《10 Cities Vacation Travel Guide》",
+                        "url": "http://bisentence_movie.sogou.com/848e9fb10d794c964646e5670d839eeb_5da448df6d793129ded4d0cb2004f3e5675cf422"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/070fb26d3af178b3f2a1532fb08bc392_61512.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/b83bfc06cf6202113fc224ab1448ff45_63369.mp3",
+                        "isLavafox": true,
+                        "en": "Look, the tail points at <em>twelve</em>.",
+                        "zh": "尾巴指向12点方向。",
+                        "videoNameZh": "《饥饿游戏2：星火燎原》",
+                        "videoNameEn": "《The Hunger Games: Catching Fire》",
+                        "url": "http://bisentence_movie.sogou.com/ef780f0923c6c70e5f78a789d8b1eccf_4449639e40a4947e1ca08f37bf544ba4489f5e3f"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/f5f16d3165593ebdb6d6ae8299e72880_33413.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/caef37d89fd0be3dd3321b325b79c63c_26902.mp3",
+                        "isLavafox": true,
+                        "en": "No. No. I don't mean I see her as a <em>twelve</em>-year-old girl.",
+                        "zh": "不，我不是把她当成12岁的小女孩。",
+                        "videoNameZh": "《老友记 第六季》",
+                        "videoNameEn": "《Friends Season 6》",
+                        "url": "http://bisentence_movie.sogou.com/a98a35179c9ef5417c8a78033722a338_eb9407f2d192525dc1a7ef07cac05981cd0deb3d"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/da05150e22afbf7831f12e08b25b79e2_34202.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/52109ad727adbb52daa2950b714cb48e_25182.mp3",
+                        "isLavafox": true,
+                        "en": "Time. Yes, of course. I'll be at your door in <em>twelve</em> hours.",
+                        "zh": "时间。当然。12小时内到你那边。",
+                        "videoNameZh": "《超体》",
+                        "videoNameEn": "《Lucy》",
+                        "url": "http://bisentence_movie.sogou.com/90fb956482bcdba34bfd15601dfc58f0_56513082e8f76fb929e2df47b3c721315c71fb50"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/8a5b25dfe5e482fce849895959f35aba_1648.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/db389572113f69c379d7ae2dd547fd27_38077.mp3",
+                        "isLavafox": true,
+                        "en": "Okay, hey, that's okay with me. Two down and I have exactly <em>twelve</em> minutes.",
+                        "zh": "我无所谓，已经搞定两个了，我还有整整12分钟。",
+                        "videoNameZh": "《老友记 第三季》",
+                        "videoNameEn": "《Friends Season 3》",
+                        "url": "http://bisentence_movie.sogou.com/749c7111ba354e2e4fe45144228de1ee_92fe801b50620f0038cb92d94a0aeb44e89f55a8"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/46b4115557598e1ee93285923c5dd556_29528.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/8a56eb9936eef96bdde154aa2a4bee78_59421.mp3",
+                        "isLavafox": true,
+                        "en": "And if you didn't visit them for <em>twelve</em> clicks, they would disappear forever.",
+                        "zh": "如果你连续12次没有点击它们，它们就会永远消失。",
+                        "videoNameZh": "《怪诞行为学》",
+                        "videoNameEn": "《Predictably Irrational》",
+                        "url": "http://bisentence_movie.sogou.com/4412015d6b2b5872402cdd660dd535ce_7ef3c26a7acadc6cb8499bc4d0e46bb208fae9f8"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/070fb26d3af178b3f2a1532fb08bc392_61512.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/63e8787f6b8236567e096ebeaa40d44c_13333.mp3",
+                        "isLavafox": true,
+                        "en": "So <em>twelve</em> to one lightning. Then one to two is blood, then fog and then monkeys.",
+                        "zh": "12点到1点是闪电，1点到2点是血雨，然后是毒雾，再就是变种猴。",
+                        "videoNameZh": "《饥饿游戏2：星火燎原》",
+                        "videoNameEn": "《The Hunger Games: Catching Fire》",
+                        "url": "http://bisentence_movie.sogou.com/4b99c1606753556e915060246b6ad463_75b64fabde6b82a81c0de4098d70e0e926da00af"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/95bf83fa9c39ec4f55b8511dc0c4ed29_55630.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/9b20249c0aa6553ed51575c8d3a38ea9_72213.mp3",
+                        "isLavafox": true,
+                        "en": "Did you at least win the contest? Two minutes, <em>twelve</em> pies and a part of one tin.",
+                        "zh": "那你赢了没有？两分钟吃了12个外加一罐！",
+                        "videoNameZh": "《老友记 第十季》",
+                        "videoNameEn": "《Friends Season 10》",
+                        "url": "http://bisentence_movie.sogou.com/8253e489b014911a4ed8401d173e06a6_2bed13a8cf8d230ad5574e3951957e35f98b1aaf"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/0ce3ba1d09aadca7b93fbf3633e423d4_26694.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/0b9a74d1fbf66f26123226d48f4bcd57_33042.mp3",
+                        "isLavafox": true,
+                        "en": "Well, it's my word against yours. 200 bucks a day, fluff, 365 days a year, since I was <em>twelve</em>.",
+                        "zh": "空口无凭。小家伙，从我12岁起，每年365天，每天200块。",
+                        "videoNameZh": "《疯狂动物城》",
+                        "videoNameEn": "《Zootopia》",
+                        "url": "http://bisentence_movie.sogou.com/ec6c10373f03cc33afe5196ada041c8a_128756fa3fb4812edb8612973cef67fccc8e521e"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/8b3da16ecbe350aacc1a7e4a01d210bc_49869.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/c0efc1c645d3252b830cf60cec7289e9_68343.mp3",
+                        "isLavafox": true,
+                        "en": "Oh, Dr. Siebert, <em>twelve</em> o'clock. Why's the president of the university slumming in the cafeteria?",
+                        "zh": "12点方向，希伯特博士。为啥大学校长要来食堂里视察呢？",
+                        "videoNameZh": "《生活大爆炸 第四季》",
+                        "videoNameEn": "《The Big Bang Theory Season 4》",
+                        "url": "http://bisentence_movie.sogou.com/0c4b61464e63b06e7ce46bc49b0893d9_a11269919ff789eb6457ab9e140c9107dbcf7b17"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/178d946ef640c7de6e0f6c8df29d5810_67890.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/9808fa74145155b8f39e597027e29667_30475.mp3",
+                        "isLavafox": true,
+                        "en": "And it wasn't until you were <em>twelve</em> that you realized all the voices were in everyone else's head.",
+                        "zh": "你到12岁了，这还未消停，然而你发现那些声音统统都是别人的脑里的想法。",
+                        "videoNameZh": "《X战警：逆转未来》",
+                        "videoNameEn": "《X-Men: Days of Future Past》",
+                        "url": "http://bisentence_movie.sogou.com/f635a6257898d6e72461d0b05b0ee3fc_a07bdee3e23d7d16413ebd2591108963efafe6f8"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/89af515bc1904b2f30182572c2d73a41_25401.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/33df66ae8f362ce5d6404a9302369cba_48579.mp3",
+                        "isLavafox": true,
+                        "en": "The last one is at Fort Meade, behind three guarded gates and a <em>twelve</em>-inch steel wall. Shouldn't be a problem.",
+                        "zh": "最后一个在米德堡，有三道大门把守，还有堵12英寸厚的钢墙。这不算事儿。",
+                        "videoNameZh": "《美国队长2》",
+                        "videoNameEn": "《Captain America: The Winter Soldier》",
+                        "url": "http://bisentence_movie.sogou.com/7aeac628bac7eb59b7d60c15e7b68929_f4eb42a692691614ae10e2113ff5af143a2ac7cf"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/bedafc9cbd9ff62be49e08cf3cb8efa0_35632.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/9a4d3d573a0011f992fb9751c07a9cd7_30710.mp3",
+                        "isLavafox": true,
+                        "en": "With a population of over <em>twelve</em> million people, the French capital is at the heart of the Ile-de-France region.",
+                        "zh": "拥有超过一千两百万人口，是法国的首都，位在法兰西岛的心脏地带。",
+                        "videoNameZh": "《10大名城旅游攻略》",
+                        "videoNameEn": "《10 Cities Vacation Travel Guide》",
+                        "url": "http://bisentence_movie.sogou.com/19e8904c8fb9698c72202b787ecc9916_5311d60bdcaca12b6acf978e732d81a7c2b7d5fe"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/65861602801590fdaf378b1d1c997a40_10433.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/3d05b9fb40f6b8bb57d4d152dffaa8a7_38201.mp3",
+                        "isLavafox": true,
+                        "en": "Oh man. I want that place so much. I was so sure that was gonna work. There's <em>twelve</em> bucks I'll never see again.",
+                        "zh": "真是的，我好想要那层公寓，我还以为一定会成功，那12块钱算是一去不复返了。",
+                        "videoNameZh": "《老友记 第五季》",
+                        "videoNameEn": "《Friends Season 5》",
+                        "url": "http://bisentence_movie.sogou.com/96ce7688f2887e58a499e4d5b5fe3958_1e16d8ea664108286ddafa40761d4188517c6edc"
+                    }
+                ]
+            },
+            "pic": "",
+            "voice": {
+                "phonetic": [
+                    {
+                        "text": "twelv",
+                        "type": "uk",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/6042_twelve_uk.mp3"
+                    },
+                    {
+                        "text": "twelv",
+                        "type": "usa",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/6042_twelve_usa.mp3"
+                    }
+                ]
+            },
+            "dictType": "oxford_buchong",
+            "gaokao": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 7,
+                        "pos": "num",
+                        "chinese": "十二",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "twelve",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2015-2022年8年间全国卷和自主命题省市高考卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2015-2022年全国卷高考试卷，包括阅读、完形、单选、填空、听力、改错、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选各省市考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2015-2022年8年间全国卷和自主命题省市高考卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 2,
+                "word_family": {
+                    "derivative_info_list": [
+                        {
+                            "derivative_info_list": [],
+                            "word": "twelfth",
+                            "mean": "num. 第十二；十二分之一；十二度音程；十二度和音；十二度音；八月十二日；七月十二日"
+                        }
+                    ],
+                    "word": "twelve",
+                    "mean": "num. 十二；十二个；十二岁；十二点钟；十二门徒；十二个人一组；十二号；适于十二岁及以上人观看的电影"
+                },
+                "total_exam_freq": 7,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "十二",
+                            "pos": "num",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "Zafirakou began the project at Alperton Community School, her place of work for the past <highlight>twelve</highlight> years.",
+                                    "month": -1,
+                                    "source": "新高考II卷",
+                                    "coll": "",
+                                    "sentence_trans": "Zafirakou在Alperton社区学校启动了这个项目，在过去的12年里，她一直在那里工作。",
+                                    "year": 2021,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "When I was <highlight>twelve</highlight>, I made a list of things I wanted to do some day.",
+                                    "month": -1,
+                                    "source": "新高考Ⅰ卷",
+                                    "coll": "",
+                                    "sentence_trans": "当我十二岁的时候，我把有朝一日想做的事情列了一个清单。",
+                                    "year": 2021,
+                                    "type": "听力",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "I count <highlight>twelve</highlight> shades of green from where I stand.",
+                                    "month": -1,
+                                    "source": "全国卷1",
+                                    "coll": "",
+                                    "sentence_trans": "我从我所处的位置数出了十二种绿色。",
+                                    "year": 2019,
+                                    "type": "完形填空",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            "zhongkao": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 25,
+                        "pos": "num",
+                        "chinese": "十二; 十二岁; 十二点",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "twelve",
+                "direction_info": {
+                    "ranges": 4,
+                    "description": "数据源自2018-2021年4年间全国各省市中考试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2018-2021年全国重点省市中考试卷，包括听力、阅读、完形、单选、填空、改错、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选各省市考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2018-2021年4年间全国各省市中考试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 5,
+                "word_family": {
+                    "derivative_info_list": [
+                        {
+                            "derivative_info_list": [],
+                            "word": "twelfth",
+                            "mean": "num. 第十二；十二分之一；十二度音程；十二度和音；十二度音；八月十二日；七月十二日"
+                        }
+                    ],
+                    "word": "twelve",
+                    "mean": "num. 十二；十二个；十二岁；十二点钟；十二门徒；十二个人一组；十二号；适于十二岁及以上人观看的电影"
+                },
+                "total_exam_freq": 25,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "十二; 十二岁; 十二点",
+                            "pos": "num",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "My life was perfect when I was <highlight>twelve</highlight> years old.",
+                                    "month": -1,
+                                    "source": "青岛市卷",
+                                    "coll": "",
+                                    "sentence_trans": "我十二岁的时候，我的生活很完美。",
+                                    "year": 2020,
+                                    "type": "词语运用",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "What did Ma want to do when he was <highlight>twelve</highlight> years old?",
+                                    "month": -1,
+                                    "source": "衡阳市卷",
+                                    "coll": "",
+                                    "sentence_trans": "马十二岁的时候想做什么？",
+                                    "year": 2019,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "As many as one in <highlight>twelve</highlight> 12-year-olds have taken drugs.",
+                                    "month": -1,
+                                    "source": "贵阳市卷",
+                                    "coll": "",
+                                    "sentence_trans": "多达12分之一的12岁青少年吸毒。",
+                                    "year": 2018,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "word_usage": [
+                    {
+                        "usage": "twelve作名词，为数词，表示数字“12”。注意其序数词，“第十二”为twelfth。"
+                    }
+                ]
+            },
+            "sentencesData": {
+                "status": 1,
+                "info": "notZh2En",
+                "data": {}
+            },
+            "isAutoMatch": false,
+            "Zh2En": false
+        },
+        "query": "twelve",
+        "result": "十二",
+        "tabSelect": "detail",
+        "dictionaryType": "oxford_buchong",
+        "notFound_show": false,
+        "phoneticShow": "",
+        "globalShowTranslateRecord": "",
+        "pronPrefer": {
+            "type": "usa_1",
+            "speaker": "male",
+            "speed": "standard"
+        },
+        "ServerRecord": "",
+        "ServerUIGS": {
+            "version": "new",
+            "type": "all",
+            "stype": "success",
+            "terminal": "web",
+            "fr": "default",
+            "direction": "etoz",
+            "from": "en",
+            "to": "zh-CHS",
+            "len": 6,
+            "qtype": "text",
+            "qctype": "qc_1",
+            "dict_cover": 1,
+            "detail": 1,
+            "wordCardCover": 1,
+            "wordCardEn": 1,
+            "wordCardCh": 0,
+            "wordCardMinor": 0,
+            "wordCardNetmean": 0,
+            "wordDeform": 1,
+            "keyword": 0,
+            "bilingual": 1,
+            "simple": 0,
+            "levelList": 1,
+            "synonym": 1,
+            "antonym": 0,
+            "conjugate": 1,
+            "rootaffix": 0,
+            "baike_sogou": 1,
+            "baike_wiki": 0,
+            "wordDifference": 0,
+            "word_phrase": 1,
+            "secondQuery": 0,
+            "dict_oxford": 0,
+            "dict_newcentury": 0,
+            "zhongkaotab": 1,
+            "gaokaotab": 1,
+            "CET4tab": 0,
+            "CET6tab": 0,
+            "kaoyantab": 0,
+            "network_tab": 0,
+            "yinying_tab": 1,
+            "tuozhan_tab": 0,
+            "one_pic": 0,
+            "more_pic": 0,
+            "no_pic": 0,
+            "uuid": "90242563-8731-42ba-ab2c-7ff36a21d3bc",
+            "from_type": 0,
+            "t_trans_ssr": 165
+        },
+        "ServerModelUIGS": {
+            "terminal": "web",
+            "type": "trans_model",
+            "pbtype": "pv",
+            "model_general": 1,
+            "model_medical": 1,
+            "model_finance": 1
+        },
+        "ServerSgtkn": "64F2739F2BEB8A2327210F9364AE5C6F2829B11E67552A39",
+        "suggShow": false,
+        "suggestion": "",
+        "suggDirection": "",
+        "usualTop": "",
+        "baseDict": "",
+        "wordCardClick": false,
+        "isFrInput": false,
+        "kanaTips": {
+            "show": false,
+            "left": "",
+            "top": "",
+            "type": "",
+            "arrowLeft": ""
+        },
+        "currSentenceIndex": -1,
+        "prefixStrObj": {
+            "prefixStr": "",
+            "oriPrefixStr": ""
+        },
+        "selectTransBox": {
+            "show": false,
+            "right": 0,
+            "top": 0,
+            "paraphraseInfo": {
+                "word": "",
+                "from": "",
+                "to": "",
+                "area": ""
+            }
+        },
+        "sentenceLoading": false,
+        "newSentenceInfo": {
+            "sentence": "",
+            "candidateIndex": 0
+        },
+        "moreTipInfo": {
+            "opacity": 0,
+            "zIndex": -1
+        },
+        "paraphraseShowInfo": {
+            "card": 0,
+            "query": "",
+            "card_dict": 0
+        },
+        "selectType": "",
+        "wordPos": 0,
+        "candidateWord": "",
+        "syntaxVisible": false,
+        "syntaxStatus": 0
+    },
+    "language": {
+        "from": "auto",
+        "to": "zh-CHS",
+        "detect": "en",
+        "model": "general",
+        "detectShow": false,
+        "langMap": {
+            "current": ""
+        },
+        "zh2en": false,
+        "fromItemList": [
+            {
+                "lang": "auto",
+                "text": "自动检测",
+                "play": false
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "fr",
+                "text": "法语",
+                "play": true,
+                "abbr": "法"
+            },
+            {
+                "lang": "ko",
+                "text": "韩语",
+                "play": true,
+                "abbr": "韩"
+            },
+            {
+                "lang": "th",
+                "text": "泰语",
+                "play": true,
+                "abbr": "泰"
+            }
+        ],
+        "toItemList": [
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "vi",
+                "text": "越南语",
+                "play": true,
+                "abbr": "越"
+            },
+            {
+                "lang": "ko",
+                "text": "韩语",
+                "play": true,
+                "abbr": "韩"
+            },
+            {
+                "lang": "fr",
+                "text": "法语",
+                "play": true,
+                "abbr": "法"
+            }
+        ]
+    },
+    "voice": {
+        "from": {
+            "lang": "en",
+            "type": "from",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22twelve%22%2C%22spokenDialect%22%3A%22en%22%2C%22rate%22%3A%220.8%22%7D",
+            "list": [
+                {
+                    "type": "uk_0",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "twelv",
+                    "abbr": "英",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/6042_twelve_uk.mp3"
+                },
+                {
+                    "type": "usa_1",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "twelv",
+                    "abbr": "美",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/6042_twelve_usa.mp3"
+                }
+            ],
+            "stype": "phonetic",
+            "phoneticShow": [
+                {
+                    "text": "twelv",
+                    "type": "uk",
+                    "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/6042_twelve_uk.mp3"
+                }
+            ]
+        },
+        "to": {
+            "lang": "zh",
+            "type": "to",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22%E5%8D%81%E4%BA%8C%22%2C%22spokenDialect%22%3A%22zh-CHS%22%2C%22rate%22%3A%220.8%22%7D",
+            "stype": "normal"
+        }
+    }
+}

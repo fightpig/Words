@@ -1,0 +1,966 @@
+{
+    "route": {
+        "name": "text",
+        "path": "/text",
+        "hash": "",
+        "query": {
+            "keyword": "TV",
+            "transfrom": "auto",
+            "transto": "zh-CHS",
+            "model": "general",
+            "errcode": "s10"
+        },
+        "params": {},
+        "fullPath": "/text?keyword=TV&transfrom=auto&transto=zh-CHS&model=general&errcode=s10",
+        "meta": {
+            "mtype": [
+                "textTranslate",
+                "language",
+                "voice"
+            ]
+        },
+        "from": {
+            "name": null,
+            "path": "/",
+            "hash": "",
+            "query": {},
+            "params": {},
+            "fullPath": "/",
+            "meta": {}
+        }
+    },
+    "common": {
+        "CONFIG": {
+            "wuid": 1733634614799,
+            "loginInfo": {},
+            "isIE": 0,
+            "isHitSsrSwitch": true,
+            "isHitWritebookSwitch": false,
+            "isHitAmsSwitch": true,
+            "promotionList": "{\n    \"pc_bottom\":{\n        \"imgsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\",\n        \"qcsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\"\n    },\n    \"pc_middle\":[\n        {\n            \"src\":\"//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c\",\n            \"bgColor\":\"#ffffff\",\n            \"link\":\"\"\n        }\n    ],\n    \"pc_survey\":{\n        \"icon\":\"//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750\",\n        \"link\":\"https://wj.qq.com/s2/8193148/806d/\"\n    }\n}",
+            "bannerData": [],
+            "isHitAsideSurvey": false,
+            "secretCode": 109984457,
+            "uuid": "18b64214-9a23-459e-b8d1-7d88a39a5bd2",
+            "referer": "",
+            "approveToken": "64F270CB61BCD27B706958D42C12C5F7704AFA9267552A36",
+            "loadTime": 1733634614801,
+            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0",
+            "fcp": "170.64.148.76",
+            "temporaryId": "",
+            "fileId": ""
+        },
+        "hotWords": [],
+        "isFromCollect": false,
+        "psdModify": {
+            "currentStep": 1,
+            "scode": "",
+            "username": ""
+        },
+        "loginStatus": true,
+        "feedBackModule": false,
+        "showPromotionPopup": {
+            "show": false,
+            "type": ""
+        },
+        "showPromotionPCDownload": false,
+        "showShareBomb": false,
+        "shareData": null,
+        "showAppDownLoad": false,
+        "showLoginDialog": false,
+        "showLoading": {
+            "show": false
+        },
+        "toast": {
+            "show": false,
+            "text": "",
+            "loading": false
+        },
+        "modelToast": {
+            "show": false,
+            "text": ""
+        },
+        "selectionGlobalShow": true,
+        "selectionInfo": {
+            "left": 0,
+            "top": 0,
+            "show": false,
+            "from": "",
+            "to": "",
+            "val": "",
+            "area": ""
+        },
+        "showConfirmDialog": false,
+        "promotionList": {
+            "pc_bottom": {
+                "imgsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png",
+                "qcsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png"
+            },
+            "pc_middle": [
+                {
+                    "src": "//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c",
+                    "bgColor": "#ffffff",
+                    "link": ""
+                }
+            ],
+            "pc_survey": {
+                "icon": "//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750",
+                "link": "https://wj.qq.com/s2/8193148/806d/"
+            }
+        },
+        "transTypeTxt": "text",
+        "fixedTabStatus": 0,
+        "bodyTop": 0,
+        "ifHideUserOperation": false
+    },
+    "textTranslate": {
+        "prevTransQuery": "",
+        "translateData": {
+            "translate": {
+                "zly": "zly",
+                "errorCode": "0",
+                "qc_type": "1",
+                "index": "content0",
+                "from": "en",
+                "source": "sogou",
+                "text": "TV",
+                "to": "zh-CHS",
+                "id": "18b64214-9a23-459e-b8d1-7d88a39a5bd2",
+                "dit": "电视",
+                "orig_text": "TV",
+                "md5": ""
+            },
+            "detect": {
+                "zly": "zly",
+                "detect": "en",
+                "errorCode": "0",
+                "language": "英语",
+                "id": "b55cad40-b522-11ef-a194-810125b64a1c",
+                "text": "TV"
+            },
+            "sgtkn": "64F270D361BCD27B706958D42C12C5F7704AFA9267552A36",
+            "wordCard": {
+                "title": "TV",
+                "show": true,
+                "usualDict": [
+                    {
+                        "values": [
+                            "电视；电视机（television）；异性装扮癖者；异装癖者（transvestite）"
+                        ],
+                        "pos": "abbr."
+                    }
+                ],
+                "secondQuery": "",
+                "exchange": {
+                    "word_pl": [
+                        "TVs"
+                    ]
+                },
+                "levelList": [
+                    "小学",
+                    "初中",
+                    "高中",
+                    "考研"
+                ]
+            },
+            "detail": {
+                "word_group": [
+                    {
+                        "brief_definition": "看电视",
+                        "phrase": "watch TV",
+                        "pos": "v.phr"
+                    },
+                    {
+                        "brief_definition": "电视节目",
+                        "phrase": "TV program",
+                        "pos": "n.phr"
+                    },
+                    {
+                        "brief_definition": "电视节目；电视剧",
+                        "phrase": "TV show",
+                        "pos": "phr."
+                    },
+                    {
+                        "brief_definition": "电视机",
+                        "phrase": "TV set",
+                        "pos": "n.phr"
+                    },
+                    {
+                        "brief_definition": "电视台",
+                        "phrase": "TV station",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "直播电视节目",
+                        "phrase": "live TV",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "电视机",
+                        "phrase": "box TV",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "电视节目",
+                        "phrase": "TV programme",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "广播电视",
+                        "phrase": "radio TV",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "收费电视",
+                        "phrase": "pay TV",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "盒装电视便餐",
+                        "phrase": "TV dinner",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "有线电视；有线电视网",
+                        "phrase": "cable TV",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "互动式电视；交互式电视",
+                        "phrase": "interactive TV",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "便携式电视",
+                        "phrase": "portable TV",
+                        "pos": ""
+                    }
+                ],
+                "bilingual": [
+                    {
+                        "source": "I wanted to watch <em>TV</em> but the <em>TV</em> didn't work.",
+                        "target": "我想看电视，但电视坏了。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Mike never watches <em>TV</em>, but Tom watches <em>TV</em> every day.",
+                        "target": "迈克从不看电视，但汤姆每天看电视。",
+                        "url": ""
+                    },
+                    {
+                        "source": "It's time to watch <em>TV</em>.",
+                        "target": "该看电视了。",
+                        "url": ""
+                    },
+                    {
+                        "source": "The <em>TV</em> didn't work either.",
+                        "target": "电视也坏了。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Can I watch <em>TV</em> now?",
+                        "target": "我现在可以看电视吗？",
+                        "url": ""
+                    },
+                    {
+                        "source": "No, I can't stand <em>TV</em>.",
+                        "target": "不，我受不了电视。",
+                        "url": ""
+                    },
+                    {
+                        "source": "When do you watch <em>TV</em>?",
+                        "target": "你什么时候看电视？",
+                        "url": ""
+                    },
+                    {
+                        "source": "This is a <em>TV</em> program.",
+                        "target": "这是一个电视节目。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Thank you to School <em>TV</em>!",
+                        "target": "感谢学校电视台！",
+                        "url": ""
+                    },
+                    {
+                        "source": "Last night I watched <em>TV</em>.",
+                        "target": "昨晚我看了电视。",
+                        "url": ""
+                    }
+                ],
+                "baike": {
+                    "showMore": false,
+                    "list": [
+                        {
+                            "lemmaTitle": "TV",
+                            "link": "https://baike.sogou.com/v118681.htm?ch=sogou.fanyi",
+                            "abstract": "TV，英文单词television的缩写。 当表示“电视机”的意思时可数，如“many TVs“。表示电视节目时不可数，如“watch TV”，还有其它有趣的解释，见正文。 TV作为卡通名，有宠物小精灵TV系列动画片，在东京备受欢迎，详细信息见正文。",
+                            "wapPic": "",
+                            "pcPic": ""
+                        }
+                    ]
+                }
+            },
+            "book": {
+                "yingyinNormal": [
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/7eb0bec9540cbb2c5939554caf885c99_49670.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/5c6de15148b02da0749bcecec3fe9f98_45916.mp3",
+                        "isLavafox": true,
+                        "en": "Hey, guys, I need to use your <em>TV</em>.",
+                        "zh": "大伙，我要看一下你们的电视。",
+                        "videoNameZh": "《生活大爆炸 第二季》",
+                        "videoNameEn": "《The Big Bang Theory Season 2》",
+                        "url": "http://bisentence_movie.sogou.com/28cd1da123324c2a6000572b0df13583_9ac45ef80fe4f5bc7050c0514f5418c19897c1ef"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/886b76b0c552c22c57062be63cf27261_37722.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/03be3c21dacde3b1e80738ab3b268a08_19033.mp3",
+                        "isLavafox": true,
+                        "en": "Oh, my God. I'm gonna be on <em>TV</em>!",
+                        "zh": "喔，我的天，我要上电视了！ 好了，现在…",
+                        "videoNameZh": "《老友记 第九季》",
+                        "videoNameEn": "《Friends Season 9》",
+                        "url": "http://bisentence_movie.sogou.com/3ba5a2b06def98772bcd64a62dd5307a_ced6b4d85d7c8d761cbcfc251d9c886915003538"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/7527e2a9ec38f59ad126037938e4289c_52101.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/af1a267b2700297ce0251b45dca78455_59086.mp3",
+                        "isLavafox": true,
+                        "en": "I'll be watching <em>TV</em> if anybody needs me.",
+                        "zh": "如果你们要找我，我在房里看电视。",
+                        "videoNameZh": "《老友记 第八季》",
+                        "videoNameEn": "《Friends Season 8》",
+                        "url": "http://bisentence_movie.sogou.com/e3187b62f373dc23bc35006aec3bcbaf_ef13c2a4e9bba9326cc8b932e130dae8645d1f9b"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/629af26ee246702b04dae9c64fe5736b_64581.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/31340d7d77f03458b6d977a8c37a3bc3_27744.mp3",
+                        "isLavafox": true,
+                        "en": "The <em>tv</em> needs electricity too. Does it? Yes.",
+                        "zh": "电视也需要电。它需要吗？是的。",
+                        "videoNameZh": "《小猪佩奇（精选版）》",
+                        "videoNameEn": "《Peppa Pig》",
+                        "url": "http://bisentence_movie.sogou.com/7c559c89d3fabd3537bb9035eaa9ad8d_2673225b7181916f882cf7b65914d59e3d603105"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/d67496d18ec93ce1f31c004316546728_12072.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/affa65269a5a50012bb9d6de5a8ec260_1308.mp3",
+                        "isLavafox": true,
+                        "en": "What backyard? Mouse lives in a yard in <em>TV</em>?",
+                        "zh": "哪个后院？在电视里老鼠活在院子里吗？",
+                        "videoNameZh": "《房间》",
+                        "videoNameEn": "《Room》",
+                        "url": "http://bisentence_movie.sogou.com/32124afba21a18c74a95ad6890a8fe87_260624314e67a9041ed07d23224c6e0b7f6d0d8b"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/ce4704185ed874d2da0aa0211b7c5d4d_3508.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/17617b143b33a70baceb2c2fcabaf494_6710.mp3",
+                        "isLavafox": true,
+                        "en": "Russian <em>TV</em>. Forty-five minutes ago. It could be hot air.",
+                        "zh": "俄国电视台。45分钟前。可能是大话。",
+                        "videoNameZh": "《纸牌屋 第三季》",
+                        "videoNameEn": "《House of Cards Season 3》",
+                        "url": "http://bisentence_movie.sogou.com/7e317b977d8a97f2091a23a9ac17804c_931e5f59131eb369ded479aa5c56eaf2429fa3c6"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/73547344f45c7810425b9ba4324e7db4_62021.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/e1d7ac59c16d4f255a0d4cd72a15a967_45868.mp3",
+                        "isLavafox": true,
+                        "en": "Prefer a more passive route? How about simply watching <em>TV</em>?",
+                        "zh": "想要比较被动的方法？不如就看个电视？",
+                        "videoNameZh": "《托福学习视频》",
+                        "videoNameEn": "《TOFEL（无字幕版）》",
+                        "url": "http://bisentence_movie.sogou.com/edc8872665901c64125df5e6b5ef5721_d1edcd32941ded6df8fd4e7ad5551cff9b339711"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/886b76b0c552c22c57062be63cf27261_37722.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/13d0325e5e4b563fa0275d25e518008c_65783.mp3",
+                        "isLavafox": true,
+                        "en": "Jeez, who doesn't own a <em>TV</em>? Well, actually, I don't.",
+                        "zh": "天啊，这年头谁没有电视呢？嗯，事实上，我没有。",
+                        "videoNameZh": "《老友记 第九季》",
+                        "videoNameEn": "《Friends Season 9》",
+                        "url": "http://bisentence_movie.sogou.com/b41b48119699330af40b37fafe70469c_501fff50c7054c019cff96e73671c67da501ebe4"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/a3f6ca8d0ebaa5b0956976d643673427_52102.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/04cf407c5589b50e7bb0e64d9224dfc3_1503.mp3",
+                        "isLavafox": true,
+                        "en": "Shoo, shoo, little birdy, we can't hear our <em>TV</em>.",
+                        "zh": "啊，啊。走开，快点走开，小鸟，我们听不到电视的声音了。",
+                        "videoNameZh": "《小猪佩奇 第三季》",
+                        "videoNameEn": "《Peppa Pig Season 3》",
+                        "url": "http://bisentence_movie.sogou.com/596c924b5aebc14cfad6734004d91160_4dd97c89025c004c6d7d7a139180ede36dfdc138"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/a3f6ca8d0ebaa5b0956976d643673427_52102.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/3328e5d0ebfe18d58bf3c8a510c1dc85_68366.mp3",
+                        "isLavafox": true,
+                        "en": "Wow, that's my picture. It shows Daddy pig watching <em>TV</em>.",
+                        "zh": "哇，那幅画是我画的！上面画着猪爸爸正在看电视。",
+                        "videoNameZh": "《小猪佩奇 第三季》",
+                        "videoNameEn": "《Peppa Pig Season 3》",
+                        "url": "http://bisentence_movie.sogou.com/2d40757e0ba65af583a585c59f1e0827_ee7bd350cd269305c28f8469276506ece79cc6dd"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/629af26ee246702b04dae9c64fe5736b_64581.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/538557899a89364932091871e843937e_28569.mp3",
+                        "isLavafox": true,
+                        "en": "Oh. There was something interesting on the <em>TV</em>. Naughty Daddy.",
+                        "zh": "噢，电视上有些有意思的事情刚才。淘气的爸爸。",
+                        "videoNameZh": "《小猪佩奇（精选版）》",
+                        "videoNameEn": "《Peppa Pig》",
+                        "url": "http://bisentence_movie.sogou.com/f02a5d9f7e79536299f1159eda495779_9ff492e6fcecc349c299280604988dea088f457b"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/5440028de015a767476054a27cf789d8_26933.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/bf5aec7b006f0939f6b79c784d7b50b2_11140.mp3",
+                        "isLavafox": true,
+                        "en": "Oh. There was something interesting on the <em>TV</em>. Naughty Daddy.",
+                        "zh": "噢，电视上有些有意思的事情刚才。淘气的爸爸.",
+                        "videoNameZh": "《小猪佩奇 第一季》",
+                        "videoNameEn": "《Peppa Pig Season 1》",
+                        "url": "http://bisentence_movie.sogou.com/36897d585165c3d2aa4480f102300b0f_843d3ef235c511e394e186371f2b2e238b4bda52"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/d67496d18ec93ce1f31c004316546728_12072.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/4bb09bcf7a19e8e0efa900b350ba71bf_16143.mp3",
+                        "isLavafox": true,
+                        "en": "A <em>TV</em> house? No, Jack, a real house, not <em>TV</em>. Are you even listening to me?",
+                        "zh": "电视里的房子吗？不，杰克，是一栋真的房子，不是电视里的，你到底听没听我说的？",
+                        "videoNameZh": "《房间》",
+                        "videoNameEn": "《Room》",
+                        "url": "http://bisentence_movie.sogou.com/2cbefc18ad7c8b10b96f4417051466bc_5a18301402fb422d8245d976e653387ce8635841"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/886b76b0c552c22c57062be63cf27261_37722.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/059b3d58a6553b71eb6a0bcb582739c0_69463.mp3",
+                        "isLavafox": true,
+                        "en": "I'm sorry. I don't own a <em>TV</em>. You don't own a <em>TV</em>? What's all your furniture pointed at?",
+                        "zh": "我很抱歉，我家没有电视。你家没有电视？那你家的家具是摆向哪个方向呢？",
+                        "videoNameZh": "《老友记 第九季》",
+                        "videoNameEn": "《Friends Season 9》",
+                        "url": "http://bisentence_movie.sogou.com/00aa2ccb7bdc5ed861314507ab57e800_f87a2ffa29dfeb61972afb2640ccbeb673795700"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/6a0f1af500949aabdf79e8935d4a7230_22265.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/75ff9762a28a4df7a8f9150ef552c52e_36410.mp3",
+                        "isLavafox": true,
+                        "en": "Everything? Even the <em>TV</em>? No, I'm gonna put that in my room.",
+                        "zh": "全部？包括电视？不，电视要搬进我房里。",
+                        "videoNameZh": "《老友记 第四季》",
+                        "videoNameEn": "《Friends Season 4》",
+                        "url": "http://bisentence_movie.sogou.com/8172a8088d7ab180357f73c01d06a461_e011bd95752bfbf1615f650b6eafd9cdcd9f37f2"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/65861602801590fdaf378b1d1c997a40_10433.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/7f8521c7d38712ff7d6634987deb9b15_17198.mp3",
+                        "isLavafox": true,
+                        "en": "Can we turn the <em>TV</em> off? Okay? Do we really want to spend the entire weekend like this?",
+                        "zh": "可以关掉电视吗？难道整个周末都要看电视？",
+                        "videoNameZh": "《老友记 第五季》",
+                        "videoNameEn": "《Friends Season 5》",
+                        "url": "http://bisentence_movie.sogou.com/0173b877b71476379136af4b65b188a7_3cb0b90021991baf1d2f6339f0db24021ce2cb9c"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/5440028de015a767476054a27cf789d8_26933.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/d222435fe01e44a4fb3cf6ea487fbce1_12094.mp3",
+                        "isLavafox": true,
+                        "en": "George and I are not sleepy at all. Can we watch <em>TV</em> with you? Well, I suppose watching a little <em>TV</em> might make you sleepy. Hurray.",
+                        "zh": "乔治和我一点都不觉得困，我们能和你们看电视吗？我想你们看一会电视，可能就会觉得困了吧。好诶。",
+                        "videoNameZh": "《小猪佩奇 第一季》",
+                        "videoNameEn": "《Peppa Pig Season 1》",
+                        "url": "http://bisentence_movie.sogou.com/9673f29d579dcaa5f89449d738d505bf_13a7c2df7399013f5242f1f60bcd7d355561e4d1"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/d67496d18ec93ce1f31c004316546728_12072.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/eb09d82c818edc66a8aff79cb793c971_453.mp3",
+                        "isLavafox": true,
+                        "en": "The world's like all <em>TV</em> planets on at the same time.",
+                        "zh": "世界就像所有的电视星球同时在播放…",
+                        "videoNameZh": "《房间》",
+                        "videoNameEn": "《Room》",
+                        "url": "http://bisentence_movie.sogou.com/7dded9467b4c567f66152b59a1614cba_9c983bca95e915b2974219760e029ffd11fbe861"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/8a5b25dfe5e482fce849895959f35aba_1648.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/c8957f250db3df887b9ad8a15826ea32_8480.mp3",
+                        "isLavafox": true,
+                        "en": "Well, I'm an actor. I'm fairly neat. I got my own <em>TV</em>.",
+                        "zh": "我是演员，我很爱干净，我自己有电视。",
+                        "videoNameZh": "《老友记 第三季》",
+                        "videoNameEn": "《Friends Season 3》",
+                        "url": "http://bisentence_movie.sogou.com/dc2231b555b888d535d5ccccc50ab68f_9e6df0354be08118bc9620875acd486aa725c277"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/8bd5925a0703fedbe2527370ecba88dc_61614.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/b1bad47692e81573a2281403e22e8236_29432.mp3",
+                        "isLavafox": true,
+                        "en": "This is <em>TV</em> on a huge scale. And it is extraordinary.",
+                        "zh": "这个电视台规模庞大。绝对让你叹为观止。",
+                        "videoNameZh": "《中国春节》",
+                        "videoNameEn": "《Chinese New Year》",
+                        "url": "http://bisentence_movie.sogou.com/994eb6bf0a7e28b3dc782211d3184b7e_c02ee1b264c07cab5117f0620955b7ac6d3431d2"
+                    }
+                ]
+            },
+            "pic": "",
+            "voice": {
+                "phonetic": [
+                    {
+                        "text": "ˌtiː ˈviː",
+                        "type": "uk",
+                        "filename": ""
+                    },
+                    {
+                        "text": "ˌtiː ˈviː",
+                        "type": "usa",
+                        "filename": ""
+                    }
+                ]
+            },
+            "dictType": "oxford_buchong",
+            "gaokao": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 15,
+                        "pos": "cn/un",
+                        "chinese": "电视; 电视机",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "TV",
+                "word_level_phrase_info": [
+                    {
+                        "brief_definition": "电视节目",
+                        "phrase": "TV program",
+                        "pos": "phr."
+                    },
+                    {
+                        "brief_definition": "看电视",
+                        "phrase": "watch TV",
+                        "pos": "phr."
+                    },
+                    {
+                        "brief_definition": "电视机",
+                        "phrase": "box TV",
+                        "pos": "phr."
+                    },
+                    {
+                        "brief_definition": "直播电视节目",
+                        "phrase": "live TV",
+                        "pos": "phr."
+                    },
+                    {
+                        "brief_definition": "广播电视",
+                        "phrase": "radio TV",
+                        "pos": "phr."
+                    }
+                ],
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2015-2022年8年间全国卷和自主命题省市高考卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2015-2022年全国卷高考试卷，包括阅读、完形、单选、填空、听力、改错、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选各省市考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2015-2022年8年间全国卷和自主命题省市高考卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 3,
+                "total_exam_freq": 15,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "电视; 电视机",
+                            "pos": "cn/un",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "When does Gomez watch a football game on <highlight>TV</highlight>?",
+                                    "month": -1,
+                                    "source": "浙江卷",
+                                    "coll": "",
+                                    "sentence_trans": "Gomez什么时候在电视上看足球比赛？",
+                                    "year": 2021,
+                                    "type": "听力",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "And if I can't get a ticket, I watched the game on <highlight>TV</highlight>.",
+                                    "month": -1,
+                                    "source": "新高考Ⅰ卷",
+                                    "coll": "",
+                                    "sentence_trans": "如果我买不到票，我就在电视上看比赛。",
+                                    "year": 2021,
+                                    "type": "听力",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "She has been a radio <highlight>TV</highlight> reporter for many years.",
+                                    "month": -1,
+                                    "source": "全国卷1",
+                                    "coll": "",
+                                    "sentence_trans": "她做广播电视记者很多年了。",
+                                    "year": 2019,
+                                    "type": "听力",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            "zhongkao": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 147,
+                        "pos": "cn/un",
+                        "chinese": "电视; 电视机",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "TV",
+                "total_exam_freq": 147,
+                "direction_info": {
+                    "ranges": 4,
+                    "description": "数据源自2018-2021年4年间全国各省市中考试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2018-2021年全国重点省市中考试卷，包括听力、阅读、完形、单选、填空、改错、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选各省市考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2018-2021年4年间全国各省市中考试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 5,
+                "word_level_phrase_info": [
+                    {
+                        "brief_definition": "电视节目",
+                        "phrase": "TV program",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "看电视",
+                        "phrase": "watch TV",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "电视节目；电视剧",
+                        "phrase": "TV show",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "电视机",
+                        "phrase": "TV set",
+                        "pos": "n.phr"
+                    },
+                    {
+                        "brief_definition": "电视台",
+                        "phrase": "TV station",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "电视节目",
+                        "phrase": "TV programme",
+                        "pos": ""
+                    }
+                ],
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "电视; 电视机",
+                            "pos": "cn/un",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "10-year-old Mike is being interviewed on <highlight>TV</highlight> about his own cooking.",
+                                    "month": -1,
+                                    "source": "河北省卷",
+                                    "coll": "",
+                                    "sentence_trans": "10岁的迈克正在接受电视采访，谈论他自己的烹饪。",
+                                    "year": 2021,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Why didn’t Dan want to rap on <highlight>TV</highlight>?",
+                                    "month": -1,
+                                    "source": "河北省",
+                                    "coll": "",
+                                    "sentence_trans": "为什么丹不想在电视上说唱？",
+                                    "year": 2020,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "A few days ago, I sat in the sofa watching <highlight>TV</highlight>.",
+                                    "month": -1,
+                                    "source": "新疆卷",
+                                    "coll": "",
+                                    "sentence_trans": "几天前，我坐在沙发上看电视。",
+                                    "year": 2018,
+                                    "type": "完形填空",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            "sentencesData": {
+                "status": 1,
+                "info": "notZh2En",
+                "data": {}
+            },
+            "isAutoMatch": false,
+            "Zh2En": false
+        },
+        "query": "TV",
+        "result": "电视",
+        "tabSelect": "detail",
+        "dictionaryType": "oxford_buchong",
+        "notFound_show": false,
+        "phoneticShow": "",
+        "globalShowTranslateRecord": "",
+        "pronPrefer": {
+            "type": "usa_1",
+            "speaker": "male",
+            "speed": "standard"
+        },
+        "ServerRecord": "",
+        "ServerUIGS": {
+            "version": "new",
+            "type": "all",
+            "stype": "success",
+            "terminal": "web",
+            "fr": "default",
+            "direction": "etoz",
+            "from": "en",
+            "to": "zh-CHS",
+            "len": 2,
+            "qtype": "text",
+            "qctype": "qc_1",
+            "dict_cover": 1,
+            "detail": 1,
+            "wordCardCover": 1,
+            "wordCardEn": 1,
+            "wordCardCh": 0,
+            "wordCardMinor": 0,
+            "wordCardNetmean": 0,
+            "wordDeform": 1,
+            "keyword": 0,
+            "bilingual": 1,
+            "simple": 0,
+            "levelList": 1,
+            "synonym": 0,
+            "antonym": 0,
+            "conjugate": 0,
+            "rootaffix": 0,
+            "baike_sogou": 1,
+            "baike_wiki": 0,
+            "wordDifference": 0,
+            "word_phrase": 1,
+            "secondQuery": 0,
+            "dict_oxford": 0,
+            "dict_newcentury": 0,
+            "zhongkaotab": 1,
+            "gaokaotab": 1,
+            "CET4tab": 0,
+            "CET6tab": 0,
+            "kaoyantab": 0,
+            "network_tab": 0,
+            "yinying_tab": 1,
+            "tuozhan_tab": 0,
+            "one_pic": 0,
+            "more_pic": 0,
+            "no_pic": 0,
+            "uuid": "18b64214-9a23-459e-b8d1-7d88a39a5bd2",
+            "from_type": 0,
+            "t_trans_ssr": 177
+        },
+        "ServerModelUIGS": {
+            "terminal": "web",
+            "type": "trans_model",
+            "pbtype": "pv",
+            "model_general": 1,
+            "model_medical": 1,
+            "model_finance": 1
+        },
+        "ServerSgtkn": "64F270D361BCD27B706958D42C12C5F7704AFA9267552A36",
+        "suggShow": false,
+        "suggestion": "",
+        "suggDirection": "",
+        "usualTop": "",
+        "baseDict": "",
+        "wordCardClick": false,
+        "isFrInput": false,
+        "kanaTips": {
+            "show": false,
+            "left": "",
+            "top": "",
+            "type": "",
+            "arrowLeft": ""
+        },
+        "currSentenceIndex": -1,
+        "prefixStrObj": {
+            "prefixStr": "",
+            "oriPrefixStr": ""
+        },
+        "selectTransBox": {
+            "show": false,
+            "right": 0,
+            "top": 0,
+            "paraphraseInfo": {
+                "word": "",
+                "from": "",
+                "to": "",
+                "area": ""
+            }
+        },
+        "sentenceLoading": false,
+        "newSentenceInfo": {
+            "sentence": "",
+            "candidateIndex": 0
+        },
+        "moreTipInfo": {
+            "opacity": 0,
+            "zIndex": -1
+        },
+        "paraphraseShowInfo": {
+            "card": 0,
+            "query": "",
+            "card_dict": 0
+        },
+        "selectType": "",
+        "wordPos": 0,
+        "candidateWord": "",
+        "syntaxVisible": false,
+        "syntaxStatus": 0
+    },
+    "language": {
+        "from": "auto",
+        "to": "zh-CHS",
+        "detect": "en",
+        "model": "general",
+        "detectShow": false,
+        "langMap": {
+            "current": ""
+        },
+        "zh2en": false,
+        "fromItemList": [
+            {
+                "lang": "auto",
+                "text": "自动检测",
+                "play": false
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "ru",
+                "text": "俄语",
+                "play": true,
+                "abbr": "俄"
+            },
+            {
+                "lang": "ko",
+                "text": "韩语",
+                "play": true,
+                "abbr": "韩"
+            },
+            {
+                "lang": "fr",
+                "text": "法语",
+                "play": true,
+                "abbr": "法"
+            }
+        ],
+        "toItemList": [
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "vi",
+                "text": "越南语",
+                "play": true,
+                "abbr": "越"
+            },
+            {
+                "lang": "ru",
+                "text": "俄语",
+                "play": true,
+                "abbr": "俄"
+            },
+            {
+                "lang": "fr",
+                "text": "法语",
+                "play": true,
+                "abbr": "法"
+            }
+        ]
+    },
+    "voice": {
+        "from": {
+            "lang": "en",
+            "type": "from",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22TV%22%2C%22spokenDialect%22%3A%22en%22%2C%22rate%22%3A%220.8%22%7D",
+            "list": [
+                {
+                    "type": "uk_0",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "ˌtiː ˈviː",
+                    "abbr": "英",
+                    "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22TV%22%2C%22spokenDialect%22%3A%22en%22%2C%22rate%22%3A%220.8%22%7D"
+                },
+                {
+                    "type": "usa_1",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "ˌtiː ˈviː",
+                    "abbr": "美",
+                    "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22TV%22%2C%22spokenDialect%22%3A%22en%22%2C%22rate%22%3A%220.8%22%7D"
+                }
+            ],
+            "stype": "phonetic",
+            "phoneticShow": [
+                {
+                    "text": "ˌtiː ˈviː",
+                    "type": "uk",
+                    "filename": ""
+                }
+            ]
+        },
+        "to": {
+            "lang": "zh",
+            "type": "to",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22%E7%94%B5%E8%A7%86%22%2C%22spokenDialect%22%3A%22zh-CHS%22%2C%22rate%22%3A%220.8%22%7D",
+            "stype": "normal"
+        }
+    }
+}

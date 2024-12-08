@@ -1,0 +1,1311 @@
+{
+    "route": {
+        "name": "text",
+        "path": "/text",
+        "hash": "",
+        "query": {
+            "keyword": "car",
+            "transfrom": "auto",
+            "transto": "zh-CHS",
+            "model": "general",
+            "errcode": "s10"
+        },
+        "params": {},
+        "fullPath": "/text?keyword=car&transfrom=auto&transto=zh-CHS&model=general&errcode=s10",
+        "meta": {
+            "mtype": [
+                "textTranslate",
+                "language",
+                "voice"
+            ]
+        },
+        "from": {
+            "name": null,
+            "path": "/",
+            "hash": "",
+            "query": {},
+            "params": {},
+            "fullPath": "/",
+            "meta": {}
+        }
+    },
+    "common": {
+        "CONFIG": {
+            "wuid": 1733632611182,
+            "loginInfo": {},
+            "isIE": 0,
+            "isHitSsrSwitch": true,
+            "isHitWritebookSwitch": false,
+            "isHitAmsSwitch": true,
+            "promotionList": "{\n    \"pc_bottom\":{\n        \"imgsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\",\n        \"qcsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\"\n    },\n    \"pc_middle\":[\n        {\n            \"src\":\"//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c\",\n            \"bgColor\":\"#ffffff\",\n            \"link\":\"\"\n        }\n    ],\n    \"pc_survey\":{\n        \"icon\":\"//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750\",\n        \"link\":\"https://wj.qq.com/s2/8193148/806d/\"\n    }\n}",
+            "bannerData": [],
+            "isHitAsideSurvey": false,
+            "secretCode": 109984457,
+            "uuid": "78f1cd68-7558-44b6-80b9-9faac8cb3571",
+            "referer": "",
+            "approveToken": "64EAD0AC2DC4AA02090E21B2C3FDDF1809269A1667552263",
+            "loadTime": 1733632611183,
+            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0",
+            "fcp": "138.197.122.177",
+            "temporaryId": "",
+            "fileId": ""
+        },
+        "hotWords": [],
+        "isFromCollect": false,
+        "psdModify": {
+            "currentStep": 1,
+            "scode": "",
+            "username": ""
+        },
+        "loginStatus": true,
+        "feedBackModule": false,
+        "showPromotionPopup": {
+            "show": false,
+            "type": ""
+        },
+        "showPromotionPCDownload": false,
+        "showShareBomb": false,
+        "shareData": null,
+        "showAppDownLoad": false,
+        "showLoginDialog": false,
+        "showLoading": {
+            "show": false
+        },
+        "toast": {
+            "show": false,
+            "text": "",
+            "loading": false
+        },
+        "modelToast": {
+            "show": false,
+            "text": ""
+        },
+        "selectionGlobalShow": true,
+        "selectionInfo": {
+            "left": 0,
+            "top": 0,
+            "show": false,
+            "from": "",
+            "to": "",
+            "val": "",
+            "area": ""
+        },
+        "showConfirmDialog": false,
+        "promotionList": {
+            "pc_bottom": {
+                "imgsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png",
+                "qcsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png"
+            },
+            "pc_middle": [
+                {
+                    "src": "//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c",
+                    "bgColor": "#ffffff",
+                    "link": ""
+                }
+            ],
+            "pc_survey": {
+                "icon": "//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750",
+                "link": "https://wj.qq.com/s2/8193148/806d/"
+            }
+        },
+        "transTypeTxt": "text",
+        "fixedTabStatus": 0,
+        "bodyTop": 0,
+        "ifHideUserOperation": false
+    },
+    "textTranslate": {
+        "prevTransQuery": "",
+        "translateData": {
+            "translate": {
+                "zly": "zly",
+                "errorCode": "0",
+                "qc_type": "1",
+                "index": "content0",
+                "from": "en",
+                "source": "sogou",
+                "text": "car",
+                "to": "zh-CHS",
+                "id": "78f1cd68-7558-44b6-80b9-9faac8cb3571",
+                "dit": "汽车",
+                "orig_text": "car",
+                "md5": ""
+            },
+            "detect": {
+                "zly": "zly",
+                "detect": "en",
+                "errorCode": "0",
+                "language": "英语",
+                "id": "0b1c8700-b51e-11ef-a4f9-1de91bcfee38",
+                "text": "car"
+            },
+            "sgtkn": "64EAD0AE2DC4AA02090E21B2C3FDDF1809269A1667552263",
+            "wordCard": {
+                "title": "car",
+                "show": true,
+                "usualDict": [
+                    {
+                        "values": [
+                            "汽车；轿车；车辆；（火车、缆车等）车厢；吊舱；电梯轿厢；电车；有轨电车"
+                        ],
+                        "pos": "n."
+                    }
+                ],
+                "secondQuery": "",
+                "exchange": {
+                    "word_pl": [
+                        "cars"
+                    ]
+                },
+                "levelList": [
+                    "小学",
+                    "初中",
+                    "高中",
+                    "四级",
+                    "六级",
+                    "考研"
+                ]
+            },
+            "detail": {
+                "synonym": [
+                    {
+                        "word_list": [
+                            "automobile",
+                            "motor"
+                        ],
+                        "pos": "n.",
+                        "mean": "汽车；车厢"
+                    }
+                ],
+                "word_difference_info": [
+                    {
+                        "common_mean": "车",
+                        "word_list": [
+                            "car",
+                            " waggon",
+                            " bus",
+                            " carriage",
+                            " jeep",
+                            " truck",
+                            " automobile",
+                            " coach"
+                        ],
+                        "word_mean_info__list": [
+                            {
+                                "difference": "多指乘坐人的小汽车或轿车。",
+                                "word": "car"
+                            },
+                            {
+                                "difference": "指四轮运货马车或牛车，也指铁路的无盖货车。",
+                                "word": "waggon"
+                            },
+                            {
+                                "difference": "一般指公共汽车或大型客车。",
+                                "word": "bus"
+                            },
+                            {
+                                "difference": "指马车，两匹或两匹以上马拉的四轮马。",
+                                "word": "carriage"
+                            },
+                            {
+                                "difference": "吉普车，指一种小型轻便、适合在崎岖路面或野外使用的车子。",
+                                "word": "jeep"
+                            },
+                            {
+                                "difference": "与lorry同义，都指卡车或货车，前者为美国用词，后者用于英国。",
+                                "word": "truck"
+                            },
+                            {
+                                "difference": "是汽车的总称。",
+                                "word": "automobile"
+                            },
+                            {
+                                "difference": "原义指四轮马车，现指轿式汽车，长途公共汽车，还可指火车设有卧铺的车厢。",
+                                "word": "coach"
+                            }
+                        ]
+                    }
+                ],
+                "word_group": [
+                    {
+                        "brief_definition": "无人驾驶汽车；自动驾驶汽车",
+                        "phrase": "self-driving car",
+                        "pos": "phr."
+                    },
+                    {
+                        "brief_definition": "交通事故；车祸；汽车事故",
+                        "phrase": "car accident",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "电车；电动汽车",
+                        "phrase": "electric car",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "自动洗车房",
+                        "phrase": "car wash",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "玩具汽车；玩具车",
+                        "phrase": "toy car",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "混乱场面；灾难性场面",
+                        "phrase": "car crash",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "停车场",
+                        "phrase": "car park",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "汽车；自行轨道电动车",
+                        "phrase": "motor car",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "开车；驾驶汽车",
+                        "phrase": "drive a car",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "无人驾驶汽车",
+                        "phrase": "driveless car",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "缆车；索车；缆索铁路车辆；缆车车厢",
+                        "phrase": "cable car",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "跑车",
+                        "phrase": "sports car",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "汽车炸弹",
+                        "phrase": "car bomb",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "赛车",
+                        "phrase": "racing car",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "公司用车；公车",
+                        "phrase": "company car",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "餐车",
+                        "phrase": "dining car",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "小型汽车",
+                        "phrase": "compact car",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "汽车无线电话；车载电话",
+                        "phrase": "car phone",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "巡逻警车",
+                        "phrase": "squad car",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "有轨电车",
+                        "phrase": "trolley car",
+                        "pos": "n."
+                    }
+                ],
+                "bilingual": [
+                    {
+                        "source": "The <em>car</em> went faster too.",
+                        "target": "汽车也开得更快了。",
+                        "url": ""
+                    },
+                    {
+                        "source": "It looks just like a <em>car</em>.",
+                        "target": "它看起来就像一辆汽车。",
+                        "url": ""
+                    },
+                    {
+                        "source": "This small <em>car</em> runs very fast.",
+                        "target": "这辆小汽车跑得很快。",
+                        "url": ""
+                    },
+                    {
+                        "source": "This is the worst <em>car</em> in the world.",
+                        "target": "这是世界上最糟糕的汽车。",
+                        "url": ""
+                    },
+                    {
+                        "source": "The modern <em>car</em> has changed life a great deal.",
+                        "target": "现代汽车极大地改变了生活。",
+                        "url": ""
+                    },
+                    {
+                        "source": "I think the TV was invented before the <em>car</em>.",
+                        "target": "我认为电视是在汽车之前发明的。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Well, I think the TV was invented after the <em>car</em>.",
+                        "target": "嗯，我认为电视是在汽车之后发明的。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Do you think <em>car</em> clubs would be popular in China?",
+                        "target": "你认为汽车俱乐部在中国会受欢迎吗？",
+                        "url": ""
+                    },
+                    {
+                        "source": "They will have to go somewhere by train or <em>car</em>.",
+                        "target": "他们将不得不坐火车或汽车去某个地方。",
+                        "url": ""
+                    },
+                    {
+                        "source": "A <em>car</em> is no good to me, since I can't drive.",
+                        "target": "汽车对我没用，因为我不会开车。",
+                        "url": ""
+                    }
+                ],
+                "baike": {
+                    "showMore": true,
+                    "list": [
+                        {
+                            "lemmaTitle": "汽车",
+                            "link": "https://baike.sogou.com/v42211.htm?ch=sogou.fanyi",
+                            "abstract": "汽车，中国国家最新标准《汽车和挂车类型的术语和定义》（GB/T 3730．1—2001）中的定义为由动力驱动，具有4个或4个以上车轮的非轨道承载的车辆。 汽车主要用于载运人员和（或）货物；牵引载运人员和（或）货物的车辆；特殊用途。1885年10月，德国工程师卡尔·本茨研制成功了世界上第一辆能实际应用的内燃机发动的汽车。1886年，戴姆勒将卧式发动机安装在马车上，创造了第一辆戴姆勒汽车。1913年，美国福特汽车公司推出了全球第一条T型车的组装流水生产线。1978年，日本研制出复合燃料的汽车。汽车体型较小、承载量有限，主要为家庭或私人提供出行便利。 汽车一般由车身、动力总成（发动机、变速箱）、底盘和电子电器装备四个基本部分组成。汽车四大系统是汽车操作系统、汽车动力系统、汽车安全系统、车联网系统。",
+                            "wapPic": "//img01.sogoucdn.com/v2/thumb/retype_exclude_gif/ext/auto/q/80/crop/xy/ai/w/140/h/140/resize/w/140?appid=201005&sign=40a367292c2b445c1253fdf4711b5379&url=https%3A%2F%2Fpic.baike.soso.com%2Fugc%2Fbaikepic2%2F0%2F20230823093454-2138256949_jpeg_970_640_662837.jpg%2F0",
+                            "pcPic": "//img04.sogoucdn.com/v2/thumb/retype_exclude_gif/ext/auto/q/80/crop/xy/ai/w/140/h/140/resize/w/140?appid=201005&sign=40a367292c2b445c1253fdf4711b5379&url=https%3A%2F%2Fpic.baike.soso.com%2Fugc%2Fbaikepic2%2F0%2F20230823093454-2138256949_jpeg_970_640_662837.jpg%2F0"
+                        },
+                        {
+                            "lemmaTitle": "car",
+                            "link": "https://baike.sogou.com/v65979.htm?ch=sogou.fanyi",
+                            "abstract": "car是一个外语单词，指小汽车、有轨电车、火车车厢、气球、飞船吊舱、（电梯）升降厢等。",
+                            "wapPic": "//img02.sogoucdn.com/v2/thumb/retype_exclude_gif/ext/auto/q/80/crop/xy/ai/w/140/h/140/resize/w/140?appid=201005&sign=0fdcc921a262bc9383fee1162a5e19aa&url=https%3A%2F%2Fpic.baike.soso.com%2Fugc%2Fbaikepic2%2F14759%2F20220420182147-1764875631_jpeg_757_535_35469.jpg%2F0",
+                            "pcPic": "//img02.sogoucdn.com/v2/thumb/retype_exclude_gif/ext/auto/q/80/crop/xy/ai/w/140/h/140/resize/w/140?appid=201005&sign=0fdcc921a262bc9383fee1162a5e19aa&url=https%3A%2F%2Fpic.baike.soso.com%2Fugc%2Fbaikepic2%2F14759%2F20220420182147-1764875631_jpeg_757_535_35469.jpg%2F0"
+                        }
+                    ]
+                }
+            },
+            "book": {
+                "yingyinNormal": [
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/84db3d779d7851ae88ef308619fcf09a_6035.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/a29f1d6d7a7263c3b74679bda40ac277_9060.mp3",
+                        "isLavafox": true,
+                        "en": "It's a term that came out of the <em>car</em> industry.",
+                        "zh": "这来自于汽车行业。",
+                        "videoNameZh": "《透视美国》",
+                        "videoNameEn": "《America Revealed》",
+                        "url": "http://bisentence_movie.sogou.com/a2630fdb1f0ab84b1313454720de8717_f959ec43eb83a567e5e37aaf0fff4d981353aa4e"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/65861602801590fdaf378b1d1c997a40_10433.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/270980e8c15a807459a6eb85d3ec250b_39186.mp3",
+                        "isLavafox": true,
+                        "en": "Because a <em>car</em> backfired? Okay. Why are you here?",
+                        "zh": "全都是因为汽车放屁？好吧，你来这里干嘛？",
+                        "videoNameZh": "《老友记 第五季》",
+                        "videoNameEn": "《Friends Season 5》",
+                        "url": "http://bisentence_movie.sogou.com/0e054a81e19cd355bfc0a26f85d78e64_4349de352a729e00cfcf1ee97b18b32002966a79"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/5440028de015a767476054a27cf789d8_26933.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/2b1876aa0c13868923f3d7efbe798d27_58212.mp3",
+                        "isLavafox": true,
+                        "en": "Cleaning the <em>Car</em>!",
+                        "zh": "清洁汽车。",
+                        "videoNameZh": "《小猪佩奇 第一季》",
+                        "videoNameEn": "《Peppa Pig Season 1》",
+                        "url": "http://bisentence_movie.sogou.com/d92619c09edccdb6afc7ac4ec3fe036b_5bda369a3a1f032d292615fb8e890ccb5d553ce4"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/efb46b0d09a0d16595177f67fa563c67_36206.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/576a74609b673362148945bb10343866_60189.mp3",
+                        "isLavafox": true,
+                        "en": "Cleaning the <em>Car</em>",
+                        "zh": "第1季第49集《清洁汽车》",
+                        "videoNameZh": "《100天养成流利口语》",
+                        "videoNameEn": "《Get fluent spoken English in 100 days》",
+                        "url": "http://bisentence_movie.sogou.com/b75a84f8a26492dc5b098c5f82cda241_09e17a718bed0dd649ae70545378aa9d11a3ec58"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/5dc3cf8cad26e071498ca907fcc13dc6_46983.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/0a0d69ba11e8352e91195c7570facc29_55193.mp3",
+                        "isLavafox": true,
+                        "en": "Come on <em>car</em>, you can make it. Oh. The <em>car</em> can not drive up the mountain. The snow is too slippery.",
+                        "zh": "加油，汽车，你可以做到。车开不上山了。雪地太滑。",
+                        "videoNameZh": "《小猪佩奇 第四季》",
+                        "videoNameEn": "《Peppa Pig Season 4》",
+                        "url": "http://bisentence_movie.sogou.com/43c536cf9d7303d0667362ded94e64f0_4bc26fb02b65293edcae6e908b53c13a0289c38c"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/8a5b25dfe5e482fce849895959f35aba_1648.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/f57eb879983539f8ae87d1496b057e89_626.mp3",
+                        "isLavafox": true,
+                        "en": "It was really fun, I mean I've never talked on a <em>car</em> phone before.",
+                        "zh": "真有趣，我从未用过汽车电话。",
+                        "videoNameZh": "《老友记 第三季》",
+                        "videoNameEn": "《Friends Season 3》",
+                        "url": "http://bisentence_movie.sogou.com/e84cfcff281400989267468a7bb68594_a225e9763da39455ba2e743f61e250cf9af89d8c"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/21d26cfef0cd26f0813072491b08dd5a_57364.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/b564d4c659bf8e2cfe08db33d3254232_50201.mp3",
+                        "isLavafox": true,
+                        "en": "One of them could end up in the backseat of her <em>car</em>, or her shower.",
+                        "zh": "可以扔一个进她的汽车后座，或是她的浴室。",
+                        "videoNameZh": "《生活大爆炸 第六季》",
+                        "videoNameEn": "《The Big Bang Theory Season 6》",
+                        "url": "http://bisentence_movie.sogou.com/0a62edf67dbe0336033c2fddda307aa6_69b203f3b2276afb7e6ea254f4232ea8c979a0f9"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/a3f6ca8d0ebaa5b0956976d643673427_52102.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/9f0fb6fdde69bdb3adda0e2e9e6de5a8_42894.mp3",
+                        "isLavafox": true,
+                        "en": "I can drive you in the <em>car</em>. No, Daddy. We want to go on the bus. It's fun. Okay, we will go on the bus.",
+                        "zh": "我可以开车带你们去。不用了，爸爸。我们想做公共汽车去，那样很有趣！好吧，我们就坐公共汽车去。",
+                        "videoNameZh": "《小猪佩奇 第三季》",
+                        "videoNameEn": "《Peppa Pig Season 3》",
+                        "url": "http://bisentence_movie.sogou.com/0db248459a5bc4fc77bcdab739f67d65_1d2a0a8ae7dbc15fb843a252ebf0465aa22c2489"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/7527e2a9ec38f59ad126037938e4289c_52101.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/0f811bfc9c1d45e79366f0cfc433aac5_17137.mp3",
+                        "isLavafox": true,
+                        "en": "Books? All right, <em>car</em> magazines, cereal boxes, but it's like enough.",
+                        "zh": "书？好吧，汽车杂志，玉米片包装，但那就够我受的了。",
+                        "videoNameZh": "《老友记 第八季》",
+                        "videoNameEn": "《Friends Season 8》",
+                        "url": "http://bisentence_movie.sogou.com/c17c97db147e8b988f462a1d7d24fb6f_839dfaa510d78b795f0ca87d4607ee4c4d537404"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/a3f6ca8d0ebaa5b0956976d643673427_52102.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/10de394a1d7b1840dd61d22dabef6d6c_30504.mp3",
+                        "isLavafox": true,
+                        "en": "Welcome to the <em>car</em> of the future. So that's what that button does.",
+                        "zh": "欢迎来到未来汽车系统。啊，所以这个按钮是开启导航的。",
+                        "videoNameZh": "《小猪佩奇 第三季》",
+                        "videoNameEn": "《Peppa Pig Season 3》",
+                        "url": "http://bisentence_movie.sogou.com/60bb7c5b30841718fccd5dc34fb97445_4def3c47a3fa78fa7fe1dd22e1f146f5aa4b5ad9"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/583ff1c0d1a2d3090f47f8d0bd821282_35584.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/dba43b99ea17cfb65460d74323041b6d_49153.mp3",
+                        "isLavafox": true,
+                        "en": "Second one I failed, thanks to you. And the <em>car</em> bomb was insurance.",
+                        "zh": "多亏你，我没能杀了第二个人。而汽车炸弹则是最后的杀手锏。",
+                        "videoNameZh": "《碟中谍5：神秘国度》",
+                        "videoNameEn": "《Mission Impossible: Rogue Nation》",
+                        "url": "http://bisentence_movie.sogou.com/f943d580b1870b97456bda26a2f660c8_117a07b3a1e49f04f0b7c3ff3924ca6fc640b68c"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/dde03d29cdf9f1eb3170279dd5ad8ff2_46072.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/680d0a3c8c7f0a2f6973af4addf9799e_75761.mp3",
+                        "isLavafox": true,
+                        "en": "I understand that your wife has had some <em>car</em> trouble. I wonder how that could have happened?",
+                        "zh": "我听说你妻子的汽车出了故障，那是怎么回事啊？",
+                        "videoNameZh": "《摩登家庭 第六季》",
+                        "videoNameEn": "《Modern Family Season 6》",
+                        "url": "http://bisentence_movie.sogou.com/92687743bb8d665132de92b36480731a_707ad25f224361c9f07bc7910e7940084a4f605e"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/8b3da16ecbe350aacc1a7e4a01d210bc_49869.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/0f4eac8c028c7fd5ef7b78bccdf74f87_38578.mp3",
+                        "isLavafox": true,
+                        "en": "Can you believe it? Little Priya's one of the lead attorneys for the biggest <em>car</em> company in India.",
+                        "zh": "你们相信吗？小普丽娅是印度最大汽车公司首席律师之一。",
+                        "videoNameZh": "《生活大爆炸 第四季》",
+                        "videoNameEn": "《The Big Bang Theory Season 4》",
+                        "url": "http://bisentence_movie.sogou.com/497ae622c511de21316156d1d2a17a88_d62658a77ecf23ac6e554248fd92e65b0ea765ed"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/b0aac413f69a971e58772352502a07e3_67340.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/5dbe9a6db28e8706b7b585fb85b668c5_7167.mp3",
+                        "isLavafox": true,
+                        "en": "The <em>car</em> is driving itself? Yup. I just put into the GPS the intersection where the crash happened.",
+                        "zh": "汽车会自动行驶？是的，我正让导航把我们带到事故发生的十字路口。",
+                        "videoNameZh": "《傲骨贤妻第七季》",
+                        "videoNameEn": "《The Good Wife Season 7》",
+                        "url": "http://bisentence_movie.sogou.com/93949a7e51958cf2a817f09697c7334b_904ad4620d240e276aacd1bbdc5d1a8275381c33"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/f7d7167294560b5a445295985c93469c_14515.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/567807dc02fa23f9e34cdc82b8f1c7ce_75413.mp3",
+                        "isLavafox": true,
+                        "en": "Well, his rent and <em>car</em> lease are exceedingly high. You couple that with his penchant for dining out and shopping.",
+                        "zh": "他的房租与汽车租贷费用极其高。再加上他喜欢上馆子吃饭与购物。",
+                        "videoNameZh": "《生活大爆炸 第十季》",
+                        "videoNameEn": "《The Big Bang Theory Season 10》",
+                        "url": "http://bisentence_movie.sogou.com/087c74df1026da4e8dbe09e687455faf_8a395250e2634832720b480cdcc808bb80257ad1"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/5dc3cf8cad26e071498ca907fcc13dc6_46983.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/992a3353936c47bb8c22ac72fe407ae3_37225.mp3",
+                        "isLavafox": true,
+                        "en": "When you were little, we moved into this house. We brought all our things on top of our <em>car</em>.",
+                        "zh": "当你们还很小的时候，我们搬进这个房子。我们把所有东西装在汽车顶上运过来的。",
+                        "videoNameZh": "《小猪佩奇 第四季》",
+                        "videoNameEn": "《Peppa Pig Season 4》",
+                        "url": "http://bisentence_movie.sogou.com/d797ea518d9f5356835816a78949fffb_ea9949277f6e923a2826d0cca07afe82e3274026"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/a3f6ca8d0ebaa5b0956976d643673427_52102.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/e6f3754ab5cf7adbb0a7132785b6da77_108.mp3",
+                        "isLavafox": true,
+                        "en": "What's that sound? Is it a <em>car</em> alarm? Is it a fire-engine? No, it's Baby Alexander.",
+                        "zh": "这到底是什么声音啊？是汽车的警报器响了吗？是不是消防车经过了？不是，是小宝宝亚历山大。",
+                        "videoNameZh": "《小猪佩奇 第三季》",
+                        "videoNameEn": "《Peppa Pig Season 3》",
+                        "url": "http://bisentence_movie.sogou.com/8328244818fd50eb9e5fa30cb8b21f09_36f09abffc82d91fc0cbfe3fbab9961e1a7bfbb4"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/1fd5136b25b0bb93bc3475b8feb28bf6_63175.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/39c1d8e354187f5cc47a8611965ef934_8929.mp3",
+                        "isLavafox": true,
+                        "en": "Coal and <em>car</em> pollutants often produce a permanent twilight in Shanghai, Beijing and other cities.",
+                        "zh": "煤炭与汽车尾气污染物常制造出一种永久的暮色，笼罩于上海、北京和其他城市的上空。",
+                        "videoNameZh": "《鸟瞰中国》",
+                        "videoNameEn": "《China from Above》",
+                        "url": "http://bisentence_movie.sogou.com/4a3ccbeb3f84154e58572a145bd18c83_5a169b9bcfd7ec6881a633748f09dc87328ef351"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/b0aac413f69a971e58772352502a07e3_67340.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/3f36ff58804039dbd6815c1ad9be261b_63046.mp3",
+                        "isLavafox": true,
+                        "en": "Objection. Speculation. I'll rephrase. Do you think that the <em>car</em>'s capable of erasing its own memory? Yes, I do.",
+                        "zh": "反对，引导证人推测。我换个说法，你觉得汽车有能力清除自身的记忆吗？有。",
+                        "videoNameZh": "《傲骨贤妻第七季》",
+                        "videoNameEn": "《The Good Wife Season 7》",
+                        "url": "http://bisentence_movie.sogou.com/604da583645e7f3f88c111ef19ad994e_91789f06259d575c69aa24e70c8ac10faa616a25"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/39e50807a5a1191398262e04787ff184_62485.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/64e477cb6bd7d1a816039774ef436879_46651.mp3",
+                        "isLavafox": true,
+                        "en": "And you're in the backseat of your mom's <em>car</em> with your pants off while the whole football team laughs at y...",
+                        "zh": "你光着屁股坐在你妈汽车的后座上时，会有整个橄榄球队队员过来嘲笑你的...",
+                        "videoNameZh": "《生活大爆炸 第一季》",
+                        "videoNameEn": "《The Big Bang Theory Season 1》",
+                        "url": "http://bisentence_movie.sogou.com/28c1cef68b0a49239821b6cdce97363d_c5965484421398b9eefd9345d8eef8e998a42d47"
+                    }
+                ]
+            },
+            "pic": "",
+            "voice": {
+                "phonetic": [
+                    {
+                        "text": "kɑː",
+                        "type": "uk",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/1124_car_uk.mp3"
+                    },
+                    {
+                        "text": "kɑːr",
+                        "type": "usa",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/1124_car_usa.mp3"
+                    }
+                ]
+            },
+            "dictType": "oxford_buchong",
+            "CET6": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 41,
+                        "pos": "n",
+                        "chinese": "车; 汽车; 车厢",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "car",
+                "word_level_phrase_info": [
+                    {
+                        "brief_definition": "自动驾驶汽车",
+                        "phrase": "self-driving car",
+                        "pos": "phr"
+                    }
+                ],
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2016.6-2023.6年8年间全六级试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight>考纲释义</highlight>\n精选实考、考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2016-2023年51套试卷，包括阅读、听力、翻译等所有题型。\n\n<highlight>真题例句</highlight>\n精选2016-2023年8年间全六级试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 5,
+                "total_exam_freq": 41,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "车; 汽车; 车厢",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "Many of them have increasing numbers of <highlight>cars</highlight> on the road.",
+                                    "month": 6,
+                                    "source": "CET6",
+                                    "coll": "",
+                                    "sentence_trans": "他们中有许多在路上的汽车越来越多。",
+                                    "year": 2021,
+                                    "type": "听力",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "They overestimate the potential market of autonomous <highlight>cars</highlight>.",
+                                    "month": 6,
+                                    "source": "CET6",
+                                    "coll": "",
+                                    "sentence_trans": "他们高估了自动驾驶汽车的潜在市场。",
+                                    "year": 2021,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "They present a false picture of the autonomy <highlight>cars</highlight> provide.",
+                                    "month": 6,
+                                    "source": "CET6",
+                                    "coll": "",
+                                    "sentence_trans": "他们对自动驾驶汽车提供的信息给出了错误的描述。",
+                                    "year": 2021,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "disambiguation": [
+                    {
+                        "disambiguation_list": [
+                            {
+                                "word": "automobile",
+                                "sense_disambiguation": "是汽车的总称。"
+                            },
+                            {
+                                "word": "bus",
+                                "sense_disambiguation": "一般指公共汽车或大型客车。"
+                            },
+                            {
+                                "word": "car",
+                                "sense_disambiguation": "多指乘坐人的小汽车或轿车。"
+                            },
+                            {
+                                "word": "carriage",
+                                "sense_disambiguation": "指马车, 两匹或两匹以上马拉的四轮马。"
+                            },
+                            {
+                                "word": "coach",
+                                "sense_disambiguation": "原义指四轮马车, 现指轿式汽车, 长途公共汽车, 还可指火车设有卧铺的车厢。"
+                            },
+                            {
+                                "word": "jeep",
+                                "sense_disambiguation": "吉普车, 指一种小型轻便、适合在崎岖路面或野外使用的车子。"
+                            }
+                        ],
+                        "sense_group": "车"
+                    }
+                ],
+                "exchange_info": {
+                    "word_pl": [
+                        "cars"
+                    ]
+                }
+            },
+            "CET4": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 121,
+                        "pos": "n",
+                        "chinese": "车; 汽车; 车厢",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "car",
+                "word_level_phrase_info": [
+                    {
+                        "brief_definition": "自动驾驶汽车",
+                        "phrase": "self-driving car",
+                        "pos": "n"
+                    },
+                    {
+                        "brief_definition": "交通事故；车祸；汽车事故",
+                        "phrase": "car accident",
+                        "pos": "n"
+                    },
+                    {
+                        "brief_definition": "电车；电动汽车",
+                        "phrase": "electric car",
+                        "pos": "n"
+                    },
+                    {
+                        "brief_definition": "混乱场面；灾难性场面",
+                        "phrase": "car crash",
+                        "pos": "n"
+                    },
+                    {
+                        "brief_definition": "开车；驾驶汽车",
+                        "phrase": "drive a car",
+                        "pos": "phr"
+                    },
+                    {
+                        "brief_definition": "无人驾驶汽车",
+                        "phrase": "driveless car",
+                        "pos": "n"
+                    },
+                    {
+                        "brief_definition": "汽车；自行轨道电动车",
+                        "phrase": "motor car",
+                        "pos": "n"
+                    }
+                ],
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2016.6-2023.6年8年间全四级试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight>考纲释义</highlight>\n精选实考、考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2016-2023年51套试卷，包括阅读、听力、翻译等所有题型。\n\n<highlight>真题例句</highlight>\n精选2016-2023年8年间试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 5,
+                "total_exam_freq": 121,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "车; 汽车; 车厢",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "If you aren't driving your own <highlight>car</highlight>, then you are saving on fuel.",
+                                    "month": 6,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "如果你不开自己的车，那么你还省油了。",
+                                    "year": 2021,
+                                    "type": "听力",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Almost half the center of Paris will be accessible only by foot or bicycle this Sunday to mark World <highlight>Car</highlight>-Free Day.",
+                                    "month": 12,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "本周日，为了响应世界无车日，几乎半个巴黎市中心只允许人们步行或骑车。",
+                                    "year": 2020,
+                                    "type": "听力",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "People suffering from sleep loss are adding increased risk from obesity, psychological problems and <highlight>car</highlight> crashes.",
+                                    "month": 6,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "睡眠不足的人有更高的风险发生车祸及出现肥胖和心理问题。",
+                                    "year": 2016,
+                                    "type": "听力",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "disambiguation": [
+                    {
+                        "disambiguation_list": [
+                            {
+                                "word": "automobile",
+                                "sense_disambiguation": "是汽车的总称。"
+                            },
+                            {
+                                "word": "bus",
+                                "sense_disambiguation": "一般指公共汽车或大型客车。"
+                            },
+                            {
+                                "word": "car",
+                                "sense_disambiguation": "多指乘坐人的小汽车或轿车。"
+                            },
+                            {
+                                "word": "carriage",
+                                "sense_disambiguation": "指马车，两匹或两匹以上马拉的四轮马。"
+                            },
+                            {
+                                "word": "coach",
+                                "sense_disambiguation": "原义指四轮马车，现指轿式汽车，长途公共汽车，还可指火车设有卧铺的车厢。"
+                            },
+                            {
+                                "word": "jeep",
+                                "sense_disambiguation": "吉普车，指一种小型轻便、适合在崎岖路面或野外使用的车子。"
+                            }
+                        ],
+                        "sense_group": "车"
+                    }
+                ],
+                "exchange_info": {
+                    "word_pl": [
+                        "cars"
+                    ]
+                }
+            },
+            "gaokao": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 37,
+                        "pos": "n",
+                        "chinese": "车; 汽车; 车厢",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "car",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2015-2022年8年间全国卷和自主命题省市高考卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2015-2022年全国卷高考试卷，包括阅读、完形、单选、填空、听力、改错、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选各省市考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2015-2022年8年间全国卷和自主命题省市高考卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 5,
+                "total_exam_freq": 37,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "车; 汽车; 车厢",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "Before getting into the <highlight>car</highlight>, I thought I had learned the instructor's orders, but once I started the <highlight>car</highlight>, my mind went blank.",
+                                    "month": -1,
+                                    "source": "全国卷1",
+                                    "coll": "",
+                                    "sentence_trans": "在上车之前，我以为我已经学会了教练的指令，但当我启动汽车，我的大脑一片空白。",
+                                    "year": 2017,
+                                    "type": "改错",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Just before September, Miller was struck by a <highlight>car</highlight> and lost his right arm.",
+                                    "month": -1,
+                                    "source": "全国卷3",
+                                    "coll": "",
+                                    "sentence_trans": "就在9月的前几天，米勒被一辆车撞了，失去了右臂。",
+                                    "year": 2016,
+                                    "type": "完形填空",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Sitting back in the <highlight>car</highlight> on the way to the airport, I figured it all out.",
+                                    "month": -1,
+                                    "source": "全国卷2",
+                                    "coll": "",
+                                    "sentence_trans": "在去机场的路上，我坐在车里，想明白了一切。",
+                                    "year": 2016,
+                                    "type": "完形填空",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "disambiguation": [
+                    {
+                        "disambiguation_list": [
+                            {
+                                "word": "automobile",
+                                "sense_disambiguation": "是汽车的总称。"
+                            },
+                            {
+                                "word": "bus",
+                                "sense_disambiguation": "一般指公共汽车或大型客车。"
+                            },
+                            {
+                                "word": "car",
+                                "sense_disambiguation": "多指乘坐人的小汽车或轿车。"
+                            },
+                            {
+                                "word": "carriage",
+                                "sense_disambiguation": "指马车，两匹或两匹以上马拉的四轮马。"
+                            },
+                            {
+                                "word": "coach",
+                                "sense_disambiguation": "原义指四轮马车，现指轿式汽车，长途公共汽车，还可指火车设有卧铺的车厢。"
+                            },
+                            {
+                                "word": "jeep",
+                                "sense_disambiguation": "吉普车，指一种小型轻便、适合在崎岖路面或野外使用的车子。"
+                            }
+                        ],
+                        "sense_group": "车"
+                    }
+                ],
+                "exchange_info": {
+                    "word_pl": [
+                        "cars"
+                    ]
+                }
+            },
+            "zhongkao": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 317,
+                        "pos": "cn",
+                        "chinese": "小汽车",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "car",
+                "word_level_phrase_info": [
+                    {
+                        "brief_definition": "无人驾驶汽车；自动驾驶汽车",
+                        "phrase": "self-driving car",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "交通事故；车祸；汽车事故",
+                        "phrase": "car accident",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "电车；电动汽车",
+                        "phrase": "electric car",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "洗车房；洗车处",
+                        "phrase": "car wash",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "玩具汽车；玩具车",
+                        "phrase": "toy car",
+                        "pos": ""
+                    }
+                ],
+                "direction_info": {
+                    "ranges": 4,
+                    "description": "数据源自2018-2021年4年间全国各省市中考试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2018-2021年全国重点省市中考试卷，包括听力、阅读、完形、单选、填空、改错、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选各省市考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2018-2021年4年间全国各省市中考试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 5,
+                "total_exam_freq": 317,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "小汽车",
+                            "pos": "cn",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "You can park your <highlight>car</highlight> on either side of the street.",
+                                    "month": -1,
+                                    "source": "连云港市卷",
+                                    "coll": "",
+                                    "sentence_trans": "你可以把车停在街道的两边。",
+                                    "year": 2021,
+                                    "type": "单项选择",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "It's difficult to get around without a <highlight>car</highlight>.",
+                                    "month": -1,
+                                    "source": "盐城市卷",
+                                    "coll": "",
+                                    "sentence_trans": "没有汽车出行很困难。",
+                                    "year": 2021,
+                                    "type": "完形填空",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "<highlight>Cars</highlight> will run on solar power or electricity and will be much cleaner.",
+                                    "month": -1,
+                                    "source": "乐山市卷",
+                                    "coll": "",
+                                    "sentence_trans": "汽车将以太阳能或电力为动力，而且会更加清洁。",
+                                    "year": 2021,
+                                    "type": "选句填空",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            "sentencesData": {
+                "status": 1,
+                "info": "notZh2En",
+                "data": {}
+            },
+            "isAutoMatch": false,
+            "Zh2En": false
+        },
+        "query": "car",
+        "result": "汽车",
+        "tabSelect": "detail",
+        "dictionaryType": "oxford_buchong",
+        "notFound_show": false,
+        "phoneticShow": "",
+        "globalShowTranslateRecord": "",
+        "pronPrefer": {
+            "type": "usa_1",
+            "speaker": "male",
+            "speed": "standard"
+        },
+        "ServerRecord": "",
+        "ServerUIGS": {
+            "version": "new",
+            "type": "all",
+            "stype": "success",
+            "terminal": "web",
+            "fr": "default",
+            "direction": "etoz",
+            "from": "en",
+            "to": "zh-CHS",
+            "len": 3,
+            "qtype": "text",
+            "qctype": "qc_1",
+            "dict_cover": 1,
+            "detail": 1,
+            "wordCardCover": 1,
+            "wordCardEn": 1,
+            "wordCardCh": 0,
+            "wordCardMinor": 0,
+            "wordCardNetmean": 0,
+            "wordDeform": 1,
+            "keyword": 0,
+            "bilingual": 1,
+            "simple": 0,
+            "levelList": 1,
+            "synonym": 1,
+            "antonym": 0,
+            "conjugate": 0,
+            "rootaffix": 0,
+            "baike_sogou": 1,
+            "baike_wiki": 0,
+            "wordDifference": 1,
+            "word_phrase": 1,
+            "secondQuery": 0,
+            "dict_oxford": 0,
+            "dict_newcentury": 0,
+            "zhongkaotab": 1,
+            "gaokaotab": 1,
+            "CET4tab": 1,
+            "CET6tab": 1,
+            "kaoyantab": 0,
+            "network_tab": 0,
+            "yinying_tab": 1,
+            "tuozhan_tab": 0,
+            "one_pic": 0,
+            "more_pic": 0,
+            "no_pic": 0,
+            "uuid": "78f1cd68-7558-44b6-80b9-9faac8cb3571",
+            "from_type": 0,
+            "t_trans_ssr": 175
+        },
+        "ServerModelUIGS": {
+            "terminal": "web",
+            "type": "trans_model",
+            "pbtype": "pv",
+            "model_general": 1,
+            "model_medical": 1,
+            "model_finance": 1
+        },
+        "ServerSgtkn": "64EAD0AE2DC4AA02090E21B2C3FDDF1809269A1667552263",
+        "suggShow": false,
+        "suggestion": "",
+        "suggDirection": "",
+        "usualTop": "",
+        "baseDict": "",
+        "wordCardClick": false,
+        "isFrInput": false,
+        "kanaTips": {
+            "show": false,
+            "left": "",
+            "top": "",
+            "type": "",
+            "arrowLeft": ""
+        },
+        "currSentenceIndex": -1,
+        "prefixStrObj": {
+            "prefixStr": "",
+            "oriPrefixStr": ""
+        },
+        "selectTransBox": {
+            "show": false,
+            "right": 0,
+            "top": 0,
+            "paraphraseInfo": {
+                "word": "",
+                "from": "",
+                "to": "",
+                "area": ""
+            }
+        },
+        "sentenceLoading": false,
+        "newSentenceInfo": {
+            "sentence": "",
+            "candidateIndex": 0
+        },
+        "moreTipInfo": {
+            "opacity": 0,
+            "zIndex": -1
+        },
+        "paraphraseShowInfo": {
+            "card": 0,
+            "query": "",
+            "card_dict": 0
+        },
+        "selectType": "",
+        "wordPos": 0,
+        "candidateWord": "",
+        "syntaxVisible": false,
+        "syntaxStatus": 0
+    },
+    "language": {
+        "from": "auto",
+        "to": "zh-CHS",
+        "detect": "en",
+        "model": "general",
+        "detectShow": false,
+        "langMap": {
+            "current": ""
+        },
+        "zh2en": false,
+        "fromItemList": [
+            {
+                "lang": "auto",
+                "text": "自动检测",
+                "play": false
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "th",
+                "text": "泰语",
+                "play": true,
+                "abbr": "泰"
+            },
+            {
+                "lang": "fr",
+                "text": "法语",
+                "play": true,
+                "abbr": "法"
+            },
+            {
+                "lang": "vi",
+                "text": "越南语",
+                "play": true,
+                "abbr": "越"
+            }
+        ],
+        "toItemList": [
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "fr",
+                "text": "法语",
+                "play": true,
+                "abbr": "法"
+            },
+            {
+                "lang": "vi",
+                "text": "越南语",
+                "play": true,
+                "abbr": "越"
+            },
+            {
+                "lang": "ko",
+                "text": "韩语",
+                "play": true,
+                "abbr": "韩"
+            }
+        ]
+    },
+    "voice": {
+        "from": {
+            "lang": "en",
+            "type": "from",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22car%22%2C%22spokenDialect%22%3A%22en%22%2C%22rate%22%3A%220.8%22%7D",
+            "list": [
+                {
+                    "type": "uk_0",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "kɑː",
+                    "abbr": "英",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/1124_car_uk.mp3"
+                },
+                {
+                    "type": "usa_1",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "kɑːr",
+                    "abbr": "美",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/1124_car_usa.mp3"
+                }
+            ],
+            "stype": "phonetic",
+            "phoneticShow": [
+                {
+                    "text": "kɑː",
+                    "type": "uk",
+                    "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/1124_car_uk.mp3"
+                },
+                {
+                    "text": "kɑːr",
+                    "type": "usa",
+                    "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/1124_car_usa.mp3"
+                }
+            ]
+        },
+        "to": {
+            "lang": "zh",
+            "type": "to",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22%E6%B1%BD%E8%BD%A6%22%2C%22spokenDialect%22%3A%22zh-CHS%22%2C%22rate%22%3A%220.8%22%7D",
+            "stype": "normal"
+        }
+    }
+}

@@ -1,0 +1,1644 @@
+{
+    "route": {
+        "name": "text",
+        "path": "/text",
+        "hash": "",
+        "query": {
+            "keyword": "paragraph",
+            "transfrom": "auto",
+            "transto": "zh-CHS",
+            "model": "general",
+            "errcode": "s10"
+        },
+        "params": {},
+        "fullPath": "/text?keyword=paragraph&transfrom=auto&transto=zh-CHS&model=general&errcode=s10",
+        "meta": {
+            "mtype": [
+                "textTranslate",
+                "language",
+                "voice"
+            ]
+        },
+        "from": {
+            "name": null,
+            "path": "/",
+            "hash": "",
+            "query": {},
+            "params": {},
+            "fullPath": "/",
+            "meta": {}
+        }
+    },
+    "common": {
+        "CONFIG": {
+            "wuid": 1733634135236,
+            "loginInfo": {},
+            "isIE": 0,
+            "isHitSsrSwitch": true,
+            "isHitWritebookSwitch": false,
+            "isHitAmsSwitch": true,
+            "promotionList": "{\n    \"pc_bottom\":{\n        \"imgsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\",\n        \"qcsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\"\n    },\n    \"pc_middle\":[\n        {\n            \"src\":\"//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c\",\n            \"bgColor\":\"#ffffff\",\n            \"link\":\"\"\n        }\n    ],\n    \"pc_survey\":{\n        \"icon\":\"//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750\",\n        \"link\":\"https://wj.qq.com/s2/8193148/806d/\"\n    }\n}",
+            "bannerData": [],
+            "isHitAsideSurvey": false,
+            "secretCode": 109984457,
+            "uuid": "e5a90da0-91c8-4d1d-924c-0b2379263fa1",
+            "referer": "",
+            "approveToken": "64F075895496F9505A5D73E07C9743E25B0EB76967552857",
+            "loadTime": 1733634135238,
+            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0",
+            "fcp": "31.223.184.69",
+            "temporaryId": "",
+            "fileId": ""
+        },
+        "hotWords": [],
+        "isFromCollect": false,
+        "psdModify": {
+            "currentStep": 1,
+            "scode": "",
+            "username": ""
+        },
+        "loginStatus": true,
+        "feedBackModule": false,
+        "showPromotionPopup": {
+            "show": false,
+            "type": ""
+        },
+        "showPromotionPCDownload": false,
+        "showShareBomb": false,
+        "shareData": null,
+        "showAppDownLoad": false,
+        "showLoginDialog": false,
+        "showLoading": {
+            "show": false
+        },
+        "toast": {
+            "show": false,
+            "text": "",
+            "loading": false
+        },
+        "modelToast": {
+            "show": false,
+            "text": ""
+        },
+        "selectionGlobalShow": true,
+        "selectionInfo": {
+            "left": 0,
+            "top": 0,
+            "show": false,
+            "from": "",
+            "to": "",
+            "val": "",
+            "area": ""
+        },
+        "showConfirmDialog": false,
+        "promotionList": {
+            "pc_bottom": {
+                "imgsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png",
+                "qcsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png"
+            },
+            "pc_middle": [
+                {
+                    "src": "//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c",
+                    "bgColor": "#ffffff",
+                    "link": ""
+                }
+            ],
+            "pc_survey": {
+                "icon": "//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750",
+                "link": "https://wj.qq.com/s2/8193148/806d/"
+            }
+        },
+        "transTypeTxt": "text",
+        "fixedTabStatus": 0,
+        "bodyTop": 0,
+        "ifHideUserOperation": false
+    },
+    "textTranslate": {
+        "prevTransQuery": "",
+        "translateData": {
+            "translate": {
+                "zly": "zly",
+                "errorCode": "0",
+                "qc_type": "1",
+                "index": "content0",
+                "from": "en",
+                "source": "sogou",
+                "text": "paragraph",
+                "to": "zh-CHS",
+                "id": "e5a90da0-91c8-4d1d-924c-0b2379263fa1",
+                "dit": "段落",
+                "orig_text": "paragraph",
+                "md5": ""
+            },
+            "detect": {
+                "zly": "zly",
+                "detect": "en",
+                "errorCode": "0",
+                "language": "英语",
+                "id": "9785c7d0-b521-11ef-b2e7-bfffb6406762",
+                "text": "paragraph"
+            },
+            "sgtkn": "64F075905496F9505A5D73E07C9743E25B0EB76967552857",
+            "wordCard": {
+                "title": "paragraph",
+                "show": true,
+                "usualDict": [
+                    {
+                        "values": [
+                            "段落；小节；短评；新闻简报；文字段落标记（如缩进或空行）"
+                        ],
+                        "pos": "n."
+                    },
+                    {
+                        "values": [
+                            "将（文字）分成段落；分段落写作；在文本中标出段落"
+                        ],
+                        "pos": "v."
+                    }
+                ],
+                "secondQuery": "",
+                "exchange": {
+                    "word_third": [
+                        "paragraphs"
+                    ],
+                    "word_ing": [
+                        "paragraphing"
+                    ],
+                    "word_done": [
+                        "paragraphed"
+                    ],
+                    "word_pl": [
+                        "paragraphs"
+                    ],
+                    "word_past": [
+                        "paragraph"
+                    ]
+                },
+                "levelList": [
+                    "初中",
+                    "高中",
+                    "四级",
+                    "六级",
+                    "考研",
+                    "考博"
+                ]
+            },
+            "detail": {
+                "affix": {
+                    "word": "paragraph",
+                    "sub_affix_info_list": [
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "parabola",
+                                            "mean": "n. 抛物面；抛物线"
+                                        },
+                                        {
+                                            "word": "paramount",
+                                            "mean": "adj. 最重要的；至高无上的"
+                                        },
+                                        {
+                                            "word": "parasite",
+                                            "mean": "n. 寄生生物；寄生植物；寄生虫；过着寄生生活的人"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "在旁边",
+                                    "affix_type": "prefix"
+                                },
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "paralysis",
+                                            "mean": "n. 瘫痪；麻痹"
+                                        },
+                                        {
+                                            "word": "parastatal",
+                                            "mean": "adj. 半国营的"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "类似, 接近",
+                                    "affix_type": "prefix"
+                                },
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "paranormal",
+                                            "mean": "adj. 超出科学可知范围的；超自然的；超正常的"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "超越",
+                                    "affix_type": "prefix"
+                                },
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "parasol",
+                                            "mean": "n. 阳伞；环柄菇"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "保护, 避难, 庇护",
+                                    "affix_type": "prefix"
+                                },
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "parachute",
+                                            "mean": "n. 降落伞；减速伞"
+                                        },
+                                        {
+                                            "word": "paradrop",
+                                            "mean": "n. 伞降；伞投"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "降落伞",
+                                    "affix_type": "prefix"
+                                },
+                                {
+                                    "sample": [],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "半, 类似, 辅助",
+                                    "affix_type": "prefix"
+                                }
+                            ],
+                            "affix": "para-",
+                            "affix_mean": "在旁边"
+                        },
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "autograph",
+                                            "mean": "n. 亲笔签名；手稿；真迹；手迹；笔迹；字迹"
+                                        },
+                                        {
+                                            "word": "geography",
+                                            "mean": "n. 地理学；地理；地形；地貌；地势"
+                                        },
+                                        {
+                                            "word": "telegraph",
+                                            "mean": "n. 电报；显示板；电报机"
+                                        }
+                                    ],
+                                    "derivatives": "gram",
+                                    "affix_sense_chinese": "指\"写, 记录\"(=write)",
+                                    "affix_type": "stem"
+                                }
+                            ],
+                            "affix": "graph",
+                            "affix_mean": "写, 记录"
+                        }
+                    ],
+                    "word_mean": "n. 段落"
+                },
+                "wordRootInfo": {
+                    "word_info_list": [
+                        {
+                            "word": "paragrapher",
+                            "pos_mean_info_list": [
+                                {
+                                    "pos": "n.",
+                                    "mean": "短评记者"
+                                }
+                            ]
+                        }
+                    ],
+                    "root_word": "paragraph"
+                },
+                "word_group": [
+                    {
+                        "brief_definition": "段落号",
+                        "phrase": "paragraph mark",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "除第一行外余皆缩排的段落；悬挂式缩排的段落",
+                        "phrase": "hanging paragraph",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "同一段；同一段落",
+                        "phrase": "same paragraph",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "上一段",
+                        "phrase": "above paragraph",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "末段",
+                        "phrase": "final paragraph",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "引言段；介绍段",
+                        "phrase": "introductory paragraph",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "不受约束的段落；自由浮动的段落",
+                        "phrase": "free-floating paragraph",
+                        "pos": ""
+                    }
+                ],
+                "bilingual": [
+                    {
+                        "source": "Share your <em>paragraph</em> with the class.",
+                        "target": "和班级分享你的段落。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Add two facts to go with your <em>paragraph</em>.",
+                        "target": "添加两个事实到你的段落中。",
+                        "url": ""
+                    },
+                    {
+                        "source": "What subheading will you give your <em>paragraph</em>?",
+                        "target": "你会给你的段落起什么小标题？",
+                        "url": ""
+                    },
+                    {
+                        "source": "Match the <em>paragraph</em> description to its subheading.",
+                        "target": "将段落描述与其副标题匹配。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Organise your answers above into a short <em>paragraph</em>.",
+                        "target": "把你上面的回答组织成一个简短的段落。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Each <em>paragraph</em> has a subheading, making it clear what the <em>paragraph</em> is about.",
+                        "target": "每段都有一个小标题，明确段落内容。",
+                        "url": ""
+                    },
+                    {
+                        "source": "May be presented in <em>paragraph</em>s, with each stage explained in a separate <em>paragraph</em>.",
+                        "target": "可以分段呈现，每个阶段在单独的段落中解释。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Please read the first <em>paragraph</em>.",
+                        "target": "请阅读第一段落。",
+                        "url": ""
+                    },
+                    {
+                        "source": "This <em>paragraph</em> explains the main point.",
+                        "target": "这个段落解释了主要观点。",
+                        "url": ""
+                    },
+                    {
+                        "source": "The indentation in this <em>paragraph</em> is incorrect.",
+                        "target": "这个段落的缩进不正确。",
+                        "url": ""
+                    }
+                ],
+                "baike": {
+                    "showMore": false,
+                    "list": [
+                        {
+                            "lemmaTitle": "paragraph",
+                            "link": "https://baike.sogou.com/v101494313.htm?ch=sogou.fanyi",
+                            "abstract": "paragraph（英[ˈpærəɡrɑːf]，美[ˈpærəɡræf]），英语单词，作名词为段落；节，作动词为把…分段。短语搭配有paragraph mark（段落号）。例句为“They rewrite a single paragraph many times.（他们会多次重写一个段落。）” 该单词复数为paragraphs，第三人称单数为paragraphs，现在分词为paragraphing，过去式为paragraph，过去分词为paragraphed，last paragraph译为最后一段，body paragraph译为主体段。",
+                            "wapPic": "",
+                            "pcPic": ""
+                        }
+                    ]
+                }
+            },
+            "book": {
+                "yingyinNormal": [
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/c147f8d54a969778fef4aa74fdb25c24_34800.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/c946fa10cf96bcd2d2025897c5f5c174_60234.mp3",
+                        "isLavafox": true,
+                        "en": "That <em>paragraph</em> you wrote about love, it made me uncomfortable. Saying you love Francis? I do love him.",
+                        "zh": "你写的关于爱的那段让我不舒服。说你爱弗兰西斯？我确实爱他。",
+                        "videoNameZh": "《纸牌屋 第四季》",
+                        "videoNameEn": "《House of Cards Season 4》",
+                        "url": "http://bisentence_movie.sogou.com/e615c5499076cff0e8b0e28eec896d13_f6cdbf67a0d06b4b805859941675b8ddd6f9034c"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/21d26cfef0cd26f0813072491b08dd5a_57364.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/5cf1fdf58030ac92101df63ed7df6cd9_41327.mp3",
+                        "isLavafox": true,
+                        "en": "Roommate agreement, section 27, <em>paragraph</em> 5: The roommate agreement, like the American flag, cannot touch the ground.",
+                        "zh": "室友协议第27章第5段写明：室友协议书与美国国旗一样，都不许落地。",
+                        "videoNameZh": "《生活大爆炸 第六季》",
+                        "videoNameEn": "《The Big Bang Theory Season 6》",
+                        "url": "http://bisentence_movie.sogou.com/74235bf83925483ede2268dbf5b9b700_ef1f4ff3e62be6fe059ddcc948b772157cc97a00"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/334ae739c2d3bef71ab483cd142c3ad8_18137.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/fa436a5015ccc39cec7c4d4a22c0af1f_60251.mp3",
+                        "isLavafox": true,
+                        "en": "By our Constitution and the laws of our land, including Section Blah-Blah of the Blah-Blah Act and Section Blah-Blah of Title Blah-Blah, <em>Paragraph</em> Bullshit-Bullshit.",
+                        "zh": "凭借国会和我们国家的法律包括什么什么法第多少多少章，还有某某法令第多少多少章，第哪条狗屁款。",
+                        "videoNameZh": "《纸牌屋 第五季》",
+                        "videoNameEn": "《House of Cards Season 5》",
+                        "url": "http://bisentence_movie.sogou.com/05b9d0e8bd8748b66b059eacf063edb7_cc83095e47e4dd3c351d84e637bd5533c3dcaa9a"
+                    }
+                ]
+            },
+            "pic": "",
+            "voice": {
+                "phonetic": [
+                    {
+                        "text": "ˈpærəɡrɑːf",
+                        "type": "uk",
+                        "filename": ""
+                    },
+                    {
+                        "text": "ˈpærəɡræf",
+                        "type": "usa",
+                        "filename": ""
+                    }
+                ],
+                "phonetic_add": []
+            },
+            "dictType": "oxford_buchong",
+            "kaoyan": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 106,
+                        "pos": "cn",
+                        "chinese": "段; 节",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "paragraph",
+                "direction_info": {
+                    "ranges": 12,
+                    "description": "数据源自2012-2023年12年间全国考研试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2012-2023年全国考研英语一和考研英语二共24套考研试卷，包括阅读、完型填空、翻译、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选全国考研考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2012-2023年12年间全国考研英语一和考研英语二试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 5,
+                "total_exam_freq": 106,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "段; 节",
+                            "pos": "cn",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "It can be learned from the first two <highlight>paragraphs</highlight> that dark patterns undermine users' decision-making.",
+                                    "month": -1,
+                                    "source": "英语二",
+                                    "coll": "",
+                                    "sentence_trans": "从前两段可以看出，黑暗模式会破坏用户的决策。",
+                                    "year": 2022,
+                                    "type": "阅读理解A",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "What can be concluded about Generation Z from the last two <highlight>paragraphs</highlight>?",
+                                    "month": -1,
+                                    "source": "英语一",
+                                    "coll": "",
+                                    "sentence_trans": "从最后两段可以得出关于Z时代的什么结论？",
+                                    "year": 2022,
+                                    "type": "阅读理解A",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "In the last <highlight>paragraph</highlight>, the author holds that art-science collaborations should do more than communicating science.",
+                                    "month": -1,
+                                    "source": "英语一",
+                                    "coll": "",
+                                    "sentence_trans": "在最后一段中，作者认为艺术与科学的合作应该做的不仅仅是传播科学。",
+                                    "year": 2022,
+                                    "type": "阅读理解A",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "word_affix": {
+                    "word": "paragraph",
+                    "sub_affix_info_list": [
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "parabola",
+                                            "mean": "n. 抛物面；抛物线"
+                                        },
+                                        {
+                                            "word": "paramount",
+                                            "mean": "adj. 最重要的；至高无上的"
+                                        },
+                                        {
+                                            "word": "parasite",
+                                            "mean": "n. 寄生生物；寄生植物；寄生虫；过着寄生生活的人"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "在旁边",
+                                    "affix_type": "prefix"
+                                },
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "paralysis",
+                                            "mean": "n. 瘫痪；麻痹"
+                                        },
+                                        {
+                                            "word": "parastatal",
+                                            "mean": "adj. 半国营的"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "类似, 接近",
+                                    "affix_type": "prefix"
+                                },
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "paranormal",
+                                            "mean": "adj. 超出科学可知范围的；超自然的；超正常的"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "超越",
+                                    "affix_type": "prefix"
+                                },
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "parasol",
+                                            "mean": "n. 阳伞；环柄菇"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "保护, 避难, 庇护",
+                                    "affix_type": "prefix"
+                                },
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "parachute",
+                                            "mean": "n. 降落伞；减速伞"
+                                        },
+                                        {
+                                            "word": "paradrop",
+                                            "mean": "n. 伞降；伞投"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "降落伞",
+                                    "affix_type": "prefix"
+                                },
+                                {
+                                    "sample": [],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "半, 类似, 辅助",
+                                    "affix_type": "prefix"
+                                }
+                            ],
+                            "affix": "para-",
+                            "affix_mean": "在旁边"
+                        },
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "autograph",
+                                            "mean": "n. 亲笔签名；手稿；真迹；手迹；笔迹；字迹"
+                                        },
+                                        {
+                                            "word": "geography",
+                                            "mean": "n. 地理学；地理；地形；地貌；地势"
+                                        },
+                                        {
+                                            "word": "telegraph",
+                                            "mean": "n. 电报；显示板；电报机"
+                                        }
+                                    ],
+                                    "derivatives": "gram",
+                                    "affix_sense_chinese": "指\"写, 记录\"(=write)",
+                                    "affix_type": "stem"
+                                }
+                            ],
+                            "affix": "graph",
+                            "affix_mean": "写, 记录"
+                        }
+                    ],
+                    "word_mean": "n. 段落"
+                }
+            },
+            "CET6": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 4,
+                        "pos": "n/v",
+                        "chinese": "节; 段; 分段",
+                        "sense_tier_ratio": 80
+                    },
+                    {
+                        "sense_tier": 1,
+                        "pos": "n/v",
+                        "chinese": "短文; 短评",
+                        "sense_tier_ratio": 20
+                    }
+                ],
+                "word": "paragraph",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2016.6-2023.6年8年间全六级试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight>考纲释义</highlight>\n精选实考、考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2016-2023年51套试卷，包括阅读、听力、翻译等所有题型。\n\n<highlight>真题例句</highlight>\n精选2016-2023年8年间全六级试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 1,
+                "total_exam_freq": 5,
+                "sense": {
+                    "sense_num": 2,
+                    "sense_info_list": [
+                        {
+                            "synonyms": "section,subsection,passage",
+                            "en": "a short part of a text",
+                            "zh": "节; 段; 分段",
+                            "pos": "n/v",
+                            "antonyms": ""
+                        },
+                        {
+                            "synonyms": "report,article,piece",
+                            "en": "",
+                            "zh": "短文; 短评",
+                            "pos": "n/v",
+                            "antonyms": ""
+                        }
+                    ]
+                },
+                "word_affix": {
+                    "word": "paragraph",
+                    "sub_affix_info_list": [
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "parabola",
+                                            "mean": "n. 抛物面；抛物线"
+                                        },
+                                        {
+                                            "word": "paramount",
+                                            "mean": "adj. 最重要的；至高无上的"
+                                        },
+                                        {
+                                            "word": "parasite",
+                                            "mean": "n. 寄生生物；寄生植物；寄生虫；过着寄生生活的人"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "在旁边",
+                                    "affix_type": "prefix"
+                                },
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "paralysis",
+                                            "mean": "n. 瘫痪；麻痹"
+                                        },
+                                        {
+                                            "word": "parastatal",
+                                            "mean": "adj. 半国营的"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "类似, 接近",
+                                    "affix_type": "prefix"
+                                },
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "paranormal",
+                                            "mean": "adj. 超出科学可知范围的；超自然的；超正常的"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "超越",
+                                    "affix_type": "prefix"
+                                },
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "parasol",
+                                            "mean": "n. 阳伞；环柄菇"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "保护, 避难, 庇护",
+                                    "affix_type": "prefix"
+                                },
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "parachute",
+                                            "mean": "n. 降落伞；减速伞"
+                                        },
+                                        {
+                                            "word": "paradrop",
+                                            "mean": "n. 伞降；伞投"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "降落伞",
+                                    "affix_type": "prefix"
+                                },
+                                {
+                                    "sample": [],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "半, 类似, 辅助",
+                                    "affix_type": "prefix"
+                                }
+                            ],
+                            "affix": "para-",
+                            "affix_mean": "在旁边"
+                        },
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "autograph",
+                                            "mean": "n. 亲笔签名；手稿；真迹；手迹；笔迹；字迹"
+                                        },
+                                        {
+                                            "word": "geography",
+                                            "mean": "n. 地理学；地理；地形；地貌；地势"
+                                        },
+                                        {
+                                            "word": "telegraph",
+                                            "mean": "n. 电报；显示板；电报机"
+                                        }
+                                    ],
+                                    "derivatives": "gram",
+                                    "affix_sense_chinese": "指\"写, 记录\"(=write)",
+                                    "affix_type": "stem"
+                                }
+                            ],
+                            "affix": "graph",
+                            "affix_mean": "写, 记录"
+                        }
+                    ],
+                    "word_mean": "n. 段落"
+                },
+                "exchange_info": {
+                    "word_third": [
+                        "paragraphs"
+                    ],
+                    "word_ing": [
+                        "paragraphing"
+                    ],
+                    "word_done": [
+                        "paragraphed"
+                    ],
+                    "word_pl": [
+                        "paragraphs"
+                    ],
+                    "word_past": [
+                        "paragraph"
+                    ]
+                }
+            },
+            "CET4": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 5,
+                        "pos": "n/v",
+                        "chinese": "节; 段; 分段",
+                        "sense_tier_ratio": 83.33
+                    },
+                    {
+                        "sense_tier": 1,
+                        "pos": "n/v",
+                        "chinese": "短文; 短评",
+                        "sense_tier_ratio": 16.67
+                    }
+                ],
+                "word": "paragraph",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2016.6-2023.6年8年间全四级试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight>考纲释义</highlight>\n精选实考、考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2016-2023年51套试卷，包括阅读、听力、翻译等所有题型。\n\n<highlight>真题例句</highlight>\n精选2016-2023年8年间试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 2,
+                "total_exam_freq": 6,
+                "sense": {
+                    "sense_num": 2,
+                    "sense_info_list": [
+                        {
+                            "en": "a short part of a text",
+                            "zh": "节; 段; 分段",
+                            "pos": "n/v",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "What do we learn from the first <highlight>paragraph</highlight> about early childhood education in the U.S.?",
+                                    "month": 12,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "从第一段中我们可以了解到关于美国儿童早期教育的什么信息？",
+                                    "year": 2021,
+                                    "type": "阅读理解C",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "What does the author say in the first <highlight>paragraph</highlight> about physical contact?",
+                                    "month": 12,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "关于身体接触，作者在第一段说了什么？",
+                                    "year": 2021,
+                                    "type": "阅读理解C",
+                                    "day": -1
+                                }
+                            ]
+                        },
+                        {
+                            "synonyms": "",
+                            "en": "",
+                            "zh": "短文; 短评",
+                            "pos": "n/v",
+                            "antonyms": ""
+                        }
+                    ]
+                },
+                "word_affix": {
+                    "word": "paragraph",
+                    "sub_affix_info_list": [
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "parabola",
+                                            "mean": "n. 抛物面；抛物线"
+                                        },
+                                        {
+                                            "word": "paramount",
+                                            "mean": "adj. 最重要的；至高无上的"
+                                        },
+                                        {
+                                            "word": "parasite",
+                                            "mean": "n. 寄生生物；寄生植物；寄生虫；过着寄生生活的人"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "在旁边",
+                                    "affix_type": "prefix"
+                                },
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "paralysis",
+                                            "mean": "n. 瘫痪；麻痹"
+                                        },
+                                        {
+                                            "word": "parastatal",
+                                            "mean": "adj. 半国营的"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "类似, 接近",
+                                    "affix_type": "prefix"
+                                },
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "paranormal",
+                                            "mean": "adj. 超出科学可知范围的；超自然的；超正常的"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "超越",
+                                    "affix_type": "prefix"
+                                },
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "parasol",
+                                            "mean": "n. 阳伞；环柄菇"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "保护, 避难, 庇护",
+                                    "affix_type": "prefix"
+                                },
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "parachute",
+                                            "mean": "n. 降落伞；减速伞"
+                                        },
+                                        {
+                                            "word": "paradrop",
+                                            "mean": "n. 伞降；伞投"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "降落伞",
+                                    "affix_type": "prefix"
+                                },
+                                {
+                                    "sample": [],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "半, 类似, 辅助",
+                                    "affix_type": "prefix"
+                                }
+                            ],
+                            "affix": "para-",
+                            "affix_mean": "在旁边"
+                        },
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "autograph",
+                                            "mean": "n. 亲笔签名；手稿；真迹；手迹；笔迹；字迹"
+                                        },
+                                        {
+                                            "word": "geography",
+                                            "mean": "n. 地理学；地理；地形；地貌；地势"
+                                        },
+                                        {
+                                            "word": "telegraph",
+                                            "mean": "n. 电报；显示板；电报机"
+                                        }
+                                    ],
+                                    "derivatives": "gram",
+                                    "affix_sense_chinese": "指\"写, 记录\"(=write)",
+                                    "affix_type": "stem"
+                                }
+                            ],
+                            "affix": "graph",
+                            "affix_mean": "写, 记录"
+                        }
+                    ],
+                    "word_mean": "n. 段落"
+                },
+                "exchange_info": {
+                    "word_third": [
+                        "paragraphs"
+                    ],
+                    "word_ing": [
+                        "paragraphing"
+                    ],
+                    "word_done": [
+                        "paragraphed"
+                    ],
+                    "word_pl": [
+                        "paragraphs"
+                    ],
+                    "word_past": [
+                        "paragraph"
+                    ]
+                }
+            },
+            "gaokao": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 3,
+                        "pos": "n/v",
+                        "chinese": "节; 段; 分段",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "paragraph",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2015-2022年8年间全国卷和自主命题省市高考卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2015-2022年全国卷高考试卷，包括阅读、完形、单选、填空、听力、改错、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选各省市考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2015-2022年8年间全国卷和自主命题省市高考卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 1,
+                "total_exam_freq": 3,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "a short part of a text",
+                            "zh": "节; 段; 分段",
+                            "pos": "n/v",
+                            "synonyms": "section,subsection,passage",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "The specialists mentioned in <highlight>Paragraph</highlight> 3 tend to spend most time working.",
+                                    "month": -1,
+                                    "source": "天津卷",
+                                    "coll": "",
+                                    "sentence_trans": "第三段中提到的专家往往把大部分时间花在工作上。",
+                                    "year": 2021,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "The author raises three questions in <highlight>Paragraph</highlight> 2 mainly to introduce an approach.",
+                                    "month": -1,
+                                    "source": "北京卷",
+                                    "coll": "",
+                                    "sentence_trans": "作者在第二段提出了三个问题，主要是为了介绍一种方法。",
+                                    "year": 2021,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Everyone was silent, waiting to see who would be called upon to read his or her <highlight>paragraph</highlight> aloud.",
+                                    "month": -1,
+                                    "source": "全国卷3",
+                                    "coll": "",
+                                    "sentence_trans": "大家都默不作声，等着看谁会被叫来大声朗读他或她的段落。",
+                                    "year": 2018,
+                                    "type": "改错",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "word_affix": {
+                    "word": "paragraph",
+                    "sub_affix_info_list": [
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "parabola",
+                                            "mean": "n. 抛物面；抛物线"
+                                        },
+                                        {
+                                            "word": "paramount",
+                                            "mean": "adj. 最重要的；至高无上的"
+                                        },
+                                        {
+                                            "word": "parasite",
+                                            "mean": "n. 寄生生物；寄生植物；寄生虫；过着寄生生活的人"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "在旁边",
+                                    "affix_type": "prefix"
+                                },
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "paralysis",
+                                            "mean": "n. 瘫痪；麻痹"
+                                        },
+                                        {
+                                            "word": "parastatal",
+                                            "mean": "adj. 半国营的"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "类似, 接近",
+                                    "affix_type": "prefix"
+                                },
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "paranormal",
+                                            "mean": "adj. 超出科学可知范围的；超自然的；超正常的"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "超越",
+                                    "affix_type": "prefix"
+                                },
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "parasol",
+                                            "mean": "n. 阳伞；环柄菇"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "保护, 避难, 庇护",
+                                    "affix_type": "prefix"
+                                },
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "parachute",
+                                            "mean": "n. 降落伞；减速伞"
+                                        },
+                                        {
+                                            "word": "paradrop",
+                                            "mean": "n. 伞降；伞投"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "降落伞",
+                                    "affix_type": "prefix"
+                                },
+                                {
+                                    "sample": [],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "半, 类似, 辅助",
+                                    "affix_type": "prefix"
+                                }
+                            ],
+                            "affix": "para-",
+                            "affix_mean": "在旁边"
+                        },
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "autograph",
+                                            "mean": "n. 亲笔签名；手稿；真迹；手迹；笔迹；字迹"
+                                        },
+                                        {
+                                            "word": "geography",
+                                            "mean": "n. 地理学；地理；地形；地貌；地势"
+                                        },
+                                        {
+                                            "word": "telegraph",
+                                            "mean": "n. 电报；显示板；电报机"
+                                        }
+                                    ],
+                                    "derivatives": "gram",
+                                    "affix_sense_chinese": "指\"写, 记录\"(=write)",
+                                    "affix_type": "stem"
+                                }
+                            ],
+                            "affix": "graph",
+                            "affix_mean": "写, 记录"
+                        }
+                    ],
+                    "word_mean": "n. 段落"
+                },
+                "exchange_info": {
+                    "word_third": [
+                        "paragraphs"
+                    ],
+                    "word_ing": [
+                        "paragraphing"
+                    ],
+                    "word_done": [
+                        "paragraphed"
+                    ],
+                    "word_pl": [
+                        "paragraphs"
+                    ],
+                    "word_past": [
+                        "paragraph"
+                    ]
+                }
+            },
+            "zhongkao": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 347,
+                        "pos": "n",
+                        "chinese": "段; 段落; 节",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "paragraph",
+                "direction_info": {
+                    "ranges": 4,
+                    "description": "数据源自2018-2021年4年间全国各省市中考试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2018-2021年全国重点省市中考试卷，包括听力、阅读、完形、单选、填空、改错、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选各省市考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2018-2021年4年间全国各省市中考试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 5,
+                "total_exam_freq": 347,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "a short part of a text",
+                            "zh": "段; 段落; 节",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "According to the first two <highlight>paragraphs</highlight>, moonbows are more difficult to form.",
+                                    "month": -1,
+                                    "source": "连云港市卷",
+                                    "coll": "",
+                                    "sentence_trans": "根据前两段可知，月弓更难形成。",
+                                    "year": 2021,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Which <highlight>paragraphs</highlight> tell what sleepwalkers do?",
+                                    "month": -1,
+                                    "source": "河南省",
+                                    "coll": "",
+                                    "sentence_trans": "哪些段落讲述了梦游者的行为？",
+                                    "year": 2020,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "What can we learn from the last two <highlight>paragraphs</highlight>?",
+                                    "month": -1,
+                                    "source": "杭州卷",
+                                    "coll": "",
+                                    "sentence_trans": "我们可以从最后两段中学到什么？",
+                                    "year": 2019,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "word_affix": {
+                    "sub_affix_info_list": [
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "parabola",
+                                            "mean": "n. 抛物面；抛物线"
+                                        },
+                                        {
+                                            "word": "paramount",
+                                            "mean": "adj. 最重要的；至高无上的"
+                                        },
+                                        {
+                                            "word": "parasite",
+                                            "mean": "n. 寄生生物；寄生植物；寄生虫；过着寄生生活的人"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "在旁边",
+                                    "affix_type": "prefix"
+                                },
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "paralysis",
+                                            "mean": "n. 瘫痪；麻痹"
+                                        },
+                                        {
+                                            "word": "parastatal",
+                                            "mean": "adj. 半国营的"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "类似, 接近",
+                                    "affix_type": "prefix"
+                                },
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "paranormal",
+                                            "mean": "adj. 超出科学可知范围的；超自然的；超正常的"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "超越",
+                                    "affix_type": "prefix"
+                                },
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "parasol",
+                                            "mean": "n. 阳伞；环柄菇"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "保护, 避难, 庇护",
+                                    "affix_type": "prefix"
+                                },
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "parachute",
+                                            "mean": "n. 降落伞；减速伞"
+                                        },
+                                        {
+                                            "word": "paradrop",
+                                            "mean": "n. 伞降；伞投"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "降落伞",
+                                    "affix_type": "prefix"
+                                },
+                                {
+                                    "sample": [],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "半, 类似, 辅助",
+                                    "affix_type": "prefix"
+                                }
+                            ],
+                            "affix": "para-",
+                            "affix_mean": "在旁边"
+                        },
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "autograph",
+                                            "mean": "n. 亲笔签名；手稿；真迹；手迹；笔迹；字迹"
+                                        },
+                                        {
+                                            "word": "geography",
+                                            "mean": "n. 地理学；地理；地形；地貌；地势"
+                                        },
+                                        {
+                                            "word": "telegraph",
+                                            "mean": "n. 电报；显示板；电报机"
+                                        }
+                                    ],
+                                    "derivatives": "gram",
+                                    "affix_sense_chinese": "指\"写, 记录\"(=write)",
+                                    "affix_type": "stem"
+                                }
+                            ],
+                            "affix": "graph",
+                            "affix_mean": "写, 记录"
+                        }
+                    ],
+                    "word": "paragraph",
+                    "word_mean": "n. 段落"
+                }
+            },
+            "sentencesData": {
+                "status": 1,
+                "info": "notZh2En",
+                "data": {}
+            },
+            "isAutoMatch": false,
+            "Zh2En": false
+        },
+        "query": "paragraph",
+        "result": "段落",
+        "tabSelect": "detail",
+        "dictionaryType": "oxford_buchong",
+        "notFound_show": false,
+        "phoneticShow": "",
+        "globalShowTranslateRecord": "",
+        "pronPrefer": {
+            "type": "usa_1",
+            "speaker": "male",
+            "speed": "standard"
+        },
+        "ServerRecord": "",
+        "ServerUIGS": {
+            "version": "new",
+            "type": "all",
+            "stype": "success",
+            "terminal": "web",
+            "fr": "default",
+            "direction": "etoz",
+            "from": "en",
+            "to": "zh-CHS",
+            "len": 9,
+            "qtype": "text",
+            "qctype": "qc_1",
+            "dict_cover": 1,
+            "detail": 1,
+            "wordCardCover": 1,
+            "wordCardEn": 1,
+            "wordCardCh": 0,
+            "wordCardMinor": 0,
+            "wordCardNetmean": 0,
+            "wordDeform": 1,
+            "keyword": 0,
+            "bilingual": 1,
+            "simple": 0,
+            "levelList": 1,
+            "synonym": 0,
+            "antonym": 0,
+            "conjugate": 1,
+            "rootaffix": 1,
+            "baike_sogou": 1,
+            "baike_wiki": 0,
+            "wordDifference": 0,
+            "word_phrase": 1,
+            "secondQuery": 0,
+            "dict_oxford": 0,
+            "dict_newcentury": 0,
+            "zhongkaotab": 1,
+            "gaokaotab": 1,
+            "CET4tab": 1,
+            "CET6tab": 1,
+            "kaoyantab": 1,
+            "network_tab": 0,
+            "yinying_tab": 1,
+            "tuozhan_tab": 0,
+            "one_pic": 0,
+            "more_pic": 0,
+            "no_pic": 0,
+            "uuid": "e5a90da0-91c8-4d1d-924c-0b2379263fa1",
+            "from_type": 0,
+            "t_trans_ssr": 164
+        },
+        "ServerModelUIGS": {
+            "terminal": "web",
+            "type": "trans_model",
+            "pbtype": "pv",
+            "model_general": 1,
+            "model_medical": 1,
+            "model_finance": 1
+        },
+        "ServerSgtkn": "64F075905496F9505A5D73E07C9743E25B0EB76967552857",
+        "suggShow": false,
+        "suggestion": "",
+        "suggDirection": "",
+        "usualTop": "",
+        "baseDict": "",
+        "wordCardClick": false,
+        "isFrInput": false,
+        "kanaTips": {
+            "show": false,
+            "left": "",
+            "top": "",
+            "type": "",
+            "arrowLeft": ""
+        },
+        "currSentenceIndex": -1,
+        "prefixStrObj": {
+            "prefixStr": "",
+            "oriPrefixStr": ""
+        },
+        "selectTransBox": {
+            "show": false,
+            "right": 0,
+            "top": 0,
+            "paraphraseInfo": {
+                "word": "",
+                "from": "",
+                "to": "",
+                "area": ""
+            }
+        },
+        "sentenceLoading": false,
+        "newSentenceInfo": {
+            "sentence": "",
+            "candidateIndex": 0
+        },
+        "moreTipInfo": {
+            "opacity": 0,
+            "zIndex": -1
+        },
+        "paraphraseShowInfo": {
+            "card": 0,
+            "query": "",
+            "card_dict": 0
+        },
+        "selectType": "",
+        "wordPos": 0,
+        "candidateWord": "",
+        "syntaxVisible": false,
+        "syntaxStatus": 0
+    },
+    "language": {
+        "from": "auto",
+        "to": "zh-CHS",
+        "detect": "en",
+        "model": "general",
+        "detectShow": false,
+        "langMap": {
+            "current": ""
+        },
+        "zh2en": false,
+        "fromItemList": [
+            {
+                "lang": "auto",
+                "text": "自动检测",
+                "play": false
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "fr",
+                "text": "法语",
+                "play": true,
+                "abbr": "法"
+            },
+            {
+                "lang": "th",
+                "text": "泰语",
+                "play": true,
+                "abbr": "泰"
+            },
+            {
+                "lang": "ru",
+                "text": "俄语",
+                "play": true,
+                "abbr": "俄"
+            }
+        ],
+        "toItemList": [
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "ru",
+                "text": "俄语",
+                "play": true,
+                "abbr": "俄"
+            },
+            {
+                "lang": "fr",
+                "text": "法语",
+                "play": true,
+                "abbr": "法"
+            },
+            {
+                "lang": "ko",
+                "text": "韩语",
+                "play": true,
+                "abbr": "韩"
+            }
+        ]
+    },
+    "voice": {
+        "from": {
+            "lang": "en",
+            "type": "from",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22paragraph%22%2C%22spokenDialect%22%3A%22en%22%2C%22rate%22%3A%220.8%22%7D",
+            "list": [
+                {
+                    "type": "uk_0",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "ˈpærəɡrɑːf",
+                    "abbr": "英",
+                    "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22paragraph%22%2C%22spokenDialect%22%3A%22en%22%2C%22rate%22%3A%220.8%22%7D"
+                },
+                {
+                    "type": "usa_1",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "ˈpærəɡræf",
+                    "abbr": "美",
+                    "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22paragraph%22%2C%22spokenDialect%22%3A%22en%22%2C%22rate%22%3A%220.8%22%7D"
+                }
+            ],
+            "stype": "phonetic",
+            "phoneticShow": [
+                {
+                    "text": "ˈpærəɡrɑːf",
+                    "type": "uk",
+                    "filename": ""
+                },
+                {
+                    "text": "ˈpærəɡræf",
+                    "type": "usa",
+                    "filename": ""
+                }
+            ]
+        },
+        "to": {
+            "lang": "zh",
+            "type": "to",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22%E6%AE%B5%E8%90%BD%22%2C%22spokenDialect%22%3A%22zh-CHS%22%2C%22rate%22%3A%220.8%22%7D",
+            "stype": "normal"
+        }
+    }
+}

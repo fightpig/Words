@@ -1,0 +1,805 @@
+{
+    "route": {
+        "name": "text",
+        "path": "/text",
+        "hash": "",
+        "query": {
+            "keyword": "fifty",
+            "transfrom": "auto",
+            "transto": "zh-CHS",
+            "model": "general",
+            "errcode": "s10"
+        },
+        "params": {},
+        "fullPath": "/text?keyword=fifty&transfrom=auto&transto=zh-CHS&model=general&errcode=s10",
+        "meta": {
+            "mtype": [
+                "textTranslate",
+                "language",
+                "voice"
+            ]
+        },
+        "from": {
+            "name": null,
+            "path": "/",
+            "hash": "",
+            "query": {},
+            "params": {},
+            "fullPath": "/",
+            "meta": {}
+        }
+    },
+    "common": {
+        "CONFIG": {
+            "wuid": 1733633149869,
+            "loginInfo": {},
+            "isIE": 0,
+            "isHitSsrSwitch": true,
+            "isHitWritebookSwitch": false,
+            "isHitAmsSwitch": true,
+            "promotionList": "{\n    \"pc_bottom\":{\n        \"imgsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\",\n        \"qcsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\"\n    },\n    \"pc_middle\":[\n        {\n            \"src\":\"//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c\",\n            \"bgColor\":\"#ffffff\",\n            \"link\":\"\"\n        }\n    ],\n    \"pc_survey\":{\n        \"icon\":\"//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750\",\n        \"link\":\"https://wj.qq.com/s2/8193148/806d/\"\n    }\n}",
+            "bannerData": [],
+            "isHitAsideSurvey": false,
+            "secretCode": 109984457,
+            "uuid": "28af01d4-0062-479b-b77d-56e4b3a5dfea",
+            "referer": "",
+            "approveToken": "64EC8AA34598F75F55527DEFB945D10C55AE2B4D6755247D",
+            "loadTime": 1733633149871,
+            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0",
+            "fcp": "138.197.122.177",
+            "temporaryId": "",
+            "fileId": ""
+        },
+        "hotWords": [],
+        "isFromCollect": false,
+        "psdModify": {
+            "currentStep": 1,
+            "scode": "",
+            "username": ""
+        },
+        "loginStatus": true,
+        "feedBackModule": false,
+        "showPromotionPopup": {
+            "show": false,
+            "type": ""
+        },
+        "showPromotionPCDownload": false,
+        "showShareBomb": false,
+        "shareData": null,
+        "showAppDownLoad": false,
+        "showLoginDialog": false,
+        "showLoading": {
+            "show": false
+        },
+        "toast": {
+            "show": false,
+            "text": "",
+            "loading": false
+        },
+        "modelToast": {
+            "show": false,
+            "text": ""
+        },
+        "selectionGlobalShow": true,
+        "selectionInfo": {
+            "left": 0,
+            "top": 0,
+            "show": false,
+            "from": "",
+            "to": "",
+            "val": "",
+            "area": ""
+        },
+        "showConfirmDialog": false,
+        "promotionList": {
+            "pc_bottom": {
+                "imgsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png",
+                "qcsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png"
+            },
+            "pc_middle": [
+                {
+                    "src": "//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c",
+                    "bgColor": "#ffffff",
+                    "link": ""
+                }
+            ],
+            "pc_survey": {
+                "icon": "//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750",
+                "link": "https://wj.qq.com/s2/8193148/806d/"
+            }
+        },
+        "transTypeTxt": "text",
+        "fixedTabStatus": 0,
+        "bodyTop": 0,
+        "ifHideUserOperation": false
+    },
+    "textTranslate": {
+        "prevTransQuery": "",
+        "translateData": {
+            "translate": {
+                "zly": "zly",
+                "errorCode": "0",
+                "qc_type": "1",
+                "index": "content0",
+                "from": "en",
+                "source": "sogou",
+                "text": "fifty",
+                "to": "zh-CHS",
+                "id": "28af01d4-0062-479b-b77d-56e4b3a5dfea",
+                "dit": "五十",
+                "orig_text": "fifty",
+                "md5": ""
+            },
+            "detect": {
+                "zly": "zly",
+                "detect": "en",
+                "errorCode": "0",
+                "language": "英语",
+                "id": "4c3107b0-b51f-11ef-8f00-6795da67f0fa",
+                "text": "fifty"
+            },
+            "sgtkn": "64EC8AA44598F75F55527DEFB945D10C55AE2B4D6755247D",
+            "wordCard": {
+                "title": "fifty",
+                "show": true,
+                "usualDict": [
+                    {
+                        "values": [
+                            "五十；五十个；五十岁；五十年代；五十个人；编号为五十的东西"
+                        ],
+                        "pos": "num."
+                    },
+                    {
+                        "values": [
+                            "五十；五十岁；五十元纸币；五十分币"
+                        ],
+                        "pos": "n."
+                    },
+                    {
+                        "values": [
+                            "五十的；五十个的；由五十个构成的；五十岁的；五十倍的"
+                        ],
+                        "pos": "adj."
+                    }
+                ],
+                "secondQuery": "",
+                "exchange": {
+                    "word_pl": [
+                        "fifties"
+                    ]
+                },
+                "levelList": [
+                    "小学",
+                    "初中",
+                    "高中",
+                    "四级",
+                    "考研"
+                ]
+            },
+            "detail": {
+                "synonym": [
+                    {
+                        "word_list": [
+                            "legion"
+                        ],
+                        "pos": "adj.",
+                        "mean": "五十的；五十个的；众多的"
+                    }
+                ],
+                "wordRootInfo": {
+                    "word_info_list": [
+                        {
+                            "word": "fiftieth",
+                            "pos_mean_info_list": [
+                                {
+                                    "pos": "adj.",
+                                    "mean": "第五十的；五十分之一的"
+                                },
+                                {
+                                    "pos": "num.",
+                                    "mean": "第五十；五十分之一"
+                                }
+                            ]
+                        }
+                    ],
+                    "root_word": "fifty"
+                },
+                "bilingual": [
+                    {
+                        "source": "It's five dollars and <em>fifty</em> cents.",
+                        "target": "这是五美元五十美分。",
+                        "url": ""
+                    },
+                    {
+                        "source": "“Two francs <em>fifty</em>,” he replied.",
+                        "target": "“两法郎五十，”他回答道。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Then my sister Mary takes a shower at five <em>fifty</em>.",
+                        "target": "然后我的姐姐玛丽在五点五十洗澡。",
+                        "url": ""
+                    },
+                    {
+                        "source": "It describes the changes in Chinese society over <em>fifty</em> years.",
+                        "target": "它描述了中国社会五十年的变化。",
+                        "url": ""
+                    },
+                    {
+                        "source": "He died when he was <em>fifty</em>-six.",
+                        "target": "他五十六岁去世。",
+                        "url": ""
+                    },
+                    {
+                        "source": "More than <em>fifty</em>-six people died.",
+                        "target": "超过五十六人死亡。",
+                        "url": ""
+                    },
+                    {
+                        "source": "William Shakespeare died at the age of <em>fifty</em>-two.",
+                        "target": "威廉·莎士比亚在五十二岁时去世。",
+                        "url": ""
+                    },
+                    {
+                        "source": "I clearly distinguished objects at a distance of a hundred and <em>fifty</em> yards.",
+                        "target": "我清楚地辨认出一百五十码远的物体。",
+                        "url": ""
+                    },
+                    {
+                        "source": "What about work? Do people work as hard as they did <em>fifty</em> years ago?",
+                        "target": "那工作呢？人们工作得像五十年前一样努力吗？",
+                        "url": ""
+                    },
+                    {
+                        "source": "Charlie entered the shop and laid the damp <em>fifty</em> pence on the counter.",
+                        "target": "查理走进商店，把湿漉漉的五十便士放在柜台上。",
+                        "url": ""
+                    }
+                ]
+            },
+            "book": {
+                "yingyinNormal": [
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/0a13ccf38dbac0df5a5c6a86f5d3355c_59759.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/5659edc8ecc22aa131bab8691f69d899_22783.mp3",
+                        "isLavafox": true,
+                        "en": "My book of course was called <em>Fifty</em> Shades of Grey.",
+                        "zh": "我的书名字叫作《格雷的五十道阴影》。",
+                        "videoNameZh": "《Facebook COO谢丽尔·桑德伯格哈佛演讲》",
+                        "videoNameEn": "《Sheryl Speech at Harvard》",
+                        "url": "http://bisentence_movie.sogou.com/96939e8add0666f4a42096e6d30c293d_4155a33daca50fbecbb43eea36716d247ec4d0b3"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/89af515bc1904b2f30182572c2d73a41_25401.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/68d5261203f63d9a29f54abd3e2ad7d0_6486.mp3",
+                        "isLavafox": true,
+                        "en": "He's credited with over two dozen assassinations in the last <em>fifty</em> years. So he's a ghost story.",
+                        "zh": "过去五十年里，他被认为是二十多起刺杀案的凶手。这么说是鬼故事。",
+                        "videoNameZh": "《美国队长2》",
+                        "videoNameEn": "《Captain America: The Winter Soldier》",
+                        "url": "http://bisentence_movie.sogou.com/afd3fbdd32af73caa7a69b6daff2c60e_70c3af5789b88e79aa4f4893544040ec98ec8d6d"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/5dc3cf8cad26e071498ca907fcc13dc6_46983.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/a54400d5b409fb3135c7089e16d7e71a_29614.mp3",
+                        "isLavafox": true,
+                        "en": "How strange. No loud noises? That's right. How many times around the house was it, Mummy pig? Three time? <em>Fifty</em> times.",
+                        "zh": "好奇怪的办法！你需要制造噪音吗？完全不需要。我们要围着屋子转几圈，猪妈妈？是三圈吗？是五十圈。",
+                        "videoNameZh": "《小猪佩奇 第四季》",
+                        "videoNameEn": "《Peppa Pig Season 4》",
+                        "url": "http://bisentence_movie.sogou.com/06c0e0bb2a5a1167d0a43c31cecaf9f2_59d6780d46701797e2d54ad29248f9be518e82cc"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/5dc3cf8cad26e071498ca907fcc13dc6_46983.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/1c60c5381b491eeaa782a9c792049cd9_53733.mp3",
+                        "isLavafox": true,
+                        "en": "Daddy Pig is pushing baby Alexander around the house, <em>fifty</em> times. Good, baby Alexander is asleep. Can you let me back in?",
+                        "zh": "猪爸爸推着宝宝亚历山大围着屋子不停的转，已经五十圈了。很好，宝宝亚历山大他睡着了。你可以让我进来了？",
+                        "videoNameZh": "《小猪佩奇 第四季》",
+                        "videoNameEn": "《Peppa Pig Season 4》",
+                        "url": "http://bisentence_movie.sogou.com/e36250fcf8688044f15eeed21e792cb3_27e9931294657faa375c1e3a9a8b659cd594accb"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/1fd5136b25b0bb93bc3475b8feb28bf6_63175.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/fb8c6d8b5241a48f38842ab5f63f0f20_287.mp3",
+                        "isLavafox": true,
+                        "en": "They can spy a rabbit at 2,000 yards and dive at a hundred and <em>fifty</em> miles per hour, the speed of a bullet train, and its talents, grip with ten times the force a man's hand.",
+                        "zh": "它们可以在一千八百米外监视一只兔子，还可以以一百五十米的时速乡下俯冲，相当于高铁的速度。它天生神力，抓握力相当于成年人握力的十倍。",
+                        "videoNameZh": "《鸟瞰中国》",
+                        "videoNameEn": "《China from Above》",
+                        "url": "http://bisentence_movie.sogou.com/689d3f222849af877c6a8ab60e08dee1_12d0427e55cecc8d846d774b486f8f65110b8b79"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/fb38dfa5ed1adc3bc9fd0f6e8fdbfbba_22028.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/1e4f489d936b5a7745f4da6bcf9e0bc6_45292.mp3",
+                        "isLavafox": true,
+                        "en": "So, I understand that you all were part of the <em>fifty</em>-eighth rescue squadron staged over at Bagram in Afghanistan for combat search and rescue. Yes, madam. Two tours.",
+                        "zh": "我知道你们都隶属于驻扎在阿富汗巴格拉姆军事基地的五十八号救援分队，执行空中巡逻营救任务。是的，女士，去过两次。",
+                        "videoNameZh": "《末日崩塌》",
+                        "videoNameEn": "《San Andreas》",
+                        "url": "http://bisentence_movie.sogou.com/3bf117cb2168730f8f926ab6abdce144_d4a7d98b813d7c94742d1c1ce5c6d94ea5d85f11"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/178d946ef640c7de6e0f6c8df29d5810_67890.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/a7fbb276a8282c0038e76854a5cad259_46024.mp3",
+                        "isLavafox": true,
+                        "en": "<em>Fifty</em> years from now, like in the future <em>fifty</em> years from now? Yeah. I sent you from the future? Yeah. Piss off.",
+                        "zh": "距今50年后，在未来50年后的我？是的我在未来叫你来这？是的。滚蛋。",
+                        "videoNameZh": "《X战警：逆转未来》",
+                        "videoNameEn": "《X-Men: Days of Future Past》",
+                        "url": "http://bisentence_movie.sogou.com/12203167a804c64713b8afbdab443e7f_77c8969828a9d324451c3bb4f746058486fb0aa2"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/b0aac413f69a971e58772352502a07e3_67340.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/21f92bd99f5bca97aafc9a78afeaa7bd_62067.mp3",
+                        "isLavafox": true,
+                        "en": "<em>Fifty</em>-five percent. Why don't you put that in your brochure? Let's not badger, shall we?",
+                        "zh": "百分之55，你为什么不把这些写在宣传手册上？我们别纠缠这些了，好吗？",
+                        "videoNameZh": "《傲骨贤妻第七季》",
+                        "videoNameEn": "《The Good Wife Season 7》",
+                        "url": "http://bisentence_movie.sogou.com/48f72a88292212248397fa6af4454ed6_66ff825dbd59b712e610a31cff4f3c808ec57e9b"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/178d946ef640c7de6e0f6c8df29d5810_67890.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/3284e5685c2988cc922fec97318496f1_44585.mp3",
+                        "isLavafox": true,
+                        "en": "And in less than <em>fifty</em> years, the machines that have destroyed so many of our kind were created.",
+                        "zh": "不到50年的时间里，这种哨兵杀害了大量的变种人。",
+                        "videoNameZh": "《X战警：逆转未来》",
+                        "videoNameEn": "《X-Men: Days of Future Past》",
+                        "url": "http://bisentence_movie.sogou.com/bfc34fc0974190030494800ab546da04_158b23bfd80491cad2ae65ad1354eb3a050f27e2"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/178d946ef640c7de6e0f6c8df29d5810_67890.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/05adef4119466a640da2fe75f7d90708_59515.mp3",
+                        "isLavafox": true,
+                        "en": "That's gonna be a little tricky because the person who sent me was you. What? About <em>fifty</em> years from now.",
+                        "zh": "这有点棘手，因为派我来这的人那个人就是你。什么？距今大约50年后。",
+                        "videoNameZh": "《X战警：逆转未来》",
+                        "videoNameEn": "《X-Men: Days of Future Past》",
+                        "url": "http://bisentence_movie.sogou.com/97011fc55b9000ef2a7d3ffa6487c17c_00d42745311fa36b74e575598e47c514564eb298"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/95bf83fa9c39ec4f55b8511dc0c4ed29_55630.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/ccc51ccbe7c22599132ea9c202ae8b64_69576.mp3",
+                        "isLavafox": true,
+                        "en": "Wow, this is really soft. Three hundred and <em>fifty</em> dollars? Down from 700. You're saving, like, 200 bucks.",
+                        "zh": "是很柔软，350元? 从700块打折下来!你差不多省了200块!",
+                        "videoNameZh": "《老友记 第十季》",
+                        "videoNameEn": "《Friends Season 10》",
+                        "url": "http://bisentence_movie.sogou.com/7e5fcb205ba84ec216d986b9fd1ca0a6_79dd0b8004b0540b87fdce72a176b19b8fa248cb"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/bedafc9cbd9ff62be49e08cf3cb8efa0_35632.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/a65808c64397fe76169c8669c6b65c41_17701.mp3",
+                        "isLavafox": true,
+                        "en": "Over eight million people call the Big Apple home, and the city attracts up to <em>fifty</em> million visitors a year.",
+                        "zh": "这座城市人口超过 800 万，有「大苹果」之称，每年吸引了 5000 万名游客到访。",
+                        "videoNameZh": "《10大名城旅游攻略》",
+                        "videoNameEn": "《10 Cities Vacation Travel Guide》",
+                        "url": "http://bisentence_movie.sogou.com/ac544cf563b91f1abd7de327c2c05696_897e09a20887165ced8716cd042fbc228b4ea694"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/178d946ef640c7de6e0f6c8df29d5810_67890.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/6f641334eed4b343e50379d856e1daf8_40825.mp3",
+                        "isLavafox": true,
+                        "en": "And for the rest of us it'll be the only history that we know. It'll be like the last <em>fifty</em> years never happened, in this world, in this war.",
+                        "zh": "我们这些人记忆中，就只有你所改变的那段历史，就是说，过去的50年从未发生一样。",
+                        "videoNameZh": "《X战警：逆转未来》",
+                        "videoNameEn": "《X-Men: Days of Future Past》",
+                        "url": "http://bisentence_movie.sogou.com/906763817cee4f0cbb75819af24fa5d3_18b21d36aa7e3e8344734fb26b655c8553e80c82"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/46b4115557598e1ee93285923c5dd556_29528.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/066d4a740446bac9475aa903298300ec_48466.mp3",
+                        "isLavafox": true,
+                        "en": "No, offers would have transitioned to work, and you would say, I don't work for a dollar for this amount of task, give me <em>fifty</em> and we can talk.",
+                        "zh": "不是的，给钱就变成了工作，你可以说，这些钱不够，给我50美金再谈。",
+                        "videoNameZh": "《怪诞行为学》",
+                        "videoNameEn": "《Predictably Irrational》",
+                        "url": "http://bisentence_movie.sogou.com/b89599a93ae71d1ff03559cc9536fce8_ff52bae03fbf0769f24bbd18196417e05891a21e"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/b6871753bac5738b5d523cab5247cac2_31186.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/e4f720df3effc2c382bff21502e1abee_15824.mp3",
+                        "isLavafox": true,
+                        "en": "From now on, we are of one mind. My mind. Oh, please. I will tell you exactly what to do, and how to do it. All right. Give me scary steps. <em>Fifty</em> up and down, right now. Let's go!",
+                        "zh": "现在起，我们上下一心，就是我的心。哦拜托！我会指示你们做什么和怎么做。来恐怖脚，上下各50，快走。",
+                        "videoNameZh": "《怪兽大学》",
+                        "videoNameEn": "《Monsters University》",
+                        "url": "http://bisentence_movie.sogou.com/f1bc4e5059cd6d03ee40d5627b7e0a1f_23223d33158dca7dc80228ec8dc7439583f58b27"
+                    }
+                ]
+            },
+            "pic": "",
+            "voice": {
+                "phonetic": [
+                    {
+                        "text": "ˈfɪfti",
+                        "type": "uk",
+                        "filename": "http://pic01.sogoucdn.com/s3/a/201051/fifty_uk_20220110.mp3"
+                    },
+                    {
+                        "text": "ˈfɪfti",
+                        "type": "usa",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/5810_fifty_usa.mp3"
+                    }
+                ]
+            },
+            "dictType": "oxford_buchong",
+            "gaokao": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 2,
+                        "pos": "num",
+                        "chinese": "五十",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "fifty",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2015-2022年8年间全国卷和自主命题省市高考卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2015-2022年全国卷高考试卷，包括阅读、完形、单选、填空、听力、改错、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选各省市考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2015-2022年8年间全国卷和自主命题省市高考卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 1,
+                "total_exam_freq": 2,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "五十",
+                            "pos": "num",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "It usually costs about twenty to <highlight>fifty</highlight> dollars.",
+                                    "month": -1,
+                                    "source": "新高考Ⅰ卷",
+                                    "coll": "",
+                                    "sentence_trans": "它通常花费大约二十到五十美元。",
+                                    "year": 2021,
+                                    "type": "听力",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            "zhongkao": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 33,
+                        "pos": "num",
+                        "chinese": "五十",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "fifty",
+                "direction_info": {
+                    "ranges": 4,
+                    "description": "数据源自2018-2021年4年间全国各省市中考试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2018-2021年全国重点省市中考试卷，包括听力、阅读、完形、单选、填空、改错、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选各省市考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2018-2021年4年间全国各省市中考试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 5,
+                "word_family": {
+                    "derivative_info_list": [
+                        {
+                            "derivative_info_list": [],
+                            "word": "fiftieth",
+                            "mean": "num. 第五十；五十分之一"
+                        }
+                    ],
+                    "word": "fifty",
+                    "mean": "num. 五十；五十个；五十岁；五十到五十九之间；五十年代；五十到五十九岁时期；五十英里的时速；五十号；五十英镑（或五十美元）的钞票"
+                },
+                "total_exam_freq": 33,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "五十",
+                            "pos": "num",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "Mr. Green gave <highlight>fifty</highlight> dollars to Bill to buy some books.",
+                                    "month": -1,
+                                    "source": "桂林市卷",
+                                    "coll": "",
+                                    "sentence_trans": "格林先生给了比尔五十美元买书。",
+                                    "year": 2021,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "You can find about four hundred and <highlight>fifty</highlight> kinds in Africa.",
+                                    "month": -1,
+                                    "source": "绵阳卷",
+                                    "coll": "",
+                                    "sentence_trans": "你可以在非洲找到大约450种。",
+                                    "year": 2020,
+                                    "type": "信息摘录",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "My mother is <highlight>fifty</highlight>-five years old.",
+                                    "month": -1,
+                                    "source": "哈尔滨市",
+                                    "coll": "",
+                                    "sentence_trans": "我妈妈55岁了。",
+                                    "year": 2018,
+                                    "type": "阅读理解A",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            "sentencesData": {
+                "status": 1,
+                "info": "notZh2En",
+                "data": {}
+            },
+            "isAutoMatch": false,
+            "Zh2En": false
+        },
+        "query": "fifty",
+        "result": "五十",
+        "tabSelect": "detail",
+        "dictionaryType": "oxford_buchong",
+        "notFound_show": false,
+        "phoneticShow": "",
+        "globalShowTranslateRecord": "",
+        "pronPrefer": {
+            "type": "usa_1",
+            "speaker": "male",
+            "speed": "standard"
+        },
+        "ServerRecord": "",
+        "ServerUIGS": {
+            "version": "new",
+            "type": "all",
+            "stype": "success",
+            "terminal": "web",
+            "fr": "default",
+            "direction": "etoz",
+            "from": "en",
+            "to": "zh-CHS",
+            "len": 5,
+            "qtype": "text",
+            "qctype": "qc_1",
+            "dict_cover": 1,
+            "detail": 1,
+            "wordCardCover": 1,
+            "wordCardEn": 1,
+            "wordCardCh": 0,
+            "wordCardMinor": 0,
+            "wordCardNetmean": 0,
+            "wordDeform": 1,
+            "keyword": 0,
+            "bilingual": 1,
+            "simple": 0,
+            "levelList": 1,
+            "synonym": 1,
+            "antonym": 0,
+            "conjugate": 1,
+            "rootaffix": 0,
+            "baike_sogou": 0,
+            "baike_wiki": 0,
+            "wordDifference": 0,
+            "word_phrase": 0,
+            "secondQuery": 0,
+            "dict_oxford": 0,
+            "dict_newcentury": 0,
+            "zhongkaotab": 1,
+            "gaokaotab": 1,
+            "CET4tab": 0,
+            "CET6tab": 0,
+            "kaoyantab": 0,
+            "network_tab": 0,
+            "yinying_tab": 1,
+            "tuozhan_tab": 0,
+            "one_pic": 0,
+            "more_pic": 0,
+            "no_pic": 0,
+            "uuid": "28af01d4-0062-479b-b77d-56e4b3a5dfea",
+            "from_type": 0,
+            "t_trans_ssr": 160
+        },
+        "ServerModelUIGS": {
+            "terminal": "web",
+            "type": "trans_model",
+            "pbtype": "pv",
+            "model_general": 1,
+            "model_medical": 1,
+            "model_finance": 1
+        },
+        "ServerSgtkn": "64EC8AA44598F75F55527DEFB945D10C55AE2B4D6755247D",
+        "suggShow": false,
+        "suggestion": "",
+        "suggDirection": "",
+        "usualTop": "",
+        "baseDict": "",
+        "wordCardClick": false,
+        "isFrInput": false,
+        "kanaTips": {
+            "show": false,
+            "left": "",
+            "top": "",
+            "type": "",
+            "arrowLeft": ""
+        },
+        "currSentenceIndex": -1,
+        "prefixStrObj": {
+            "prefixStr": "",
+            "oriPrefixStr": ""
+        },
+        "selectTransBox": {
+            "show": false,
+            "right": 0,
+            "top": 0,
+            "paraphraseInfo": {
+                "word": "",
+                "from": "",
+                "to": "",
+                "area": ""
+            }
+        },
+        "sentenceLoading": false,
+        "newSentenceInfo": {
+            "sentence": "",
+            "candidateIndex": 0
+        },
+        "moreTipInfo": {
+            "opacity": 0,
+            "zIndex": -1
+        },
+        "paraphraseShowInfo": {
+            "card": 0,
+            "query": "",
+            "card_dict": 0
+        },
+        "selectType": "",
+        "wordPos": 0,
+        "candidateWord": "",
+        "syntaxVisible": false,
+        "syntaxStatus": 0
+    },
+    "language": {
+        "from": "auto",
+        "to": "zh-CHS",
+        "detect": "en",
+        "model": "general",
+        "detectShow": false,
+        "langMap": {
+            "current": ""
+        },
+        "zh2en": false,
+        "fromItemList": [
+            {
+                "lang": "auto",
+                "text": "自动检测",
+                "play": false
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "de",
+                "text": "德语",
+                "play": true,
+                "abbr": "德"
+            },
+            {
+                "lang": "th",
+                "text": "泰语",
+                "play": true,
+                "abbr": "泰"
+            },
+            {
+                "lang": "fr",
+                "text": "法语",
+                "play": true,
+                "abbr": "法"
+            }
+        ],
+        "toItemList": [
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "ar",
+                "text": "阿拉伯语",
+                "play": true,
+                "dir": "rtl",
+                "abbr": "阿"
+            },
+            {
+                "lang": "fr",
+                "text": "法语",
+                "play": true,
+                "abbr": "法"
+            },
+            {
+                "lang": "ko",
+                "text": "韩语",
+                "play": true,
+                "abbr": "韩"
+            }
+        ]
+    },
+    "voice": {
+        "from": {
+            "lang": "en",
+            "type": "from",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22fifty%22%2C%22spokenDialect%22%3A%22en%22%2C%22rate%22%3A%220.8%22%7D",
+            "list": [
+                {
+                    "type": "uk_0",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "ˈfɪfti",
+                    "abbr": "英",
+                    "src": "http://pic01.sogoucdn.com/s3/a/201051/fifty_uk_20220110.mp3"
+                },
+                {
+                    "type": "usa_1",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "ˈfɪfti",
+                    "abbr": "美",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/5810_fifty_usa.mp3"
+                }
+            ],
+            "stype": "phonetic",
+            "phoneticShow": [
+                {
+                    "text": "ˈfɪfti",
+                    "type": "uk",
+                    "filename": "http://pic01.sogoucdn.com/s3/a/201051/fifty_uk_20220110.mp3"
+                }
+            ]
+        },
+        "to": {
+            "lang": "zh",
+            "type": "to",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22%E4%BA%94%E5%8D%81%22%2C%22spokenDialect%22%3A%22zh-CHS%22%2C%22rate%22%3A%220.8%22%7D",
+            "stype": "normal"
+        }
+    }
+}

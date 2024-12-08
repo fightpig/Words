@@ -1,0 +1,981 @@
+{
+    "route": {
+        "name": "text",
+        "path": "/text",
+        "hash": "",
+        "query": {
+            "keyword": "cousin",
+            "transfrom": "auto",
+            "transto": "zh-CHS",
+            "model": "general",
+            "errcode": "s10"
+        },
+        "params": {},
+        "fullPath": "/text?keyword=cousin&transfrom=auto&transto=zh-CHS&model=general&errcode=s10",
+        "meta": {
+            "mtype": [
+                "textTranslate",
+                "language",
+                "voice"
+            ]
+        },
+        "from": {
+            "name": null,
+            "path": "/",
+            "hash": "",
+            "query": {},
+            "params": {},
+            "fullPath": "/",
+            "meta": {}
+        }
+    },
+    "common": {
+        "CONFIG": {
+            "wuid": 1733632786411,
+            "loginInfo": {},
+            "isIE": 0,
+            "isHitSsrSwitch": true,
+            "isHitWritebookSwitch": false,
+            "isHitAmsSwitch": true,
+            "promotionList": "{\n    \"pc_bottom\":{\n        \"imgsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\",\n        \"qcsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\"\n    },\n    \"pc_middle\":[\n        {\n            \"src\":\"//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c\",\n            \"bgColor\":\"#ffffff\",\n            \"link\":\"\"\n        }\n    ],\n    \"pc_survey\":{\n        \"icon\":\"//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750\",\n        \"link\":\"https://wj.qq.com/s2/8193148/806d/\"\n    }\n}",
+            "bannerData": [],
+            "isHitAsideSurvey": false,
+            "secretCode": 109984457,
+            "uuid": "ca1cbfbb-e428-45e0-ab1b-2440bc36ac14",
+            "referer": "",
+            "approveToken": "64EB5FA94A92FF555E5875E48B3A9FDE5E3BDD7667552312",
+            "loadTime": 1733632786412,
+            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0",
+            "fcp": "138.197.122.177",
+            "temporaryId": "",
+            "fileId": ""
+        },
+        "hotWords": [],
+        "isFromCollect": false,
+        "psdModify": {
+            "currentStep": 1,
+            "scode": "",
+            "username": ""
+        },
+        "loginStatus": true,
+        "feedBackModule": false,
+        "showPromotionPopup": {
+            "show": false,
+            "type": ""
+        },
+        "showPromotionPCDownload": false,
+        "showShareBomb": false,
+        "shareData": null,
+        "showAppDownLoad": false,
+        "showLoginDialog": false,
+        "showLoading": {
+            "show": false
+        },
+        "toast": {
+            "show": false,
+            "text": "",
+            "loading": false
+        },
+        "modelToast": {
+            "show": false,
+            "text": ""
+        },
+        "selectionGlobalShow": true,
+        "selectionInfo": {
+            "left": 0,
+            "top": 0,
+            "show": false,
+            "from": "",
+            "to": "",
+            "val": "",
+            "area": ""
+        },
+        "showConfirmDialog": false,
+        "promotionList": {
+            "pc_bottom": {
+                "imgsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png",
+                "qcsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png"
+            },
+            "pc_middle": [
+                {
+                    "src": "//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c",
+                    "bgColor": "#ffffff",
+                    "link": ""
+                }
+            ],
+            "pc_survey": {
+                "icon": "//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750",
+                "link": "https://wj.qq.com/s2/8193148/806d/"
+            }
+        },
+        "transTypeTxt": "text",
+        "fixedTabStatus": 0,
+        "bodyTop": 0,
+        "ifHideUserOperation": false
+    },
+    "textTranslate": {
+        "prevTransQuery": "",
+        "translateData": {
+            "translate": {
+                "zly": "zly",
+                "errorCode": "0",
+                "qc_type": "1",
+                "index": "content0",
+                "from": "en",
+                "source": "sogou",
+                "text": "cousin",
+                "to": "zh-CHS",
+                "id": "ca1cbfbb-e428-45e0-ab1b-2440bc36ac14",
+                "dit": "同辈表亲（或堂亲）",
+                "orig_text": "cousin",
+                "md5": ""
+            },
+            "detect": {
+                "zly": "zly",
+                "detect": "en",
+                "errorCode": "0",
+                "language": "英语",
+                "id": "738f1d20-b51e-11ef-84da-71f081b4cdac",
+                "text": "cousin"
+            },
+            "sgtkn": "64EB5FAB4A92FF555E5875E48B3A9FDE5E3BDD7667552312",
+            "wordCard": {
+                "title": "cousin",
+                "show": true,
+                "usualDict": [
+                    {
+                        "values": [
+                            "堂兄；堂弟；表兄；表弟；堂姐；堂妹；表姐；表妹；远房亲戚；远亲；兄弟的…国人民（来自不同国家但文化近似）"
+                        ],
+                        "pos": "n."
+                    }
+                ],
+                "secondQuery": "",
+                "exchange": {
+                    "word_pl": [
+                        "cousins"
+                    ]
+                },
+                "levelList": [
+                    "小学",
+                    "初中",
+                    "高中",
+                    "四级",
+                    "六级",
+                    "考研",
+                    "考博"
+                ]
+            },
+            "detail": {
+                "wordRootInfo": {
+                    "word_info_list": [
+                        {
+                            "word": "cousinly",
+                            "pos_mean_info_list": [
+                                {
+                                    "pos": "adj.",
+                                    "mean": "堂兄弟姐妹关系的"
+                                },
+                                {
+                                    "pos": "adv.",
+                                    "mean": "堂兄弟姐妹关系地"
+                                }
+                            ]
+                        }
+                    ],
+                    "root_word": "cousin"
+                },
+                "word_group": [
+                    {
+                        "brief_definition": "单纯而土气的人；乡下人",
+                        "phrase": "country cousin",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "嫡堂（或嫡表）兄弟姐妹的子女",
+                        "phrase": "first cousin once removed",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "堂兄；堂弟；堂姐；堂妹；姨表兄；姨表弟；姨表姐；姨表妹",
+                        "phrase": "parallel cousin",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "问候时可亲吻的亲戚",
+                        "phrase": "kissing cousin",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "堂兄弟；堂姐妹；表兄弟；表姐妹",
+                        "phrase": "cousin german",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "远房堂（或表）兄弟姐妹的子女",
+                        "phrase": "second cousin once removed",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "交错从表",
+                        "phrase": "cross cousin",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "嫡堂（或嫡表）兄弟姐妹的孙子女",
+                        "phrase": "first cousin twice removed",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "远亲",
+                        "phrase": "distant cousin",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "嫁给表哥",
+                        "phrase": "marry cousin",
+                        "pos": ""
+                    }
+                ],
+                "bilingual": [
+                    {
+                        "source": "Do you have a <em>cousin</em>?",
+                        "target": "你有堂兄弟姐妹吗？",
+                        "url": ""
+                    },
+                    {
+                        "source": "My <em>cousin</em> ate a mango.",
+                        "target": "我表弟吃了一颗芒果。",
+                        "url": ""
+                    },
+                    {
+                        "source": "My <em>cousin</em> is a student.",
+                        "target": "我表弟是学生。",
+                        "url": ""
+                    },
+                    {
+                        "source": "And is she your <em>cousin</em>?",
+                        "target": "她是你表妹吗？",
+                        "url": ""
+                    },
+                    {
+                        "source": "My <em>cousin</em> is a nice girl.",
+                        "target": "我的表妹是个好女孩。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Sam, my <em>cousin</em> Lucy, and me.",
+                        "target": "山姆，我的表妹露西，还有我。",
+                        "url": ""
+                    },
+                    {
+                        "source": "My <em>cousin</em> wants to be a cook.",
+                        "target": "我的表弟想成为一名厨师。",
+                        "url": ""
+                    },
+                    {
+                        "source": "I'm going to visit my <em>cousin</em>.",
+                        "target": "我要去看我的表弟。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Is your <em>cousin</em> going to bed now?",
+                        "target": "你表兄弟现在要睡觉了吗？",
+                        "url": ""
+                    },
+                    {
+                        "source": "My <em>cousin</em> can run faster than me.",
+                        "target": "我表妹跑得比我快。",
+                        "url": ""
+                    }
+                ],
+                "baike": {
+                    "showMore": false,
+                    "list": [
+                        {
+                            "lemmaTitle": "cousin",
+                            "link": "https://baike.sogou.com/v72281055.htm?ch=sogou.fanyi",
+                            "abstract": "cousin舞室是carson老师在北京东城区东花市大街开班的以小班授课为特色的舞室。舞室名为cousin，意译为",
+                            "wapPic": "//img04.sogoucdn.com/v2/thumb/retype_exclude_gif/ext/auto/q/80/crop/xy/ai/w/140/h/140/resize/w/140?appid=201005&sign=45fd48512b0f41e9255b1b0dc082921f&url=https%3A%2F%2Fpic.baike.soso.com%2Fugc%2Fbaikepic2%2F2091%2F20200624021202-407433819_jpeg_728_600_57181.jpg%2F0",
+                            "pcPic": "//img04.sogoucdn.com/v2/thumb/retype_exclude_gif/ext/auto/q/80/crop/xy/ai/w/140/h/140/resize/w/140?appid=201005&sign=45fd48512b0f41e9255b1b0dc082921f&url=https%3A%2F%2Fpic.baike.soso.com%2Fugc%2Fbaikepic2%2F2091%2F20200624021202-407433819_jpeg_728_600_57181.jpg%2F0"
+                        }
+                    ]
+                }
+            },
+            "book": {
+                "yingyinNormal": [
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/3bccca9abe5ab96bd7f3eaed6bd40cf2_52899.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/df06214c95f142a5457c78521485c7b6_40234.mp3",
+                        "isLavafox": true,
+                        "en": "What? Chandler she's our <em>cousin</em>.",
+                        "zh": "钱德，她是我们的表妹。",
+                        "videoNameZh": "《老友记 第七季》",
+                        "videoNameEn": "《Friends Season 7》",
+                        "url": "http://bisentence_movie.sogou.com/7e82242db69a824ef1b7b0f99797632b_34a57c4b5ec9b03539b8e663544b3148e34fee6f"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/ddeda38701415f391059f60a14ca0ada_53507.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/c9a4b619e668951f06713457690cec21_3574.mp3",
+                        "isLavafox": true,
+                        "en": "My <em>cousin</em> has a cabin out in the woods.",
+                        "zh": "我表哥有一间林间小屋。",
+                        "videoNameZh": "《生活大爆炸 第八季》",
+                        "videoNameEn": "《The Big Bang Theory Season 8》",
+                        "url": "http://bisentence_movie.sogou.com/d4e4b2b317f971be53429c4f4a13b86b_31548a1611c46aaf9900fa0b6f92eb1f51e2b818"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/dde03d29cdf9f1eb3170279dd5ad8ff2_46072.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/55f0296bf7cd51c6702a1cb6b6ed5e3c_73441.mp3",
+                        "isLavafox": true,
+                        "en": "Look what your <em>cousin</em>'s hiding in here.",
+                        "zh": "瞧瞧你表亲在这里藏了什么。",
+                        "videoNameZh": "《摩登家庭 第六季》",
+                        "videoNameEn": "《Modern Family Season 6》",
+                        "url": "http://bisentence_movie.sogou.com/d7ca129335d9eb43af90ff94c841585c_a7dd603d3d8738f982baf1774f356f2bf790dfa7"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/882c4a955031459b92686f70d94deed1_14165.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/997d9aa093fe40c92111d45fa02dff4d_56954.mp3",
+                        "isLavafox": true,
+                        "en": "Speak your decree, <em>cousin</em>. It will be done.",
+                        "zh": "下令吧 ，皇兄，我们会去执行。",
+                        "videoNameZh": "《马可波罗 第一季》",
+                        "videoNameEn": "《Marco Polo Season 1》",
+                        "url": "http://bisentence_movie.sogou.com/8b34bda86b0382b156f177ad08ce2a21_d517c32c60c3808dbb44f95d09397d568d02e66e"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/f7d7167294560b5a445295985c93469c_14515.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/af42fb30655c166d4077ed66d6db88e0_73989.mp3",
+                        "isLavafox": true,
+                        "en": "We don't need Howard's <em>cousin</em>, no. We have me.",
+                        "zh": "我们不需要霍华德的亲戚帮忙，咱们有我啊。",
+                        "videoNameZh": "《生活大爆炸 第十季》",
+                        "videoNameEn": "《The Big Bang Theory Season 10》",
+                        "url": "http://bisentence_movie.sogou.com/ecce7a837d67c7590e0ce7aaf9d0c518_52cd204990329eca47cb599b7076069b74ef4b17"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/b73d6e20976b7ffe4e651b29ea5ddefc_31309.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/ad3db962999a9d49b87c8666724e55b4_69289.mp3",
+                        "isLavafox": true,
+                        "en": "Peppa and George are visiting their big <em>cousin</em> Chloe.",
+                        "zh": "佩奇和乔治要去看望堂姐克洛伊。",
+                        "videoNameZh": "《粉红猪小妹 第二季》",
+                        "videoNameEn": "《Peppa Pig Season 2》",
+                        "url": "http://bisentence_movie.sogou.com/689d4635ab2ecf85cb6be73980824b0d_1724404479be92402ad879138818521fc2374b36"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/882c4a955031459b92686f70d94deed1_14165.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/cc13b5dab7facd46dd231e4b29d8b815_35764.mp3",
+                        "isLavafox": true,
+                        "en": "<em>Cousin</em> Kaidu will inherit his lands, his armies, his people.",
+                        "zh": "由海都兄弟继承他的土地，他的军队和臣民。",
+                        "videoNameZh": "《马可波罗 第一季》",
+                        "videoNameEn": "《Marco Polo Season 1》",
+                        "url": "http://bisentence_movie.sogou.com/990fcd257a72c2eefb5a65caa2d5a3c3_a994b58848e1db53153f95fae1c377b62d23941e"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/c3652a60f61ce63a5e9067648ae2439c_44092.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/bbedbd9bc93b8ed1c18c3030ee9a2221_73112.mp3",
+                        "isLavafox": true,
+                        "en": "Sheldon, he's just practicing for his <em>cousin</em>'s birthday party.",
+                        "zh": "谢尔顿，他是在为他表弟的生日派对提前排练啦。",
+                        "videoNameZh": "《生活大爆炸 第五季》",
+                        "videoNameEn": "《The Big Bang Theory Season 5》",
+                        "url": "http://bisentence_movie.sogou.com/02056059bfc51fb9d88e8841dabf46d0_a60a894124fffb008818260cb220fe58f2891de1"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/5dc3cf8cad26e071498ca907fcc13dc6_46983.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/e15ee7f4692ab0acbe37bebcfceedbfd_48805.mp3",
+                        "isLavafox": true,
+                        "en": "Peppa's family are having a sleepover at <em>Cousin</em> Chloe's house.",
+                        "zh": "佩奇和他的家人要在堂姐特洛伊家过夜。",
+                        "videoNameZh": "《小猪佩奇 第四季》",
+                        "videoNameEn": "《Peppa Pig Season 4》",
+                        "url": "http://bisentence_movie.sogou.com/67ef9f3db5f3b8b5d8831ad14590f22d_1b45040435a3aba604ed616c9c68360402877309"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/39e50807a5a1191398262e04787ff184_62485.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/10f01f39dc3e5814e130060c05c461bd_49582.mp3",
+                        "isLavafox": true,
+                        "en": "Why not? Because Sheldon doesn't have a drug-addicted <em>cousin</em> Leopold.",
+                        "zh": "为什么？因为谢尔顿根本就没有一个吸毒的叫里奥珀德的表弟。",
+                        "videoNameZh": "《生活大爆炸 第一季》",
+                        "videoNameEn": "《The Big Bang Theory Season 1》",
+                        "url": "http://bisentence_movie.sogou.com/6734fb62ce39706b66a2b267230c53d1_d505f5c2f6cc25eb2a1f9634bc3a042ec304b9fd"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/5440028de015a767476054a27cf789d8_26933.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/78f4ad667d94aa3908cde25f716d9c76_68262.mp3",
+                        "isLavafox": true,
+                        "en": "My <em>Cousin</em> Chloe.",
+                        "zh": "我的堂姐克洛伊。",
+                        "videoNameZh": "《小猪佩奇 第一季》",
+                        "videoNameEn": "《Peppa Pig Season 1》",
+                        "url": "http://bisentence_movie.sogou.com/0a9459193e8b8ca428353225da57cc63_eeca8e3374ead72b8cc738b5308c7b588fb297c6"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/f7d7167294560b5a445295985c93469c_14515.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/e975fa4510bd1540e8364a51a878960c_71569.mp3",
+                        "isLavafox": true,
+                        "en": "My <em>cousin</em> does work in a call center. And my <em>cousin</em>'s a lawyer.",
+                        "zh": "我还真有亲戚在电话客服中心工作，我也真有亲戚是律师。",
+                        "videoNameZh": "《生活大爆炸 第十季》",
+                        "videoNameEn": "《The Big Bang Theory Season 10》",
+                        "url": "http://bisentence_movie.sogou.com/19843ca0efa5398bfbd9d1d32e419f15_e8464f14ee7c858fa25d10811910ddc15bb20e60"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/ae9d6f2f04858f0af8517ff08116148e_6738.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/2c3477d3e40c71691a367c426f781b98_14860.mp3",
+                        "isLavafox": true,
+                        "en": "Your <em>cousin</em> is Yoenis Céspedes? Your <em>cousin</em> plays for the Mets? God bless America!",
+                        "zh": "你堂哥是尤尼斯·塞斯佩德斯？你堂哥在大都会队？上帝保佑美国！",
+                        "videoNameZh": "《女孩成长记 第三季》",
+                        "videoNameEn": "《Girl Meets World Season 3》",
+                        "url": "http://bisentence_movie.sogou.com/0b03de121e317167fad54afe34642356_28ead02f2c1ea4a0ad37910d25a2cbd9bb540a91"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/5440028de015a767476054a27cf789d8_26933.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/a2b75db82d72954e0c91e0ee2f1bf888_52297.mp3",
+                        "isLavafox": true,
+                        "en": "Peppa, George. Today your big <em>cousin</em>, Chloe is coming to visit. Yippee. <em>Cousin</em> Chloe.",
+                        "zh": "佩琪，乔治，今天你们堂姐克洛伊要来家里玩。好棒，我喜欢克洛伊。",
+                        "videoNameZh": "《小猪佩奇 第一季》",
+                        "videoNameEn": "《Peppa Pig Season 1》",
+                        "url": "http://bisentence_movie.sogou.com/41aace61cab511aebf86daa53d0325d6_0cce61d10cffc68d06d1188989a542362ee49ab7"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/b73d6e20976b7ffe4e651b29ea5ddefc_31309.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/aaef9260b726c031a8b034e042865000_4292.mp3",
+                        "isLavafox": true,
+                        "en": "Hello. Hello, everyone. Hello, Peppa and George. This is Chloe, Peppa and George's big <em>cousin</em>. But where's our new <em>cousin</em>? Here's your new baby <em>cousin</em>. Oh. The new <em>cousin</em> is a tiny, baby piggy.",
+                        "zh": "你好啊！大家好啊！佩奇乔治你们好！这是克洛伊，佩奇和乔治的堂姐。但是你们的新成员在哪？这位就是我们家的新成员，这位新成员是个小小的猪宝宝。",
+                        "videoNameZh": "《粉红猪小妹 第二季》",
+                        "videoNameEn": "《Peppa Pig Season 2》",
+                        "url": "http://bisentence_movie.sogou.com/71ab2317083edde2ed3db3758ae7575c_cf4d215ce65dee2d46d8fba8b372c026e2f00dd1"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/a3f6ca8d0ebaa5b0956976d643673427_52102.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/54422264a572ff7ee5c5959e9ec5c136_74519.mp3",
+                        "isLavafox": true,
+                        "en": "Peppa and her family are on their way to visit <em>cousin</em> Chloe. I love playing with big <em>cousin</em> Chloe.",
+                        "zh": "佩奇和他的家人要去拜访他的堂姐克洛伊。我最喜欢和堂姐克洛伊一起玩了。",
+                        "videoNameZh": "《小猪佩奇 第三季》",
+                        "videoNameEn": "《Peppa Pig Season 3》",
+                        "url": "http://bisentence_movie.sogou.com/8d44b368c3fe3ba0b8beb78469201d45_8615267a6f22c34aa9a57a10c0225014a6bfbe06"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/68eeb648a2ff0cbf1b553571b1bde0b8_47107.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/adc3d88eb8044dcf039f1a7bf864ee95_1584.mp3",
+                        "isLavafox": true,
+                        "en": "And you, never turn your back on family. My <em>cousin</em> Gomez skipped my other <em>cousin</em> Gomez's party, and my <em>cousin</em> Gomez felt completely stabbed in the back. Because he... Because he was.",
+                        "zh": "你——决不能背叛家人。我戈麦斯表哥没去我另一个戈麦斯表哥的派对，我戈麦斯表哥感觉背后被人捅了刀。因为他……因为他就是被捅了。",
+                        "videoNameZh": "《摩登家庭 第八季》",
+                        "videoNameEn": "《Modern Family Season 8》",
+                        "url": "http://bisentence_movie.sogou.com/1787298c85e67bf7c6e503e6678aaa5d_451ef3c1f240471ffe69ef82377f9986c5cb89db"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/5784af55ab08e203ecc1fde609fc5bb5_17166.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/95c7ae727e75c0da31c509b0b3fe75b9_13413.mp3",
+                        "isLavafox": true,
+                        "en": "How is he? Sad. He loved his <em>cousin</em>, and it was all so quick.",
+                        "zh": "他怎么样？很难过，他很爱他的表亲，一切都太突然了。",
+                        "videoNameZh": "《唐顿庄园 第六季》",
+                        "videoNameEn": "《Downton Abbey Season 6》",
+                        "url": "http://bisentence_movie.sogou.com/503454b2dbb639a0a3b47a9942c46950_e23f2992ae1ce608e373b625e39d2ff09b33a936"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/3cc7f04bc4e6bde5cc691b286df1a676_37630.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/924945cd946a96373e1a15cfe8ffc1cf_38735.mp3",
+                        "isLavafox": true,
+                        "en": "Forget it. Not after your <em>cousin</em> who could belch the alphabet.",
+                        "zh": "算了吧，从你那打嗝会嗝出字母表的表兄后，我再也不敢了。",
+                        "videoNameZh": "《老友记第一季》",
+                        "videoNameEn": "《Friends Season 1》",
+                        "url": "http://bisentence_movie.sogou.com/74d7b5129264ef61bc41a9e6c1ef4cfd_c4bc93084dfaccd5cd40883669e4f3fac089ecea"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/21d26cfef0cd26f0813072491b08dd5a_57364.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/d761da955cf8a1ca845080927d5f8168_62120.mp3",
+                        "isLavafox": true,
+                        "en": "You look like my little <em>cousin</em> when he's dropping one in his diaper.",
+                        "zh": "我那个小表弟在尿布里拉屎时就这眼神。",
+                        "videoNameZh": "《生活大爆炸 第六季》",
+                        "videoNameEn": "《The Big Bang Theory Season 6》",
+                        "url": "http://bisentence_movie.sogou.com/96bf056b6df536181cd469c1f46a86c1_d1b5309f31663e4d4d5a8de004d3995ae117e870"
+                    }
+                ]
+            },
+            "pic": "",
+            "voice": {
+                "phonetic": [
+                    {
+                        "text": "ˈkʌzn",
+                        "type": "uk",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/9379_cousin_uk.mp3"
+                    },
+                    {
+                        "text": "ˈkʌzn",
+                        "type": "usa",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/9379_cousin_usa.mp3"
+                    }
+                ]
+            },
+            "dictType": "oxford_buchong",
+            "CET6": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 1,
+                        "pos": "n",
+                        "chinese": "堂/表兄弟姐妹",
+                        "sense_tier_ratio": 50
+                    },
+                    {
+                        "sense_tier": 1,
+                        "pos": "n",
+                        "chinese": "(具有相似渊源的)兄弟民族/国家的人",
+                        "sense_tier_ratio": 50
+                    }
+                ],
+                "word": "cousin",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2016.6-2023.6年8年间全六级试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight>考纲释义</highlight>\n精选实考、考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2016-2023年51套试卷，包括阅读、听力、翻译等所有题型。\n\n<highlight>真题例句</highlight>\n精选2016-2023年8年间全六级试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 1,
+                "total_exam_freq": 2,
+                "sense": {
+                    "sense_num": 2,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "堂/表兄弟姐妹",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "The Cascadia Earthquake Zone is big enough to compete with San Andrea, but it's much lesser known than its Californian <highlight>cousin</highlight>.",
+                                    "month": 12,
+                                    "source": "CET6",
+                                    "coll": "",
+                                    "sentence_trans": "卡斯卡迪亚地区震区足够大，可以与圣安德里亚相媲美，但它的知名度远不及加州的“表亲”。",
+                                    "year": 2019,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                }
+                            ]
+                        },
+                        {
+                            "en": "",
+                            "zh": "(具有相似渊源的)兄弟民族/国家的人",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "As we are truly getting to know our primate (灵长类) <highlight>cousins</highlight>, the actions of humans are closing the window on all we have discovered.",
+                                    "month": 12,
+                                    "source": "CET6",
+                                    "coll": "",
+                                    "sentence_trans": "现在，就在我们真正开始了解我们的灵长类表亲时，人类的行为正在关闭我们所发现的一切。",
+                                    "year": 2020,
+                                    "type": "阅读理解C",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "exchange_info": {
+                    "word_pl": [
+                        "cousins"
+                    ]
+                }
+            },
+            "CET4": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 0,
+                        "pos": "n",
+                        "chinese": "(具有相似渊源的)兄弟民族/国家的人",
+                        "sense_tier_ratio": 0
+                    }
+                ],
+                "word": "cousin",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2016.6-2023.6年8年间全四级试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight>考纲释义</highlight>\n精选实考、考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2016-2023年51套试卷，包括阅读、听力、翻译等所有题型。\n\n<highlight>真题例句</highlight>\n精选2016-2023年8年间试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 1,
+                "total_exam_freq": 0,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "synonyms": "",
+                            "en": "",
+                            "zh": "(具有相似渊源的)兄弟民族/国家的人",
+                            "pos": "n",
+                            "antonyms": ""
+                        }
+                    ]
+                },
+                "exchange_info": {
+                    "word_pl": [
+                        "cousins"
+                    ]
+                }
+            },
+            "gaokao": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 0,
+                        "pos": "cn",
+                        "chinese": "堂(表)兄弟; 堂(表)姐妹",
+                        "sense_tier_ratio": 0
+                    }
+                ],
+                "word": "cousin",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2015-2022年8年间全国卷和自主命题省市高考卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2015-2022年全国卷高考试卷，包括阅读、完形、单选、填空、听力、改错、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选各省市考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2015-2022年8年间全国卷和自主命题省市高考卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 1,
+                "total_exam_freq": 0,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "synonyms": "",
+                            "en": "",
+                            "zh": "堂(表)兄弟; 堂(表)姐妹",
+                            "pos": "cn",
+                            "antonyms": ""
+                        }
+                    ]
+                }
+            },
+            "zhongkao": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 37,
+                        "pos": "n",
+                        "chinese": "堂/表兄弟姐妹",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "cousin",
+                "direction_info": {
+                    "ranges": 4,
+                    "description": "数据源自2018-2021年4年间全国各省市中考试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2018-2021年全国重点省市中考试卷，包括听力、阅读、完形、单选、填空、改错、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选各省市考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2018-2021年4年间全国各省市中考试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 5,
+                "total_exam_freq": 37,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "堂/表兄弟姐妹",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "My <highlight>cousin</highlight> will drive me to school today, but I don't know when we'll leave.",
+                                    "month": -1,
+                                    "source": "河北省卷",
+                                    "coll": "",
+                                    "sentence_trans": "我表弟今天会开车送我去学校，但我不知道我们什么时候走。",
+                                    "year": 2020,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "My <highlight>cousin</highlight> Roger was big and strong.",
+                                    "month": -1,
+                                    "source": "温州市卷",
+                                    "coll": "",
+                                    "sentence_trans": "我的表弟罗杰又高大又强壮。",
+                                    "year": 2020,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "When I was younger, I saw my <highlight>cousin</highlight> fall onto an ants' nest.",
+                                    "month": -1,
+                                    "source": "武汉市卷",
+                                    "coll": "",
+                                    "sentence_trans": "小时候，我看到过我的表弟掉到蚂蚁窝里。",
+                                    "year": 2018,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            "sentencesData": {
+                "status": 1,
+                "info": "notZh2En",
+                "data": {}
+            },
+            "isAutoMatch": false,
+            "Zh2En": false
+        },
+        "query": "cousin",
+        "result": "同辈表亲（或堂亲）",
+        "tabSelect": "detail",
+        "dictionaryType": "oxford_buchong",
+        "notFound_show": false,
+        "phoneticShow": "",
+        "globalShowTranslateRecord": "",
+        "pronPrefer": {
+            "type": "usa_1",
+            "speaker": "male",
+            "speed": "standard"
+        },
+        "ServerRecord": "",
+        "ServerUIGS": {
+            "version": "new",
+            "type": "all",
+            "stype": "success",
+            "terminal": "web",
+            "fr": "default",
+            "direction": "etoz",
+            "from": "en",
+            "to": "zh-CHS",
+            "len": 6,
+            "qtype": "text",
+            "qctype": "qc_1",
+            "dict_cover": 1,
+            "detail": 1,
+            "wordCardCover": 1,
+            "wordCardEn": 1,
+            "wordCardCh": 0,
+            "wordCardMinor": 0,
+            "wordCardNetmean": 0,
+            "wordDeform": 1,
+            "keyword": 0,
+            "bilingual": 1,
+            "simple": 0,
+            "levelList": 1,
+            "synonym": 0,
+            "antonym": 0,
+            "conjugate": 1,
+            "rootaffix": 0,
+            "baike_sogou": 1,
+            "baike_wiki": 0,
+            "wordDifference": 0,
+            "word_phrase": 1,
+            "secondQuery": 0,
+            "dict_oxford": 0,
+            "dict_newcentury": 0,
+            "zhongkaotab": 1,
+            "gaokaotab": 1,
+            "CET4tab": 1,
+            "CET6tab": 1,
+            "kaoyantab": 0,
+            "network_tab": 0,
+            "yinying_tab": 1,
+            "tuozhan_tab": 0,
+            "one_pic": 0,
+            "more_pic": 0,
+            "no_pic": 0,
+            "uuid": "ca1cbfbb-e428-45e0-ab1b-2440bc36ac14",
+            "from_type": 0,
+            "t_trans_ssr": 130
+        },
+        "ServerModelUIGS": {
+            "terminal": "web",
+            "type": "trans_model",
+            "pbtype": "pv",
+            "model_general": 1,
+            "model_medical": 1,
+            "model_finance": 1
+        },
+        "ServerSgtkn": "64EB5FAB4A92FF555E5875E48B3A9FDE5E3BDD7667552312",
+        "suggShow": false,
+        "suggestion": "",
+        "suggDirection": "",
+        "usualTop": "",
+        "baseDict": "",
+        "wordCardClick": false,
+        "isFrInput": false,
+        "kanaTips": {
+            "show": false,
+            "left": "",
+            "top": "",
+            "type": "",
+            "arrowLeft": ""
+        },
+        "currSentenceIndex": -1,
+        "prefixStrObj": {
+            "prefixStr": "",
+            "oriPrefixStr": ""
+        },
+        "selectTransBox": {
+            "show": false,
+            "right": 0,
+            "top": 0,
+            "paraphraseInfo": {
+                "word": "",
+                "from": "",
+                "to": "",
+                "area": ""
+            }
+        },
+        "sentenceLoading": false,
+        "newSentenceInfo": {
+            "sentence": "",
+            "candidateIndex": 0
+        },
+        "moreTipInfo": {
+            "opacity": 0,
+            "zIndex": -1
+        },
+        "paraphraseShowInfo": {
+            "card": 0,
+            "query": "",
+            "card_dict": 0
+        },
+        "selectType": "",
+        "wordPos": 0,
+        "candidateWord": "",
+        "syntaxVisible": false,
+        "syntaxStatus": 0
+    },
+    "language": {
+        "from": "auto",
+        "to": "zh-CHS",
+        "detect": "en",
+        "model": "general",
+        "detectShow": false,
+        "langMap": {
+            "current": ""
+        },
+        "zh2en": false,
+        "fromItemList": [
+            {
+                "lang": "auto",
+                "text": "自动检测",
+                "play": false
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "th",
+                "text": "泰语",
+                "play": true,
+                "abbr": "泰"
+            },
+            {
+                "lang": "ru",
+                "text": "俄语",
+                "play": true,
+                "abbr": "俄"
+            },
+            {
+                "lang": "it",
+                "text": "意大利语",
+                "play": true,
+                "abbr": "意"
+            }
+        ],
+        "toItemList": [
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "ru",
+                "text": "俄语",
+                "play": true,
+                "abbr": "俄"
+            },
+            {
+                "lang": "auto",
+                "text": "自动检测",
+                "play": false,
+                "abbr": "自"
+            },
+            {
+                "lang": "fr",
+                "text": "法语",
+                "play": true,
+                "abbr": "法"
+            }
+        ]
+    },
+    "voice": {
+        "from": {
+            "lang": "en",
+            "type": "from",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22cousin%22%2C%22spokenDialect%22%3A%22en%22%2C%22rate%22%3A%220.8%22%7D",
+            "list": [
+                {
+                    "type": "uk_0",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "ˈkʌzn",
+                    "abbr": "英",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/9379_cousin_uk.mp3"
+                },
+                {
+                    "type": "usa_1",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "ˈkʌzn",
+                    "abbr": "美",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/9379_cousin_usa.mp3"
+                }
+            ],
+            "stype": "phonetic",
+            "phoneticShow": [
+                {
+                    "text": "ˈkʌzn",
+                    "type": "uk",
+                    "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/9379_cousin_uk.mp3"
+                }
+            ]
+        },
+        "to": {
+            "lang": "zh",
+            "type": "to",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22%E5%90%8C%E8%BE%88%E8%A1%A8%E4%BA%B2%EF%BC%88%E6%88%96%E5%A0%82%E4%BA%B2%EF%BC%89%22%2C%22spokenDialect%22%3A%22zh-CHS%22%2C%22rate%22%3A%220.8%22%7D",
+            "stype": "normal"
+        }
+    }
+}

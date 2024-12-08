@@ -1,0 +1,954 @@
+{
+    "route": {
+        "name": "text",
+        "path": "/text",
+        "hash": "",
+        "query": {
+            "keyword": "uncle",
+            "transfrom": "auto",
+            "transto": "zh-CHS",
+            "model": "general",
+            "errcode": "s10"
+        },
+        "params": {},
+        "fullPath": "/text?keyword=uncle&transfrom=auto&transto=zh-CHS&model=general&errcode=s10",
+        "meta": {
+            "mtype": [
+                "textTranslate",
+                "language",
+                "voice"
+            ]
+        },
+        "from": {
+            "name": null,
+            "path": "/",
+            "hash": "",
+            "query": {},
+            "params": {},
+            "fullPath": "/",
+            "meta": {}
+        }
+    },
+    "common": {
+        "CONFIG": {
+            "wuid": 1733634643686,
+            "loginInfo": {},
+            "isIE": 0,
+            "isHitSsrSwitch": true,
+            "isHitWritebookSwitch": false,
+            "isHitAmsSwitch": true,
+            "promotionList": "{\n    \"pc_bottom\":{\n        \"imgsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\",\n        \"qcsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\"\n    },\n    \"pc_middle\":[\n        {\n            \"src\":\"//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c\",\n            \"bgColor\":\"#ffffff\",\n            \"link\":\"\"\n        }\n    ],\n    \"pc_survey\":{\n        \"icon\":\"//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750\",\n        \"link\":\"https://wj.qq.com/s2/8193148/806d/\"\n    }\n}",
+            "bannerData": [],
+            "isHitAsideSurvey": false,
+            "secretCode": 109984457,
+            "uuid": "960eaca8-13de-45c7-9922-afd3e8ed2f1d",
+            "referer": "",
+            "approveToken": "64F2913793533C959F98B724DB85C59E9F064BBE67552A53",
+            "loadTime": 1733634643687,
+            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0",
+            "fcp": "170.64.148.76",
+            "temporaryId": "",
+            "fileId": ""
+        },
+        "hotWords": [],
+        "isFromCollect": false,
+        "psdModify": {
+            "currentStep": 1,
+            "scode": "",
+            "username": ""
+        },
+        "loginStatus": true,
+        "feedBackModule": false,
+        "showPromotionPopup": {
+            "show": false,
+            "type": ""
+        },
+        "showPromotionPCDownload": false,
+        "showShareBomb": false,
+        "shareData": null,
+        "showAppDownLoad": false,
+        "showLoginDialog": false,
+        "showLoading": {
+            "show": false
+        },
+        "toast": {
+            "show": false,
+            "text": "",
+            "loading": false
+        },
+        "modelToast": {
+            "show": false,
+            "text": ""
+        },
+        "selectionGlobalShow": true,
+        "selectionInfo": {
+            "left": 0,
+            "top": 0,
+            "show": false,
+            "from": "",
+            "to": "",
+            "val": "",
+            "area": ""
+        },
+        "showConfirmDialog": false,
+        "promotionList": {
+            "pc_bottom": {
+                "imgsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png",
+                "qcsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png"
+            },
+            "pc_middle": [
+                {
+                    "src": "//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c",
+                    "bgColor": "#ffffff",
+                    "link": ""
+                }
+            ],
+            "pc_survey": {
+                "icon": "//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750",
+                "link": "https://wj.qq.com/s2/8193148/806d/"
+            }
+        },
+        "transTypeTxt": "text",
+        "fixedTabStatus": 0,
+        "bodyTop": 0,
+        "ifHideUserOperation": false
+    },
+    "textTranslate": {
+        "prevTransQuery": "",
+        "translateData": {
+            "translate": {
+                "zly": "zly",
+                "errorCode": "0",
+                "qc_type": "1",
+                "index": "content0",
+                "from": "en",
+                "source": "sogou",
+                "text": "uncle",
+                "to": "zh-CHS",
+                "id": "960eaca8-13de-45c7-9922-afd3e8ed2f1d",
+                "dit": "叔叔",
+                "orig_text": "uncle",
+                "md5": ""
+            },
+            "detect": {
+                "zly": "zly",
+                "detect": "en",
+                "errorCode": "0",
+                "language": "英语",
+                "id": "c6939150-b522-11ef-9d2c-3d9a91e7e670",
+                "text": "uncle"
+            },
+            "sgtkn": "64F2913B93533C959F98B724DB85C59E9F064BBE67552A53",
+            "wordCard": {
+                "title": "uncle",
+                "show": true,
+                "usualDict": [
+                    {
+                        "values": [
+                            "叔叔；叔父；伯父；舅舅；舅父；姑父；姨夫；大叔；大爷；伯伯；（对有影响力或地位的男性的尊称）先生"
+                        ],
+                        "pos": "n."
+                    }
+                ],
+                "secondQuery": "",
+                "exchange": {
+                    "word_pl": [
+                        "uncles"
+                    ]
+                },
+                "levelList": [
+                    "小学",
+                    "初中",
+                    "高中",
+                    "四级",
+                    "六级",
+                    "考研"
+                ]
+            },
+            "detail": {
+                "synonym": [
+                    {
+                        "word_list": [
+                            "nuncle",
+                            "oom"
+                        ],
+                        "pos": "n.",
+                        "mean": "叔叔；伯父；伯伯；舅父；姨丈；姑父"
+                    }
+                ],
+                "antonym": [
+                    {
+                        "word_list": [
+                            "aunt"
+                        ],
+                        "pos": "",
+                        "mean": ""
+                    }
+                ],
+                "word_group": [
+                    {
+                        "brief_definition": "投降；讨饶",
+                        "phrase": "say uncle",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "严厉但却善意的批评者",
+                        "phrase": "Dutch uncle",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "投降；讨饶",
+                        "phrase": "cry uncle",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "知心伯伯",
+                        "phrase": "agony uncle",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "投降；讨饶",
+                        "phrase": "yell uncle",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "富有的叔叔",
+                        "phrase": "rich uncle",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "舅舅；舅父",
+                        "phrase": "maternal uncle",
+                        "pos": ""
+                    }
+                ],
+                "bilingual": [
+                    {
+                        "source": "My <em>uncle</em> is a vet.",
+                        "target": "我叔叔是兽医。",
+                        "url": ""
+                    },
+                    {
+                        "source": "My <em>uncle</em> is a doctor.",
+                        "target": "我叔叔是医生。",
+                        "url": ""
+                    },
+                    {
+                        "source": "My <em>uncle</em> is an actor.",
+                        "target": "我叔叔是演员。",
+                        "url": ""
+                    },
+                    {
+                        "source": "My <em>uncle</em> is a cook.",
+                        "target": "我叔叔是一名厨师。",
+                        "url": ""
+                    },
+                    {
+                        "source": "My <em>uncle</em> is a policeman.",
+                        "target": "我叔叔是警察。",
+                        "url": ""
+                    },
+                    {
+                        "source": "I am with my <em>uncle</em>.",
+                        "target": "我与我的叔叔在一起。",
+                        "url": ""
+                    },
+                    {
+                        "source": "This is my <em>uncle</em>'s farm.",
+                        "target": "这是我叔叔的农场。",
+                        "url": ""
+                    },
+                    {
+                        "source": "My <em>uncle</em>'s café is big.",
+                        "target": "我叔叔的咖啡馆很大。",
+                        "url": ""
+                    },
+                    {
+                        "source": "That is <em>Uncle</em> Dan's table.",
+                        "target": "那是丹叔叔的桌子。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Do you like my <em>uncle</em>'s farm?",
+                        "target": "你喜欢我叔叔的农场吗？",
+                        "url": ""
+                    }
+                ]
+            },
+            "book": {
+                "yingyinNormal": [
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/aa7a748a86497e02e2b0a5098f3017b8_12619.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/29cc0e6d1c3d15403be8f4af5020a1ef_75976.mp3",
+                        "isLavafox": true,
+                        "en": "<em>Uncle</em> Josh. Riley. <em>Uncle</em> Josh.",
+                        "zh": "乔什叔叔。莱丽。乔什叔叔。",
+                        "videoNameZh": "《女孩成长记 第一季》",
+                        "videoNameEn": "《Girl Meets World Season 1》",
+                        "url": "http://bisentence_movie.sogou.com/9e435bd1969b81369c1657b99572c445_16a1e64d04c7a1d9417fad5e6cea37aaa1ba3f81"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/aa7a748a86497e02e2b0a5098f3017b8_12619.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/47fb914c36c3f4521b081c35246c83f4_34464.mp3",
+                        "isLavafox": true,
+                        "en": "I got an <em>Uncle</em> morty in the T-shirt business.",
+                        "zh": "我有个做T恤生意的叔叔，他叫莫蒂。",
+                        "videoNameZh": "《女孩成长记 第一季》",
+                        "videoNameEn": "《Girl Meets World Season 1》",
+                        "url": "http://bisentence_movie.sogou.com/1c5c5cbdf936cd9f98396f2a069119fb_bdcf929b4f958335878ed972dba58f0d4a7098a3"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/21d26cfef0cd26f0813072491b08dd5a_57364.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/69aca1bfabd6369e1c717cff83f3b56e_48732.mp3",
+                        "isLavafox": true,
+                        "en": "<em>Uncle</em> Howard. Cinnamon's here for her sleepover party.",
+                        "zh": "霍华德叔叔，小肉桂来你家过夜啦。",
+                        "videoNameZh": "《生活大爆炸 第六季》",
+                        "videoNameEn": "《The Big Bang Theory Season 6》",
+                        "url": "http://bisentence_movie.sogou.com/a9d14111d379251ca39be33e3939ccf4_89e13c53522d9832a1862d8e64ef4917234bff74"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/882c4a955031459b92686f70d94deed1_14165.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/a81ac567895eb01922feb45450eb88d2_46195.mp3",
+                        "isLavafox": true,
+                        "en": "I have seen my <em>uncle</em>'s army, Father. They are ready.",
+                        "zh": "我见过我叔叔的军队，父亲，他们整装待发。",
+                        "videoNameZh": "《马可波罗 第一季》",
+                        "videoNameEn": "《Marco Polo Season 1》",
+                        "url": "http://bisentence_movie.sogou.com/077b3e2822e402bca1f4cfce363cfb01_b98bb1a5b394f27eda255d9e4f85b52d1a209bb8"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/aa7a748a86497e02e2b0a5098f3017b8_12619.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/2ee978c5051bb7fd487e0ce4330efc4f_71889.mp3",
+                        "isLavafox": true,
+                        "en": "Okay, that's it. When's my birthday, <em>Uncle</em> Shawn?",
+                        "zh": "好了，到此为止。我的生日是哪天呢？肖恩叔叔？",
+                        "videoNameZh": "《女孩成长记 第一季》",
+                        "videoNameEn": "《Girl Meets World Season 1》",
+                        "url": "http://bisentence_movie.sogou.com/749c440f5d254400ec9b707c22277c98_9243be24433f2aa993042b74d92bf23082f296bb"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/649fb0da5e02febcad57f332efe07876_46469.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/ed6a0fd1f3818711069c0a3b00d97a24_27223.mp3",
+                        "isLavafox": true,
+                        "en": "So did you have fun with <em>Uncle</em> Joey and <em>Uncle</em> Chandler today? Oh yeah. He rode the bus today.",
+                        "zh": "你今天跟乔伊叔叔，还有钱德叔叔玩得开心吗？开心，他今天坐公车了。",
+                        "videoNameZh": "《老友记 第二季》",
+                        "videoNameEn": "《Friends Season 2》",
+                        "url": "http://bisentence_movie.sogou.com/1da4a47e21d5d0b76466e398e4874373_0654d4d2cce3e4c47e9313130ab650104fea10dd"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/3cc7f04bc4e6bde5cc691b286df1a676_37630.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/b94ceb09405ce77bfc3913cf900fb2f7_48276.mp3",
+                        "isLavafox": true,
+                        "en": "Marcel? My <em>uncle</em> Marcel. Oh, is that who the monkey's named after?",
+                        "zh": "马修？我叔叔马修。那猴子是以你叔叔命名？",
+                        "videoNameZh": "《老友记第一季》",
+                        "videoNameEn": "《Friends Season 1》",
+                        "url": "http://bisentence_movie.sogou.com/a191e174f0acf489b0a2b033f3631030_6fc4405f207b2d646a202b318ae3020f5ab0b7b2"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/6a0f1af500949aabdf79e8935d4a7230_22265.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/fe5e2dd08e00ddcf536559576eaee4f5_9979.mp3",
+                        "isLavafox": true,
+                        "en": "So what did he decide? Does your <em>Uncle</em> Nathan get an invite or not?",
+                        "zh": "怎样，请不请你的纳森叔叔？",
+                        "videoNameZh": "《老友记 第四季》",
+                        "videoNameEn": "《Friends Season 4》",
+                        "url": "http://bisentence_movie.sogou.com/b5fa10b1f2e897ab2a3a2872524eba99_344791a8e971ff52bdf25ba4baabf28a3e4a60a2"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/886b76b0c552c22c57062be63cf27261_37722.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/e3eba32bf5d967913715e4722cef9c18_70366.mp3",
+                        "isLavafox": true,
+                        "en": "No. Although, I did have an <em>uncle</em> who voted for Dukakis.",
+                        "zh": "没有，但是我是有个叔叔投票给杜凯吉斯。",
+                        "videoNameZh": "《老友记 第九季》",
+                        "videoNameEn": "《Friends Season 9》",
+                        "url": "http://bisentence_movie.sogou.com/36ec6b1fdb5a41a99feb27da31805989_6bf1138d44186dc0595177b96c5a0e807621341a"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/ae9d6f2f04858f0af8517ff08116148e_6738.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/9c4d311618f09953673f8ef9e42a250d_51149.mp3",
+                        "isLavafox": true,
+                        "en": "<em>Uncle</em> Shawn, my best friend is broken, and you did it.",
+                        "zh": "肖恩叔叔，我最好的朋友变了 都是因为你。",
+                        "videoNameZh": "《女孩成长记 第三季》",
+                        "videoNameEn": "《Girl Meets World Season 3》",
+                        "url": "http://bisentence_movie.sogou.com/67ce183ce9361eb9b7fa7bd396648d99_2a39932cb954371f2fe51a23165fd2f6417f61b3"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/7527e2a9ec38f59ad126037938e4289c_52101.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/030e43b4493f3d580c6af0c3ef014591_51384.mp3",
+                        "isLavafox": true,
+                        "en": "Yeah. Then you did that, and my <em>Uncle</em> Murray looked at me like...",
+                        "zh": "然后你那么做，墨瑞叔叔这样看着我...",
+                        "videoNameZh": "《老友记 第八季》",
+                        "videoNameEn": "《Friends Season 8》",
+                        "url": "http://bisentence_movie.sogou.com/0085c17d00aa83b9206711cf009ba6f5_afc67f444cc9e6f43e26bd60cc44f5c4ad3ea2cb"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/882c4a955031459b92686f70d94deed1_14165.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/32f995ac35b108faedda10f1326f935b_28815.mp3",
+                        "isLavafox": true,
+                        "en": "The Hashshashin were crushed by my <em>uncle</em> Hülegü long before my birth.",
+                        "zh": "哈沙辛人早在我出生之前就被我叔叔旭烈兀消灭了。",
+                        "videoNameZh": "《马可波罗 第一季》",
+                        "videoNameEn": "《Marco Polo Season 1》",
+                        "url": "http://bisentence_movie.sogou.com/0587ba5c5b43d242cb08bc90fa2cd624_98768ca9a9519aeed533ed87817b61d4b1bd1005"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/882c4a955031459b92686f70d94deed1_14165.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/4cc90956c7e28dc962d582d4306d9c2e_42767.mp3",
+                        "isLavafox": true,
+                        "en": "My <em>uncle</em>'s troops were cut off by the spring rains east of Volga.",
+                        "zh": "我叔叔的军队在伏尔加河东部因为春雨的缘故耽误了行程。",
+                        "videoNameZh": "《马可波罗 第一季》",
+                        "videoNameEn": "《Marco Polo Season 1》",
+                        "url": "http://bisentence_movie.sogou.com/ee22877ff95d021c489614ce1765fbc4_e157a121b7ff2ec0d1c924006cb67259790850b4"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/95bf83fa9c39ec4f55b8511dc0c4ed29_55630.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/6d55c751e20fa5f8e998c21a39eef378_20293.mp3",
+                        "isLavafox": true,
+                        "en": "There's <em>Uncle</em> Joey. Hey. Hey, say something to Emma on her 18th birthday.",
+                        "zh": "嗨，来看看乔伊叔叔吧，说句话，给十八岁生日的爱玛吧。",
+                        "videoNameZh": "《老友记 第十季》",
+                        "videoNameEn": "《Friends Season 10》",
+                        "url": "http://bisentence_movie.sogou.com/8ea2926f8e5cc6ffe859c7e722f574fd_60151a9f3125bacc245656629fbf679e82f2f7c9"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/efb46b0d09a0d16595177f67fa563c67_36206.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/7af25383e81ccca0dfe8a9b2eca77199_15106.mp3",
+                        "isLavafox": true,
+                        "en": "Magnifical, <em>Uncle</em> Goat.There will always be a special place for your pizza in my tummy.",
+                        "zh": "伟大的山羊叔叔。你的披萨最适合待的地方是我的胃。",
+                        "videoNameZh": "《100天养成流利口语》",
+                        "videoNameEn": "《Get fluent spoken English in 100 days》",
+                        "url": "http://bisentence_movie.sogou.com/af25aa7f35d24f5ac4da152a72f71563_3591144c9f1265590555c98bccb948dd28976889"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/c46d7e6e303532ade4c487219547642b_35140.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/d39eeccd56d68ca248fca91e688e3e36_68334.mp3",
+                        "isLavafox": true,
+                        "en": "Heather's <em>uncle</em> just arrived. He's with her mom, and her brother's on his way.",
+                        "zh": "Heather的叔叔到了。他在陪她妈妈，她的哥哥也在路上了。",
+                        "videoNameZh": "《实习医生格蕾 第十季》",
+                        "videoNameEn": "《Greys Anatomy Season 10》",
+                        "url": "http://bisentence_movie.sogou.com/a2e08ea11669f2bec3c6d178ef31a4bb_476a9006d23c984efc77bb594196e6ae0d045632"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/882c4a955031459b92686f70d94deed1_14165.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/e2afa40fc099aa5713f865c27947c65d_46088.mp3",
+                        "isLavafox": true,
+                        "en": "Have you made your decision regarding the fate of your father and <em>uncle</em>? No, Lord Kublai.",
+                        "zh": "你决定了吗？如何处置你父亲和你叔叔？还没有，忽必烈大汗。",
+                        "videoNameZh": "《马可波罗 第一季》",
+                        "videoNameEn": "《Marco Polo Season 1》",
+                        "url": "http://bisentence_movie.sogou.com/c1bfa13078475a0c9a2d78435a381b38_9a1b8681ee24e6dba43c483a3c72e54f87837a99"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/aa7a748a86497e02e2b0a5098f3017b8_12619.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/e4fac75b97d878ef256e452892f1cd15_72686.mp3",
+                        "isLavafox": true,
+                        "en": "Oh, yeah yeah, you. Boing! Ha, that's my <em>Uncle</em>, Maya. Sweet, I would be your aunt.",
+                        "zh": "对对对，是。你好。帅！玛雅，那是我叔叔，那敢情好，我要当你姨。",
+                        "videoNameZh": "《女孩成长记 第一季》",
+                        "videoNameEn": "《Girl Meets World Season 1》",
+                        "url": "http://bisentence_movie.sogou.com/84d60b469d485b7c7dfda3cfdb835cf3_3c32a8d8c9eaff89f06b4450166ff127bef93c63"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/5dc3cf8cad26e071498ca907fcc13dc6_46983.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/7b01001291880ca5cef1717879229e1b_14974.mp3",
+                        "isLavafox": true,
+                        "en": "Magnifical, <em>Uncle</em> Goat.There will always be a special place for your pizza in my tummy. Thank you. Ciao. Goodbye.",
+                        "zh": "伟大的山羊叔叔。谢谢。(意大利语的Goodbye)再见。",
+                        "videoNameZh": "《小猪佩奇 第四季》",
+                        "videoNameEn": "《Peppa Pig Season 4》",
+                        "url": "http://bisentence_movie.sogou.com/da957c21f2aaecadb7b8435874a380e4_d032f65b762fb44e87c0ca2c3318dddf1515ec86"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/882c4a955031459b92686f70d94deed1_14165.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/b3d9a9b56fc04a57e216484ffeae5ba9_40615.mp3",
+                        "isLavafox": true,
+                        "en": "Do you accuse my <em>uncle</em>, brother to the Khan, of treason? I only describe what I see, as I saw it.",
+                        "zh": "你是在指控我的叔叔大汗的兄弟有意谋反吗？我只是如实说出我所见的情况。",
+                        "videoNameZh": "《马可波罗 第一季》",
+                        "videoNameEn": "《Marco Polo Season 1》",
+                        "url": "http://bisentence_movie.sogou.com/2d4dc2391867e7fc086d5b2b4631ded1_52cbb0c0ebeb2b843b0040b307b39bf7c264a4a3"
+                    }
+                ]
+            },
+            "pic": "",
+            "voice": {
+                "phonetic": [
+                    {
+                        "text": "ˈʌŋkl",
+                        "type": "uk",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/5858_uncle_uk.mp3"
+                    },
+                    {
+                        "text": "ˈʌŋkl",
+                        "type": "usa",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/5858_uncle_usa.mp3"
+                    }
+                ]
+            },
+            "dictType": "oxford_buchong",
+            "CET6": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 0,
+                        "pos": "n",
+                        "chinese": "伯父; 舅父; 姨夫; 姑父; 叔父",
+                        "sense_tier_ratio": 0
+                    }
+                ],
+                "word": "uncle",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2016.6-2023.6年8年间全六级试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight>考纲释义</highlight>\n精选实考、考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2016-2023年51套试卷，包括阅读、听力、翻译等所有题型。\n\n<highlight>真题例句</highlight>\n精选2016-2023年8年间全六级试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 1,
+                "total_exam_freq": 0,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "synonyms": "",
+                            "en": "the husband of a person's aunt",
+                            "zh": "伯父; 舅父; 姨夫; 姑父; 叔父",
+                            "pos": "n",
+                            "antonyms": ""
+                        }
+                    ]
+                },
+                "exchange_info": {
+                    "word_pl": [
+                        "uncles"
+                    ]
+                }
+            },
+            "CET4": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 0,
+                        "pos": "n",
+                        "chinese": "伯父; 舅父; 姨夫; 姑父; 叔父",
+                        "sense_tier_ratio": 0
+                    }
+                ],
+                "word": "uncle",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2016.6-2023.6年8年间全四级试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight>考纲释义</highlight>\n精选实考、考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2016-2023年51套试卷，包括阅读、听力、翻译等所有题型。\n\n<highlight>真题例句</highlight>\n精选2016-2023年8年间试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 1,
+                "total_exam_freq": 0,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "synonyms": "",
+                            "en": "the husband of a person's aunt",
+                            "zh": "伯父; 舅父; 姨夫; 姑父; 叔父",
+                            "pos": "n",
+                            "antonyms": ""
+                        }
+                    ]
+                },
+                "exchange_info": {
+                    "word_pl": [
+                        "uncles"
+                    ]
+                }
+            },
+            "gaokao": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 3,
+                        "pos": "n",
+                        "chinese": "叔父; 伯父",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "uncle",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2015-2022年8年间全国卷和自主命题省市高考卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2015-2022年全国卷高考试卷，包括阅读、完形、单选、填空、听力、改错、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选各省市考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2015-2022年8年间全国卷和自主命题省市高考卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 1,
+                "total_exam_freq": 3,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "the husband of a person's aunt",
+                            "zh": "叔父; 伯父",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "The admiration and respect his <highlight>uncle</highlight> earned inspired Nielsen to make a career (职业) in acting.",
+                                    "month": -1,
+                                    "source": "浙江卷",
+                                    "coll": "",
+                                    "sentence_trans": "他叔叔所赢得的钦佩和尊重激励尼尔森投身表演事业。",
+                                    "year": 2021,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "He wanted to be like his <highlight>uncle</highlight>.",
+                                    "month": -1,
+                                    "source": "浙江卷",
+                                    "coll": "",
+                                    "sentence_trans": "他想像他叔叔一样。",
+                                    "year": 2021,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "My <highlight>uncle</highlight> tells me that the key to his success is honesty.",
+                                    "month": -1,
+                                    "source": "全国卷1",
+                                    "coll": "",
+                                    "sentence_trans": "我叔叔告诉我，他成功的关键是诚信。",
+                                    "year": 2016,
+                                    "type": "改错",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "exchange_info": {
+                    "word_pl": [
+                        "uncles"
+                    ]
+                }
+            },
+            "zhongkao": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 58,
+                        "pos": "cn",
+                        "chinese": "叔叔; 伯伯; 舅舅; 姑父; 姨父",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "uncle",
+                "direction_info": {
+                    "ranges": 4,
+                    "description": "数据源自2018-2021年4年间全国各省市中考试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2018-2021年全国重点省市中考试卷，包括听力、阅读、完形、单选、填空、改错、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选各省市考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2018-2021年4年间全国各省市中考试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 5,
+                "total_exam_freq": 58,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "叔叔; 伯伯; 舅舅; 姑父; 姨父",
+                            "pos": "cn",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "My <highlight>uncle</highlight> works in a hospital, and he is a doctor.",
+                                    "month": -1,
+                                    "source": "恩施市卷",
+                                    "coll": "",
+                                    "sentence_trans": "我的叔叔在医院工作，他是一名医生。",
+                                    "year": 2021,
+                                    "type": "单项选择",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Last year, he went to visit his <highlight>uncle</highlight> and aunt in Paris.",
+                                    "month": -1,
+                                    "source": "绥化市卷",
+                                    "coll": "",
+                                    "sentence_trans": "去年，他去巴黎拜访了他的叔叔和阿姨。",
+                                    "year": 2021,
+                                    "type": "推理判断",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Dick's teacher was his <highlight>uncle</highlight>.",
+                                    "month": -1,
+                                    "source": "哈尔滨市",
+                                    "coll": "",
+                                    "sentence_trans": "迪克的老师是他的叔叔。",
+                                    "year": 2018,
+                                    "type": "阅读理解C",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            "sentencesData": {
+                "status": 1,
+                "info": "notZh2En",
+                "data": {}
+            },
+            "isAutoMatch": false,
+            "Zh2En": false
+        },
+        "query": "uncle",
+        "result": "叔叔",
+        "tabSelect": "detail",
+        "dictionaryType": "oxford_buchong",
+        "notFound_show": false,
+        "phoneticShow": "",
+        "globalShowTranslateRecord": "",
+        "pronPrefer": {
+            "type": "usa_1",
+            "speaker": "male",
+            "speed": "standard"
+        },
+        "ServerRecord": "",
+        "ServerUIGS": {
+            "version": "new",
+            "type": "all",
+            "stype": "success",
+            "terminal": "web",
+            "fr": "default",
+            "direction": "etoz",
+            "from": "en",
+            "to": "zh-CHS",
+            "len": 5,
+            "qtype": "text",
+            "qctype": "qc_1",
+            "dict_cover": 1,
+            "detail": 1,
+            "wordCardCover": 1,
+            "wordCardEn": 1,
+            "wordCardCh": 0,
+            "wordCardMinor": 0,
+            "wordCardNetmean": 0,
+            "wordDeform": 1,
+            "keyword": 0,
+            "bilingual": 1,
+            "simple": 0,
+            "levelList": 1,
+            "synonym": 1,
+            "antonym": 1,
+            "conjugate": 0,
+            "rootaffix": 0,
+            "baike_sogou": 0,
+            "baike_wiki": 0,
+            "wordDifference": 0,
+            "word_phrase": 1,
+            "secondQuery": 0,
+            "dict_oxford": 0,
+            "dict_newcentury": 0,
+            "zhongkaotab": 1,
+            "gaokaotab": 1,
+            "CET4tab": 1,
+            "CET6tab": 1,
+            "kaoyantab": 0,
+            "network_tab": 0,
+            "yinying_tab": 1,
+            "tuozhan_tab": 0,
+            "one_pic": 0,
+            "more_pic": 0,
+            "no_pic": 0,
+            "uuid": "960eaca8-13de-45c7-9922-afd3e8ed2f1d",
+            "from_type": 0,
+            "t_trans_ssr": 134
+        },
+        "ServerModelUIGS": {
+            "terminal": "web",
+            "type": "trans_model",
+            "pbtype": "pv",
+            "model_general": 1,
+            "model_medical": 1,
+            "model_finance": 1
+        },
+        "ServerSgtkn": "64F2913B93533C959F98B724DB85C59E9F064BBE67552A53",
+        "suggShow": false,
+        "suggestion": "",
+        "suggDirection": "",
+        "usualTop": "",
+        "baseDict": "",
+        "wordCardClick": false,
+        "isFrInput": false,
+        "kanaTips": {
+            "show": false,
+            "left": "",
+            "top": "",
+            "type": "",
+            "arrowLeft": ""
+        },
+        "currSentenceIndex": -1,
+        "prefixStrObj": {
+            "prefixStr": "",
+            "oriPrefixStr": ""
+        },
+        "selectTransBox": {
+            "show": false,
+            "right": 0,
+            "top": 0,
+            "paraphraseInfo": {
+                "word": "",
+                "from": "",
+                "to": "",
+                "area": ""
+            }
+        },
+        "sentenceLoading": false,
+        "newSentenceInfo": {
+            "sentence": "",
+            "candidateIndex": 0
+        },
+        "moreTipInfo": {
+            "opacity": 0,
+            "zIndex": -1
+        },
+        "paraphraseShowInfo": {
+            "card": 0,
+            "query": "",
+            "card_dict": 0
+        },
+        "selectType": "",
+        "wordPos": 0,
+        "candidateWord": "",
+        "syntaxVisible": false,
+        "syntaxStatus": 0
+    },
+    "language": {
+        "from": "auto",
+        "to": "zh-CHS",
+        "detect": "en",
+        "model": "general",
+        "detectShow": false,
+        "langMap": {
+            "current": ""
+        },
+        "zh2en": false,
+        "fromItemList": [
+            {
+                "lang": "auto",
+                "text": "自动检测",
+                "play": false
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "th",
+                "text": "泰语",
+                "play": true,
+                "abbr": "泰"
+            },
+            {
+                "lang": "fr",
+                "text": "法语",
+                "play": true,
+                "abbr": "法"
+            },
+            {
+                "lang": "vi",
+                "text": "越南语",
+                "play": true,
+                "abbr": "越"
+            }
+        ],
+        "toItemList": [
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "ru",
+                "text": "俄语",
+                "play": true,
+                "abbr": "俄"
+            },
+            {
+                "lang": "fr",
+                "text": "法语",
+                "play": true,
+                "abbr": "法"
+            },
+            {
+                "lang": "vi",
+                "text": "越南语",
+                "play": true,
+                "abbr": "越"
+            }
+        ]
+    },
+    "voice": {
+        "from": {
+            "lang": "en",
+            "type": "from",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22uncle%22%2C%22spokenDialect%22%3A%22en%22%2C%22rate%22%3A%220.8%22%7D",
+            "list": [
+                {
+                    "type": "uk_0",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "ˈʌŋkl",
+                    "abbr": "英",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/5858_uncle_uk.mp3"
+                },
+                {
+                    "type": "usa_1",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "ˈʌŋkl",
+                    "abbr": "美",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/5858_uncle_usa.mp3"
+                }
+            ],
+            "stype": "phonetic",
+            "phoneticShow": [
+                {
+                    "text": "ˈʌŋkl",
+                    "type": "uk",
+                    "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/5858_uncle_uk.mp3"
+                }
+            ]
+        },
+        "to": {
+            "lang": "zh",
+            "type": "to",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22%E5%8F%94%E5%8F%94%22%2C%22spokenDialect%22%3A%22zh-CHS%22%2C%22rate%22%3A%220.8%22%7D",
+            "stype": "normal"
+        }
+    }
+}

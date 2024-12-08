@@ -1,0 +1,1491 @@
+{
+    "route": {
+        "name": "text",
+        "path": "/text",
+        "hash": "",
+        "query": {
+            "keyword": "movie",
+            "transfrom": "auto",
+            "transto": "zh-CHS",
+            "model": "general",
+            "errcode": "s10"
+        },
+        "params": {},
+        "fullPath": "/text?keyword=movie&transfrom=auto&transto=zh-CHS&model=general&errcode=s10",
+        "meta": {
+            "mtype": [
+                "textTranslate",
+                "language",
+                "voice"
+            ]
+        },
+        "from": {
+            "name": null,
+            "path": "/",
+            "hash": "",
+            "query": {},
+            "params": {},
+            "fullPath": "/",
+            "meta": {}
+        }
+    },
+    "common": {
+        "CONFIG": {
+            "wuid": 1733634023935,
+            "loginInfo": {},
+            "isIE": 0,
+            "isHitSsrSwitch": true,
+            "isHitWritebookSwitch": false,
+            "isHitAmsSwitch": true,
+            "promotionList": "{\n    \"pc_bottom\":{\n        \"imgsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\",\n        \"qcsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\"\n    },\n    \"pc_middle\":[\n        {\n            \"src\":\"//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c\",\n            \"bgColor\":\"#ffffff\",\n            \"link\":\"\"\n        }\n    ],\n    \"pc_survey\":{\n        \"icon\":\"//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750\",\n        \"link\":\"https://wj.qq.com/s2/8193148/806d/\"\n    }\n}",
+            "bannerData": [],
+            "isHitAsideSurvey": false,
+            "secretCode": 109984457,
+            "uuid": "5a9073c4-3763-43ee-bfa6-a5db8d092f90",
+            "referer": "",
+            "approveToken": "64F004EB23EA872D26200D9D060FEE1626B8DD0F675527E7",
+            "loadTime": 1733634023937,
+            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0",
+            "fcp": "31.223.184.69",
+            "temporaryId": "",
+            "fileId": ""
+        },
+        "hotWords": [],
+        "isFromCollect": false,
+        "psdModify": {
+            "currentStep": 1,
+            "scode": "",
+            "username": ""
+        },
+        "loginStatus": true,
+        "feedBackModule": false,
+        "showPromotionPopup": {
+            "show": false,
+            "type": ""
+        },
+        "showPromotionPCDownload": false,
+        "showShareBomb": false,
+        "shareData": null,
+        "showAppDownLoad": false,
+        "showLoginDialog": false,
+        "showLoading": {
+            "show": false
+        },
+        "toast": {
+            "show": false,
+            "text": "",
+            "loading": false
+        },
+        "modelToast": {
+            "show": false,
+            "text": ""
+        },
+        "selectionGlobalShow": true,
+        "selectionInfo": {
+            "left": 0,
+            "top": 0,
+            "show": false,
+            "from": "",
+            "to": "",
+            "val": "",
+            "area": ""
+        },
+        "showConfirmDialog": false,
+        "promotionList": {
+            "pc_bottom": {
+                "imgsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png",
+                "qcsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png"
+            },
+            "pc_middle": [
+                {
+                    "src": "//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c",
+                    "bgColor": "#ffffff",
+                    "link": ""
+                }
+            ],
+            "pc_survey": {
+                "icon": "//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750",
+                "link": "https://wj.qq.com/s2/8193148/806d/"
+            }
+        },
+        "transTypeTxt": "text",
+        "fixedTabStatus": 0,
+        "bodyTop": 0,
+        "ifHideUserOperation": false
+    },
+    "textTranslate": {
+        "prevTransQuery": "",
+        "translateData": {
+            "translate": {
+                "zly": "zly",
+                "errorCode": "0",
+                "qc_type": "1",
+                "index": "content0",
+                "from": "en",
+                "source": "sogou",
+                "text": "movie",
+                "to": "zh-CHS",
+                "id": "5a9073c4-3763-43ee-bfa6-a5db8d092f90",
+                "dit": "电影",
+                "orig_text": "movie",
+                "md5": ""
+            },
+            "detect": {
+                "zly": "zly",
+                "detect": "en",
+                "errorCode": "0",
+                "language": "英语",
+                "id": "552dd530-b521-11ef-9d86-8bbb0b8cafc4",
+                "text": "movie"
+            },
+            "sgtkn": "64F004F023EA872D26200D9D060FEE1626B8DD0F675527E7",
+            "wordCard": {
+                "title": "movie",
+                "show": true,
+                "usualDict": [
+                    {
+                        "values": [
+                            "电影；影片；影戏；电影作品；电影业；银幕作品；放映影片；电影艺术；电影院"
+                        ],
+                        "pos": "n."
+                    }
+                ],
+                "secondQuery": "",
+                "exchange": {
+                    "word_pl": [
+                        "movies"
+                    ]
+                },
+                "levelList": [
+                    "小学",
+                    "初中",
+                    "高中",
+                    "四级",
+                    "六级",
+                    "考研"
+                ]
+            },
+            "detail": {
+                "synonym": [
+                    {
+                        "word_list": [
+                            "film",
+                            "cinema",
+                            "theater"
+                        ],
+                        "pos": "n.",
+                        "mean": "电影；电影院；电影业"
+                    },
+                    {
+                        "word_list": [
+                            "motion-picture",
+                            "cinematic"
+                        ],
+                        "pos": "adj.",
+                        "mean": "电影的"
+                    }
+                ],
+                "affix": {
+                    "word": "movie",
+                    "sub_affix_info_list": [
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "move",
+                                            "mean": "v. 动；移动；改变位置；改变状态；进展；发展；在…中进行社交活动；动议；提议；使（肠）排空"
+                                        },
+                                        {
+                                            "word": "remove",
+                                            "mean": "v. 去掉；除去；废除；取消；远离；隔代的；隔亲的；除掉；转移；调动"
+                                        }
+                                    ],
+                                    "derivatives": "mot, mob",
+                                    "affix_sense_chinese": "运动(=move)",
+                                    "affix_type": "stem"
+                                }
+                            ],
+                            "affix": "mov",
+                            "affix_mean": "运动"
+                        },
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "表示与...有关的人或物",
+                                    "affix_type": "suffix"
+                                }
+                            ],
+                            "affix": "-ie",
+                            "affix_mean": "名词后缀"
+                        }
+                    ],
+                    "word_mean": "n. 电影"
+                },
+                "wordRootInfo": {
+                    "word_info_list": [
+                        {
+                            "word": "moviegoer",
+                            "pos_mean_info_list": [
+                                {
+                                    "pos": "n.",
+                                    "mean": "常看电影的人"
+                                }
+                            ]
+                        }
+                    ],
+                    "root_word": "movie"
+                },
+                "word_difference_info": [
+                    {
+                        "common_mean": "电影",
+                        "word_list": [
+                            "picture",
+                            " film",
+                            " cinema",
+                            " movie"
+                        ],
+                        "word_mean_info__list": [
+                            {
+                                "difference": "从原义指银幕或电视屏幕上的图像引申指影片。",
+                                "word": "picture"
+                            },
+                            {
+                                "difference": "指电影、影片，普通用词。",
+                                "word": "film"
+                            },
+                            {
+                                "difference": "与the连用指(上映的)电影，电影工业；可指电影院；在英国与the连用还可指电影艺术。",
+                                "word": "cinema"
+                            },
+                            {
+                                "difference": "美国英语中的口语用词。",
+                                "word": "movie"
+                            }
+                        ]
+                    }
+                ],
+                "word_group": [
+                    {
+                        "brief_definition": "看电影",
+                        "phrase": "go to a movie",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "动作电影；动作片；武打电影",
+                        "phrase": "action movie",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "电影剧场；电影剧院；电影院",
+                        "phrase": "movie theater",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "电影票",
+                        "phrase": "movie ticket",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "看电影",
+                        "phrase": "watch movie",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "恐怖电影",
+                        "phrase": "scary movie",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "科幻电影",
+                        "phrase": "science movie",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "短片",
+                        "phrase": "short movie",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "电影院",
+                        "phrase": "movie theatre",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "恐怖电影；恐怖影片；恐怖片",
+                        "phrase": "horror movie",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "自制的电影；没有专业设备制成的电影",
+                        "phrase": "home movie",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "旅途电影",
+                        "phrase": "road movie",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "友情片",
+                        "phrase": "buddy movie",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "色情影片；凶杀纪实录像",
+                        "phrase": "snuff movie",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "电影明星；影星",
+                        "phrase": "movie star",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "看电影；看看电影；看场电影",
+                        "phrase": "see a movie",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "最喜欢的电影；最受欢迎的电影",
+                        "phrase": "favorite movie",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "好电影",
+                        "phrase": "good movie",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "好莱坞电影",
+                        "phrase": "hollywood movie",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "电影海报；影片海报",
+                        "phrase": "movie poster",
+                        "pos": ""
+                    }
+                ],
+                "bilingual": [
+                    {
+                        "source": "We watched a <em>movie</em> at the cinema.",
+                        "target": "我们在电影院看了电影。",
+                        "url": ""
+                    },
+                    {
+                        "source": "The <em>movie</em> is very long.",
+                        "target": "电影很长。",
+                        "url": ""
+                    },
+                    {
+                        "source": "I haven't seen a <em>movie</em>.",
+                        "target": "我没看过电影。",
+                        "url": ""
+                    },
+                    {
+                        "source": "I like watching a <em>movie</em>.",
+                        "target": "我喜欢看电影。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Did you see the <em>movie</em>?",
+                        "target": "你看那部电影了吗？",
+                        "url": ""
+                    },
+                    {
+                        "source": "I want to watch a <em>movie</em>.",
+                        "target": "我想看一部电影。",
+                        "url": ""
+                    },
+                    {
+                        "source": "<em>Movie</em> City is the most expensive cinema in town.",
+                        "target": "电影城是镇上最贵的电影院。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Here come the <em>movie</em> actors.",
+                        "target": "电影演员来了。",
+                        "url": ""
+                    },
+                    {
+                        "source": "The <em>movie</em> theater is closed.",
+                        "target": "电影院关门了。",
+                        "url": ""
+                    },
+                    {
+                        "source": "I went to the <em>movie</em> theater.",
+                        "target": "我去了电影院。",
+                        "url": ""
+                    }
+                ],
+                "baike": {
+                    "showMore": false,
+                    "list": [
+                        {
+                            "lemmaTitle": "movie",
+                            "link": "https://baike.sogou.com/v63071264.htm?ch=sogou.fanyi",
+                            "abstract": "movie，A sequence of photographs projected onto a screen with sufficient rapidity as to create the illusion of motion and continuity.",
+                            "wapPic": "",
+                            "pcPic": ""
+                        },
+                        {
+                            "lemmaTitle": "movie",
+                            "link": "https://baike.sogou.com/v164348586.htm?ch=sogou.fanyi",
+                            "abstract": "《movie》是由郑镒勋、李旼赫、Peniel、아이엘(IL)作词，郑镒勋、아이엘(IL)作曲，BTOB- (비투비)演唱的一首歌曲，收录于专辑《Feel`eM》中。",
+                            "wapPic": "//img03.sogoucdn.com/v2/thumb/retype_exclude_gif/ext/auto/q/80/crop/xy/ai/w/140/h/140/resize/w/140?appid=201005&sign=a08a76e0cfc967240e29a9c216b637ff&url=http%3A%2F%2Fpic.baike.soso.com%2Fugc%2Fbaikepic2%2F26074%2F20190917012840-791154635_jpeg_468_422_32476.jpg%2F0",
+                            "pcPic": "//img03.sogoucdn.com/v2/thumb/retype_exclude_gif/ext/auto/q/80/crop/xy/ai/w/140/h/140/resize/w/140?appid=201005&sign=a08a76e0cfc967240e29a9c216b637ff&url=http%3A%2F%2Fpic.baike.soso.com%2Fugc%2Fbaikepic2%2F26074%2F20190917012840-791154635_jpeg_468_422_32476.jpg%2F0"
+                        }
+                    ]
+                }
+            },
+            "book": {
+                "yingyinNormal": [
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/c3652a60f61ce63a5e9067648ae2439c_44092.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/4f75156a5c434cf545b0bd4ba149d178_34279.mp3",
+                        "isLavafox": true,
+                        "en": "Oh, what a great <em>movie</em>.",
+                        "zh": "这电影真棒。",
+                        "videoNameZh": "《生活大爆炸 第五季》",
+                        "videoNameEn": "《The Big Bang Theory Season 5》",
+                        "url": "http://bisentence_movie.sogou.com/96b81786c0db6b0221a6cc2a6b525135_a55aa6f4613d5187a56356707182162def0f996f"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/345831827db23c6dca86447206da99f3_25724.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/2389f754737644df2a65e8ffda0379c3_40366.mp3",
+                        "isLavafox": true,
+                        "en": "I'm kinda liking this <em>movie</em>.",
+                        "zh": "我还挺喜欢这部电影的呢。",
+                        "videoNameZh": "《女孩成长记 第二季》",
+                        "videoNameEn": "《Girl Meets World Season 2》",
+                        "url": "http://bisentence_movie.sogou.com/ccb9d7f9033cd852902eee876da48872_1f35c3d2f8aca548bc1800d19d1b9e0909d1b909"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/7eb0bec9540cbb2c5939554caf885c99_49670.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/f18a55755e30e393fef3f26a01b2e503_52543.mp3",
+                        "isLavafox": true,
+                        "en": "We could eat after the <em>movie</em>.",
+                        "zh": "我们可以看完电影再吃晚饭。",
+                        "videoNameZh": "《生活大爆炸 第二季》",
+                        "videoNameEn": "《The Big Bang Theory Season 2》",
+                        "url": "http://bisentence_movie.sogou.com/b454219353522cda90a32ea4a9ddec26_0d4e86b548c664a49cc100feefe95396cbd90764"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/886b76b0c552c22c57062be63cf27261_37722.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/43be4c56669b1dbe043026584d6f3d4c_64834.mp3",
+                        "isLavafox": true,
+                        "en": "Hang up! And that was a great <em>movie</em>.",
+                        "zh": "挂掉！那是部好电影。",
+                        "videoNameZh": "《老友记 第九季》",
+                        "videoNameEn": "《Friends Season 9》",
+                        "url": "http://bisentence_movie.sogou.com/0b121185c1833deb47ef6049e79007d1_629553a87367239fce318d0858409fd7c7673014"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/ddeda38701415f391059f60a14ca0ada_53507.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/ea4117b3cd43891a3daad90e974cdc51_75270.mp3",
+                        "isLavafox": true,
+                        "en": "We brought snacks for <em>movie</em> night.",
+                        "zh": "电影之夜我们带零食来了。",
+                        "videoNameZh": "《生活大爆炸 第八季》",
+                        "videoNameEn": "《The Big Bang Theory Season 8》",
+                        "url": "http://bisentence_movie.sogou.com/31f20127efa0cb0488a80be5b5f4d49c_2ca50f1b393934e5b9b703ee75d6afa05d7e3a15"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/e574772298d86ce4760490f82f7d97cd_58042.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/5f15f958e9ca7391e441554c0128d600_32763.mp3",
+                        "isLavafox": true,
+                        "en": "Heaven and earth? Like in the <em>movie</em>? What?",
+                        "zh": "赴汤蹈火？跟电影里那样？什么？",
+                        "videoNameZh": "《寻梦环游记》",
+                        "videoNameEn": "《Coco》",
+                        "url": "http://bisentence_movie.sogou.com/7649803338ab0dc92380fc790b8e995f_aa8d01d40007ca3695a02ec8bdd9b7d9dc354eff"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/39e50807a5a1191398262e04787ff184_62485.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/6c2cefd6a0267e8fc1cb6e7748d9604b_41341.mp3",
+                        "isLavafox": true,
+                        "en": "Well, if that was <em>movie</em>, I would go see it.",
+                        "zh": "如果真拍成了电影，我会去看的。",
+                        "videoNameZh": "《生活大爆炸 第一季》",
+                        "videoNameEn": "《The Big Bang Theory Season 1》",
+                        "url": "http://bisentence_movie.sogou.com/68f370e4d1ef26ba61e147551a2acb6e_4b6d9f6cfa39493c36ee0229afef3ca1e5284e7c"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/b630caafa2606557856da7a333933a5d_54182.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/7c314144c98f434cd8e9308cb28ce277_21440.mp3",
+                        "isLavafox": true,
+                        "en": "This <em>movie</em> baffles me every time we watch it.",
+                        "zh": "每次看这部电影，我都很困惑。",
+                        "videoNameZh": "《生活大爆炸 第三季》",
+                        "videoNameEn": "《The Big Bang Theory Season 3》",
+                        "url": "http://bisentence_movie.sogou.com/ade4175cc0bc79c31d8b0db8605e2e37_71b402ed5f8840a2747b526154af5bacc984c100"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/65861602801590fdaf378b1d1c997a40_10433.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/81752ed1bb06f56cf8cf5ba1a39c06f0_8816.mp3",
+                        "isLavafox": true,
+                        "en": "So you don't get paid unless the <em>movie</em> makes money?",
+                        "zh": "所以电影赚钱你才有钱拿？",
+                        "videoNameZh": "《老友记 第五季》",
+                        "videoNameEn": "《Friends Season 5》",
+                        "url": "http://bisentence_movie.sogou.com/d8ffe041d744d0398f677d1f7d49e64d_224e6564fada8454c3cdd240c6086f8fce13aa00"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/3bccca9abe5ab96bd7f3eaed6bd40cf2_52899.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/b4cf7db62c81effef3842eb7c067327a_8805.mp3",
+                        "isLavafox": true,
+                        "en": "Oh. Well then way to go, you big <em>movie</em> star.",
+                        "zh": "喔，那么你去吧，你这个电影明星！",
+                        "videoNameZh": "《老友记 第七季》",
+                        "videoNameEn": "《Friends Season 7》",
+                        "url": "http://bisentence_movie.sogou.com/0191e979e7d621c6d6126cb1adf8a665_37db36bb36729f4994bef5601cf183714bf71773"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/69e52acd9e09b6a2ed378507a165e971_14638.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/3bfccd4a767a6245f39d5c8d2594746a_44650.mp3",
+                        "isLavafox": true,
+                        "en": "How was the <em>movie</em>? Uh, missable, literally.",
+                        "zh": "电影怎么样？应该说，没去成我...",
+                        "videoNameZh": "《绯闻女孩 第一季》",
+                        "videoNameEn": "《Gossip Girl Season 1》",
+                        "url": "http://bisentence_movie.sogou.com/4a482083d02d275238b619a65435235d_39d5e92786d4ad2c098bf0b6d80ae65fd7d7b889"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/8b3da16ecbe350aacc1a7e4a01d210bc_49869.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/8ddc4428bb9a14368c6541d130bb4ef1_24905.mp3",
+                        "isLavafox": true,
+                        "en": "Did they make a <em>movie</em> about it? No. Then no.",
+                        "zh": "有拍电影出来吗？没有。那我不了解。",
+                        "videoNameZh": "《生活大爆炸 第四季》",
+                        "videoNameEn": "《The Big Bang Theory Season 4》",
+                        "url": "http://bisentence_movie.sogou.com/e3ea3f7efb064218df78dcdac9f459ef_4be3855e18df89723d64dd3d336597c12372fc8f"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/7527e2a9ec38f59ad126037938e4289c_52101.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/ca27f68a2dac75e51d01356a7e580c61_56450.mp3",
+                        "isLavafox": true,
+                        "en": "I haven't seen this dress. Star in a <em>movie</em>.",
+                        "zh": "我还没有看过这套礼服。去看电影明星吧。",
+                        "videoNameZh": "《老友记 第八季》",
+                        "videoNameEn": "《Friends Season 8》",
+                        "url": "http://bisentence_movie.sogou.com/7d80ad7dd009c543fda10d98991c315c_8f0c05e0740a0143cc08158ec6af7bb917409026"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/2b691cbbc68f38da3e9c04c368f545b3_2546.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/bc916f0e738b291d53f60fef5cdf398c_60468.mp3",
+                        "isLavafox": true,
+                        "en": "Sure. Great, we can finish watching the <em>movie</em>.",
+                        "zh": "当然。太好了，我们可以接着把电影看完。",
+                        "videoNameZh": "《如晴天，似雨天》",
+                        "videoNameEn": "《Like Sunday, Like Rain》",
+                        "url": "http://bisentence_movie.sogou.com/657c88cb903a01ece83992c6993870ca_a91ca02cd227845d2a294a2258966957e360ce60"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/dfdc97c7eab31e173bc0bccd4824440f_23407.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/305bb579112d50de7d5c14e2d45a426e_69096.mp3",
+                        "isLavafox": true,
+                        "en": "Sheldon, you can see this <em>movie</em> whenever you want.",
+                        "zh": "谢尔顿，你有数不清的时间能看这电影。",
+                        "videoNameZh": "《生活大爆炸 第九季》",
+                        "videoNameEn": "《The Big Bang Theory Season 9》",
+                        "url": "http://bisentence_movie.sogou.com/26840ab519e1ca8d5edf2de04e0e4fd8_d2c8825a5220b4a447eb3683a14628964cc8f29c"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/dfdc97c7eab31e173bc0bccd4824440f_23407.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/81b2325dbfe8a08c5b7278467176b80c_23076.mp3",
+                        "isLavafox": true,
+                        "en": "Okay, we saw them. Can we go catch the <em>movie</em>?",
+                        "zh": "好了，我们看见他们了，我们可以去看电影了吗？",
+                        "videoNameZh": "《生活大爆炸 第九季》",
+                        "videoNameEn": "《The Big Bang Theory Season 9》",
+                        "url": "http://bisentence_movie.sogou.com/3ff979b81939b3b1a9ec3867be2edbae_c696a56530baf29df83268c90b7502d071602f48"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/39e50807a5a1191398262e04787ff184_62485.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/fdcf9397ac9e8fb3e2ac46de6e0e7cfe_17225.mp3",
+                        "isLavafox": true,
+                        "en": "You know, like in the classic sci-fi <em>movie</em> scanners.",
+                        "zh": "就像那种经典的高科技电影里的扫描器。",
+                        "videoNameZh": "《生活大爆炸 第一季》",
+                        "videoNameEn": "《The Big Bang Theory Season 1》",
+                        "url": "http://bisentence_movie.sogou.com/65cca8e5f2c2c14c066a382e0125bd44_35eed27c0da305432f76bd160d909a427045c711"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/8b3da16ecbe350aacc1a7e4a01d210bc_49869.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/1be92ac756bd963c7ba8d3b7c56c00cd_65768.mp3",
+                        "isLavafox": true,
+                        "en": "Relax, it's 5:00. The <em>movie</em> doesn't start till midnight.",
+                        "zh": "淡定，现在才5点，电影12点才开始。",
+                        "videoNameZh": "《生活大爆炸 第四季》",
+                        "videoNameEn": "《The Big Bang Theory Season 4》",
+                        "url": "http://bisentence_movie.sogou.com/68cfb9c0bcbe3cc795f43663c489ab67_d1760a061f88f644920904b988047699ad18bf9e"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/b630caafa2606557856da7a333933a5d_54182.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/d109d00f1fcd3ebf0de9740f06f8a005_51951.mp3",
+                        "isLavafox": true,
+                        "en": "I missed Comic Con and the new Star Trek <em>movie</em>!",
+                        "zh": "我错过了动漫展，连新的《星际迷航》电影也错过啦！",
+                        "videoNameZh": "《生活大爆炸 第三季》",
+                        "videoNameEn": "《The Big Bang Theory Season 3》",
+                        "url": "http://bisentence_movie.sogou.com/bcc8d3482a1b8b19e6fdafc7d2a32afd_57dc45ed67bda01979afd725fea7237026f170b5"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/65861602801590fdaf378b1d1c997a40_10433.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/eae011398cee30244c43460a4e688890_10181.mp3",
+                        "isLavafox": true,
+                        "en": "You got the lead in a <em>movie</em>? That's amazing. What's the <em>movie</em> about?",
+                        "zh": "你要演电影主角，太厉害了。是什么电影？",
+                        "videoNameZh": "《老友记 第五季》",
+                        "videoNameEn": "《Friends Season 5》",
+                        "url": "http://bisentence_movie.sogou.com/1ed3f9063af7044869cdddde185fe9fc_bd3f9d0e7ac427264e049918fbff3f0b5e0dcdd0"
+                    }
+                ]
+            },
+            "pic": "",
+            "voice": {
+                "phonetic": [
+                    {
+                        "text": "ˈmuːvi",
+                        "type": "uk",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/3250_movie_uk.mp3"
+                    },
+                    {
+                        "text": "ˈmuːvi",
+                        "type": "usa",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/3250_movie_usa.mp3"
+                    }
+                ]
+            },
+            "dictType": "oxford_buchong",
+            "CET6": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 15,
+                        "pos": "n",
+                        "chinese": "电影; 影片",
+                        "sense_tier_ratio": 93.75
+                    },
+                    {
+                        "sense_tier": 1,
+                        "pos": "n",
+                        "chinese": "(the ~s)影院",
+                        "sense_tier_ratio": 6.25
+                    }
+                ],
+                "word": "movie",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2016.6-2023.6年8年间全六级试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight>考纲释义</highlight>\n精选实考、考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2016-2023年51套试卷，包括阅读、听力、翻译等所有题型。\n\n<highlight>真题例句</highlight>\n精选2016-2023年8年间全六级试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 4,
+                "total_exam_freq": 16,
+                "sense": {
+                    "sense_num": 2,
+                    "sense_info_list": [
+                        {
+                            "en": "a story or event recorded by a camera as a set of moving images and shown in a theater or on television; a motion picture",
+                            "zh": "电影; 影片",
+                            "pos": "n",
+                            "synonyms": "film",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "TV and <highlight>movie</highlight> producers often incorporate an element of bad behavior.",
+                                    "month": 12,
+                                    "source": "CET6",
+                                    "coll": "",
+                                    "sentence_trans": "电视和电影制片人经常包含不良行为的元素。",
+                                    "year": 2021,
+                                    "type": "听力",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "\"The way you pre-sell a <highlight>movie</highlight> in a foreign market is based on relevant talent,\" he says.",
+                                    "month": 6,
+                                    "source": "CET6",
+                                    "coll": "",
+                                    "sentence_trans": "“你在国外市场预售电影的方式是基于相关人才，”他说。",
+                                    "year": 2021,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "In the last five years, it's become more affordable and more achievable in a whole <highlight>movie</highlight>.",
+                                    "month": 6,
+                                    "source": "CET6",
+                                    "coll": "",
+                                    "sentence_trans": "在过去的五年里，在整部电影中，它变得更加实惠、更容易实现。",
+                                    "year": 2021,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                }
+                            ]
+                        },
+                        {
+                            "synonyms": "",
+                            "en": "a movie theater",
+                            "zh": "(the ~s)影院",
+                            "pos": "n",
+                            "antonyms": ""
+                        }
+                    ]
+                },
+                "word_affix": {
+                    "word": "movie",
+                    "sub_affix_info_list": [
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "move",
+                                            "mean": "v. 动；移动；改变位置；改变状态；进展；发展；在…中进行社交活动；动议；提议；使（肠）排空"
+                                        },
+                                        {
+                                            "word": "remove",
+                                            "mean": "v. 去掉；除去；废除；取消；远离；隔代的；隔亲的；除掉；转移；调动"
+                                        }
+                                    ],
+                                    "derivatives": "mot, mob",
+                                    "affix_sense_chinese": "运动(=move)",
+                                    "affix_type": "stem"
+                                }
+                            ],
+                            "affix": "mov",
+                            "affix_mean": "运动"
+                        },
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "表示与...有关的人或物",
+                                    "affix_type": "suffix"
+                                }
+                            ],
+                            "affix": "-ie",
+                            "affix_mean": "名词后缀"
+                        }
+                    ],
+                    "word_mean": "n. 电影"
+                },
+                "disambiguation": [
+                    {
+                        "disambiguation_list": [
+                            {
+                                "word": "cinema",
+                                "sense_disambiguation": "cinema 与 the 连用指(上映的)电影, 电影工业; 可指电影院; 在英国与 the 连用还可指电影艺术。"
+                            },
+                            {
+                                "word": "film",
+                                "sense_disambiguation": "指电影、影片, 普通用词。"
+                            },
+                            {
+                                "word": "movie",
+                                "sense_disambiguation": "指具体的电影作品, the movies 可表示电影院、电影业的总称。"
+                            }
+                        ],
+                        "sense_group": "电影"
+                    }
+                ],
+                "exchange_info": {
+                    "word_pl": [
+                        "movies"
+                    ]
+                }
+            },
+            "CET4": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 21,
+                        "pos": "n",
+                        "chinese": "电影; 影片",
+                        "sense_tier_ratio": 80.77
+                    },
+                    {
+                        "sense_tier": 5,
+                        "pos": "n",
+                        "chinese": "(the ~s)影院",
+                        "sense_tier_ratio": 19.23
+                    }
+                ],
+                "word": "movie",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2016.6-2023.6年8年间全四级试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight>考纲释义</highlight>\n精选实考、考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2016-2023年51套试卷，包括阅读、听力、翻译等所有题型。\n\n<highlight>真题例句</highlight>\n精选2016-2023年8年间试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 5,
+                "total_exam_freq": 26,
+                "sense": {
+                    "sense_num": 2,
+                    "sense_info_list": [
+                        {
+                            "en": "a story or event recorded by a camera as a set of moving images and shown in a theater or on television; a motion picture",
+                            "zh": "电影; 影片",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "It was a major\"Ah-ha!\"moment, and a wave of other manufacturers jumped on board to capitalize on new TV shows and <highlight>movies</highlight>.",
+                                    "month": 12,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "这是一个重大的“啊哈”瞬间，又有一波其他厂商跳上船，利用新的电视节目和电影获利。",
+                                    "year": 2020,
+                                    "type": "阅读理解B",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Volunteers prefer watching a boring <highlight>movie</highlight> to sitting alone deliberating.",
+                                    "month": 12,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "志愿者更喜欢看无聊的电影，而不是坐着独自思考。",
+                                    "year": 2020,
+                                    "type": "阅读理解C",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "We keep pace with the <highlight>movie</highlight> industries so we can predict which characters are going to be popular for the coming months.",
+                                    "month": 12,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "我们与电影行业保持同步，这样我们就可以预测未来几个月哪些角色会受欢迎。",
+                                    "year": 2020,
+                                    "type": "阅读理解B",
+                                    "day": -1
+                                }
+                            ]
+                        },
+                        {
+                            "en": "a movie theater",
+                            "zh": "(the ~s)影院",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "70 percent of 8th and 10th grade students used to go to the <highlight>movies</highlight> once a month or more.",
+                                    "month": 12,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "70%的初二年级和高一年级学生过去一个月看一次或更多的电影。",
+                                    "year": 2021,
+                                    "type": "阅读理解B",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Picture this: You're at a <highlight>movie</highlight> theater food stand loading up on snacks.",
+                                    "month": 12,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "想象一下：你在电影院的食品摊上装满零食。",
+                                    "year": 2020,
+                                    "type": "阅读理解C",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Why does the author ask us to imagine buying food in the <highlight>movie</highlight> theater?",
+                                    "month": 12,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "为什么作者让我们想象在电影院买食物？",
+                                    "year": 2020,
+                                    "type": "阅读理解C",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "word_affix": {
+                    "word": "movie",
+                    "sub_affix_info_list": [
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "move",
+                                            "mean": "v. 动；移动；改变位置；改变状态；进展；发展；在…中进行社交活动；动议；提议；使（肠）排空"
+                                        },
+                                        {
+                                            "word": "remove",
+                                            "mean": "v. 去掉；除去；废除；取消；远离；隔代的；隔亲的；除掉；转移；调动"
+                                        }
+                                    ],
+                                    "derivatives": "mot, mob",
+                                    "affix_sense_chinese": "运动(=move)",
+                                    "affix_type": "stem"
+                                }
+                            ],
+                            "affix": "mov",
+                            "affix_mean": "运动"
+                        },
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "表示与...有关的人或物",
+                                    "affix_type": "suffix"
+                                }
+                            ],
+                            "affix": "-ie",
+                            "affix_mean": "名词后缀"
+                        }
+                    ],
+                    "word_mean": "n. 电影"
+                },
+                "disambiguation": [
+                    {
+                        "disambiguation_list": [
+                            {
+                                "word": "cinema",
+                                "sense_disambiguation": "cinema 与 the 连用指(上映的)电影，电影工业; 可指电影院; 在英国与 the 连用还可指电影艺术。"
+                            },
+                            {
+                                "word": "film",
+                                "sense_disambiguation": "指电影、影片，普通用词。"
+                            },
+                            {
+                                "word": "movie",
+                                "sense_disambiguation": "指具体的电影作品，the movies 可表示电影院、电影业的总称。"
+                            }
+                        ],
+                        "sense_group": "电影"
+                    }
+                ],
+                "exchange_info": {
+                    "word_pl": [
+                        "movies"
+                    ]
+                }
+            },
+            "gaokao": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 24,
+                        "pos": "cn",
+                        "chinese": "电影",
+                        "sense_tier_ratio": 100
+                    },
+                    {
+                        "sense_tier": 0,
+                        "pos": "n",
+                        "chinese": "(the ~s)电影业",
+                        "sense_tier_ratio": 0
+                    }
+                ],
+                "word": "movie",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2015-2022年8年间全国卷和自主命题省市高考卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2015-2022年全国卷高考试卷，包括阅读、完形、单选、填空、听力、改错、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选各省市考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2015-2022年8年间全国卷和自主命题省市高考卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 5,
+                "total_exam_freq": 24,
+                "sense": {
+                    "sense_num": 2,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "电影",
+                            "pos": "cn",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "He directed some high quality <highlight>movies</highlight>.",
+                                    "month": -1,
+                                    "source": "浙江卷",
+                                    "coll": "",
+                                    "sentence_trans": "他导演了一些高质量的电影。",
+                                    "year": 2021,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "I could not understand the news on television or <highlight>movies</highlight> or anything like this.",
+                                    "month": -1,
+                                    "source": "全国卷1",
+                                    "coll": "",
+                                    "sentence_trans": "我无法理解电视、电影或类似的新闻。",
+                                    "year": 2018,
+                                    "type": "听力",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "The <highlight>movie</highlight> is set in a small town where the only <highlight>movie</highlight> theater is preparing to close down.",
+                                    "month": -1,
+                                    "source": "全国卷3",
+                                    "coll": "",
+                                    "sentence_trans": "这部电影以一个小镇为背景，那里唯一的电影院正准备关闭。",
+                                    "year": 2017,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                }
+                            ]
+                        },
+                        {
+                            "synonyms": "",
+                            "en": "",
+                            "zh": "(the ~s)电影业",
+                            "pos": "n",
+                            "antonyms": ""
+                        }
+                    ]
+                },
+                "word_affix": {
+                    "word": "movie",
+                    "sub_affix_info_list": [
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "move",
+                                            "mean": "v. 动；移动；改变位置；改变状态；进展；发展；在…中进行社交活动；动议；提议；使（肠）排空"
+                                        },
+                                        {
+                                            "word": "remove",
+                                            "mean": "v. 去掉；除去；废除；取消；远离；隔代的；隔亲的；除掉；转移；调动"
+                                        }
+                                    ],
+                                    "derivatives": "mot, mob",
+                                    "affix_sense_chinese": "运动(=move)",
+                                    "affix_type": "stem"
+                                }
+                            ],
+                            "affix": "mov",
+                            "affix_mean": "运动"
+                        },
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "表示与...有关的人或物",
+                                    "affix_type": "suffix"
+                                }
+                            ],
+                            "affix": "-ie",
+                            "affix_mean": "名词后缀"
+                        }
+                    ],
+                    "word_mean": "n. 电影"
+                }
+            },
+            "zhongkao": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 193,
+                        "pos": "cn",
+                        "chinese": "电影",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "movie",
+                "total_exam_freq": 193,
+                "direction_info": {
+                    "ranges": 4,
+                    "description": "数据源自2018-2021年4年间全国各省市中考试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2018-2021年全国重点省市中考试卷，包括听力、阅读、完形、单选、填空、改错、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选各省市考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2018-2021年4年间全国各省市中考试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 5,
+                "word_level_phrase_info": [
+                    {
+                        "brief_definition": "看电影",
+                        "phrase": "go to a movie",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "动作电影；动作片；武打电影",
+                        "phrase": "action movie",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "电影剧场；电影剧院；电影院",
+                        "phrase": "movie theater",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "电影票",
+                        "phrase": "movie ticket",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "恐怖电影",
+                        "phrase": "scary movie",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "科幻电影",
+                        "phrase": "science movie",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "短片",
+                        "phrase": "short movie",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "看电影",
+                        "phrase": "watch movie",
+                        "pos": ""
+                    }
+                ],
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "电影",
+                            "pos": "cn",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "Could you tell me what kind of <highlight>movies</highlight> you like best?",
+                                    "month": -1,
+                                    "source": "达州市卷",
+                                    "coll": "",
+                                    "sentence_trans": "你能告诉我你最喜欢哪种电影吗？",
+                                    "year": 2021,
+                                    "type": "单项选择",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Which <highlight>movie</highlight> will you choose if you are interested in Christmas?",
+                                    "month": -1,
+                                    "source": "自贡市卷",
+                                    "coll": "",
+                                    "sentence_trans": "如果你对圣诞节感兴趣，你会选择哪部电影？",
+                                    "year": 2021,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Have you ever wanted to be in the <highlight>movies</highlight>?",
+                                    "month": -1,
+                                    "source": "杭州卷",
+                                    "coll": "",
+                                    "sentence_trans": "你有没有想过拍电影？",
+                                    "year": 2019,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "word_affix": {
+                    "sub_affix_info_list": [
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "move",
+                                            "mean": "v. 动；移动；改变位置；改变状态；进展；发展；在…中进行社交活动；动议；提议；使（肠）排空"
+                                        },
+                                        {
+                                            "word": "remove",
+                                            "mean": "v. 去掉；除去；废除；取消；远离；隔代的；隔亲的；除掉；转移；调动"
+                                        }
+                                    ],
+                                    "derivatives": "mot, mob",
+                                    "affix_sense_chinese": "运动(=move)",
+                                    "affix_type": "stem"
+                                }
+                            ],
+                            "affix": "mov",
+                            "affix_mean": "运动"
+                        },
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "表示与...有关的人或物",
+                                    "affix_type": "suffix"
+                                }
+                            ],
+                            "affix": "-ie",
+                            "affix_mean": "名词后缀"
+                        }
+                    ],
+                    "word": "movie",
+                    "word_mean": "n. 电影"
+                },
+                "word_usage": [
+                    {
+                        "usage": "movie是美式表达，英式表达为film。"
+                    }
+                ]
+            },
+            "sentencesData": {
+                "status": 1,
+                "info": "notZh2En",
+                "data": {}
+            },
+            "isAutoMatch": false,
+            "Zh2En": false
+        },
+        "query": "movie",
+        "result": "电影",
+        "tabSelect": "detail",
+        "dictionaryType": "oxford_buchong",
+        "notFound_show": false,
+        "phoneticShow": "",
+        "globalShowTranslateRecord": "",
+        "pronPrefer": {
+            "type": "usa_1",
+            "speaker": "male",
+            "speed": "standard"
+        },
+        "ServerRecord": "",
+        "ServerUIGS": {
+            "version": "new",
+            "type": "all",
+            "stype": "success",
+            "terminal": "web",
+            "fr": "default",
+            "direction": "etoz",
+            "from": "en",
+            "to": "zh-CHS",
+            "len": 5,
+            "qtype": "text",
+            "qctype": "qc_1",
+            "dict_cover": 1,
+            "detail": 1,
+            "wordCardCover": 1,
+            "wordCardEn": 1,
+            "wordCardCh": 0,
+            "wordCardMinor": 0,
+            "wordCardNetmean": 0,
+            "wordDeform": 1,
+            "keyword": 0,
+            "bilingual": 1,
+            "simple": 0,
+            "levelList": 1,
+            "synonym": 1,
+            "antonym": 0,
+            "conjugate": 1,
+            "rootaffix": 1,
+            "baike_sogou": 1,
+            "baike_wiki": 0,
+            "wordDifference": 1,
+            "word_phrase": 1,
+            "secondQuery": 0,
+            "dict_oxford": 0,
+            "dict_newcentury": 0,
+            "zhongkaotab": 1,
+            "gaokaotab": 1,
+            "CET4tab": 1,
+            "CET6tab": 1,
+            "kaoyantab": 0,
+            "network_tab": 0,
+            "yinying_tab": 1,
+            "tuozhan_tab": 0,
+            "one_pic": 0,
+            "more_pic": 0,
+            "no_pic": 0,
+            "uuid": "5a9073c4-3763-43ee-bfa6-a5db8d092f90",
+            "from_type": 0,
+            "t_trans_ssr": 159
+        },
+        "ServerModelUIGS": {
+            "terminal": "web",
+            "type": "trans_model",
+            "pbtype": "pv",
+            "model_general": 1,
+            "model_medical": 1,
+            "model_finance": 1
+        },
+        "ServerSgtkn": "64F004F023EA872D26200D9D060FEE1626B8DD0F675527E7",
+        "suggShow": false,
+        "suggestion": "",
+        "suggDirection": "",
+        "usualTop": "",
+        "baseDict": "",
+        "wordCardClick": false,
+        "isFrInput": false,
+        "kanaTips": {
+            "show": false,
+            "left": "",
+            "top": "",
+            "type": "",
+            "arrowLeft": ""
+        },
+        "currSentenceIndex": -1,
+        "prefixStrObj": {
+            "prefixStr": "",
+            "oriPrefixStr": ""
+        },
+        "selectTransBox": {
+            "show": false,
+            "right": 0,
+            "top": 0,
+            "paraphraseInfo": {
+                "word": "",
+                "from": "",
+                "to": "",
+                "area": ""
+            }
+        },
+        "sentenceLoading": false,
+        "newSentenceInfo": {
+            "sentence": "",
+            "candidateIndex": 0
+        },
+        "moreTipInfo": {
+            "opacity": 0,
+            "zIndex": -1
+        },
+        "paraphraseShowInfo": {
+            "card": 0,
+            "query": "",
+            "card_dict": 0
+        },
+        "selectType": "",
+        "wordPos": 0,
+        "candidateWord": "",
+        "syntaxVisible": false,
+        "syntaxStatus": 0
+    },
+    "language": {
+        "from": "auto",
+        "to": "zh-CHS",
+        "detect": "en",
+        "model": "general",
+        "detectShow": false,
+        "langMap": {
+            "current": ""
+        },
+        "zh2en": false,
+        "fromItemList": [
+            {
+                "lang": "auto",
+                "text": "自动检测",
+                "play": false
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "ru",
+                "text": "俄语",
+                "play": true,
+                "abbr": "俄"
+            },
+            {
+                "lang": "ko",
+                "text": "韩语",
+                "play": true,
+                "abbr": "韩"
+            },
+            {
+                "lang": "fr",
+                "text": "法语",
+                "play": true,
+                "abbr": "法"
+            }
+        ],
+        "toItemList": [
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "vi",
+                "text": "越南语",
+                "play": true,
+                "abbr": "越"
+            },
+            {
+                "lang": "ru",
+                "text": "俄语",
+                "play": true,
+                "abbr": "俄"
+            },
+            {
+                "lang": "fr",
+                "text": "法语",
+                "play": true,
+                "abbr": "法"
+            }
+        ]
+    },
+    "voice": {
+        "from": {
+            "lang": "en",
+            "type": "from",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22movie%22%2C%22spokenDialect%22%3A%22en%22%2C%22rate%22%3A%220.8%22%7D",
+            "list": [
+                {
+                    "type": "uk_0",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "ˈmuːvi",
+                    "abbr": "英",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/3250_movie_uk.mp3"
+                },
+                {
+                    "type": "usa_1",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "ˈmuːvi",
+                    "abbr": "美",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/3250_movie_usa.mp3"
+                }
+            ],
+            "stype": "phonetic",
+            "phoneticShow": [
+                {
+                    "text": "ˈmuːvi",
+                    "type": "uk",
+                    "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/3250_movie_uk.mp3"
+                }
+            ]
+        },
+        "to": {
+            "lang": "zh",
+            "type": "to",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22%E7%94%B5%E5%BD%B1%22%2C%22spokenDialect%22%3A%22zh-CHS%22%2C%22rate%22%3A%220.8%22%7D",
+            "stype": "normal"
+        }
+    }
+}

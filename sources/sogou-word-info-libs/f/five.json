@@ -1,0 +1,977 @@
+{
+    "route": {
+        "name": "text",
+        "path": "/text",
+        "hash": "",
+        "query": {
+            "keyword": "five",
+            "transfrom": "auto",
+            "transto": "zh-CHS",
+            "model": "general",
+            "errcode": "s10"
+        },
+        "params": {},
+        "fullPath": "/text?keyword=five&transfrom=auto&transto=zh-CHS&model=general&errcode=s10",
+        "meta": {
+            "mtype": [
+                "textTranslate",
+                "language",
+                "voice"
+            ]
+        },
+        "from": {
+            "name": null,
+            "path": "/",
+            "hash": "",
+            "query": {},
+            "params": {},
+            "fullPath": "/",
+            "meta": {}
+        }
+    },
+    "common": {
+        "CONFIG": {
+            "wuid": 1733633186195,
+            "loginInfo": {},
+            "isIE": 0,
+            "isHitSsrSwitch": true,
+            "isHitWritebookSwitch": false,
+            "isHitAmsSwitch": true,
+            "promotionList": "{\n    \"pc_bottom\":{\n        \"imgsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\",\n        \"qcsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\"\n    },\n    \"pc_middle\":[\n        {\n            \"src\":\"//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c\",\n            \"bgColor\":\"#ffffff\",\n            \"link\":\"\"\n        }\n    ],\n    \"pc_survey\":{\n        \"icon\":\"//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750\",\n        \"link\":\"https://wj.qq.com/s2/8193148/806d/\"\n    }\n}",
+            "bannerData": [],
+            "isHitAsideSurvey": false,
+            "secretCode": 109984457,
+            "uuid": "4f488364-671c-4c4c-90c3-c2a06b658ca9",
+            "referer": "",
+            "approveToken": "64ECB09B1AD6BB12191F32A0F422FF211A884321675524A2",
+            "loadTime": 1733633186199,
+            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0",
+            "fcp": "138.197.122.177",
+            "temporaryId": "",
+            "fileId": ""
+        },
+        "hotWords": [],
+        "isFromCollect": false,
+        "psdModify": {
+            "currentStep": 1,
+            "scode": "",
+            "username": ""
+        },
+        "loginStatus": true,
+        "feedBackModule": false,
+        "showPromotionPopup": {
+            "show": false,
+            "type": ""
+        },
+        "showPromotionPCDownload": false,
+        "showShareBomb": false,
+        "shareData": null,
+        "showAppDownLoad": false,
+        "showLoginDialog": false,
+        "showLoading": {
+            "show": false
+        },
+        "toast": {
+            "show": false,
+            "text": "",
+            "loading": false
+        },
+        "modelToast": {
+            "show": false,
+            "text": ""
+        },
+        "selectionGlobalShow": true,
+        "selectionInfo": {
+            "left": 0,
+            "top": 0,
+            "show": false,
+            "from": "",
+            "to": "",
+            "val": "",
+            "area": ""
+        },
+        "showConfirmDialog": false,
+        "promotionList": {
+            "pc_bottom": {
+                "imgsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png",
+                "qcsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png"
+            },
+            "pc_middle": [
+                {
+                    "src": "//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c",
+                    "bgColor": "#ffffff",
+                    "link": ""
+                }
+            ],
+            "pc_survey": {
+                "icon": "//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750",
+                "link": "https://wj.qq.com/s2/8193148/806d/"
+            }
+        },
+        "transTypeTxt": "text",
+        "fixedTabStatus": 0,
+        "bodyTop": 0,
+        "ifHideUserOperation": false
+    },
+    "textTranslate": {
+        "prevTransQuery": "",
+        "translateData": {
+            "translate": {
+                "zly": "zly",
+                "errorCode": "0",
+                "qc_type": "1",
+                "index": "content0",
+                "from": "en",
+                "source": "sogou",
+                "text": "five",
+                "to": "zh-CHS",
+                "id": "4f488364-671c-4c4c-90c3-c2a06b658ca9",
+                "dit": "五",
+                "orig_text": "five",
+                "md5": ""
+            },
+            "detect": {
+                "zly": "zly",
+                "detect": "en",
+                "errorCode": "0",
+                "language": "英语",
+                "id": "61d9c4d0-b51f-11ef-a536-33f10966ae54",
+                "text": "five"
+            },
+            "sgtkn": "64ECB0A11AD6BB12191F32A0F422FF211A884321675524A2",
+            "wordCard": {
+                "title": "five",
+                "show": true,
+                "usualDict": [
+                    {
+                        "values": [
+                            "五；五个；5"
+                        ],
+                        "pos": "num."
+                    },
+                    {
+                        "values": [
+                            "五；五个；五点钟；五岁；五美元钞票；五英镑钞票"
+                        ],
+                        "pos": "n."
+                    },
+                    {
+                        "values": [
+                            "五的；五个的；五人组成的"
+                        ],
+                        "pos": "adj."
+                    }
+                ],
+                "secondQuery": "",
+                "exchange": {
+                    "word_pl": [
+                        "fives"
+                    ]
+                },
+                "levelList": [
+                    "小学",
+                    "初中",
+                    "高中",
+                    "四级",
+                    "考研"
+                ]
+            },
+            "detail": {
+                "synonym": [
+                    {
+                        "word_list": [
+                            "cinque",
+                            "pentad"
+                        ],
+                        "pos": "n.",
+                        "mean": "五，五个；五美元钞票"
+                    }
+                ],
+                "wordRootInfo": {
+                    "word_info_list": [
+                        {
+                            "word": "fiver",
+                            "pos_mean_info_list": [
+                                {
+                                    "pos": "n.",
+                                    "mean": "五元美钞，五镑钞票"
+                                }
+                            ]
+                        },
+                        {
+                            "word": "fivesome",
+                            "pos_mean_info_list": [
+                                {
+                                    "pos": "n.",
+                                    "mean": "五件东西；五个人一组；有五人参加的游戏"
+                                }
+                            ]
+                        }
+                    ],
+                    "root_word": "five"
+                },
+                "word_group": [
+                    {
+                        "brief_definition": "五星红旗",
+                        "phrase": "the Five Starred Red Flag",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "休息一下",
+                        "phrase": "take five",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "五百分",
+                        "phrase": "five hundred",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "五大兽",
+                        "phrase": "big five",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "五官感觉",
+                        "phrase": "five senses",
+                        "pos": "pl-n."
+                    },
+                    {
+                        "brief_definition": "举手击掌",
+                        "phrase": "high five",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "有五指状裂叶的植物",
+                        "phrase": "five finger",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "三局两胜",
+                        "phrase": "the best of five",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "得出似是似非的结论",
+                        "phrase": "put two and two together and make five",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "短须",
+                        "phrase": "five o'clock shadow",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "聪明；不会上当",
+                        "phrase": "know how many beans make five",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "五天；五日；五天时间",
+                        "phrase": "five days",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "击掌",
+                        "phrase": "give me five",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "五色；五种颜色",
+                        "phrase": "five colors",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "五天的；五天的时间",
+                        "phrase": "five day's",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "五天的训练；五天的培训",
+                        "phrase": "five day's training",
+                        "pos": ""
+                    }
+                ],
+                "bilingual": [
+                    {
+                        "source": "One, two, three, four, <em>five</em>. <em>Five</em>!",
+                        "target": "一，二，三，四，五。五个！",
+                        "url": ""
+                    },
+                    {
+                        "source": "Sam is <em>five</em> years old.",
+                        "target": "萨姆五岁了。",
+                        "url": ""
+                    },
+                    {
+                        "source": "He (3) (leave) at <em>five</em>.",
+                        "target": "他五点离开。",
+                        "url": ""
+                    },
+                    {
+                        "source": "I've put on <em>five</em> pounds!",
+                        "target": "我胖了五磅！",
+                        "url": ""
+                    },
+                    {
+                        "source": "<em>Five</em> plus four is nine.",
+                        "target": "五加四等于九。",
+                        "url": ""
+                    },
+                    {
+                        "source": "<em>Five</em> fingers on a hand.",
+                        "target": "一只手有五个手指。",
+                        "url": ""
+                    },
+                    {
+                        "source": "My son is <em>five</em> years old.",
+                        "target": "我的儿子五岁了。",
+                        "url": ""
+                    },
+                    {
+                        "source": "I started school at <em>five</em>.",
+                        "target": "我五岁开始上学。",
+                        "url": ""
+                    },
+                    {
+                        "source": "My brother is only <em>five</em>.",
+                        "target": "我的弟弟只有五岁。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Decide on <em>five</em> good ideas.",
+                        "target": "决定五个好主意。",
+                        "url": ""
+                    }
+                ],
+                "baike": {
+                    "showMore": true,
+                    "list": [
+                        {
+                            "lemmaTitle": "five",
+                            "link": "https://baike.sogou.com/v99813926.htm?ch=sogou.fanyi",
+                            "abstract": "five（英 [faɪv]，美 [faɪv]），英文单词，作名词为五，五个；五美元钞票。作数词为五，五个。作形容词为五的，五个的。短语搭配有high five（击掌）。例句为“And then he put it in five habitats（然后他把它放在五个栖息地里。）” five相关近义词有cinque、pentad等。",
+                            "wapPic": "",
+                            "pcPic": ""
+                        },
+                        {
+                            "lemmaTitle": "five",
+                            "link": "https://baike.sogou.com/v64821629.htm?ch=sogou.fanyi",
+                            "abstract": "5ive由Scott、Richie、Abs、J和Sean这五位活力十足的大男孩所组成。5ive最早的雏型得追溯至1996年时，RCA唱片的顾问Simon Cowell觉得现在的女孩团体看起来都比男生团体强多了，也有越来越多的年轻孩子渴望听到更有自我个性的男生团体，于是他急急忙忙找来Bob和Chris父子档（Spice Girls辣妹合唱团的幕后总舵手）共商大计，最后从三千多个男孩的筛选过程中，这三个人终于找到了让他们十分满意的五位不只面子好看，里子也呱呱叫的小伙子。",
+                            "wapPic": "//img03.sogoucdn.com/v2/thumb/retype_exclude_gif/ext/auto/q/80/crop/xy/ai/w/140/h/140/resize/w/140?appid=201005&sign=2bfcc243560d0625d20ea453cbbeba68&url=http%3A%2F%2Fpic.baike.soso.com%2Fugc%2Fbaikepic2%2F20068%2F20191024225527-1087098737_jpeg_400_488_47221.jpg%2F0",
+                            "pcPic": "//img03.sogoucdn.com/v2/thumb/retype_exclude_gif/ext/auto/q/80/crop/xy/ai/w/140/h/140/resize/w/140?appid=201005&sign=2bfcc243560d0625d20ea453cbbeba68&url=http%3A%2F%2Fpic.baike.soso.com%2Fugc%2Fbaikepic2%2F20068%2F20191024225527-1087098737_jpeg_400_488_47221.jpg%2F0"
+                        }
+                    ]
+                }
+            },
+            "book": {
+                "yingyinNormal": [
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/334ae739c2d3bef71ab483cd142c3ad8_18137.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/23d6bbd7349a7fa5c46161d614405f3d_46326.mp3",
+                        "isLavafox": true,
+                        "en": "I need <em>five</em> minutes with this.",
+                        "zh": "我需要五分钟审阅。",
+                        "videoNameZh": "《纸牌屋 第五季》",
+                        "videoNameEn": "《House of Cards Season 5》",
+                        "url": "http://bisentence_movie.sogou.com/2b69c54fb2a06b6ba08e63b7b83360cd_3ebf047ea5f84f8a7ff934617f10c0b5ba7f0154"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/79c4ae18230aca658a3db4b68e33a098_40731.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/5a5dde3efe08f763202be0a7b2d391dd_55737.mp3",
+                        "isLavafox": true,
+                        "en": "Number <em>five</em>: The Impossible Trinity.",
+                        "zh": "第五章：三元悖论。",
+                        "videoNameZh": "《60秒趣味经济学》",
+                        "videoNameEn": "《60 Second Adventures in Economics》",
+                        "url": "http://bisentence_movie.sogou.com/3e5d78c4344c5a56b0431c1e0b118529_ddeabd2b5af5c202e01574899241dcb595ccd697"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/334ae739c2d3bef71ab483cd142c3ad8_18137.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/3530c5be37a405a055df697764c8fea4_46928.mp3",
+                        "isLavafox": true,
+                        "en": "What about the other <em>five</em> states in play?",
+                        "zh": "另外五个州呢？",
+                        "videoNameZh": "《纸牌屋 第五季》",
+                        "videoNameEn": "《House of Cards Season 5》",
+                        "url": "http://bisentence_movie.sogou.com/e4d3a994c9b7d619c318bacfa7f165d3_80f6eaccde4ec8bb89273798c4df61f82d99c126"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/b73d6e20976b7ffe4e651b29ea5ddefc_31309.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/71a461b227611ac7b55b307355ebf555_39556.mp3",
+                        "isLavafox": true,
+                        "en": "My goodness, <em>five</em> o'clock already.",
+                        "zh": "我的天啊，已经五点钟了。",
+                        "videoNameZh": "《粉红猪小妹 第二季》",
+                        "videoNameEn": "《Peppa Pig Season 2》",
+                        "url": "http://bisentence_movie.sogou.com/3927780a43cfbd26331878f7786692fe_c82ce2443377ba846718efee7aea60ae145a8a1b"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/efb46b0d09a0d16595177f67fa563c67_36206.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/7b77a163dc242ec7633c4f10d359c640_11772.mp3",
+                        "isLavafox": true,
+                        "en": "My goodness, <em>five</em> o'clock already.",
+                        "zh": "我的天啊，已经五点钟了。",
+                        "videoNameZh": "《100天养成流利口语》",
+                        "videoNameEn": "《Get fluent spoken English in 100 days》",
+                        "url": "http://bisentence_movie.sogou.com/7555215017dcbed7a0b60dd9124320f2_b2bbf6e3c47a2de191819e4a3f9afeb856311e2e"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/6a0f1af500949aabdf79e8935d4a7230_22265.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/f542a0d2c7b599c0aa313ea2ea70369e_37521.mp3",
+                        "isLavafox": true,
+                        "en": "Oh, okay, how about <em>five</em>. Oh, thank you.",
+                        "zh": "五张可以吗？谢谢。",
+                        "videoNameZh": "《老友记 第四季》",
+                        "videoNameEn": "《Friends Season 4》",
+                        "url": "http://bisentence_movie.sogou.com/6e3e8f7b44c8a9eeb9f640d12076dd76_95d6b794223c38b5db0dc7d592eef698701f1ab0"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/c255f294269b9934ed9db8b4d8634d56_69716.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/daa136cf032217765157436665d4c463_33666.mp3",
+                        "isLavafox": true,
+                        "en": "We have <em>five</em> years of conclusive data.",
+                        "zh": "我们有五年的完整数据。",
+                        "videoNameZh": "《猩球崛起》",
+                        "videoNameEn": "《Rise of the Planet of the Apes》",
+                        "url": "http://bisentence_movie.sogou.com/9fa21760c6c4f85f46861008213431c0_362ca791f98a524e753ac15f00f8fa401f6ee0eb"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/8199bd85552f0e821d70b6963e25250e_36444.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/1f2557f741974b7c7f0cd796c5e79801_51568.mp3",
+                        "isLavafox": true,
+                        "en": "That house took me <em>five</em> years to build.",
+                        "zh": "这房子我花了五年才造好。",
+                        "videoNameZh": "《愤怒的小鸟》",
+                        "videoNameEn": "《Angry Birds》",
+                        "url": "http://bisentence_movie.sogou.com/e2acb025cf5cc647e63ea08156d3d126_a6c00c065048e2457681f7c8f6bd200bc1efaf69"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/a3f6ca8d0ebaa5b0956976d643673427_52102.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/2ce506dc9c44ebb8b6beebb8c65052aa_29213.mp3",
+                        "isLavafox": true,
+                        "en": "<em>Five</em> pounds? It's all for good cause.",
+                        "zh": "五英镑？这都是为了筹钱做好事。",
+                        "videoNameZh": "《小猪佩奇 第三季》",
+                        "videoNameEn": "《Peppa Pig Season 3》",
+                        "url": "http://bisentence_movie.sogou.com/763da576b8de7b8930e9e4133ef8bca1_2954e1eed7b9eea5df90f56ac28258e7cc164551"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/a22e6af87ee63df4b714547f6895ba40_54847.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/5b21c1670d65706088b1b9a06f34b217_51327.mp3",
+                        "isLavafox": true,
+                        "en": "Your Honor, he has spent <em>five</em> days in jail.",
+                        "zh": "法官阁下，他已经在监狱过了五天。",
+                        "videoNameZh": "《傲骨贤妻 第六季》",
+                        "videoNameEn": "《The Good Wife Season 6》",
+                        "url": "http://bisentence_movie.sogou.com/3a856198e0b4061e83cd38f50ade682c_e93fae37f10322722aaa92c4fea417441cf37053"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/368277e4523e7b27b12887e16057df56_64015.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/6362468715df3e01fa708512bfb9851d_2822.mp3",
+                        "isLavafox": true,
+                        "en": "Took me all of <em>five</em> minutes to understand why.",
+                        "zh": "我只花了五分钟，就想明白了原因。",
+                        "videoNameZh": "《西部世界 第一季》",
+                        "videoNameEn": "《Westworld Season 1》",
+                        "url": "http://bisentence_movie.sogou.com/1980952385f56490daabb331b1095475_33fed27c32d91d07a2cb3b98f6b3f3103350f16f"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/b8e3fa22c678301d25ef950edfe99a4c_10622.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/1aa244db7ec03c5009cddcd33cbafcd0_32363.mp3",
+                        "isLavafox": true,
+                        "en": "Yeah, and his crib's like a <em>five</em>-star fortress.",
+                        "zh": "是啊，他的老窝跟五星级堡垒似的。",
+                        "videoNameZh": "《敢死队3》",
+                        "videoNameEn": "《The Expendables 3》",
+                        "url": "http://bisentence_movie.sogou.com/99833ed3c02ce2bf568bf6986ea32495_51e35cdc0b6b5d727f63d466a40f4a654c81710a"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/8ef70835eb0d9663ca2d26c2a78b067d_46174.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/8de662a804317c37e290cba60e7e344b_23256.mp3",
+                        "isLavafox": true,
+                        "en": "Well, she had <em>five</em> allies, and she ditched us.",
+                        "zh": "她曾经有过五个盟友 然后扔下了我们",
+                        "videoNameZh": "《妮基塔 第四季》",
+                        "videoNameEn": "《Nikita Season 4》",
+                        "url": "http://bisentence_movie.sogou.com/ccbfe19872f9d5db69fc68b34fe9535b_2fab86dc92537f1c024bfe3c856c4d9a331a91f5"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/0ce3ba1d09aadca7b93fbf3633e423d4_26694.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/2088fb130f01c1d62904fa0a893b5827_25352.mp3",
+                        "isLavafox": true,
+                        "en": "Chief Bogo, please! <em>Five</em> minutes of your time, please.",
+                        "zh": "牛局长，拜托了！五分钟就好。",
+                        "videoNameZh": "《疯狂动物城》",
+                        "videoNameEn": "《Zootopia》",
+                        "url": "http://bisentence_movie.sogou.com/9b2c9f0469b30b0c0e470a5acc5d0b0a_5a988412c6895b7cdf656e0d8e1e7b76b223d875"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/31f6231322d43401815661ceeacf3a87_49136.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/7f27ab22cd155edd88e330170dcf08dc_30966.mp3",
+                        "isLavafox": true,
+                        "en": "When can we get underway, damn it? That's <em>five</em> compartments.",
+                        "zh": "什么时候开船? 有五个舱进水。",
+                        "videoNameZh": "《泰坦尼克号》",
+                        "videoNameEn": "《Titanic》",
+                        "url": "http://bisentence_movie.sogou.com/e7bb94df24b32f2f40cee02372ef705b_195dc92e97e99e5d99c0c77a73a544b94e6b93fa"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/aa7a748a86497e02e2b0a5098f3017b8_12619.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/f6862690a596173aad1cff6def6c3692_31408.mp3",
+                        "isLavafox": true,
+                        "en": "<em>Five</em> seconds, miss Matthews, or you're eliminated.",
+                        "zh": "还有五秒钟，马修斯小姐，否则你将被淘汰。",
+                        "videoNameZh": "《女孩成长记 第一季》",
+                        "videoNameEn": "《Girl Meets World Season 1》",
+                        "url": "http://bisentence_movie.sogou.com/700eaefad0fb5d3a3e75c4ed4f840e24_8f51471eb0bfe03123ad68d688e67de4d45e7db7"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/aa7a748a86497e02e2b0a5098f3017b8_12619.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/0618c296c707a9a608cceb86587add6c_73348.mp3",
+                        "isLavafox": true,
+                        "en": "Can't remember, it was like <em>five</em> minutes ago. Fine.",
+                        "zh": "不记得了，那已经过去大概五分钟了。好吧。",
+                        "videoNameZh": "《女孩成长记 第一季》",
+                        "videoNameEn": "《Girl Meets World Season 1》",
+                        "url": "http://bisentence_movie.sogou.com/37dd62cc2559ad82d4d8a83b7d78bffe_b6983d3573ad3e7b9563b61adc50ede04a823a45"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/490665cd18df7afdfdb0f598300d2a11_15993.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/1a0c95343903e075eef0292d3ffe5e1a_65568.mp3",
+                        "isLavafox": true,
+                        "en": "All day long. <em>Five</em> days a week.",
+                        "zh": "周一到周五，一天24小时。",
+                        "videoNameZh": "《玩具总动员3》",
+                        "videoNameEn": "《Toy Story 3》",
+                        "url": "http://bisentence_movie.sogou.com/4f67749dcf8e0c1b288f65f059cf159f_004321eda9fc6f72f7d22a344cb272d3422cb1a0"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/6f0d696675593d9f503fb1f80b15fc44_60104.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/362d171019e343d82c3244789eed932e_15135.mp3",
+                        "isLavafox": true,
+                        "en": "It's for a contract. <em>Five</em> grand a head, right?",
+                        "zh": "合同规定好的，五千块换一个人头，对吗？",
+                        "videoNameZh": "《这个杀手不太冷》",
+                        "videoNameEn": "《Léon》",
+                        "url": "http://bisentence_movie.sogou.com/a019478dc0e93fd64408fb36a97328c6_da9ebe143d44d9ef96719b366d6a5301aaef816b"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/857d422fb42f44c37e8adecd1ec744cb_5890.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/48055a7402d60e087c0457be87a7fb8f_3521.mp3",
+                        "isLavafox": true,
+                        "en": "Come on they're the <em>Five</em>. What can I teach them?",
+                        "zh": "别闹了，他们可是盖世五侠，我能教他们什么呀？",
+                        "videoNameZh": "《功夫熊猫3》",
+                        "videoNameEn": "《Kung Fu Panda 3》",
+                        "url": "http://bisentence_movie.sogou.com/9db954f9affaa11d88f756a4c1f7eb86_546a21a4211c3b755b12c02cddc9109d9a104eca"
+                    }
+                ]
+            },
+            "pic": "",
+            "voice": {
+                "phonetic": [
+                    {
+                        "text": "faɪv",
+                        "type": "uk",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/585_five_uk.mp3"
+                    },
+                    {
+                        "text": "faɪv",
+                        "type": "usa",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/585_five_usa.mp3"
+                    }
+                ]
+            },
+            "dictType": "oxford_buchong",
+            "gaokao": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 39,
+                        "pos": "num",
+                        "chinese": "五",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "five",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2015-2022年8年间全国卷和自主命题省市高考卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2015-2022年全国卷高考试卷，包括阅读、完形、单选、填空、听力、改错、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选各省市考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2015-2022年8年间全国卷和自主命题省市高考卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 5,
+                "total_exam_freq": 39,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "五",
+                            "pos": "num",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "But when I arrived home <highlight>five</highlight> minutes ago, I found that my car wouldn't start.",
+                                    "month": -1,
+                                    "source": "新高考Ⅰ卷",
+                                    "coll": "",
+                                    "sentence_trans": "但是当我五分钟前到家时，我发现我的车发动不起来了。",
+                                    "year": 2021,
+                                    "type": "听力",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "With her <highlight>five</highlight>-day challenge courses, she helps them get over the fear.",
+                                    "month": -1,
+                                    "source": "天津卷",
+                                    "coll": "",
+                                    "sentence_trans": "通过为期五天的挑战课程，她帮助他们克服恐惧。",
+                                    "year": 2021,
+                                    "type": "阅读表达",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "I would go to the office, sit at my desk and repeat the same work <highlight>five</highlight> days a week 9 to 5.",
+                                    "month": -1,
+                                    "source": "天津卷",
+                                    "coll": "",
+                                    "sentence_trans": "我会去办公室，坐在办公桌前，每周五天，朝九晚五地重复同样的工作。",
+                                    "year": 2021,
+                                    "type": "阅读表达",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            "zhongkao": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 251,
+                        "pos": "num",
+                        "chinese": "五",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "five",
+                "word_level_phrase_info": [
+                    {
+                        "brief_definition": "五星红旗",
+                        "phrase": "the Five Starred Red Flag",
+                        "pos": "n."
+                    }
+                ],
+                "direction_info": {
+                    "ranges": 4,
+                    "description": "数据源自2018-2021年4年间全国各省市中考试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2018-2021年全国重点省市中考试卷，包括听力、阅读、完形、单选、填空、改错、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选各省市考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2018-2021年4年间全国各省市中考试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 5,
+                "total_exam_freq": 251,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "五",
+                            "pos": "num",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "Choose <highlight>five</highlight> sentences out of the six in the box to complete the passage.",
+                                    "month": -1,
+                                    "source": "牡丹江市卷",
+                                    "coll": "",
+                                    "sentence_trans": "从方框里的六个句子中选择五个句子来完成这篇文章。",
+                                    "year": 2021,
+                                    "type": "选句填空",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "<highlight>Five</highlight> people were waiting for an interview in a room of a company (公司).",
+                                    "month": -1,
+                                    "source": "重庆市B卷",
+                                    "coll": "",
+                                    "sentence_trans": "五个人正在一家公司的房间里等待面试。",
+                                    "year": 2021,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "He has been making his living this way for <highlight>five</highlight> years and feels great.",
+                                    "month": -1,
+                                    "source": "武汉卷",
+                                    "coll": "",
+                                    "sentence_trans": "他已经这样生活了五年，感觉很好。",
+                                    "year": 2020,
+                                    "type": "完形填空",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            "sentencesData": {
+                "status": 1,
+                "info": "notZh2En",
+                "data": {}
+            },
+            "isAutoMatch": false,
+            "Zh2En": false
+        },
+        "query": "five",
+        "result": "五",
+        "tabSelect": "detail",
+        "dictionaryType": "oxford_buchong",
+        "notFound_show": false,
+        "phoneticShow": "",
+        "globalShowTranslateRecord": "",
+        "pronPrefer": {
+            "type": "usa_1",
+            "speaker": "male",
+            "speed": "standard"
+        },
+        "ServerRecord": "",
+        "ServerUIGS": {
+            "version": "new",
+            "type": "all",
+            "stype": "success",
+            "terminal": "web",
+            "fr": "default",
+            "direction": "etoz",
+            "from": "en",
+            "to": "zh-CHS",
+            "len": 4,
+            "qtype": "text",
+            "qctype": "qc_1",
+            "dict_cover": 1,
+            "detail": 1,
+            "wordCardCover": 1,
+            "wordCardEn": 1,
+            "wordCardCh": 0,
+            "wordCardMinor": 0,
+            "wordCardNetmean": 0,
+            "wordDeform": 1,
+            "keyword": 0,
+            "bilingual": 1,
+            "simple": 0,
+            "levelList": 1,
+            "synonym": 1,
+            "antonym": 0,
+            "conjugate": 1,
+            "rootaffix": 0,
+            "baike_sogou": 1,
+            "baike_wiki": 0,
+            "wordDifference": 0,
+            "word_phrase": 1,
+            "secondQuery": 0,
+            "dict_oxford": 0,
+            "dict_newcentury": 0,
+            "zhongkaotab": 1,
+            "gaokaotab": 1,
+            "CET4tab": 0,
+            "CET6tab": 0,
+            "kaoyantab": 0,
+            "network_tab": 0,
+            "yinying_tab": 1,
+            "tuozhan_tab": 0,
+            "one_pic": 0,
+            "more_pic": 0,
+            "no_pic": 0,
+            "uuid": "4f488364-671c-4c4c-90c3-c2a06b658ca9",
+            "from_type": 0,
+            "t_trans_ssr": 172
+        },
+        "ServerModelUIGS": {
+            "terminal": "web",
+            "type": "trans_model",
+            "pbtype": "pv",
+            "model_general": 1,
+            "model_medical": 1,
+            "model_finance": 1
+        },
+        "ServerSgtkn": "64ECB0A11AD6BB12191F32A0F422FF211A884321675524A2",
+        "suggShow": false,
+        "suggestion": "",
+        "suggDirection": "",
+        "usualTop": "",
+        "baseDict": "",
+        "wordCardClick": false,
+        "isFrInput": false,
+        "kanaTips": {
+            "show": false,
+            "left": "",
+            "top": "",
+            "type": "",
+            "arrowLeft": ""
+        },
+        "currSentenceIndex": -1,
+        "prefixStrObj": {
+            "prefixStr": "",
+            "oriPrefixStr": ""
+        },
+        "selectTransBox": {
+            "show": false,
+            "right": 0,
+            "top": 0,
+            "paraphraseInfo": {
+                "word": "",
+                "from": "",
+                "to": "",
+                "area": ""
+            }
+        },
+        "sentenceLoading": false,
+        "newSentenceInfo": {
+            "sentence": "",
+            "candidateIndex": 0
+        },
+        "moreTipInfo": {
+            "opacity": 0,
+            "zIndex": -1
+        },
+        "paraphraseShowInfo": {
+            "card": 0,
+            "query": "",
+            "card_dict": 0
+        },
+        "selectType": "",
+        "wordPos": 0,
+        "candidateWord": "",
+        "syntaxVisible": false,
+        "syntaxStatus": 0
+    },
+    "language": {
+        "from": "auto",
+        "to": "zh-CHS",
+        "detect": "en",
+        "model": "general",
+        "detectShow": false,
+        "langMap": {
+            "current": ""
+        },
+        "zh2en": false,
+        "fromItemList": [
+            {
+                "lang": "auto",
+                "text": "自动检测",
+                "play": false
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "fr",
+                "text": "法语",
+                "play": true,
+                "abbr": "法"
+            },
+            {
+                "lang": "ko",
+                "text": "韩语",
+                "play": true,
+                "abbr": "韩"
+            },
+            {
+                "lang": "th",
+                "text": "泰语",
+                "play": true,
+                "abbr": "泰"
+            }
+        ],
+        "toItemList": [
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "ko",
+                "text": "韩语",
+                "play": true,
+                "abbr": "韩"
+            },
+            {
+                "lang": "fr",
+                "text": "法语",
+                "play": true,
+                "abbr": "法"
+            },
+            {
+                "lang": "vi",
+                "text": "越南语",
+                "play": true,
+                "abbr": "越"
+            }
+        ]
+    },
+    "voice": {
+        "from": {
+            "lang": "en",
+            "type": "from",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22five%22%2C%22spokenDialect%22%3A%22en%22%2C%22rate%22%3A%220.8%22%7D",
+            "list": [
+                {
+                    "type": "uk_0",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "faɪv",
+                    "abbr": "英",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/585_five_uk.mp3"
+                },
+                {
+                    "type": "usa_1",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "faɪv",
+                    "abbr": "美",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/585_five_usa.mp3"
+                }
+            ],
+            "stype": "phonetic",
+            "phoneticShow": [
+                {
+                    "text": "faɪv",
+                    "type": "uk",
+                    "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/585_five_uk.mp3"
+                }
+            ]
+        },
+        "to": {
+            "lang": "zh",
+            "type": "to",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22%E4%BA%94%22%2C%22spokenDialect%22%3A%22zh-CHS%22%2C%22rate%22%3A%220.8%22%7D",
+            "stype": "normal"
+        }
+    }
+}

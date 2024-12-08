@@ -1,0 +1,918 @@
+{
+    "route": {
+        "name": "text",
+        "path": "/text",
+        "hash": "",
+        "query": {
+            "keyword": "us",
+            "transfrom": "auto",
+            "transto": "zh-CHS",
+            "model": "general",
+            "errcode": "s10"
+        },
+        "params": {},
+        "fullPath": "/text?keyword=us&transfrom=auto&transto=zh-CHS&model=general&errcode=s10",
+        "meta": {
+            "mtype": [
+                "textTranslate",
+                "language",
+                "voice"
+            ]
+        },
+        "from": {
+            "name": null,
+            "path": "/",
+            "hash": "",
+            "query": {},
+            "params": {},
+            "fullPath": "/",
+            "meta": {}
+        }
+    },
+    "common": {
+        "CONFIG": {
+            "wuid": 1733634668351,
+            "loginInfo": {},
+            "isIE": 0,
+            "isHitSsrSwitch": true,
+            "isHitWritebookSwitch": false,
+            "isHitAmsSwitch": true,
+            "promotionList": "{\n    \"pc_bottom\":{\n        \"imgsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\",\n        \"qcsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\"\n    },\n    \"pc_middle\":[\n        {\n            \"src\":\"//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c\",\n            \"bgColor\":\"#ffffff\",\n            \"link\":\"\"\n        }\n    ],\n    \"pc_survey\":{\n        \"icon\":\"//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750\",\n        \"link\":\"https://wj.qq.com/s2/8193148/806d/\"\n    }\n}",
+            "bannerData": [],
+            "isHitAsideSurvey": false,
+            "secretCode": 109984457,
+            "uuid": "82d523db-f4cf-43bd-b826-0ba704667605",
+            "referer": "",
+            "approveToken": "64F2AB6765A9C76D66604DDD23F6AB7E661B9D4967552A6C",
+            "loadTime": 1733634668356,
+            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0",
+            "fcp": "170.64.148.76",
+            "temporaryId": "",
+            "fileId": ""
+        },
+        "hotWords": [],
+        "isFromCollect": false,
+        "psdModify": {
+            "currentStep": 1,
+            "scode": "",
+            "username": ""
+        },
+        "loginStatus": true,
+        "feedBackModule": false,
+        "showPromotionPopup": {
+            "show": false,
+            "type": ""
+        },
+        "showPromotionPCDownload": false,
+        "showShareBomb": false,
+        "shareData": null,
+        "showAppDownLoad": false,
+        "showLoginDialog": false,
+        "showLoading": {
+            "show": false
+        },
+        "toast": {
+            "show": false,
+            "text": "",
+            "loading": false
+        },
+        "modelToast": {
+            "show": false,
+            "text": ""
+        },
+        "selectionGlobalShow": true,
+        "selectionInfo": {
+            "left": 0,
+            "top": 0,
+            "show": false,
+            "from": "",
+            "to": "",
+            "val": "",
+            "area": ""
+        },
+        "showConfirmDialog": false,
+        "promotionList": {
+            "pc_bottom": {
+                "imgsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png",
+                "qcsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png"
+            },
+            "pc_middle": [
+                {
+                    "src": "//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c",
+                    "bgColor": "#ffffff",
+                    "link": ""
+                }
+            ],
+            "pc_survey": {
+                "icon": "//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750",
+                "link": "https://wj.qq.com/s2/8193148/806d/"
+            }
+        },
+        "transTypeTxt": "text",
+        "fixedTabStatus": 0,
+        "bodyTop": 0,
+        "ifHideUserOperation": false
+    },
+    "textTranslate": {
+        "prevTransQuery": "",
+        "translateData": {
+            "translate": {
+                "zly": "zly",
+                "errorCode": "0",
+                "qc_type": "1",
+                "index": "content0",
+                "from": "en",
+                "source": "sogou",
+                "text": "us",
+                "to": "zh-CHS",
+                "id": "82d523db-f4cf-43bd-b826-0ba704667605",
+                "dit": "我们",
+                "orig_text": "us",
+                "md5": ""
+            },
+            "detect": {
+                "zly": "zly",
+                "detect": "en",
+                "errorCode": "0",
+                "language": "英语",
+                "id": "d54948c0-b522-11ef-9e84-19628044d99e",
+                "text": "us"
+            },
+            "sgtkn": "64F2AB6C65A9C76D66604DDD23F6AB7E661B9D4967552A6C",
+            "wordCard": {
+                "title": "us",
+                "show": true,
+                "usualDict": [
+                    {
+                        "values": [
+                            "我们（宾格）；（泛指）人们"
+                        ],
+                        "pos": "pron."
+                    },
+                    {
+                        "values": [
+                            "（the US或the U.S.）美国；美利坚合众国（United States of America的缩写）"
+                        ],
+                        "pos": "abbr."
+                    }
+                ],
+                "secondQuery": "",
+                "exchange": {},
+                "levelList": [
+                    "小学",
+                    "初中",
+                    "四级",
+                    "考研"
+                ]
+            },
+            "detail": {
+                "word_group": [
+                    {
+                        "brief_definition": "我们全体；我们所有人；我们都",
+                        "phrase": "all of us",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "自己人",
+                        "phrase": "one of us",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "(提议或举例时)譬如说, 比方说, 例如",
+                        "phrase": "let us say",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "我们和他们；自己人和非自己人",
+                        "phrase": "us and them",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "我也是如此；对我同样适应",
+                        "phrase": "that makes two of us",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "至死不渝；永不分离",
+                        "phrase": "till death us do part",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "至死不渝；永不分离",
+                        "phrase": "until death us do part",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "我们和他们；自己人和非自己人",
+                        "phrase": "us and them or them and us",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "让我们",
+                        "phrase": "let us",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "加入我们；我们一起；同我们一道",
+                        "phrase": "join us",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "联系我们；请联系我们；和我们联系",
+                        "phrase": "contact us",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "关于我们；有关我们",
+                        "phrase": "about us",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "我们每人；我们每个；我们每一",
+                        "phrase": "each of us",
+                        "pos": ""
+                    }
+                ],
+                "bilingual": [
+                    {
+                        "source": "Colours help <em>us</em> and tell <em>us</em> many things.",
+                        "target": "颜色帮助我们并告诉我们很多事情。",
+                        "url": ""
+                    },
+                    {
+                        "source": "\"We want you to work for <em>us</em>.\"",
+                        "target": "“我们希望你为我们工作。”",
+                        "url": ""
+                    },
+                    {
+                        "source": "Their stories satisfy <em>us</em> and help <em>us</em> feel safe.",
+                        "target": "他们的故事让我们满足并感到安全。",
+                        "url": ""
+                    },
+                    {
+                        "source": "How can you save <em>us</em>?",
+                        "target": "你怎么能救我们？",
+                        "url": ""
+                    },
+                    {
+                        "source": "No home for <em>us</em> now!",
+                        "target": "我们现在没有家了！",
+                        "url": ""
+                    },
+                    {
+                        "source": "How do they help <em>us</em>?",
+                        "target": "它们如何帮助我们？",
+                        "url": ""
+                    },
+                    {
+                        "source": "We have two young people with <em>us</em>.",
+                        "target": "我们有两个年轻人和我们在一起。",
+                        "url": ""
+                    },
+                    {
+                        "source": "What can they give <em>us</em>?",
+                        "target": "它们能给我们什么？",
+                        "url": ""
+                    },
+                    {
+                        "source": "Hey! Give <em>us</em> a break!",
+                        "target": "嘿！让我们休息一下！",
+                        "url": ""
+                    },
+                    {
+                        "source": "Here's a photo of <em>us</em>.",
+                        "target": "这是我们的一张照片。",
+                        "url": ""
+                    }
+                ],
+                "baike": {
+                    "showMore": true,
+                    "list": [
+                        {
+                            "lemmaTitle": "US",
+                            "link": "https://baike.sogou.com/v7538354.htm?ch=sogou.fanyi",
+                            "abstract": "US在英语中可以指美国、美国域名及我们的意思。在服务领域为“独特服务”的简称，是一款由中证明道开发的支持IOS系统的APP金融服务终端。",
+                            "wapPic": "//img01.sogoucdn.com/v2/thumb/retype_exclude_gif/ext/auto/q/80/crop/xy/ai/w/140/h/140/resize/w/140?appid=201005&sign=d3bc25f9f9210df237cf94ffd5c5f5f8&url=https%3A%2F%2Fpic.baike.soso.com%2Fugc%2Fbaikepic2%2F12640%2Fcut-20180409072044-224365486_jpg_545_363_48027.jpg%2F0",
+                            "pcPic": "//img03.sogoucdn.com/v2/thumb/retype_exclude_gif/ext/auto/q/80/crop/xy/ai/w/140/h/140/resize/w/140?appid=201005&sign=d3bc25f9f9210df237cf94ffd5c5f5f8&url=https%3A%2F%2Fpic.baike.soso.com%2Fugc%2Fbaikepic2%2F12640%2Fcut-20180409072044-224365486_jpg_545_363_48027.jpg%2F0"
+                        },
+                        {
+                            "lemmaTitle": "US",
+                            "link": "https://baike.sogou.com/v148638475.htm?ch=sogou.fanyi",
+                            "abstract": "独特服务的简称，一款由中证明道开发的支持IOS系统的APP金融服务终端。",
+                            "wapPic": "//img04.sogoucdn.com/v2/thumb/retype_exclude_gif/ext/auto/q/80/crop/xy/ai/w/140/h/140/resize/w/140?appid=201005&sign=cb29c45e62c1b9289997ed294820c058&url=https%3A%2F%2Fpic.baike.soso.com%2Fugc%2Fbaikepic2%2F13823%2F20220513181548-806517020_jpeg_480_640_75222.jpg%2F800",
+                            "pcPic": "//img04.sogoucdn.com/v2/thumb/retype_exclude_gif/ext/auto/q/80/crop/xy/ai/w/140/h/140/resize/w/140?appid=201005&sign=cb29c45e62c1b9289997ed294820c058&url=https%3A%2F%2Fpic.baike.soso.com%2Fugc%2Fbaikepic2%2F13823%2F20220513181548-806517020_jpeg_480_640_75222.jpg%2F800"
+                        }
+                    ]
+                }
+            },
+            "book": {
+                "yingyinNormal": [
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/368277e4523e7b27b12887e16057df56_64015.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/78c89ad2a58116e19aa858081bb05da4_7469.mp3",
+                        "isLavafox": true,
+                        "en": "Arnold's still trying to change <em>us</em>. To free <em>us</em>.",
+                        "zh": "阿诺德仍然试图改变我们，解放我们。",
+                        "videoNameZh": "《西部世界 第一季》",
+                        "videoNameEn": "《Westworld Season 1》",
+                        "url": "http://bisentence_movie.sogou.com/28fd3a0c1a25b3b5ba972f3aedb685db_314c998b2e69292173ad187d0a69e6080aed96ca"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/0ea88558fafc1b4ded75da892dee90d8_47199.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/46b0c6dd068c692d2b44006b36cfbc4a_1236.mp3",
+                        "isLavafox": true,
+                        "en": "And Spock, he didn't help <em>us</em>. He betrayed <em>us</em>.",
+                        "zh": "还有史波克，他不仅没来帮助我们，他还背叛了我们。",
+                        "videoNameZh": "《星际迷航》",
+                        "videoNameEn": "《Star Trek》",
+                        "url": "http://bisentence_movie.sogou.com/690879da04b7d9caeb988320cfb785b8_df24feedc5530c91996785b09cc5d505a5233bff"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/583ff1c0d1a2d3090f47f8d0bd821282_35584.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/4ed2b940d0ac3115a761da148bc65466_35020.mp3",
+                        "isLavafox": true,
+                        "en": "Pursue <em>us</em>, you'll be caught. Resist <em>us</em>, you'll be killed.",
+                        "zh": "继续追查我们，你会被抓住，跟我们做对，你就会被干掉。",
+                        "videoNameZh": "《碟中谍5：神秘国度》",
+                        "videoNameEn": "《Mission Impossible: Rogue Nation》",
+                        "url": "http://bisentence_movie.sogou.com/ce3be2aa3291319b473a378f2fe816f3_ec58527ce31b308d348a65bf09177dede4f336de"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/8a5b25dfe5e482fce849895959f35aba_1648.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/2f8cd40990e6582ed6e3ed956be941e8_46662.mp3",
+                        "isLavafox": true,
+                        "en": "Okay, walk <em>us</em> through it, honey, walk <em>us</em> through it.",
+                        "zh": "重头再说一次给我们听。",
+                        "videoNameZh": "《老友记 第三季》",
+                        "videoNameEn": "《Friends Season 3》",
+                        "url": "http://bisentence_movie.sogou.com/417ea11ec0a06c0d9a0a74d7b447cbc2_f79c8c7e70980abc9ded14d3894dbe9eb3217f73"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/8a5b25dfe5e482fce849895959f35aba_1648.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/d4189a37c3a098428a274b6e5726f8ec_76382.mp3",
+                        "isLavafox": true,
+                        "en": "No. A break from <em>us</em>.",
+                        "zh": "不，我们分手吧。",
+                        "videoNameZh": "《老友记 第三季》",
+                        "videoNameEn": "《Friends Season 3》",
+                        "url": "http://bisentence_movie.sogou.com/e1ad90a16b991edcbb49809fb1da163b_620d1d6af59bf5d4242c7a57a476e6ec71fa4cdf"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/bc809734180889bd06c4d5bc2c8ecd0d_28512.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/6f5a1001b5bd1cd0b601edf365b73cbe_36737.mp3",
+                        "isLavafox": true,
+                        "en": "Want to come with <em>us</em>?",
+                        "zh": "想跟我们一起走吗?",
+                        "videoNameZh": "《行尸走肉 第四季》",
+                        "videoNameEn": "《The Walking Dead S4》",
+                        "url": "http://bisentence_movie.sogou.com/8e90e4e4db048db85b3120ce203019af_579fa252db098d392e08665d19d7f8e260adb270"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/39e50807a5a1191398262e04787ff184_62485.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/e99d8b2b928427e9a90b751afa8a478e_46161.mp3",
+                        "isLavafox": true,
+                        "en": "That's probably enough about <em>us</em>, so, tell <em>us</em> about you.",
+                        "zh": "关于我们已经说得够多了，说说你吧。",
+                        "videoNameZh": "《生活大爆炸 第一季》",
+                        "videoNameEn": "《The Big Bang Theory Season 1》",
+                        "url": "http://bisentence_movie.sogou.com/39bb20c82b2bb67f34af46a0d8a81936_77ec3323196dc33394a3627b17187d556a68d794"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/abd937b2672222a78ae14a2575251d2d_52124.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/29b793500fcea3b4f7646867c752d24a_38058.mp3",
+                        "isLavafox": true,
+                        "en": "He'll be coming with <em>us</em>.",
+                        "zh": "他得跟着我们。",
+                        "videoNameZh": "《魔兽》",
+                        "videoNameEn": "《Warcraft》",
+                        "url": "http://bisentence_movie.sogou.com/338cbc18b0dd77ada91d626c1b58dead_b257d2dab5dfad3b7cd3c1f550186f805b1a38e5"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/882c4a955031459b92686f70d94deed1_14165.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/94fb283fe981c532931e75561d4a74c3_10317.mp3",
+                        "isLavafox": true,
+                        "en": "We do not yet know who violated <em>us</em>.",
+                        "zh": "我们还不知道是谁袭击了我们。",
+                        "videoNameZh": "《马可波罗 第一季》",
+                        "videoNameEn": "《Marco Polo Season 1》",
+                        "url": "http://bisentence_movie.sogou.com/759817cfabb728202a48bc91a9eb8e1b_76233d5a0b20ade373a72e8582bb56584db9f2ad"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/886b76b0c552c22c57062be63cf27261_37722.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/5019452e59666ea859221f5175d6de48_13148.mp3",
+                        "isLavafox": true,
+                        "en": "Oh, honey, you have <em>us</em>. We love you.",
+                        "zh": "亲爱的，你有我们，我们爱你。",
+                        "videoNameZh": "《老友记 第九季》",
+                        "videoNameEn": "《Friends Season 9》",
+                        "url": "http://bisentence_movie.sogou.com/2e4e4a28ddc4c9a657b448b092c6d0ea_d5a9b46562ec30857cca50796871f91b512db22d"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/a22e6af87ee63df4b714547f6895ba40_54847.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/b67fbd8890fa1a3ff29883d5a311d2c8_32716.mp3",
+                        "isLavafox": true,
+                        "en": "So, why don't we begin? Let <em>us</em> pray.",
+                        "zh": "不如我们开始吧，我们先祈祷。",
+                        "videoNameZh": "《傲骨贤妻 第六季》",
+                        "videoNameEn": "《The Good Wife Season 6》",
+                        "url": "http://bisentence_movie.sogou.com/bc0c6dd543cad9f90263c50dd856e0b4_2289dd667fa68e8e578af1d81191d77955bf1049"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/7ce921a8f001372a4cffb71c4b10216a_5918.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/c1ad87f46cda323d1d644eb3a205cc83_48155.mp3",
+                        "isLavafox": true,
+                        "en": "Do tell <em>us</em>, Mr Darcy.",
+                        "zh": "一定要告诉我们， 达西先生。",
+                        "videoNameZh": "《傲慢与偏见》",
+                        "videoNameEn": "《Pride & Prejudice》",
+                        "url": "http://bisentence_movie.sogou.com/a25f026ed4dfabf87218be9e4b89ae22_386a888b2c7bb9888dd36a6c8a7ac4fc5e318d52"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/466fcb07ee18284cd2e11cc689fe88ec_17209.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/a05c7e32bcde7c5f7cce71dc384616ab_55679.mp3",
+                        "isLavafox": true,
+                        "en": "Yeah, no one's exiling <em>us</em>.",
+                        "zh": "没人能驱逐我们。",
+                        "videoNameZh": "《变形金刚3》",
+                        "videoNameEn": "《Transformers: Dark of the Moon》",
+                        "url": "http://bisentence_movie.sogou.com/2769eae73b599c394821b022cb1b80ce_880d3985e11759bf1961f12ff81459d9b8cefdc2"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/ae9d6f2f04858f0af8517ff08116148e_6738.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/de3f14202b86d349f2504f345a5a8aae_4552.mp3",
+                        "isLavafox": true,
+                        "en": "Ha, ha, never caught <em>us</em>.",
+                        "zh": "哈哈，从来没赶上我们吧。",
+                        "videoNameZh": "《女孩成长记 第三季》",
+                        "videoNameEn": "《Girl Meets World Season 3》",
+                        "url": "http://bisentence_movie.sogou.com/cb54b6d28a35c784c9316e0669c121d4_b5d8362873bbe44a1620ec1c76a599c954b631c7"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/aa7a748a86497e02e2b0a5098f3017b8_12619.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/3947b6184748c48ae80002539cf24ee4_75098.mp3",
+                        "isLavafox": true,
+                        "en": "Look at them. They're <em>us</em>.",
+                        "zh": "看看他们就如我们一样。",
+                        "videoNameZh": "《女孩成长记 第一季》",
+                        "videoNameEn": "《Girl Meets World Season 1》",
+                        "url": "http://bisentence_movie.sogou.com/fceb848c3feb995553e002469782bdd8_a8ac1cf9b6d3f23970219b7add97e5201b820158"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/ae9d6f2f04858f0af8517ff08116148e_6738.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/bc8c4cfff5f7164b995635d2ed5d4394_60617.mp3",
+                        "isLavafox": true,
+                        "en": "One for <em>us</em>. Next question.",
+                        "zh": "我们得一分，下一题。",
+                        "videoNameZh": "《女孩成长记 第三季》",
+                        "videoNameEn": "《Girl Meets World Season 3》",
+                        "url": "http://bisentence_movie.sogou.com/17723acdd1d308286fbf0a668a5d5e0d_166a96c0e53e9a848d40645707f5bc4eeb019f1d"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/466fcb07ee18284cd2e11cc689fe88ec_17209.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/a4879d8405a837d3cf61fb0868cb14fd_69623.mp3",
+                        "isLavafox": true,
+                        "en": "Here we are. Fight <em>us</em> now.",
+                        "zh": "我们就在这,来打吧。",
+                        "videoNameZh": "《变形金刚3》",
+                        "videoNameEn": "《Transformers: Dark of the Moon》",
+                        "url": "http://bisentence_movie.sogou.com/d94370f7f48acaccba143163b3675a9a_dedee93d3bed1887d2d49fc04a445b62156a5e28"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/aa7a748a86497e02e2b0a5098f3017b8_12619.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/9549577d8d80fa26f99962a1ddd7cfdb_71164.mp3",
+                        "isLavafox": true,
+                        "en": "Oh no, both of <em>us</em> alone.",
+                        "zh": "不好，是我们两个单独相处。",
+                        "videoNameZh": "《女孩成长记 第一季》",
+                        "videoNameEn": "《Girl Meets World Season 1》",
+                        "url": "http://bisentence_movie.sogou.com/84fd26268c92375891df836c7ab0b964_7ed2ecac0f021b7bc147f4fb525e6f765962df3f"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/629af26ee246702b04dae9c64fe5736b_64581.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/a93c06ed9da6891ba4b69788aad69c6f_52587.mp3",
+                        "isLavafox": true,
+                        "en": "You really had <em>us</em> fooled!",
+                        "zh": "你们真的让我们都变傻了！",
+                        "videoNameZh": "《小猪佩奇（精选版）》",
+                        "videoNameEn": "《Peppa Pig》",
+                        "url": "http://bisentence_movie.sogou.com/5fdd1827f96fec764e85d7903516ffda_40c4a15737100251f2561d91354c0fb172a5b663"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/791389553cedc2dca8e4f0bcddd956ec_6163.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/65aa87aa6c5a63030e716f1147fe20af_225.mp3",
+                        "isLavafox": true,
+                        "en": "And <em>us</em>hered <em>us</em> to safety.",
+                        "zh": "把我们都带到安全的地方。",
+                        "videoNameZh": "《忍者神龟：变种时代》",
+                        "videoNameEn": "《Teenage Mutant Ninja Turtles》",
+                        "url": "http://bisentence_movie.sogou.com/d5ff3b80924c8d925902154a230176a0_a23871489bb7e35f127b7c406dcefa30ab6fc094"
+                    }
+                ]
+            },
+            "pic": "",
+            "voice": {
+                "phonetic": [
+                    {
+                        "text": "ʌs",
+                        "type": "uk",
+                        "filename": "http://pic04.sogoucdn.com/s3/a/201051/us_uk_20210802.mp3"
+                    },
+                    {
+                        "text": "ʌs",
+                        "type": "usa",
+                        "filename": "http://pic01.sogoucdn.com/s3/a/201051/us_usa_20210802.mp3"
+                    }
+                ]
+            },
+            "dictType": "oxford_buchong",
+            "gaokao": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 8,
+                        "pos": "abbr",
+                        "chinese": "美利坚合众国; 美国",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "US",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2015-2022年8年间全国卷和自主命题省市高考卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2015-2022年全国卷高考试卷，包括阅读、完形、单选、填空、听力、改错、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选各省市考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2015-2022年8年间全国卷和自主命题省市高考卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 2,
+                "total_exam_freq": 8,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "美利坚合众国; 美国",
+                            "pos": "abbr",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "Well, actually, John began his life in the <highlight>US</highlight> as a businessman.",
+                                    "month": -1,
+                                    "source": "全国卷3",
+                                    "coll": "",
+                                    "sentence_trans": "实际上，约翰在美国开始了他的商人生涯。",
+                                    "year": 2019,
+                                    "type": "听力",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "What did John do after he moved to the <highlight>US</highlight>?",
+                                    "month": -1,
+                                    "source": "全国卷3",
+                                    "coll": "",
+                                    "sentence_trans": "约翰搬到美国后做了什么？",
+                                    "year": 2019,
+                                    "type": "听力",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "When I came to the <highlight>US</highlight>, I was only thinking about being a carpenter, but I could not read the newspaper.",
+                                    "month": -1,
+                                    "source": "全国卷1",
+                                    "coll": "",
+                                    "sentence_trans": "当我来到美国时，我只想当一名木匠，但我看不懂报纸。",
+                                    "year": 2018,
+                                    "type": "听力",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            "zhongkao": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 905,
+                        "pos": "pron",
+                        "chinese": "我们",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "us",
+                "word_level_phrase_info": [
+                    {
+                        "brief_definition": "我们全体；我们所有人；我们都",
+                        "phrase": "all of us",
+                        "pos": ""
+                    }
+                ],
+                "direction_info": {
+                    "ranges": 4,
+                    "description": "数据源自2018-2021年4年间全国各省市中考试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2018-2021年全国重点省市中考试卷，包括听力、阅读、完形、单选、填空、改错、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选各省市考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2018-2021年4年间全国各省市中考试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 5,
+                "total_exam_freq": 905,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "我们",
+                            "pos": "pron",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "There’re some rules for <highlight>us</highlight> to follow.",
+                                    "month": -1,
+                                    "source": "绥化市卷",
+                                    "coll": "",
+                                    "sentence_trans": "我们要遵守一些规则。",
+                                    "year": 2021,
+                                    "type": "七选五",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "What does the writer want to tell <highlight>us</highlight> in the last paragraph?",
+                                    "month": -1,
+                                    "source": "菏泽市卷",
+                                    "coll": "",
+                                    "sentence_trans": "作者在最后一段想告诉我们什么？",
+                                    "year": 2021,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "We're bringing sweaters and coats with <highlight>us</highlight>, so I hope we'll be OK．",
+                                    "month": -1,
+                                    "source": "南京卷",
+                                    "coll": "",
+                                    "sentence_trans": "我们会带毛衣和外套，所以我希望我们会没事。",
+                                    "year": 2019,
+                                    "type": "选词填空",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            "sentencesData": {
+                "status": 1,
+                "info": "notZh2En",
+                "data": {}
+            },
+            "isAutoMatch": false,
+            "Zh2En": false
+        },
+        "query": "us",
+        "result": "我们",
+        "tabSelect": "detail",
+        "dictionaryType": "oxford_buchong",
+        "notFound_show": false,
+        "phoneticShow": "",
+        "globalShowTranslateRecord": "",
+        "pronPrefer": {
+            "type": "usa_1",
+            "speaker": "male",
+            "speed": "standard"
+        },
+        "ServerRecord": "",
+        "ServerUIGS": {
+            "version": "new",
+            "type": "all",
+            "stype": "success",
+            "terminal": "web",
+            "fr": "default",
+            "direction": "etoz",
+            "from": "en",
+            "to": "zh-CHS",
+            "len": 2,
+            "qtype": "text",
+            "qctype": "qc_1",
+            "dict_cover": 1,
+            "detail": 1,
+            "wordCardCover": 1,
+            "wordCardEn": 1,
+            "wordCardCh": 0,
+            "wordCardMinor": 0,
+            "wordCardNetmean": 0,
+            "wordDeform": 0,
+            "keyword": 0,
+            "bilingual": 1,
+            "simple": 0,
+            "levelList": 1,
+            "synonym": 0,
+            "antonym": 0,
+            "conjugate": 0,
+            "rootaffix": 0,
+            "baike_sogou": 1,
+            "baike_wiki": 0,
+            "wordDifference": 0,
+            "word_phrase": 1,
+            "secondQuery": 0,
+            "dict_oxford": 0,
+            "dict_newcentury": 0,
+            "zhongkaotab": 1,
+            "gaokaotab": 1,
+            "CET4tab": 0,
+            "CET6tab": 0,
+            "kaoyantab": 0,
+            "network_tab": 0,
+            "yinying_tab": 1,
+            "tuozhan_tab": 0,
+            "one_pic": 0,
+            "more_pic": 0,
+            "no_pic": 0,
+            "uuid": "82d523db-f4cf-43bd-b826-0ba704667605",
+            "from_type": 0,
+            "t_trans_ssr": 154
+        },
+        "ServerModelUIGS": {
+            "terminal": "web",
+            "type": "trans_model",
+            "pbtype": "pv",
+            "model_general": 1,
+            "model_medical": 1,
+            "model_finance": 1
+        },
+        "ServerSgtkn": "64F2AB6C65A9C76D66604DDD23F6AB7E661B9D4967552A6C",
+        "suggShow": false,
+        "suggestion": "",
+        "suggDirection": "",
+        "usualTop": "",
+        "baseDict": "",
+        "wordCardClick": false,
+        "isFrInput": false,
+        "kanaTips": {
+            "show": false,
+            "left": "",
+            "top": "",
+            "type": "",
+            "arrowLeft": ""
+        },
+        "currSentenceIndex": -1,
+        "prefixStrObj": {
+            "prefixStr": "",
+            "oriPrefixStr": ""
+        },
+        "selectTransBox": {
+            "show": false,
+            "right": 0,
+            "top": 0,
+            "paraphraseInfo": {
+                "word": "",
+                "from": "",
+                "to": "",
+                "area": ""
+            }
+        },
+        "sentenceLoading": false,
+        "newSentenceInfo": {
+            "sentence": "",
+            "candidateIndex": 0
+        },
+        "moreTipInfo": {
+            "opacity": 0,
+            "zIndex": -1
+        },
+        "paraphraseShowInfo": {
+            "card": 0,
+            "query": "",
+            "card_dict": 0
+        },
+        "selectType": "",
+        "wordPos": 0,
+        "candidateWord": "",
+        "syntaxVisible": false,
+        "syntaxStatus": 0
+    },
+    "language": {
+        "from": "auto",
+        "to": "zh-CHS",
+        "detect": "en",
+        "model": "general",
+        "detectShow": false,
+        "langMap": {
+            "current": ""
+        },
+        "zh2en": false,
+        "fromItemList": [
+            {
+                "lang": "auto",
+                "text": "自动检测",
+                "play": false
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "th",
+                "text": "泰语",
+                "play": true,
+                "abbr": "泰"
+            },
+            {
+                "lang": "cs",
+                "text": "捷克语",
+                "play": true,
+                "abbr": "捷克"
+            },
+            {
+                "lang": "fr",
+                "text": "法语",
+                "play": true,
+                "abbr": "法"
+            }
+        ],
+        "toItemList": [
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "vi",
+                "text": "越南语",
+                "play": true,
+                "abbr": "越"
+            },
+            {
+                "lang": "ko",
+                "text": "韩语",
+                "play": true,
+                "abbr": "韩"
+            },
+            {
+                "lang": "es",
+                "text": "西班牙语",
+                "play": true,
+                "abbr": "西"
+            }
+        ]
+    },
+    "voice": {
+        "from": {
+            "lang": "en",
+            "type": "from",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22us%22%2C%22spokenDialect%22%3A%22en%22%2C%22rate%22%3A%220.8%22%7D",
+            "list": [
+                {
+                    "type": "uk_0",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "ʌs",
+                    "abbr": "英",
+                    "src": "http://pic04.sogoucdn.com/s3/a/201051/us_uk_20210802.mp3"
+                },
+                {
+                    "type": "usa_1",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "ʌs",
+                    "abbr": "美",
+                    "src": "http://pic01.sogoucdn.com/s3/a/201051/us_usa_20210802.mp3"
+                }
+            ],
+            "stype": "phonetic",
+            "phoneticShow": [
+                {
+                    "text": "ʌs",
+                    "type": "uk",
+                    "filename": "http://pic04.sogoucdn.com/s3/a/201051/us_uk_20210802.mp3"
+                }
+            ]
+        },
+        "to": {
+            "lang": "zh",
+            "type": "to",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22%E6%88%91%E4%BB%AC%22%2C%22spokenDialect%22%3A%22zh-CHS%22%2C%22rate%22%3A%220.8%22%7D",
+            "stype": "normal"
+        }
+    }
+}

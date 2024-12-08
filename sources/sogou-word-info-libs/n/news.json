@@ -1,0 +1,1592 @@
+{
+    "route": {
+        "name": "text",
+        "path": "/text",
+        "hash": "",
+        "query": {
+            "keyword": "news",
+            "transfrom": "auto",
+            "transto": "zh-CHS",
+            "model": "general",
+            "errcode": "s10"
+        },
+        "params": {},
+        "fullPath": "/text?keyword=news&transfrom=auto&transto=zh-CHS&model=general&errcode=s10",
+        "meta": {
+            "mtype": [
+                "textTranslate",
+                "language",
+                "voice"
+            ]
+        },
+        "from": {
+            "name": null,
+            "path": "/",
+            "hash": "",
+            "query": {},
+            "params": {},
+            "fullPath": "/",
+            "meta": {}
+        }
+    },
+    "common": {
+        "CONFIG": {
+            "wuid": 1733634049218,
+            "loginInfo": {},
+            "isIE": 0,
+            "isHitSsrSwitch": true,
+            "isHitWritebookSwitch": false,
+            "isHitAmsSwitch": true,
+            "promotionList": "{\n    \"pc_bottom\":{\n        \"imgsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\",\n        \"qcsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\"\n    },\n    \"pc_middle\":[\n        {\n            \"src\":\"//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c\",\n            \"bgColor\":\"#ffffff\",\n            \"link\":\"\"\n        }\n    ],\n    \"pc_survey\":{\n        \"icon\":\"//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750\",\n        \"link\":\"https://wj.qq.com/s2/8193148/806d/\"\n    }\n}",
+            "bannerData": [],
+            "isHitAsideSurvey": false,
+            "secretCode": 109984457,
+            "uuid": "af23443c-b3c5-4840-a8e9-9c6b65bcf5e5",
+            "referer": "",
+            "approveToken": "64F01DE6B159379D9593BE2EB73A047D96CC128367552801",
+            "loadTime": 1733634049220,
+            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0",
+            "fcp": "31.223.184.69",
+            "temporaryId": "",
+            "fileId": ""
+        },
+        "hotWords": [],
+        "isFromCollect": false,
+        "psdModify": {
+            "currentStep": 1,
+            "scode": "",
+            "username": ""
+        },
+        "loginStatus": true,
+        "feedBackModule": false,
+        "showPromotionPopup": {
+            "show": false,
+            "type": ""
+        },
+        "showPromotionPCDownload": false,
+        "showShareBomb": false,
+        "shareData": null,
+        "showAppDownLoad": false,
+        "showLoginDialog": false,
+        "showLoading": {
+            "show": false
+        },
+        "toast": {
+            "show": false,
+            "text": "",
+            "loading": false
+        },
+        "modelToast": {
+            "show": false,
+            "text": ""
+        },
+        "selectionGlobalShow": true,
+        "selectionInfo": {
+            "left": 0,
+            "top": 0,
+            "show": false,
+            "from": "",
+            "to": "",
+            "val": "",
+            "area": ""
+        },
+        "showConfirmDialog": false,
+        "promotionList": {
+            "pc_bottom": {
+                "imgsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png",
+                "qcsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png"
+            },
+            "pc_middle": [
+                {
+                    "src": "//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c",
+                    "bgColor": "#ffffff",
+                    "link": ""
+                }
+            ],
+            "pc_survey": {
+                "icon": "//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750",
+                "link": "https://wj.qq.com/s2/8193148/806d/"
+            }
+        },
+        "transTypeTxt": "text",
+        "fixedTabStatus": 0,
+        "bodyTop": 0,
+        "ifHideUserOperation": false
+    },
+    "textTranslate": {
+        "prevTransQuery": "",
+        "translateData": {
+            "translate": {
+                "zly": "zly",
+                "errorCode": "0",
+                "qc_type": "1",
+                "index": "content0",
+                "from": "en",
+                "source": "sogou",
+                "text": "news",
+                "to": "zh-CHS",
+                "id": "af23443c-b3c5-4840-a8e9-9c6b65bcf5e5",
+                "dit": "新闻",
+                "orig_text": "news",
+                "md5": ""
+            },
+            "detect": {
+                "zly": "zly",
+                "detect": "en",
+                "errorCode": "0",
+                "language": "英语",
+                "id": "644052a0-b521-11ef-84da-71f081b4cdac",
+                "text": "news"
+            },
+            "sgtkn": "64F01DE9B159379D9593BE2EB73A047D96CC128367552801",
+            "wordCard": {
+                "title": "news",
+                "show": true,
+                "usualDict": [
+                    {
+                        "values": [
+                            "新闻；新闻报道；新闻节目；新闻界；消息；音信；新情况；时事动态"
+                        ],
+                        "pos": "n."
+                    }
+                ],
+                "secondQuery": "",
+                "exchange": {},
+                "levelList": [
+                    "小学",
+                    "初中",
+                    "高中",
+                    "四级",
+                    "六级",
+                    "考研"
+                ]
+            },
+            "detail": {
+                "synonym": [
+                    {
+                        "word_list": [
+                            "message",
+                            "word",
+                            "press"
+                        ],
+                        "pos": "n.",
+                        "mean": "新闻，消息；新闻报导"
+                    }
+                ],
+                "affix": {
+                    "word": "news",
+                    "sub_affix_info_list": [
+                        {
+                            "affix": "new",
+                            "affix_mean": "adj. 新的"
+                        },
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "名词复数后缀, 表示数量多于一个",
+                                    "affix_type": "suffix"
+                                },
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "annals",
+                                            "mean": "pl-n. 编年史；历史记录；年报"
+                                        },
+                                        {
+                                            "word": "backwards",
+                                            "mean": "adv. 向后地；往回地；倒回原处地；反向地；回溯；每况愈下地"
+                                        },
+                                        {
+                                            "word": "clothes",
+                                            "mean": "pl-n. 衣服；服装；被褥"
+                                        },
+                                        {
+                                            "word": "corps",
+                                            "mean": "n. 军；队；部队；一组；一队；芭蕾舞队；（芭蕾舞团）伴舞队（CORPS DE BALLET的简称）"
+                                        },
+                                        {
+                                            "word": "genetics",
+                                            "mean": "pl-n. 遗传学；遗传性；遗传现象；遗传特征"
+                                        },
+                                        {
+                                            "word": "perhaps",
+                                            "mean": "adv. 或许；大概；可能；也许；好像"
+                                        },
+                                        {
+                                            "word": "theirs",
+                                            "mean": "pron. 他们的；属于他们的；它们的"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "副词后缀, 表示\"时间, 地点, 状态, 方式\"",
+                                    "affix_type": "suffix"
+                                }
+                            ],
+                            "affix": "-s",
+                            "affix_mean": "名词复数后缀"
+                        }
+                    ],
+                    "word_mean": "n. 新闻"
+                },
+                "wordRootInfo": {
+                    "word_info_list": [
+                        {
+                            "word": "newsless",
+                            "pos_mean_info_list": [
+                                {
+                                    "pos": "adj.",
+                                    "mean": "没有新闻的"
+                                }
+                            ]
+                        },
+                        {
+                            "word": "newsy",
+                            "pos_mean_info_list": [
+                                {
+                                    "pos": "adj.",
+                                    "mean": "多新闻的；爱闲话的；成话题的"
+                                },
+                                {
+                                    "pos": "n.",
+                                    "mean": "报童"
+                                }
+                            ]
+                        },
+                        {
+                            "word": "newscaster",
+                            "pos_mean_info_list": [
+                                {
+                                    "pos": "n.",
+                                    "mean": "新闻广播员；新闻评论广播员"
+                                }
+                            ]
+                        },
+                        {
+                            "word": "newsmonger",
+                            "pos_mean_info_list": [
+                                {
+                                    "pos": "n.",
+                                    "mean": "饶舌者；爱传播新闻的人"
+                                }
+                            ]
+                        }
+                    ],
+                    "root_word": "news"
+                },
+                "word_difference_info": [
+                    {
+                        "common_mean": "新闻；消息；情报",
+                        "word_list": [
+                            "information",
+                            " news",
+                            " intelligence"
+                        ],
+                        "word_mean_info__list": [
+                            {
+                                "difference": "普通用词，泛指消息、情报。",
+                                "word": "information"
+                            },
+                            {
+                                "difference": "普通用词，指主要通过报纸、广播和电视等报道的事件，强调消息的新闻性。",
+                                "word": "news"
+                            },
+                            {
+                                "difference": "特指政治、经济、文化或军事等方面的秘密情报或消息。",
+                                "word": "intelligence"
+                            }
+                        ]
+                    }
+                ],
+                "word_group": [
+                    {
+                        "brief_definition": "坏消息",
+                        "phrase": "bad news",
+                        "pos": "n.phr"
+                    },
+                    {
+                        "brief_definition": "新闻电视台；电视台；新闻单位",
+                        "phrase": "news station",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "体育新闻",
+                        "phrase": "sports news",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "看新闻",
+                        "phrase": "watch the news",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "新闻报道；新闻报导；新闻的报道",
+                        "phrase": "news coverage",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "好消息；佳音；喜讯",
+                        "phrase": "good news",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "新闻报道",
+                        "phrase": "news report",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "新闻发布；新闻稿",
+                        "phrase": "news release",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "通讯社",
+                        "phrase": "news agency",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "记者招待会",
+                        "phrase": "news conference",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "滚动标题新闻；新闻跑马灯",
+                        "phrase": "news ticker",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "是宝贵财富；值得称颂",
+                        "phrase": "be good news",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "新闻简报",
+                        "phrase": "news bulletin",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "没有消息就是好消息",
+                        "phrase": "no news is good news",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "新闻部",
+                        "phrase": "news desk",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "新闻网线",
+                        "phrase": "news wire",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "新闻记者",
+                        "phrase": "news hound",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "滚动标题新闻；新闻跑马灯",
+                        "phrase": "news crawl",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "昨日新闻；过时的人",
+                        "phrase": "yesterday's news",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "新闻媒体；新闻传媒；新闻媒介",
+                        "phrase": "news media",
+                        "pos": ""
+                    }
+                ],
+                "bilingual": [
+                    {
+                        "source": "I hope to watch the <em>news</em>.",
+                        "target": "我希望看新闻。",
+                        "url": ""
+                    },
+                    {
+                        "source": "I like watching the <em>news</em>.",
+                        "target": "我喜欢看新闻。",
+                        "url": ""
+                    },
+                    {
+                        "source": "What about the sports <em>news</em>?",
+                        "target": "体育新闻怎么样？",
+                        "url": ""
+                    },
+                    {
+                        "source": "Do you want to watch the <em>news</em>?",
+                        "target": "你想看新闻吗？",
+                        "url": ""
+                    },
+                    {
+                        "source": "We shouldn't watch the <em>news</em>.",
+                        "target": "我们不应该看新闻。",
+                        "url": ""
+                    },
+                    {
+                        "source": "She could be from the TV <em>news</em>.",
+                        "target": "她可能是电视新闻的。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Do you want to just watch the <em>news</em>?",
+                        "target": "你想只看新闻吗？",
+                        "url": ""
+                    },
+                    {
+                        "source": "I like watching the English <em>news</em>.",
+                        "target": "我喜欢看英语新闻。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Why do you like watching the <em>news</em>?",
+                        "target": "你为什么喜欢看新闻？",
+                        "url": ""
+                    },
+                    {
+                        "source": "I often listen to the <em>news</em> or music.",
+                        "target": "我经常听新闻或音乐。",
+                        "url": ""
+                    }
+                ],
+                "baike": {
+                    "showMore": false,
+                    "list": [
+                        {
+                            "lemmaTitle": "NewS",
+                            "link": "https://baike.sogou.com/v441430.htm?ch=sogou.fanyi",
+                            "abstract": "NewS是日本杰尼斯事务所旗下的男子偶像团体（隶属杰尼斯娱乐株式会社），于2003年9月15日成立，于2004年5月12日正式出道。 NEWS代表North（北）East（东）West（西）South（南）四个方向，寓意NEWS能向国际四方发展，并有“新信讯”的意味。NEWS于2011年从6人体制变为4人体制，发表了专辑《NEWS》《White》等。2020年5月27日、28日，在宫城县综合运动公园综合体育馆举办“NEWS LIVE TOUR 2020 STORY”演唱会。",
+                            "wapPic": "//img04.sogoucdn.com/v2/thumb/retype_exclude_gif/ext/auto/q/80/crop/xy/ai/w/140/h/140/resize/w/140?appid=201005&sign=5dbe616d02b167c41ff67e046a55c97d&url=https%3A%2F%2Fpic.baike.soso.com%2Fugc%2Fbaikepic2%2F12857%2F20220327085357-599585876_png_592_395_390059.jpg%2F0",
+                            "pcPic": "//img01.sogoucdn.com/v2/thumb/retype_exclude_gif/ext/auto/q/80/crop/xy/ai/w/140/h/140/resize/w/140?appid=201005&sign=5dbe616d02b167c41ff67e046a55c97d&url=https%3A%2F%2Fpic.baike.soso.com%2Fugc%2Fbaikepic2%2F12857%2F20220327085357-599585876_png_592_395_390059.jpg%2F0"
+                        },
+                        {
+                            "lemmaTitle": "NEWS",
+                            "link": "https://baike.sogou.com/v154832191.htm?ch=sogou.fanyi",
+                            "abstract": "新成员朴倞利于2012年1月11日随数位单曲《News》出道，使Nine Muses扩编为8人团体。",
+                            "wapPic": "//img02.sogoucdn.com/v2/thumb/retype_exclude_gif/ext/auto/q/80/crop/xy/ai/w/140/h/140/resize/w/140?appid=201005&sign=8f0c467756f3a75490b1d91ac6760a1d&url=https%3A%2F%2Fpic.baike.soso.com%2Fugc%2Fbaikepic2%2F3268%2F20220513195800-522141399_jpeg_1600_1417_184707.jpg%2F0",
+                            "pcPic": "//img02.sogoucdn.com/v2/thumb/retype_exclude_gif/ext/auto/q/80/crop/xy/ai/w/140/h/140/resize/w/140?appid=201005&sign=8f0c467756f3a75490b1d91ac6760a1d&url=https%3A%2F%2Fpic.baike.soso.com%2Fugc%2Fbaikepic2%2F3268%2F20220513195800-522141399_jpeg_1600_1417_184707.jpg%2F0"
+                        }
+                    ]
+                }
+            },
+            "book": {
+                "yingyinNormal": [
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/fb89a475bcbc9472bc44674775ba97a3_34037.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/742b30d6fcec0a21734cd911beaca7fe_33887.mp3",
+                        "isLavafox": true,
+                        "en": "This is the most hugest <em>news</em>!",
+                        "zh": "这可是个超级大新闻！",
+                        "videoNameZh": "《灰姑娘》",
+                        "videoNameEn": "《Cinderella》",
+                        "url": "http://bisentence_movie.sogou.com/c00b2899354de6b0a9049dc14e3a6b25_f4af67d41a58e3f29e17ead37f2c98bec4c58fb6"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/2e6798f529b7edcd99b65e568a300989_28262.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/6b129cf849a4ef188d5e21da0efdf8dc_5893.mp3",
+                        "isLavafox": true,
+                        "en": "By midsummer, Gatsby was front page <em>news</em>.",
+                        "zh": "仲夏时，盖茨比上了新闻头条。",
+                        "videoNameZh": "《了不起的盖茨比》",
+                        "videoNameEn": "《The Great Gatsby》",
+                        "url": "http://bisentence_movie.sogou.com/d276c0db06cc815c789449b8e5fcc5f6_80f6437f300fc6f09bf413a8522a0e8d1dd92db5"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/95bf83fa9c39ec4f55b8511dc0c4ed29_55630.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/d1135d4082e0afec4bce9cf0595e8e70_49328.mp3",
+                        "isLavafox": true,
+                        "en": "All right, what's your <em>news</em>, Amy? Well. I'm getting married.",
+                        "zh": "艾米，啥新闻？我要结婚了。",
+                        "videoNameZh": "《老友记 第十季》",
+                        "videoNameEn": "《Friends Season 10》",
+                        "url": "http://bisentence_movie.sogou.com/ef066eb106080bc279526b46010c91b4_35afdaa3aa5f71ea7248aea0ab1763587b2c8080"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/629af26ee246702b04dae9c64fe5736b_64581.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/243659a0539fc87f3343f7618b5fc765_61622.mp3",
+                        "isLavafox": true,
+                        "en": "Welcome to Peppa pig <em>news</em> with me, Peppa pig.",
+                        "zh": "欢迎和我一起来到佩佩猪新闻，我是佩佩猪。",
+                        "videoNameZh": "《小猪佩奇（精选版）》",
+                        "videoNameEn": "《Peppa Pig》",
+                        "url": "http://bisentence_movie.sogou.com/0bc986180a5b89d2204b8d249c56c414_47953268f9fa8ca19fabcf6557517c9aa2e97061"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/ebb0b0408bf12dc64801723d985508e9_40124.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/f58bcf1ba8b33915bfadeb50ad9a93e6_31882.mp3",
+                        "isLavafox": true,
+                        "en": "Global <em>news</em> coverage, celebrity visitors. Eyes of the world.",
+                        "zh": "全球新闻头条，各界名流参观，世界瞩目。",
+                        "videoNameZh": "《侏罗纪世界》",
+                        "videoNameEn": "《Jurassic World》",
+                        "url": "http://bisentence_movie.sogou.com/2884fee09bc456d0f2ce0b8b2df93385_5e960f8e7686f3a95d8d66768adc3d49e5c2bf62"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/6a0f1af500949aabdf79e8935d4a7230_22265.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/b8293704371e93aa1e03a8debf7c0d24_1565.mp3",
+                        "isLavafox": true,
+                        "en": "Ooh, hey, could we put on the <em>news</em>? I think it might be raining.",
+                        "zh": "可以看新闻吗？可能在下雨。",
+                        "videoNameZh": "《老友记 第四季》",
+                        "videoNameEn": "《Friends Season 4》",
+                        "url": "http://bisentence_movie.sogou.com/351841df2406666884c1a29556ee7658_69e1c173103f41eb87cd86d6f9841041b9efea85"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/2da4e63bad2cfd9397933ffbea0713b8_48989.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/bf574371cc71cc53ef739ae43fcd6a4c_45014.mp3",
+                        "isLavafox": true,
+                        "en": "It's all over the <em>news</em>! Some fella just stole a pyramid.",
+                        "zh": "新闻上都在播呢！某个家伙盗走了一座金字塔",
+                        "videoNameZh": "《神偷奶爸》",
+                        "videoNameEn": "《Despicable Me》",
+                        "url": "http://bisentence_movie.sogou.com/28736e255521939c0e13adac496fd50d_505ef6ced133a16a19f3c0c642dc2b46901286b6"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/8a5b25dfe5e482fce849895959f35aba_1648.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/37ae675e164414ca0c305b48cc6ff9e7_40923.mp3",
+                        "isLavafox": true,
+                        "en": "Hey, I didn't stalk her. I mean. Okay, I asked for the <em>news</em>, not the weather.",
+                        "zh": "我没有跟踪她。我是问新闻，不是问天气。",
+                        "videoNameZh": "《老友记 第三季》",
+                        "videoNameEn": "《Friends Season 3》",
+                        "url": "http://bisentence_movie.sogou.com/d2b2fe4836cd42c7b55dc179353f03ac_0b8ae801759715af087c1c717c6d100501695f6e"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/82b4636112184859779afa48d26f2aac_11190.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/30ccf79717a9992c6adb2cfd23565317_57415.mp3",
+                        "isLavafox": true,
+                        "en": "Directly from the heart of the Amazon rain forest. We have some breaking <em>news</em>.",
+                        "zh": "我们从亚马逊的腹地，为你带来特大新闻。",
+                        "videoNameZh": "《里约大冒险2》",
+                        "videoNameEn": "《RIO 2》",
+                        "url": "http://bisentence_movie.sogou.com/82ed78a05351d10813696d44f2fe63ea_3a916479f418250aa6c2211acddd45b405952cfc"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/ebb0b0408bf12dc64801723d985508e9_40124.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/0eb8485fdd93b36fa30e3b911566aa46_37191.mp3",
+                        "isLavafox": true,
+                        "en": "You're gonna watch a <em>news</em> story tomorrow about how you all saved lives.",
+                        "zh": "你明天看到的新闻将会是你们拯救了多少条生命。",
+                        "videoNameZh": "《侏罗纪世界》",
+                        "videoNameEn": "《Jurassic World》",
+                        "url": "http://bisentence_movie.sogou.com/57ee75d3ea422c6a4eec7add9d78d691_ed9e0f898a32a8db2f2bbd5e979fc644004580b7"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/8ef70835eb0d9663ca2d26c2a78b067d_46174.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/85a4f35be0020b6ecf3fea8745b2883d_51712.mp3",
+                        "isLavafox": true,
+                        "en": "Equinox <em>News</em> Network. A new LCD TV for Dale Gordon. Conspiracy guy.",
+                        "zh": "全季新闻网。戴尔戈登买的新液晶电视。这男的很狡猾",
+                        "videoNameZh": "《妮基塔 第四季》",
+                        "videoNameEn": "《Nikita Season 4》",
+                        "url": "http://bisentence_movie.sogou.com/e63e3c0f1de2266d02b22b1ea751a672_348e537e75719638711962dafd61521ce3d9ec28"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/47650e924c1da36531b1a1e48bb9219d_7103.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/2e4ddca2323e57c039789ffa801aa62e_24719.mp3",
+                        "isLavafox": true,
+                        "en": "I mean, not because of the thing with Eric. You're in the <em>news</em>. Yeah, listen.",
+                        "zh": "我说的不是埃里克的事，你现在上新闻了，听着。",
+                        "videoNameZh": "《分歧者：异类觉醒》",
+                        "videoNameEn": "《Divergent》",
+                        "url": "http://bisentence_movie.sogou.com/1ad8409768d933dfac03a239f1852288_65ce4ea7b5b20c754b2bb2ed911e843b5cb42bb0"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/f012eb5fd120cc2d5b68f18e3d0e7c8c_67362.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/4b970bf86ea22bbe0671a32d307f946a_70303.mp3",
+                        "isLavafox": true,
+                        "en": "Hey, have you seen the <em>news</em>? Oh, God, what now? No, no, no, it's good.",
+                        "zh": "你看新闻了吗？天哪。又怎么了？不，不，不，是好消息。",
+                        "videoNameZh": "《傲骨贤妻 第五季》",
+                        "videoNameEn": "《The Good Wife Season 5》",
+                        "url": "http://bisentence_movie.sogou.com/a197b2f0020574300f595f98a5868150_08f85f8e192d8f9c2c42039a1646ccec6aee3216"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/8ebc69621c845dba3ee412feb5096db1_6534.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/eaf296b115b7546fd0327f6964a5c2eb_58930.mp3",
+                        "isLavafox": true,
+                        "en": "Well, the big <em>news</em> in Hollywood today is, of course, the Man-ny's on-set meltdown.",
+                        "zh": "好莱坞今日大新闻，《靓男保姆》录制现场失控。",
+                        "videoNameZh": "《我们这一天 第一季》",
+                        "videoNameEn": "《This Is Us Season 1》",
+                        "url": "http://bisentence_movie.sogou.com/7b8984180dc1e04db084d109eb876bd4_a1645157d30942d2a9d26abbae2bdaee20c8628b"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/95bf83fa9c39ec4f55b8511dc0c4ed29_55630.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/451714f701cd07777d7233995a7e3e71_67360.mp3",
+                        "isLavafox": true,
+                        "en": "So, now, what are you doing here? Well, I have huge <em>news</em>. Sorry. Hold on. Let me check on the baby.",
+                        "zh": "你来干嘛？我有大新闻。抱歉，先看看孩子。",
+                        "videoNameZh": "《老友记 第十季》",
+                        "videoNameEn": "《Friends Season 10》",
+                        "url": "http://bisentence_movie.sogou.com/ef516184602e74a6ada709fbb0c81e36_b3e6032580978a0027c2ea6aeb2773724c636c39"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/8a5b25dfe5e482fce849895959f35aba_1648.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/3392e1b184200de2dbf356566f56b61a_14025.mp3",
+                        "isLavafox": true,
+                        "en": "Could you pull the curtains open for me? The astronauts from the space shuttle are gonna be on the <em>news</em>.",
+                        "zh": "你帮我把窗帘拉起来好吗？太空人会上电视新闻。",
+                        "videoNameZh": "《老友记 第三季》",
+                        "videoNameEn": "《Friends Season 3》",
+                        "url": "http://bisentence_movie.sogou.com/91b98f25af6e53c1b5c178e864ca1e69_dd36289c60b303a8ba278f795c1e4646d7c35c26"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/c147f8d54a969778fef4aa74fdb25c24_34800.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/10d2a770c57ed53c5cb03e0877af7086_55131.mp3",
+                        "isLavafox": true,
+                        "en": "Way easier coming here than you coming there. Must be ten <em>news</em> crews outside of my house.",
+                        "zh": "我过来比你过去容易多了，我门外有十支新闻团队守着呢。",
+                        "videoNameZh": "《纸牌屋 第四季》",
+                        "videoNameEn": "《House of Cards Season 4》",
+                        "url": "http://bisentence_movie.sogou.com/bf3595223b0224c0c55b2ac4e7e4d78d_4e12955f6d89d93b80fce10982a4e8307fb74878"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/efb46b0d09a0d16595177f67fa563c67_36206.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/ae1a9a79712155b75610e56b9098070c_66530.mp3",
+                        "isLavafox": true,
+                        "en": "Welcome to Peppa Pig <em>News</em> with me, Peppa Pig. Peppa has made her own television.",
+                        "zh": "欢迎收看小猪佩奇新闻，我就是小猪佩奇。佩奇开始播放自己的电视节目。",
+                        "videoNameZh": "《100天养成流利口语》",
+                        "videoNameEn": "《Get fluent spoken English in 100 days》",
+                        "url": "http://bisentence_movie.sogou.com/06a808065222d14dbfe419524cdd81c2_bb01d0c63609279b8abf1505f625f917827aa26d"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/b73d6e20976b7ffe4e651b29ea5ddefc_31309.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/faae36ca939fae514cd1613c5ace2e61_10403.mp3",
+                        "isLavafox": true,
+                        "en": "Welcome to Peppa Pig <em>news</em> with me, Peppa Pig. Peppa has made her own television.",
+                        "zh": "欢迎收看小猪佩奇新闻，我就是小猪佩奇。佩奇开始播放自己的电视节目。",
+                        "videoNameZh": "《粉红猪小妹 第二季》",
+                        "videoNameEn": "《Peppa Pig Season 2》",
+                        "url": "http://bisentence_movie.sogou.com/4525a9981961ec281f21cc81fea154c3_d5ddc3840b7b98f83744741fabb6924e1bba697a"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/ce4704185ed874d2da0aa0211b7c5d4d_3508.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/f07c51c88bd39932186455b54c71caf9_69252.mp3",
+                        "isLavafox": true,
+                        "en": "We're looking forward to that. We can use all the help we can get, actually. Yeah. Been watching the <em>news</em>.",
+                        "zh": "我们都盼着呢，我们真是需要一切帮助。嗯，我一直在看新闻。",
+                        "videoNameZh": "《纸牌屋 第三季》",
+                        "videoNameEn": "《House of Cards Season 3》",
+                        "url": "http://bisentence_movie.sogou.com/24bc4c1405d4e52e14fedac1b1736797_554f80d12452c6e69823b76061f3eeaece63a2fb"
+                    }
+                ]
+            },
+            "pic": "",
+            "voice": {
+                "phonetic": [
+                    {
+                        "text": "njuːz",
+                        "type": "uk",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/1282_news_uk.mp3"
+                    },
+                    {
+                        "text": "nuːz",
+                        "type": "usa",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/1282_news_usa.mp3"
+                    }
+                ]
+            },
+            "dictType": "oxford_buchong",
+            "CET6": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 13,
+                        "pos": "n",
+                        "chinese": "新闻; 消息",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "news",
+                "word_level_phrase_info": [
+                    {
+                        "brief_definition": "新闻报道；新闻报导；新闻的报道",
+                        "phrase": "news coverage",
+                        "pos": "phr"
+                    }
+                ],
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2016.6-2023.6年8年间全六级试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight>考纲释义</highlight>\n精选实考、考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2016-2023年51套试卷，包括阅读、听力、翻译等所有题型。\n\n<highlight>真题例句</highlight>\n精选2016-2023年8年间全六级试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 3,
+                "word_family": {
+                    "derivative_info_list": [
+                        {
+                            "derivative_info_list": [],
+                            "word": "newspaper",
+                            "mean": "n. 报纸；报"
+                        },
+                        {
+                            "derivative_info_list": [],
+                            "word": "newsreel",
+                            "mean": "n. 新闻（短）片"
+                        }
+                    ],
+                    "word": "news",
+                    "mean": "n. 新闻；消息；新情况；新闻报道；新闻节目；新闻事件；新闻广播；新闻人物"
+                },
+                "total_exam_freq": 13,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "a report of recent events or unknown information",
+                            "zh": "新闻; 消息",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "Good morning and welcome to People in the <highlight>News</highlight>.",
+                                    "month": 12,
+                                    "source": "CET6",
+                                    "coll": "",
+                                    "sentence_trans": "早上好，欢迎收看新闻人物。",
+                                    "year": 2021,
+                                    "type": "听力",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Schellenberg took that <highlight>news</highlight> in stride while continuing to cast a skeptical eye on the research in his field.",
+                                    "month": 12,
+                                    "source": "CET6",
+                                    "coll": "",
+                                    "sentence_trans": "Schellenberg从容地接受了这一消息，同时继续对他所在领域的研究持怀疑态度。",
+                                    "year": 2021,
+                                    "type": "阅读理解B",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "The <highlight>news</highlight> has left investors and consumers outraged but comes as little surprise to those in the fashion industry.",
+                                    "month": 12,
+                                    "source": "CET6",
+                                    "coll": "",
+                                    "sentence_trans": "这一消息让投资者和消费者感到愤怒，但对时装业的人来说并不意外。",
+                                    "year": 2021,
+                                    "type": "阅读理解B",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "word_affix": {
+                    "word": "news",
+                    "sub_affix_info_list": [
+                        {
+                            "affix": "new",
+                            "affix_mean": "adj. 新的"
+                        },
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "名词复数后缀, 表示数量多于一个",
+                                    "affix_type": "suffix"
+                                },
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "annals",
+                                            "mean": "pl-n. 编年史；历史记录；年报"
+                                        },
+                                        {
+                                            "word": "backwards",
+                                            "mean": "adv. 向后地；往回地；倒回原处地；反向地；回溯；每况愈下地"
+                                        },
+                                        {
+                                            "word": "clothes",
+                                            "mean": "pl-n. 衣服；服装；被褥"
+                                        },
+                                        {
+                                            "word": "corps",
+                                            "mean": "n. 军；队；部队；一组；一队；芭蕾舞队；（芭蕾舞团）伴舞队（CORPS DE BALLET的简称）"
+                                        },
+                                        {
+                                            "word": "genetics",
+                                            "mean": "pl-n. 遗传学；遗传性；遗传现象；遗传特征"
+                                        },
+                                        {
+                                            "word": "perhaps",
+                                            "mean": "adv. 或许；大概；可能；也许；好像"
+                                        },
+                                        {
+                                            "word": "theirs",
+                                            "mean": "pron. 他们的；属于他们的；它们的"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "副词后缀, 表示\"时间, 地点, 状态, 方式\"",
+                                    "affix_type": "suffix"
+                                }
+                            ],
+                            "affix": "-s",
+                            "affix_mean": "名词复数后缀"
+                        }
+                    ],
+                    "word_mean": "n. 新闻"
+                },
+                "disambiguation": [
+                    {
+                        "disambiguation_list": [
+                            {
+                                "word": "intelligence",
+                                "sense_disambiguation": "特指政治、经济、文化或军事等方面的秘密情报或消息。"
+                            },
+                            {
+                                "word": "news",
+                                "sense_disambiguation": "普通用词, 指主要通过报纸、广播和电视等报道的事件, 强调消息的新闻性。"
+                            }
+                        ],
+                        "sense_group": "新闻"
+                    }
+                ]
+            },
+            "CET4": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 60,
+                        "pos": "n",
+                        "chinese": "新闻; 消息",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "news",
+                "word_level_phrase_info": [
+                    {
+                        "brief_definition": "讨厌鬼；坏消息",
+                        "phrase": "bad news",
+                        "pos": "n"
+                    },
+                    {
+                        "brief_definition": "好消息；佳音；喜讯",
+                        "phrase": "good news",
+                        "pos": "n"
+                    },
+                    {
+                        "brief_definition": "新闻报道",
+                        "phrase": "news report",
+                        "pos": "phr"
+                    }
+                ],
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2016.6-2023.6年8年间全四级试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight>考纲释义</highlight>\n精选实考、考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2016-2023年51套试卷，包括阅读、听力、翻译等所有题型。\n\n<highlight>真题例句</highlight>\n精选2016-2023年8年间试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 5,
+                "word_family": {
+                    "derivative_info_list": [
+                        {
+                            "derivative_info_list": [],
+                            "word": "newspaper",
+                            "mean": "n. 报纸；报"
+                        }
+                    ],
+                    "word": "news",
+                    "mean": "n. 新闻；消息；新情况；新闻报道；新闻节目；新闻事件；新闻广播；新闻人物"
+                },
+                "total_exam_freq": 60,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "a report of recent events or unknown information",
+                            "zh": "新闻; 消息",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "What does the <highlight>news</highlight> report say about the waiter?",
+                                    "month": 12,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "这则新闻报道是怎么说这个服务员的？",
+                                    "year": 2020,
+                                    "type": "听力",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "What is reported in the <highlight>news</highlight>?",
+                                    "month": 12,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "新闻报道了什么？",
+                                    "year": 2020,
+                                    "type": "听力",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "What is the problem with many companies according to <highlight>news</highlight> report?",
+                                    "month": 6,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "根据新闻报道，许多公司存在什么问题？",
+                                    "year": 2016,
+                                    "type": "听力",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "word_affix": {
+                    "word": "news",
+                    "sub_affix_info_list": [
+                        {
+                            "affix": "new",
+                            "affix_mean": "adj. 新的"
+                        },
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "名词复数后缀, 表示数量多于一个",
+                                    "affix_type": "suffix"
+                                },
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "annals",
+                                            "mean": "pl-n. 编年史；历史记录；年报"
+                                        },
+                                        {
+                                            "word": "backwards",
+                                            "mean": "adv. 向后地；往回地；倒回原处地；反向地；回溯；每况愈下地"
+                                        },
+                                        {
+                                            "word": "clothes",
+                                            "mean": "pl-n. 衣服；服装；被褥"
+                                        },
+                                        {
+                                            "word": "corps",
+                                            "mean": "n. 军；队；部队；一组；一队；芭蕾舞队；（芭蕾舞团）伴舞队（CORPS DE BALLET的简称）"
+                                        },
+                                        {
+                                            "word": "genetics",
+                                            "mean": "pl-n. 遗传学；遗传性；遗传现象；遗传特征"
+                                        },
+                                        {
+                                            "word": "perhaps",
+                                            "mean": "adv. 或许；大概；可能；也许；好像"
+                                        },
+                                        {
+                                            "word": "theirs",
+                                            "mean": "pron. 他们的；属于他们的；它们的"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "副词后缀, 表示\"时间, 地点, 状态, 方式\"",
+                                    "affix_type": "suffix"
+                                }
+                            ],
+                            "affix": "-s",
+                            "affix_mean": "名词复数后缀"
+                        }
+                    ],
+                    "word_mean": "n. 新闻"
+                },
+                "word_usage": [
+                    {
+                        "usage": "news以s结尾，貌似复数，但是为不可数名词。故作主语时谓语要用单数：\nHere is the news.\n现在播报新闻。"
+                    },
+                    {
+                        "usage": "注意区分news后的that从句。若news在从句中充当句子成分，则that从句为定语从句；若从句说明news的内容，news不在从句中充当句子成分，则为同位语从句：\nI heard a piece of good news that you may not have heard.（that引导定语从句）\nI heard a piece of good that the Chinese players had already won 21 gold medals in the 2000 Sydney Olympic Games. （that引导同位语从句）"
+                    }
+                ],
+                "disambiguation": [
+                    {
+                        "disambiguation_list": [
+                            {
+                                "word": "intelligence",
+                                "sense_disambiguation": "特指政治、经济、文化或军事等方面的秘密情报或消息。"
+                            },
+                            {
+                                "word": "news",
+                                "sense_disambiguation": "普通用词，指主要通过报纸、广播和电视等报道的事件，强调消息的新闻性。"
+                            }
+                        ],
+                        "sense_group": "新闻"
+                    }
+                ]
+            },
+            "gaokao": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 32,
+                        "pos": "un",
+                        "chinese": "新闻; 消息",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "news",
+                "total_exam_freq": 32,
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2015-2022年8年间全国卷和自主命题省市高考卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2015-2022年全国卷高考试卷，包括阅读、完形、单选、填空、听力、改错、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选各省市考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2015-2022年8年间全国卷和自主命题省市高考卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 5,
+                "word_family": {
+                    "derivative_info_list": [
+                        {
+                            "derivative_info_list": [],
+                            "word": "newspaper",
+                            "mean": "n. 报纸；报"
+                        },
+                        {
+                            "derivative_info_list": [],
+                            "word": "newsman",
+                            "mean": "n. 新闻记者"
+                        }
+                    ],
+                    "word": "news",
+                    "mean": "n. 新闻；消息；新情况；新闻报道；新闻节目；新闻事件；新闻广播；新闻人物"
+                },
+                "word_level_phrase_info": [
+                    {
+                        "brief_definition": "坏消息",
+                        "phrase": "bad news",
+                        "pos": "phr."
+                    }
+                ],
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "新闻; 消息",
+                            "pos": "un",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "They needed to be aroused one way or the other, and they preferred good <highlight>news</highlight> to bad.",
+                                    "month": -1,
+                                    "source": "全国卷3",
+                                    "coll": "",
+                                    "sentence_trans": "他们需要以某种方式被唤醒，他们更喜欢好消息而不是坏消息。",
+                                    "year": 2016,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "By tracking people's e-mails and online posts, scientists have found that good <highlight>news</highlight> can spread faster and farther than disasters and sob stories.",
+                                    "month": -1,
+                                    "source": "全国卷3",
+                                    "coll": "",
+                                    "sentence_trans": "通过跟踪人们的电子邮件和在线帖子，科学家发现好消息比灾难和悲伤的故事传播得更快更远。",
+                                    "year": 2016,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Tony Higgins from UCAS said that the statistics are good <highlight>news</highlight> for everyone in higher education.",
+                                    "month": -1,
+                                    "source": "全国卷2",
+                                    "coll": "",
+                                    "sentence_trans": "UCAS的Tony Higgins说，这些统计数据对高等教育中的每个人来说都是好消息。",
+                                    "year": 2015,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "word_affix": {
+                    "word": "news",
+                    "sub_affix_info_list": [
+                        {
+                            "affix": "new",
+                            "affix_mean": "adj. 新的"
+                        },
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "名词复数后缀, 表示数量多于一个",
+                                    "affix_type": "suffix"
+                                },
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "annals",
+                                            "mean": "pl-n. 编年史；历史记录；年报"
+                                        },
+                                        {
+                                            "word": "backwards",
+                                            "mean": "adv. 向后地；往回地；倒回原处地；反向地；回溯；每况愈下地"
+                                        },
+                                        {
+                                            "word": "clothes",
+                                            "mean": "pl-n. 衣服；服装；被褥"
+                                        },
+                                        {
+                                            "word": "corps",
+                                            "mean": "n. 军；队；部队；一组；一队；芭蕾舞队；（芭蕾舞团）伴舞队（CORPS DE BALLET的简称）"
+                                        },
+                                        {
+                                            "word": "genetics",
+                                            "mean": "pl-n. 遗传学；遗传性；遗传现象；遗传特征"
+                                        },
+                                        {
+                                            "word": "perhaps",
+                                            "mean": "adv. 或许；大概；可能；也许；好像"
+                                        },
+                                        {
+                                            "word": "theirs",
+                                            "mean": "pron. 他们的；属于他们的；它们的"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "副词后缀, 表示\"时间, 地点, 状态, 方式\"",
+                                    "affix_type": "suffix"
+                                }
+                            ],
+                            "affix": "-s",
+                            "affix_mean": "名词复数后缀"
+                        }
+                    ],
+                    "word_mean": "n. 新闻"
+                },
+                "word_usage": [
+                    {
+                        "usage": "news以s结尾，貌似复数，但是为不可数名词。故作主语时谓语要用单数：\nHere is the news.\n现在播报新闻。"
+                    },
+                    {
+                        "usage": "注意区分news后的that从句。若news在从句中充当句子成分，则that从句为定语从句；若从句说明news的内容，news不在从句中充当句子成分，则为同位语从句：\nI heard a piece of good news that you may not have heard.（that引导定语从句）\nI heard a piece of good that the Chinese players had already won 21 gold medals in the 2000 Sydney Olympic Games. （that引导同位语从句）"
+                    }
+                ]
+            },
+            "zhongkao": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 162,
+                        "pos": "un",
+                        "chinese": "新闻; 消息",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "news",
+                "total_exam_freq": 162,
+                "direction_info": {
+                    "ranges": 4,
+                    "description": "数据源自2018-2021年4年间全国各省市中考试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2018-2021年全国重点省市中考试卷，包括听力、阅读、完形、单选、填空、改错、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选各省市考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2018-2021年4年间全国各省市中考试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 5,
+                "word_family": {
+                    "derivative_info_list": [
+                        {
+                            "derivative_info_list": [],
+                            "word": "newspaper",
+                            "mean": "n. 报纸；报"
+                        }
+                    ],
+                    "word": "news",
+                    "mean": "n. 新闻；消息；新情况；新闻报道；新闻节目；新闻事件；新闻广播；新闻人物"
+                },
+                "word_level_phrase_info": [
+                    {
+                        "brief_definition": "坏消息",
+                        "phrase": "bad news",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "新闻电视台；电视台；新闻单位",
+                        "phrase": "news station",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "体育新闻",
+                        "phrase": "sports news",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "看新闻",
+                        "phrase": "watch the news",
+                        "pos": ""
+                    }
+                ],
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "新闻; 消息",
+                            "pos": "un",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "On May 22, 2021, the whole nation was saddened by the <highlight>news</highlight> that Chinese scientist Yuan Longping died.",
+                                    "month": -1,
+                                    "source": "乐山市卷",
+                                    "coll": "",
+                                    "sentence_trans": "2021年5月22日，全国科学家对中国科学家袁龙平去世的消息感到悲伤。",
+                                    "year": 2021,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "What percentage of kids gets <highlight>news</highlight> or information online?",
+                                    "month": -1,
+                                    "source": "永州市卷",
+                                    "coll": "",
+                                    "sentence_trans": "有多大比例的孩子在网上获得新闻或信息？",
+                                    "year": 2021,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "While Nick  was watching CCTV <highlight>News</highlight>, someone knocked at the door.",
+                                    "month": -1,
+                                    "source": "新疆乌鲁木齐卷",
+                                    "coll": "",
+                                    "sentence_trans": "尼克在看中央电视台新闻时，有人敲门。",
+                                    "year": 2018,
+                                    "type": "单项选择",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "word_affix": {
+                    "sub_affix_info_list": [
+                        {
+                            "affix": "new",
+                            "affix_mean": "adj. 新的"
+                        },
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "名词复数后缀, 表示数量多于一个",
+                                    "affix_type": "suffix"
+                                },
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "annals",
+                                            "mean": "pl-n. 编年史；历史记录；年报"
+                                        },
+                                        {
+                                            "word": "backwards",
+                                            "mean": "adv. 向后地；往回地；倒回原处地；反向地；回溯；每况愈下地"
+                                        },
+                                        {
+                                            "word": "clothes",
+                                            "mean": "pl-n. 衣服；服装；被褥"
+                                        },
+                                        {
+                                            "word": "corps",
+                                            "mean": "n. 军；队；部队；一组；一队；芭蕾舞队；（芭蕾舞团）伴舞队（CORPS DE BALLET的简称）"
+                                        },
+                                        {
+                                            "word": "genetics",
+                                            "mean": "pl-n. 遗传学；遗传性；遗传现象；遗传特征"
+                                        },
+                                        {
+                                            "word": "perhaps",
+                                            "mean": "adv. 或许；大概；可能；也许；好像"
+                                        },
+                                        {
+                                            "word": "theirs",
+                                            "mean": "pron. 他们的；属于他们的；它们的"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "副词后缀, 表示\"时间, 地点, 状态, 方式\"",
+                                    "affix_type": "suffix"
+                                }
+                            ],
+                            "affix": "-s",
+                            "affix_mean": "名词复数后缀"
+                        }
+                    ],
+                    "word": "news",
+                    "word_mean": "n. 新闻"
+                },
+                "word_usage": [
+                    {
+                        "usage": "news是不可数名词，表示“一则新闻；一则消息”要用a piece of news。"
+                    }
+                ]
+            },
+            "sentencesData": {
+                "status": 1,
+                "info": "notZh2En",
+                "data": {}
+            },
+            "isAutoMatch": false,
+            "Zh2En": false
+        },
+        "query": "news",
+        "result": "新闻",
+        "tabSelect": "detail",
+        "dictionaryType": "oxford_buchong",
+        "notFound_show": false,
+        "phoneticShow": "",
+        "globalShowTranslateRecord": "",
+        "pronPrefer": {
+            "type": "usa_1",
+            "speaker": "male",
+            "speed": "standard"
+        },
+        "ServerRecord": "",
+        "ServerUIGS": {
+            "version": "new",
+            "type": "all",
+            "stype": "success",
+            "terminal": "web",
+            "fr": "default",
+            "direction": "etoz",
+            "from": "en",
+            "to": "zh-CHS",
+            "len": 4,
+            "qtype": "text",
+            "qctype": "qc_1",
+            "dict_cover": 1,
+            "detail": 1,
+            "wordCardCover": 1,
+            "wordCardEn": 1,
+            "wordCardCh": 0,
+            "wordCardMinor": 0,
+            "wordCardNetmean": 0,
+            "wordDeform": 0,
+            "keyword": 0,
+            "bilingual": 1,
+            "simple": 0,
+            "levelList": 1,
+            "synonym": 1,
+            "antonym": 0,
+            "conjugate": 1,
+            "rootaffix": 1,
+            "baike_sogou": 1,
+            "baike_wiki": 0,
+            "wordDifference": 1,
+            "word_phrase": 1,
+            "secondQuery": 0,
+            "dict_oxford": 0,
+            "dict_newcentury": 0,
+            "zhongkaotab": 1,
+            "gaokaotab": 1,
+            "CET4tab": 1,
+            "CET6tab": 1,
+            "kaoyantab": 0,
+            "network_tab": 0,
+            "yinying_tab": 1,
+            "tuozhan_tab": 0,
+            "one_pic": 0,
+            "more_pic": 0,
+            "no_pic": 0,
+            "uuid": "af23443c-b3c5-4840-a8e9-9c6b65bcf5e5",
+            "from_type": 0,
+            "t_trans_ssr": 174
+        },
+        "ServerModelUIGS": {
+            "terminal": "web",
+            "type": "trans_model",
+            "pbtype": "pv",
+            "model_general": 1,
+            "model_medical": 1,
+            "model_finance": 1
+        },
+        "ServerSgtkn": "64F01DE9B159379D9593BE2EB73A047D96CC128367552801",
+        "suggShow": false,
+        "suggestion": "",
+        "suggDirection": "",
+        "usualTop": "",
+        "baseDict": "",
+        "wordCardClick": false,
+        "isFrInput": false,
+        "kanaTips": {
+            "show": false,
+            "left": "",
+            "top": "",
+            "type": "",
+            "arrowLeft": ""
+        },
+        "currSentenceIndex": -1,
+        "prefixStrObj": {
+            "prefixStr": "",
+            "oriPrefixStr": ""
+        },
+        "selectTransBox": {
+            "show": false,
+            "right": 0,
+            "top": 0,
+            "paraphraseInfo": {
+                "word": "",
+                "from": "",
+                "to": "",
+                "area": ""
+            }
+        },
+        "sentenceLoading": false,
+        "newSentenceInfo": {
+            "sentence": "",
+            "candidateIndex": 0
+        },
+        "moreTipInfo": {
+            "opacity": 0,
+            "zIndex": -1
+        },
+        "paraphraseShowInfo": {
+            "card": 0,
+            "query": "",
+            "card_dict": 0
+        },
+        "selectType": "",
+        "wordPos": 0,
+        "candidateWord": "",
+        "syntaxVisible": false,
+        "syntaxStatus": 0
+    },
+    "language": {
+        "from": "auto",
+        "to": "zh-CHS",
+        "detect": "en",
+        "model": "general",
+        "detectShow": false,
+        "langMap": {
+            "current": ""
+        },
+        "zh2en": false,
+        "fromItemList": [
+            {
+                "lang": "auto",
+                "text": "自动检测",
+                "play": false
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "ko",
+                "text": "韩语",
+                "play": true,
+                "abbr": "韩"
+            },
+            {
+                "lang": "ru",
+                "text": "俄语",
+                "play": true,
+                "abbr": "俄"
+            },
+            {
+                "lang": "fr",
+                "text": "法语",
+                "play": true,
+                "abbr": "法"
+            }
+        ],
+        "toItemList": [
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "ru",
+                "text": "俄语",
+                "play": true,
+                "abbr": "俄"
+            },
+            {
+                "lang": "es",
+                "text": "西班牙语",
+                "play": true,
+                "abbr": "西"
+            },
+            {
+                "lang": "vi",
+                "text": "越南语",
+                "play": true,
+                "abbr": "越"
+            }
+        ]
+    },
+    "voice": {
+        "from": {
+            "lang": "en",
+            "type": "from",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22news%22%2C%22spokenDialect%22%3A%22en%22%2C%22rate%22%3A%220.8%22%7D",
+            "list": [
+                {
+                    "type": "uk_0",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "njuːz",
+                    "abbr": "英",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/1282_news_uk.mp3"
+                },
+                {
+                    "type": "usa_1",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "nuːz",
+                    "abbr": "美",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/1282_news_usa.mp3"
+                }
+            ],
+            "stype": "phonetic",
+            "phoneticShow": [
+                {
+                    "text": "njuːz",
+                    "type": "uk",
+                    "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/1282_news_uk.mp3"
+                },
+                {
+                    "text": "nuːz",
+                    "type": "usa",
+                    "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/1282_news_usa.mp3"
+                }
+            ]
+        },
+        "to": {
+            "lang": "zh",
+            "type": "to",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22%E6%96%B0%E9%97%BB%22%2C%22spokenDialect%22%3A%22zh-CHS%22%2C%22rate%22%3A%220.8%22%7D",
+            "stype": "normal"
+        }
+    }
+}

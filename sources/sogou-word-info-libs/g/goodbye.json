@@ -1,0 +1,891 @@
+{
+    "route": {
+        "name": "text",
+        "path": "/text",
+        "hash": "",
+        "query": {
+            "keyword": "goodbye",
+            "transfrom": "auto",
+            "transto": "zh-CHS",
+            "model": "general",
+            "errcode": "s10"
+        },
+        "params": {},
+        "fullPath": "/text?keyword=goodbye&transfrom=auto&transto=zh-CHS&model=general&errcode=s10",
+        "meta": {
+            "mtype": [
+                "textTranslate",
+                "language",
+                "voice"
+            ]
+        },
+        "from": {
+            "name": null,
+            "path": "/",
+            "hash": "",
+            "query": {},
+            "params": {},
+            "fullPath": "/",
+            "meta": {}
+        }
+    },
+    "common": {
+        "CONFIG": {
+            "wuid": 1733633314881,
+            "loginInfo": {},
+            "isIE": 0,
+            "isHitSsrSwitch": true,
+            "isHitWritebookSwitch": false,
+            "isHitAmsSwitch": true,
+            "promotionList": "{\n    \"pc_bottom\":{\n        \"imgsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\",\n        \"qcsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\"\n    },\n    \"pc_middle\":[\n        {\n            \"src\":\"//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c\",\n            \"bgColor\":\"#ffffff\",\n            \"link\":\"\"\n        }\n    ],\n    \"pc_survey\":{\n        \"icon\":\"//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750\",\n        \"link\":\"https://wj.qq.com/s2/8193148/806d/\"\n    }\n}",
+            "bannerData": [],
+            "isHitAsideSurvey": false,
+            "secretCode": 109984457,
+            "uuid": "2dae7c3d-8fbb-4a7d-a923-f5d15e0a8af1",
+            "referer": "",
+            "approveToken": "64ED1BD835F799303A3C1380CFDD515A3B2472B467552522",
+            "loadTime": 1733633314883,
+            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0",
+            "fcp": "138.197.122.177",
+            "temporaryId": "",
+            "fileId": ""
+        },
+        "hotWords": [],
+        "isFromCollect": false,
+        "psdModify": {
+            "currentStep": 1,
+            "scode": "",
+            "username": ""
+        },
+        "loginStatus": true,
+        "feedBackModule": false,
+        "showPromotionPopup": {
+            "show": false,
+            "type": ""
+        },
+        "showPromotionPCDownload": false,
+        "showShareBomb": false,
+        "shareData": null,
+        "showAppDownLoad": false,
+        "showLoginDialog": false,
+        "showLoading": {
+            "show": false
+        },
+        "toast": {
+            "show": false,
+            "text": "",
+            "loading": false
+        },
+        "modelToast": {
+            "show": false,
+            "text": ""
+        },
+        "selectionGlobalShow": true,
+        "selectionInfo": {
+            "left": 0,
+            "top": 0,
+            "show": false,
+            "from": "",
+            "to": "",
+            "val": "",
+            "area": ""
+        },
+        "showConfirmDialog": false,
+        "promotionList": {
+            "pc_bottom": {
+                "imgsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png",
+                "qcsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png"
+            },
+            "pc_middle": [
+                {
+                    "src": "//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c",
+                    "bgColor": "#ffffff",
+                    "link": ""
+                }
+            ],
+            "pc_survey": {
+                "icon": "//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750",
+                "link": "https://wj.qq.com/s2/8193148/806d/"
+            }
+        },
+        "transTypeTxt": "text",
+        "fixedTabStatus": 0,
+        "bodyTop": 0,
+        "ifHideUserOperation": false
+    },
+    "textTranslate": {
+        "prevTransQuery": "",
+        "translateData": {
+            "translate": {
+                "zly": "zly",
+                "errorCode": "0",
+                "qc_type": "1",
+                "index": "content0",
+                "from": "en",
+                "source": "sogou",
+                "text": "goodbye",
+                "to": "zh-CHS",
+                "id": "2dae7c3d-8fbb-4a7d-a923-f5d15e0a8af1",
+                "dit": "再见",
+                "orig_text": "goodbye",
+                "md5": ""
+            },
+            "detect": {
+                "zly": "zly",
+                "detect": "en",
+                "errorCode": "0",
+                "language": "英语",
+                "id": "ae8ca040-b51f-11ef-bc8d-49b091bef9d0",
+                "text": "goodbye"
+            },
+            "sgtkn": "64ED1BDA35F799303A3C1380CFDD515A3B2472B467552522",
+            "wordCard": {
+                "title": "goodbye",
+                "show": true,
+                "usualDict": [
+                    {
+                        "values": [
+                            "再见；告别；再会；拜拜"
+                        ],
+                        "pos": "int."
+                    },
+                    {
+                        "values": [
+                            "再见；再会；挥手告别；道别之时；离别的场合"
+                        ],
+                        "pos": "n."
+                    }
+                ],
+                "secondQuery": "",
+                "exchange": {
+                    "word_pl": [
+                        "goodbyes"
+                    ]
+                },
+                "levelList": [
+                    "小学",
+                    "初中",
+                    "四级",
+                    "考研"
+                ]
+            },
+            "detail": {
+                "synonym": [
+                    {
+                        "word_list": [
+                            "bye",
+                            "adios",
+                            "tatas",
+                            "pippip",
+                            "bye-bye"
+                        ],
+                        "pos": "int.",
+                        "mean": "再见"
+                    }
+                ],
+                "word_group": [
+                    {
+                        "brief_definition": "甘愿失去某种东西",
+                        "phrase": "kiss something goodbye",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "甘愿失去某种东西",
+                        "phrase": "kiss goodbye to something",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "说再见；告别；再见",
+                        "phrase": "say goodbye",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "吻别；告别之吻；亲吻告别",
+                        "phrase": "kiss goodbye",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "说再见",
+                        "phrase": "bid goodbye",
+                        "pos": ""
+                    }
+                ],
+                "bilingual": [
+                    {
+                        "source": "<em>Goodbye</em> Granny bye! bye! bye! bye!",
+                        "target": "再见奶奶，再见！再见！再见！再见！",
+                        "url": ""
+                    },
+                    {
+                        "source": "I say \"Hi!\" and \"<em>Goodbye</em>!\"",
+                        "target": "我说“你好！”和“再见！”",
+                        "url": ""
+                    },
+                    {
+                        "source": "Class is over. <em>Goodbye</em>, class!",
+                        "target": "下课了。再见，同学们！",
+                        "url": ""
+                    },
+                    {
+                        "source": "<em>Goodbye</em> Granny things will be all right.",
+                        "target": "再见奶奶，一切都会好起来的。",
+                        "url": ""
+                    },
+                    {
+                        "source": "It's nearly time to fly <em>goodbye</em> Granny.",
+                        "target": "差不多是时候飞走了，再见奶奶。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Say <em>goodbye</em> to the cat.",
+                        "target": "跟猫说再见。",
+                        "url": ""
+                    },
+                    {
+                        "source": "It's time to say <em>goodbye</em> now.",
+                        "target": "现在是时候说再见了。",
+                        "url": ""
+                    },
+                    {
+                        "source": "My mum is waving to say <em>goodbye</em>.",
+                        "target": "妈妈在挥手说再见。",
+                        "url": ""
+                    },
+                    {
+                        "source": "That's easy, wave to say <em>goodbye</em>.",
+                        "target": "很简单，挥手说再见。",
+                        "url": ""
+                    },
+                    {
+                        "source": "It was almost time to say <em>goodbye</em>.",
+                        "target": "差不多是时候说再见了。",
+                        "url": ""
+                    }
+                ],
+                "baike": {
+                    "showMore": true,
+                    "list": [
+                        {
+                            "lemmaTitle": "goodbye",
+                            "link": "https://baike.sogou.com/v64428584.htm?ch=sogou.fanyi",
+                            "abstract": "goodbye（英 [ˌɡʊdˈbaɪ]，美 [ˌɡʊdˈbaɪ]），英语单词，作动词为再见。作名词为说“再见”；分别。短语搭配有kiss something goodbye（甘愿失去某种东西）。例句为“I hadn't even said goodbye to her.（我甚至没有和她说再见。）” goodbye相关近义词有bye、adios等。",
+                            "wapPic": "",
+                            "pcPic": ""
+                        },
+                        {
+                            "lemmaTitle": "goodbye",
+                            "link": "https://baike.sogou.com/v64428587.htm?ch=sogou.fanyi",
+                            "abstract": "《goodbye》是艾薇儿演唱的一首歌曲，发行于2011年3月8日。",
+                            "wapPic": "//img01.sogoucdn.com/v2/thumb/retype_exclude_gif/ext/auto/q/80/crop/xy/ai/w/140/h/140/resize/w/140?appid=201005&sign=51f83e35ed74b7670da0b7f642245326&url=https%3A%2F%2Fpic.baike.soso.com%2Fugc%2Fbaikepic2%2F10032%2F20220506143817-94214620_jpeg_469_354_38018.jpg%2F0",
+                            "pcPic": "//img01.sogoucdn.com/v2/thumb/retype_exclude_gif/ext/auto/q/80/crop/xy/ai/w/140/h/140/resize/w/140?appid=201005&sign=51f83e35ed74b7670da0b7f642245326&url=https%3A%2F%2Fpic.baike.soso.com%2Fugc%2Fbaikepic2%2F10032%2F20220506143817-94214620_jpeg_469_354_38018.jpg%2F0"
+                        }
+                    ]
+                }
+            },
+            "book": {
+                "yingyinNormal": [
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/5440028de015a767476054a27cf789d8_26933.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/06aa521ab76ff635b994b8541cf62898_8081.mp3",
+                        "isLavafox": true,
+                        "en": "<em>Goodbye</em>, Mummy Pig and Daddy Pig. <em>Goodbye</em>.",
+                        "zh": "再见了，猪妈妈猪爸爸。再见了。",
+                        "videoNameZh": "《小猪佩奇 第一季》",
+                        "videoNameEn": "《Peppa Pig Season 1》",
+                        "url": "http://bisentence_movie.sogou.com/4217dff1435397a6391c07584f0e4243_da03d283c9c1a503f64f42bfda23921915b4bc6f"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/629af26ee246702b04dae9c64fe5736b_64581.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/541d332a5a534ad88dcec7393dc69522_50497.mp3",
+                        "isLavafox": true,
+                        "en": "Thank you Doctor Brown Bear. <em>Goodbye</em>. Bye.",
+                        "zh": "谢谢你棕熊医生。再见。再见。",
+                        "videoNameZh": "《小猪佩奇（精选版）》",
+                        "videoNameEn": "《Peppa Pig》",
+                        "url": "http://bisentence_movie.sogou.com/ac16d168946aecc1644e55bebff55b54_ef9a44ac0d095eb19aa150457bafef50dbac29b5"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/6eb44e6b184aef9609d792a739b27dd9_60807.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/cc157256bbb2574f53b2c348aa8ab3f6_65139.mp3",
+                        "isLavafox": true,
+                        "en": "You aren't going to say <em>goodbye</em>?",
+                        "zh": "不说再见就走了吗？",
+                        "videoNameZh": "《速度与激情7》",
+                        "videoNameEn": "《Fast & Furious 7》",
+                        "url": "http://bisentence_movie.sogou.com/52f3b206f4402ee4ebc424c69a3027f9_c3cd1b8994cc7627a257e11b2427c153f58c1b8b"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/efb46b0d09a0d16595177f67fa563c67_36206.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/809f1f8297ae2fc5fb1b4bc524c9df76_47667.mp3",
+                        "isLavafox": true,
+                        "en": "It's time to go home. Say <em>goodbye</em> to the ducks.",
+                        "zh": "我们该回家了，和鸭子们说再见吧。再见了，鸭子们。下次再见咯。",
+                        "videoNameZh": "《100天养成流利口语》",
+                        "videoNameEn": "《Get fluent spoken English in 100 days》",
+                        "url": "http://bisentence_movie.sogou.com/8d8377df8e67c228a4151005bcca3add_d4687e6b4ecafddf11121556c796250b9682f8e2"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/65861602801590fdaf378b1d1c997a40_10433.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/ff95a92087b88416cd80073a17214dcb_34449.mp3",
+                        "isLavafox": true,
+                        "en": "<em>Goodbye</em> Geller. Now, hold on. Hold on.",
+                        "zh": "再见了，盖勒。等一下…",
+                        "videoNameZh": "《老友记 第五季》",
+                        "videoNameEn": "《Friends Season 5》",
+                        "url": "http://bisentence_movie.sogou.com/00a932f076857fad77f130e7765d132e_d84c5888d39ed98075c18246b2bce14a7b3c8a5f"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/c147f8d54a969778fef4aa74fdb25c24_34800.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/6408533d9f9a803aa7bdf422b68c2073_29736.mp3",
+                        "isLavafox": true,
+                        "en": "Then I'll see you in the morning. <em>Goodbye</em>, Mother.",
+                        "zh": "那我们早上见。再见，母亲。",
+                        "videoNameZh": "《纸牌屋 第四季》",
+                        "videoNameEn": "《House of Cards Season 4》",
+                        "url": "http://bisentence_movie.sogou.com/8261ef961ae5d3e04a8a6cd30e149bac_96132a8a9df850cd59ec2b14ff934a3bd3869bbe"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/efb46b0d09a0d16595177f67fa563c67_36206.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/18f658e1f2eb52c5bf0bd52e5c2787d3_64459.mp3",
+                        "isLavafox": true,
+                        "en": "This is the airport. <em>Goodbye</em>. Have a lovely holiday.",
+                        "zh": "这是机场。再见！假期愉快。",
+                        "videoNameZh": "《100天养成流利口语》",
+                        "videoNameEn": "《Get fluent spoken English in 100 days》",
+                        "url": "http://bisentence_movie.sogou.com/7769a5b611a935c3c04882f41b0aa6a4_83da0abb3f761f45acd82296761007f0e415aed2"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/5dc3cf8cad26e071498ca907fcc13dc6_46983.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/b82abc9da0d77a37a15016b6fbc2c3cc_27031.mp3",
+                        "isLavafox": true,
+                        "en": "This is the airport. <em>Goodbye</em>. Have a lovely holiday.",
+                        "zh": "这是机场。再见！假期愉快。",
+                        "videoNameZh": "《小猪佩奇 第四季》",
+                        "videoNameEn": "《Peppa Pig Season 4》",
+                        "url": "http://bisentence_movie.sogou.com/6960957b75f25cdbd5c4961c9611694c_b998c9d84b3d351468407d4ee9e732d350f9816b"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/a58ed194f1b80b4b3a378a48a1ea9e4b_23523.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/011297d83e28c045ba36239cc8cb9e23_51875.mp3",
+                        "isLavafox": true,
+                        "en": "I'm off to go find the Tribal Territory. Oh, <em>goodbye</em>!",
+                        "zh": "我要去找野人领地了，再见！",
+                        "videoNameZh": "《小飞侠：幻梦启航》",
+                        "videoNameEn": "《Pan》",
+                        "url": "http://bisentence_movie.sogou.com/3cd2aeba7d2803b49f466011c52ba630_45e3294ad0aaff8355646b8946db9439649eef94"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/aa7a748a86497e02e2b0a5098f3017b8_12619.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/5846b05781d5f44c8c294dd87b7491a6_40768.mp3",
+                        "isLavafox": true,
+                        "en": "<em>Goodbye</em>, tiny little girls. Let's do this thing.",
+                        "zh": "再见了，小姑娘们，让我们共患难吧。",
+                        "videoNameZh": "《女孩成长记 第一季》",
+                        "videoNameEn": "《Girl Meets World Season 1》",
+                        "url": "http://bisentence_movie.sogou.com/25235eda31f303c5b342c509daa95ac0_281e7efc979d66337d406c6c62d7cb938f062534"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/6eb44e6b184aef9609d792a739b27dd9_60807.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/2ecbcdbe9f8da600d341d30bae0ab724_53294.mp3",
+                        "isLavafox": true,
+                        "en": "Yeah! Good job! My man. It's never <em>goodbye</em>.",
+                        "zh": "耶！干得漂亮！不愧是我儿子。永远不会再见。",
+                        "videoNameZh": "《速度与激情7》",
+                        "videoNameEn": "《Fast & Furious 7》",
+                        "url": "http://bisentence_movie.sogou.com/49ddd12cfd61e9cf995141d397a3c98e_83e831aaccb2779ab7ca39030f59d70920777c27"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/812cb5c6c8a67c1f501abd2211d1917d_12450.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/37a1a8815d5b60624a8edcad9778f3fb_29872.mp3",
+                        "isLavafox": true,
+                        "en": "Maestro, you were so brave. <em>Goodbye</em>, my love.",
+                        "zh": "卡登扎大师，你是如此勇敢。再见，我的爱。",
+                        "videoNameZh": "《美女与野兽》",
+                        "videoNameEn": "《Beauty and the Beast》",
+                        "url": "http://bisentence_movie.sogou.com/bf173ee2cfa15531861d4c64c21096ae_5d3840bf2b1a016bf232848742abf1421c327058"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/a3f6ca8d0ebaa5b0956976d643673427_52102.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/aa8c23d4a2e7a25d14f39118632b1f0a_23906.mp3",
+                        "isLavafox": true,
+                        "en": "We are sailing to Pirate Island. <em>Goodbye</em> Grampy Rabbit.",
+                        "zh": "我们要驶向海盗岛了。再见，兔爷爷。",
+                        "videoNameZh": "《小猪佩奇 第三季》",
+                        "videoNameEn": "《Peppa Pig Season 3》",
+                        "url": "http://bisentence_movie.sogou.com/6d5c631b921a3affab17bbbb6ac1317e_dc8b606d64afe3dd9e807c6e2f21b2d23b2d8427"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/629af26ee246702b04dae9c64fe5736b_64581.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/3a1562f12dfcd526092d34abc507e426_60409.mp3",
+                        "isLavafox": true,
+                        "en": "Hello? Yes, do this, do that. No, thank you, <em>goodbye</em>.",
+                        "zh": "有人吗？是的，做这个，做那个。不用了，谢谢，再见。",
+                        "videoNameZh": "《小猪佩奇（精选版）》",
+                        "videoNameEn": "《Peppa Pig》",
+                        "url": "http://bisentence_movie.sogou.com/ecdd56a53fb0bf9664f5cf91cbee82bb_128005af4c4f4964b15cd1fe07f53acf53676951"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/5440028de015a767476054a27cf789d8_26933.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/a0c11a5454266aa49fb94e4a66af6d53_6001.mp3",
+                        "isLavafox": true,
+                        "en": "Parcel for you, Mr. Pig! Thank you, Mr. Zebra. <em>Goodbye</em>!",
+                        "zh": "有你的包裹，猪先生。太感谢你了，斑马先生。再见。",
+                        "videoNameZh": "《小猪佩奇 第一季》",
+                        "videoNameEn": "《Peppa Pig Season 1》",
+                        "url": "http://bisentence_movie.sogou.com/031607920964efe948b4d007633add94_b18952c4bcc2cf81e2534fd6ada1396361e8db94"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/82b4636112184859779afa48d26f2aac_11190.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/579ef46e8f35779d8d48bdb368b1e9b0_27150.mp3",
+                        "isLavafox": true,
+                        "en": "It's just hard for her to say <em>goodbye</em>.",
+                        "zh": "他是不舍得我们，在和我们说再见。",
+                        "videoNameZh": "《里约大冒险2》",
+                        "videoNameEn": "《RIO 2》",
+                        "url": "http://bisentence_movie.sogou.com/57d77277ae034a3e6c32a638f1a035e7_de3c6b033cf8aec9d0ad50ae2988ed3c7045f250"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/5440028de015a767476054a27cf789d8_26933.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/8e9b64e60f4d3041b9fd5678e0f30f0b_31063.mp3",
+                        "isLavafox": true,
+                        "en": "Thank you, Granddad Dog, and keep the change. Thank you, Daddy Pig. <em>Goodbye</em>! <em>Goodbye</em>! <em>Goodbye</em>! <em>Goodbye</em>!",
+                        "zh": "真是太感谢你了，不用找了。谢谢你，猪爸爸，再见！再见！再见！再见！",
+                        "videoNameZh": "《小猪佩奇 第一季》",
+                        "videoNameEn": "《Peppa Pig Season 1》",
+                        "url": "http://bisentence_movie.sogou.com/f871e2a22b096ffe7e9757ae60e73f1f_9817611ab370257984e849b63ed1319d05ab7b55"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/b73d6e20976b7ffe4e651b29ea5ddefc_31309.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/b02bbf1bc663a88719ee0af023325211_55106.mp3",
+                        "isLavafox": true,
+                        "en": "<em>Goodbye</em>, Peppa. <em>Goodbye</em>, George. <em>Goodbye</em>, Granny Pig. <em>Goodbye</em>, Grandpa Pig. <em>Goodbye</em>, Granny Pig. <em>Goodbye</em>, Grandpa Pig. Would you like a cup of tea? Would you like a cup of tea?",
+                        "zh": "再见了，佩奇。再见了，乔治。再见了，爷爷。再见了，奶奶。再见了，爷爷。再见了，奶奶。你想要喝一杯茶吗？你想要喝一杯茶吗？",
+                        "videoNameZh": "《粉红猪小妹 第二季》",
+                        "videoNameEn": "《Peppa Pig Season 2》",
+                        "url": "http://bisentence_movie.sogou.com/f1f7f942fa18b362155ada11fa6bbe11_1b30eef20b38aebbf9b05bd67af177bab8c04979"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/5440028de015a767476054a27cf789d8_26933.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/7bc7d06c249d8b6a49fa005b267afc89_43419.mp3",
+                        "isLavafox": true,
+                        "en": "When you come back, I will have fixed your car. Thank you, Grandad Dog. <em>Goodbye</em>. <em>Goodbye</em>! Bye bye! <em>Goodbye</em>!",
+                        "zh": "等你们回来时，车子就修好了。谢谢你的帮忙，再见。再见！再见！再见！",
+                        "videoNameZh": "《小猪佩奇 第一季》",
+                        "videoNameEn": "《Peppa Pig Season 1》",
+                        "url": "http://bisentence_movie.sogou.com/5fb5dddcd3acdae9180ba000ab28cdd8_9094f652b254304659289bca46cc00b6ac7e1772"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/629af26ee246702b04dae9c64fe5736b_64581.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/474d94b14c3120377fcc8a135e734543_36336.mp3",
+                        "isLavafox": true,
+                        "en": "Oh, dear. Doctor Brown Bear has caught Petro's cough. Not to worry, <em>goodbye</em>. <em>Goodbye</em>.",
+                        "zh": "噢，天哪。棕熊医生被传染了佩德罗的咳嗽。不用担心，再见。再见。",
+                        "videoNameZh": "《小猪佩奇（精选版）》",
+                        "videoNameEn": "《Peppa Pig》",
+                        "url": "http://bisentence_movie.sogou.com/c4be0179ef980c5654224b07d0f8be51_a6375823a69cccab572781617ca70a01e1031cea"
+                    }
+                ]
+            },
+            "pic": "",
+            "voice": {
+                "phonetic": [
+                    {
+                        "text": "ˌɡʊdˈbaɪ",
+                        "type": "uk",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/8629_goodbye_uk.mp3"
+                    },
+                    {
+                        "text": "ˌɡʊdˈbaɪ",
+                        "type": "usa",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/8629_goodbye_usa.mp3"
+                    }
+                ]
+            },
+            "dictType": "oxford_buchong",
+            "gaokao": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 3,
+                        "pos": "n",
+                        "chinese": "再见; 告别",
+                        "sense_tier_ratio": 100
+                    },
+                    {
+                        "sense_tier": 0,
+                        "pos": "int",
+                        "chinese": "再见; 再会",
+                        "sense_tier_ratio": 0
+                    }
+                ],
+                "word": "goodbye",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2015-2022年8年间全国卷和自主命题省市高考卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2015-2022年全国卷高考试卷，包括阅读、完形、单选、填空、听力、改错、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选各省市考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2015-2022年8年间全国卷和自主命题省市高考卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 1,
+                "total_exam_freq": 3,
+                "sense": {
+                    "sense_num": 2,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "再见; 告别",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "As she was leaving, she was eager to say <highlight>goodbye</highlight> to each of us in the nursing team.",
+                                    "month": -1,
+                                    "source": "全国乙卷",
+                                    "coll": "",
+                                    "sentence_trans": "当她要离开的时候，她渴望和护理团队的每一个人道别。",
+                                    "year": 2021,
+                                    "type": "完形填空",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "<highlight>Goodbye</highlight> for now!",
+                                    "month": -1,
+                                    "source": "全国卷3",
+                                    "coll": "",
+                                    "sentence_trans": "暂时再见了！",
+                                    "year": 2016,
+                                    "type": "听力",
+                                    "day": -1
+                                }
+                            ]
+                        },
+                        {
+                            "synonyms": "",
+                            "en": "",
+                            "zh": "再见; 再会",
+                            "pos": "int",
+                            "antonyms": ""
+                        }
+                    ]
+                }
+            },
+            "zhongkao": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 37,
+                        "pos": "int/n",
+                        "chinese": "再见; 再会",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "goodbye",
+                "direction_info": {
+                    "ranges": 4,
+                    "description": "数据源自2018-2021年4年间全国各省市中考试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2018-2021年全国重点省市中考试卷，包括听力、阅读、完形、单选、填空、改错、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选各省市考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2018-2021年4年间全国各省市中考试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 5,
+                "total_exam_freq": 37,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "再见; 再会",
+                            "pos": "int/n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "It won’t be long before we say <highlight>goodbye</highlight> to our beloved school!",
+                                    "month": -1,
+                                    "source": "宜宾市卷",
+                                    "coll": "",
+                                    "sentence_trans": "用不了多久，我们就要和心爱的学校说再见了！",
+                                    "year": 2021,
+                                    "type": "单词填空",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "But now people are saying <highlight>goodbye</highlight> to paper tickets.",
+                                    "month": -1,
+                                    "source": "绥化市卷",
+                                    "coll": "",
+                                    "sentence_trans": "但是现在人们正在和纸质票再见。",
+                                    "year": 2021,
+                                    "type": "回答问题",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "I hadn't even said <highlight>goodbye</highlight> to her.",
+                                    "month": -1,
+                                    "source": "青岛市",
+                                    "coll": "",
+                                    "sentence_trans": "我甚至没有和她说再见。",
+                                    "year": 2020,
+                                    "type": "完形填空",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            "sentencesData": {
+                "status": 1,
+                "info": "notZh2En",
+                "data": {}
+            },
+            "isAutoMatch": false,
+            "Zh2En": false
+        },
+        "query": "goodbye",
+        "result": "再见",
+        "tabSelect": "detail",
+        "dictionaryType": "oxford_buchong",
+        "notFound_show": false,
+        "phoneticShow": "",
+        "globalShowTranslateRecord": "",
+        "pronPrefer": {
+            "type": "usa_1",
+            "speaker": "male",
+            "speed": "standard"
+        },
+        "ServerRecord": "",
+        "ServerUIGS": {
+            "version": "new",
+            "type": "all",
+            "stype": "success",
+            "terminal": "web",
+            "fr": "default",
+            "direction": "etoz",
+            "from": "en",
+            "to": "zh-CHS",
+            "len": 7,
+            "qtype": "text",
+            "qctype": "qc_1",
+            "dict_cover": 1,
+            "detail": 1,
+            "wordCardCover": 1,
+            "wordCardEn": 1,
+            "wordCardCh": 0,
+            "wordCardMinor": 0,
+            "wordCardNetmean": 0,
+            "wordDeform": 1,
+            "keyword": 0,
+            "bilingual": 1,
+            "simple": 0,
+            "levelList": 1,
+            "synonym": 1,
+            "antonym": 0,
+            "conjugate": 0,
+            "rootaffix": 0,
+            "baike_sogou": 1,
+            "baike_wiki": 0,
+            "wordDifference": 0,
+            "word_phrase": 1,
+            "secondQuery": 0,
+            "dict_oxford": 0,
+            "dict_newcentury": 0,
+            "zhongkaotab": 1,
+            "gaokaotab": 1,
+            "CET4tab": 0,
+            "CET6tab": 0,
+            "kaoyantab": 0,
+            "network_tab": 0,
+            "yinying_tab": 1,
+            "tuozhan_tab": 0,
+            "one_pic": 0,
+            "more_pic": 0,
+            "no_pic": 0,
+            "uuid": "2dae7c3d-8fbb-4a7d-a923-f5d15e0a8af1",
+            "from_type": 0,
+            "t_trans_ssr": 376
+        },
+        "ServerModelUIGS": {
+            "terminal": "web",
+            "type": "trans_model",
+            "pbtype": "pv",
+            "model_general": 1,
+            "model_medical": 1,
+            "model_finance": 1
+        },
+        "ServerSgtkn": "64ED1BDA35F799303A3C1380CFDD515A3B2472B467552522",
+        "suggShow": false,
+        "suggestion": "",
+        "suggDirection": "",
+        "usualTop": "",
+        "baseDict": "",
+        "wordCardClick": false,
+        "isFrInput": false,
+        "kanaTips": {
+            "show": false,
+            "left": "",
+            "top": "",
+            "type": "",
+            "arrowLeft": ""
+        },
+        "currSentenceIndex": -1,
+        "prefixStrObj": {
+            "prefixStr": "",
+            "oriPrefixStr": ""
+        },
+        "selectTransBox": {
+            "show": false,
+            "right": 0,
+            "top": 0,
+            "paraphraseInfo": {
+                "word": "",
+                "from": "",
+                "to": "",
+                "area": ""
+            }
+        },
+        "sentenceLoading": false,
+        "newSentenceInfo": {
+            "sentence": "",
+            "candidateIndex": 0
+        },
+        "moreTipInfo": {
+            "opacity": 0,
+            "zIndex": -1
+        },
+        "paraphraseShowInfo": {
+            "card": 0,
+            "query": "",
+            "card_dict": 0
+        },
+        "selectType": "",
+        "wordPos": 0,
+        "candidateWord": "",
+        "syntaxVisible": false,
+        "syntaxStatus": 0
+    },
+    "language": {
+        "from": "auto",
+        "to": "zh-CHS",
+        "detect": "en",
+        "model": "general",
+        "detectShow": false,
+        "langMap": {
+            "current": ""
+        },
+        "zh2en": false,
+        "fromItemList": [
+            {
+                "lang": "auto",
+                "text": "自动检测",
+                "play": false
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "th",
+                "text": "泰语",
+                "play": true,
+                "abbr": "泰"
+            },
+            {
+                "lang": "ru",
+                "text": "俄语",
+                "play": true,
+                "abbr": "俄"
+            },
+            {
+                "lang": "fr",
+                "text": "法语",
+                "play": true,
+                "abbr": "法"
+            }
+        ],
+        "toItemList": [
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "ru",
+                "text": "俄语",
+                "play": true,
+                "abbr": "俄"
+            },
+            {
+                "lang": "vi",
+                "text": "越南语",
+                "play": true,
+                "abbr": "越"
+            },
+            {
+                "lang": "fr",
+                "text": "法语",
+                "play": true,
+                "abbr": "法"
+            }
+        ]
+    },
+    "voice": {
+        "from": {
+            "lang": "en",
+            "type": "from",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22goodbye%22%2C%22spokenDialect%22%3A%22en%22%2C%22rate%22%3A%220.8%22%7D",
+            "list": [
+                {
+                    "type": "uk_0",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "ˌɡʊdˈbaɪ",
+                    "abbr": "英",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/8629_goodbye_uk.mp3"
+                },
+                {
+                    "type": "usa_1",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "ˌɡʊdˈbaɪ",
+                    "abbr": "美",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/8629_goodbye_usa.mp3"
+                }
+            ],
+            "stype": "phonetic",
+            "phoneticShow": [
+                {
+                    "text": "ˌɡʊdˈbaɪ",
+                    "type": "uk",
+                    "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/8629_goodbye_uk.mp3"
+                }
+            ]
+        },
+        "to": {
+            "lang": "zh",
+            "type": "to",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22%E5%86%8D%E8%A7%81%22%2C%22spokenDialect%22%3A%22zh-CHS%22%2C%22rate%22%3A%220.8%22%7D",
+            "stype": "normal"
+        }
+    }
+}

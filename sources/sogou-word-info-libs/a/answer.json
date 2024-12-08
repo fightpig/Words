@@ -1,0 +1,2324 @@
+{
+    "route": {
+        "name": "text",
+        "path": "/text",
+        "hash": "",
+        "query": {
+            "keyword": "answer",
+            "transfrom": "auto",
+            "transto": "zh-CHS",
+            "model": "general",
+            "errcode": "s10"
+        },
+        "params": {},
+        "fullPath": "/text?keyword=answer&transfrom=auto&transto=zh-CHS&model=general&errcode=s10",
+        "meta": {
+            "mtype": [
+                "textTranslate",
+                "language",
+                "voice"
+            ]
+        },
+        "from": {
+            "name": null,
+            "path": "/",
+            "hash": "",
+            "query": {},
+            "params": {},
+            "fullPath": "/",
+            "meta": {}
+        }
+    },
+    "common": {
+        "CONFIG": {
+            "wuid": 1733632296991,
+            "loginInfo": {},
+            "isIE": 0,
+            "isHitSsrSwitch": true,
+            "isHitWritebookSwitch": false,
+            "isHitAmsSwitch": true,
+            "promotionList": "{\n    \"pc_bottom\":{\n        \"imgsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\",\n        \"qcsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\"\n    },\n    \"pc_middle\":[\n        {\n            \"src\":\"//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c\",\n            \"bgColor\":\"#ffffff\",\n            \"link\":\"\"\n        }\n    ],\n    \"pc_survey\":{\n        \"icon\":\"//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750\",\n        \"link\":\"https://wj.qq.com/s2/8193148/806d/\"\n    }\n}",
+            "bannerData": [],
+            "isHitAsideSurvey": false,
+            "secretCode": 109984457,
+            "uuid": "1d30e7fc-4d20-4d80-9b25-2ee163542c88",
+            "referer": "",
+            "approveToken": "64E9CDD7579BFA53585E70E2EE63E5585874BFE367552129",
+            "loadTime": 1733632296993,
+            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0",
+            "fcp": "138.197.122.177",
+            "temporaryId": "",
+            "fileId": ""
+        },
+        "hotWords": [],
+        "isFromCollect": false,
+        "psdModify": {
+            "currentStep": 1,
+            "scode": "",
+            "username": ""
+        },
+        "loginStatus": true,
+        "feedBackModule": false,
+        "showPromotionPopup": {
+            "show": false,
+            "type": ""
+        },
+        "showPromotionPCDownload": false,
+        "showShareBomb": false,
+        "shareData": null,
+        "showAppDownLoad": false,
+        "showLoginDialog": false,
+        "showLoading": {
+            "show": false
+        },
+        "toast": {
+            "show": false,
+            "text": "",
+            "loading": false
+        },
+        "modelToast": {
+            "show": false,
+            "text": ""
+        },
+        "selectionGlobalShow": true,
+        "selectionInfo": {
+            "left": 0,
+            "top": 0,
+            "show": false,
+            "from": "",
+            "to": "",
+            "val": "",
+            "area": ""
+        },
+        "showConfirmDialog": false,
+        "promotionList": {
+            "pc_bottom": {
+                "imgsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png",
+                "qcsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png"
+            },
+            "pc_middle": [
+                {
+                    "src": "//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c",
+                    "bgColor": "#ffffff",
+                    "link": ""
+                }
+            ],
+            "pc_survey": {
+                "icon": "//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750",
+                "link": "https://wj.qq.com/s2/8193148/806d/"
+            }
+        },
+        "transTypeTxt": "text",
+        "fixedTabStatus": 0,
+        "bodyTop": 0,
+        "ifHideUserOperation": false
+    },
+    "textTranslate": {
+        "prevTransQuery": "",
+        "translateData": {
+            "translate": {
+                "zly": "zly",
+                "errorCode": "0",
+                "qc_type": "1",
+                "index": "content0",
+                "from": "en",
+                "source": "sogou",
+                "text": "answer",
+                "to": "zh-CHS",
+                "id": "1d30e7fc-4d20-4d80-9b25-2ee163542c88",
+                "dit": "回答",
+                "orig_text": "answer",
+                "md5": ""
+            },
+            "detect": {
+                "zly": "zly",
+                "detect": "en",
+                "errorCode": "0",
+                "language": "英语",
+                "id": "4fd78c60-b51d-11ef-bc7a-df1ecdfccb5c",
+                "text": "answer"
+            },
+            "sgtkn": "64E9CDDB579BFA53585E70E2EE63E5585874BFE367552129",
+            "wordCard": {
+                "title": "answer",
+                "show": true,
+                "usualDict": [
+                    {
+                        "values": [
+                            "答复；回答；应答；解答；答案；（问题的）解决方案；对策；响应；反应；对应物；匹配物"
+                        ],
+                        "pos": "n."
+                    },
+                    {
+                        "values": [
+                            "回答；答复；响应；符合；适合；比得上；相配；适应；满足需求；反驳；辩护；对…作出反应；应对；对…负责；承担责任；解决"
+                        ],
+                        "pos": "v."
+                    }
+                ],
+                "secondQuery": "",
+                "exchange": {
+                    "word_third": [
+                        "answers"
+                    ],
+                    "word_ing": [
+                        "answering"
+                    ],
+                    "word_done": [
+                        "answered"
+                    ],
+                    "word_past": [
+                        "answered"
+                    ]
+                },
+                "levelList": [
+                    "小学",
+                    "初中",
+                    "高中",
+                    "四级",
+                    "六级",
+                    "考研"
+                ]
+            },
+            "detail": {
+                "synonym": [
+                    {
+                        "word_list": [
+                            "reply",
+                            "meet with"
+                        ],
+                        "pos": "vt.",
+                        "mean": "回答；符合"
+                    },
+                    {
+                        "word_list": [
+                            "reply",
+                            "accord"
+                        ],
+                        "pos": "vi.",
+                        "mean": "回答；符合"
+                    },
+                    {
+                        "word_list": [
+                            "response",
+                            "defence",
+                            "reply",
+                            "result"
+                        ],
+                        "pos": "n.",
+                        "mean": "回答；答案；答辩"
+                    }
+                ],
+                "antonym": [
+                    {
+                        "word_list": [
+                            "question"
+                        ],
+                        "pos": "",
+                        "mean": ""
+                    }
+                ],
+                "affix": {
+                    "word": "answer",
+                    "sub_affix_info_list": [
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "anticlimax",
+                                            "mean": "n. 令人扫兴的结尾"
+                                        },
+                                        {
+                                            "word": "antioxidant",
+                                            "mean": "n. 防腐剂；抗氧化剂"
+                                        },
+                                        {
+                                            "word": "antipathy",
+                                            "mean": "n. 根深蒂固的反感；厌恶"
+                                        },
+                                        {
+                                            "word": "antiseptic",
+                                            "mean": "adj. 抗菌的；防腐的；使用抗菌剂的；使用防腐剂的；一尘不染的"
+                                        },
+                                        {
+                                            "word": "antithesis",
+                                            "mean": "n. 对立的人；人的对立面；对照；对应；对偶；反题"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "指方向/态度的\"反对, 相反\"",
+                                    "affix_type": "prefix"
+                                },
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "anticipate",
+                                            "mean": "v. 认为…很有可能；期望；预料；先于…行动；盼望；为…早做准备；在… 之前来到"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "早于, 预先",
+                                    "affix_type": "prefix"
+                                },
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "antibacterial",
+                                            "mean": "adj. 抗菌的"
+                                        },
+                                        {
+                                            "word": "antibiotic",
+                                            "mean": "n. 抗生素；抗菌素"
+                                        },
+                                        {
+                                            "word": "antidote",
+                                            "mean": "n. 解毒药；解毒剂；矫正方法；对抗手段"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "防…, 抗…",
+                                    "affix_type": "prefix"
+                                }
+                            ],
+                            "affix": "anti-",
+                            "affix_mean": "反对, 相反"
+                        },
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "发誓, 誓言",
+                                    "affix_type": "stem"
+                                }
+                            ],
+                            "affix": "swer",
+                            "affix_mean": "发誓, 誓言"
+                        }
+                    ],
+                    "word_mean": "n. 回答"
+                },
+                "wordRootInfo": {
+                    "word_info_list": [
+                        {
+                            "word": "answerable",
+                            "pos_mean_info_list": [
+                                {
+                                    "pos": "adj.",
+                                    "mean": "应负责任的；可回答的；有责任的"
+                                }
+                            ]
+                        },
+                        {
+                            "word": "answerer",
+                            "pos_mean_info_list": [
+                                {
+                                    "pos": "n.",
+                                    "mean": "回答者；答辩者；解答者"
+                                }
+                            ]
+                        }
+                    ],
+                    "root_word": "answer"
+                },
+                "word_difference_info": [
+                    {
+                        "common_mean": "回答",
+                        "word_list": [
+                            "retort",
+                            " respond",
+                            " return",
+                            " answer",
+                            " reply"
+                        ],
+                        "word_mean_info__list": [
+                            {
+                                "difference": "指对不同意见、批评或控诉作出迅速、有力的回答，即“反驳”。",
+                                "word": "retort"
+                            },
+                            {
+                                "difference": "正式用词，指即刻的，以口头或行动对外来的号召、请求或刺激等作出回答或响应。",
+                                "word": "respond"
+                            },
+                            {
+                                "difference": "正式用词，从本义“归来，回去”引申作“回答、答辨”讲时，含反驳或反唇相讥之意。",
+                                "word": "return"
+                            },
+                            {
+                                "difference": "常用词，指用书面、口头或行动对他人的请求、询问、质问等作出回答或反应。",
+                                "word": "answer"
+                            },
+                            {
+                                "difference": "较正式用词，较少用于口语。侧重经过考虑的较正式答复。",
+                                "word": "reply"
+                            }
+                        ]
+                    },
+                    {
+                        "common_mean": "回答",
+                        "word_list": [
+                            "respond",
+                            " answer",
+                            " reply"
+                        ],
+                        "word_mean_info__list": [
+                            {
+                                "difference": "作“回答”解，用得较少，也同to 搭配。如：He quickly responded to the question. (他很快就回答了问题。)另外，respond还可表“对……反应”，“响应”。",
+                                "word": "respond"
+                            },
+                            {
+                                "difference": "是常用词，后可接letter(回信)，question(回答问题)，doorbell(开门)，telephone(接电话)，advertisement(应征广告)等。",
+                                "word": "answer"
+                            },
+                            {
+                                "difference": "较正式，一般只作不及物动词，可与to连用。如：He has replied to my letter.(他回答了我信中提的问题。)",
+                                "word": "reply"
+                            }
+                        ]
+                    }
+                ],
+                "word_group": [
+                    {
+                        "brief_definition": "回嘴, 顶嘴",
+                        "phrase": "answer back",
+                        "pos": "v.phr"
+                    },
+                    {
+                        "brief_definition": "负责；...的答案",
+                        "phrase": "answer for",
+                        "pos": "coll"
+                    },
+                    {
+                        "brief_definition": "作为对…响应；须作交代",
+                        "phrase": "in answer to",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "接听电话；接电话；回电话",
+                        "phrase": "answer the phone",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "回答问题",
+                        "phrase": "answer question",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "接电话",
+                        "phrase": "answer phone",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "答题纸",
+                        "phrase": "answer paper",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "...的答案",
+                        "phrase": "the answer to",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "答题纸",
+                        "phrase": "answer sheet",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "名叫",
+                        "phrase": "answer to",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "唐突草率的答复",
+                        "phrase": "a dusty answer",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "非取得同意不可；坚持己见",
+                        "phrase": "not take no for an answer",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "名叫",
+                        "phrase": "answer to the name of",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "描述相符",
+                        "phrase": "answer the description of",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "回答正确",
+                        "phrase": "correct answer",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "正确答案；权利回答；右边答案",
+                        "phrase": "right answer",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "错误的答案；错答案",
+                        "phrase": "wrong answer",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "明确答案",
+                        "phrase": "definite answer",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "简单答案；简单的答案；简单回答",
+                        "phrase": "simple answer",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "令人满意的回答；令人满意的答复",
+                        "phrase": "satisfactory answer",
+                        "pos": ""
+                    }
+                ],
+                "bilingual": [
+                    {
+                        "source": "Can you <em>answer</em> the questions?",
+                        "target": "你能回答这些问题吗？",
+                        "url": ""
+                    },
+                    {
+                        "source": "I often <em>answer</em> maths questions.",
+                        "target": "我经常回答数学问题。",
+                        "url": ""
+                    },
+                    {
+                        "source": "<em>Answer</em> the questions with a partner.",
+                        "target": "和伙伴一起回答问题。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Her <em>answer</em> was given in a low voice.",
+                        "target": "她的回答是用低声说的。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Try to <em>answer</em> any questions asked.",
+                        "target": "尽量回答提出的任何问题。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Then four long <em>answer</em> questions.",
+                        "target": "然后是四个详细回答的问题。",
+                        "url": ""
+                    },
+                    {
+                        "source": "\"I will only <em>answer</em> THREE questions.\"",
+                        "target": "“我只回答三个问题。”",
+                        "url": ""
+                    },
+                    {
+                        "source": "Look at the chart and <em>answer</em> the questions.",
+                        "target": "看图表并回答问题。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Can you <em>answer</em> Little Duck's question?",
+                        "target": "你能回答小鸭的问题吗？",
+                        "url": ""
+                    },
+                    {
+                        "source": "Look at the cartoons and <em>answer</em> the questions.",
+                        "target": "看漫画并回答问题。",
+                        "url": ""
+                    }
+                ],
+                "baike": {
+                    "showMore": true,
+                    "list": [
+                        {
+                            "lemmaTitle": "answer",
+                            "link": "https://baike.sogou.com/v148351274.htm?ch=sogou.fanyi",
+                            "abstract": "answer(英语单词)，名词或动词，意为“回答/答案”。 vt.答复; 解答; 答辩; 适应; n.回答; 答案; 反应; 足以媲美的人;",
+                            "wapPic": "//img03.sogoucdn.com/v2/thumb/retype_exclude_gif/ext/auto/q/80/crop/xy/ai/w/140/h/140/resize/w/140?appid=201005&sign=bd120fcb91c70a5a062702ddf2c8eceb&url=https%3A%2F%2Fpic.baike.soso.com%2Fugc%2Fbaikepic2%2F15968%2F20180513114456-679338101_jpg_301_305_13188.jpg%2F0",
+                            "pcPic": "//img03.sogoucdn.com/v2/thumb/retype_exclude_gif/ext/auto/q/80/crop/xy/ai/w/140/h/140/resize/w/140?appid=201005&sign=bd120fcb91c70a5a062702ddf2c8eceb&url=https%3A%2F%2Fpic.baike.soso.com%2Fugc%2Fbaikepic2%2F15968%2F20180513114456-679338101_jpg_301_305_13188.jpg%2F0"
+                        },
+                        {
+                            "lemmaTitle": "answer",
+                            "link": "https://baike.sogou.com/v7630536.htm?ch=sogou.fanyi",
+                            "abstract": "NBA球员阿伦。艾佛森的外号",
+                            "wapPic": "",
+                            "pcPic": ""
+                        }
+                    ]
+                }
+            },
+            "book": {
+                "yingyinNormal": [
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/82b4636112184859779afa48d26f2aac_11190.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/32e5bc373ee9b454a2de45619783f880_65282.mp3",
+                        "isLavafox": true,
+                        "en": "Uh is not an appropriate <em>answer</em>.",
+                        "zh": "额，可不是一个合适的回答。",
+                        "videoNameZh": "《里约大冒险2》",
+                        "videoNameEn": "《RIO 2》",
+                        "url": "http://bisentence_movie.sogou.com/f60ad461caa01b10d5bd30df531696ef_a9f7c289f8f6475761b079b57e9747e15c99a5a9"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/8a5b25dfe5e482fce849895959f35aba_1648.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/8a1da6ebc38d6f7110ff7f818d94af80_73795.mp3",
+                        "isLavafox": true,
+                        "en": "What? Was she good? Don't <em>answer</em> that.",
+                        "zh": "什么？她好不好？不要回答。",
+                        "videoNameZh": "《老友记 第三季》",
+                        "videoNameEn": "《Friends Season 3》",
+                        "url": "http://bisentence_movie.sogou.com/37dd1e79c6a3630aa0ca0c8bb44d95b9_0eb5f7614398441f8e988cc9956bd1b03622d653"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/334ae739c2d3bef71ab483cd142c3ad8_18137.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/cf36a0241c01ebfe243d51f7140ec382_4277.mp3",
+                        "isLavafox": true,
+                        "en": "I'm not prepared to <em>answer</em> that question.",
+                        "zh": "我没准备好回答那个问题。",
+                        "videoNameZh": "《纸牌屋 第五季》",
+                        "videoNameEn": "《House of Cards Season 5》",
+                        "url": "http://bisentence_movie.sogou.com/fa373b0e5f704b182f8e462478947204_e2448627044918d693f563901c9c5ef9af360404"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/334ae739c2d3bef71ab483cd142c3ad8_18137.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/42df4675cf87cebc17ca9c8075b76dcc_42282.mp3",
+                        "isLavafox": true,
+                        "en": "Why would you ask me that? Why won't you <em>answer</em>?",
+                        "zh": "你为什么要问我？你为什么不回答？",
+                        "videoNameZh": "《纸牌屋 第五季》",
+                        "videoNameEn": "《House of Cards Season 5》",
+                        "url": "http://bisentence_movie.sogou.com/0623914f58a80596fefbb7f59d51cf66_40749e0915cd947d959168c10480256228f47e9b"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/21d26cfef0cd26f0813072491b08dd5a_57364.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/19e3f375feb87710fb04750bf8268fa5_38296.mp3",
+                        "isLavafox": true,
+                        "en": "So to <em>answer</em> your question, no, it's not better.",
+                        "zh": "简单扼要地回答你，这场没比较好。",
+                        "videoNameZh": "《生活大爆炸 第六季》",
+                        "videoNameEn": "《The Big Bang Theory Season 6》",
+                        "url": "http://bisentence_movie.sogou.com/557e0227fe9867ebc8d548c2005e0535_2cdb5a7fd6638981d94e28dc5f8508fce59fb939"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/cf2616af116b548887696dabfcc2fd97_68323.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/074b68bb229738fb4b08e8063c59cae9_36870.mp3",
+                        "isLavafox": true,
+                        "en": "Well, I have one <em>answer</em> for that: Pass a bill.",
+                        "zh": "我对此只有一个回答:通过一个移民法案。",
+                        "videoNameZh": "《奥巴马每周电视讲话》",
+                        "videoNameEn": "《Your Weekly Address》",
+                        "url": "http://bisentence_movie.sogou.com/4c6a24aee67745175f9c19ba5d3b972b_0dc3efb5de57f87b0bd718dcb2d998f82dd88334"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/658cb5af1f2c25ef894d7429bd1ba9af_103.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/bd6334ced38bdb1b54771dc8fbce68d3_13169.mp3",
+                        "isLavafox": true,
+                        "en": "<em>Answer</em> our questions and you will be released. Right.",
+                        "zh": "乖乖回答问题，然后就放你走。好吧。",
+                        "videoNameZh": "《疑犯追踪 第四季》",
+                        "videoNameEn": "《Person of Interest Season 4》",
+                        "url": "http://bisentence_movie.sogou.com/f63b3e0382ecd926cb3e603b64e2c9fb_699988888d9d3fd9542d41ffad76b8bb15ed2971"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/334ae739c2d3bef71ab483cd142c3ad8_18137.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/831f1b780a6f898e8413157ec70a3176_8013.mp3",
+                        "isLavafox": true,
+                        "en": "Well, the question's off subject, but I'll <em>answer</em> it.",
+                        "zh": "这个问题与主题无关但我还是回答吧。",
+                        "videoNameZh": "《纸牌屋 第五季》",
+                        "videoNameEn": "《House of Cards Season 5》",
+                        "url": "http://bisentence_movie.sogou.com/1bf82a9ae2006c47252df910cde525f0_ef699312dd2a01c191ea48aa0f9d839178e29612"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/dde03d29cdf9f1eb3170279dd5ad8ff2_46072.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/d7505a8a5d7af60895d88799152e7fb4_69917.mp3",
+                        "isLavafox": true,
+                        "en": "That was a weirdly specific <em>answer</em>. Well, everything is normal.",
+                        "zh": "回答具体得很诡异啊。一切都很正常啊。",
+                        "videoNameZh": "《摩登家庭 第六季》",
+                        "videoNameEn": "《Modern Family Season 6》",
+                        "url": "http://bisentence_movie.sogou.com/15fbb8c458eaadeaf4ad1b27c66502df_154456e5dac700930bd15db232a322e6677b6696"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/886b76b0c552c22c57062be63cf27261_37722.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/ed3c2474aa7be029dc5f619ae2f10385_47388.mp3",
+                        "isLavafox": true,
+                        "en": "<em>Answer</em> faster. <em>Answer</em> faster. I don't know. <em>Answer</em> better. <em>Answer</em> better.",
+                        "zh": "快点回答，快点回答。我不知道。回答高明点，回答高明点。",
+                        "videoNameZh": "《老友记 第九季》",
+                        "videoNameEn": "《Friends Season 9》",
+                        "url": "http://bisentence_movie.sogou.com/3dbae829049bd98d8b08b934d91170b1_230531bd2bd91954690e13c655b5acd92ad8f68d"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/0ce3ba1d09aadca7b93fbf3633e423d4_26694.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/bd76b701f642e097e9d4584ee27ead37_52373.mp3",
+                        "isLavafox": true,
+                        "en": "You wanna look smart, <em>answer</em> their question with your own question and then <em>answer</em> that question.",
+                        "zh": "你想表现的聪明点，就要用自己的问题回答他们的问题，然后再回答自己的问题。",
+                        "videoNameZh": "《疯狂动物城》",
+                        "videoNameEn": "《Zootopia》",
+                        "url": "http://bisentence_movie.sogou.com/38a896a1bba5891f12d512ecce24a617_b2ed8a0bd5030fc407b8beedac784a6af89a8870"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/ab33377d84b5796f50bb8f1f447070e8_26275.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/79f79f893488fee5fe7bfc6c2bdf9e71_33060.mp3",
+                        "isLavafox": true,
+                        "en": "I can't <em>answer</em> that. I can't <em>answer</em> that. Yes, you can <em>answer</em> that, because I walk in here and people are crying in your hallway.",
+                        "zh": "我不能回答，我不能回答你。可以的，你说的出的，因为我走进这里看到你手下的人都在走廊里哭天喊地的。",
+                        "videoNameZh": "《大空头》",
+                        "videoNameEn": "《The Big Short》",
+                        "url": "http://bisentence_movie.sogou.com/f24214217cfb13f50bdd2e031f7b0433_219732b4b2a8e531bf95494e756ddf3b7e6482d2"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/0ea88558fafc1b4ded75da892dee90d8_47199.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/f705b5d642c5767d9d90a59675bda1fc_67096.mp3",
+                        "isLavafox": true,
+                        "en": "Christopher, <em>answer</em> my question.",
+                        "zh": "克里斯托弗，回答我的问题。",
+                        "videoNameZh": "《星际迷航》",
+                        "videoNameEn": "《Star Trek》",
+                        "url": "http://bisentence_movie.sogou.com/c4ee2d472966716e5edbc62fd0715bbf_2f882e94d46fd5cd364423c5f7fadc8c0295391d"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/f012eb5fd120cc2d5b68f18e3d0e7c8c_67362.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/e866fd867b95e1dd51e3b2c7bea9a563_74078.mp3",
+                        "isLavafox": true,
+                        "en": "Chrissy charged in her complaint that Alicia Florrick asked her how she lost her virginity, so I'm just asking, what was the <em>answer</em>? I didn't <em>answer</em>.",
+                        "zh": "克里斯控诉艾丽西娅福瑞克询问她的第一次性经历，所以我想知道你是如何回答的。我没有回答。",
+                        "videoNameZh": "《傲骨贤妻 第五季》",
+                        "videoNameEn": "《The Good Wife Season 5》",
+                        "url": "http://bisentence_movie.sogou.com/4fd41dc00b4c9803b7c27806ff6ae5d6_5e67d88e3122d63832ae7c19d4fb7d885b6383ce"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/ce4704185ed874d2da0aa0211b7c5d4d_3508.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/4750198a80a8c296b70418f37156d550_17197.mp3",
+                        "isLavafox": true,
+                        "en": "You see? I ask a question, and neither of you <em>answer</em> them.",
+                        "zh": "瞧，我问个问题，你们都不回答。",
+                        "videoNameZh": "《纸牌屋 第三季》",
+                        "videoNameEn": "《House of Cards Season 3》",
+                        "url": "http://bisentence_movie.sogou.com/07d15bf0ca0528e256c2669120ac75ca_e6ec48babf2639acd4d9b91fa86d6d195742a805"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/f012eb5fd120cc2d5b68f18e3d0e7c8c_67362.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/7aa3d2ed7e9015c751ead864929f2d7e_75493.mp3",
+                        "isLavafox": true,
+                        "en": "As long as I don't have to <em>answer</em> questions again. You won't.",
+                        "zh": "只要我不用再回答问题。不用。",
+                        "videoNameZh": "《傲骨贤妻 第五季》",
+                        "videoNameEn": "《The Good Wife Season 5》",
+                        "url": "http://bisentence_movie.sogou.com/fd6a2c98c793835ea6933d16276bc445_d1ee21d64739b0e6f7cc853980b932af4424e496"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/a22e6af87ee63df4b714547f6895ba40_54847.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/adfb14e4d6a8b42957db1cfa56928a6c_9994.mp3",
+                        "isLavafox": true,
+                        "en": "Look, every <em>answer</em> will only get us closer to the truth. So, let's just <em>answer</em> honestly.",
+                        "zh": "每一个答案，将令我们更进一步接近真相，我们就诚实地回答吧。",
+                        "videoNameZh": "《傲骨贤妻 第六季》",
+                        "videoNameEn": "《The Good Wife Season 6》",
+                        "url": "http://bisentence_movie.sogou.com/65c7417da782eca5b682242b1d324bd2_dd91b3b9cf3531e4a2a3f6d0eb016151570a106d"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/6eb44e6b184aef9609d792a739b27dd9_60807.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/fe49a72ef22a8c07ec25a356e7311bdf_65214.mp3",
+                        "isLavafox": true,
+                        "en": "How do I find him? The official <em>answer</em> is: you don't.",
+                        "zh": "我要怎样才能找到他？官方回答是，不要去找他。",
+                        "videoNameZh": "《速度与激情7》",
+                        "videoNameEn": "《Fast & Furious 7》",
+                        "url": "http://bisentence_movie.sogou.com/5ce90011d2c587fe2589e6f16f8065cc_50919f82ab816720f5ed7e9afdc4aa1f741c70bf"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/cbf53f12b382df306fdf74c3fce106fa_47753.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/63bda85386482ce98716dc75f0eb8794_34819.mp3",
+                        "isLavafox": true,
+                        "en": "No. I don't believe I asked you a question. There's my <em>answer</em>.",
+                        "zh": "不，我想我不是在询问你。这是我的回答。",
+                        "videoNameZh": "《权力的游戏 第四季》",
+                        "videoNameEn": "《Game of Thrones Season 4》",
+                        "url": "http://bisentence_movie.sogou.com/ed0e6dfd2d988174f78b87c5aa810f7f_75cb51b9e1ecf1658855d24c2d49c5b23c43be75"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/ddeda38701415f391059f60a14ca0ada_53507.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/e4d75641387ff14b44370f135f45a418_15821.mp3",
+                        "isLavafox": true,
+                        "en": "I did not get a clear <em>answer</em>. I'm gonna set this down now.",
+                        "zh": "我没有听到确切的回答，所以我先把光碟放下。",
+                        "videoNameZh": "《生活大爆炸 第八季》",
+                        "videoNameEn": "《The Big Bang Theory Season 8》",
+                        "url": "http://bisentence_movie.sogou.com/0f4bc545f7ff3b82e9242c0926788c8f_21450f60221db40c58cccaf469326aa95434f218"
+                    }
+                ]
+            },
+            "pic": "",
+            "voice": {
+                "phonetic": [
+                    {
+                        "text": "ˈɑːnsə",
+                        "type": "uk",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/1765_answer_uk.mp3"
+                    },
+                    {
+                        "text": "ˈænsər",
+                        "type": "usa",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/1765_answer_usa.mp3"
+                    }
+                ]
+            },
+            "dictType": "oxford_buchong",
+            "kaoyan": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 42,
+                        "pos": "n",
+                        "chinese": "(试题/练习等的)答案",
+                        "sense_tier_ratio": 67.74
+                    },
+                    {
+                        "sense_tier": 19,
+                        "pos": "n/v",
+                        "chinese": "回复; 回答",
+                        "sense_tier_ratio": 30.65
+                    },
+                    {
+                        "sense_tier": 1,
+                        "pos": "n",
+                        "chinese": "解决办法; 答案",
+                        "sense_tier_ratio": 1.61
+                    },
+                    {
+                        "sense_tier": 0,
+                        "pos": "n/v",
+                        "chinese": "[法律]辩护",
+                        "sense_tier_ratio": 0
+                    },
+                    {
+                        "sense_tier": 0,
+                        "pos": "v",
+                        "chinese": "(answer to)负责; 因...受到谴责",
+                        "sense_tier_ratio": 0
+                    },
+                    {
+                        "sense_tier": 0,
+                        "pos": "v",
+                        "chinese": "符合; 适合; 满足",
+                        "sense_tier_ratio": 0
+                    },
+                    {
+                        "sense_tier": 0,
+                        "pos": "n",
+                        "chinese": "对应物; 相当的人",
+                        "sense_tier_ratio": 0
+                    },
+                    {
+                        "sense_tier": 0,
+                        "pos": "v",
+                        "chinese": "(answer for)负责; 交代",
+                        "sense_tier_ratio": 0
+                    },
+                    {
+                        "sense_tier": 0,
+                        "pos": "v",
+                        "chinese": "(answer back)顶嘴",
+                        "sense_tier_ratio": 0
+                    }
+                ],
+                "word": "answer",
+                "total_exam_freq": 62,
+                "direction_info": {
+                    "ranges": 12,
+                    "description": "数据源自2012-2023年12年间全国考研试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2012-2023年全国考研英语一和考研英语二共24套考研试卷，包括阅读、完型填空、翻译、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选全国考研考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2012-2023年12年间全国考研英语一和考研英语二试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 5,
+                "word_family": {
+                    "derivative_info_list": [
+                        {
+                            "derivative_info_list": [],
+                            "word": "answering",
+                            "mean": "v. 答复；回答；（answer的现在分词）"
+                        },
+                        {
+                            "derivative_info_list": [],
+                            "word": "unanswered",
+                            "mean": "adj. 未予答复的；无回音的"
+                        }
+                    ],
+                    "word": "answer",
+                    "mean": "n. 回答；回复；答复；应答；正确答案；解决办法；答案；对应物；相当的人"
+                },
+                "word_level_phrase_info": [
+                    {
+                        "brief_definition": "顶嘴",
+                        "phrase": "answer back",
+                        "pos": "vphr"
+                    },
+                    {
+                        "brief_definition": "负责； 交代",
+                        "phrase": "answer for",
+                        "pos": "vphr"
+                    },
+                    {
+                        "brief_definition": "答题纸",
+                        "phrase": "answer sheet",
+                        "pos": "phr"
+                    },
+                    {
+                        "brief_definition": "负责； 因...受到谴责",
+                        "phrase": "answer to",
+                        "pos": "vphr"
+                    }
+                ],
+                "sense": {
+                    "sense_num": 9,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "(试题/练习等的)答案",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "You should write neatly on the <highlight>ANSWER</highlight> SHEET.",
+                                    "month": -1,
+                                    "source": "英语一",
+                                    "coll": "",
+                                    "sentence_trans": "你应该在答题纸上工整地书写。",
+                                    "year": 2021,
+                                    "type": "写作PartB",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Mark your answers on <highlight>ANSWER</highlight> SHEET 1.",
+                                    "month": -1,
+                                    "source": "英语二",
+                                    "coll": "",
+                                    "sentence_trans": "在答题纸1上标出你的答案。",
+                                    "year": 2012,
+                                    "type": "阅读理解B",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "You should write about 100 words on <highlight>ANSWER</highlight> SHEET 2.",
+                                    "month": -1,
+                                    "source": "英语一",
+                                    "coll": "",
+                                    "sentence_trans": "你应该在答题纸2上写大约100个字。",
+                                    "year": 2012,
+                                    "type": "写作PartA",
+                                    "day": -1
+                                }
+                            ]
+                        },
+                        {
+                            "en": "something said or written in reply",
+                            "zh": "回复; 回答",
+                            "pos": "n/v",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "One <highlight>answer</highlight> is fear, according to Jon Wortmann, an executive mental coach.",
+                                    "month": -1,
+                                    "source": "英语二",
+                                    "coll": "",
+                                    "sentence_trans": "高管心理教练Jon Wortmann表示，一个答案是恐惧。",
+                                    "year": 2015,
+                                    "type": "完型填空",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "If the <highlight>answer</highlight> is \"yes,\" they are classified as working part-time.",
+                                    "month": -1,
+                                    "source": "英语二",
+                                    "coll": "",
+                                    "sentence_trans": "如果答案是“是”，他们则被归类为兼职工作。",
+                                    "year": 2015,
+                                    "type": "阅读理解A",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Ask anyone newly unemployed what they want and the <highlight>answer</highlight> is always: a job.",
+                                    "month": -1,
+                                    "source": "英语一",
+                                    "coll": "",
+                                    "sentence_trans": "问任何刚失业的人他们想要什么，答案总是：一份工作。",
+                                    "year": 2014,
+                                    "type": "阅读理解A",
+                                    "day": -1
+                                }
+                            ]
+                        },
+                        {
+                            "en": "a solution to a problem or dilemma",
+                            "zh": "解决办法; 答案",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "Mechanization isn't the <highlight>answer</highlight>, either – not yet, at least.",
+                                    "month": -1,
+                                    "source": "英语二",
+                                    "coll": "",
+                                    "sentence_trans": "机械化也不是答案——至少现在不是。",
+                                    "year": 2019,
+                                    "type": "阅读理解A",
+                                    "day": -1
+                                }
+                            ]
+                        },
+                        {
+                            "synonyms": "",
+                            "en": "the defendant's reply to the plaintiff's charges",
+                            "zh": "[法律]辩护",
+                            "pos": "n/v",
+                            "antonyms": ""
+                        },
+                        {
+                            "synonyms": "",
+                            "en": "take responsibility",
+                            "zh": "(answer to)负责; 因...受到谴责",
+                            "pos": "v",
+                            "antonyms": ""
+                        },
+                        {
+                            "synonyms": "",
+                            "en": "be suitable for and satisfy one's needs",
+                            "zh": "符合; 适合; 满足",
+                            "pos": "v",
+                            "antonyms": ""
+                        },
+                        {
+                            "synonyms": "",
+                            "en": "match a description",
+                            "zh": "对应物; 相当的人",
+                            "pos": "n",
+                            "antonyms": ""
+                        },
+                        {
+                            "synonyms": "",
+                            "en": "",
+                            "zh": "(answer for)负责; 交代",
+                            "pos": "v",
+                            "antonyms": ""
+                        },
+                        {
+                            "synonyms": "",
+                            "en": "",
+                            "zh": "(answer back)顶嘴",
+                            "pos": "v",
+                            "antonyms": ""
+                        }
+                    ]
+                },
+                "word_affix": {
+                    "word": "answer",
+                    "sub_affix_info_list": [
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "anticlimax",
+                                            "mean": "n. 令人扫兴的结尾"
+                                        },
+                                        {
+                                            "word": "antioxidant",
+                                            "mean": "n. 防腐剂；抗氧化剂"
+                                        },
+                                        {
+                                            "word": "antipathy",
+                                            "mean": "n. 根深蒂固的反感；厌恶"
+                                        },
+                                        {
+                                            "word": "antiseptic",
+                                            "mean": "adj. 抗菌的；防腐的；使用抗菌剂的；使用防腐剂的；一尘不染的"
+                                        },
+                                        {
+                                            "word": "antithesis",
+                                            "mean": "n. 对立的人；人的对立面；对照；对应；对偶；反题"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "指方向/态度的\"反对, 相反\"",
+                                    "affix_type": "prefix"
+                                },
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "anticipate",
+                                            "mean": "v. 认为…很有可能；期望；预料；先于…行动；盼望；为…早做准备；在… 之前来到"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "早于, 预先",
+                                    "affix_type": "prefix"
+                                },
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "antibacterial",
+                                            "mean": "adj. 抗菌的"
+                                        },
+                                        {
+                                            "word": "antibiotic",
+                                            "mean": "n. 抗生素；抗菌素"
+                                        },
+                                        {
+                                            "word": "antidote",
+                                            "mean": "n. 解毒药；解毒剂；矫正方法；对抗手段"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "防…, 抗…",
+                                    "affix_type": "prefix"
+                                }
+                            ],
+                            "affix": "anti-",
+                            "affix_mean": "反对, 相反"
+                        },
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "发誓, 誓言",
+                                    "affix_type": "stem"
+                                }
+                            ],
+                            "affix": "swer",
+                            "affix_mean": "发誓, 誓言"
+                        }
+                    ],
+                    "word_mean": "n. 回答"
+                },
+                "word_usage": [
+                    {
+                        "usage": "表示回答或回复时，answer指通过文字、言语或行动作出回答，一般不后接to，宾语可以是人，也可以是问题或信，而reply比较正式，多指经过考虑后给出答案，常后接to。"
+                    }
+                ]
+            },
+            "CET6": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 20,
+                        "pos": "n/v",
+                        "chinese": "回复; 回答",
+                        "sense_tier_ratio": 58.82
+                    },
+                    {
+                        "sense_tier": 12,
+                        "pos": "n",
+                        "chinese": "解决办法",
+                        "sense_tier_ratio": 35.29
+                    },
+                    {
+                        "sense_tier": 1,
+                        "pos": "v",
+                        "chinese": "适合; 满足需求",
+                        "sense_tier_ratio": 2.94
+                    },
+                    {
+                        "sense_tier": 1,
+                        "pos": "v",
+                        "chinese": "相符",
+                        "sense_tier_ratio": 2.94
+                    },
+                    {
+                        "sense_tier": 0,
+                        "pos": "v",
+                        "chinese": "负责",
+                        "sense_tier_ratio": 0
+                    }
+                ],
+                "word": "answer",
+                "word_level_phrase_info": [
+                    {
+                        "brief_definition": "回嘴；顶嘴",
+                        "phrase": "answer back",
+                        "pos": "phr"
+                    },
+                    {
+                        "brief_definition": "负责；...的答案",
+                        "phrase": "answer for",
+                        "pos": "phr"
+                    }
+                ],
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2016.6-2023.6年8年间全六级试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight>考纲释义</highlight>\n精选实考、考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2016-2023年51套试卷，包括阅读、听力、翻译等所有题型。\n\n<highlight>真题例句</highlight>\n精选2016-2023年8年间全六级试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 5,
+                "word_family": {
+                    "derivative_info_list": [
+                        {
+                            "derivative_info_list": [],
+                            "word": "answerable",
+                            "mean": "adj. 须作出交代的；有责任的；能回答的；对…负责"
+                        },
+                        {
+                            "derivative_info_list": [],
+                            "word": "unanswered",
+                            "mean": "adj. 未予答复的；无回音的"
+                        }
+                    ],
+                    "word": "answer",
+                    "mean": "n. 回答；回复；答复；应答；正确答案；解决办法；答案；对应物；相当的人"
+                },
+                "total_exam_freq": 34,
+                "sense": {
+                    "sense_num": 5,
+                    "sense_info_list": [
+                        {
+                            "en": "something said or written in reply",
+                            "zh": "回复; 回答",
+                            "pos": "n/v",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "And researchers are yet to <highlight>answer</highlight> the ultimate question of ageing: why does the body ultimately fall to pieces?",
+                                    "month": 6,
+                                    "source": "CET6",
+                                    "coll": "",
+                                    "sentence_trans": "而且研究人员还没有回答衰老的终极问题:为什么身体最终会崩溃？",
+                                    "year": 2021,
+                                    "type": "听力",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Part of the reason we don't yet have any <highlight>answer</highlight> is because many researchers are looking in the wrong direction.",
+                                    "month": 6,
+                                    "source": "CET6",
+                                    "coll": "",
+                                    "sentence_trans": "我们还没有任何答案的部分原因是因为许多研究人员正在错误的方向上寻找。",
+                                    "year": 2021,
+                                    "type": "听力",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "They fail to <highlight>answer</highlight> emails promptly.",
+                                    "month": 6,
+                                    "source": "CET6",
+                                    "coll": "",
+                                    "sentence_trans": "他们没有及时回复电子邮件。",
+                                    "year": 2021,
+                                    "type": "听力",
+                                    "day": -1
+                                }
+                            ]
+                        },
+                        {
+                            "synonyms": "",
+                            "en": "a solution to a problem or dilemma",
+                            "zh": "解决办法",
+                            "pos": "n",
+                            "antonyms": ""
+                        },
+                        {
+                            "en": "be suitable for and satisfy one's needs",
+                            "zh": "适合; 满足需求",
+                            "pos": "v",
+                            "synonyms": "satisfy",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "What the designers of the American sportswear proved was that fashion is a genuine design art, <highlight>answering</highlight> to the demanding needs of service.",
+                                    "month": 6,
+                                    "source": "CET6",
+                                    "coll": "",
+                                    "sentence_trans": "美国运动服设计师证明时尚是一种真正的设计艺术，可以满足苛刻的服务需求。",
+                                    "year": 2017,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                }
+                            ]
+                        },
+                        {
+                            "synonyms": "match",
+                            "en": "match a description",
+                            "zh": "相符",
+                            "pos": "v",
+                            "antonyms": ""
+                        },
+                        {
+                            "synonyms": "",
+                            "en": "take responsibility",
+                            "zh": "负责",
+                            "pos": "v",
+                            "antonyms": ""
+                        }
+                    ]
+                },
+                "word_affix": {
+                    "word": "answer",
+                    "sub_affix_info_list": [
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "anticlimax",
+                                            "mean": "n. 令人扫兴的结尾"
+                                        },
+                                        {
+                                            "word": "antioxidant",
+                                            "mean": "n. 防腐剂；抗氧化剂"
+                                        },
+                                        {
+                                            "word": "antipathy",
+                                            "mean": "n. 根深蒂固的反感；厌恶"
+                                        },
+                                        {
+                                            "word": "antiseptic",
+                                            "mean": "adj. 抗菌的；防腐的；使用抗菌剂的；使用防腐剂的；一尘不染的"
+                                        },
+                                        {
+                                            "word": "antithesis",
+                                            "mean": "n. 对立的人；人的对立面；对照；对应；对偶；反题"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "指方向/态度的\"反对, 相反\"",
+                                    "affix_type": "prefix"
+                                },
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "anticipate",
+                                            "mean": "v. 认为…很有可能；期望；预料；先于…行动；盼望；为…早做准备；在… 之前来到"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "早于, 预先",
+                                    "affix_type": "prefix"
+                                },
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "antibacterial",
+                                            "mean": "adj. 抗菌的"
+                                        },
+                                        {
+                                            "word": "antibiotic",
+                                            "mean": "n. 抗生素；抗菌素"
+                                        },
+                                        {
+                                            "word": "antidote",
+                                            "mean": "n. 解毒药；解毒剂；矫正方法；对抗手段"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "防…, 抗…",
+                                    "affix_type": "prefix"
+                                }
+                            ],
+                            "affix": "anti-",
+                            "affix_mean": "反对, 相反"
+                        },
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "发誓, 誓言",
+                                    "affix_type": "stem"
+                                }
+                            ],
+                            "affix": "swer",
+                            "affix_mean": "发誓, 誓言"
+                        }
+                    ],
+                    "word_mean": "n. 回答"
+                },
+                "word_usage": [
+                    {
+                        "usage": "answer是瞬间动词，不表示持续动作，不可与表示一段时间的状语连用。\n示例：一周前我给她回了信。\n误 I answered her letter for a week.\n正 I answered her letter a week ago."
+                    },
+                    {
+                        "usage": "answer前一般须有限定词，the较常见；其后接表示“针对…的”介词to，且to不可换成其他介词。"
+                    }
+                ]
+            },
+            "CET4": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 36,
+                        "pos": "n/v",
+                        "chinese": "回复; 回答",
+                        "sense_tier_ratio": 76.6
+                    },
+                    {
+                        "sense_tier": 11,
+                        "pos": "n",
+                        "chinese": "解决办法",
+                        "sense_tier_ratio": 23.4
+                    }
+                ],
+                "word": "answer",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2016.6-2023.6年8年间全四级试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight>考纲释义</highlight>\n精选实考、考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2016-2023年51套试卷，包括阅读、听力、翻译等所有题型。\n\n<highlight>真题例句</highlight>\n精选2016-2023年8年间试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 5,
+                "word_family": {
+                    "derivative_info_list": [
+                        {
+                            "derivative_info_list": [],
+                            "word": "unanswered",
+                            "mean": "adj. 未予答复的；无回音的"
+                        }
+                    ],
+                    "word": "answer",
+                    "mean": "n. 回答；回复；答复；应答；正确答案；解决办法；答案；对应物；相当的人"
+                },
+                "total_exam_freq": 47,
+                "sense": {
+                    "sense_num": 2,
+                    "sense_info_list": [
+                        {
+                            "en": "something said or written in reply",
+                            "zh": "回复; 回答",
+                            "pos": "n/v",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "After careful consideration, my <highlight>answer</highlight> is \"Yes. Technology is making people lazy.\"",
+                                    "month": 6,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "仔细考虑后，我的回答是“是的。科技让人们变得懒惰。”",
+                                    "year": 2021,
+                                    "type": "写作",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "If you're wondering who would buy the medium soda, the <highlight>answer</highlight> is almost no one.",
+                                    "month": 12,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "如果你想知道谁会买中号汽水，答案是几乎没有人会买。",
+                                    "year": 2020,
+                                    "type": "阅读理解C",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Our recently published study <highlight>answered</highlight> this question by tracking a large national random sample of Americans over a critical time period.",
+                                    "month": 9,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "我们最近发表的研究通过在一段关键时期跟踪美国人的大规模全国随机样本回答了这个问题。",
+                                    "year": 2020,
+                                    "type": "阅读理解C",
+                                    "day": -1
+                                }
+                            ]
+                        },
+                        {
+                            "en": "a solution to a problem or dilemma",
+                            "zh": "解决办法",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "Play may be the <highlight>answer</highlight>.",
+                                    "month": 6,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "玩耍可能是答案。",
+                                    "year": 2021,
+                                    "type": "阅读理解C",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Once all the obvious <highlight>answers</highlight> were exhausted, participants gave more and more inventive <highlight>answers</highlight> to combat boredom.",
+                                    "month": 12,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "一旦所有显而易见的答案都用尽了，参与者就会给出越来越多创造性的答案来避免无聊。",
+                                    "year": 2020,
+                                    "type": "阅读理解C",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Wells are much more reliable sources of freshwater, and California is hoping that these deep wells may be the <highlight>answer</highlight> to their severe water shortage.",
+                                    "month": 12,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "井是更可靠的淡水来源，加利福尼亚州希望这些深井能解决他们严重缺水的问题。",
+                                    "year": 2018,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "word_affix": {
+                    "word": "answer",
+                    "sub_affix_info_list": [
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "anticlimax",
+                                            "mean": "n. 令人扫兴的结尾"
+                                        },
+                                        {
+                                            "word": "antioxidant",
+                                            "mean": "n. 防腐剂；抗氧化剂"
+                                        },
+                                        {
+                                            "word": "antipathy",
+                                            "mean": "n. 根深蒂固的反感；厌恶"
+                                        },
+                                        {
+                                            "word": "antiseptic",
+                                            "mean": "adj. 抗菌的；防腐的；使用抗菌剂的；使用防腐剂的；一尘不染的"
+                                        },
+                                        {
+                                            "word": "antithesis",
+                                            "mean": "n. 对立的人；人的对立面；对照；对应；对偶；反题"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "指方向/态度的\"反对, 相反\"",
+                                    "affix_type": "prefix"
+                                },
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "anticipate",
+                                            "mean": "v. 认为…很有可能；期望；预料；先于…行动；盼望；为…早做准备；在… 之前来到"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "早于, 预先",
+                                    "affix_type": "prefix"
+                                },
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "antibacterial",
+                                            "mean": "adj. 抗菌的"
+                                        },
+                                        {
+                                            "word": "antibiotic",
+                                            "mean": "n. 抗生素；抗菌素"
+                                        },
+                                        {
+                                            "word": "antidote",
+                                            "mean": "n. 解毒药；解毒剂；矫正方法；对抗手段"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "防…, 抗…",
+                                    "affix_type": "prefix"
+                                }
+                            ],
+                            "affix": "anti-",
+                            "affix_mean": "反对, 相反"
+                        },
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "发誓, 誓言",
+                                    "affix_type": "stem"
+                                }
+                            ],
+                            "affix": "swer",
+                            "affix_mean": "发誓, 誓言"
+                        }
+                    ],
+                    "word_mean": "n. 回答"
+                },
+                "word_usage": [
+                    {
+                        "usage": "answer前一般须有限定词，the较常见；其后接表示“针对…的”介词to，且to不可换成其他介词。"
+                    },
+                    {
+                        "usage": "answer是瞬间动词，不表示持续动作，不可与表示一段时间的状语连用。\n示例：一周前我给她回了信。\n误 I answered her letter for a week.\n正 I answered her letter a week ago."
+                    }
+                ]
+            },
+            "gaokao": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 8,
+                        "pos": "cn",
+                        "chinese": "答案",
+                        "sense_tier_ratio": 61.54
+                    },
+                    {
+                        "sense_tier": 5,
+                        "pos": "v",
+                        "chinese": "回答; 答复; 回信",
+                        "sense_tier_ratio": 38.46
+                    }
+                ],
+                "word": "answer",
+                "total_exam_freq": 13,
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2015-2022年8年间全国卷和自主命题省市高考卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2015-2022年全国卷高考试卷，包括阅读、完形、单选、填空、听力、改错、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选各省市考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2015-2022年8年间全国卷和自主命题省市高考卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 3,
+                "word_level_phrase_info": [
+                    {
+                        "brief_definition": "作为对…响应；须作交代",
+                        "phrase": "in answer to",
+                        "pos": "phr."
+                    }
+                ],
+                "sense": {
+                    "sense_num": 2,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "答案",
+                            "pos": "cn",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "It doesn't take a genius to know the <highlight>answer</highlight>: absolutely not.",
+                                    "month": -1,
+                                    "source": "全国甲卷",
+                                    "coll": "",
+                                    "sentence_trans": "不是天才也能知道答案：绝对不行。",
+                                    "year": 2021,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Even advanced physics can't decisively tell us what time is, because the <highlight>answer</highlight> depends on the question you're asking.",
+                                    "month": -1,
+                                    "source": "北京卷",
+                                    "coll": "",
+                                    "sentence_trans": "即使是高级物理学也不能明确地告诉我们时间是什么，因为答案取决于你所问的问题。",
+                                    "year": 2021,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "The <highlight>answer</highlight> broke his heart.",
+                                    "month": -1,
+                                    "source": "全国卷1",
+                                    "coll": "",
+                                    "sentence_trans": "这个回答使他心碎。",
+                                    "year": 2019,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                }
+                            ]
+                        },
+                        {
+                            "en": "",
+                            "zh": "回答; 答复; 回信",
+                            "pos": "v",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "Their <highlight>answers</highlight> also show that they dislike talking to others.",
+                                    "month": -1,
+                                    "source": "全国甲卷",
+                                    "coll": "",
+                                    "sentence_trans": "他们的回答也表明他们不喜欢与他人交谈。",
+                                    "year": 2021,
+                                    "type": "改错",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "One way to begin is to <highlight>answer</highlight> your own excuses.",
+                                    "month": -1,
+                                    "source": "天津卷",
+                                    "coll": "",
+                                    "sentence_trans": "开始的一种方法是回答你自己的借口。",
+                                    "year": 2020,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "The author didn't know how to <highlight>answer</highlight>.",
+                                    "month": -1,
+                                    "source": "江苏卷",
+                                    "coll": "",
+                                    "sentence_trans": "作者不知道如何回答。",
+                                    "year": 2020,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "word_affix": {
+                    "word": "answer",
+                    "sub_affix_info_list": [
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "anticlimax",
+                                            "mean": "n. 令人扫兴的结尾"
+                                        },
+                                        {
+                                            "word": "antioxidant",
+                                            "mean": "n. 防腐剂；抗氧化剂"
+                                        },
+                                        {
+                                            "word": "antipathy",
+                                            "mean": "n. 根深蒂固的反感；厌恶"
+                                        },
+                                        {
+                                            "word": "antiseptic",
+                                            "mean": "adj. 抗菌的；防腐的；使用抗菌剂的；使用防腐剂的；一尘不染的"
+                                        },
+                                        {
+                                            "word": "antithesis",
+                                            "mean": "n. 对立的人；人的对立面；对照；对应；对偶；反题"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "指方向/态度的\"反对, 相反\"",
+                                    "affix_type": "prefix"
+                                },
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "anticipate",
+                                            "mean": "v. 认为…很有可能；期望；预料；先于…行动；盼望；为…早做准备；在… 之前来到"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "早于, 预先",
+                                    "affix_type": "prefix"
+                                },
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "antibacterial",
+                                            "mean": "adj. 抗菌的"
+                                        },
+                                        {
+                                            "word": "antibiotic",
+                                            "mean": "n. 抗生素；抗菌素"
+                                        },
+                                        {
+                                            "word": "antidote",
+                                            "mean": "n. 解毒药；解毒剂；矫正方法；对抗手段"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "防…, 抗…",
+                                    "affix_type": "prefix"
+                                }
+                            ],
+                            "affix": "anti-",
+                            "affix_mean": "反对, 相反"
+                        },
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "发誓, 誓言",
+                                    "affix_type": "stem"
+                                }
+                            ],
+                            "affix": "swer",
+                            "affix_mean": "发誓, 誓言"
+                        }
+                    ],
+                    "word_mean": "n. 回答"
+                }
+            },
+            "zhongkao": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 190,
+                        "pos": "n/v",
+                        "chinese": "回复; 回答",
+                        "sense_tier_ratio": 85.59
+                    },
+                    {
+                        "sense_tier": 30,
+                        "pos": "n",
+                        "chinese": "答案; 解决办法",
+                        "sense_tier_ratio": 13.51
+                    },
+                    {
+                        "sense_tier": 1,
+                        "pos": "n",
+                        "chinese": "对应物; 相当的人",
+                        "sense_tier_ratio": 0.45
+                    },
+                    {
+                        "sense_tier": 1,
+                        "pos": "v",
+                        "chinese": "(answer back)顶嘴",
+                        "sense_tier_ratio": 0.45
+                    }
+                ],
+                "word": "answer",
+                "total_exam_freq": 222,
+                "direction_info": {
+                    "ranges": 4,
+                    "description": "数据源自2018-2021年4年间全国各省市中考试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2018-2021年全国重点省市中考试卷，包括听力、阅读、完形、单选、填空、改错、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选各省市考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2018-2021年4年间全国各省市中考试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 5,
+                "word_family": {
+                    "derivative_info_list": [
+                        {
+                            "derivative_info_list": [],
+                            "word": "answering",
+                            "mean": "v. 答复；回答；（answer的现在分词）"
+                        }
+                    ],
+                    "word": "answer",
+                    "mean": "n. 回答；回复；答复；应答；正确答案；解决办法；答案；对应物；相当的人"
+                },
+                "word_level_phrase_info": [
+                    {
+                        "brief_definition": "回嘴；顶嘴",
+                        "phrase": "answer back",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "负责；...的答案",
+                        "phrase": "answer for",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "答题纸",
+                        "phrase": "answer paper",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "接电话",
+                        "phrase": "answer phone",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "回答问题",
+                        "phrase": "answer question",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "接听电话；接电话；回电话",
+                        "phrase": "answer the phone",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "...的答案",
+                        "phrase": "the answer to",
+                        "pos": ""
+                    }
+                ],
+                "sense": {
+                    "sense_num": 4,
+                    "sense_info_list": [
+                        {
+                            "en": "something said or written in reply",
+                            "zh": "回复; 回答",
+                            "pos": "n/v",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "The waiters greeted us in Putonghua and we <highlight>answered</highlight> them in Putonghua.",
+                                    "month": -1,
+                                    "source": "包头市卷",
+                                    "coll": "",
+                                    "sentence_trans": "服务员用普通话和我们打招呼，我们用普通话回答。",
+                                    "year": 2020,
+                                    "type": "单项选择",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "The <highlight>answer</highlight> is very, very carefully.",
+                                    "month": -1,
+                                    "source": "上海市卷",
+                                    "coll": "",
+                                    "sentence_trans": "回答非常仔细。",
+                                    "year": 2020,
+                                    "type": "完形填空",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Your teacher will let you know how to show that you want to ask or <highlight>answer</highlight> a question.",
+                                    "month": -1,
+                                    "source": "潍坊市卷",
+                                    "coll": "",
+                                    "sentence_trans": "你的老师会让你知道如何表达你想问问题或者回答问题。",
+                                    "year": 2020,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                }
+                            ]
+                        },
+                        {
+                            "en": "a solution to a problem or dilemma",
+                            "zh": "答案; 解决办法",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "They are the exact <highlight>answers</highlight> to the questions.",
+                                    "month": -1,
+                                    "source": "武汉市卷",
+                                    "coll": "",
+                                    "sentence_trans": "它们是这些问题的确切答案。",
+                                    "year": 2020,
+                                    "type": "口语交际",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "However, I've found the <highlight>answer</highlight> to this question.",
+                                    "month": -1,
+                                    "source": "苏州市卷",
+                                    "coll": "",
+                                    "sentence_trans": "然而，我已经找到了这个问题的答案。",
+                                    "year": 2019,
+                                    "type": "词汇检测",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Then I realized that life is not built on the <highlight>answers</highlight> we receive but on the questions we ask.",
+                                    "month": -1,
+                                    "source": "安徽省卷",
+                                    "coll": "",
+                                    "sentence_trans": "然后我意识到生活不是建立在我们得到的答案上，而是建立在我们提出的问题上。",
+                                    "year": 2018,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                }
+                            ]
+                        },
+                        {
+                            "en": "match a description",
+                            "zh": "对应物; 相当的人",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "He has 18,000 followers on Sina Weibo, China's <highlight>answer</highlight> to Twitter, where Jozef has been sharing his obsession with Chinese internet users since 2013．",
+                                    "month": -1,
+                                    "source": "绵阳市卷",
+                                    "coll": "",
+                                    "sentence_trans": "他在新浪微博（相对于中国的推特）上有18,000名粉丝，自2013年以来，约瑟夫一直在和中国网民们分享他（对中国女排）的痴迷。",
+                                    "year": 2019,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                }
+                            ]
+                        },
+                        {
+                            "en": "",
+                            "zh": "(answer back)顶嘴",
+                            "pos": "v",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "I was to <highlight>answer</highlight> back, but from my mouth came \"Not bad for a brave whale.\"",
+                                    "month": -1,
+                                    "source": "温州市卷",
+                                    "coll": "",
+                                    "sentence_trans": "我本想回嘴，但从我嘴里说出了“对勇敢的鲸鱼来说还不错。”",
+                                    "year": 2020,
+                                    "type": "词汇运用",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "word_affix": {
+                    "sub_affix_info_list": [
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "anticlimax",
+                                            "mean": "n. 令人扫兴的结尾"
+                                        },
+                                        {
+                                            "word": "antioxidant",
+                                            "mean": "n. 防腐剂；抗氧化剂"
+                                        },
+                                        {
+                                            "word": "antipathy",
+                                            "mean": "n. 根深蒂固的反感；厌恶"
+                                        },
+                                        {
+                                            "word": "antiseptic",
+                                            "mean": "adj. 抗菌的；防腐的；使用抗菌剂的；使用防腐剂的；一尘不染的"
+                                        },
+                                        {
+                                            "word": "antithesis",
+                                            "mean": "n. 对立的人；人的对立面；对照；对应；对偶；反题"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "指方向/态度的\"反对, 相反\"",
+                                    "affix_type": "prefix"
+                                },
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "anticipate",
+                                            "mean": "v. 认为…很有可能；期望；预料；先于…行动；盼望；为…早做准备；在… 之前来到"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "早于, 预先",
+                                    "affix_type": "prefix"
+                                },
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "antibacterial",
+                                            "mean": "adj. 抗菌的"
+                                        },
+                                        {
+                                            "word": "antibiotic",
+                                            "mean": "n. 抗生素；抗菌素"
+                                        },
+                                        {
+                                            "word": "antidote",
+                                            "mean": "n. 解毒药；解毒剂；矫正方法；对抗手段"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "防…, 抗…",
+                                    "affix_type": "prefix"
+                                }
+                            ],
+                            "affix": "anti-",
+                            "affix_mean": "反对, 相反"
+                        },
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "发誓, 誓言",
+                                    "affix_type": "stem"
+                                }
+                            ],
+                            "affix": "swer",
+                            "affix_mean": "发誓, 誓言"
+                        }
+                    ],
+                    "word": "answer",
+                    "word_mean": "n. 回答"
+                },
+                "word_usage": [
+                    {
+                        "usage": "answer是瞬间动词，不表示持续动作，不可与表示一段时间的状语连用。\n示例：一周前我给她回了信。\n误 I answered her letter for a week.\n正 I answered her letter a week ago."
+                    },
+                    {
+                        "usage": "answer前一般须有限定词，the较常见；其后接表示“针对…的”介词to，且to不可换成其他介词。"
+                    }
+                ],
+                "disambiguation": [
+                    {
+                        "disambiguation_list": [
+                            {
+                                "word": "reply",
+                                "sense_disambiguation": "比answer正式，reply一般指经过思考、有针对性的回答。\n不能直接带宾语，要加to，即reply to = answer。"
+                            },
+                            {
+                                "word": "answer",
+                                "sense_disambiguation": "还可以和phone, bell等搭配，表示接听电话或对门伶等声响做出反应，而reply没有此类用法。"
+                            }
+                        ],
+                        "sense_group": "回答"
+                    }
+                ]
+            },
+            "sentencesData": {
+                "status": 1,
+                "info": "notZh2En",
+                "data": {}
+            },
+            "isAutoMatch": false,
+            "Zh2En": false
+        },
+        "query": "answer",
+        "result": "回答",
+        "tabSelect": "detail",
+        "dictionaryType": "oxford_buchong",
+        "notFound_show": false,
+        "phoneticShow": "",
+        "globalShowTranslateRecord": "",
+        "pronPrefer": {
+            "type": "usa_1",
+            "speaker": "male",
+            "speed": "standard"
+        },
+        "ServerRecord": "",
+        "ServerUIGS": {
+            "version": "new",
+            "type": "all",
+            "stype": "success",
+            "terminal": "web",
+            "fr": "default",
+            "direction": "etoz",
+            "from": "en",
+            "to": "zh-CHS",
+            "len": 6,
+            "qtype": "text",
+            "qctype": "qc_1",
+            "dict_cover": 1,
+            "detail": 1,
+            "wordCardCover": 1,
+            "wordCardEn": 1,
+            "wordCardCh": 0,
+            "wordCardMinor": 0,
+            "wordCardNetmean": 0,
+            "wordDeform": 1,
+            "keyword": 0,
+            "bilingual": 1,
+            "simple": 0,
+            "levelList": 1,
+            "synonym": 1,
+            "antonym": 1,
+            "conjugate": 1,
+            "rootaffix": 1,
+            "baike_sogou": 1,
+            "baike_wiki": 0,
+            "wordDifference": 1,
+            "word_phrase": 1,
+            "secondQuery": 0,
+            "dict_oxford": 0,
+            "dict_newcentury": 0,
+            "zhongkaotab": 1,
+            "gaokaotab": 1,
+            "CET4tab": 1,
+            "CET6tab": 1,
+            "kaoyantab": 1,
+            "network_tab": 0,
+            "yinying_tab": 1,
+            "tuozhan_tab": 0,
+            "one_pic": 0,
+            "more_pic": 0,
+            "no_pic": 0,
+            "uuid": "1d30e7fc-4d20-4d80-9b25-2ee163542c88",
+            "from_type": 0,
+            "t_trans_ssr": 176
+        },
+        "ServerModelUIGS": {
+            "terminal": "web",
+            "type": "trans_model",
+            "pbtype": "pv",
+            "model_general": 1,
+            "model_medical": 1,
+            "model_finance": 1
+        },
+        "ServerSgtkn": "64E9CDDB579BFA53585E70E2EE63E5585874BFE367552129",
+        "suggShow": false,
+        "suggestion": "",
+        "suggDirection": "",
+        "usualTop": "",
+        "baseDict": "",
+        "wordCardClick": false,
+        "isFrInput": false,
+        "kanaTips": {
+            "show": false,
+            "left": "",
+            "top": "",
+            "type": "",
+            "arrowLeft": ""
+        },
+        "currSentenceIndex": -1,
+        "prefixStrObj": {
+            "prefixStr": "",
+            "oriPrefixStr": ""
+        },
+        "selectTransBox": {
+            "show": false,
+            "right": 0,
+            "top": 0,
+            "paraphraseInfo": {
+                "word": "",
+                "from": "",
+                "to": "",
+                "area": ""
+            }
+        },
+        "sentenceLoading": false,
+        "newSentenceInfo": {
+            "sentence": "",
+            "candidateIndex": 0
+        },
+        "moreTipInfo": {
+            "opacity": 0,
+            "zIndex": -1
+        },
+        "paraphraseShowInfo": {
+            "card": 0,
+            "query": "",
+            "card_dict": 0
+        },
+        "selectType": "",
+        "wordPos": 0,
+        "candidateWord": "",
+        "syntaxVisible": false,
+        "syntaxStatus": 0
+    },
+    "language": {
+        "from": "auto",
+        "to": "zh-CHS",
+        "detect": "en",
+        "model": "general",
+        "detectShow": false,
+        "langMap": {
+            "current": ""
+        },
+        "zh2en": false,
+        "fromItemList": [
+            {
+                "lang": "auto",
+                "text": "自动检测",
+                "play": false
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "ru",
+                "text": "俄语",
+                "play": true,
+                "abbr": "俄"
+            },
+            {
+                "lang": "fr",
+                "text": "法语",
+                "play": true,
+                "abbr": "法"
+            },
+            {
+                "lang": "vi",
+                "text": "越南语",
+                "play": true,
+                "abbr": "越"
+            }
+        ],
+        "toItemList": [
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "ru",
+                "text": "俄语",
+                "play": true,
+                "abbr": "俄"
+            },
+            {
+                "lang": "fr",
+                "text": "法语",
+                "play": true,
+                "abbr": "法"
+            },
+            {
+                "lang": "vi",
+                "text": "越南语",
+                "play": true,
+                "abbr": "越"
+            }
+        ]
+    },
+    "voice": {
+        "from": {
+            "lang": "en",
+            "type": "from",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22answer%22%2C%22spokenDialect%22%3A%22en%22%2C%22rate%22%3A%220.8%22%7D",
+            "list": [
+                {
+                    "type": "uk_0",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "ˈɑːnsə",
+                    "abbr": "英",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/1765_answer_uk.mp3"
+                },
+                {
+                    "type": "usa_1",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "ˈænsər",
+                    "abbr": "美",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/1765_answer_usa.mp3"
+                }
+            ],
+            "stype": "phonetic",
+            "phoneticShow": [
+                {
+                    "text": "ˈɑːnsə",
+                    "type": "uk",
+                    "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/1765_answer_uk.mp3"
+                },
+                {
+                    "text": "ˈænsər",
+                    "type": "usa",
+                    "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/1765_answer_usa.mp3"
+                }
+            ]
+        },
+        "to": {
+            "lang": "zh",
+            "type": "to",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22%E5%9B%9E%E7%AD%94%22%2C%22spokenDialect%22%3A%22zh-CHS%22%2C%22rate%22%3A%220.8%22%7D",
+            "stype": "normal"
+        }
+    }
+}

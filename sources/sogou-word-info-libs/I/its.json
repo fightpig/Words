@@ -1,0 +1,946 @@
+{
+    "route": {
+        "name": "text",
+        "path": "/text",
+        "hash": "",
+        "query": {
+            "keyword": "its",
+            "transfrom": "auto",
+            "transto": "zh-CHS",
+            "model": "general",
+            "errcode": "s10"
+        },
+        "params": {},
+        "fullPath": "/text?keyword=its&transfrom=auto&transto=zh-CHS&model=general&errcode=s10",
+        "meta": {
+            "mtype": [
+                "textTranslate",
+                "language",
+                "voice"
+            ]
+        },
+        "from": {
+            "name": null,
+            "path": "/",
+            "hash": "",
+            "query": {},
+            "params": {},
+            "fullPath": "/",
+            "meta": {}
+        }
+    },
+    "common": {
+        "CONFIG": {
+            "wuid": 1733633874908,
+            "loginInfo": {},
+            "isIE": 0,
+            "isHitSsrSwitch": true,
+            "isHitWritebookSwitch": false,
+            "isHitAmsSwitch": true,
+            "promotionList": "{\n    \"pc_bottom\":{\n        \"imgsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\",\n        \"qcsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\"\n    },\n    \"pc_middle\":[\n        {\n            \"src\":\"//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c\",\n            \"bgColor\":\"#ffffff\",\n            \"link\":\"\"\n        }\n    ],\n    \"pc_survey\":{\n        \"icon\":\"//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750\",\n        \"link\":\"https://wj.qq.com/s2/8193148/806d/\"\n    }\n}",
+            "bannerData": [],
+            "isHitAsideSurvey": false,
+            "secretCode": 109984457,
+            "uuid": "44ccf6ea-8710-4b80-b5ec-b762b90f600b",
+            "referer": "",
+            "approveToken": "64EF64294185EB42494E61F35F0187304942FAFC67552752",
+            "loadTime": 1733633874910,
+            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0",
+            "fcp": "31.223.184.69",
+            "temporaryId": "",
+            "fileId": ""
+        },
+        "hotWords": [],
+        "isFromCollect": false,
+        "psdModify": {
+            "currentStep": 1,
+            "scode": "",
+            "username": ""
+        },
+        "loginStatus": true,
+        "feedBackModule": false,
+        "showPromotionPopup": {
+            "show": false,
+            "type": ""
+        },
+        "showPromotionPCDownload": false,
+        "showShareBomb": false,
+        "shareData": null,
+        "showAppDownLoad": false,
+        "showLoginDialog": false,
+        "showLoading": {
+            "show": false
+        },
+        "toast": {
+            "show": false,
+            "text": "",
+            "loading": false
+        },
+        "modelToast": {
+            "show": false,
+            "text": ""
+        },
+        "selectionGlobalShow": true,
+        "selectionInfo": {
+            "left": 0,
+            "top": 0,
+            "show": false,
+            "from": "",
+            "to": "",
+            "val": "",
+            "area": ""
+        },
+        "showConfirmDialog": false,
+        "promotionList": {
+            "pc_bottom": {
+                "imgsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png",
+                "qcsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png"
+            },
+            "pc_middle": [
+                {
+                    "src": "//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c",
+                    "bgColor": "#ffffff",
+                    "link": ""
+                }
+            ],
+            "pc_survey": {
+                "icon": "//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750",
+                "link": "https://wj.qq.com/s2/8193148/806d/"
+            }
+        },
+        "transTypeTxt": "text",
+        "fixedTabStatus": 0,
+        "bodyTop": 0,
+        "ifHideUserOperation": false
+    },
+    "textTranslate": {
+        "prevTransQuery": "",
+        "translateData": {
+            "translate": {
+                "zly": "zly",
+                "errorCode": "0",
+                "qc_type": "1",
+                "index": "content0",
+                "from": "en",
+                "source": "sogou",
+                "text": "its",
+                "to": "zh-CHS",
+                "id": "44ccf6ea-8710-4b80-b5ec-b762b90f600b",
+                "dit": "它的",
+                "orig_text": "its",
+                "md5": ""
+            },
+            "detect": {
+                "zly": "zly",
+                "detect": "en",
+                "errorCode": "0",
+                "language": "英语",
+                "id": "fc595ab0-b520-11ef-bcc1-67a384fb0654",
+                "text": "its"
+            },
+            "sgtkn": "64EF64304185EB42494E61F35F0187304942FAFC67552752",
+            "wordCard": {
+                "title": "its",
+                "show": true,
+                "usualDict": [
+                    {
+                        "values": [
+                            "属于它的；它所拥有的；与它相关的；它特有的"
+                        ],
+                        "pos": "det."
+                    }
+                ],
+                "secondQuery": "",
+                "exchange": {},
+                "levelList": [
+                    "小学",
+                    "初中",
+                    "高中",
+                    "四级",
+                    "考研"
+                ]
+            },
+            "detail": {
+                "word_group": [
+                    {
+                        "brief_definition": "作为一个整体；整个地；全面地",
+                        "phrase": "in its entirety",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "接近；即将发生；尚未出生的",
+                        "phrase": "on its way",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "完成自身的发展阶段",
+                        "phrase": "run its course",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "完成自身的发展阶段",
+                        "phrase": "take its course",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "造成损失",
+                        "phrase": "take its toll",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "同类之中",
+                        "phrase": "of its kind",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "在最坏的情况下；在某人最糟的时候；在最严重的时刻；在最危急的情况下",
+                        "phrase": "at its worst",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "总体上；总共",
+                        "phrase": "in its totality",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "超前的；比所处时代激进的；更具未来时代特征的",
+                        "phrase": "ahead of its time",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "充分发挥作用；被充分使用；被充分认可",
+                        "phrase": "come into its own",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "凡人皆有得意时",
+                        "phrase": "every dog has its day",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "留下深远的影响",
+                        "phrase": "make its mark",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "无与伦比的；独一无二的；独具一格的",
+                        "phrase": "in a class of its own",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "冒头；出现；抬头",
+                        "phrase": "rear its head",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "液面等高；液面相平；达到稳定高度",
+                        "phrase": "find its own level",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "赢利运作, 不负债, 收支平衡",
+                        "phrase": "pay its way",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "总会有用",
+                        "phrase": "have its uses",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "留下深远的影响",
+                        "phrase": "leave its mark",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "也有走红（或得意、出风头、显赫等）的时刻",
+                        "phrase": "have its moments",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "不再风光；不再流行",
+                        "phrase": "have had its day",
+                        "pos": ""
+                    }
+                ],
+                "bilingual": [
+                    {
+                        "source": "Is Tweety in <em>its</em> cage?",
+                        "target": "特威蒂在它的笼子里吗？",
+                        "url": ""
+                    },
+                    {
+                        "source": "Nature has <em>its</em> ways, too.",
+                        "target": "大自然也有它的方式。",
+                        "url": ""
+                    },
+                    {
+                        "source": "I'm going to save <em>its</em> life!",
+                        "target": "我要去救它的命！",
+                        "url": ""
+                    },
+                    {
+                        "source": "Where do you write <em>its</em> name?",
+                        "target": "你在哪里写它的名字？",
+                        "url": ""
+                    },
+                    {
+                        "source": "<em>Its</em> fleece is white as snow.",
+                        "target": "它的羊毛像雪一样白。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Make notes about <em>its</em> habitat.",
+                        "target": "记下它的栖息地。",
+                        "url": ""
+                    },
+                    {
+                        "source": "It gets <em>its</em> power from the sun.",
+                        "target": "它的电力来自太阳。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Make notes about <em>its</em> population.",
+                        "target": "记下它的种群数量。",
+                        "url": ""
+                    },
+                    {
+                        "source": "I've found out about <em>its</em> dangers.",
+                        "target": "我发现了它的危险。",
+                        "url": ""
+                    },
+                    {
+                        "source": "<em>Its</em> surface caressed by the breeze.",
+                        "target": "它的表面被微风抚摸。",
+                        "url": ""
+                    }
+                ],
+                "baike": {
+                    "showMore": false,
+                    "list": [
+                        {
+                            "lemmaTitle": "ITS",
+                            "link": "https://baike.sogou.com/v8896.htm?ch=sogou.fanyi",
+                            "abstract": "ITS是Intelligent Transport System的缩写，即智能交通系统。是未来交通系统的发展方向，它是将先进的信息技术、数据通讯传输技术、电子传感技术、控制技术及计算机技术等有效地集成运用于整个地面交通管理系统而建立的一种在大范围内、全方位发挥作用的，实时、准确、高效的综合交通运输管理系统。",
+                            "wapPic": "//img02.sogoucdn.com/v2/thumb/retype_exclude_gif/ext/auto/q/80/crop/xy/ai/w/140/h/140/resize/w/140?appid=201005&sign=3933e9d933c5e18611415e65f3741373&url=https%3A%2F%2Fpic.baike.soso.com%2Fugc%2Fbaikepic2%2F12000%2Fcut-20190102165549-1755356048_jpg_642_428_68082.jpg%2F0",
+                            "pcPic": "//img03.sogoucdn.com/v2/thumb/retype_exclude_gif/ext/auto/q/80/crop/xy/ai/w/140/h/140/resize/w/140?appid=201005&sign=3933e9d933c5e18611415e65f3741373&url=https%3A%2F%2Fpic.baike.soso.com%2Fugc%2Fbaikepic2%2F12000%2Fcut-20190102165549-1755356048_jpg_642_428_68082.jpg%2F0"
+                        }
+                    ]
+                }
+            },
+            "book": {
+                "yingyinNormal": [
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/368277e4523e7b27b12887e16057df56_64015.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/31e73fbff6c7ec3f84cec8b71d71703f_11213.mp3",
+                        "isLavafox": true,
+                        "en": "Well, it didn't hurt us. <em>Its</em> behavior was unconventional.",
+                        "zh": "它没有伤害我们，它的行为很反常。",
+                        "videoNameZh": "《西部世界 第一季》",
+                        "videoNameEn": "《Westworld Season 1》",
+                        "url": "http://bisentence_movie.sogou.com/e54bb75b4f99394ddd84b8a24644d0cc_45923c64e69b36ce24fa261b9d8b41dbeb6c5535"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/8b3da16ecbe350aacc1a7e4a01d210bc_49869.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/255e00dd876a3a03072ee5ebcdf1a786_21186.mp3",
+                        "isLavafox": true,
+                        "en": "Why do you even want this here? <em>Its</em> size is completely disproportionate to <em>its</em> purpose.",
+                        "zh": "你怎么会想把这东西弄来这儿？它的大小与用途完全不成比例。",
+                        "videoNameZh": "《生活大爆炸 第四季》",
+                        "videoNameEn": "《The Big Bang Theory Season 4》",
+                        "url": "http://bisentence_movie.sogou.com/28b9eb6877217e0e10d3407f7afcc3de_3e665a4f070ea05980bb9be3fa2681dcccdff841"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/8f3cc3eec1861bd20384f74300bfb822_44815.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/40680b9b11428a579a4d8b4691a50a8d_68924.mp3",
+                        "isLavafox": true,
+                        "en": "It's programmable matter. And now, we've mapped <em>its</em> genome. I. Now you've mapped <em>its</em> genome.",
+                        "zh": "是一种可编程的物质，我们排列了它的基因组。是我。你排列了基因组。",
+                        "videoNameZh": "《变形金刚4：绝迹重生》",
+                        "videoNameEn": "《Transformers: Age of Extinction》",
+                        "url": "http://bisentence_movie.sogou.com/b8e65b03c4c9d41e24e99ecae0c3a29e_2ede3d5fcb0184e77b5da1ce3eb5b96083a76820"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/2ef89c1c4fc884751021cf0e308a88e8_44843.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/734adf16427b27140b5830dc972c1391_38434.mp3",
+                        "isLavafox": true,
+                        "en": "I've been giving a good deal of thought to this entity in my head. About <em>its</em> nature. But also <em>its</em> composition.",
+                        "zh": "我好好想过了我脑袋上的这东西。关于它的性质。以及它的组成。",
+                        "videoNameZh": "《复仇者联盟3：无限战争》",
+                        "videoNameEn": "《Avengers: Infinity War》",
+                        "url": "http://bisentence_movie.sogou.com/917dadbd7c1b04ed194b092b8119555b_d1f2f1a9a8ed959e45d9f898024a22d6d5622b55"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/f012eb5fd120cc2d5b68f18e3d0e7c8c_67362.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/794674fece7736a4f0023c35237c07f3_73291.mp3",
+                        "isLavafox": true,
+                        "en": "I wasn't even aware of <em>its</em> existence until yesterday. I'm not talking about <em>its</em> existence. I'm talking about what it depicts.",
+                        "zh": "到昨天为止我都不知道它的存在。我不是问录像的存在，我是问里面的内容。",
+                        "videoNameZh": "《傲骨贤妻 第五季》",
+                        "videoNameEn": "《The Good Wife Season 5》",
+                        "url": "http://bisentence_movie.sogou.com/578e23e03e498f34b7545e203900f216_ffdc21d86011fa2d698531d04a37aae3fcfd8544"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/368277e4523e7b27b12887e16057df56_64015.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/ec9c924793839bfa4171d8d7f2a18da7_9155.mp3",
+                        "isLavafox": true,
+                        "en": "No, but I am hoping to recover some of <em>its</em> cognition. We managed to stabilize <em>its</em> wetware before there was too much decomposition. See?",
+                        "zh": "不知道，但我希望能恢复它的一些认知功能，我们成功地在分解加剧之前，稳定了它的脑部，你看。",
+                        "videoNameZh": "《西部世界 第一季》",
+                        "videoNameEn": "《Westworld Season 1》",
+                        "url": "http://bisentence_movie.sogou.com/6154f1727e64ce58bcfdfcdd045b12a8_268c94ad5d839ecdb45105b0102ecf34175dd17c"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/f80f73ed1c38b38e6bc0938dcd0ca833_16720.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/1f1cd0e5e58dbef4b3f906a7a413dc23_69164.mp3",
+                        "isLavafox": true,
+                        "en": "And you got covered in <em>its</em> blood. As a matter of fact, I did.",
+                        "zh": "你被它的血液喷到了。没错，被喷到了。",
+                        "videoNameZh": "《明日边缘》",
+                        "videoNameEn": "《Edge of Tomorrow》",
+                        "url": "http://bisentence_movie.sogou.com/1284f156a4935667b91d67a6f7cfd249_09096ad6f05c80a276af2cbfe720132e697b7bc4"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/2ef89c1c4fc884751021cf0e308a88e8_44843.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/94f680dca243e07f6ce6a0a3a0e8dbd7_56697.mp3",
+                        "isLavafox": true,
+                        "en": "I think if it were exposed to a sufficiently powerful energy source something very similar to <em>its</em> own signature, perhaps <em>its</em> molecular integrity could fail.",
+                        "zh": "我觉得如果它遭遇足够强大的能量源特性类似其本身的能量，那或许它的分子完整性就会被破坏。",
+                        "videoNameZh": "《复仇者联盟3：无限战争》",
+                        "videoNameEn": "《Avengers: Infinity War》",
+                        "url": "http://bisentence_movie.sogou.com/368d38530f4421b4dcc248c6ee46f29f_06234bfb3e929c24f9186484d1869b866c1ff643"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/8b3da16ecbe350aacc1a7e4a01d210bc_49869.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/9805ad71fb9a05c039042d08c58b09c9_21676.mp3",
+                        "isLavafox": true,
+                        "en": "Well, seeing as <em>its</em> purpose was to piss you off, I'd say it's spot-on.",
+                        "zh": "要说它的用途就是让你不爽的话，我看真是恰到好处。",
+                        "videoNameZh": "《生活大爆炸 第四季》",
+                        "videoNameEn": "《The Big Bang Theory Season 4》",
+                        "url": "http://bisentence_movie.sogou.com/fb8c0970bf243cf00d4d406d6eecb31c_2fcaffa0d2ea7dd042c428feb3e6ffa9f4abe512"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/1fd5136b25b0bb93bc3475b8feb28bf6_63175.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/9ed51550dc2df81142044ace0ef92271_53520.mp3",
+                        "isLavafox": true,
+                        "en": "China's vast and varied land has helped shape a nation and <em>its</em> people.",
+                        "zh": "中国得广袤土地囊括万象，孕育了这个国家，养育了它的人民。",
+                        "videoNameZh": "《鸟瞰中国》",
+                        "videoNameEn": "《China from Above》",
+                        "url": "http://bisentence_movie.sogou.com/60590ce5ac7e695286b237b6c0a74765_23fea893e09700ac2a2ed9cd1b8248de8b34767c"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/1d8503c6505ca4d4e748562e7e5b81df_3730.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/cbd372d37eb114486430eea818d6c480_51477.mp3",
+                        "isLavafox": true,
+                        "en": "Not just for the treasure within, but for where it lies, <em>its</em> strategic position.",
+                        "zh": "不只是为了山里的财宝，更是为了它的战略位置。",
+                        "videoNameZh": "《霍比特人3：五军之战》",
+                        "videoNameEn": "《The Hobbit: The Battle of the Five Armies》",
+                        "url": "http://bisentence_movie.sogou.com/fd86edf42034c4e0f47a783a35ab7834_5945acd3dd75630003c7102f2bfc3b628cfb3e63"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/5779bc3ee996a4c3adbca63904f7db92_42866.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/8a0718385f54fe7f58f554daec7dfc98_12349.mp3",
+                        "isLavafox": true,
+                        "en": "It's a waste. It shouldn't spend <em>its</em> life on a wall in wherever the hell we were.",
+                        "zh": "太浪费了，它不应该在那个不长草的地方度过它的一生。",
+                        "videoNameZh": "《成长教育》",
+                        "videoNameEn": "《An Education》",
+                        "url": "http://bisentence_movie.sogou.com/6a9d3a821c10507372fc9edf1acd343e_b733c8737e3ebf5d967eb43e29f3b517f1a7bf44"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/f012eb5fd120cc2d5b68f18e3d0e7c8c_67362.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/c25a44ff20bd5d4232919c8866362907_67748.mp3",
+                        "isLavafox": true,
+                        "en": "Well, the government can't ban the expression of an idea prior to <em>its</em> publication.",
+                        "zh": "政府不能在一个想法公开之前禁止对它的表达。",
+                        "videoNameZh": "《傲骨贤妻 第五季》",
+                        "videoNameEn": "《The Good Wife Season 5》",
+                        "url": "http://bisentence_movie.sogou.com/f88c2a509aa26ad82f108e52267f3c47_6414b26d1ab1e4a4ccb6ffdf3a616369f68330cf"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/f7d7167294560b5a445295985c93469c_14515.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/db6f9865031c8174b954609f989bcf2e_19254.mp3",
+                        "isLavafox": true,
+                        "en": "Dinner's almost ready. If you like meatloaf, I'm sure you'll like <em>its</em> cousin, bowl of meat.",
+                        "zh": "晚餐快好了，如果你们喜欢烘肉卷，那肯定会喜欢它的表亲，大碗肉。",
+                        "videoNameZh": "《生活大爆炸 第十季》",
+                        "videoNameEn": "《The Big Bang Theory Season 10》",
+                        "url": "http://bisentence_movie.sogou.com/1ea34c13f49767a9c085b47da4e13110_84a5edeac91635b05cace5b7f9dda2e20c9d5baa"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/658cb5af1f2c25ef894d7429bd1ba9af_103.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/14bdbbaec7061a3fa3913436c65bc2a0_8166.mp3",
+                        "isLavafox": true,
+                        "en": "Just need the first thread. Start pulling. Meanwhile, Samaritan will continue to do <em>its</em> part.",
+                        "zh": "只需要个起点。开始吧，于此同时，撒马利亚人会继续它的部分。",
+                        "videoNameZh": "《疑犯追踪 第四季》",
+                        "videoNameEn": "《Person of Interest Season 4》",
+                        "url": "http://bisentence_movie.sogou.com/f1b58b49a0c09a193d25286c8401f68e_e1692c5ebc2535114e7e41457e4bdc0aab487dcf"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/db0c9d871880acdb9822e317191c302a_57338.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/e6810f433a22f703bcc8f4db76b62a88_6228.mp3",
+                        "isLavafox": true,
+                        "en": "It's also prepared to disperse <em>its</em> seed by hand without the plant having to do a single thing.",
+                        "zh": "且它的传播只需靠别人的双手而它则不需要做任何事。",
+                        "videoNameZh": "《植物之歌》",
+                        "videoNameEn": "《How To Grow A Planet》",
+                        "url": "http://bisentence_movie.sogou.com/50fb686a2856c05a05127414bf78ee03_f57ecbe48e47491b04790d03eb58e1f653e5303b"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/d7375cf7d705b91cf85cd84324411dcc_38597.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/854920b40a146750d3c012cffb1dfb53_7077.mp3",
+                        "isLavafox": true,
+                        "en": "I'll find her, Mr. Fredricksen. I think <em>its</em> burrow is two blocks down... Two blocks down. Got it.",
+                        "zh": "我会捉住它的 Fredricksen先生。它好像在两个街区之外... 两个街区，知道了。",
+                        "videoNameZh": "《飞屋环游记》",
+                        "videoNameEn": "《Up》",
+                        "url": "http://bisentence_movie.sogou.com/68d76a16b6b78571e958c4652e354998_6d6858fdd465ac5582181ad2cff27ba576fa1ce6"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/aa7a748a86497e02e2b0a5098f3017b8_12619.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/96239d876575df95a8d2fc7ea324d242_58618.mp3",
+                        "isLavafox": true,
+                        "en": "Yeah, Farkle's not scary at all. No, and neither is your neighborhood. Once you take <em>its</em> mask off.",
+                        "zh": "嗯，法尔科才不可怕呢。没错，你的小区其实也不可怕，只要你把它的面具脱下来。",
+                        "videoNameZh": "《女孩成长记 第一季》",
+                        "videoNameEn": "《Girl Meets World Season 1》",
+                        "url": "http://bisentence_movie.sogou.com/4972e5d0b53c589290fc795482617966_11b2e19c59d29d0b97d77e9e3a51f67c1366bedf"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/84db3d779d7851ae88ef308619fcf09a_6035.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/d1ab8e9af63909416074fa46806ee827_44089.mp3",
+                        "isLavafox": true,
+                        "en": "When something like the Blooming Onion h<em>its</em> big, the impact is felt all the way back to <em>its</em> source.",
+                        "zh": "当像开花洋葱这样的东西出名，它的影响力能一直传导到原料产地。",
+                        "videoNameZh": "《透视美国》",
+                        "videoNameEn": "《America Revealed》",
+                        "url": "http://bisentence_movie.sogou.com/2d18c85098548f336c3514806480359e_5330a03b7fb03e6eefda203020dc2136306aad55"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/583ff1c0d1a2d3090f47f8d0bd821282_35584.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/0f0e0d51d050b5f717557a5e3d616547_57037.mp3",
+                        "isLavafox": true,
+                        "en": "Mr. Chairman, the IMF has operated without oversight for 40 years. Now, are <em>its</em> methods unorthodox?",
+                        "zh": "主席先生，碟中谍小组这四十年来都在没有监管的情况下运作的，它的方式是不是不正规呢？",
+                        "videoNameZh": "《碟中谍5：神秘国度》",
+                        "videoNameEn": "《Mission Impossible: Rogue Nation》",
+                        "url": "http://bisentence_movie.sogou.com/8a14ae3992873dd1a21426bafc34bc52_5811b033f49cab0ed40ab347ac07e69174d71e86"
+                    }
+                ]
+            },
+            "pic": "",
+            "voice": {
+                "phonetic": [
+                    {
+                        "text": "ɪts",
+                        "type": "uk",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/24_its_uk.mp3"
+                    },
+                    {
+                        "text": "ɪts",
+                        "type": "usa",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/24_its_usa.mp3"
+                    }
+                ]
+            },
+            "dictType": "oxford_buchong",
+            "gaokao": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 67,
+                        "pos": "det",
+                        "chinese": "它的; 他的; 她的",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "its",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2015-2022年8年间全国卷和自主命题省市高考卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2015-2022年全国卷高考试卷，包括阅读、完形、单选、填空、听力、改错、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选各省市考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2015-2022年8年间全国卷和自主命题省市高考卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 5,
+                "total_exam_freq": 67,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "它的; 他的; 她的",
+                            "pos": "det",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "<highlight>Its</highlight> staff is too talkative.",
+                                    "month": -1,
+                                    "source": "新高考Ⅰ卷",
+                                    "coll": "",
+                                    "sentence_trans": "它的员工太健谈了。",
+                                    "year": 2021,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "<highlight>Its</highlight> appeal to the public.",
+                                    "month": -1,
+                                    "source": "新高考Ⅰ卷",
+                                    "coll": "",
+                                    "sentence_trans": "它对公众的吸引力。",
+                                    "year": 2021,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Beautifully restored (修复) to <highlight>its</highlight> 1860 appearance, the house was Abraham and Mary Lincoln's home for 17 years.",
+                                    "month": -1,
+                                    "source": "浙江卷",
+                                    "coll": "",
+                                    "sentence_trans": "这栋房子被漂亮地修复成1860年的样子，17年来一直是亚伯拉罕和玛丽·林肯的家。",
+                                    "year": 2021,
+                                    "type": "语法填空",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            "zhongkao": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 344,
+                        "pos": "pron",
+                        "chinese": "它的",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "its",
+                "total_exam_freq": 344,
+                "direction_info": {
+                    "ranges": 4,
+                    "description": "数据源自2018-2021年4年间全国各省市中考试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2018-2021年全国重点省市中考试卷，包括听力、阅读、完形、单选、填空、改错、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选各省市考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2018-2021年4年间全国各省市中考试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 5,
+                "word_level_phrase_info": [
+                    {
+                        "brief_definition": "找到解决办法",
+                        "phrase": "find one's way",
+                        "pos": ""
+                    }
+                ],
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "它的",
+                            "pos": "pron",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "Every dog has <highlight>its</highlight> day",
+                                    "month": -1,
+                                    "source": "宿迁市卷",
+                                    "coll": "",
+                                    "sentence_trans": "凡人皆有得意时",
+                                    "year": 2021,
+                                    "type": "单项选择",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "The tree has lost all of <highlight>its</highlight> leaves.",
+                                    "month": -1,
+                                    "source": "内蒙古包头卷",
+                                    "coll": "",
+                                    "sentence_trans": "这棵树失去了所有的叶子。",
+                                    "year": 2020,
+                                    "type": "词语运用",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Each group has <highlight>its</highlight> own culture and traditions.",
+                                    "month": -1,
+                                    "source": "齐齐哈尔",
+                                    "coll": "",
+                                    "sentence_trans": "每个群体都有自己的文化和传统。",
+                                    "year": 2019,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "word_usage": [
+                    {
+                        "usage": "its既是形容词性物主代词，也是名词性物主代词。"
+                    }
+                ]
+            },
+            "sentencesData": {
+                "status": 1,
+                "info": "notZh2En",
+                "data": {}
+            },
+            "isAutoMatch": false,
+            "Zh2En": false
+        },
+        "query": "its",
+        "result": "它的",
+        "tabSelect": "detail",
+        "dictionaryType": "oxford_buchong",
+        "notFound_show": false,
+        "phoneticShow": "",
+        "globalShowTranslateRecord": "",
+        "pronPrefer": {
+            "type": "usa_1",
+            "speaker": "male",
+            "speed": "standard"
+        },
+        "ServerRecord": "",
+        "ServerUIGS": {
+            "version": "new",
+            "type": "all",
+            "stype": "success",
+            "terminal": "web",
+            "fr": "default",
+            "direction": "etoz",
+            "from": "en",
+            "to": "zh-CHS",
+            "len": 3,
+            "qtype": "text",
+            "qctype": "qc_1",
+            "dict_cover": 1,
+            "detail": 1,
+            "wordCardCover": 1,
+            "wordCardEn": 1,
+            "wordCardCh": 0,
+            "wordCardMinor": 0,
+            "wordCardNetmean": 0,
+            "wordDeform": 0,
+            "keyword": 0,
+            "bilingual": 1,
+            "simple": 0,
+            "levelList": 1,
+            "synonym": 0,
+            "antonym": 0,
+            "conjugate": 0,
+            "rootaffix": 0,
+            "baike_sogou": 1,
+            "baike_wiki": 0,
+            "wordDifference": 0,
+            "word_phrase": 1,
+            "secondQuery": 0,
+            "dict_oxford": 0,
+            "dict_newcentury": 0,
+            "zhongkaotab": 1,
+            "gaokaotab": 1,
+            "CET4tab": 0,
+            "CET6tab": 0,
+            "kaoyantab": 0,
+            "network_tab": 0,
+            "yinying_tab": 1,
+            "tuozhan_tab": 0,
+            "one_pic": 0,
+            "more_pic": 0,
+            "no_pic": 0,
+            "uuid": "44ccf6ea-8710-4b80-b5ec-b762b90f600b",
+            "from_type": 0,
+            "t_trans_ssr": 159
+        },
+        "ServerModelUIGS": {
+            "terminal": "web",
+            "type": "trans_model",
+            "pbtype": "pv",
+            "model_general": 1,
+            "model_medical": 1,
+            "model_finance": 1
+        },
+        "ServerSgtkn": "64EF64304185EB42494E61F35F0187304942FAFC67552752",
+        "suggShow": false,
+        "suggestion": "",
+        "suggDirection": "",
+        "usualTop": "",
+        "baseDict": "",
+        "wordCardClick": false,
+        "isFrInput": false,
+        "kanaTips": {
+            "show": false,
+            "left": "",
+            "top": "",
+            "type": "",
+            "arrowLeft": ""
+        },
+        "currSentenceIndex": -1,
+        "prefixStrObj": {
+            "prefixStr": "",
+            "oriPrefixStr": ""
+        },
+        "selectTransBox": {
+            "show": false,
+            "right": 0,
+            "top": 0,
+            "paraphraseInfo": {
+                "word": "",
+                "from": "",
+                "to": "",
+                "area": ""
+            }
+        },
+        "sentenceLoading": false,
+        "newSentenceInfo": {
+            "sentence": "",
+            "candidateIndex": 0
+        },
+        "moreTipInfo": {
+            "opacity": 0,
+            "zIndex": -1
+        },
+        "paraphraseShowInfo": {
+            "card": 0,
+            "query": "",
+            "card_dict": 0
+        },
+        "selectType": "",
+        "wordPos": 0,
+        "candidateWord": "",
+        "syntaxVisible": false,
+        "syntaxStatus": 0
+    },
+    "language": {
+        "from": "auto",
+        "to": "zh-CHS",
+        "detect": "en",
+        "model": "general",
+        "detectShow": false,
+        "langMap": {
+            "current": ""
+        },
+        "zh2en": false,
+        "fromItemList": [
+            {
+                "lang": "auto",
+                "text": "自动检测",
+                "play": false
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "ru",
+                "text": "俄语",
+                "play": true,
+                "abbr": "俄"
+            },
+            {
+                "lang": "th",
+                "text": "泰语",
+                "play": true,
+                "abbr": "泰"
+            },
+            {
+                "lang": "vi",
+                "text": "越南语",
+                "play": true,
+                "abbr": "越"
+            }
+        ],
+        "toItemList": [
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "ko",
+                "text": "韩语",
+                "play": true,
+                "abbr": "韩"
+            },
+            {
+                "lang": "ru",
+                "text": "俄语",
+                "play": true,
+                "abbr": "俄"
+            },
+            {
+                "lang": "vi",
+                "text": "越南语",
+                "play": true,
+                "abbr": "越"
+            }
+        ]
+    },
+    "voice": {
+        "from": {
+            "lang": "en",
+            "type": "from",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22its%22%2C%22spokenDialect%22%3A%22en%22%2C%22rate%22%3A%220.8%22%7D",
+            "list": [
+                {
+                    "type": "uk_0",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "ɪts",
+                    "abbr": "英",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/24_its_uk.mp3"
+                },
+                {
+                    "type": "usa_1",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "ɪts",
+                    "abbr": "美",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/24_its_usa.mp3"
+                }
+            ],
+            "stype": "phonetic",
+            "phoneticShow": [
+                {
+                    "text": "ɪts",
+                    "type": "uk",
+                    "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/24_its_uk.mp3"
+                }
+            ]
+        },
+        "to": {
+            "lang": "zh",
+            "type": "to",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22%E5%AE%83%E7%9A%84%22%2C%22spokenDialect%22%3A%22zh-CHS%22%2C%22rate%22%3A%220.8%22%7D",
+            "stype": "normal"
+        }
+    }
+}

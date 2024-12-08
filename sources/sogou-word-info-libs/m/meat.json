@@ -1,0 +1,1210 @@
+{
+    "route": {
+        "name": "text",
+        "path": "/text",
+        "hash": "",
+        "query": {
+            "keyword": "meat",
+            "transfrom": "auto",
+            "transto": "zh-CHS",
+            "model": "general",
+            "errcode": "s10"
+        },
+        "params": {},
+        "fullPath": "/text?keyword=meat&transfrom=auto&transto=zh-CHS&model=general&errcode=s10",
+        "meta": {
+            "mtype": [
+                "textTranslate",
+                "language",
+                "voice"
+            ]
+        },
+        "from": {
+            "name": null,
+            "path": "/",
+            "hash": "",
+            "query": {},
+            "params": {},
+            "fullPath": "/",
+            "meta": {}
+        }
+    },
+    "common": {
+        "CONFIG": {
+            "wuid": 1733633979872,
+            "loginInfo": {},
+            "isIE": 0,
+            "isHitSsrSwitch": true,
+            "isHitWritebookSwitch": false,
+            "isHitAmsSwitch": true,
+            "promotionList": "{\n    \"pc_bottom\":{\n        \"imgsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\",\n        \"qcsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\"\n    },\n    \"pc_middle\":[\n        {\n            \"src\":\"//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c\",\n            \"bgColor\":\"#ffffff\",\n            \"link\":\"\"\n        }\n    ],\n    \"pc_survey\":{\n        \"icon\":\"//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750\",\n        \"link\":\"https://wj.qq.com/s2/8193148/806d/\"\n    }\n}",
+            "bannerData": [],
+            "isHitAsideSurvey": false,
+            "secretCode": 109984457,
+            "uuid": "89cfc883-8464-4947-9c2d-7641976c84b6",
+            "referer": "",
+            "approveToken": "64EFD6475C98F75F54537CEF49DE3B4C550B2472675527BB",
+            "loadTime": 1733633979873,
+            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0",
+            "fcp": "31.223.184.69",
+            "temporaryId": "",
+            "fileId": ""
+        },
+        "hotWords": [],
+        "isFromCollect": false,
+        "psdModify": {
+            "currentStep": 1,
+            "scode": "",
+            "username": ""
+        },
+        "loginStatus": true,
+        "feedBackModule": false,
+        "showPromotionPopup": {
+            "show": false,
+            "type": ""
+        },
+        "showPromotionPCDownload": false,
+        "showShareBomb": false,
+        "shareData": null,
+        "showAppDownLoad": false,
+        "showLoginDialog": false,
+        "showLoading": {
+            "show": false
+        },
+        "toast": {
+            "show": false,
+            "text": "",
+            "loading": false
+        },
+        "modelToast": {
+            "show": false,
+            "text": ""
+        },
+        "selectionGlobalShow": true,
+        "selectionInfo": {
+            "left": 0,
+            "top": 0,
+            "show": false,
+            "from": "",
+            "to": "",
+            "val": "",
+            "area": ""
+        },
+        "showConfirmDialog": false,
+        "promotionList": {
+            "pc_bottom": {
+                "imgsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png",
+                "qcsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png"
+            },
+            "pc_middle": [
+                {
+                    "src": "//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c",
+                    "bgColor": "#ffffff",
+                    "link": ""
+                }
+            ],
+            "pc_survey": {
+                "icon": "//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750",
+                "link": "https://wj.qq.com/s2/8193148/806d/"
+            }
+        },
+        "transTypeTxt": "text",
+        "fixedTabStatus": 0,
+        "bodyTop": 0,
+        "ifHideUserOperation": false
+    },
+    "textTranslate": {
+        "prevTransQuery": "",
+        "translateData": {
+            "translate": {
+                "zly": "zly",
+                "errorCode": "0",
+                "qc_type": "1",
+                "index": "content0",
+                "from": "en",
+                "source": "sogou",
+                "text": "meat",
+                "to": "zh-CHS",
+                "id": "89cfc883-8464-4947-9c2d-7641976c84b6",
+                "dit": "肉",
+                "orig_text": "meat",
+                "md5": ""
+            },
+            "detect": {
+                "zly": "zly",
+                "detect": "en",
+                "errorCode": "0",
+                "language": "英语",
+                "id": "3aeb44a0-b521-11ef-9cc1-7f363b4650e9",
+                "text": "meat"
+            },
+            "sgtkn": "64EFD64A5C98F75F54537CEF49DE3B4C550B2472675527BB",
+            "wordCard": {
+                "title": "meat",
+                "show": true,
+                "usualDict": [
+                    {
+                        "values": [
+                            "（食用的）肉；肉类；主要部分；核心内容；实质；要旨；精华；爱好；特长；重要的部分；有趣的部分；果肉；坚果仁；（食品的）营养部分；主要成分；<美>（果子、胡桃、蛋等的）可食部分"
+                        ],
+                        "pos": "n."
+                    }
+                ],
+                "secondQuery": "",
+                "exchange": {
+                    "word_pl": [
+                        "meats"
+                    ]
+                },
+                "levelList": [
+                    "小学",
+                    "初中",
+                    "高中",
+                    "四级",
+                    "六级",
+                    "考研"
+                ]
+            },
+            "detail": {
+                "synonym": [
+                    {
+                        "word_list": [
+                            "flesh",
+                            "carne"
+                        ],
+                        "pos": "n.",
+                        "mean": "肉，肉类"
+                    }
+                ],
+                "wordRootInfo": {
+                    "word_info_list": [
+                        {
+                            "word": "meaty",
+                            "pos_mean_info_list": [
+                                {
+                                    "pos": "adj.",
+                                    "mean": "肉的；多肉的；似肉的"
+                                }
+                            ]
+                        },
+                        {
+                            "word": "meatless",
+                            "pos_mean_info_list": [
+                                {
+                                    "pos": "adj.",
+                                    "mean": "素食的；无肉的"
+                                }
+                            ]
+                        },
+                        {
+                            "word": "meatpacking",
+                            "pos_mean_info_list": [
+                                {
+                                    "pos": "n.",
+                                    "mean": "肉类加工业"
+                                }
+                            ]
+                        }
+                    ],
+                    "root_word": "meat"
+                },
+                "word_difference_info": [
+                    {
+                        "common_mean": "肉",
+                        "word_list": [
+                            "flesh",
+                            " meat"
+                        ],
+                        "word_mean_info__list": [
+                            {
+                                "difference": "主要指人体或动物身上的肌肉组织，是从生理角度着眼的。也指动物的肉食。",
+                                "word": "flesh"
+                            },
+                            {
+                                "difference": "是肉类的总称，指食用的肉，但不包括鱼类的肉。",
+                                "word": "meat"
+                            }
+                        ]
+                    }
+                ],
+                "word_group": [
+                    {
+                        "brief_definition": "吃肉",
+                        "phrase": "eat meat",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "红色肉类",
+                        "phrase": "red meat",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "肉糕",
+                        "phrase": "meat loaf",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "处境艰难, 倒大霉",
+                        "phrase": "dead meat",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "香肠肉馅；香肠用碎肉",
+                        "phrase": "sausage meat",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "兴趣爱好因人而异；一人手中宝, 他人脚下草",
+                        "phrase": "one man's meat is another man's poison",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "白色肉",
+                        "phrase": "white meat",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "重要部分；基本成分",
+                        "phrase": "meat and potatoes",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "午餐肉；肉糜",
+                        "phrase": "luncheon meat",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "性市场",
+                        "phrase": "meat market",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "绞肉机",
+                        "phrase": "meat grinder",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "鲜肉",
+                        "phrase": "carcass meat",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "容易对付的人",
+                        "phrase": "easy meat",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "过强的；过激的",
+                        "phrase": "strong meat",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "肉钩；挂肉钩；手；手臂",
+                        "phrase": "meat hook",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "肉品橱；肉品网罩",
+                        "phrase": "meat safe",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "救护车；灵车；警车",
+                        "phrase": "meat wagon",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "脚",
+                        "phrase": "plates of meat",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "肉蚂蚁",
+                        "phrase": "meat ant",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "切肉刀",
+                        "phrase": "meat axe",
+                        "pos": "n."
+                    }
+                ],
+                "bilingual": [
+                    {
+                        "source": "I want to eat some <em>meat</em>.",
+                        "target": "我想吃些肉。",
+                        "url": ""
+                    },
+                    {
+                        "source": "How much <em>meat</em> do you want?",
+                        "target": "你要多少肉？",
+                        "url": ""
+                    },
+                    {
+                        "source": "We haven't got any <em>meat</em>.",
+                        "target": "我们没有肉了。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Too much <em>meat</em> isn't healthy.",
+                        "target": "太多肉不健康。",
+                        "url": ""
+                    },
+                    {
+                        "source": "The zebra doesn't like <em>meat</em>.",
+                        "target": "斑马不喜欢肉。",
+                        "url": ""
+                    },
+                    {
+                        "source": "The butcher sells fresh <em>meat</em>.",
+                        "target": "肉贩卖新鲜的肉。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Do you like <em>meat</em>, Lingling?",
+                        "target": "你喜欢肉吗，玲玲？",
+                        "url": ""
+                    },
+                    {
+                        "source": "I like noodles and I like <em>meat</em>.",
+                        "target": "我喜欢面条和肉。",
+                        "url": ""
+                    },
+                    {
+                        "source": "I like fish, <em>meat</em> and tofu.",
+                        "target": "我喜欢鱼、肉和豆腐。",
+                        "url": ""
+                    },
+                    {
+                        "source": "There isn't any <em>meat</em> in the fridge.",
+                        "target": "冰箱里没有肉。",
+                        "url": ""
+                    }
+                ],
+                "baike": {
+                    "showMore": false,
+                    "list": [
+                        {
+                            "lemmaTitle": "meat",
+                            "link": "https://baike.sogou.com/v99658765.htm?ch=sogou.fanyi",
+                            "abstract": "meat（[miːt]），英语单词。其属于名词，释义为肉，实质，可食用部分等。相关短语搭配：eat meat（吃肉）。例句：We haven't got any meat for dinner.（我们晚餐没有肉了。） meat作名词时的近义词有flesh、carne。 meat的复数形式为meats。",
+                            "wapPic": "",
+                            "pcPic": ""
+                        }
+                    ]
+                }
+            },
+            "book": {
+                "yingyinNormal": [
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/6a0f1af500949aabdf79e8935d4a7230_22265.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/573cb5485c223a12534ed95d19f60574_19426.mp3",
+                        "isLavafox": true,
+                        "en": "So the baby is totally craving <em>meat</em>.",
+                        "zh": "宝宝想肉想疯了。",
+                        "videoNameZh": "《老友记 第四季》",
+                        "videoNameEn": "《Friends Season 4》",
+                        "url": "http://bisentence_movie.sogou.com/7d9f8f0c3434ed4decf6a87155fa1d5e_a5d5419b291bde66d0dfe0e8daac52d0abd2641c"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/41e670b24fee0dadd583ddcbb0171dae_29321.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/d0b5c37ed1a3abab2f7be2abc5d54aeb_68719.mp3",
+                        "isLavafox": true,
+                        "en": "Yeah. Some eat <em>meat</em>, some eat vegetable.",
+                        "zh": "确实，有人吃肉，也有人吃素。",
+                        "videoNameZh": "《少年派的奇幻漂流》",
+                        "videoNameEn": "《Life of Pi》",
+                        "url": "http://bisentence_movie.sogou.com/f1126927e7c6c13f562351b368f5afc1_4d34fda02723ab20ac8da17b10c8745b7cd03f38"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/2b691cbbc68f38da3e9c04c368f545b3_2546.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/6e7e8fc22568f014214d8052deedb9c2_10608.mp3",
+                        "isLavafox": true,
+                        "en": "What's the sauce? Is it <em>meat</em> based? No. Eat now.",
+                        "zh": "这是什么酱，是肉酱吗？不是的，快吃吧。",
+                        "videoNameZh": "《如晴天，似雨天》",
+                        "videoNameEn": "《Like Sunday, Like Rain》",
+                        "url": "http://bisentence_movie.sogou.com/29862fda31869e033eb233c3b7e96b41_324ec620fc8b0dc5fc8f9e67e3bc9d120397ed29"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/31f6231322d43401815661ceeacf3a87_49136.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/f9016ed32df62717b1342020e119acca_31065.mp3",
+                        "isLavafox": true,
+                        "en": "You're gonna cut her <em>meat</em> for her, too, there, Cal?",
+                        "zh": "卡尔，你要帮她切肉吗?",
+                        "videoNameZh": "《泰坦尼克号》",
+                        "videoNameEn": "《Titanic》",
+                        "url": "http://bisentence_movie.sogou.com/2b21b7bfdc9221dfb3dc3b1b8a7db699_9fe049eb4f17cfba60d1b3dbe69574440028858d"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/6a0f1af500949aabdf79e8935d4a7230_22265.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/7f8ee6cd5a4cc1e3a0aa56e0f79d3b47_61146.mp3",
+                        "isLavafox": true,
+                        "en": "This afternoon I tried tricking it, I made it a soy-burger to make it think it was getting <em>meat</em>, you know? And I got nauseous.",
+                        "zh": "下午我想用素肉堡骗他，让他以为他吃到肉结果就反胃了。",
+                        "videoNameZh": "《老友记 第四季》",
+                        "videoNameEn": "《Friends Season 4》",
+                        "url": "http://bisentence_movie.sogou.com/1dece735c5ee7979b922263b0792947d_0685603235e3ac9661f2e0e398ff7e4fe27ba4cc"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/c3652a60f61ce63a5e9067648ae2439c_44092.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/7735536062a456022b4841b8e137713d_30427.mp3",
+                        "isLavafox": true,
+                        "en": "Okay, fine. Just the sword, 210. Thank you. I can eat <em>meat</em> this week.",
+                        "zh": "好吧，就这把剑，二百一。谢谢，这周有肉吃啦。",
+                        "videoNameZh": "《生活大爆炸 第五季》",
+                        "videoNameEn": "《The Big Bang Theory Season 5》",
+                        "url": "http://bisentence_movie.sogou.com/30871662c8b9ea5f4aaa0132cb04d61d_ae8b0a5acc82f8eb0b98694291550bf27e681243"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/7eb0bec9540cbb2c5939554caf885c99_49670.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/88b08fa91e5936b618091bec2b6c2955_29663.mp3",
+                        "isLavafox": true,
+                        "en": "And for our suddenly \"back on the Hindu wagon\" Raj, the <em>meat</em> lover's pizza, no <em>meat</em>. Coming right up.",
+                        "zh": "给我们突然回到印度饮食习惯的拉杰的，是专给爱吃肉的人准备的披萨，不放肉，马上就来。",
+                        "videoNameZh": "《生活大爆炸 第二季》",
+                        "videoNameEn": "《The Big Bang Theory Season 2》",
+                        "url": "http://bisentence_movie.sogou.com/42483fe9c2ce7b2e57d29651c9077d9f_f94108b6c8e6fd77014f4adb7b5d314a9f3f5b1f"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/2b691cbbc68f38da3e9c04c368f545b3_2546.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/3e64b6c816b566848f8739ebdc85b93d_61882.mp3",
+                        "isLavafox": true,
+                        "en": "I reluct <em>meat</em>. It's no <em>meat</em>, Reggie. Yes, but is this brown sauce vegetarian, Esa? Yes, I tell you.",
+                        "zh": "我不喜欢吃肉。那不是肉，雷吉。但这个酱汁是棕色的，而我是素食主义者，埃萨。是的，我说是的。",
+                        "videoNameZh": "《如晴天，似雨天》",
+                        "videoNameEn": "《Like Sunday, Like Rain》",
+                        "url": "http://bisentence_movie.sogou.com/ebc2bf5ff3474948d0a7f67c5e163e7f_9fda0f7a7ed6612d4e3112f82d02567aab0600fd"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/a9a5203295dada5468548a45bdbbe245_26977.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/788e80272a887dd55673733c6fb3907b_49855.mp3",
+                        "isLavafox": true,
+                        "en": "Well, it's nice. Yeah. You could just slice through the <em>meat</em> and then onto the other side.",
+                        "zh": "很不错。是的，把肉切开，一直切到底。",
+                        "videoNameZh": "《中餐速成》",
+                        "videoNameEn": "《Chinese Food Made Easy》",
+                        "url": "http://bisentence_movie.sogou.com/7380d3c3dc22f8f0dfd10bbc8c115379_386dadc5699c3dcb0d0fb9f43876039f7d03e8b6"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/3cc7f04bc4e6bde5cc691b286df1a676_37630.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/b8531f6f090dd9b413accb1a417a46be_5238.mp3",
+                        "isLavafox": true,
+                        "en": "We make fire. Cook <em>meat</em>. Then put out fire by peeing, no get invited back.",
+                        "zh": "我们生火煮肉，然后撒尿熄火，从此成为被拒绝的客人。",
+                        "videoNameZh": "《老友记第一季》",
+                        "videoNameEn": "《Friends Season 1》",
+                        "url": "http://bisentence_movie.sogou.com/b4468b3860ba41315cceb30b7d505bbc_bba90257a277b3ede9abeb5d8338bfb7078b14ce"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/7eb0bec9540cbb2c5939554caf885c99_49670.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/0cadf4c5d709e4d75557436bd0ea65cc_18322.mp3",
+                        "isLavafox": true,
+                        "en": "Apparently, you did not know that the chef's salad is kitchen trickery to utilize scrap <em>meat</em>.",
+                        "zh": "显然，你不知道推荐沙拉是食堂的杂碎肉骗人把戏。",
+                        "videoNameZh": "《生活大爆炸 第二季》",
+                        "videoNameEn": "《The Big Bang Theory Season 2》",
+                        "url": "http://bisentence_movie.sogou.com/606406b45c0efa32f6379ab2e10b8026_1f6894aa8f09a5b0c5a0bed69216d88325b1e407"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/a9a5203295dada5468548a45bdbbe245_26977.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/99223fc0f805c7f0455eff21c3836e68_26265.mp3",
+                        "isLavafox": true,
+                        "en": "And there's a bit of the brown <em>meat</em> as well, because that's the brains. And so this is what we want to discard.",
+                        "zh": "还有些棕色的肉，这是大脑。我们要扔掉这些。",
+                        "videoNameZh": "《中餐速成》",
+                        "videoNameEn": "《Chinese Food Made Easy》",
+                        "url": "http://bisentence_movie.sogou.com/8ea9e28d2d04433f8c7e819ed078e077_54c1ec86166b20592637c0f600eb88b22369e941"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/a9a5203295dada5468548a45bdbbe245_26977.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/e7a86b09d3cf9400a3eca39dd0ad2941_25233.mp3",
+                        "isLavafox": true,
+                        "en": "And you can use any other cooking wine, but I love Shao Hsing, from the Shao Hsing region in China. Just gives this gorgeous, bitter-sweet edge to any dish, and it just takes the rawness of <em>meat</em> or fish, and any odours off <em>meat</em> and fish.",
+                        "zh": "你也可以使用其他料酒，但我爱用绍兴，中国绍兴地区产的绍兴米酒，可以让菜肴变得鲜美，苦中带甜，而且可以令肉或鱼更加入味，还能去除肉的腥味。",
+                        "videoNameZh": "《中餐速成》",
+                        "videoNameEn": "《Chinese Food Made Easy》",
+                        "url": "http://bisentence_movie.sogou.com/95fa7a5f74b19924a8f0ff9b0dbd6fc8_9a63c45877ba7eb73e86ff65e7294305f895d98a"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/a9a5203295dada5468548a45bdbbe245_26977.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/208465547a6c4c0c4eef8dae5421f2a2_63638.mp3",
+                        "isLavafox": true,
+                        "en": "I don't want to lose the <em>meat</em> that's in the middle cos that's really juicy and that's the best bits.",
+                        "zh": "不要浪费中间的肉，因为这些肉汁很多，是最好吃的部分。",
+                        "videoNameZh": "《中餐速成》",
+                        "videoNameEn": "《Chinese Food Made Easy》",
+                        "url": "http://bisentence_movie.sogou.com/3507429171942eeafea7b245e65ad6db_2d439b535d7919e110e29392e802da85a2e4e7ba"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/d56465f32cfb60b309184591f56a2a7e_8302.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/070329b8392e40a5c4a0a2d0c2b95adf_4390.mp3",
+                        "isLavafox": true,
+                        "en": "When he does, it's always with this disappointed scowl, like someone skimped on the <em>meat</em> in his sandwich.",
+                        "zh": "我每次跟他讲话，他就像吃到没夹肉的三明治那样失望。",
+                        "videoNameZh": "《驯龙高手》",
+                        "videoNameEn": "《How to Train Your Dragon》",
+                        "url": "http://bisentence_movie.sogou.com/47f5e72d5c141d95bab265f20d5f240e_e1876d7475d1aa97adea9a6d48c3b7694bb7191a"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/f7d7167294560b5a445295985c93469c_14515.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/db6f9865031c8174b954609f989bcf2e_19254.mp3",
+                        "isLavafox": true,
+                        "en": "Dinner's almost ready. If you like <em>meat</em>loaf, I'm sure you'll like its cousin, bowl of <em>meat</em>.",
+                        "zh": "晚餐快好了，如果你们喜欢烘肉卷，那肯定会喜欢它的表亲，大碗肉。",
+                        "videoNameZh": "《生活大爆炸 第十季》",
+                        "videoNameEn": "《The Big Bang Theory Season 10》",
+                        "url": "http://bisentence_movie.sogou.com/1ea34c13f49767a9c085b47da4e13110_84a5edeac91635b05cace5b7f9dda2e20c9d5baa"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/abd937b2672222a78ae14a2575251d2d_52124.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/ab9d8c4186c1afd3fb11d58c3adcf1a8_61295.mp3",
+                        "isLavafox": true,
+                        "en": "Remember when we would track blood ox through the Frostwind dunes? There is always <em>meat</em>. Always life.",
+                        "zh": "还记得那是我们穿过霜风沙丘去捕杀血牛？总是有肉吃，蛊然生机。",
+                        "videoNameZh": "《魔兽》",
+                        "videoNameEn": "《Warcraft》",
+                        "url": "http://bisentence_movie.sogou.com/ee20ee195717592eb84dcc9e9ff66548_6c0c61f48cf1193b83c0188b9c72b2588919c637"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/649fb0da5e02febcad57f332efe07876_46469.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/7807a77720266359d06668685f3259da_26560.mp3",
+                        "isLavafox": true,
+                        "en": "So, who's the mystery man? Well, he's a doctor. A real doctor? No, a doctor of <em>meat</em>.",
+                        "zh": "那个神秘男子是谁？他是个医生（跟“博士”同词）。真正的医生？不，他是研究肉的。",
+                        "videoNameZh": "《老友记 第二季》",
+                        "videoNameEn": "《Friends Season 2》",
+                        "url": "http://bisentence_movie.sogou.com/5e336273ee28357b4ed3841cebc2ac54_b6f1a2a89f5ebf426fc856355c4e4305ba95f75f"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/a9a5203295dada5468548a45bdbbe245_26977.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/42b17fad1bfc0f60873b31c184a46ece_66828.mp3",
+                        "isLavafox": true,
+                        "en": "And this bit is the tail of the crab, so we just snap that bit off, because it's not very tasty, there's no <em>meat</em> there.",
+                        "zh": "这部分是螃蟹的尾巴，扯下来就好，因为它不太好吃，没有肉。",
+                        "videoNameZh": "《中餐速成》",
+                        "videoNameEn": "《Chinese Food Made Easy》",
+                        "url": "http://bisentence_movie.sogou.com/9af54b8df7096047c9d076d37b3836b2_b30775525b0573d13a08cef9116b67a55fa5fc30"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/a9a5203295dada5468548a45bdbbe245_26977.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/32f6e832c5a96c6e4d52cc2e4b62dad8_22291.mp3",
+                        "isLavafox": true,
+                        "en": "And then I need a hot wok. Crack the crab claws but leave the <em>meat</em> in the claws. Roughly chop a chilli.",
+                        "zh": "然后我要把锅烧热。敲碎蟹爪，但把肉留在爪子里。粗粗地切碎一只辣椒。",
+                        "videoNameZh": "《中餐速成》",
+                        "videoNameEn": "《Chinese Food Made Easy》",
+                        "url": "http://bisentence_movie.sogou.com/427bfa2f8cca50dfaff6818a377a69ef_ab2e9d5c92a9f13ab8f83ff9acda19f7abb9db6c"
+                    }
+                ]
+            },
+            "pic": "",
+            "voice": {
+                "phonetic": [
+                    {
+                        "text": "miːt",
+                        "type": "uk",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/3248_meat_uk.mp3"
+                    },
+                    {
+                        "text": "miːt",
+                        "type": "usa",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/3248_meat_usa.mp3"
+                    }
+                ]
+            },
+            "dictType": "oxford_buchong",
+            "kaoyan": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 12,
+                        "pos": "n",
+                        "chinese": "肉",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "meat",
+                "direction_info": {
+                    "ranges": 12,
+                    "description": "数据源自2012-2023年12年间全国考研试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2012-2023年全国考研英语一和考研英语二共24套考研试卷，包括阅读、完型填空、翻译、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选全国考研考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2012-2023年12年间全国考研英语一和考研英语二试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 3,
+                "total_exam_freq": 12,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "肉",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "According to a report on UK food production, 85 percent of the country's total land area is associated with <highlight>meat</highlight> and dairy production.",
+                                    "month": -1,
+                                    "source": "英语二",
+                                    "coll": "",
+                                    "sentence_trans": "根据一份关于英国食品生产的报告，英国85%的土地与肉类和奶制品的生产有关。",
+                                    "year": 2021,
+                                    "type": "阅读理解A",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "So even covering the whole country in livestock farms wouldn't allow us to cover all our <highlight>meat</highlight> and dairy needs.",
+                                    "month": -1,
+                                    "source": "英语二",
+                                    "coll": "",
+                                    "sentence_trans": "所以即使畜牧业覆盖全国，也不能满足我们对肉类和奶制品的需求。",
+                                    "year": 2021,
+                                    "type": "阅读理解A",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "There, as people got more money, some of them may have more cleared land for cattle to raise for <highlight>meat</highlight>, Ferraro says.",
+                                    "month": -1,
+                                    "source": "英语一",
+                                    "coll": "",
+                                    "sentence_trans": "费拉罗说，在那里，随着人们赚的钱更多，一些人可能会有更多的空地饲养牲畜，提供肉类。",
+                                    "year": 2021,
+                                    "type": "阅读理解A",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            "CET6": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 18,
+                        "pos": "n",
+                        "chinese": "肉",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "meat",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2016.6-2023.6年8年间全六级试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight>考纲释义</highlight>\n精选实考、考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2016-2023年51套试卷，包括阅读、听力、翻译等所有题型。\n\n<highlight>真题例句</highlight>\n精选2016-2023年8年间全六级试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 4,
+                "total_exam_freq": 18,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "肉",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "<highlight>Meat</highlight> consumption and private transport are devastating the environment.",
+                                    "month": 12,
+                                    "source": "CET6",
+                                    "coll": "",
+                                    "sentence_trans": "肉类消费和私人交通正在破坏环境。",
+                                    "year": 2021,
+                                    "type": "听力",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "You also endorse high taxes on <highlight>meat</highlight> and other animal products and increased taxes on gasoline.",
+                                    "month": 12,
+                                    "source": "CET6",
+                                    "coll": "",
+                                    "sentence_trans": "你还支持对肉类和其他动物产品征收高税，并增加汽油税。",
+                                    "year": 2021,
+                                    "type": "听力",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "disambiguation": [
+                    {
+                        "disambiguation_list": [
+                            {
+                                "word": "flesh",
+                                "sense_disambiguation": "主要指人体或动物身上的肌肉组织, 是从生理角度着眼的。也指动物的肉食。"
+                            },
+                            {
+                                "word": "meat",
+                                "sense_disambiguation": "是肉类的总称, 指食用的肉, 如畜类、禽类的肉, 但不包括鱼类的肉。"
+                            }
+                        ],
+                        "sense_group": "肉"
+                    }
+                ],
+                "exchange_info": {
+                    "word_pl": [
+                        "meats"
+                    ]
+                }
+            },
+            "CET4": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 19,
+                        "pos": "n",
+                        "chinese": "肉",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "meat",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2016.6-2023.6年8年间全四级试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight>考纲释义</highlight>\n精选实考、考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2016-2023年51套试卷，包括阅读、听力、翻译等所有题型。\n\n<highlight>真题例句</highlight>\n精选2016-2023年8年间试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 4,
+                "total_exam_freq": 19,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "肉",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "This is because they are sometimes hunted for their <highlight>meat</highlight> or their skin.",
+                                    "month": 12,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "这是因为它们有时会被猎杀，来获取肉或皮。",
+                                    "year": 2020,
+                                    "type": "听力",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "The common prescription is to primarily shop the grocery store, since that's where fresh produce, <highlight>meat</highlight> and seafood, and dairy are.",
+                                    "month": 7,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "通常的做法是主要在杂货店购物，因为那里有新鲜农产品、肉类、海鲜和乳制品。",
+                                    "year": 2020,
+                                    "type": "阅读理解B",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "A growing number of people wanting to move up the food chain to consume highly grain-intensive <highlight>meat</highlight> products.",
+                                    "month": 6,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "越来越多的人想要向食物链的上层移动，消费高度谷物密集型的肉类产品。",
+                                    "year": 2016,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "word_usage": [
+                    {
+                        "usage": "该词的含义为“供食用的肉”，鱼肉应用fish，其他各类的肉各有专名，如猪肉、羊肉、牛肉、鸡肉分别为：pork、mutton、beef、 chicken。 flesh指人和脊椎动物的肌肉组织，区别于骨、皮。"
+                    }
+                ],
+                "disambiguation": [
+                    {
+                        "disambiguation_list": [
+                            {
+                                "word": "flesh",
+                                "sense_disambiguation": "主要指人体或动物身上的肌肉组织，是从生理角度着眼的。也指动物的肉食。"
+                            },
+                            {
+                                "word": "meat",
+                                "sense_disambiguation": "是肉类的总称，指食用的肉，如畜类、禽类的肉，但不包括鱼类的肉。"
+                            }
+                        ],
+                        "sense_group": "肉"
+                    }
+                ],
+                "exchange_info": {
+                    "word_pl": [
+                        "meats"
+                    ]
+                }
+            },
+            "gaokao": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 1,
+                        "pos": "cn/un",
+                        "chinese": "肉",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "meat",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2015-2022年8年间全国卷和自主命题省市高考卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2015-2022年全国卷高考试卷，包括阅读、完形、单选、填空、听力、改错、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选各省市考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2015-2022年8年间全国卷和自主命题省市高考卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 1,
+                "total_exam_freq": 1,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "肉",
+                            "pos": "cn/un",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "The menu is Italian, with excellent <highlight>meat</highlight> and fresh fish, pizzas and pasta.",
+                                    "month": -1,
+                                    "source": "全国卷2",
+                                    "coll": "",
+                                    "sentence_trans": "菜单是意大利式的，有上好的肉和鲜鱼、比萨和意大利面。",
+                                    "year": 2016,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "word_usage": [
+                    {
+                        "usage": "该词的含义为“供食用的肉”，鱼肉应用fish，其他各类的肉各有专名，如猪肉、羊肉、牛肉、鸡肉分别为：pork、mutton、beef、 chicken。 flesh指人和脊椎动物的肌肉组织，区别于骨、皮。"
+                    }
+                ]
+            },
+            "zhongkao": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 67,
+                        "pos": "cn/un",
+                        "chinese": "肉",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "meat",
+                "total_exam_freq": 67,
+                "direction_info": {
+                    "ranges": 4,
+                    "description": "数据源自2018-2021年4年间全国各省市中考试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2018-2021年全国重点省市中考试卷，包括听力、阅读、完形、单选、填空、改错、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选各省市考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2018-2021年4年间全国各省市中考试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 5,
+                "word_level_phrase_info": [
+                    {
+                        "brief_definition": "吃肉",
+                        "phrase": "eat meat",
+                        "pos": ""
+                    }
+                ],
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "肉",
+                            "pos": "cn/un",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "The woman hardly eats <highlight>meat</highlight> because of losing weight.",
+                                    "month": -1,
+                                    "source": "达州市卷",
+                                    "coll": "",
+                                    "sentence_trans": "这个女人几乎不吃肉，因为她要减肥。",
+                                    "year": 2021,
+                                    "type": "句型转换",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Don't drink cola or eat too much <highlight>meat</highlight>.",
+                                    "month": -1,
+                                    "source": "贺州市卷",
+                                    "coll": "",
+                                    "sentence_trans": "不要喝可乐或吃太多肉。",
+                                    "year": 2021,
+                                    "type": "听力填空",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "For lunch, I usually have rice, <highlight>meat</highlight> and vegetables.",
+                                    "month": -1,
+                                    "source": "南宁卷",
+                                    "coll": "",
+                                    "sentence_trans": "午餐，我通常吃米饭、肉和蔬菜。",
+                                    "year": 2020,
+                                    "type": "综合填空",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            "sentencesData": {
+                "status": 1,
+                "info": "notZh2En",
+                "data": {}
+            },
+            "isAutoMatch": false,
+            "Zh2En": false
+        },
+        "query": "meat",
+        "result": "肉",
+        "tabSelect": "detail",
+        "dictionaryType": "oxford_buchong",
+        "notFound_show": false,
+        "phoneticShow": "",
+        "globalShowTranslateRecord": "",
+        "pronPrefer": {
+            "type": "usa_1",
+            "speaker": "male",
+            "speed": "standard"
+        },
+        "ServerRecord": "",
+        "ServerUIGS": {
+            "version": "new",
+            "type": "all",
+            "stype": "success",
+            "terminal": "web",
+            "fr": "default",
+            "direction": "etoz",
+            "from": "en",
+            "to": "zh-CHS",
+            "len": 4,
+            "qtype": "text",
+            "qctype": "qc_1",
+            "dict_cover": 1,
+            "detail": 1,
+            "wordCardCover": 1,
+            "wordCardEn": 1,
+            "wordCardCh": 0,
+            "wordCardMinor": 0,
+            "wordCardNetmean": 0,
+            "wordDeform": 1,
+            "keyword": 0,
+            "bilingual": 1,
+            "simple": 0,
+            "levelList": 1,
+            "synonym": 1,
+            "antonym": 0,
+            "conjugate": 1,
+            "rootaffix": 0,
+            "baike_sogou": 1,
+            "baike_wiki": 0,
+            "wordDifference": 1,
+            "word_phrase": 1,
+            "secondQuery": 0,
+            "dict_oxford": 0,
+            "dict_newcentury": 0,
+            "zhongkaotab": 1,
+            "gaokaotab": 1,
+            "CET4tab": 1,
+            "CET6tab": 1,
+            "kaoyantab": 1,
+            "network_tab": 0,
+            "yinying_tab": 1,
+            "tuozhan_tab": 0,
+            "one_pic": 0,
+            "more_pic": 0,
+            "no_pic": 0,
+            "uuid": "89cfc883-8464-4947-9c2d-7641976c84b6",
+            "from_type": 0,
+            "t_trans_ssr": 168
+        },
+        "ServerModelUIGS": {
+            "terminal": "web",
+            "type": "trans_model",
+            "pbtype": "pv",
+            "model_general": 1,
+            "model_medical": 1,
+            "model_finance": 1
+        },
+        "ServerSgtkn": "64EFD64A5C98F75F54537CEF49DE3B4C550B2472675527BB",
+        "suggShow": false,
+        "suggestion": "",
+        "suggDirection": "",
+        "usualTop": "",
+        "baseDict": "",
+        "wordCardClick": false,
+        "isFrInput": false,
+        "kanaTips": {
+            "show": false,
+            "left": "",
+            "top": "",
+            "type": "",
+            "arrowLeft": ""
+        },
+        "currSentenceIndex": -1,
+        "prefixStrObj": {
+            "prefixStr": "",
+            "oriPrefixStr": ""
+        },
+        "selectTransBox": {
+            "show": false,
+            "right": 0,
+            "top": 0,
+            "paraphraseInfo": {
+                "word": "",
+                "from": "",
+                "to": "",
+                "area": ""
+            }
+        },
+        "sentenceLoading": false,
+        "newSentenceInfo": {
+            "sentence": "",
+            "candidateIndex": 0
+        },
+        "moreTipInfo": {
+            "opacity": 0,
+            "zIndex": -1
+        },
+        "paraphraseShowInfo": {
+            "card": 0,
+            "query": "",
+            "card_dict": 0
+        },
+        "selectType": "",
+        "wordPos": 0,
+        "candidateWord": "",
+        "syntaxVisible": false,
+        "syntaxStatus": 0
+    },
+    "language": {
+        "from": "auto",
+        "to": "zh-CHS",
+        "detect": "en",
+        "model": "general",
+        "detectShow": false,
+        "langMap": {
+            "current": ""
+        },
+        "zh2en": false,
+        "fromItemList": [
+            {
+                "lang": "auto",
+                "text": "自动检测",
+                "play": false
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "ru",
+                "text": "俄语",
+                "play": true,
+                "abbr": "俄"
+            },
+            {
+                "lang": "fr",
+                "text": "法语",
+                "play": true,
+                "abbr": "法"
+            },
+            {
+                "lang": "th",
+                "text": "泰语",
+                "play": true,
+                "abbr": "泰"
+            }
+        ],
+        "toItemList": [
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "ru",
+                "text": "俄语",
+                "play": true,
+                "abbr": "俄"
+            },
+            {
+                "lang": "ko",
+                "text": "韩语",
+                "play": true,
+                "abbr": "韩"
+            },
+            {
+                "lang": "vi",
+                "text": "越南语",
+                "play": true,
+                "abbr": "越"
+            }
+        ]
+    },
+    "voice": {
+        "from": {
+            "lang": "en",
+            "type": "from",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22meat%22%2C%22spokenDialect%22%3A%22en%22%2C%22rate%22%3A%220.8%22%7D",
+            "list": [
+                {
+                    "type": "uk_0",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "miːt",
+                    "abbr": "英",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/3248_meat_uk.mp3"
+                },
+                {
+                    "type": "usa_1",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "miːt",
+                    "abbr": "美",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/3248_meat_usa.mp3"
+                }
+            ],
+            "stype": "phonetic",
+            "phoneticShow": [
+                {
+                    "text": "miːt",
+                    "type": "uk",
+                    "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/3248_meat_uk.mp3"
+                }
+            ]
+        },
+        "to": {
+            "lang": "zh",
+            "type": "to",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22%E8%82%89%22%2C%22spokenDialect%22%3A%22zh-CHS%22%2C%22rate%22%3A%220.8%22%7D",
+            "stype": "normal"
+        }
+    }
+}

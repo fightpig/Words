@@ -1,0 +1,794 @@
+{
+    "route": {
+        "name": "text",
+        "path": "/text",
+        "hash": "",
+        "query": {
+            "keyword": "hi",
+            "transfrom": "auto",
+            "transto": "zh-CHS",
+            "model": "general",
+            "errcode": "s10"
+        },
+        "params": {},
+        "fullPath": "/text?keyword=hi&transfrom=auto&transto=zh-CHS&model=general&errcode=s10",
+        "meta": {
+            "mtype": [
+                "textTranslate",
+                "language",
+                "voice"
+            ]
+        },
+        "from": {
+            "name": null,
+            "path": "/",
+            "hash": "",
+            "query": {},
+            "params": {},
+            "fullPath": "/",
+            "meta": {}
+        }
+    },
+    "common": {
+        "CONFIG": {
+            "wuid": 1733633423422,
+            "loginInfo": {},
+            "isIE": 0,
+            "isHitSsrSwitch": true,
+            "isHitWritebookSwitch": false,
+            "isHitAmsSwitch": true,
+            "promotionList": "{\n    \"pc_bottom\":{\n        \"imgsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\",\n        \"qcsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\"\n    },\n    \"pc_middle\":[\n        {\n            \"src\":\"//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c\",\n            \"bgColor\":\"#ffffff\",\n            \"link\":\"\"\n        }\n    ],\n    \"pc_survey\":{\n        \"icon\":\"//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750\",\n        \"link\":\"https://wj.qq.com/s2/8193148/806d/\"\n    }\n}",
+            "bannerData": [],
+            "isHitAsideSurvey": false,
+            "secretCode": 109984457,
+            "uuid": "7db5e0bd-cf1c-4977-8cff-5773a8860ba9",
+            "referer": "",
+            "approveToken": "64ED6EEA6AAEC06862644AD99F3DCD2B63B611EB6755258F",
+            "loadTime": 1733633423424,
+            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0",
+            "fcp": "138.197.122.177",
+            "temporaryId": "",
+            "fileId": ""
+        },
+        "hotWords": [],
+        "isFromCollect": false,
+        "psdModify": {
+            "currentStep": 1,
+            "scode": "",
+            "username": ""
+        },
+        "loginStatus": true,
+        "feedBackModule": false,
+        "showPromotionPopup": {
+            "show": false,
+            "type": ""
+        },
+        "showPromotionPCDownload": false,
+        "showShareBomb": false,
+        "shareData": null,
+        "showAppDownLoad": false,
+        "showLoginDialog": false,
+        "showLoading": {
+            "show": false
+        },
+        "toast": {
+            "show": false,
+            "text": "",
+            "loading": false
+        },
+        "modelToast": {
+            "show": false,
+            "text": ""
+        },
+        "selectionGlobalShow": true,
+        "selectionInfo": {
+            "left": 0,
+            "top": 0,
+            "show": false,
+            "from": "",
+            "to": "",
+            "val": "",
+            "area": ""
+        },
+        "showConfirmDialog": false,
+        "promotionList": {
+            "pc_bottom": {
+                "imgsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png",
+                "qcsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png"
+            },
+            "pc_middle": [
+                {
+                    "src": "//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c",
+                    "bgColor": "#ffffff",
+                    "link": ""
+                }
+            ],
+            "pc_survey": {
+                "icon": "//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750",
+                "link": "https://wj.qq.com/s2/8193148/806d/"
+            }
+        },
+        "transTypeTxt": "text",
+        "fixedTabStatus": 0,
+        "bodyTop": 0,
+        "ifHideUserOperation": false
+    },
+    "textTranslate": {
+        "prevTransQuery": "",
+        "translateData": {
+            "translate": {
+                "zly": "zly",
+                "errorCode": "0",
+                "qc_type": "1",
+                "index": "content0",
+                "from": "en",
+                "source": "sogou",
+                "text": "hi",
+                "to": "zh-CHS",
+                "id": "7db5e0bd-cf1c-4977-8cff-5773a8860ba9",
+                "dit": "你好",
+                "orig_text": "hi",
+                "md5": ""
+            },
+            "detect": {
+                "zly": "zly",
+                "detect": "en",
+                "errorCode": "0",
+                "language": "英语",
+                "id": "ef3ef930-b51f-11ef-85bd-23d1dd27656b",
+                "text": "hi"
+            },
+            "sgtkn": "64ED6EEC6AAEC06862644AD99F3DCD2B63B611EB6755258F",
+            "wordCard": {
+                "title": "hi",
+                "show": true,
+                "usualDict": [
+                    {
+                        "values": [
+                            "嗨；喂；嘿；你好（引起注意；非正式的打招呼）"
+                        ],
+                        "pos": "exl."
+                    },
+                    {
+                        "values": [
+                            "（HI）夏威夷州（Hawaii的缩写）；高强度（high intensity的缩写）；湿度指数（humidity index的缩写）；血凝抑制（Hemagglutination Inhibition的缩写）"
+                        ],
+                        "pos": "abbr."
+                    }
+                ],
+                "secondQuery": "",
+                "exchange": {},
+                "levelList": [
+                    "小学",
+                    "初中",
+                    "高中",
+                    "四级",
+                    "考研"
+                ]
+            },
+            "detail": {
+                "synonym": [
+                    {
+                        "word_list": [
+                            "come",
+                            "heigh"
+                        ],
+                        "pos": "int.",
+                        "mean": "嗨！"
+                    }
+                ],
+                "bilingual": [
+                    {
+                        "source": "<em>Hi</em>. <em>Hi</em>. Are you Wang Ling?",
+                        "target": "你好。你是王玲吗？",
+                        "url": ""
+                    },
+                    {
+                        "source": "<em>Hi</em>! My name is Lee.",
+                        "target": "嗨！我的名字是李。",
+                        "url": ""
+                    },
+                    {
+                        "source": "<em>Hi</em>, my name is Jack.",
+                        "target": "嗨，我的名字是杰克。",
+                        "url": ""
+                    },
+                    {
+                        "source": "<em>Hi</em>. My name is Paul.",
+                        "target": "你好，我的名字是保罗。",
+                        "url": ""
+                    },
+                    {
+                        "source": "<em>Hi</em>! How old are you?",
+                        "target": "你好！你几岁了？",
+                        "url": ""
+                    },
+                    {
+                        "source": "<em>Hi</em>, Ella. Are you OK?",
+                        "target": "嗨，艾拉。你还好吗？",
+                        "url": ""
+                    },
+                    {
+                        "source": "<em>Hi</em>, Ken. How are you?",
+                        "target": "嗨，肯。你好吗？",
+                        "url": ""
+                    },
+                    {
+                        "source": "<em>Hi</em>! Nice to meet you.",
+                        "target": "嗨！很高兴见到你。",
+                        "url": ""
+                    },
+                    {
+                        "source": "<em>Hi</em>, Bob. How are you?",
+                        "target": "嗨，鲍勃。你好吗？",
+                        "url": ""
+                    },
+                    {
+                        "source": "<em>Hi</em>, Mike! How are you?",
+                        "target": "你好，迈克！你好吗？",
+                        "url": ""
+                    }
+                ],
+                "baike": {
+                    "showMore": true,
+                    "list": [
+                        {
+                            "lemmaTitle": "hi",
+                            "link": "https://baike.sogou.com/v99177.htm?ch=sogou.fanyi",
+                            "abstract": "hi，英文单词，译为嗨，表示问候或用以唤起注意。",
+                            "wapPic": "",
+                            "pcPic": ""
+                        },
+                        {
+                            "lemmaTitle": "hi",
+                            "link": "https://baike.sogou.com/v148611255.htm?ch=sogou.fanyi",
+                            "abstract": "《Hi》是韩国女子组合Lovelyz于2015年3月3日发行的首张正规专辑Repakage专辑《Hi~》中的主打曲。 Repakage专辑在1辑的9首歌曲基础上收录两首新曲。分别为同名主打曲《Hi~》以及《游乐园》。",
+                            "wapPic": "//img03.sogoucdn.com/v2/thumb/retype_exclude_gif/ext/auto/q/80/crop/xy/ai/w/140/h/140/resize/w/140?appid=201005&sign=b4c600c548550d7f50111dfd770968ef&url=https%3A%2F%2Fpic.baike.soso.com%2Fugc%2Fbaikepic2%2F13824%2F20220513181047-1685933849_jpeg_773_491_68631.jpg%2F0",
+                            "pcPic": "//img03.sogoucdn.com/v2/thumb/retype_exclude_gif/ext/auto/q/80/crop/xy/ai/w/140/h/140/resize/w/140?appid=201005&sign=b4c600c548550d7f50111dfd770968ef&url=https%3A%2F%2Fpic.baike.soso.com%2Fugc%2Fbaikepic2%2F13824%2F20220513181047-1685933849_jpeg_773_491_68631.jpg%2F0"
+                        }
+                    ]
+                }
+            },
+            "book": {
+                "yingyinNormal": [
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/39e50807a5a1191398262e04787ff184_62485.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/f2a9a4a0b123270793057ec55ce3c9b4_580.mp3",
+                        "isLavafox": true,
+                        "en": "<em>Hi</em>. Again. <em>Hi</em>. <em>Hi</em>. <em>Hi</em>. <em>Hi</em>.",
+                        "zh": "你好。又来了。你好。",
+                        "videoNameZh": "《生活大爆炸 第一季》",
+                        "videoNameEn": "《The Big Bang Theory Season 1》",
+                        "url": "http://bisentence_movie.sogou.com/57c608975b027def202ca89fd2056720_41c0741306f3a2435bd3bcfac1c09ac8ad15d50c"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/65861602801590fdaf378b1d1c997a40_10433.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/468703915aa7d70cd215558d8e20b7ff_43975.mp3",
+                        "isLavafox": true,
+                        "en": "<em>Hi</em>. <em>Hi</em>. <em>Hi</em> Ben. Auntie Monica.",
+                        "zh": "班。莫妮卡姑姑。",
+                        "videoNameZh": "《老友记 第五季》",
+                        "videoNameEn": "《Friends Season 5》",
+                        "url": "http://bisentence_movie.sogou.com/e8264ef6060340af6e106007a21d49d0_345359043cec2d8d0fc125e89ee515e1ca62447a"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/8a5b25dfe5e482fce849895959f35aba_1648.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/54225cce065eb70c5135348a0de037b2_25481.mp3",
+                        "isLavafox": true,
+                        "en": "<em>Hi</em>. <em>Hi</em>, sweetie. Hello. <em>Hi</em>, Ross. Yeah.",
+                        "zh": "嗨。嗨，甜心。嗨。嘿，罗斯。恩。",
+                        "videoNameZh": "《老友记 第三季》",
+                        "videoNameEn": "《Friends Season 3》",
+                        "url": "http://bisentence_movie.sogou.com/f20e94afb373818f34bfdf6145540bb0_997597637b5eb3d519b44ae70eb43bc2f38c541b"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/f5f16d3165593ebdb6d6ae8299e72880_33413.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/2904db2fa097bf9b88dd362641f948a1_28031.mp3",
+                        "isLavafox": true,
+                        "en": "<em>Hi</em>. <em>Hi</em>. <em>Hi</em> Yeah, she's gonna live with me.",
+                        "zh": "你好。她要来跟我住。",
+                        "videoNameZh": "《老友记 第六季》",
+                        "videoNameEn": "《Friends Season 6》",
+                        "url": "http://bisentence_movie.sogou.com/cf98bac3694ff5e5be2fbe326bd1de20_febcbca780a6a4f137b0fe284a50ad17ae8a8b00"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/649fb0da5e02febcad57f332efe07876_46469.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/a5c2d09d070ef075133c00f5fac810cd_61961.mp3",
+                        "isLavafox": true,
+                        "en": "Hello. <em>Hi</em>. Hey. <em>Hi</em> honey.",
+                        "zh": "嗨。亲爱的。",
+                        "videoNameZh": "《老友记 第二季》",
+                        "videoNameEn": "《Friends Season 2》",
+                        "url": "http://bisentence_movie.sogou.com/92d4cbc7c695d4717d1d231b64ca80cd_7ecdc8a98cb10160d8faebe0e27608c7a75c49f8"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/8a5b25dfe5e482fce849895959f35aba_1648.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/d40af93082b969d3c3494c2f89b969ed_7464.mp3",
+                        "isLavafox": true,
+                        "en": "<em>Hi</em>. Monica. Hey. <em>Hi</em> honey.",
+                        "zh": "嗨，莫妮卡。亲爱的。",
+                        "videoNameZh": "《老友记 第三季》",
+                        "videoNameEn": "《Friends Season 3》",
+                        "url": "http://bisentence_movie.sogou.com/13e0004a224ed5bd6e7257e212f9ff12_4c80f65246e0f87d011eb7124905ce3da1754b8f"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/f5f16d3165593ebdb6d6ae8299e72880_33413.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/6cf4bee5ff5338a6e225f102fe551532_55184.mp3",
+                        "isLavafox": true,
+                        "en": "Hey everybody. <em>Hi</em>. Hey, t<em>hi</em>s is Elizabeth. Oh <em>hi</em>. <em>Hi</em>.",
+                        "zh": "大家好，这是伊丽莎白。",
+                        "videoNameZh": "《老友记 第六季》",
+                        "videoNameEn": "《Friends Season 6》",
+                        "url": "http://bisentence_movie.sogou.com/6c39a2c7a2b92bf454c1df102bb61055_6845084becc3a28db1dcc176ddbd882513a79707"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/8a5b25dfe5e482fce849895959f35aba_1648.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/8f09b0cfd35d0000299067148fb1564f_5707.mp3",
+                        "isLavafox": true,
+                        "en": "<em>Hi</em>. <em>Hi</em>? You wanted to see me?",
+                        "zh": "嗨。你想见我？",
+                        "videoNameZh": "《老友记 第三季》",
+                        "videoNameEn": "《Friends Season 3》",
+                        "url": "http://bisentence_movie.sogou.com/b64d18cd369001356c5a8f5d88d30dfe_1c163771ca02d5fe35cfc1740a26fd6aa2d49786"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/aa7a748a86497e02e2b0a5098f3017b8_12619.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/5dc5b4b3885f3c08845c2cdff5a422e3_58354.mp3",
+                        "isLavafox": true,
+                        "en": "<em>Hi</em>. <em>Hi</em>. How long you been here?",
+                        "zh": "你好。你来这儿多久了？",
+                        "videoNameZh": "《女孩成长记 第一季》",
+                        "videoNameEn": "《Girl Meets World Season 1》",
+                        "url": "http://bisentence_movie.sogou.com/4313aea9c74046337e579e16b3b720e0_c6252c17b93d38e0e6fc46e9696c4a8e5b5ef674"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/aa7a748a86497e02e2b0a5098f3017b8_12619.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/db6ab09513005af04033aa2d6c016fd4_73084.mp3",
+                        "isLavafox": true,
+                        "en": "Allow us to demonstrate. <em>Hi</em>. <em>Hi</em>.",
+                        "zh": "让我们来给大家演示一下。你好。你好。",
+                        "videoNameZh": "《女孩成长记 第一季》",
+                        "videoNameEn": "《Girl Meets World Season 1》",
+                        "url": "http://bisentence_movie.sogou.com/415c2067f4c73e72a4771aa7785629e8_613be9a12c8e966b40312a28db39db7dd4b7e4f4"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/3cc7f04bc4e6bde5cc691b286df1a676_37630.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/bee106c427409177fd6549e6d3b07ac2_61924.mp3",
+                        "isLavafox": true,
+                        "en": "<em>Hi</em>. <em>Hi</em>. Sorry I'm late. Where's Carol?",
+                        "zh": "抱歉,我迟到了,卡萝在哪儿?",
+                        "videoNameZh": "《老友记第一季》",
+                        "videoNameEn": "《Friends Season 1》",
+                        "url": "http://bisentence_movie.sogou.com/ca56d50b526d64471c99e8dad77fe64c_ef4803ce0c52164a983f44b7bc3d30da3e541cd6"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/649fb0da5e02febcad57f332efe07876_46469.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/b95ebb634ea01d1aa71cc4dadf5e0dda_59503.mp3",
+                        "isLavafox": true,
+                        "en": "Here he is. <em>Hi</em>. Guys, t<em>hi</em>s is Russ. <em>Hi</em>.",
+                        "zh": "他来了，各位，这是洛斯。",
+                        "videoNameZh": "《老友记 第二季》",
+                        "videoNameEn": "《Friends Season 2》",
+                        "url": "http://bisentence_movie.sogou.com/4cbcf3d574f83f69311a059612a0dca8_8aefeed98eca1f1bc1c2833b56d257b71d98aff4"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/b0aac413f69a971e58772352502a07e3_67340.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/24312eb4a965fead93366a3937ee5aa2_4542.mp3",
+                        "isLavafox": true,
+                        "en": "Eli. <em>Hi</em>. <em>Hi</em>. You two are meeting already?",
+                        "zh": "你来啦，伊莱。你们好，你俩已经谈过了吗？",
+                        "videoNameZh": "《傲骨贤妻第七季》",
+                        "videoNameEn": "《The Good Wife Season 7》",
+                        "url": "http://bisentence_movie.sogou.com/bf0f97773e3b9c232b798b024c5fb775_058dc905b0cf6facff54f566f5d243652f0117c1"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/4bce173228bf81079afce38020f15ffd_13179.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/3b7a4ae0a9fbc2726b31e566646dd3bb_65805.mp3",
+                        "isLavafox": true,
+                        "en": "<em>Hi</em>. Good morning, Dave. Good morning. <em>Hi</em>.",
+                        "zh": "嗨，早上好，戴夫。早上好，嗨。",
+                        "videoNameZh": "《采访》",
+                        "videoNameEn": "《The Interview》",
+                        "url": "http://bisentence_movie.sogou.com/3eea389b85f46f1205b6ae846a52c240_e0f47e7116969de8e372d577e74004ead1c8b0c4"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/79cf900ee00a1a06b4169225ae5cd9e5_3961.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/ff975fa2592d05c7c28f88fd5b4d4154_26601.mp3",
+                        "isLavafox": true,
+                        "en": "<em>Hi</em>, Caren. <em>Hi</em>, Pandragora. Welcome, Mavis.",
+                        "zh": "嗨，卡伦，嗨，皮安葛拉。欢迎，梅菲斯。",
+                        "videoNameZh": "《精灵旅社2》",
+                        "videoNameEn": "《Hotel Transylvania 2》",
+                        "url": "http://bisentence_movie.sogou.com/05e514f38dc19ec82ef07f27986d7238_ef3044a84ef7f151e4946dc528cd499b3bd543b0"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/69e52acd9e09b6a2ed378507a165e971_14638.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/fc64ac3fb92f749e3249649c5393232c_64148.mp3",
+                        "isLavafox": true,
+                        "en": "<em>Hi</em>! Oh, my god. It's Asher. Let's go say <em>hi</em>.",
+                        "zh": "天啊，是阿瑟，我们去打个招呼。",
+                        "videoNameZh": "《绯闻女孩 第一季》",
+                        "videoNameEn": "《Gossip Girl Season 1》",
+                        "url": "http://bisentence_movie.sogou.com/1d1150d7b3c47196214fd4d4f667c795_fee04adddbac6748b3c32e4b2a0c674f64c03a00"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/65861602801590fdaf378b1d1c997a40_10433.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/55f4dfb83bb56482614f9e0c03f568cd_18209.mp3",
+                        "isLavafox": true,
+                        "en": "<em>Hi</em>. <em>Hi</em>. One vegetarian pizza. That's $12.15.",
+                        "zh": "一个素食披萨，12.5美元。",
+                        "videoNameZh": "《老友记 第五季》",
+                        "videoNameEn": "《Friends Season 5》",
+                        "url": "http://bisentence_movie.sogou.com/546ac03621ab2309caeb769e5ca597c9_c30280875c7297ff6ba158ba09e9d0843e90eb2c"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/6a0f1af500949aabdf79e8935d4a7230_22265.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/4286f03f858baa7de2a2246024d34af4_57010.mp3",
+                        "isLavafox": true,
+                        "en": "<em>Hi</em>. <em>Hi</em>. We were just in the neighborhood, so…",
+                        "zh": "嗨。我们正好在附近...",
+                        "videoNameZh": "《老友记 第四季》",
+                        "videoNameEn": "《Friends Season 4》",
+                        "url": "http://bisentence_movie.sogou.com/7d77eeeb71686864b8683f46fadace7a_cf7dc5feddecf689f7e62be6f2bbb62ee57d1299"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/649fb0da5e02febcad57f332efe07876_46469.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/2940410bfc8731ba076ae1696e766f28_33240.mp3",
+                        "isLavafox": true,
+                        "en": "Rachel. Oh <em>hi</em>, Mr. Wineburg, <em>hi</em> Mrs. Wineburg.",
+                        "zh": "瑞秋。温伯格先生，温伯格太太，你好。",
+                        "videoNameZh": "《老友记 第二季》",
+                        "videoNameEn": "《Friends Season 2》",
+                        "url": "http://bisentence_movie.sogou.com/a658b50ca822b984eece54348140f475_a159f681c2aea1bfd45d80a895b6cd7c65bea03b"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/3bccca9abe5ab96bd7f3eaed6bd40cf2_52899.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/5d9a2bc6aaf45d8e13be4ba543d298ab_40786.mp3",
+                        "isLavafox": true,
+                        "en": "Kristen? Joey. <em>Hi</em>. <em>Hi</em>. What are you doing here?",
+                        "zh": "克丽丝汀？乔伊。你来这里做什么？",
+                        "videoNameZh": "《老友记 第七季》",
+                        "videoNameEn": "《Friends Season 7》",
+                        "url": "http://bisentence_movie.sogou.com/497f99caf31cecd30b709dc73a75dfd0_5d3f2aa130a98a234e9e3d3f2708c97a68a90254"
+                    }
+                ]
+            },
+            "pic": "",
+            "voice": {
+                "phonetic": [
+                    {
+                        "text": "haɪ",
+                        "type": "uk",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/4800_hi_uk.mp3"
+                    },
+                    {
+                        "text": "haɪ",
+                        "type": "usa",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/4800_hi_usa.mp3"
+                    }
+                ]
+            },
+            "dictType": "oxford_buchong",
+            "gaokao": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 27,
+                        "pos": "int",
+                        "chinese": "嗨; 喂",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "hi",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2015-2022年8年间全国卷和自主命题省市高考卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2015-2022年全国卷高考试卷，包括阅读、完形、单选、填空、听力、改错、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选各省市考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2015-2022年8年间全国卷和自主命题省市高考卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 5,
+                "total_exam_freq": 27,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "嗨; 喂",
+                            "pos": "int",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "<highlight>Hi</highlight> Nancy, you look worried.",
+                                    "month": -1,
+                                    "source": "全国乙卷",
+                                    "coll": "",
+                                    "sentence_trans": "嗨，南希，你看起来很担心。",
+                                    "year": 2021,
+                                    "type": "听力",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Su Hua: <highlight>Hi</highlight>, Li Jiang!",
+                                    "month": -1,
+                                    "source": "江苏卷",
+                                    "coll": "",
+                                    "sentence_trans": "苏华：嗨，李江！",
+                                    "year": 2020,
+                                    "type": "作文",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "<highlight>Hi</highlight>, I've only just arrived.",
+                                    "month": -1,
+                                    "source": "全国卷1",
+                                    "coll": "",
+                                    "sentence_trans": "嗨，我刚到。",
+                                    "year": 2018,
+                                    "type": "听力",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            "sentencesData": {
+                "status": 1,
+                "info": "notZh2En",
+                "data": {}
+            },
+            "isAutoMatch": false,
+            "Zh2En": false
+        },
+        "query": "hi",
+        "result": "你好",
+        "tabSelect": "detail",
+        "dictionaryType": "oxford_buchong",
+        "notFound_show": false,
+        "phoneticShow": "",
+        "globalShowTranslateRecord": "",
+        "pronPrefer": {
+            "type": "usa_1",
+            "speaker": "male",
+            "speed": "standard"
+        },
+        "ServerRecord": "",
+        "ServerUIGS": {
+            "version": "new",
+            "type": "all",
+            "stype": "success",
+            "terminal": "web",
+            "fr": "default",
+            "direction": "etoz",
+            "from": "en",
+            "to": "zh-CHS",
+            "len": 2,
+            "qtype": "text",
+            "qctype": "qc_1",
+            "dict_cover": 1,
+            "detail": 1,
+            "wordCardCover": 1,
+            "wordCardEn": 1,
+            "wordCardCh": 0,
+            "wordCardMinor": 0,
+            "wordCardNetmean": 0,
+            "wordDeform": 0,
+            "keyword": 0,
+            "bilingual": 1,
+            "simple": 0,
+            "levelList": 1,
+            "synonym": 1,
+            "antonym": 0,
+            "conjugate": 0,
+            "rootaffix": 0,
+            "baike_sogou": 1,
+            "baike_wiki": 0,
+            "wordDifference": 0,
+            "word_phrase": 0,
+            "secondQuery": 0,
+            "dict_oxford": 0,
+            "dict_newcentury": 0,
+            "zhongkaotab": 0,
+            "gaokaotab": 1,
+            "CET4tab": 0,
+            "CET6tab": 0,
+            "kaoyantab": 0,
+            "network_tab": 0,
+            "yinying_tab": 1,
+            "tuozhan_tab": 0,
+            "one_pic": 0,
+            "more_pic": 0,
+            "no_pic": 0,
+            "uuid": "7db5e0bd-cf1c-4977-8cff-5773a8860ba9",
+            "from_type": 0,
+            "t_trans_ssr": 144
+        },
+        "ServerModelUIGS": {
+            "terminal": "web",
+            "type": "trans_model",
+            "pbtype": "pv",
+            "model_general": 1,
+            "model_medical": 1,
+            "model_finance": 1
+        },
+        "ServerSgtkn": "64ED6EEC6AAEC06862644AD99F3DCD2B63B611EB6755258F",
+        "suggShow": false,
+        "suggestion": "",
+        "suggDirection": "",
+        "usualTop": "",
+        "baseDict": "",
+        "wordCardClick": false,
+        "isFrInput": false,
+        "kanaTips": {
+            "show": false,
+            "left": "",
+            "top": "",
+            "type": "",
+            "arrowLeft": ""
+        },
+        "currSentenceIndex": -1,
+        "prefixStrObj": {
+            "prefixStr": "",
+            "oriPrefixStr": ""
+        },
+        "selectTransBox": {
+            "show": false,
+            "right": 0,
+            "top": 0,
+            "paraphraseInfo": {
+                "word": "",
+                "from": "",
+                "to": "",
+                "area": ""
+            }
+        },
+        "sentenceLoading": false,
+        "newSentenceInfo": {
+            "sentence": "",
+            "candidateIndex": 0
+        },
+        "moreTipInfo": {
+            "opacity": 0,
+            "zIndex": -1
+        },
+        "paraphraseShowInfo": {
+            "card": 0,
+            "query": "",
+            "card_dict": 0
+        },
+        "selectType": "",
+        "wordPos": 0,
+        "candidateWord": "",
+        "syntaxVisible": false,
+        "syntaxStatus": 0
+    },
+    "language": {
+        "from": "auto",
+        "to": "zh-CHS",
+        "detect": "en",
+        "model": "general",
+        "detectShow": false,
+        "langMap": {
+            "current": ""
+        },
+        "zh2en": false,
+        "fromItemList": [
+            {
+                "lang": "auto",
+                "text": "自动检测",
+                "play": false
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "fr",
+                "text": "法语",
+                "play": true,
+                "abbr": "法"
+            },
+            {
+                "lang": "th",
+                "text": "泰语",
+                "play": true,
+                "abbr": "泰"
+            },
+            {
+                "lang": "pt",
+                "text": "葡萄牙语",
+                "play": true,
+                "abbr": "葡"
+            }
+        ],
+        "toItemList": [
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "ru",
+                "text": "俄语",
+                "play": true,
+                "abbr": "俄"
+            },
+            {
+                "lang": "fr",
+                "text": "法语",
+                "play": true,
+                "abbr": "法"
+            },
+            {
+                "lang": "ko",
+                "text": "韩语",
+                "play": true,
+                "abbr": "韩"
+            }
+        ]
+    },
+    "voice": {
+        "from": {
+            "lang": "en",
+            "type": "from",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22hi%22%2C%22spokenDialect%22%3A%22en%22%2C%22rate%22%3A%220.8%22%7D",
+            "list": [
+                {
+                    "type": "uk_0",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "haɪ",
+                    "abbr": "英",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/4800_hi_uk.mp3"
+                },
+                {
+                    "type": "usa_1",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "haɪ",
+                    "abbr": "美",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/4800_hi_usa.mp3"
+                }
+            ],
+            "stype": "phonetic",
+            "phoneticShow": [
+                {
+                    "text": "haɪ",
+                    "type": "uk",
+                    "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/4800_hi_uk.mp3"
+                }
+            ]
+        },
+        "to": {
+            "lang": "zh",
+            "type": "to",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22%E4%BD%A0%E5%A5%BD%22%2C%22spokenDialect%22%3A%22zh-CHS%22%2C%22rate%22%3A%220.8%22%7D",
+            "stype": "normal"
+        }
+    }
+}

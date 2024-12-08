@@ -1,0 +1,865 @@
+{
+    "route": {
+        "name": "text",
+        "path": "/text",
+        "hash": "",
+        "query": {
+            "keyword": "Saturday",
+            "transfrom": "auto",
+            "transto": "zh-CHS",
+            "model": "general",
+            "errcode": "s10"
+        },
+        "params": {},
+        "fullPath": "/text?keyword=Saturday&transfrom=auto&transto=zh-CHS&model=general&errcode=s10",
+        "meta": {
+            "mtype": [
+                "textTranslate",
+                "language",
+                "voice"
+            ]
+        },
+        "from": {
+            "name": null,
+            "path": "/",
+            "hash": "",
+            "query": {},
+            "params": {},
+            "fullPath": "/",
+            "meta": {}
+        }
+    },
+    "common": {
+        "CONFIG": {
+            "wuid": 1733634292158,
+            "loginInfo": {},
+            "isIE": 0,
+            "isHitSsrSwitch": true,
+            "isHitWritebookSwitch": false,
+            "isHitAmsSwitch": true,
+            "promotionList": "{\n    \"pc_bottom\":{\n        \"imgsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\",\n        \"qcsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\"\n    },\n    \"pc_middle\":[\n        {\n            \"src\":\"//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c\",\n            \"bgColor\":\"#ffffff\",\n            \"link\":\"\"\n        }\n    ],\n    \"pc_survey\":{\n        \"icon\":\"//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750\",\n        \"link\":\"https://wj.qq.com/s2/8193148/806d/\"\n    }\n}",
+            "bannerData": [],
+            "isHitAsideSurvey": false,
+            "secretCode": 109984457,
+            "uuid": "2e269fe0-65ad-4ebd-a586-f90a0720f147",
+            "referer": "",
+            "approveToken": "64F11A9ED41E73D9D2D7F96AE1F557B2D251587C675528F4",
+            "loadTime": 1733634292159,
+            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0",
+            "fcp": "31.223.184.69",
+            "temporaryId": "",
+            "fileId": ""
+        },
+        "hotWords": [],
+        "isFromCollect": false,
+        "psdModify": {
+            "currentStep": 1,
+            "scode": "",
+            "username": ""
+        },
+        "loginStatus": true,
+        "feedBackModule": false,
+        "showPromotionPopup": {
+            "show": false,
+            "type": ""
+        },
+        "showPromotionPCDownload": false,
+        "showShareBomb": false,
+        "shareData": null,
+        "showAppDownLoad": false,
+        "showLoginDialog": false,
+        "showLoading": {
+            "show": false
+        },
+        "toast": {
+            "show": false,
+            "text": "",
+            "loading": false
+        },
+        "modelToast": {
+            "show": false,
+            "text": ""
+        },
+        "selectionGlobalShow": true,
+        "selectionInfo": {
+            "left": 0,
+            "top": 0,
+            "show": false,
+            "from": "",
+            "to": "",
+            "val": "",
+            "area": ""
+        },
+        "showConfirmDialog": false,
+        "promotionList": {
+            "pc_bottom": {
+                "imgsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png",
+                "qcsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png"
+            },
+            "pc_middle": [
+                {
+                    "src": "//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c",
+                    "bgColor": "#ffffff",
+                    "link": ""
+                }
+            ],
+            "pc_survey": {
+                "icon": "//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750",
+                "link": "https://wj.qq.com/s2/8193148/806d/"
+            }
+        },
+        "transTypeTxt": "text",
+        "fixedTabStatus": 0,
+        "bodyTop": 0,
+        "ifHideUserOperation": false
+    },
+    "textTranslate": {
+        "prevTransQuery": "",
+        "translateData": {
+            "translate": {
+                "zly": "zly",
+                "errorCode": "0",
+                "qc_type": "1",
+                "index": "content0",
+                "from": "en",
+                "source": "sogou",
+                "text": "Saturday",
+                "to": "zh-CHS",
+                "id": "2e269fe0-65ad-4ebd-a586-f90a0720f147",
+                "dit": "星期六",
+                "orig_text": "Saturday",
+                "md5": ""
+            },
+            "detect": {
+                "zly": "zly",
+                "detect": "en",
+                "errorCode": "0",
+                "language": "英语",
+                "id": "f50d6a20-b521-11ef-bd98-77b4dd626ef3",
+                "text": "Saturday"
+            },
+            "sgtkn": "64F11AA3D41E73D9D2D7F96AE1F557B2D251587C675528F4",
+            "wordCard": {
+                "title": "Saturday",
+                "show": true,
+                "usualDict": [
+                    {
+                        "values": [
+                            "周六；星期六；礼拜六；安息日（在某些宗教传统中）"
+                        ],
+                        "pos": "n."
+                    }
+                ],
+                "secondQuery": "",
+                "exchange": {
+                    "word_pl": [
+                        "Saturdays"
+                    ]
+                },
+                "levelList": [
+                    "小学",
+                    "初中",
+                    "高中",
+                    "四级",
+                    "考研"
+                ]
+            },
+            "detail": {
+                "word_group": [
+                    {
+                        "brief_definition": "小口径手枪",
+                        "phrase": "Saturday night special",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "圣星期六，圣周六。亦称EASTER EVE或EASTER SATURDAY",
+                        "phrase": "Holy Saturday",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "复活节星期六",
+                        "phrase": "Easter Saturday",
+                        "pos": "n."
+                    }
+                ],
+                "bilingual": [
+                    {
+                        "source": "And we will have <em>Saturday</em>.",
+                        "target": "我们还有星期六。",
+                        "url": ""
+                    },
+                    {
+                        "source": "It will be sunny on <em>Saturday</em>.",
+                        "target": "星期六会晴天。",
+                        "url": ""
+                    },
+                    {
+                        "source": "I went there on <em>Saturday</em>.",
+                        "target": "我星期六去了那里。",
+                        "url": ""
+                    },
+                    {
+                        "source": "I'll go swimming on <em>Saturday</em>.",
+                        "target": "我星期六去游泳。",
+                        "url": ""
+                    },
+                    {
+                        "source": "I stayed at home on <em>Saturday</em>.",
+                        "target": "我星期六待在家里。",
+                        "url": ""
+                    },
+                    {
+                        "source": "This <em>Saturday</em>, at my house.",
+                        "target": "这个星期六，在我家。",
+                        "url": ""
+                    },
+                    {
+                        "source": "I played badminton on <em>Saturday</em>.",
+                        "target": "我星期六打了羽毛球。",
+                        "url": ""
+                    },
+                    {
+                        "source": "We don't go to school on <em>Saturday</em>.",
+                        "target": "我们星期六不上学。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Because the next day is <em>Saturday</em>!",
+                        "target": "因为第二天是星期六！",
+                        "url": ""
+                    },
+                    {
+                        "source": "I saw my friends on <em>Saturday</em>.",
+                        "target": "我星期六见到了我的朋友。",
+                        "url": ""
+                    }
+                ],
+                "baike": {
+                    "showMore": true,
+                    "list": [
+                        {
+                            "lemmaTitle": "saturday",
+                            "link": "https://baike.sogou.com/v154971323.htm?ch=sogou.fanyi",
+                            "abstract": "saturday（英 [ˈsætədeɪ]，美 [ˈsætərdeɪ]），英语单词，作名词用，为星期六。作副词用，为在星期六；每星期六。短语搭配有Saturday night special（小口径手枪），例句为“Then we're going boating on Saturday.（周六，我们会去划船。）”",
+                            "wapPic": "",
+                            "pcPic": ""
+                        },
+                        {
+                            "lemmaTitle": "saturday",
+                            "link": "https://baike.sogou.com/v7813568.htm?ch=sogou.fanyi",
+                            "abstract": "Saturday 　　Saturday\n　　读音：[ˈsætədi]\n　　n.\n　　埃及人以土星日（Saturday）为一周的第一天，但希伯莱人以这一天为一周的最后一天，据说是因为愤恨埃及人的压迫统治。公元4世纪的罗马皇帝康士坦丁（Constantine I，AD285？－337）采用星期为记历单元时，沿袭了埃及的命名法，但将土星日作为最后一天。\n　　Saturn乃罗马神话中的农神或播种之神，每年12月17日古罗马人都要举行农神节（Saturnalia），纵情狂欢，他们还以农神的大名来命名一星期的最后一天，拉丁文作Saturni dies，意即day of Saturn，古英文作Saeterdaeg，即由此借译而来，现代英文作Saturday。\n",
+                            "wapPic": "//img03.sogoucdn.com/v2/thumb/retype_exclude_gif/ext/auto/q/80/crop/xy/ai/w/140/h/140/resize/w/140?appid=201005&sign=e209bf1a198338a2b1fe4faed2f387c6&url=https%3A%2F%2Fpic.baike.soso.com%2Fugc%2Fbaikepic2%2F11783%2F20200701003518-736358860_jpeg_258_204_2289.jpg%2F0",
+                            "pcPic": "//img03.sogoucdn.com/v2/thumb/retype_exclude_gif/ext/auto/q/80/crop/xy/ai/w/140/h/140/resize/w/140?appid=201005&sign=e209bf1a198338a2b1fe4faed2f387c6&url=https%3A%2F%2Fpic.baike.soso.com%2Fugc%2Fbaikepic2%2F11783%2F20200701003518-736358860_jpeg_258_204_2289.jpg%2F0"
+                        }
+                    ]
+                }
+            },
+            "book": {
+                "yingyinNormal": [
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/8a5b25dfe5e482fce849895959f35aba_1648.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/34e0a9ef215356564c2f78d41cbdb663_43056.mp3",
+                        "isLavafox": true,
+                        "en": "So, see you on <em>Saturday</em>. Yeah, you bet.",
+                        "zh": "星期六见。没问题。",
+                        "videoNameZh": "《老友记 第三季》",
+                        "videoNameEn": "《Friends Season 3》",
+                        "url": "http://bisentence_movie.sogou.com/c7a9f352000d6bf70ba6ee7318daacc0_c601c13c9034c8f356063de16ff265399f08947f"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/69e52acd9e09b6a2ed378507a165e971_14638.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/cfa3220ee4f940b5e9cbea15c48e99ba_17016.mp3",
+                        "isLavafox": true,
+                        "en": "<em>Saturday</em>. And you're kinda not invited.",
+                        "zh": "星期六，但是似乎没有邀请你。",
+                        "videoNameZh": "《绯闻女孩 第一季》",
+                        "videoNameEn": "《Gossip Girl Season 1》",
+                        "url": "http://bisentence_movie.sogou.com/0c59ab815b8c60d1981ee78bb72c3a38_81ce5cb4360c0da613d66e5edd8d7d77756cb1c3"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/f5accbade620d65a884e6e9873cc35d6_23008.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/ed26f183de735d0ef9a770db65501b28_68227.mp3",
+                        "isLavafox": true,
+                        "en": "Finally, one <em>Saturday</em> I saw my opening.",
+                        "zh": "终于在星期六那天，我的机会来了。",
+                        "videoNameZh": "《怦然心动》",
+                        "videoNameEn": "《Flipped》",
+                        "url": "http://bisentence_movie.sogou.com/98083f261bec3cc712bdf999c3167cd6_5d333d1506405a560ccd0c35c4c73e0feba92fe3"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/efb46b0d09a0d16595177f67fa563c67_36206.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/47f126e06b40b7a6931118cbfb8724f8_67240.mp3",
+                        "isLavafox": true,
+                        "en": "Daddy Pig doesn't work on <em>Saturday</em>s. Daddy Pig, you'll be late for work. But it is <em>Saturday</em>, Mummy Pig, isn't it?",
+                        "zh": "猪爸爸星期六是不上班的。猪爸爸，你上班要迟到了！但是今天是星期六啊，猪妈妈，难道不是？",
+                        "videoNameZh": "《100天养成流利口语》",
+                        "videoNameEn": "《Get fluent spoken English in 100 days》",
+                        "url": "http://bisentence_movie.sogou.com/bd150ca9fa64ddb9dda91d7b9412700c_06e870699cf0489bfa9e4b0fa51999e4a5db3126"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/3bccca9abe5ab96bd7f3eaed6bd40cf2_52899.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/f26f2778d425abbeca1044823af0bfd6_31152.mp3",
+                        "isLavafox": true,
+                        "en": "Good, so do it <em>Saturday</em> night because we're going to dinner with her and Clark.",
+                        "zh": "星期六表演给我看，我们要跟她及克拉克共进晚餐。",
+                        "videoNameZh": "《老友记 第七季》",
+                        "videoNameEn": "《Friends Season 7》",
+                        "url": "http://bisentence_movie.sogou.com/8cadae9b9c52f7c1bcfeb51ea30e8dc3_296262cd73c2dd9738d9c4a1330d5964d5ea29ca"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/a3f6ca8d0ebaa5b0956976d643673427_52102.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/cf921e8dc225752d4fbfb55e32828823_33618.mp3",
+                        "isLavafox": true,
+                        "en": "Daddy Pig doesn't work on <em>Saturday</em>s. Daddy Pig, you'll be late for work. But it is <em>Saturday</em>, Mummy Pig, isn't it? No. It's Thursday.",
+                        "zh": "猪爸爸星期六是不上班的。猪爸爸，你上班要迟到了！但是今天是星期六啊，猪妈妈，难道不是？不是啊。今天是星期四！",
+                        "videoNameZh": "《小猪佩奇 第三季》",
+                        "videoNameEn": "《Peppa Pig Season 3》",
+                        "url": "http://bisentence_movie.sogou.com/e95f6eb7fc3e5a5073a584417ef3b1b9_c05120e70d13e7fb9203e7b4ceca5dba9880e7ce"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/8a5b25dfe5e482fce849895959f35aba_1648.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/dff873f56b01217c43aa4040e4d18641_5273.mp3",
+                        "isLavafox": true,
+                        "en": "Listen Joey, we definitely want to see you for the callback on <em>Saturday</em>. Excellent, I'll be there.",
+                        "zh": "乔伊，我们非常希望星期六再看到你。太好了，我会来的。",
+                        "videoNameZh": "《老友记 第三季》",
+                        "videoNameEn": "《Friends Season 3》",
+                        "url": "http://bisentence_movie.sogou.com/2d3c9910676f8ab2f585ae3b405028c8_0ba63fee7b51636f87615940cec5b76c3b8937b7"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/69e52acd9e09b6a2ed378507a165e971_14638.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/fbdf42028280cdcfe2578f4d5bd3c01a_2321.mp3",
+                        "isLavafox": true,
+                        "en": "I'm sure it'll be fine. Um, see you <em>Saturday</em>. Oh, actually, it's Sunday. Can I call you? Okay. Okay.",
+                        "zh": "我当然愿意，星期六见。其实是星期天。我能打给你吗？可以啊。好吧。",
+                        "videoNameZh": "《绯闻女孩 第一季》",
+                        "videoNameEn": "《Gossip Girl Season 1》",
+                        "url": "http://bisentence_movie.sogou.com/402fff7329c71fba10d67fc02a112921_77f294ad132fc3572b658f9bc7767a0916cd0046"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/a3f6ca8d0ebaa5b0956976d643673427_52102.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/7ae518cf3473ab6e657a2ee96c0ccdb4_11933.mp3",
+                        "isLavafox": true,
+                        "en": "Daddy Pig loves doing nothing. Daddy, aren't you going to work today? No, Peppa, it's <em>Saturday</em>.",
+                        "zh": "猪爸爸喜欢什么都不做。爸爸，今天你不需要去上班吗？不需要，佩奇，今天是星期六。",
+                        "videoNameZh": "《小猪佩奇 第三季》",
+                        "videoNameEn": "《Peppa Pig Season 3》",
+                        "url": "http://bisentence_movie.sogou.com/aa6afcc52f2cef1453aa4a55bd984b72_7be435978565c1d747e4f7a9ece601c5149e9d2b"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/649fb0da5e02febcad57f332efe07876_46469.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/c499dfc818749a646024c569000eff4b_8320.mp3",
+                        "isLavafox": true,
+                        "en": "You're blowing me off for a monkey? Hey, we can reschedule for <em>Saturday</em>. Yeah, unless you hook up with a bunch of pigeons.",
+                        "zh": "你为了猴子失我的约？我们可以改星期六打呀。对，除非你又搭上一票鸽子。",
+                        "videoNameZh": "《老友记 第二季》",
+                        "videoNameEn": "《Friends Season 2》",
+                        "url": "http://bisentence_movie.sogou.com/12dc200962bc45025fa1e95ae398e248_a35991a4f68866d51b498af6df7c5a4e63aa479d"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/69e52acd9e09b6a2ed378507a165e971_14638.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/c8d5f84f255f95f41552e755be090a3d_36414.mp3",
+                        "isLavafox": true,
+                        "en": "And he gave me a key so that we could, you know, meet up, and... Enough said. And <em>Saturday</em> night, what happened then?",
+                        "zh": "他给了我钥匙那样我们就能... 见面，然后... 够...够了，然后星期六晚发生什么了？",
+                        "videoNameZh": "《绯闻女孩 第一季》",
+                        "videoNameEn": "《Gossip Girl Season 1》",
+                        "url": "http://bisentence_movie.sogou.com/ce14191d16639bd2d4f767ba05919bb1_86ff45a1a3c9c62c777c77b98da51fa098637cee"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/886b76b0c552c22c57062be63cf27261_37722.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/fcb3f52531688d702be86a54c33e7198_61861.mp3",
+                        "isLavafox": true,
+                        "en": "It is so great. There are people lining up in the street to taste my food. Next <em>Saturday</em>, there's a waiting list of 50 people.",
+                        "zh": "好极了，还有人排队排到街上只是为了尝尝我做的食物，下个星期六的排队名单上有五十个人。",
+                        "videoNameZh": "《老友记 第九季》",
+                        "videoNameEn": "《Friends Season 9》",
+                        "url": "http://bisentence_movie.sogou.com/be79f36a8df05d07f06b8b2e314493c9_999ac9a903bd87f6999923063ca238e28a5cc079"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/7eb0bec9540cbb2c5939554caf885c99_49670.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/a777f7f557e4ddfea419aab501749cab_11166.mp3",
+                        "isLavafox": true,
+                        "en": "Who's up for Sheldon-free <em>Saturday</em>?",
+                        "zh": "谁同意周六来个无谢尔顿日？",
+                        "videoNameZh": "《生活大爆炸 第二季》",
+                        "videoNameEn": "《The Big Bang Theory Season 2》",
+                        "url": "http://bisentence_movie.sogou.com/f21b070f1c0a5da6ac36ce29701339b6_57f099dd528ff54c0b7195c9661a58cd6cd9452b"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/21d26cfef0cd26f0813072491b08dd5a_57364.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/87c059d8e91f561bed6210f428e71d1e_52245.mp3",
+                        "isLavafox": true,
+                        "en": "<em>Saturday</em> night just went from crazy to epic!",
+                        "zh": "周六夜要从嗨翻升级成史诗级啦。",
+                        "videoNameZh": "《生活大爆炸 第六季》",
+                        "videoNameEn": "《The Big Bang Theory Season 6》",
+                        "url": "http://bisentence_movie.sogou.com/5ffe5c32d767569578ac2641bbe781c2_cff321654eab052c5377ac0c966f024adbce761c"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/83bcab8039fa5140ba0e29ca21fce0eb_17113.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/8e4d98b276bdb16072be90cc01276f76_66833.mp3",
+                        "isLavafox": true,
+                        "en": "The hours are 8:00 to 5:00, Monday to <em>Saturday</em>.",
+                        "zh": "工作时间是周一到周六朝八晚五。",
+                        "videoNameZh": "《遇见你之前》",
+                        "videoNameEn": "《Me before you》",
+                        "url": "http://bisentence_movie.sogou.com/c03d93d2a2655d6418dfcbffc3fa00d2_66e299d0862f4f865502205553b99c366c41e100"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/7eb0bec9540cbb2c5939554caf885c99_49670.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/c807257d1ee93b8d32d8f8956e653ffd_68728.mp3",
+                        "isLavafox": true,
+                        "en": "Okay. So, <em>Saturday</em> night, can I count on my posse?",
+                        "zh": "那就周六晚上了，这么说定了？",
+                        "videoNameZh": "《生活大爆炸 第二季》",
+                        "videoNameEn": "《The Big Bang Theory Season 2》",
+                        "url": "http://bisentence_movie.sogou.com/c0656e77c85c6e6df77af8c5d0af21a7_bd2b61e14b34c1a03ebc75230b732ce60e28298f"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/7eb0bec9540cbb2c5939554caf885c99_49670.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/c647a89ce35775f60e893e7f7fe594d7_28213.mp3",
+                        "isLavafox": true,
+                        "en": "I know. Every <em>Saturday</em> at 8:15. Easy to anticipate.",
+                        "zh": "我知道每个周六的8点15分，老少咸宜。",
+                        "videoNameZh": "《生活大爆炸 第二季》",
+                        "videoNameEn": "《The Big Bang Theory Season 2》",
+                        "url": "http://bisentence_movie.sogou.com/09a7d57591cafe965aacb9056e7b13a5_25b30051f8f7ad0184fa27902be106dd302d896e"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/c3652a60f61ce63a5e9067648ae2439c_44092.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/f6391171c3faa6b23df5556da40fa349_71983.mp3",
+                        "isLavafox": true,
+                        "en": "It's not <em>Saturday</em> night. Why are you doing your laundry?",
+                        "zh": "今天不是周六呀，你怎么跑来洗衣服了？",
+                        "videoNameZh": "《生活大爆炸 第五季》",
+                        "videoNameEn": "《The Big Bang Theory Season 5》",
+                        "url": "http://bisentence_movie.sogou.com/25b9b958e0175178115eb6d809c5ea66_4c54c6f4cb0d8c813f84e2a81e675eb04c38fdb6"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/21d26cfef0cd26f0813072491b08dd5a_57364.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/c79be7a862214518c25fbd09b89c481d_60858.mp3",
+                        "isLavafox": true,
+                        "en": "Really? That's how you're gonna spend your <em>Saturday</em> night?",
+                        "zh": "真的吗？周六晚你就打算这么庆祝啊？",
+                        "videoNameZh": "《生活大爆炸 第六季》",
+                        "videoNameEn": "《The Big Bang Theory Season 6》",
+                        "url": "http://bisentence_movie.sogou.com/4d64f0c1d08f4671de42e4553b45d04c_03338f124bde8d331fe22c0461ec2920515fd4f5"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/8a5b25dfe5e482fce849895959f35aba_1648.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/2d1122a54e2f861e22da3628b43b6be5_12828.mp3",
+                        "isLavafox": true,
+                        "en": "Monica, last <em>Saturday</em> night, what happened on Walker: Texas Ranger?",
+                        "zh": "上周六晚的《德克萨斯游警》演的是什么？",
+                        "videoNameZh": "《老友记 第三季》",
+                        "videoNameEn": "《Friends Season 3》",
+                        "url": "http://bisentence_movie.sogou.com/c5d20d4b54e3bdeaefc12e1ae7961b1d_de79d03dd6a94f3596c7950d86ce832ed2648f3d"
+                    }
+                ]
+            },
+            "pic": "",
+            "voice": {
+                "phonetic": [
+                    {
+                        "text": "ˈsætədeɪ",
+                        "type": "uk",
+                        "filename": ""
+                    },
+                    {
+                        "text": "ˈsætərdeɪ",
+                        "type": "usa",
+                        "filename": ""
+                    }
+                ]
+            },
+            "dictType": "oxford_buchong",
+            "gaokao": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 15,
+                        "pos": "n",
+                        "chinese": "星期六(略作Sat.)",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "Saturday",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2015-2022年8年间全国卷和自主命题省市高考卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2015-2022年全国卷高考试卷，包括阅读、完形、单选、填空、听力、改错、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选各省市考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2015-2022年8年间全国卷和自主命题省市高考卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 3,
+                "total_exam_freq": 15,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "星期六(略作Sat.)",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "What will the man probably do on <highlight>Saturday</highlight>?",
+                                    "month": -1,
+                                    "source": "天津卷",
+                                    "coll": "",
+                                    "sentence_trans": "这个男人周六可能会做什么？",
+                                    "year": 2021,
+                                    "type": "听力",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "I hope you can come to the party on <highlight>Saturday</highlight>.",
+                                    "month": -1,
+                                    "source": "全国卷3",
+                                    "coll": "",
+                                    "sentence_trans": "我希望你能来参加星期六的聚会。",
+                                    "year": 2018,
+                                    "type": "听力",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "If you're tired out by Friday night, sleeping in on <highlight>Saturday</highlight> could sound wonderful.",
+                                    "month": -1,
+                                    "source": "全国卷3",
+                                    "coll": "",
+                                    "sentence_trans": "如果你周五晚上累坏了，周六睡个懒觉听起来不错。",
+                                    "year": 2017,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            "zhongkao": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 136,
+                        "pos": "n",
+                        "chinese": "星期六",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "Saturday",
+                "direction_info": {
+                    "ranges": 4,
+                    "description": "数据源自2018-2021年4年间全国各省市中考试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2018-2021年全国重点省市中考试卷，包括听力、阅读、完形、单选、填空、改错、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选各省市考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2018-2021年4年间全国各省市中考试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 5,
+                "total_exam_freq": 136,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "星期六",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "A: We're going to play basketball on <highlight>Saturday</highlight> morning and I'm going to cook noodles for you.",
+                                    "month": -1,
+                                    "source": "贺州市卷",
+                                    "coll": "",
+                                    "sentence_trans": "答：我们星期六早上要打篮球，我要给你煮面条。",
+                                    "year": 2021,
+                                    "type": "补全对话",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "A: Let’s meet at the school gate at eight on <highlight>Saturday</highlight> morning.",
+                                    "month": -1,
+                                    "source": "龙东地区卷",
+                                    "coll": "",
+                                    "sentence_trans": "答：让我们在周六早上八点在学校门口见面。",
+                                    "year": 2021,
+                                    "type": "补全对话",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Aaron asked me if/whether was free to go to his place that <highlight>Saturday</highlight>.",
+                                    "month": -1,
+                                    "source": "上海卷",
+                                    "coll": "",
+                                    "sentence_trans": "亚伦问我，那个星期六是否/是否有空去他的地方。",
+                                    "year": 2019,
+                                    "type": "完成句子",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            "sentencesData": {
+                "status": 1,
+                "info": "notZh2En",
+                "data": {}
+            },
+            "isAutoMatch": false,
+            "Zh2En": false
+        },
+        "query": "Saturday",
+        "result": "星期六",
+        "tabSelect": "detail",
+        "dictionaryType": "oxford_buchong",
+        "notFound_show": false,
+        "phoneticShow": "",
+        "globalShowTranslateRecord": "",
+        "pronPrefer": {
+            "type": "usa_1",
+            "speaker": "male",
+            "speed": "standard"
+        },
+        "ServerRecord": "",
+        "ServerUIGS": {
+            "version": "new",
+            "type": "all",
+            "stype": "success",
+            "terminal": "web",
+            "fr": "default",
+            "direction": "etoz",
+            "from": "en",
+            "to": "zh-CHS",
+            "len": 8,
+            "qtype": "text",
+            "qctype": "qc_1",
+            "dict_cover": 1,
+            "detail": 1,
+            "wordCardCover": 1,
+            "wordCardEn": 1,
+            "wordCardCh": 0,
+            "wordCardMinor": 0,
+            "wordCardNetmean": 0,
+            "wordDeform": 1,
+            "keyword": 0,
+            "bilingual": 1,
+            "simple": 0,
+            "levelList": 1,
+            "synonym": 0,
+            "antonym": 0,
+            "conjugate": 0,
+            "rootaffix": 0,
+            "baike_sogou": 1,
+            "baike_wiki": 0,
+            "wordDifference": 0,
+            "word_phrase": 1,
+            "secondQuery": 0,
+            "dict_oxford": 0,
+            "dict_newcentury": 0,
+            "zhongkaotab": 1,
+            "gaokaotab": 1,
+            "CET4tab": 0,
+            "CET6tab": 0,
+            "kaoyantab": 0,
+            "network_tab": 0,
+            "yinying_tab": 1,
+            "tuozhan_tab": 0,
+            "one_pic": 0,
+            "more_pic": 0,
+            "no_pic": 0,
+            "uuid": "2e269fe0-65ad-4ebd-a586-f90a0720f147",
+            "from_type": 0,
+            "t_trans_ssr": 140
+        },
+        "ServerModelUIGS": {
+            "terminal": "web",
+            "type": "trans_model",
+            "pbtype": "pv",
+            "model_general": 1,
+            "model_medical": 1,
+            "model_finance": 1
+        },
+        "ServerSgtkn": "64F11AA3D41E73D9D2D7F96AE1F557B2D251587C675528F4",
+        "suggShow": false,
+        "suggestion": "",
+        "suggDirection": "",
+        "usualTop": "",
+        "baseDict": "",
+        "wordCardClick": false,
+        "isFrInput": false,
+        "kanaTips": {
+            "show": false,
+            "left": "",
+            "top": "",
+            "type": "",
+            "arrowLeft": ""
+        },
+        "currSentenceIndex": -1,
+        "prefixStrObj": {
+            "prefixStr": "",
+            "oriPrefixStr": ""
+        },
+        "selectTransBox": {
+            "show": false,
+            "right": 0,
+            "top": 0,
+            "paraphraseInfo": {
+                "word": "",
+                "from": "",
+                "to": "",
+                "area": ""
+            }
+        },
+        "sentenceLoading": false,
+        "newSentenceInfo": {
+            "sentence": "",
+            "candidateIndex": 0
+        },
+        "moreTipInfo": {
+            "opacity": 0,
+            "zIndex": -1
+        },
+        "paraphraseShowInfo": {
+            "card": 0,
+            "query": "",
+            "card_dict": 0
+        },
+        "selectType": "",
+        "wordPos": 0,
+        "candidateWord": "",
+        "syntaxVisible": false,
+        "syntaxStatus": 0
+    },
+    "language": {
+        "from": "auto",
+        "to": "zh-CHS",
+        "detect": "en",
+        "model": "general",
+        "detectShow": false,
+        "langMap": {
+            "current": ""
+        },
+        "zh2en": false,
+        "fromItemList": [
+            {
+                "lang": "auto",
+                "text": "自动检测",
+                "play": false
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "fr",
+                "text": "法语",
+                "play": true,
+                "abbr": "法"
+            },
+            {
+                "lang": "ru",
+                "text": "俄语",
+                "play": true,
+                "abbr": "俄"
+            },
+            {
+                "lang": "ko",
+                "text": "韩语",
+                "play": true,
+                "abbr": "韩"
+            }
+        ],
+        "toItemList": [
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "ko",
+                "text": "韩语",
+                "play": true,
+                "abbr": "韩"
+            },
+            {
+                "lang": "fr",
+                "text": "法语",
+                "play": true,
+                "abbr": "法"
+            },
+            {
+                "lang": "vi",
+                "text": "越南语",
+                "play": true,
+                "abbr": "越"
+            }
+        ]
+    },
+    "voice": {
+        "from": {
+            "lang": "en",
+            "type": "from",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22Saturday%22%2C%22spokenDialect%22%3A%22en%22%2C%22rate%22%3A%220.8%22%7D",
+            "list": [
+                {
+                    "type": "uk_0",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "ˈsætədeɪ",
+                    "abbr": "英",
+                    "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22Saturday%22%2C%22spokenDialect%22%3A%22en%22%2C%22rate%22%3A%220.8%22%7D"
+                },
+                {
+                    "type": "usa_1",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "ˈsætərdeɪ",
+                    "abbr": "美",
+                    "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22Saturday%22%2C%22spokenDialect%22%3A%22en%22%2C%22rate%22%3A%220.8%22%7D"
+                }
+            ],
+            "stype": "phonetic",
+            "phoneticShow": [
+                {
+                    "text": "ˈsætədeɪ",
+                    "type": "uk",
+                    "filename": ""
+                },
+                {
+                    "text": "ˈsætərdeɪ",
+                    "type": "usa",
+                    "filename": ""
+                }
+            ]
+        },
+        "to": {
+            "lang": "zh",
+            "type": "to",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22%E6%98%9F%E6%9C%9F%E5%85%AD%22%2C%22spokenDialect%22%3A%22zh-CHS%22%2C%22rate%22%3A%220.8%22%7D",
+            "stype": "normal"
+        }
+    }
+}

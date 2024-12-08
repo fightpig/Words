@@ -1,0 +1,2386 @@
+{
+    "route": {
+        "name": "text",
+        "path": "/text",
+        "hash": "",
+        "query": {
+            "keyword": "artist",
+            "transfrom": "auto",
+            "transto": "zh-CHS",
+            "model": "general",
+            "errcode": "s10"
+        },
+        "params": {},
+        "fullPath": "/text?keyword=artist&transfrom=auto&transto=zh-CHS&model=general&errcode=s10",
+        "meta": {
+            "mtype": [
+                "textTranslate",
+                "language",
+                "voice"
+            ]
+        },
+        "from": {
+            "name": null,
+            "path": "/",
+            "hash": "",
+            "query": {},
+            "params": {},
+            "fullPath": "/",
+            "meta": {}
+        }
+    },
+    "common": {
+        "CONFIG": {
+            "wuid": 1733632338963,
+            "loginInfo": {},
+            "isIE": 0,
+            "isHitSsrSwitch": true,
+            "isHitWritebookSwitch": false,
+            "isHitAmsSwitch": true,
+            "promotionList": "{\n    \"pc_bottom\":{\n        \"imgsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\",\n        \"qcsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\"\n    },\n    \"pc_middle\":[\n        {\n            \"src\":\"//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c\",\n            \"bgColor\":\"#ffffff\",\n            \"link\":\"\"\n        }\n    ],\n    \"pc_survey\":{\n        \"icon\":\"//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750\",\n        \"link\":\"https://wj.qq.com/s2/8193148/806d/\"\n    }\n}",
+            "bannerData": [],
+            "isHitAsideSurvey": false,
+            "secretCode": 109984457,
+            "uuid": "6d96071d-2645-419e-b6ef-7545cb2145e9",
+            "referer": "",
+            "approveToken": "64E9F12D64A0CE676C6A44D7D6D177F56DF601D267552153",
+            "loadTime": 1733632338965,
+            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0",
+            "fcp": "138.197.122.177",
+            "temporaryId": "",
+            "fileId": ""
+        },
+        "hotWords": [],
+        "isFromCollect": false,
+        "psdModify": {
+            "currentStep": 1,
+            "scode": "",
+            "username": ""
+        },
+        "loginStatus": true,
+        "feedBackModule": false,
+        "showPromotionPopup": {
+            "show": false,
+            "type": ""
+        },
+        "showPromotionPCDownload": false,
+        "showShareBomb": false,
+        "shareData": null,
+        "showAppDownLoad": false,
+        "showLoginDialog": false,
+        "showLoading": {
+            "show": false
+        },
+        "toast": {
+            "show": false,
+            "text": "",
+            "loading": false
+        },
+        "modelToast": {
+            "show": false,
+            "text": ""
+        },
+        "selectionGlobalShow": true,
+        "selectionInfo": {
+            "left": 0,
+            "top": 0,
+            "show": false,
+            "from": "",
+            "to": "",
+            "val": "",
+            "area": ""
+        },
+        "showConfirmDialog": false,
+        "promotionList": {
+            "pc_bottom": {
+                "imgsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png",
+                "qcsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png"
+            },
+            "pc_middle": [
+                {
+                    "src": "//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c",
+                    "bgColor": "#ffffff",
+                    "link": ""
+                }
+            ],
+            "pc_survey": {
+                "icon": "//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750",
+                "link": "https://wj.qq.com/s2/8193148/806d/"
+            }
+        },
+        "transTypeTxt": "text",
+        "fixedTabStatus": 0,
+        "bodyTop": 0,
+        "ifHideUserOperation": false
+    },
+    "textTranslate": {
+        "prevTransQuery": "",
+        "translateData": {
+            "translate": {
+                "zly": "zly",
+                "errorCode": "0",
+                "qc_type": "1",
+                "index": "content0",
+                "from": "en",
+                "source": "sogou",
+                "text": "artist",
+                "to": "zh-CHS",
+                "id": "6d96071d-2645-419e-b6ef-7545cb2145e9",
+                "dit": "艺术家",
+                "orig_text": "artist",
+                "md5": ""
+            },
+            "detect": {
+                "zly": "zly",
+                "detect": "en",
+                "errorCode": "0",
+                "language": "英语",
+                "id": "68db0d40-b51d-11ef-b618-f5749b34d395",
+                "text": "artist"
+            },
+            "sgtkn": "64E9F12F64A0CE676C6A44D7D6D177F56DF601D267552153",
+            "wordCard": {
+                "title": "artist",
+                "show": true,
+                "usualDict": [
+                    {
+                        "values": [
+                            "艺术家；（尤指）画家；美术家；文学艺术家；表演艺术家"
+                        ],
+                        "pos": "n."
+                    }
+                ],
+                "secondQuery": "",
+                "exchange": {
+                    "word_pl": [
+                        "artists"
+                    ]
+                },
+                "levelList": [
+                    "小学",
+                    "初中",
+                    "高中",
+                    "四级",
+                    "六级",
+                    "考研"
+                ]
+            },
+            "detail": {
+                "synonym": [
+                    {
+                        "word_list": [
+                            "pope",
+                            "maestro"
+                        ],
+                        "pos": "n.",
+                        "mean": "艺术家；美术家；大师"
+                    }
+                ],
+                "affix": {
+                    "word": "artist",
+                    "sub_affix_info_list": [
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "artifact",
+                                            "mean": "n. 人工制品；历史文物；非自然存在物体"
+                                        },
+                                        {
+                                            "word": "artificial",
+                                            "mean": "adj. 人工的；人造的；虚伪的；做作的；非自然存在的；人为的；假的；按约定而非随意的"
+                                        },
+                                        {
+                                            "word": "artisan",
+                                            "mean": "n. 工匠；手艺人"
+                                        },
+                                        {
+                                            "word": "artistry",
+                                            "mean": "n. 艺术创造技巧"
+                                        },
+                                        {
+                                            "word": "artless",
+                                            "mean": "adj. 不诡诈的；无欺的；单纯的；不谙世故的；不做作的；自然而简单的；无技巧（或手腕）的"
+                                        },
+                                        {
+                                            "word": "artwork",
+                                            "mean": "n. 插图；艺术作品"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "技巧, 技术",
+                                    "affix_type": "stem"
+                                }
+                            ],
+                            "affix": "art",
+                            "affix_mean": "技巧, 技术"
+                        },
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "anatomist",
+                                            "mean": "n. 解剖学家"
+                                        },
+                                        {
+                                            "word": "anthropologist",
+                                            "mean": "n. 人类学家"
+                                        },
+                                        {
+                                            "word": "apologist",
+                                            "mean": "n. 辩解者；辩护者"
+                                        },
+                                        {
+                                            "word": "archaeologist",
+                                            "mean": "n. 考古学家"
+                                        },
+                                        {
+                                            "word": "artistry",
+                                            "mean": "n. 艺术创造技巧"
+                                        },
+                                        {
+                                            "word": "biochemist",
+                                            "mean": "n. 生物化学家"
+                                        },
+                                        {
+                                            "word": "biologist",
+                                            "mean": "n. 生物学家；生物学者"
+                                        },
+                                        {
+                                            "word": "botanist",
+                                            "mean": "n. 植物学家"
+                                        },
+                                        {
+                                            "word": "journalist",
+                                            "mean": "n. 新闻记者；新闻工作者"
+                                        },
+                                        {
+                                            "word": "linguistics",
+                                            "mean": "pl-n. 语言学"
+                                        },
+                                        {
+                                            "word": "lobbyist",
+                                            "mean": "n. 说客；活动议案通过者"
+                                        },
+                                        {
+                                            "word": "novelist",
+                                            "mean": "n. 小说家"
+                                        },
+                                        {
+                                            "word": "physicist",
+                                            "mean": "n. 物理学家；物理学学生"
+                                        },
+                                        {
+                                            "word": "psychologist",
+                                            "mean": "n. 心理学家"
+                                        },
+                                        {
+                                            "word": "receptionist",
+                                            "mean": "n. 接待员"
+                                        },
+                                        {
+                                            "word": "scientist",
+                                            "mean": "n. 科学家；科研人员"
+                                        },
+                                        {
+                                            "word": "sophist",
+                                            "mean": "n. 智者派；诡辩派；诡辩者"
+                                        },
+                                        {
+                                            "word": "stylist",
+                                            "mean": "n. 时装和美容行业有创造性的从业者；服装道具设计师；以典雅的工作而著称的人；发型师；时装设计师；追求文体风格的作家；具有优雅风度者"
+                                        },
+                                        {
+                                            "word": "tourist",
+                                            "mean": "n. 旅游者；观光者；巡回比赛队的成员"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "表示\"…专业人员\", \"…专家\", \"从事…的人\", \"人\"",
+                                    "affix_type": "suffix"
+                                },
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "activist",
+                                            "mean": "n. 积极分子；激进主义分子"
+                                        },
+                                        {
+                                            "word": "alarmist",
+                                            "mean": "n. 大惊小怪者；杞人忧天者"
+                                        },
+                                        {
+                                            "word": "sexist",
+                                            "mean": "adj. 性别歧视的"
+                                        },
+                                        {
+                                            "word": "chauvinistic",
+                                            "mean": "adj. 沙文主义的；盲目的爱国心的；盲目爱国的"
+                                        },
+                                        {
+                                            "word": "colonist",
+                                            "mean": "n. 殖民地定居者；殖民地开拓者；殖民地居民"
+                                        },
+                                        {
+                                            "word": "idealistic",
+                                            "mean": "adj. 理想主义的；空想家的；唯心论的；唯心主义的"
+                                        },
+                                        {
+                                            "word": "oppositionist",
+                                            "mean": "n. 反对派成员；反对党人；反对者"
+                                        },
+                                        {
+                                            "word": "protectionist",
+                                            "mean": "n. 保护贸易论者；贸易保护主义者"
+                                        },
+                                        {
+                                            "word": "realist",
+                                            "mean": "adj. 现实主义（者）的"
+                                        },
+                                        {
+                                            "word": "suffragist",
+                                            "mean": "n. 提倡扩大选举权的人"
+                                        },
+                                        {
+                                            "word": "revisionist",
+                                            "mean": "n. 修正主义者"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "表示\"…主义者\", \"…信仰者\", \"…主义的\", \"信仰…的\"",
+                                    "affix_type": "suffix"
+                                }
+                            ],
+                            "affix": "-ist",
+                            "affix_mean": "...专家"
+                        }
+                    ],
+                    "word_mean": "n. 画家"
+                },
+                "wordRootInfo": {
+                    "word_info_list": [
+                        {
+                            "word": "art",
+                            "pos_mean_info_list": [
+                                {
+                                    "pos": "adj.",
+                                    "mean": "艺术的；艺术品的"
+                                },
+                                {
+                                    "pos": "n.",
+                                    "mean": "艺术；美术；艺术品"
+                                },
+                                {
+                                    "pos": "v.",
+                                    "mean": "是（be的变体）"
+                                }
+                            ]
+                        },
+                        {
+                            "word": "artistic",
+                            "pos_mean_info_list": [
+                                {
+                                    "pos": "adj.",
+                                    "mean": "艺术的；风雅的；有美感的"
+                                }
+                            ]
+                        },
+                        {
+                            "word": "arty",
+                            "pos_mean_info_list": [
+                                {
+                                    "pos": "adj.",
+                                    "mean": "附庸风雅的；装作爱好艺术的"
+                                }
+                            ]
+                        },
+                        {
+                            "word": "artistically",
+                            "pos_mean_info_list": [
+                                {
+                                    "pos": "adv.",
+                                    "mean": "在艺术上；富有艺术地"
+                                }
+                            ]
+                        },
+                        {
+                            "word": "artistry",
+                            "pos_mean_info_list": [
+                                {
+                                    "pos": "n.",
+                                    "mean": "艺术性；工艺；艺术技巧；艺术效果；艺术工作"
+                                }
+                            ]
+                        }
+                    ],
+                    "root_word": "art"
+                },
+                "word_group": [
+                    {
+                        "brief_definition": "画丐；马路画家",
+                        "phrase": "pavement artist",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "战争题材画家",
+                        "phrase": "war artist",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "醉鬼；游手好闲的人",
+                        "phrase": "piss artist",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "女性艺术家；女性艺人；女艺术家；女艺人",
+                        "phrase": "female artist",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "大艺术家；伟大的艺术家",
+                        "phrase": "great artist",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "著名艺术家",
+                        "phrase": "famous artist",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "年轻艺术家",
+                        "phrase": "young artist",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "化妆师；化妆艺术家；化妆大师",
+                        "phrase": "makeup artist",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "骗子；诈骗大师；行骗高手",
+                        "phrase": "con artist",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "录音艺术家、录音歌手；录制艺术家；唱片艺术家",
+                        "phrase": "recording artist",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "纹身艺术家；刺青艺术家；纹身艺人",
+                        "phrase": "tattoo artist",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "独奏艺术家；独唱艺术家",
+                        "phrase": "solo artist",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "有才华的艺术家；有天赋的艺术家",
+                        "phrase": "talented artist",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "最喜欢的艺术家；最爱的艺术家",
+                        "phrase": "favorite artist",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "法医艺术家；鉴证素描专家；嫌犯肖像素描专家",
+                        "phrase": "forensic artist",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "骗子；老千",
+                        "phrase": "scam artist",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "知道艺术家",
+                        "phrase": "know artist",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "最卖座的艺人；销量最高的艺人；最畅销的艺人",
+                        "phrase": "top-selling artist",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "自大的艺术家；自负的艺术家",
+                        "phrase": "big-ego artist",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "鬼屋风格艺术家",
+                        "phrase": "haunted-house-style artist",
+                        "pos": ""
+                    }
+                ],
+                "bilingual": [
+                    {
+                        "source": "She is a successful <em>artist</em>.",
+                        "target": "她是一位成功的艺术家。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Joan is a talented <em>artist</em>.",
+                        "target": "琼是一位有才华的艺术家。",
+                        "url": ""
+                    },
+                    {
+                        "source": "My favourite <em>artist</em> is Xu Beihong.",
+                        "target": "我最喜欢的艺术家是徐悲鸿。",
+                        "url": ""
+                    },
+                    {
+                        "source": "That <em>artist</em> didn't have a happy childhood.",
+                        "target": "那位艺术家没有快乐的童年。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Became a famous <em>artist</em> and inventor.",
+                        "target": "成为了一位著名的艺术家和发明家。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Vote for the best \"Neighbourhood <em>Artist</em>\".",
+                        "target": "投票选出最佳“社区艺术家”。",
+                        "url": ""
+                    },
+                    {
+                        "source": "An <em>artist</em> at the museum started the project.",
+                        "target": "博物馆的一位艺术家启动了这个项目。",
+                        "url": ""
+                    },
+                    {
+                        "source": "It expresses the <em>artist</em>'s emotions and imagination.",
+                        "target": "它表达了艺术家的情感和想象力。",
+                        "url": ""
+                    },
+                    {
+                        "source": "It was rather lazy because the <em>artist</em> didn't try hard.",
+                        "target": "它相当懒，因为艺术家没有努力。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Why do you think the <em>artist</em> chose these pictures?",
+                        "target": "你为什么认为艺术家选择了这些图片？",
+                        "url": ""
+                    }
+                ]
+            },
+            "book": {
+                "yingyinNormal": [
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/f5f16d3165593ebdb6d6ae8299e72880_33413.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/fc5f4041f48853f6fed12824590218f4_1379.mp3",
+                        "isLavafox": true,
+                        "en": "Joey, it's Anne Geddes. She's a famous <em>artist</em>.",
+                        "zh": "那是安妮·格迪斯的作品（澳大利亚的儿童摄影大师），她是名艺术家。",
+                        "videoNameZh": "《老友记 第六季》",
+                        "videoNameEn": "《Friends Season 6》",
+                        "url": "http://bisentence_movie.sogou.com/c5215b0623260232ed582f0e08e427f6_28e752ca9c2314a50c5855915a4d1daa14418972"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/07a8d72a700923e66dd5ae4a039522ed_16914.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/03a239c80fde691ec4f46792eb2d3f5f_61259.mp3",
+                        "isLavafox": true,
+                        "en": "Not everyone can become a great <em>artist</em>, but a great <em>artist</em> can come from anywhere.",
+                        "zh": "并非是谁都能成为伟大的艺术家，不过伟大的艺术家却可能来自任何角落。",
+                        "videoNameZh": "《美食总动员》",
+                        "videoNameEn": "《Ratatouille》",
+                        "url": "http://bisentence_movie.sogou.com/a3d9130e64350539c872cf2e8cf56fcd_290520d8c78f6bffed98eb561f91db8d6e49aa08"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/aa7a748a86497e02e2b0a5098f3017b8_12619.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/701a41bc28ee7c1f877f26c59707313b_5038.mp3",
+                        "isLavafox": true,
+                        "en": "Fine, make fun of me. I am a serious <em>artist</em> who belongs in Paris.",
+                        "zh": "你就尽管取笑我吧，我是身属巴黎的艺术家。",
+                        "videoNameZh": "《女孩成长记 第一季》",
+                        "videoNameEn": "《Girl Meets World Season 1》",
+                        "url": "http://bisentence_movie.sogou.com/7dcc0196fb76bfa18dc294595f4c3d66_03df3e33aac7e5ee834a232c687730ea9eb509d3"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/3cc7f04bc4e6bde5cc691b286df1a676_37630.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/ede38d88a85e3eb1fddc20c511899fea_33840.mp3",
+                        "isLavafox": true,
+                        "en": "She spent three hundred dollars on art supplies. You're not an <em>artist</em>.",
+                        "zh": "她花了三百块买艺术用品。你又不是艺术家。",
+                        "videoNameZh": "《老友记第一季》",
+                        "videoNameEn": "《Friends Season 1》",
+                        "url": "http://bisentence_movie.sogou.com/a33bf39a18f058b03175985aeac210cf_fc5588e96bfb86e62a6a7915e12a905dbc09ab39"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/f5f16d3165593ebdb6d6ae8299e72880_33413.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/bd3fbc3ff772eebe734658e44e11c148_58608.mp3",
+                        "isLavafox": true,
+                        "en": "Look I don't know this baby. I don't know if she's a famous <em>artist</em> or not.",
+                        "zh": "我不认识这个宝宝，我不知道她是不是名艺术家。",
+                        "videoNameZh": "《老友记 第六季》",
+                        "videoNameEn": "《Friends Season 6》",
+                        "url": "http://bisentence_movie.sogou.com/d8745b8757635d3ec5da339b1b2d2956_c2005ceaf1a07c04b9a9196f263038df37ad9ee6"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/aa7a748a86497e02e2b0a5098f3017b8_12619.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/0328363d767e639bde000f90ad204676_68659.mp3",
+                        "isLavafox": true,
+                        "en": "It's a work of surrealism, Riley. It's how this <em>artist</em>'s mind views the subject.",
+                        "zh": "这叫超现实主义，莱丽，艺术家透过物体表面看到深刻内涵并表达出来。",
+                        "videoNameZh": "《女孩成长记 第一季》",
+                        "videoNameEn": "《Girl Meets World Season 1》",
+                        "url": "http://bisentence_movie.sogou.com/bb8f2a2404ac9db96565961448a999bc_e8cd8b349c352463858548e618c8e3734df2c9f4"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/ae9d6f2f04858f0af8517ff08116148e_6738.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/5e675e88528fc5ed5a3f712758a0335d_76000.mp3",
+                        "isLavafox": true,
+                        "en": "Because you'll never be a true <em>artist</em> unless you're true to yourself. So, who are you?",
+                        "zh": "因为你不能诚实地对待自己，就不能成为一个真正的艺术家，所以，你是谁？",
+                        "videoNameZh": "《女孩成长记 第三季》",
+                        "videoNameEn": "《Girl Meets World Season 3》",
+                        "url": "http://bisentence_movie.sogou.com/e6f6ad80d6335c97c60212de6375bb4d_02406858d0d046f32cde89f2ab4dc1da762d903f"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/659ebdbad5fdd9f9876f9f9ae88da0ad_60299.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/b13b3ca604ab0c50c85c0f0a6e5a65f5_21057.mp3",
+                        "isLavafox": true,
+                        "en": "Now, you're always carrying this notebook around. You obviously fancy yourself as an <em>artist</em>.",
+                        "zh": "现在，你总是随身带着你这个笔记本，显然你把自己想象成了一个艺术家。",
+                        "videoNameZh": "《乔布斯》",
+                        "videoNameEn": "《Jobs》",
+                        "url": "http://bisentence_movie.sogou.com/ebb958c96b148f3467b9c31af7ae43f8_1d455f46ee34424718032d063583aefd4f8d671e"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/cc6a483c42fe75c06f21bb86096c4218_21245.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/bb8280733b39e092ae39659b5772782b_24629.mp3",
+                        "isLavafox": true,
+                        "en": "May seem like a strange word to be in that document but he was sort of... He was an <em>artist</em>.",
+                        "zh": "这个词出现在\"独立宣言\"中，似乎有些怪异，但是他似乎是，是个艺术家。",
+                        "videoNameZh": "《当幸福来敲门》",
+                        "videoNameEn": "《The Pursuit of Happyness》",
+                        "url": "http://bisentence_movie.sogou.com/1222a4b6c8df3b07fadc3e321eadb483_4f6e920e0df06ef10492662e403ba53bf1b5124d"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/a86e6e98cc64448e528c65f2085efa0f_30194.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/c3e24868caa989e0d3ed916cc3d111aa_32053.mp3",
+                        "isLavafox": true,
+                        "en": "Really? Like what? Well, okay, you're a, you're a talented <em>artist</em>, you own your own business.",
+                        "zh": "真的? 比如说? 好吧你看，你是个才华横溢的艺术家，你有自己的事业。",
+                        "videoNameZh": "《生活大爆炸 第7季》",
+                        "videoNameEn": "《The Big Bang Theory Season 7》",
+                        "url": "http://bisentence_movie.sogou.com/9e7233eb7273901d26b751bcbb7a28af_87f664dc2065ed21e544ff709be9d403c5c7030b"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/625c0890e8315f7c9f6a34088e8124da_23511.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/ae7fa7ac26e51f0cdbbe1539c4aed55f_65993.mp3",
+                        "isLavafox": true,
+                        "en": "Do you know what I used to do before I had you? Art. I wanted to be an <em>artist</em> when I grew up.",
+                        "zh": "你知道我生你之前是做什么的吗？搞艺术的。我小时候的理想是当一名艺术家。",
+                        "videoNameZh": "《情妇 第二季》",
+                        "videoNameEn": "《Mistresses Season 2》",
+                        "url": "http://bisentence_movie.sogou.com/ef3389dfcc92f5d8c2e7f9af55f1c9ca_1cd188d3f1da26faa6089f22f0c7e9b143442936"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/aa7a748a86497e02e2b0a5098f3017b8_12619.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/082e896bd8e82bfeeef34ec376ff2c59_52009.mp3",
+                        "isLavafox": true,
+                        "en": "It's because you're an <em>artist</em>. I'm glad you decided to display your work. I got your note in my teacher's box.",
+                        "zh": "是因为你是一名艺术家，我很高兴你决定展示你的画，我收到了你的纸条。",
+                        "videoNameZh": "《女孩成长记 第一季》",
+                        "videoNameEn": "《Girl Meets World Season 1》",
+                        "url": "http://bisentence_movie.sogou.com/dcdb3231f328adb5dc3aff66ea9b4dc3_ea98a2026637568f12d70e8885aa4daa66dab052"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/aa7a748a86497e02e2b0a5098f3017b8_12619.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/bfbdd1ea06c0f7f7dd1b4a0bdfc79a2a_58539.mp3",
+                        "isLavafox": true,
+                        "en": "You don't listen to a word I say, do you? It's not because I'm disrespectful. It's because you're an <em>artist</em>.",
+                        "zh": "我说的话你一句都没听。对吧？不是因为我对你不尊重，是因为你是一名艺术家。",
+                        "videoNameZh": "《女孩成长记 第一季》",
+                        "videoNameEn": "《Girl Meets World Season 1》",
+                        "url": "http://bisentence_movie.sogou.com/0ca483b0f867e2271b848917cca41f8e_c4b84ee65e76f5b61680994356ef8ce388beb35a"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/65861602801590fdaf378b1d1c997a40_10433.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/533d39e2d864923d9b01b7f015feae61_14723.mp3",
+                        "isLavafox": true,
+                        "en": "Hi, Rachel. Hi. Love your new nose. Jack. Dr. Wolfson's an <em>artist</em>. He removed my mole cluster. Want to see?",
+                        "zh": "瑞秋，你的新鼻子真漂亮。杰克。威尔森医生是个艺术家，他帮我点掉一堆痣，你要看吗？",
+                        "videoNameZh": "《老友记 第五季》",
+                        "videoNameEn": "《Friends Season 5》",
+                        "url": "http://bisentence_movie.sogou.com/f6a1943bfcc5ce64fb7b4466096a1709_a476fc3e3ad5a415a7b794b2b6952a44fd4a91d3"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/ae9d6f2f04858f0af8517ff08116148e_6738.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/46fcfe760802d47ba8a4d57f659e51f3_74428.mp3",
+                        "isLavafox": true,
+                        "en": "Of course she meant to. Maya does what Maya wants. Maya does what Maya wants because she's a true <em>artist</em>.",
+                        "zh": "她当然是故意的，玛雅画的都是她内心所想，玛雅画她的内心所想因为她是一名真正的艺术家。",
+                        "videoNameZh": "《女孩成长记 第三季》",
+                        "videoNameEn": "《Girl Meets World Season 3》",
+                        "url": "http://bisentence_movie.sogou.com/0c6394476deb553c9192e8e345367580_2ed5953d383e95d7f93185025d1acbcb4a2ede79"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/ee318beaabea53079a9d1c2783f6396b_8824.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/3b1ce3bdfbbfbc9904366a4ecdcddf33_46046.mp3",
+                        "isLavafox": true,
+                        "en": "Well, there's a bit of every <em>artist</em> in their work. But I was locked in a sterile chamber at 8 so if I wanted to see the world, I had to imagine it.",
+                        "zh": "每个艺术家的作品都有自己的痕迹。我从八岁开始就被关在这了所以我只能想象外面的世界是什么样子。",
+                        "videoNameZh": "《银翼杀手》",
+                        "videoNameEn": "《Blade Runner 2049》",
+                        "url": "http://bisentence_movie.sogou.com/f1a0681ea5361533a7eebe967346a1e7_433f5920bd987c9343427b65b221a72b8ca874c5"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/2076dba7e236db48ba782cd6a677d481_46028.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/08895939712650cec8fb62855d93a042_18746.mp3",
+                        "isLavafox": true,
+                        "en": "Talked some sense into that boyfriend of yours. Lance is an <em>artist</em>, but I wouldn't expect you to understand that. You're right. I don't understand that at all.",
+                        "zh": "你和你的男朋友沟通好了吗？兰斯是个艺术家，其实我并不指望你能够理解他。没错，我确实理解不了他。",
+                        "videoNameZh": "《欢乐好声音》",
+                        "videoNameEn": "《Sing》",
+                        "url": "http://bisentence_movie.sogou.com/f199cff7cae110a586932b94f4f4b4cf_031de7c1c88cc74f4bdbaf80c925b7ed354728a2"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/8259b3a5049520d81cd7daab217cd558_33586.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/89643d3b120f72f93d59356a2d31beb7_29420.mp3",
+                        "isLavafox": true,
+                        "en": "As many of you know, recently Massimo Corteleoni has agreed to finance the expansion of the James Holt label transforming the work of this visionary <em>artist</em> into a global brand, which is really an exciting enterprise.",
+                        "zh": "正如大部分人所知最近马西莫·科特利让内决定为詹姆斯·浩特这个品牌注资，将这位富于创造灵感的艺术家的作品转变成一个全球品牌，一个振奋人心的产业。",
+                        "videoNameZh": "《穿普拉达的女王》",
+                        "videoNameEn": "《The Devil Wears Prada》",
+                        "url": "http://bisentence_movie.sogou.com/b6d3702c26ac8dcbd566d65c3745a531_ba2ad160c4553c9e07d82ae4fae0f19c7231fae2"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/aa7a748a86497e02e2b0a5098f3017b8_12619.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/12228cc9e80e3e2399eb7a17c3e196ed_52343.mp3",
+                        "isLavafox": true,
+                        "en": "Oh my gosh. See? I am an <em>artist</em>. I am finally something. Maya. What a life I'm having.",
+                        "zh": "我的天哪，看见没，我是艺术家，货真价实的。玛雅。我悲催的人生啊。",
+                        "videoNameZh": "《女孩成长记 第一季》",
+                        "videoNameEn": "《Girl Meets World Season 1》",
+                        "url": "http://bisentence_movie.sogou.com/840c32fce7859a33de738dabc77e220a_9fdf25381c1a783b9a9737bff266d2ddc70504e5"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/ae9d6f2f04858f0af8517ff08116148e_6738.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/293aae00fcad8cdb029bc6aa8349bffa_60360.mp3",
+                        "isLavafox": true,
+                        "en": "Real inspiration has no hours. A true <em>artist</em> knows that.",
+                        "zh": "灵感随时会来，真正的画家才懂。",
+                        "videoNameZh": "《女孩成长记 第三季》",
+                        "videoNameEn": "《Girl Meets World Season 3》",
+                        "url": "http://bisentence_movie.sogou.com/cd65e6019febcbee5010ce4d08ca58f8_3979aa9b48a13abd75468cae09ee627d8872e8f2"
+                    }
+                ]
+            },
+            "pic": "",
+            "voice": {
+                "phonetic": [
+                    {
+                        "text": "ˈɑːtɪst",
+                        "type": "uk",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/4478_artist_uk.mp3"
+                    },
+                    {
+                        "text": "ˈɑːrtɪst",
+                        "type": "usa",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/4478_artist_usa.mp3"
+                    }
+                ]
+            },
+            "dictType": "oxford_buchong",
+            "kaoyan": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 26,
+                        "pos": "n",
+                        "chinese": "艺术家; 美术家",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "artist",
+                "direction_info": {
+                    "ranges": 12,
+                    "description": "数据源自2012-2023年12年间全国考研试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2012-2023年全国考研英语一和考研英语二共24套考研试卷，包括阅读、完型填空、翻译、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选全国考研考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2012-2023年12年间全国考研英语一和考研英语二试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 5,
+                "word_family": {
+                    "derivative_info_list": [
+                        {
+                            "derivative_info_list": [
+                                {
+                                    "derivative_info_list": [],
+                                    "word": "artistic",
+                                    "mean": "adj. 拥有天生创造技巧的；赏心悦目的；有美感的；艺术的；艺术家的"
+                                }
+                            ],
+                            "word": "artist",
+                            "mean": "n. 画家；绘画爱好者；骗子；艺术家；能手；表演者；表演艺术家；惯于做（该受指责的）某行为的人"
+                        }
+                    ],
+                    "word": "art",
+                    "mean": "n. 艺术；文艺；人文科学；文科；技术；技艺；技巧；艺术作品；美术"
+                },
+                "total_exam_freq": 26,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "艺术家; 美术家",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "<highlight>Artists</highlight> help scientists reach a broader audience and make emotional connections that enhance learning.",
+                                    "month": -1,
+                                    "source": "英语一",
+                                    "coll": "",
+                                    "sentence_trans": "艺术家帮助科学家接触到更广泛的观众，并建立情感联系，从而促进学习。",
+                                    "year": 2022,
+                                    "type": "阅读理解A",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "And sometimes, it's not the <highlight>artist</highlight>'s fault.",
+                                    "month": -1,
+                                    "source": "英语一",
+                                    "coll": "",
+                                    "sentence_trans": "有时，这不是艺术家的错。",
+                                    "year": 2022,
+                                    "type": "阅读理解A",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "His reports paralleled the \"Willie\" cartoons of famed Stars and Stripes <highlight>artist</highlight> Bill Maulden.",
+                                    "month": -1,
+                                    "source": "英语二",
+                                    "coll": "",
+                                    "sentence_trans": "他在报告中将Willie卡通比拟为著名的美国艺术家Bill Maulden。",
+                                    "year": 2012,
+                                    "type": "完型填空",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "word_affix": {
+                    "word": "artist",
+                    "sub_affix_info_list": [
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "artifact",
+                                            "mean": "n. 人工制品；历史文物；非自然存在物体"
+                                        },
+                                        {
+                                            "word": "artificial",
+                                            "mean": "adj. 人工的；人造的；虚伪的；做作的；非自然存在的；人为的；假的；按约定而非随意的"
+                                        },
+                                        {
+                                            "word": "artisan",
+                                            "mean": "n. 工匠；手艺人"
+                                        },
+                                        {
+                                            "word": "artistry",
+                                            "mean": "n. 艺术创造技巧"
+                                        },
+                                        {
+                                            "word": "artless",
+                                            "mean": "adj. 不诡诈的；无欺的；单纯的；不谙世故的；不做作的；自然而简单的；无技巧（或手腕）的"
+                                        },
+                                        {
+                                            "word": "artwork",
+                                            "mean": "n. 插图；艺术作品"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "技巧, 技术",
+                                    "affix_type": "stem"
+                                }
+                            ],
+                            "affix": "art",
+                            "affix_mean": "技巧, 技术"
+                        },
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "anatomist",
+                                            "mean": "n. 解剖学家"
+                                        },
+                                        {
+                                            "word": "anthropologist",
+                                            "mean": "n. 人类学家"
+                                        },
+                                        {
+                                            "word": "apologist",
+                                            "mean": "n. 辩解者；辩护者"
+                                        },
+                                        {
+                                            "word": "archaeologist",
+                                            "mean": "n. 考古学家"
+                                        },
+                                        {
+                                            "word": "artistry",
+                                            "mean": "n. 艺术创造技巧"
+                                        },
+                                        {
+                                            "word": "biochemist",
+                                            "mean": "n. 生物化学家"
+                                        },
+                                        {
+                                            "word": "biologist",
+                                            "mean": "n. 生物学家；生物学者"
+                                        },
+                                        {
+                                            "word": "botanist",
+                                            "mean": "n. 植物学家"
+                                        },
+                                        {
+                                            "word": "journalist",
+                                            "mean": "n. 新闻记者；新闻工作者"
+                                        },
+                                        {
+                                            "word": "linguistics",
+                                            "mean": "pl-n. 语言学"
+                                        },
+                                        {
+                                            "word": "lobbyist",
+                                            "mean": "n. 说客；活动议案通过者"
+                                        },
+                                        {
+                                            "word": "novelist",
+                                            "mean": "n. 小说家"
+                                        },
+                                        {
+                                            "word": "physicist",
+                                            "mean": "n. 物理学家；物理学学生"
+                                        },
+                                        {
+                                            "word": "psychologist",
+                                            "mean": "n. 心理学家"
+                                        },
+                                        {
+                                            "word": "receptionist",
+                                            "mean": "n. 接待员"
+                                        },
+                                        {
+                                            "word": "scientist",
+                                            "mean": "n. 科学家；科研人员"
+                                        },
+                                        {
+                                            "word": "sophist",
+                                            "mean": "n. 智者派；诡辩派；诡辩者"
+                                        },
+                                        {
+                                            "word": "stylist",
+                                            "mean": "n. 时装和美容行业有创造性的从业者；服装道具设计师；以典雅的工作而著称的人；发型师；时装设计师；追求文体风格的作家；具有优雅风度者"
+                                        },
+                                        {
+                                            "word": "tourist",
+                                            "mean": "n. 旅游者；观光者；巡回比赛队的成员"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "表示\"…专业人员\", \"…专家\", \"从事…的人\", \"人\"",
+                                    "affix_type": "suffix"
+                                },
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "activist",
+                                            "mean": "n. 积极分子；激进主义分子"
+                                        },
+                                        {
+                                            "word": "alarmist",
+                                            "mean": "n. 大惊小怪者；杞人忧天者"
+                                        },
+                                        {
+                                            "word": "sexist",
+                                            "mean": "adj. 性别歧视的"
+                                        },
+                                        {
+                                            "word": "chauvinistic",
+                                            "mean": "adj. 沙文主义的；盲目的爱国心的；盲目爱国的"
+                                        },
+                                        {
+                                            "word": "colonist",
+                                            "mean": "n. 殖民地定居者；殖民地开拓者；殖民地居民"
+                                        },
+                                        {
+                                            "word": "idealistic",
+                                            "mean": "adj. 理想主义的；空想家的；唯心论的；唯心主义的"
+                                        },
+                                        {
+                                            "word": "oppositionist",
+                                            "mean": "n. 反对派成员；反对党人；反对者"
+                                        },
+                                        {
+                                            "word": "protectionist",
+                                            "mean": "n. 保护贸易论者；贸易保护主义者"
+                                        },
+                                        {
+                                            "word": "realist",
+                                            "mean": "adj. 现实主义（者）的"
+                                        },
+                                        {
+                                            "word": "suffragist",
+                                            "mean": "n. 提倡扩大选举权的人"
+                                        },
+                                        {
+                                            "word": "revisionist",
+                                            "mean": "n. 修正主义者"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "表示\"…主义者\", \"…信仰者\", \"…主义的\", \"信仰…的\"",
+                                    "affix_type": "suffix"
+                                }
+                            ],
+                            "affix": "-ist",
+                            "affix_mean": "...专家"
+                        }
+                    ],
+                    "word_mean": "n. 画家"
+                }
+            },
+            "CET6": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 16,
+                        "pos": "n",
+                        "chinese": "艺术家",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "artist",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2016.6-2023.6年8年间全六级试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight>考纲释义</highlight>\n精选实考、考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2016-2023年51套试卷，包括阅读、听力、翻译等所有题型。\n\n<highlight>真题例句</highlight>\n精选2016-2023年8年间全六级试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 4,
+                "word_family": {
+                    "derivative_info_list": [
+                        {
+                            "derivative_info_list": [
+                                {
+                                    "derivative_info_list": [],
+                                    "word": "artistic",
+                                    "mean": "adj. 拥有天生创造技巧的；赏心悦目的；有美感的；艺术的；艺术家的"
+                                }
+                            ],
+                            "word": "artist",
+                            "mean": "n. 画家；绘画爱好者；骗子；艺术家；能手；表演者；表演艺术家；惯于做（该受指责的）某行为的人"
+                        }
+                    ],
+                    "word": "art",
+                    "mean": "n. 艺术；文艺；人文科学；文科；技术；技艺；技巧；艺术作品；美术"
+                },
+                "total_exam_freq": 16,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "a person skilled in one of the arts, as painting, music, or writing",
+                            "zh": "艺术家",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "It is a quality that is required of <highlight>artists</highlight>, but it is also present in the lives of scientists and entrepreneurs.",
+                                    "month": 6,
+                                    "source": "CET6",
+                                    "coll": "",
+                                    "sentence_trans": "这是艺术家必须具备的品质，但它也存在于科学家和企业家的生活中。",
+                                    "year": 2021,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Researchers, teachers, and <highlight>artists</highlight> are starting to see how drawing can positively impact a wide variety of skills and disciplines.",
+                                    "month": 6,
+                                    "source": "CET6",
+                                    "coll": "",
+                                    "sentence_trans": "研究人员、教师和艺术家开始看到绘画如何对研究人员、教师和艺术家开始看到绘画如何对各种技能和学科产生积极影响。技能和学科产生积极影响。",
+                                    "year": 2021,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "The human visual system tends to misjudge size, shape, color, and angles but <highlight>artists</highlight> perceive these qualities more accurately than non-<highlight>artists</highlight>.",
+                                    "month": 6,
+                                    "source": "CET6",
+                                    "coll": "",
+                                    "sentence_trans": "人类的视觉系统往往会误判大小、形状、颜色和角度，但艺术家比非艺术家更能准确地感知这些品质。",
+                                    "year": 2021,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "word_affix": {
+                    "word": "artist",
+                    "sub_affix_info_list": [
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "artifact",
+                                            "mean": "n. 人工制品；历史文物；非自然存在物体"
+                                        },
+                                        {
+                                            "word": "artificial",
+                                            "mean": "adj. 人工的；人造的；虚伪的；做作的；非自然存在的；人为的；假的；按约定而非随意的"
+                                        },
+                                        {
+                                            "word": "artisan",
+                                            "mean": "n. 工匠；手艺人"
+                                        },
+                                        {
+                                            "word": "artistry",
+                                            "mean": "n. 艺术创造技巧"
+                                        },
+                                        {
+                                            "word": "artless",
+                                            "mean": "adj. 不诡诈的；无欺的；单纯的；不谙世故的；不做作的；自然而简单的；无技巧（或手腕）的"
+                                        },
+                                        {
+                                            "word": "artwork",
+                                            "mean": "n. 插图；艺术作品"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "技巧, 技术",
+                                    "affix_type": "stem"
+                                }
+                            ],
+                            "affix": "art",
+                            "affix_mean": "技巧, 技术"
+                        },
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "anatomist",
+                                            "mean": "n. 解剖学家"
+                                        },
+                                        {
+                                            "word": "anthropologist",
+                                            "mean": "n. 人类学家"
+                                        },
+                                        {
+                                            "word": "apologist",
+                                            "mean": "n. 辩解者；辩护者"
+                                        },
+                                        {
+                                            "word": "archaeologist",
+                                            "mean": "n. 考古学家"
+                                        },
+                                        {
+                                            "word": "artistry",
+                                            "mean": "n. 艺术创造技巧"
+                                        },
+                                        {
+                                            "word": "biochemist",
+                                            "mean": "n. 生物化学家"
+                                        },
+                                        {
+                                            "word": "biologist",
+                                            "mean": "n. 生物学家；生物学者"
+                                        },
+                                        {
+                                            "word": "botanist",
+                                            "mean": "n. 植物学家"
+                                        },
+                                        {
+                                            "word": "journalist",
+                                            "mean": "n. 新闻记者；新闻工作者"
+                                        },
+                                        {
+                                            "word": "linguistics",
+                                            "mean": "pl-n. 语言学"
+                                        },
+                                        {
+                                            "word": "lobbyist",
+                                            "mean": "n. 说客；活动议案通过者"
+                                        },
+                                        {
+                                            "word": "novelist",
+                                            "mean": "n. 小说家"
+                                        },
+                                        {
+                                            "word": "physicist",
+                                            "mean": "n. 物理学家；物理学学生"
+                                        },
+                                        {
+                                            "word": "psychologist",
+                                            "mean": "n. 心理学家"
+                                        },
+                                        {
+                                            "word": "receptionist",
+                                            "mean": "n. 接待员"
+                                        },
+                                        {
+                                            "word": "scientist",
+                                            "mean": "n. 科学家；科研人员"
+                                        },
+                                        {
+                                            "word": "sophist",
+                                            "mean": "n. 智者派；诡辩派；诡辩者"
+                                        },
+                                        {
+                                            "word": "stylist",
+                                            "mean": "n. 时装和美容行业有创造性的从业者；服装道具设计师；以典雅的工作而著称的人；发型师；时装设计师；追求文体风格的作家；具有优雅风度者"
+                                        },
+                                        {
+                                            "word": "tourist",
+                                            "mean": "n. 旅游者；观光者；巡回比赛队的成员"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "表示\"…专业人员\", \"…专家\", \"从事…的人\", \"人\"",
+                                    "affix_type": "suffix"
+                                },
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "activist",
+                                            "mean": "n. 积极分子；激进主义分子"
+                                        },
+                                        {
+                                            "word": "alarmist",
+                                            "mean": "n. 大惊小怪者；杞人忧天者"
+                                        },
+                                        {
+                                            "word": "sexist",
+                                            "mean": "adj. 性别歧视的"
+                                        },
+                                        {
+                                            "word": "chauvinistic",
+                                            "mean": "adj. 沙文主义的；盲目的爱国心的；盲目爱国的"
+                                        },
+                                        {
+                                            "word": "colonist",
+                                            "mean": "n. 殖民地定居者；殖民地开拓者；殖民地居民"
+                                        },
+                                        {
+                                            "word": "idealistic",
+                                            "mean": "adj. 理想主义的；空想家的；唯心论的；唯心主义的"
+                                        },
+                                        {
+                                            "word": "oppositionist",
+                                            "mean": "n. 反对派成员；反对党人；反对者"
+                                        },
+                                        {
+                                            "word": "protectionist",
+                                            "mean": "n. 保护贸易论者；贸易保护主义者"
+                                        },
+                                        {
+                                            "word": "realist",
+                                            "mean": "adj. 现实主义（者）的"
+                                        },
+                                        {
+                                            "word": "suffragist",
+                                            "mean": "n. 提倡扩大选举权的人"
+                                        },
+                                        {
+                                            "word": "revisionist",
+                                            "mean": "n. 修正主义者"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "表示\"…主义者\", \"…信仰者\", \"…主义的\", \"信仰…的\"",
+                                    "affix_type": "suffix"
+                                }
+                            ],
+                            "affix": "-ist",
+                            "affix_mean": "...专家"
+                        }
+                    ],
+                    "word_mean": "n. 画家"
+                },
+                "exchange_info": {
+                    "word_pl": [
+                        "artists"
+                    ]
+                }
+            },
+            "CET4": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 19,
+                        "pos": "n",
+                        "chinese": "艺术家",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "artist",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2016.6-2023.6年8年间全四级试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight>考纲释义</highlight>\n精选实考、考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2016-2023年51套试卷，包括阅读、听力、翻译等所有题型。\n\n<highlight>真题例句</highlight>\n精选2016-2023年8年间试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 4,
+                "word_family": {
+                    "derivative_info_list": [
+                        {
+                            "derivative_info_list": [
+                                {
+                                    "derivative_info_list": [],
+                                    "word": "artistry",
+                                    "mean": "n. 艺术创造技巧"
+                                },
+                                {
+                                    "derivative_info_list": [],
+                                    "word": "artistic",
+                                    "mean": "adj. 拥有天生创造技巧的；赏心悦目的；有美感的；艺术的；艺术家的"
+                                }
+                            ],
+                            "word": "artist",
+                            "mean": "n. 画家；绘画爱好者；骗子；艺术家；能手；表演者；表演艺术家；惯于做（该受指责的）某行为的人"
+                        }
+                    ],
+                    "word": "art",
+                    "mean": "n. 艺术；文艺；人文科学；文科；技术；技艺；技巧；艺术作品；美术"
+                },
+                "total_exam_freq": 19,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "a person skilled in one of the arts; as painting; music; or writing",
+                            "zh": "艺术家",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "A number of street <highlight>artists</highlight> around the world have started expressing themselves through a practice known as reverse graffiti (涂鸦) .",
+                                    "month": 9,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "世界各地的一些街头艺术家已经开始通过一种被称为“反向涂鸦”的做法来表达自己的想法。",
+                                    "year": 2020,
+                                    "type": "阅读理解C",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "As for the Brazilian <highlight>artist</highlight>'s work, the authorities were annoyed but could find nothing to charge him with.",
+                                    "month": 9,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "至于这位巴西艺术家的作品，当局很恼火，但找不到任何指控。",
+                                    "year": 2020,
+                                    "type": "阅读理解C",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Each <highlight>artist</highlight> has their own individual style but all artists share a common aim: to draw attention to the pollution in our cities.",
+                                    "month": 9,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "每位艺术家都有自己的风格，但所有艺术家都有一个共同的目标：引起人们对城市污染的关注。",
+                                    "year": 2020,
+                                    "type": "阅读理解C",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "word_affix": {
+                    "word": "artist",
+                    "sub_affix_info_list": [
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "artifact",
+                                            "mean": "n. 人工制品；历史文物；非自然存在物体"
+                                        },
+                                        {
+                                            "word": "artificial",
+                                            "mean": "adj. 人工的；人造的；虚伪的；做作的；非自然存在的；人为的；假的；按约定而非随意的"
+                                        },
+                                        {
+                                            "word": "artisan",
+                                            "mean": "n. 工匠；手艺人"
+                                        },
+                                        {
+                                            "word": "artistry",
+                                            "mean": "n. 艺术创造技巧"
+                                        },
+                                        {
+                                            "word": "artless",
+                                            "mean": "adj. 不诡诈的；无欺的；单纯的；不谙世故的；不做作的；自然而简单的；无技巧（或手腕）的"
+                                        },
+                                        {
+                                            "word": "artwork",
+                                            "mean": "n. 插图；艺术作品"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "技巧, 技术",
+                                    "affix_type": "stem"
+                                }
+                            ],
+                            "affix": "art",
+                            "affix_mean": "技巧, 技术"
+                        },
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "anatomist",
+                                            "mean": "n. 解剖学家"
+                                        },
+                                        {
+                                            "word": "anthropologist",
+                                            "mean": "n. 人类学家"
+                                        },
+                                        {
+                                            "word": "apologist",
+                                            "mean": "n. 辩解者；辩护者"
+                                        },
+                                        {
+                                            "word": "archaeologist",
+                                            "mean": "n. 考古学家"
+                                        },
+                                        {
+                                            "word": "artistry",
+                                            "mean": "n. 艺术创造技巧"
+                                        },
+                                        {
+                                            "word": "biochemist",
+                                            "mean": "n. 生物化学家"
+                                        },
+                                        {
+                                            "word": "biologist",
+                                            "mean": "n. 生物学家；生物学者"
+                                        },
+                                        {
+                                            "word": "botanist",
+                                            "mean": "n. 植物学家"
+                                        },
+                                        {
+                                            "word": "journalist",
+                                            "mean": "n. 新闻记者；新闻工作者"
+                                        },
+                                        {
+                                            "word": "linguistics",
+                                            "mean": "pl-n. 语言学"
+                                        },
+                                        {
+                                            "word": "lobbyist",
+                                            "mean": "n. 说客；活动议案通过者"
+                                        },
+                                        {
+                                            "word": "novelist",
+                                            "mean": "n. 小说家"
+                                        },
+                                        {
+                                            "word": "physicist",
+                                            "mean": "n. 物理学家；物理学学生"
+                                        },
+                                        {
+                                            "word": "psychologist",
+                                            "mean": "n. 心理学家"
+                                        },
+                                        {
+                                            "word": "receptionist",
+                                            "mean": "n. 接待员"
+                                        },
+                                        {
+                                            "word": "scientist",
+                                            "mean": "n. 科学家；科研人员"
+                                        },
+                                        {
+                                            "word": "sophist",
+                                            "mean": "n. 智者派；诡辩派；诡辩者"
+                                        },
+                                        {
+                                            "word": "stylist",
+                                            "mean": "n. 时装和美容行业有创造性的从业者；服装道具设计师；以典雅的工作而著称的人；发型师；时装设计师；追求文体风格的作家；具有优雅风度者"
+                                        },
+                                        {
+                                            "word": "tourist",
+                                            "mean": "n. 旅游者；观光者；巡回比赛队的成员"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "表示\"…专业人员\", \"…专家\", \"从事…的人\", \"人\"",
+                                    "affix_type": "suffix"
+                                },
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "activist",
+                                            "mean": "n. 积极分子；激进主义分子"
+                                        },
+                                        {
+                                            "word": "alarmist",
+                                            "mean": "n. 大惊小怪者；杞人忧天者"
+                                        },
+                                        {
+                                            "word": "sexist",
+                                            "mean": "adj. 性别歧视的"
+                                        },
+                                        {
+                                            "word": "chauvinistic",
+                                            "mean": "adj. 沙文主义的；盲目的爱国心的；盲目爱国的"
+                                        },
+                                        {
+                                            "word": "colonist",
+                                            "mean": "n. 殖民地定居者；殖民地开拓者；殖民地居民"
+                                        },
+                                        {
+                                            "word": "idealistic",
+                                            "mean": "adj. 理想主义的；空想家的；唯心论的；唯心主义的"
+                                        },
+                                        {
+                                            "word": "oppositionist",
+                                            "mean": "n. 反对派成员；反对党人；反对者"
+                                        },
+                                        {
+                                            "word": "protectionist",
+                                            "mean": "n. 保护贸易论者；贸易保护主义者"
+                                        },
+                                        {
+                                            "word": "realist",
+                                            "mean": "adj. 现实主义（者）的"
+                                        },
+                                        {
+                                            "word": "suffragist",
+                                            "mean": "n. 提倡扩大选举权的人"
+                                        },
+                                        {
+                                            "word": "revisionist",
+                                            "mean": "n. 修正主义者"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "表示\"…主义者\", \"…信仰者\", \"…主义的\", \"信仰…的\"",
+                                    "affix_type": "suffix"
+                                }
+                            ],
+                            "affix": "-ist",
+                            "affix_mean": "...专家"
+                        }
+                    ],
+                    "word_mean": "n. 画家"
+                },
+                "exchange_info": {
+                    "word_pl": [
+                        "artists"
+                    ]
+                }
+            },
+            "gaokao": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 25,
+                        "pos": "cn",
+                        "chinese": "艺术家; 画家",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "artist",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2015-2022年8年间全国卷和自主命题省市高考卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2015-2022年全国卷高考试卷，包括阅读、完形、单选、填空、听力、改错、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选各省市考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2015-2022年8年间全国卷和自主命题省市高考卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 5,
+                "word_family": {
+                    "derivative_info_list": [
+                        {
+                            "derivative_info_list": [
+                                {
+                                    "derivative_info_list": [],
+                                    "word": "artistic",
+                                    "mean": "adj. 拥有天生创造技巧的；赏心悦目的；有美感的；艺术的；艺术家的"
+                                }
+                            ],
+                            "word": "artist",
+                            "mean": "n. 画家；绘画爱好者；骗子；艺术家；能手；表演者；表演艺术家；惯于做（该受指责的）某行为的人"
+                        }
+                    ],
+                    "word": "art",
+                    "mean": "n. 艺术；文艺；人文科学；文科；技术；技艺；技巧；艺术作品；美术"
+                },
+                "total_exam_freq": 25,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "艺术家; 画家",
+                            "pos": "cn",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "It increases <highlight>artists</highlight>' income.",
+                                    "month": -1,
+                                    "source": "新高考II卷",
+                                    "coll": "",
+                                    "sentence_trans": "它增加了艺术家的收入。",
+                                    "year": 2021,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "We need <highlight>artists</highlight> more than ever in our schools.",
+                                    "month": -1,
+                                    "source": "新高考II卷",
+                                    "coll": "",
+                                    "sentence_trans": "我们学校比以往任何时候都需要艺术家。",
+                                    "year": 2021,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "And what was the turning point in your life that made you an <highlight>artist</highlight>?",
+                                    "month": -1,
+                                    "source": "全国卷2",
+                                    "coll": "",
+                                    "sentence_trans": "让你成为艺术家的人生转折点是什么？",
+                                    "year": 2016,
+                                    "type": "听力",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "word_affix": {
+                    "word": "artist",
+                    "sub_affix_info_list": [
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "artifact",
+                                            "mean": "n. 人工制品；历史文物；非自然存在物体"
+                                        },
+                                        {
+                                            "word": "artificial",
+                                            "mean": "adj. 人工的；人造的；虚伪的；做作的；非自然存在的；人为的；假的；按约定而非随意的"
+                                        },
+                                        {
+                                            "word": "artisan",
+                                            "mean": "n. 工匠；手艺人"
+                                        },
+                                        {
+                                            "word": "artistry",
+                                            "mean": "n. 艺术创造技巧"
+                                        },
+                                        {
+                                            "word": "artless",
+                                            "mean": "adj. 不诡诈的；无欺的；单纯的；不谙世故的；不做作的；自然而简单的；无技巧（或手腕）的"
+                                        },
+                                        {
+                                            "word": "artwork",
+                                            "mean": "n. 插图；艺术作品"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "技巧, 技术",
+                                    "affix_type": "stem"
+                                }
+                            ],
+                            "affix": "art",
+                            "affix_mean": "技巧, 技术"
+                        },
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "anatomist",
+                                            "mean": "n. 解剖学家"
+                                        },
+                                        {
+                                            "word": "anthropologist",
+                                            "mean": "n. 人类学家"
+                                        },
+                                        {
+                                            "word": "apologist",
+                                            "mean": "n. 辩解者；辩护者"
+                                        },
+                                        {
+                                            "word": "archaeologist",
+                                            "mean": "n. 考古学家"
+                                        },
+                                        {
+                                            "word": "artistry",
+                                            "mean": "n. 艺术创造技巧"
+                                        },
+                                        {
+                                            "word": "biochemist",
+                                            "mean": "n. 生物化学家"
+                                        },
+                                        {
+                                            "word": "biologist",
+                                            "mean": "n. 生物学家；生物学者"
+                                        },
+                                        {
+                                            "word": "botanist",
+                                            "mean": "n. 植物学家"
+                                        },
+                                        {
+                                            "word": "journalist",
+                                            "mean": "n. 新闻记者；新闻工作者"
+                                        },
+                                        {
+                                            "word": "linguistics",
+                                            "mean": "pl-n. 语言学"
+                                        },
+                                        {
+                                            "word": "lobbyist",
+                                            "mean": "n. 说客；活动议案通过者"
+                                        },
+                                        {
+                                            "word": "novelist",
+                                            "mean": "n. 小说家"
+                                        },
+                                        {
+                                            "word": "physicist",
+                                            "mean": "n. 物理学家；物理学学生"
+                                        },
+                                        {
+                                            "word": "psychologist",
+                                            "mean": "n. 心理学家"
+                                        },
+                                        {
+                                            "word": "receptionist",
+                                            "mean": "n. 接待员"
+                                        },
+                                        {
+                                            "word": "scientist",
+                                            "mean": "n. 科学家；科研人员"
+                                        },
+                                        {
+                                            "word": "sophist",
+                                            "mean": "n. 智者派；诡辩派；诡辩者"
+                                        },
+                                        {
+                                            "word": "stylist",
+                                            "mean": "n. 时装和美容行业有创造性的从业者；服装道具设计师；以典雅的工作而著称的人；发型师；时装设计师；追求文体风格的作家；具有优雅风度者"
+                                        },
+                                        {
+                                            "word": "tourist",
+                                            "mean": "n. 旅游者；观光者；巡回比赛队的成员"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "表示\"…专业人员\", \"…专家\", \"从事…的人\", \"人\"",
+                                    "affix_type": "suffix"
+                                },
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "activist",
+                                            "mean": "n. 积极分子；激进主义分子"
+                                        },
+                                        {
+                                            "word": "alarmist",
+                                            "mean": "n. 大惊小怪者；杞人忧天者"
+                                        },
+                                        {
+                                            "word": "sexist",
+                                            "mean": "adj. 性别歧视的"
+                                        },
+                                        {
+                                            "word": "chauvinistic",
+                                            "mean": "adj. 沙文主义的；盲目的爱国心的；盲目爱国的"
+                                        },
+                                        {
+                                            "word": "colonist",
+                                            "mean": "n. 殖民地定居者；殖民地开拓者；殖民地居民"
+                                        },
+                                        {
+                                            "word": "idealistic",
+                                            "mean": "adj. 理想主义的；空想家的；唯心论的；唯心主义的"
+                                        },
+                                        {
+                                            "word": "oppositionist",
+                                            "mean": "n. 反对派成员；反对党人；反对者"
+                                        },
+                                        {
+                                            "word": "protectionist",
+                                            "mean": "n. 保护贸易论者；贸易保护主义者"
+                                        },
+                                        {
+                                            "word": "realist",
+                                            "mean": "adj. 现实主义（者）的"
+                                        },
+                                        {
+                                            "word": "suffragist",
+                                            "mean": "n. 提倡扩大选举权的人"
+                                        },
+                                        {
+                                            "word": "revisionist",
+                                            "mean": "n. 修正主义者"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "表示\"…主义者\", \"…信仰者\", \"…主义的\", \"信仰…的\"",
+                                    "affix_type": "suffix"
+                                }
+                            ],
+                            "affix": "-ist",
+                            "affix_mean": "...专家"
+                        }
+                    ],
+                    "word_mean": "n. 画家"
+                }
+            },
+            "zhongkao": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 104,
+                        "pos": "cn",
+                        "chinese": "画家; 艺术家",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "artist",
+                "direction_info": {
+                    "ranges": 4,
+                    "description": "数据源自2018-2021年4年间全国各省市中考试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2018-2021年全国重点省市中考试卷，包括听力、阅读、完形、单选、填空、改错、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选各省市考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2018-2021年4年间全国各省市中考试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 5,
+                "word_family": {
+                    "derivative_info_list": [
+                        {
+                            "derivative_info_list": [
+                                {
+                                    "derivative_info_list": [],
+                                    "word": "artistry",
+                                    "mean": "n. 艺术创造技巧"
+                                },
+                                {
+                                    "derivative_info_list": [],
+                                    "word": "artistic",
+                                    "mean": "adj. 拥有天生创造技巧的；赏心悦目的；有美感的；艺术的；艺术家的"
+                                }
+                            ],
+                            "word": "artist",
+                            "mean": "n. 画家；绘画爱好者；骗子；艺术家；能手；表演者；表演艺术家；惯于做（该受指责的）某行为的人"
+                        }
+                    ],
+                    "word": "art",
+                    "mean": "n. 艺术；文艺；人文科学；文科；技术；技艺；技巧；艺术作品；美术"
+                },
+                "total_exam_freq": 104,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "画家; 艺术家",
+                            "pos": "cn",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "After/When they finished school, Ed went to study art in Paris and became an <highlight>artist</highlight>.",
+                                    "month": -1,
+                                    "source": "丽水市卷",
+                                    "coll": "",
+                                    "sentence_trans": "他们毕业后，埃德去巴黎学习艺术，成为一名艺术家。",
+                                    "year": 2021,
+                                    "type": "语法填空",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "As a young man, Jack was an excellent <highlight>artist</highlight> with a wife and two fine sons.",
+                                    "month": -1,
+                                    "source": "黄冈卷",
+                                    "coll": "",
+                                    "sentence_trans": "年轻时，杰克是一名出色的艺术家，有一个妻子和两个优秀的儿子。",
+                                    "year": 2020,
+                                    "type": "完形填空",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "An <highlight>artist</highlight> can use his drawings to tell about the beautiful mountains, the blue seas and many other thing.",
+                                    "month": -1,
+                                    "source": "黄冈卷",
+                                    "coll": "",
+                                    "sentence_trans": "一个艺术家可以用他的画来讲述美丽的山脉，蓝色的大海和许多其他的事情。",
+                                    "year": 2018,
+                                    "type": "阅读还原",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "word_affix": {
+                    "sub_affix_info_list": [
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "artifact",
+                                            "mean": "n. 人工制品；历史文物；非自然存在物体"
+                                        },
+                                        {
+                                            "word": "artificial",
+                                            "mean": "adj. 人工的；人造的；虚伪的；做作的；非自然存在的；人为的；假的；按约定而非随意的"
+                                        },
+                                        {
+                                            "word": "artisan",
+                                            "mean": "n. 工匠；手艺人"
+                                        },
+                                        {
+                                            "word": "artistry",
+                                            "mean": "n. 艺术创造技巧"
+                                        },
+                                        {
+                                            "word": "artless",
+                                            "mean": "adj. 不诡诈的；无欺的；单纯的；不谙世故的；不做作的；自然而简单的；无技巧（或手腕）的"
+                                        },
+                                        {
+                                            "word": "artwork",
+                                            "mean": "n. 插图；艺术作品"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "技巧, 技术",
+                                    "affix_type": "stem"
+                                }
+                            ],
+                            "affix": "art",
+                            "affix_mean": "技巧, 技术"
+                        },
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "anatomist",
+                                            "mean": "n. 解剖学家"
+                                        },
+                                        {
+                                            "word": "anthropologist",
+                                            "mean": "n. 人类学家"
+                                        },
+                                        {
+                                            "word": "apologist",
+                                            "mean": "n. 辩解者；辩护者"
+                                        },
+                                        {
+                                            "word": "archaeologist",
+                                            "mean": "n. 考古学家"
+                                        },
+                                        {
+                                            "word": "artistry",
+                                            "mean": "n. 艺术创造技巧"
+                                        },
+                                        {
+                                            "word": "biochemist",
+                                            "mean": "n. 生物化学家"
+                                        },
+                                        {
+                                            "word": "biologist",
+                                            "mean": "n. 生物学家；生物学者"
+                                        },
+                                        {
+                                            "word": "botanist",
+                                            "mean": "n. 植物学家"
+                                        },
+                                        {
+                                            "word": "journalist",
+                                            "mean": "n. 新闻记者；新闻工作者"
+                                        },
+                                        {
+                                            "word": "linguistics",
+                                            "mean": "pl-n. 语言学"
+                                        },
+                                        {
+                                            "word": "lobbyist",
+                                            "mean": "n. 说客；活动议案通过者"
+                                        },
+                                        {
+                                            "word": "novelist",
+                                            "mean": "n. 小说家"
+                                        },
+                                        {
+                                            "word": "physicist",
+                                            "mean": "n. 物理学家；物理学学生"
+                                        },
+                                        {
+                                            "word": "psychologist",
+                                            "mean": "n. 心理学家"
+                                        },
+                                        {
+                                            "word": "receptionist",
+                                            "mean": "n. 接待员"
+                                        },
+                                        {
+                                            "word": "scientist",
+                                            "mean": "n. 科学家；科研人员"
+                                        },
+                                        {
+                                            "word": "sophist",
+                                            "mean": "n. 智者派；诡辩派；诡辩者"
+                                        },
+                                        {
+                                            "word": "stylist",
+                                            "mean": "n. 时装和美容行业有创造性的从业者；服装道具设计师；以典雅的工作而著称的人；发型师；时装设计师；追求文体风格的作家；具有优雅风度者"
+                                        },
+                                        {
+                                            "word": "tourist",
+                                            "mean": "n. 旅游者；观光者；巡回比赛队的成员"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "表示\"…专业人员\", \"…专家\", \"从事…的人\", \"人\"",
+                                    "affix_type": "suffix"
+                                },
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "activist",
+                                            "mean": "n. 积极分子；激进主义分子"
+                                        },
+                                        {
+                                            "word": "alarmist",
+                                            "mean": "n. 大惊小怪者；杞人忧天者"
+                                        },
+                                        {
+                                            "word": "sexist",
+                                            "mean": "adj. 性别歧视的"
+                                        },
+                                        {
+                                            "word": "chauvinistic",
+                                            "mean": "adj. 沙文主义的；盲目的爱国心的；盲目爱国的"
+                                        },
+                                        {
+                                            "word": "colonist",
+                                            "mean": "n. 殖民地定居者；殖民地开拓者；殖民地居民"
+                                        },
+                                        {
+                                            "word": "idealistic",
+                                            "mean": "adj. 理想主义的；空想家的；唯心论的；唯心主义的"
+                                        },
+                                        {
+                                            "word": "oppositionist",
+                                            "mean": "n. 反对派成员；反对党人；反对者"
+                                        },
+                                        {
+                                            "word": "protectionist",
+                                            "mean": "n. 保护贸易论者；贸易保护主义者"
+                                        },
+                                        {
+                                            "word": "realist",
+                                            "mean": "adj. 现实主义（者）的"
+                                        },
+                                        {
+                                            "word": "suffragist",
+                                            "mean": "n. 提倡扩大选举权的人"
+                                        },
+                                        {
+                                            "word": "revisionist",
+                                            "mean": "n. 修正主义者"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "表示\"…主义者\", \"…信仰者\", \"…主义的\", \"信仰…的\"",
+                                    "affix_type": "suffix"
+                                }
+                            ],
+                            "affix": "-ist",
+                            "affix_mean": "...专家"
+                        }
+                    ],
+                    "word": "artist",
+                    "word_mean": "n. 画家"
+                }
+            },
+            "sentencesData": {
+                "status": 1,
+                "info": "notZh2En",
+                "data": {}
+            },
+            "isAutoMatch": false,
+            "Zh2En": false
+        },
+        "query": "artist",
+        "result": "艺术家",
+        "tabSelect": "detail",
+        "dictionaryType": "oxford_buchong",
+        "notFound_show": false,
+        "phoneticShow": "",
+        "globalShowTranslateRecord": "",
+        "pronPrefer": {
+            "type": "usa_1",
+            "speaker": "male",
+            "speed": "standard"
+        },
+        "ServerRecord": "",
+        "ServerUIGS": {
+            "version": "new",
+            "type": "all",
+            "stype": "success",
+            "terminal": "web",
+            "fr": "default",
+            "direction": "etoz",
+            "from": "en",
+            "to": "zh-CHS",
+            "len": 6,
+            "qtype": "text",
+            "qctype": "qc_1",
+            "dict_cover": 1,
+            "detail": 1,
+            "wordCardCover": 1,
+            "wordCardEn": 1,
+            "wordCardCh": 0,
+            "wordCardMinor": 0,
+            "wordCardNetmean": 0,
+            "wordDeform": 1,
+            "keyword": 0,
+            "bilingual": 1,
+            "simple": 0,
+            "levelList": 1,
+            "synonym": 1,
+            "antonym": 0,
+            "conjugate": 1,
+            "rootaffix": 1,
+            "baike_sogou": 0,
+            "baike_wiki": 0,
+            "wordDifference": 0,
+            "word_phrase": 1,
+            "secondQuery": 0,
+            "dict_oxford": 0,
+            "dict_newcentury": 0,
+            "zhongkaotab": 1,
+            "gaokaotab": 1,
+            "CET4tab": 1,
+            "CET6tab": 1,
+            "kaoyantab": 1,
+            "network_tab": 0,
+            "yinying_tab": 1,
+            "tuozhan_tab": 0,
+            "one_pic": 0,
+            "more_pic": 0,
+            "no_pic": 0,
+            "uuid": "6d96071d-2645-419e-b6ef-7545cb2145e9",
+            "from_type": 0,
+            "t_trans_ssr": 165
+        },
+        "ServerModelUIGS": {
+            "terminal": "web",
+            "type": "trans_model",
+            "pbtype": "pv",
+            "model_general": 1,
+            "model_medical": 1,
+            "model_finance": 1
+        },
+        "ServerSgtkn": "64E9F12F64A0CE676C6A44D7D6D177F56DF601D267552153",
+        "suggShow": false,
+        "suggestion": "",
+        "suggDirection": "",
+        "usualTop": "",
+        "baseDict": "",
+        "wordCardClick": false,
+        "isFrInput": false,
+        "kanaTips": {
+            "show": false,
+            "left": "",
+            "top": "",
+            "type": "",
+            "arrowLeft": ""
+        },
+        "currSentenceIndex": -1,
+        "prefixStrObj": {
+            "prefixStr": "",
+            "oriPrefixStr": ""
+        },
+        "selectTransBox": {
+            "show": false,
+            "right": 0,
+            "top": 0,
+            "paraphraseInfo": {
+                "word": "",
+                "from": "",
+                "to": "",
+                "area": ""
+            }
+        },
+        "sentenceLoading": false,
+        "newSentenceInfo": {
+            "sentence": "",
+            "candidateIndex": 0
+        },
+        "moreTipInfo": {
+            "opacity": 0,
+            "zIndex": -1
+        },
+        "paraphraseShowInfo": {
+            "card": 0,
+            "query": "",
+            "card_dict": 0
+        },
+        "selectType": "",
+        "wordPos": 0,
+        "candidateWord": "",
+        "syntaxVisible": false,
+        "syntaxStatus": 0
+    },
+    "language": {
+        "from": "auto",
+        "to": "zh-CHS",
+        "detect": "en",
+        "model": "general",
+        "detectShow": false,
+        "langMap": {
+            "current": ""
+        },
+        "zh2en": false,
+        "fromItemList": [
+            {
+                "lang": "auto",
+                "text": "自动检测",
+                "play": false
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "th",
+                "text": "泰语",
+                "play": true,
+                "abbr": "泰"
+            },
+            {
+                "lang": "fr",
+                "text": "法语",
+                "play": true,
+                "abbr": "法"
+            },
+            {
+                "lang": "pt",
+                "text": "葡萄牙语",
+                "play": true,
+                "abbr": "葡"
+            }
+        ],
+        "toItemList": [
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "fr",
+                "text": "法语",
+                "play": true,
+                "abbr": "法"
+            },
+            {
+                "lang": "ko",
+                "text": "韩语",
+                "play": true,
+                "abbr": "韩"
+            },
+            {
+                "lang": "vi",
+                "text": "越南语",
+                "play": true,
+                "abbr": "越"
+            }
+        ]
+    },
+    "voice": {
+        "from": {
+            "lang": "en",
+            "type": "from",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22artist%22%2C%22spokenDialect%22%3A%22en%22%2C%22rate%22%3A%220.8%22%7D",
+            "list": [
+                {
+                    "type": "uk_0",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "ˈɑːtɪst",
+                    "abbr": "英",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/4478_artist_uk.mp3"
+                },
+                {
+                    "type": "usa_1",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "ˈɑːrtɪst",
+                    "abbr": "美",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/4478_artist_usa.mp3"
+                }
+            ],
+            "stype": "phonetic",
+            "phoneticShow": [
+                {
+                    "text": "ˈɑːtɪst",
+                    "type": "uk",
+                    "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/4478_artist_uk.mp3"
+                },
+                {
+                    "text": "ˈɑːrtɪst",
+                    "type": "usa",
+                    "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/4478_artist_usa.mp3"
+                }
+            ]
+        },
+        "to": {
+            "lang": "zh",
+            "type": "to",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22%E8%89%BA%E6%9C%AF%E5%AE%B6%22%2C%22spokenDialect%22%3A%22zh-CHS%22%2C%22rate%22%3A%220.8%22%7D",
+            "stype": "normal"
+        }
+    }
+}

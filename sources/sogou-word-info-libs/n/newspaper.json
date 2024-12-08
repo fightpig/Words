@@ -1,0 +1,1604 @@
+{
+    "route": {
+        "name": "text",
+        "path": "/text",
+        "hash": "",
+        "query": {
+            "keyword": "newspaper",
+            "transfrom": "auto",
+            "transto": "zh-CHS",
+            "model": "general",
+            "errcode": "s10"
+        },
+        "params": {},
+        "fullPath": "/text?keyword=newspaper&transfrom=auto&transto=zh-CHS&model=general&errcode=s10",
+        "meta": {
+            "mtype": [
+                "textTranslate",
+                "language",
+                "voice"
+            ]
+        },
+        "from": {
+            "name": null,
+            "path": "/",
+            "hash": "",
+            "query": {},
+            "params": {},
+            "fullPath": "/",
+            "meta": {}
+        }
+    },
+    "common": {
+        "CONFIG": {
+            "wuid": 1733634050750,
+            "loginInfo": {},
+            "isIE": 0,
+            "isHitSsrSwitch": true,
+            "isHitWritebookSwitch": false,
+            "isHitAmsSwitch": true,
+            "promotionList": "{\n    \"pc_bottom\":{\n        \"imgsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\",\n        \"qcsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\"\n    },\n    \"pc_middle\":[\n        {\n            \"src\":\"//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c\",\n            \"bgColor\":\"#ffffff\",\n            \"link\":\"\"\n        }\n    ],\n    \"pc_survey\":{\n        \"icon\":\"//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750\",\n        \"link\":\"https://wj.qq.com/s2/8193148/806d/\"\n    }\n}",
+            "bannerData": [],
+            "isHitAsideSurvey": false,
+            "secretCode": 109984457,
+            "uuid": "11260a63-f01d-4934-95e8-4e90bdfb8c8d",
+            "referer": "",
+            "approveToken": "64F01F89A2600EA6ADAA85178C6E5EE5ADD79ACD67552802",
+            "loadTime": 1733634050752,
+            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0",
+            "fcp": "31.223.184.69",
+            "temporaryId": "",
+            "fileId": ""
+        },
+        "hotWords": [],
+        "isFromCollect": false,
+        "psdModify": {
+            "currentStep": 1,
+            "scode": "",
+            "username": ""
+        },
+        "loginStatus": true,
+        "feedBackModule": false,
+        "showPromotionPopup": {
+            "show": false,
+            "type": ""
+        },
+        "showPromotionPCDownload": false,
+        "showShareBomb": false,
+        "shareData": null,
+        "showAppDownLoad": false,
+        "showLoginDialog": false,
+        "showLoading": {
+            "show": false
+        },
+        "toast": {
+            "show": false,
+            "text": "",
+            "loading": false
+        },
+        "modelToast": {
+            "show": false,
+            "text": ""
+        },
+        "selectionGlobalShow": true,
+        "selectionInfo": {
+            "left": 0,
+            "top": 0,
+            "show": false,
+            "from": "",
+            "to": "",
+            "val": "",
+            "area": ""
+        },
+        "showConfirmDialog": false,
+        "promotionList": {
+            "pc_bottom": {
+                "imgsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png",
+                "qcsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png"
+            },
+            "pc_middle": [
+                {
+                    "src": "//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c",
+                    "bgColor": "#ffffff",
+                    "link": ""
+                }
+            ],
+            "pc_survey": {
+                "icon": "//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750",
+                "link": "https://wj.qq.com/s2/8193148/806d/"
+            }
+        },
+        "transTypeTxt": "text",
+        "fixedTabStatus": 0,
+        "bodyTop": 0,
+        "ifHideUserOperation": false
+    },
+    "textTranslate": {
+        "prevTransQuery": "",
+        "translateData": {
+            "translate": {
+                "zly": "zly",
+                "errorCode": "0",
+                "qc_type": "1",
+                "index": "content0",
+                "from": "en",
+                "source": "sogou",
+                "text": "newspaper",
+                "to": "zh-CHS",
+                "id": "11260a63-f01d-4934-95e8-4e90bdfb8c8d",
+                "dit": "报纸",
+                "orig_text": "newspaper",
+                "md5": ""
+            },
+            "detect": {
+                "zly": "zly",
+                "detect": "en",
+                "errorCode": "0",
+                "language": "英语",
+                "id": "6529c840-b521-11ef-82ab-8b09d3703575",
+                "text": "newspaper"
+            },
+            "sgtkn": "64F01F8AA2600EA6ADAA85178C6E5EE5ADD79ACD67552802",
+            "wordCard": {
+                "title": "newspaper",
+                "show": true,
+                "usualDict": [
+                    {
+                        "values": [
+                            "报；报纸；日报；周报；报业；报刊；新闻报纸；出版物"
+                        ],
+                        "pos": "n."
+                    }
+                ],
+                "secondQuery": "",
+                "exchange": {
+                    "word_pl": [
+                        "newspapers"
+                    ]
+                },
+                "levelList": [
+                    "小学",
+                    "初中",
+                    "高中",
+                    "四级",
+                    "六级",
+                    "考研"
+                ]
+            },
+            "detail": {
+                "synonym": [
+                    {
+                        "word_list": [
+                            "paper",
+                            "courant"
+                        ],
+                        "pos": "n.",
+                        "mean": "报纸"
+                    }
+                ],
+                "affix": {
+                    "word": "newspaper",
+                    "sub_affix_info_list": [
+                        {
+                            "affix": "news",
+                            "affix_mean": "n. 新闻",
+                            "sub": {
+                                "word": "news",
+                                "sub_affix_info_list": [
+                                    {
+                                        "affix": "new",
+                                        "affix_mean": "adj. 新的"
+                                    },
+                                    {
+                                        "affix_sense_info": [
+                                            {
+                                                "sample": [],
+                                                "derivatives": "",
+                                                "affix_sense_chinese": "名词复数后缀, 表示数量多于一个",
+                                                "affix_type": "suffix"
+                                            },
+                                            {
+                                                "sample": [
+                                                    {
+                                                        "word": "annals",
+                                                        "mean": "pl-n. 编年史；历史记录；年报"
+                                                    },
+                                                    {
+                                                        "word": "backwards",
+                                                        "mean": "adv. 向后地；往回地；倒回原处地；反向地；回溯；每况愈下地"
+                                                    },
+                                                    {
+                                                        "word": "clothes",
+                                                        "mean": "pl-n. 衣服；服装；被褥"
+                                                    },
+                                                    {
+                                                        "word": "corps",
+                                                        "mean": "n. 军；队；部队；一组；一队；芭蕾舞队；（芭蕾舞团）伴舞队（CORPS DE BALLET的简称）"
+                                                    },
+                                                    {
+                                                        "word": "genetics",
+                                                        "mean": "pl-n. 遗传学；遗传性；遗传现象；遗传特征"
+                                                    },
+                                                    {
+                                                        "word": "perhaps",
+                                                        "mean": "adv. 或许；大概；可能；也许；好像"
+                                                    },
+                                                    {
+                                                        "word": "theirs",
+                                                        "mean": "pron. 他们的；属于他们的；它们的"
+                                                    }
+                                                ],
+                                                "derivatives": "",
+                                                "affix_sense_chinese": "副词后缀, 表示\"时间, 地点, 状态, 方式\"",
+                                                "affix_type": "suffix"
+                                            }
+                                        ],
+                                        "affix": "-s",
+                                        "affix_mean": "名词复数后缀"
+                                    }
+                                ],
+                                "word_mean": "n. 新闻"
+                            }
+                        },
+                        {
+                            "affix": "paper",
+                            "affix_mean": "n. 纸"
+                        }
+                    ],
+                    "word_mean": "n. 报纸"
+                },
+                "wordRootInfo": {
+                    "word_info_list": [
+                        {
+                            "word": "newsprint",
+                            "pos_mean_info_list": [
+                                {
+                                    "pos": "n.",
+                                    "mean": "新闻用纸（等于newspaper）"
+                                }
+                            ]
+                        },
+                        {
+                            "word": "newsreader",
+                            "pos_mean_info_list": [
+                                {
+                                    "pos": "n.",
+                                    "mean": "（英）新闻广播员；报纸读者"
+                                }
+                            ]
+                        },
+                        {
+                            "word": "newssheet",
+                            "pos_mean_info_list": [
+                                {
+                                    "pos": "n.",
+                                    "mean": "单张报纸；新闻传单"
+                                }
+                            ]
+                        }
+                    ],
+                    "root_word": "newsprint"
+                },
+                "word_difference_info": [
+                    {
+                        "common_mean": "出版物或定期刊物",
+                        "word_list": [
+                            "journal",
+                            " magazine",
+                            " press",
+                            " periodical",
+                            " review",
+                            " newspaper",
+                            " publication"
+                        ],
+                        "word_mean_info__list": [
+                            {
+                                "difference": "本义为“日报”，现在可指定期发生的周刊、月刊、季刊等或指学术团体出版的刊物、杂志或学报。",
+                                "word": "journal"
+                            },
+                            {
+                                "difference": "指刊登各种文章、小说、诗歌、评议的杂志。",
+                                "word": "magazine"
+                            },
+                            {
+                                "difference": "系报刊总称，也指报界或报业。",
+                                "word": "press"
+                            },
+                            {
+                                "difference": "通常指除日报以外的定期出版刊物。",
+                                "word": "periodical"
+                            },
+                            {
+                                "difference": "多指登载评论性文章或讨论重大事件的文章的刊物。",
+                                "word": "review"
+                            },
+                            {
+                                "difference": "一般指每日出版的报纸。",
+                                "word": "newspaper"
+                            },
+                            {
+                                "difference": "指出版物，发行物。",
+                                "word": "publication"
+                            }
+                        ]
+                    }
+                ],
+                "word_group": [
+                    {
+                        "brief_definition": "地方报纸",
+                        "phrase": "local newspaper",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "日报",
+                        "phrase": "daily newspaper",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "报纸文章；报刊文章",
+                        "phrase": "newspaper article",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "英国报纸；英语报纸；英国发行的报纸",
+                        "phrase": "British newspaper",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "周发报纸；周发行的报纸",
+                        "phrase": "weekly newspaper",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "看报纸；读报纸",
+                        "phrase": "read a newspaper",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "学校报纸；校报",
+                        "phrase": "school newspaper",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "日本报纸",
+                        "phrase": "Japanese newspaper",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "新闻故事；报纸新闻；报业传奇",
+                        "phrase": "newspaper story",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "报纸剪报；新闻剪报；剪报",
+                        "phrase": "newspaper clippings",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "报纸专栏作家；报章专栏作者；报刊专栏记者",
+                        "phrase": "newspaper columnist",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "墙报",
+                        "phrase": "wall newspaper",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "卷起的报纸；报纸卷",
+                        "phrase": "rolled-up newspaper",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "报纸专栏作家",
+                        "phrase": "newspaper columnists",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "报业连锁",
+                        "phrase": "newspaper chain",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "出版报纸",
+                        "phrase": "newspaper publish",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "新闻摄影师；报纸的摄影记者；报社摄影师",
+                        "phrase": "newspaper photographer",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "重要的报纸",
+                        "phrase": "important newspaper",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "报刊家庭；报刊家族；报纸家庭",
+                        "phrase": "newspaper family",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "一个报纸家庭",
+                        "phrase": "a newspaper family",
+                        "pos": ""
+                    }
+                ],
+                "bilingual": [
+                    {
+                        "source": "I read the <em>newspaper</em> daily.",
+                        "target": "我每天读报纸。",
+                        "url": ""
+                    },
+                    {
+                        "source": "He wrote for a <em>newspaper</em>.",
+                        "target": "他为一家报纸写作。",
+                        "url": ""
+                    },
+                    {
+                        "source": "The <em>newspaper</em> is on the table.",
+                        "target": "报纸在桌子上。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Choose a <em>newspaper</em> to read.",
+                        "target": "选择一份报纸来读。",
+                        "url": ""
+                    },
+                    {
+                        "source": "What will be in the <em>newspaper</em>?",
+                        "target": "报纸里会有什么？",
+                        "url": ""
+                    },
+                    {
+                        "source": "Think of a name for your <em>newspaper</em>.",
+                        "target": "想一个报纸的名字。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Were the five things in the <em>newspaper</em>?",
+                        "target": "这五件事都在报纸上吗？",
+                        "url": ""
+                    },
+                    {
+                        "source": "Did Mark Twain become a <em>newspaper</em> writer?",
+                        "target": "马克·吐温成为报纸作家了吗？",
+                        "url": ""
+                    },
+                    {
+                        "source": "Chen gave an interview to the local <em>newspaper</em>.",
+                        "target": "陈接受了当地报纸的采访。",
+                        "url": ""
+                    },
+                    {
+                        "source": "What job would you like to have on a <em>newspaper</em>?",
+                        "target": "你想在报纸上做什么工作？",
+                        "url": ""
+                    }
+                ],
+                "baike": {
+                    "showMore": false,
+                    "list": [
+                        {
+                            "lemmaTitle": "newspaper",
+                            "link": "https://baike.sogou.com/v101174374.htm?ch=sogou.fanyi",
+                            "abstract": "newspaper（英[ˈnjuːzpeɪpə]，美[ˈnuːzpeɪpər]），英语单词，名词，译为报纸；报。短语搭配有newspaper article（报纸文章）。例句为“Cherish the newspaper still in your hand.（珍惜你手中的报纸。）” 该单词名词的近义词为paper、courant，复数形式为newspapers。",
+                            "wapPic": "//img01.sogoucdn.com/v2/thumb/retype_exclude_gif/ext/auto/q/80/crop/xy/ai/w/140/h/140/resize/w/140?appid=201005&sign=29577f9617c11ff34a01895fb42e6ef3&url=http%3A%2F%2Fpic.baike.soso.com%2Fugc%2Fbaikepic2%2F0%2F20230505211319-251964946_jpeg_504_450_31637.jpg%2F0",
+                            "pcPic": "//img01.sogoucdn.com/v2/thumb/retype_exclude_gif/ext/auto/q/80/crop/xy/ai/w/140/h/140/resize/w/140?appid=201005&sign=29577f9617c11ff34a01895fb42e6ef3&url=http%3A%2F%2Fpic.baike.soso.com%2Fugc%2Fbaikepic2%2F0%2F20230505211319-251964946_jpeg_504_450_31637.jpg%2F0"
+                        }
+                    ]
+                }
+            },
+            "book": {
+                "yingyinNormal": [
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/efb46b0d09a0d16595177f67fa563c67_36206.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/c2bcb4d35d98380ca5339009924aae33_1339.mp3",
+                        "isLavafox": true,
+                        "en": "Daddy, we need your <em>newspaper</em>. What for? Making paper aeroplanes.",
+                        "zh": "爸爸，可以把你的报纸给我们吗？干什么。我们想用你的报纸来折纸飞机。",
+                        "videoNameZh": "《100天养成流利口语》",
+                        "videoNameEn": "《Get fluent spoken English in 100 days》",
+                        "url": "http://bisentence_movie.sogou.com/ef155fd55769b453b4562eada4bf5602_ba473be156f43b72d6e8f79cd37119c77e90fe23"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/a3f6ca8d0ebaa5b0956976d643673427_52102.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/82577b786c6118a397af4b8be9966b4c_57439.mp3",
+                        "isLavafox": true,
+                        "en": "Daddy, we need your <em>newspaper</em>. What for? Making paper aeroplanes.",
+                        "zh": "爸爸，可以把你的报纸给我们吗。干什么。我们想用你的报纸来折纸飞机。哦呵呵哈哈。",
+                        "videoNameZh": "《小猪佩奇 第三季》",
+                        "videoNameEn": "《Peppa Pig Season 3》",
+                        "url": "http://bisentence_movie.sogou.com/45cc9b69606daa873bdfbb8e961ce2a5_9a45ca7a4486abbb1dd53d3d671668e8045e45d6"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/79503c1e736da4c03e70d85340fb568d_45273.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/f2d916486e97d78b4d3a068a07b57550_63553.mp3",
+                        "isLavafox": true,
+                        "en": "I mean, really, USA Today, that's the nice <em>newspaper</em>.",
+                        "zh": "我就纳闷了《今日美国》这样的好报纸居然也这样。",
+                        "videoNameZh": "《奥普拉演讲》",
+                        "videoNameEn": "《Oprah Winfrey Speech at Harvard》",
+                        "url": "http://bisentence_movie.sogou.com/8b9513159945463908561a0af88f3e45_6007f30317eac782237623128d713128adaf44f5"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/5440028de015a767476054a27cf789d8_26933.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/8d6deb5b75390747e10cf4b263f3a095_56290.mp3",
+                        "isLavafox": true,
+                        "en": "Actually, I think there's something about George in this <em>newspaper</em>.",
+                        "zh": "你来看看，这报纸上好像有点关于乔治的消息。",
+                        "videoNameZh": "《小猪佩奇 第一季》",
+                        "videoNameEn": "《Peppa Pig Season 1》",
+                        "url": "http://bisentence_movie.sogou.com/1f5d35111a7593d2ef74d44f7c6798e4_1b036d8e35d43adff5bf850d7cf0b20dcb2d3cd7"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/b73d6e20976b7ffe4e651b29ea5ddefc_31309.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/b7bf3c92a4d215676a72e3756ae19359_51412.mp3",
+                        "isLavafox": true,
+                        "en": "Can you find a <em>newspaper</em> for the red box? George wants to recycle Daddy Pig's <em>newspaper</em>.",
+                        "zh": "找份放进红色箱子的报纸?乔治想回收爸爸的报纸。",
+                        "videoNameZh": "《粉红猪小妹 第二季》",
+                        "videoNameEn": "《Peppa Pig Season 2》",
+                        "url": "http://bisentence_movie.sogou.com/e0780060a5d357c2eb4ee8afea842fb2_8444105417a1a2dfb3fc2a3f08d999ac8df48f04"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/efb46b0d09a0d16595177f67fa563c67_36206.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/9f6c34d44cf41ebbbfec335dc93707d6_64320.mp3",
+                        "isLavafox": true,
+                        "en": "Can you find a <em>newspaper</em> for the red box? George wants to recycle Daddy Pig's <em>newspaper</em>.",
+                        "zh": "找份放进红色箱子的报纸?乔治想回收爸爸的报纸。",
+                        "videoNameZh": "《100天养成流利口语》",
+                        "videoNameEn": "《Get fluent spoken English in 100 days》",
+                        "url": "http://bisentence_movie.sogou.com/7e245b189c23d44d6346d861ba21e6e4_6e8e40fe46e32b25724cfabc96fadb78753e00f4"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/a3f6ca8d0ebaa5b0956976d643673427_52102.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/632357789d49619aa194b48adbd4f20f_61916.mp3",
+                        "isLavafox": true,
+                        "en": "Do you need anything from the shops? Maybe a <em>newspaper</em>, and comic <em>Newspaper</em>, comic.",
+                        "zh": "需要帮你们从超市带点什么吗。也许我需要一份报纸吧，还有漫画。一份报纸，漫画。",
+                        "videoNameZh": "《小猪佩奇 第三季》",
+                        "videoNameEn": "《Peppa Pig Season 3》",
+                        "url": "http://bisentence_movie.sogou.com/b09e180a03ace2dff44c68c76338de56_149b73208f30cb8970e51ad91a4c0959589c7a53"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/b73d6e20976b7ffe4e651b29ea5ddefc_31309.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/a4fdc042cb7ed0b2100a537b3c0ef6ed_45465.mp3",
+                        "isLavafox": true,
+                        "en": "Daddy pig is reading his <em>newspaper</em>. You could have my <em>newspaper</em> when I finish reading it. All right. Hooray. Now we can start painting.",
+                        "zh": "猪爸爸正在看报纸。等我看完了报纸你们就可以拿去用了。看好！好嘞！现在我们可以开始画画啦！",
+                        "videoNameZh": "《粉红猪小妹 第二季》",
+                        "videoNameEn": "《Peppa Pig Season 2》",
+                        "url": "http://bisentence_movie.sogou.com/df496373e42e782f52ba3ae452710c69_bb38ab240573106f5f42ec2af273d897f7878990"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/b73d6e20976b7ffe4e651b29ea5ddefc_31309.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/37e4751bc5277f3449152f065ba01c13_2443.mp3",
+                        "isLavafox": true,
+                        "en": "We need some old <em>newspaper</em> to put on the table. Yes.",
+                        "zh": "我们需要在餐桌上放一些旧的报纸。没错。",
+                        "videoNameZh": "《粉红猪小妹 第二季》",
+                        "videoNameEn": "《Peppa Pig Season 2》",
+                        "url": "http://bisentence_movie.sogou.com/2e3b1cce1cf75922cb615cfebbf9ea12_2abe4f26c51ad3982284295b767f1c795772ac18"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/a3f6ca8d0ebaa5b0956976d643673427_52102.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/20d4b9ffe78237f8989000626ef85cc3_52579.mp3",
+                        "isLavafox": true,
+                        "en": "It is a lovely sunny morning. And Daddy Pig is reading his <em>newspaper</em>.",
+                        "zh": "今天是个阳光明媚的早晨。猪爸爸正在看他的报纸。",
+                        "videoNameZh": "《小猪佩奇 第三季》",
+                        "videoNameEn": "《Peppa Pig Season 3》",
+                        "url": "http://bisentence_movie.sogou.com/a06a73ced80193f9ac65e48e528d648c_102caee75539bfeceb045834615919b24a777821"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/efb46b0d09a0d16595177f67fa563c67_36206.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/77339e84c837e98619162322df26fe51_52180.mp3",
+                        "isLavafox": true,
+                        "en": "Daddy Pig is in the sitting room, reading his <em>newspaper</em>. Mummy Pig is reading her book.",
+                        "zh": "猪爸爸在客厅里面看报纸。猪妈妈在看书。",
+                        "videoNameZh": "《100天养成流利口语》",
+                        "videoNameEn": "《Get fluent spoken English in 100 days》",
+                        "url": "http://bisentence_movie.sogou.com/3ab10739e845a6b7f9322059398aaff6_1affbfd0708f1c15ee69f76c43f26878e038a706"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/efb46b0d09a0d16595177f67fa563c67_36206.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/46115121c039a2a7e1441748a0a67719_34991.mp3",
+                        "isLavafox": true,
+                        "en": "I haven't finished with my <em>newspaper</em> just yet, George. You can have it in a minute.",
+                        "zh": "我的报纸还没看完不能给你，乔治。你得等一下。",
+                        "videoNameZh": "《100天养成流利口语》",
+                        "videoNameEn": "《Get fluent spoken English in 100 days》",
+                        "url": "http://bisentence_movie.sogou.com/7c9cd48f2c9cbaa12672a86bbf67e8ce_d0b8b3a54b955d8bd8a78091cb8d1869c648187f"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/3bccca9abe5ab96bd7f3eaed6bd40cf2_52899.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/620a3e7c3e1e6bb604278260b7092ea0_31809.mp3",
+                        "isLavafox": true,
+                        "en": "Mine stole my <em>newspaper</em>. It's like a crime wave. Pheebs, you got a second? Sure.",
+                        "zh": "我的邻居偷走我的报纸，这简直是犯罪潮，菲比，你有空吗？当然有。",
+                        "videoNameZh": "《老友记 第七季》",
+                        "videoNameEn": "《Friends Season 7》",
+                        "url": "http://bisentence_movie.sogou.com/31858ae7f3878e1662b4c355286a71f0_c26f9e9cb515b817140309a3c1d760e7c078647a"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/a3f6ca8d0ebaa5b0956976d643673427_52102.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/08b02d170d578720e92c547feaa9f6e2_13833.mp3",
+                        "isLavafox": true,
+                        "en": "Cheese. Thank you, Peppa. You are a good... <em>Newspaper</em> and comic. Thanks, Peppa.",
+                        "zh": "奶酪来了，谢谢佩奇，你真是个好孩子。报纸还有漫画。谢谢你，佩奇。",
+                        "videoNameZh": "《小猪佩奇 第三季》",
+                        "videoNameEn": "《Peppa Pig Season 3》",
+                        "url": "http://bisentence_movie.sogou.com/808043fa3ea49ecad1d796da95b6998f_604b97cddd1ed028e54a858b9ab273f2ab338ac9"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/a3f6ca8d0ebaa5b0956976d643673427_52102.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/b965c3801fc0bfbcc967d6423391baf8_18823.mp3",
+                        "isLavafox": true,
+                        "en": "Daddy what are you doing? I'm reading the <em>newspaper</em>. You are making a funny sound.",
+                        "zh": "爸爸，你在干什么呀？我正在看报纸呢。你怎么发出了很奇怪的声音啊。",
+                        "videoNameZh": "《小猪佩奇 第三季》",
+                        "videoNameEn": "《Peppa Pig Season 3》",
+                        "url": "http://bisentence_movie.sogou.com/56b27dc6aa7c7743e23a5adaba7d9fb7_f3174ebf46573c9b2d7ce41dd904a14a2a0431b8"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/b73d6e20976b7ffe4e651b29ea5ddefc_31309.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/a215ea25599b9615f5416cf32723568f_1830.mp3",
+                        "isLavafox": true,
+                        "en": "Rebecca Rabbit does not have a boat. I've got an idea. Luckily I've brought my <em>newspaper</em> along.",
+                        "zh": "小腿瑞贝卡没有船。我有一个主意。我真好带了我的报纸过来。",
+                        "videoNameZh": "《粉红猪小妹 第二季》",
+                        "videoNameEn": "《Peppa Pig Season 2》",
+                        "url": "http://bisentence_movie.sogou.com/283dbaf01631c211cd581b4acd79f15a_96624edd3fd976419ed62f2192e4aacd55761f94"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/b73d6e20976b7ffe4e651b29ea5ddefc_31309.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/7c35f16054a89e125009d57d9e88fa63_37803.mp3",
+                        "isLavafox": true,
+                        "en": "Daddy Pig is going to read his <em>newspaper</em>. What a nice day for doing nothing. Daddy Pig loves doing nothing.",
+                        "zh": "猪爸爸准备要看报纸了。今天天真好，真该什么都不做。",
+                        "videoNameZh": "《粉红猪小妹 第二季》",
+                        "videoNameEn": "《Peppa Pig Season 2》",
+                        "url": "http://bisentence_movie.sogou.com/767f2b65bd2e09adcadd9a90c72f41cb_ee73eb92910a2f69d54a96b060812795845e3b32"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/b73d6e20976b7ffe4e651b29ea5ddefc_31309.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/4c95b8de4cac0176482f0fd0314f4eb7_55109.mp3",
+                        "isLavafox": true,
+                        "en": "When I was a little piggy, I used to fold <em>newspaper</em> like this. What is Daddy Pig doing? To make a paper boat. Daddy Pig has made a paper boat. Thank you, Mr. Pig.",
+                        "zh": "我记得在我小时候，我经常会用报纸做手工 就像这样。猪爸爸要做什么？我要做一艘船。猪爸爸用报纸做了一艘纸船。谢谢你，猪爸爸。",
+                        "videoNameZh": "《粉红猪小妹 第二季》",
+                        "videoNameEn": "《Peppa Pig Season 2》",
+                        "url": "http://bisentence_movie.sogou.com/2262a963db9390ab0ceef381d6128d56_cd32ac6d18f882eafad5945f792a6ab3c88487bf"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/b73d6e20976b7ffe4e651b29ea5ddefc_31309.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/04394ea26e2fb7158fe0d9b3042f47bc_17286.mp3",
+                        "isLavafox": true,
+                        "en": "I haven't finished with my <em>newspaper</em> just yet, George. You can have it in a minute. Oh, all right. Here you are, George.",
+                        "zh": "我的报纸还没看完不能给你，乔治。你得等一下。看完了。拿去吧，乔治。",
+                        "videoNameZh": "《粉红猪小妹 第二季》",
+                        "videoNameEn": "《Peppa Pig Season 2》",
+                        "url": "http://bisentence_movie.sogou.com/694c02b47274ad51da9ef90efa933efd_02e3da7b504e5871851108184573af0c942da0a6"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/efb46b0d09a0d16595177f67fa563c67_36206.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/3259afe89c58d42d896e282715aa584d_65514.mp3",
+                        "isLavafox": true,
+                        "en": "Peppa and George are looking for Daddy's glasses. Peppa looks under the <em>newspaper</em>. But Daddy Pig's glasses are not there. Oh.",
+                        "zh": "佩奇和乔治开始帮爸爸找眼镜了，佩奇找了报纸底下，但是爸爸的眼镜不在这。噢。",
+                        "videoNameZh": "《100天养成流利口语》",
+                        "videoNameEn": "《Get fluent spoken English in 100 days》",
+                        "url": "http://bisentence_movie.sogou.com/006bd75ca8d15eb090d20dde1af23eab_842b72eb53c69c4e3e6f6c19ad55ded38de99e91"
+                    }
+                ]
+            },
+            "pic": "",
+            "voice": {
+                "phonetic": [
+                    {
+                        "text": "ˈnjuːzpeɪpə",
+                        "type": "uk",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/3618_newspaper_uk.mp3"
+                    },
+                    {
+                        "text": "ˈnuːzpeɪpər",
+                        "type": "usa",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/3618_newspaper_usa.mp3"
+                    }
+                ]
+            },
+            "dictType": "oxford_buchong",
+            "CET6": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 7,
+                        "pos": "n/v",
+                        "chinese": "报纸; 从事新闻工作",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "newspaper",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2016.6-2023.6年8年间全六级试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight>考纲释义</highlight>\n精选实考、考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2016-2023年51套试卷，包括阅读、听力、翻译等所有题型。\n\n<highlight>真题例句</highlight>\n精选2016-2023年8年间全六级试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 2,
+                "word_family": {
+                    "derivative_info_list": [
+                        {
+                            "derivative_info_list": [],
+                            "word": "newspaper",
+                            "mean": "n. 报纸；报"
+                        },
+                        {
+                            "derivative_info_list": [],
+                            "word": "newsreel",
+                            "mean": "n. 新闻（短）片"
+                        }
+                    ],
+                    "word": "news",
+                    "mean": "n. 新闻；消息；新情况；新闻报道；新闻节目；新闻事件；新闻广播；新闻人物"
+                },
+                "total_exam_freq": 7,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "报纸; 从事新闻工作",
+                            "pos": "n/v",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "49 years later, Apollo 11 reached the moon, and the famed <highlight>newspaper</highlight> published an apology to Goddard.",
+                                    "month": 6,
+                                    "source": "CET6",
+                                    "coll": "",
+                                    "sentence_trans": "49年后，阿波罗11号到达月球，这家著名的报纸发表了对Goddard的道歉。",
+                                    "year": 2021,
+                                    "type": "听力",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Indeed, within minutes the fire occupied headlines of every major global <highlight>newspaper</highlight> and television network.",
+                                    "month": 6,
+                                    "source": "CET6",
+                                    "coll": "",
+                                    "sentence_trans": "确实，几分钟之内，大火占据了全球各大报纸和电视网络的头条。",
+                                    "year": 2021,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Two months before he died, <highlight>newspapers</highlight> were reporting that he was working on a \"death ray\".",
+                                    "month": 6,
+                                    "source": "CET6",
+                                    "coll": "",
+                                    "sentence_trans": "在他去世前两个月，报纸报道他正在研究“死亡射线”。",
+                                    "year": 2021,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "word_affix": {
+                    "word": "newspaper",
+                    "sub_affix_info_list": [
+                        {
+                            "affix": "news",
+                            "affix_mean": "n. 新闻",
+                            "sub": {
+                                "word": "news",
+                                "sub_affix_info_list": [
+                                    {
+                                        "affix": "new",
+                                        "affix_mean": "adj. 新的"
+                                    },
+                                    {
+                                        "affix_sense_info": [
+                                            {
+                                                "sample": [],
+                                                "derivatives": "",
+                                                "affix_sense_chinese": "名词复数后缀, 表示数量多于一个",
+                                                "affix_type": "suffix"
+                                            },
+                                            {
+                                                "sample": [
+                                                    {
+                                                        "word": "annals",
+                                                        "mean": "pl-n. 编年史；历史记录；年报"
+                                                    },
+                                                    {
+                                                        "word": "backwards",
+                                                        "mean": "adv. 向后地；往回地；倒回原处地；反向地；回溯；每况愈下地"
+                                                    },
+                                                    {
+                                                        "word": "clothes",
+                                                        "mean": "pl-n. 衣服；服装；被褥"
+                                                    },
+                                                    {
+                                                        "word": "corps",
+                                                        "mean": "n. 军；队；部队；一组；一队；芭蕾舞队；（芭蕾舞团）伴舞队（CORPS DE BALLET的简称）"
+                                                    },
+                                                    {
+                                                        "word": "genetics",
+                                                        "mean": "pl-n. 遗传学；遗传性；遗传现象；遗传特征"
+                                                    },
+                                                    {
+                                                        "word": "perhaps",
+                                                        "mean": "adv. 或许；大概；可能；也许；好像"
+                                                    },
+                                                    {
+                                                        "word": "theirs",
+                                                        "mean": "pron. 他们的；属于他们的；它们的"
+                                                    }
+                                                ],
+                                                "derivatives": "",
+                                                "affix_sense_chinese": "副词后缀, 表示\"时间, 地点, 状态, 方式\"",
+                                                "affix_type": "suffix"
+                                            }
+                                        ],
+                                        "affix": "-s",
+                                        "affix_mean": "名词复数后缀"
+                                    }
+                                ],
+                                "word_mean": "n. 新闻"
+                            }
+                        },
+                        {
+                            "affix": "paper",
+                            "affix_mean": "n. 纸"
+                        }
+                    ],
+                    "word_mean": "n. 报纸"
+                },
+                "disambiguation": [
+                    {
+                        "disambiguation_list": [
+                            {
+                                "word": "journal",
+                                "sense_disambiguation": "本义为\"日报\", 现在可指定期发生的周刊、月刊、季刊等或指学术团体出版的刊物、杂志或学报。"
+                            },
+                            {
+                                "word": "magazine",
+                                "sense_disambiguation": "指刊登各种文章、小说、诗歌、评议的杂志, 通常指周刊或月刊。"
+                            },
+                            {
+                                "word": "newspaper",
+                                "sense_disambiguation": "一般指每日出版的报纸。"
+                            }
+                        ],
+                        "sense_group": "出版物"
+                    }
+                ]
+            },
+            "CET4": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 7,
+                        "pos": "n/v",
+                        "chinese": "报纸; 从事新闻工作",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "newspaper",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2016.6-2023.6年8年间全四级试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight>考纲释义</highlight>\n精选实考、考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2016-2023年51套试卷，包括阅读、听力、翻译等所有题型。\n\n<highlight>真题例句</highlight>\n精选2016-2023年8年间试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 2,
+                "word_family": {
+                    "derivative_info_list": [
+                        {
+                            "derivative_info_list": [],
+                            "word": "newspaper",
+                            "mean": "n. 报纸；报"
+                        }
+                    ],
+                    "word": "news",
+                    "mean": "n. 新闻；消息；新情况；新闻报道；新闻节目；新闻事件；新闻广播；新闻人物"
+                },
+                "total_exam_freq": 7,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "报纸; 从事新闻工作",
+                            "pos": "n/v",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "For today's youth, books, <highlight>newspapers</highlight> and magazines have less and less of a presence in their daily lives.",
+                                    "month": 12,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "对于今天的年轻人来说，书籍、报纸和杂志在他们的日常生活中越来越少地出现。",
+                                    "year": 2021,
+                                    "type": "阅读理解B",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "In 1980, about 60 percent of senior high school students said they read a book, <highlight>newspaper</highlight> or magazine every day.",
+                                    "month": 12,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "1980年，大约60%的高中生说他们每天读一本书、报纸或杂志。",
+                                    "year": 2021,
+                                    "type": "阅读理解B",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "It is important to note that this was not merely a decline in reading paper books, <highlight>newspapers</highlight> or magazines.",
+                                    "month": 12,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "值得注意的是，这不仅仅是纸质书籍、报纸或杂志阅读量的下降。",
+                                    "year": 2021,
+                                    "type": "阅读理解B",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "word_affix": {
+                    "word": "newspaper",
+                    "sub_affix_info_list": [
+                        {
+                            "affix": "news",
+                            "affix_mean": "n. 新闻",
+                            "sub": {
+                                "word": "news",
+                                "sub_affix_info_list": [
+                                    {
+                                        "affix": "new",
+                                        "affix_mean": "adj. 新的"
+                                    },
+                                    {
+                                        "affix_sense_info": [
+                                            {
+                                                "sample": [],
+                                                "derivatives": "",
+                                                "affix_sense_chinese": "名词复数后缀, 表示数量多于一个",
+                                                "affix_type": "suffix"
+                                            },
+                                            {
+                                                "sample": [
+                                                    {
+                                                        "word": "annals",
+                                                        "mean": "pl-n. 编年史；历史记录；年报"
+                                                    },
+                                                    {
+                                                        "word": "backwards",
+                                                        "mean": "adv. 向后地；往回地；倒回原处地；反向地；回溯；每况愈下地"
+                                                    },
+                                                    {
+                                                        "word": "clothes",
+                                                        "mean": "pl-n. 衣服；服装；被褥"
+                                                    },
+                                                    {
+                                                        "word": "corps",
+                                                        "mean": "n. 军；队；部队；一组；一队；芭蕾舞队；（芭蕾舞团）伴舞队（CORPS DE BALLET的简称）"
+                                                    },
+                                                    {
+                                                        "word": "genetics",
+                                                        "mean": "pl-n. 遗传学；遗传性；遗传现象；遗传特征"
+                                                    },
+                                                    {
+                                                        "word": "perhaps",
+                                                        "mean": "adv. 或许；大概；可能；也许；好像"
+                                                    },
+                                                    {
+                                                        "word": "theirs",
+                                                        "mean": "pron. 他们的；属于他们的；它们的"
+                                                    }
+                                                ],
+                                                "derivatives": "",
+                                                "affix_sense_chinese": "副词后缀, 表示\"时间, 地点, 状态, 方式\"",
+                                                "affix_type": "suffix"
+                                            }
+                                        ],
+                                        "affix": "-s",
+                                        "affix_mean": "名词复数后缀"
+                                    }
+                                ],
+                                "word_mean": "n. 新闻"
+                            }
+                        },
+                        {
+                            "affix": "paper",
+                            "affix_mean": "n. 纸"
+                        }
+                    ],
+                    "word_mean": "n. 报纸"
+                },
+                "disambiguation": [
+                    {
+                        "disambiguation_list": [
+                            {
+                                "word": "journal",
+                                "sense_disambiguation": "本义为\"日报\"，现在可指定期发生的周刊、月刊、季刊等或指学术团体出版的刊物、杂志或学报。"
+                            },
+                            {
+                                "word": "magazine",
+                                "sense_disambiguation": "指刊登各种文章、小说、诗歌、评议的杂志，通常指周刊或月刊。"
+                            },
+                            {
+                                "word": "newspaper",
+                                "sense_disambiguation": "一般指每日出版的报纸。"
+                            }
+                        ],
+                        "sense_group": "出版物"
+                    }
+                ]
+            },
+            "gaokao": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 17,
+                        "pos": "cn",
+                        "chinese": "报纸",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "newspaper",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2015-2022年8年间全国卷和自主命题省市高考卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2015-2022年全国卷高考试卷，包括阅读、完形、单选、填空、听力、改错、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选各省市考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2015-2022年8年间全国卷和自主命题省市高考卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 4,
+                "word_family": {
+                    "derivative_info_list": [
+                        {
+                            "derivative_info_list": [],
+                            "word": "newspaper",
+                            "mean": "n. 报纸；报"
+                        },
+                        {
+                            "derivative_info_list": [],
+                            "word": "newsman",
+                            "mean": "n. 新闻记者"
+                        }
+                    ],
+                    "word": "news",
+                    "mean": "n. 新闻；消息；新情况；新闻报道；新闻节目；新闻事件；新闻广播；新闻人物"
+                },
+                "total_exam_freq": 17,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "报纸",
+                            "pos": "cn",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "It meant any inexpensive <highlight>newspaper</highlight>; perhaps more importantly it meant newspapers that could be bought in single copies on the street.",
+                                    "month": -1,
+                                    "source": "全国卷3",
+                                    "coll": "",
+                                    "sentence_trans": "这意味着任何便宜的报纸；也许更重要的是，这意味着报纸可以在街上买到。",
+                                    "year": 2019,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "When I came to the US, I was only thinking about being a carpenter, but I could not read the <highlight>newspaper</highlight>.",
+                                    "month": -1,
+                                    "source": "全国卷1",
+                                    "coll": "",
+                                    "sentence_trans": "当我来到美国时，我只想当一名木匠，但我看不懂报纸。",
+                                    "year": 2018,
+                                    "type": "听力",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "I realized this a day later, when I saw <highlight>newspaper</highlight> advertisements for the set at seventy-five dollars less than I had paid.",
+                                    "month": -1,
+                                    "source": "全国卷2",
+                                    "coll": "",
+                                    "sentence_trans": "一天后，当我看到报纸广告说这台电视机比我支付的价格低75美元时，我意识到了这一点。",
+                                    "year": 2015,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "word_affix": {
+                    "word": "newspaper",
+                    "sub_affix_info_list": [
+                        {
+                            "affix": "news",
+                            "affix_mean": "n. 新闻",
+                            "sub": {
+                                "word": "news",
+                                "sub_affix_info_list": [
+                                    {
+                                        "affix": "new",
+                                        "affix_mean": "adj. 新的"
+                                    },
+                                    {
+                                        "affix_sense_info": [
+                                            {
+                                                "sample": [],
+                                                "derivatives": "",
+                                                "affix_sense_chinese": "名词复数后缀, 表示数量多于一个",
+                                                "affix_type": "suffix"
+                                            },
+                                            {
+                                                "sample": [
+                                                    {
+                                                        "word": "annals",
+                                                        "mean": "pl-n. 编年史；历史记录；年报"
+                                                    },
+                                                    {
+                                                        "word": "backwards",
+                                                        "mean": "adv. 向后地；往回地；倒回原处地；反向地；回溯；每况愈下地"
+                                                    },
+                                                    {
+                                                        "word": "clothes",
+                                                        "mean": "pl-n. 衣服；服装；被褥"
+                                                    },
+                                                    {
+                                                        "word": "corps",
+                                                        "mean": "n. 军；队；部队；一组；一队；芭蕾舞队；（芭蕾舞团）伴舞队（CORPS DE BALLET的简称）"
+                                                    },
+                                                    {
+                                                        "word": "genetics",
+                                                        "mean": "pl-n. 遗传学；遗传性；遗传现象；遗传特征"
+                                                    },
+                                                    {
+                                                        "word": "perhaps",
+                                                        "mean": "adv. 或许；大概；可能；也许；好像"
+                                                    },
+                                                    {
+                                                        "word": "theirs",
+                                                        "mean": "pron. 他们的；属于他们的；它们的"
+                                                    }
+                                                ],
+                                                "derivatives": "",
+                                                "affix_sense_chinese": "副词后缀, 表示\"时间, 地点, 状态, 方式\"",
+                                                "affix_type": "suffix"
+                                            }
+                                        ],
+                                        "affix": "-s",
+                                        "affix_mean": "名词复数后缀"
+                                    }
+                                ],
+                                "word_mean": "n. 新闻"
+                            }
+                        },
+                        {
+                            "affix": "paper",
+                            "affix_mean": "n. 纸"
+                        }
+                    ],
+                    "word_mean": "n. 报纸"
+                }
+            },
+            "zhongkao": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 136,
+                        "pos": "cn",
+                        "chinese": "报纸",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "newspaper",
+                "direction_info": {
+                    "ranges": 4,
+                    "description": "数据源自2018-2021年4年间全国各省市中考试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2018-2021年全国重点省市中考试卷，包括听力、阅读、完形、单选、填空、改错、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选各省市考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2018-2021年4年间全国各省市中考试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 5,
+                "word_family": {
+                    "derivative_info_list": [
+                        {
+                            "derivative_info_list": [],
+                            "word": "newspaper",
+                            "mean": "n. 报纸；报"
+                        }
+                    ],
+                    "word": "news",
+                    "mean": "n. 新闻；消息；新情况；新闻报道；新闻节目；新闻事件；新闻广播；新闻人物"
+                },
+                "total_exam_freq": 136,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "报纸",
+                            "pos": "cn",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "A <highlight>newspaper</highlight> reporter said, \"Willard has shown the world that he is special.",
+                                    "month": -1,
+                                    "source": "上海市",
+                                    "coll": "",
+                                    "sentence_trans": "一位报纸记者说：\"威拉德向世界展示了他是特别的。",
+                                    "year": 2020,
+                                    "type": "短文回答问题",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Do you think the use of photocopied (复印的) netbooks and <highlight>newspaper</highlight> articles in the classroom can be accepted?",
+                                    "month": -1,
+                                    "source": "上海卷",
+                                    "coll": "",
+                                    "sentence_trans": "您认为在课堂上使用复印的上网本和报纸文章可以接受吗？",
+                                    "year": 2018,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "A British <highlight>newspaper</highlight> recently asked people for their opinions about them.",
+                                    "month": -1,
+                                    "source": "安徽卷",
+                                    "coll": "",
+                                    "sentence_trans": "一家英国报纸最近询问人们对他们的看法。",
+                                    "year": 2018,
+                                    "type": "阅读理解C",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "word_affix": {
+                    "sub_affix_info_list": [
+                        {
+                            "affix": "news",
+                            "affix_mean": "n. 新闻",
+                            "sub": {
+                                "sub_affix_info_list": [
+                                    {
+                                        "affix": "new",
+                                        "affix_mean": "adj. 新的"
+                                    },
+                                    {
+                                        "affix_sense_info": [
+                                            {
+                                                "sample": [],
+                                                "derivatives": "",
+                                                "affix_sense_chinese": "名词复数后缀, 表示数量多于一个",
+                                                "affix_type": "suffix"
+                                            },
+                                            {
+                                                "sample": [
+                                                    {
+                                                        "word": "annals",
+                                                        "mean": "pl-n. 编年史；历史记录；年报"
+                                                    },
+                                                    {
+                                                        "word": "backwards",
+                                                        "mean": "adv. 向后地；往回地；倒回原处地；反向地；回溯；每况愈下地"
+                                                    },
+                                                    {
+                                                        "word": "clothes",
+                                                        "mean": "pl-n. 衣服；服装；被褥"
+                                                    },
+                                                    {
+                                                        "word": "corps",
+                                                        "mean": "n. 军；队；部队；一组；一队；芭蕾舞队；（芭蕾舞团）伴舞队（CORPS DE BALLET的简称）"
+                                                    },
+                                                    {
+                                                        "word": "genetics",
+                                                        "mean": "pl-n. 遗传学；遗传性；遗传现象；遗传特征"
+                                                    },
+                                                    {
+                                                        "word": "perhaps",
+                                                        "mean": "adv. 或许；大概；可能；也许；好像"
+                                                    },
+                                                    {
+                                                        "word": "theirs",
+                                                        "mean": "pron. 他们的；属于他们的；它们的"
+                                                    }
+                                                ],
+                                                "derivatives": "",
+                                                "affix_sense_chinese": "副词后缀, 表示\"时间, 地点, 状态, 方式\"",
+                                                "affix_type": "suffix"
+                                            }
+                                        ],
+                                        "affix": "-s",
+                                        "affix_mean": "名词复数后缀"
+                                    }
+                                ],
+                                "word": "news",
+                                "word_mean": "n. 新闻"
+                            }
+                        },
+                        {
+                            "affix": "paper",
+                            "affix_mean": "n. 纸"
+                        }
+                    ],
+                    "word": "newspaper",
+                    "word_mean": "n. 报纸"
+                },
+                "word_usage": [
+                    {
+                        "usage": "news和paper都是不可数名词，但newspaper是可数名同。"
+                    }
+                ]
+            },
+            "sentencesData": {
+                "status": 1,
+                "info": "notZh2En",
+                "data": {}
+            },
+            "isAutoMatch": false,
+            "Zh2En": false
+        },
+        "query": "newspaper",
+        "result": "报纸",
+        "tabSelect": "detail",
+        "dictionaryType": "oxford_buchong",
+        "notFound_show": false,
+        "phoneticShow": "",
+        "globalShowTranslateRecord": "",
+        "pronPrefer": {
+            "type": "usa_1",
+            "speaker": "male",
+            "speed": "standard"
+        },
+        "ServerRecord": "",
+        "ServerUIGS": {
+            "version": "new",
+            "type": "all",
+            "stype": "success",
+            "terminal": "web",
+            "fr": "default",
+            "direction": "etoz",
+            "from": "en",
+            "to": "zh-CHS",
+            "len": 9,
+            "qtype": "text",
+            "qctype": "qc_1",
+            "dict_cover": 1,
+            "detail": 1,
+            "wordCardCover": 1,
+            "wordCardEn": 1,
+            "wordCardCh": 0,
+            "wordCardMinor": 0,
+            "wordCardNetmean": 0,
+            "wordDeform": 1,
+            "keyword": 0,
+            "bilingual": 1,
+            "simple": 0,
+            "levelList": 1,
+            "synonym": 1,
+            "antonym": 0,
+            "conjugate": 1,
+            "rootaffix": 1,
+            "baike_sogou": 1,
+            "baike_wiki": 0,
+            "wordDifference": 1,
+            "word_phrase": 1,
+            "secondQuery": 0,
+            "dict_oxford": 0,
+            "dict_newcentury": 0,
+            "zhongkaotab": 1,
+            "gaokaotab": 1,
+            "CET4tab": 1,
+            "CET6tab": 1,
+            "kaoyantab": 0,
+            "network_tab": 0,
+            "yinying_tab": 1,
+            "tuozhan_tab": 0,
+            "one_pic": 0,
+            "more_pic": 0,
+            "no_pic": 0,
+            "uuid": "11260a63-f01d-4934-95e8-4e90bdfb8c8d",
+            "from_type": 0,
+            "t_trans_ssr": 173
+        },
+        "ServerModelUIGS": {
+            "terminal": "web",
+            "type": "trans_model",
+            "pbtype": "pv",
+            "model_general": 1,
+            "model_medical": 1,
+            "model_finance": 1
+        },
+        "ServerSgtkn": "64F01F8AA2600EA6ADAA85178C6E5EE5ADD79ACD67552802",
+        "suggShow": false,
+        "suggestion": "",
+        "suggDirection": "",
+        "usualTop": "",
+        "baseDict": "",
+        "wordCardClick": false,
+        "isFrInput": false,
+        "kanaTips": {
+            "show": false,
+            "left": "",
+            "top": "",
+            "type": "",
+            "arrowLeft": ""
+        },
+        "currSentenceIndex": -1,
+        "prefixStrObj": {
+            "prefixStr": "",
+            "oriPrefixStr": ""
+        },
+        "selectTransBox": {
+            "show": false,
+            "right": 0,
+            "top": 0,
+            "paraphraseInfo": {
+                "word": "",
+                "from": "",
+                "to": "",
+                "area": ""
+            }
+        },
+        "sentenceLoading": false,
+        "newSentenceInfo": {
+            "sentence": "",
+            "candidateIndex": 0
+        },
+        "moreTipInfo": {
+            "opacity": 0,
+            "zIndex": -1
+        },
+        "paraphraseShowInfo": {
+            "card": 0,
+            "query": "",
+            "card_dict": 0
+        },
+        "selectType": "",
+        "wordPos": 0,
+        "candidateWord": "",
+        "syntaxVisible": false,
+        "syntaxStatus": 0
+    },
+    "language": {
+        "from": "auto",
+        "to": "zh-CHS",
+        "detect": "en",
+        "model": "general",
+        "detectShow": false,
+        "langMap": {
+            "current": ""
+        },
+        "zh2en": false,
+        "fromItemList": [
+            {
+                "lang": "auto",
+                "text": "自动检测",
+                "play": false
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "ru",
+                "text": "俄语",
+                "play": true,
+                "abbr": "俄"
+            },
+            {
+                "lang": "ko",
+                "text": "韩语",
+                "play": true,
+                "abbr": "韩"
+            },
+            {
+                "lang": "fr",
+                "text": "法语",
+                "play": true,
+                "abbr": "法"
+            }
+        ],
+        "toItemList": [
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "vi",
+                "text": "越南语",
+                "play": true,
+                "abbr": "越"
+            },
+            {
+                "lang": "ru",
+                "text": "俄语",
+                "play": true,
+                "abbr": "俄"
+            },
+            {
+                "lang": "fr",
+                "text": "法语",
+                "play": true,
+                "abbr": "法"
+            }
+        ]
+    },
+    "voice": {
+        "from": {
+            "lang": "en",
+            "type": "from",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22newspaper%22%2C%22spokenDialect%22%3A%22en%22%2C%22rate%22%3A%220.8%22%7D",
+            "list": [
+                {
+                    "type": "uk_0",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "ˈnjuːzpeɪpə",
+                    "abbr": "英",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/3618_newspaper_uk.mp3"
+                },
+                {
+                    "type": "usa_1",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "ˈnuːzpeɪpər",
+                    "abbr": "美",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/3618_newspaper_usa.mp3"
+                }
+            ],
+            "stype": "phonetic",
+            "phoneticShow": [
+                {
+                    "text": "ˈnjuːzpeɪpə",
+                    "type": "uk",
+                    "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/3618_newspaper_uk.mp3"
+                },
+                {
+                    "text": "ˈnuːzpeɪpər",
+                    "type": "usa",
+                    "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/3618_newspaper_usa.mp3"
+                }
+            ]
+        },
+        "to": {
+            "lang": "zh",
+            "type": "to",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22%E6%8A%A5%E7%BA%B8%22%2C%22spokenDialect%22%3A%22zh-CHS%22%2C%22rate%22%3A%220.8%22%7D",
+            "stype": "normal"
+        }
+    }
+}

@@ -1,0 +1,1288 @@
+{
+    "route": {
+        "name": "text",
+        "path": "/text",
+        "hash": "",
+        "query": {
+            "keyword": "someone",
+            "transfrom": "auto",
+            "transto": "zh-CHS",
+            "model": "general",
+            "errcode": "s10"
+        },
+        "params": {},
+        "fullPath": "/text?keyword=someone&transfrom=auto&transto=zh-CHS&model=general&errcode=s10",
+        "meta": {
+            "mtype": [
+                "textTranslate",
+                "language",
+                "voice"
+            ]
+        },
+        "from": {
+            "name": null,
+            "path": "/",
+            "hash": "",
+            "query": {},
+            "params": {},
+            "fullPath": "/",
+            "meta": {}
+        }
+    },
+    "common": {
+        "CONFIG": {
+            "wuid": 1733634366892,
+            "loginInfo": {},
+            "isIE": 0,
+            "isHitSsrSwitch": true,
+            "isHitWritebookSwitch": false,
+            "isHitAmsSwitch": true,
+            "promotionList": "{\n    \"pc_bottom\":{\n        \"imgsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\",\n        \"qcsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\"\n    },\n    \"pc_middle\":[\n        {\n            \"src\":\"//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c\",\n            \"bgColor\":\"#ffffff\",\n            \"link\":\"\"\n        }\n    ],\n    \"pc_survey\":{\n        \"icon\":\"//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750\",\n        \"link\":\"https://wj.qq.com/s2/8193148/806d/\"\n    }\n}",
+            "bannerData": [],
+            "isHitAsideSurvey": false,
+            "secretCode": 109984457,
+            "uuid": "68e5c5f8-3ec4-4a2d-894b-834528a0faa5",
+            "referer": "",
+            "approveToken": "64F169169A59379E9592BC2EA10E45E495E8F98F6755293E",
+            "loadTime": 1733634366894,
+            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0",
+            "fcp": "31.223.184.69",
+            "temporaryId": "",
+            "fileId": ""
+        },
+        "hotWords": [],
+        "isFromCollect": false,
+        "psdModify": {
+            "currentStep": 1,
+            "scode": "",
+            "username": ""
+        },
+        "loginStatus": true,
+        "feedBackModule": false,
+        "showPromotionPopup": {
+            "show": false,
+            "type": ""
+        },
+        "showPromotionPCDownload": false,
+        "showShareBomb": false,
+        "shareData": null,
+        "showAppDownLoad": false,
+        "showLoginDialog": false,
+        "showLoading": {
+            "show": false
+        },
+        "toast": {
+            "show": false,
+            "text": "",
+            "loading": false
+        },
+        "modelToast": {
+            "show": false,
+            "text": ""
+        },
+        "selectionGlobalShow": true,
+        "selectionInfo": {
+            "left": 0,
+            "top": 0,
+            "show": false,
+            "from": "",
+            "to": "",
+            "val": "",
+            "area": ""
+        },
+        "showConfirmDialog": false,
+        "promotionList": {
+            "pc_bottom": {
+                "imgsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png",
+                "qcsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png"
+            },
+            "pc_middle": [
+                {
+                    "src": "//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c",
+                    "bgColor": "#ffffff",
+                    "link": ""
+                }
+            ],
+            "pc_survey": {
+                "icon": "//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750",
+                "link": "https://wj.qq.com/s2/8193148/806d/"
+            }
+        },
+        "transTypeTxt": "text",
+        "fixedTabStatus": 0,
+        "bodyTop": 0,
+        "ifHideUserOperation": false
+    },
+    "textTranslate": {
+        "prevTransQuery": "",
+        "translateData": {
+            "translate": {
+                "zly": "zly",
+                "errorCode": "0",
+                "qc_type": "1",
+                "index": "content0",
+                "from": "en",
+                "source": "sogou",
+                "text": "someone",
+                "to": "zh-CHS",
+                "id": "68e5c5f8-3ec4-4a2d-894b-834528a0faa5",
+                "dit": "有人",
+                "orig_text": "someone",
+                "md5": ""
+            },
+            "detect": {
+                "zly": "zly",
+                "detect": "en",
+                "errorCode": "0",
+                "language": "英语",
+                "id": "2198eb00-b522-11ef-bb31-effc20cb6402",
+                "text": "someone"
+            },
+            "sgtkn": "64F169199A59379E9592BC2EA10E45E495E8F98F6755293E",
+            "wordCard": {
+                "title": "someone",
+                "show": true,
+                "usualDict": [
+                    {
+                        "values": [
+                            "某人；有人；一个人；某个人"
+                        ],
+                        "pos": "pron."
+                    }
+                ],
+                "secondQuery": "",
+                "exchange": {},
+                "levelList": [
+                    "小学",
+                    "初中",
+                    "高中",
+                    "四级",
+                    "六级",
+                    "考研"
+                ]
+            },
+            "detail": {
+                "affix": {
+                    "word": "someone",
+                    "sub_affix_info_list": [
+                        {
+                            "affix": "some",
+                            "affix_mean": "det. 若干"
+                        },
+                        {
+                            "affix": "one",
+                            "affix_mean": "num. 一"
+                        }
+                    ],
+                    "word_mean": "pron. 某人"
+                },
+                "word_group": [
+                    {
+                        "brief_definition": "给某人某物",
+                        "phrase": "give something to someone",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "步某人后尘；走某人走过的路；继承事业",
+                        "phrase": "follow in someone's footsteps",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "给某人某物",
+                        "phrase": "give someone something",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "割伤, 打伤；超车后从近处抢道",
+                        "phrase": "cut someone up",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "对…冷淡, 同…疏远",
+                        "phrase": "keep someone at a distance",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "给...穿上",
+                        "phrase": "dress someone in",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "中断(电话通话), 挂断；打断某人讲话；使隔绝",
+                        "phrase": "cut someone off",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "召唤某人；命令工人罢工；向…挑战要求进行决斗",
+                        "phrase": "call someone out",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "短暂拜访",
+                        "phrase": "call in on someone",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "因某事责备某人",
+                        "phrase": "blame someone for something",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "赞同某人；听懂；理解某人讲的话",
+                        "phrase": "be with someone",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "判处监禁",
+                        "phrase": "send someone up",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "斥责（或惩罚）某人",
+                        "phrase": "give it to someone",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "告诉某人",
+                        "phrase": "let someone know",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "指派；让对方先击球",
+                        "phrase": "put someone in",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "骗人",
+                        "phrase": "have someone on",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "使（选手）出赛",
+                        "phrase": "put someone on",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "使苏醒",
+                        "phrase": "bring someone to",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "直视某人",
+                        "phrase": "look someone in the eye",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "开除学生；判处监禁",
+                        "phrase": "send someone down",
+                        "pos": ""
+                    }
+                ],
+                "bilingual": [
+                    {
+                        "source": "I can ask who <em>someone</em> is.",
+                        "target": "我可以问某人是谁。",
+                        "url": ""
+                    },
+                    {
+                        "source": "You might know <em>someone</em> well.",
+                        "target": "你可能很了解某人。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Let's make <em>someone</em> happy today.",
+                        "target": "今天让我们让某人开心。",
+                        "url": ""
+                    },
+                    {
+                        "source": "How do you get to know <em>someone</em>'s name?",
+                        "target": "你如何知道某人的名字？",
+                        "url": ""
+                    },
+                    {
+                        "source": "Who told <em>someone</em> to take a break from running?",
+                        "target": "谁告诉某人暂停跑步？",
+                        "url": ""
+                    },
+                    {
+                        "source": "This word refers to the years when <em>someone</em> is young.",
+                        "target": "这个词指的是某人年轻的时候。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Apostrophes are also used to show us that something belongs to <em>someone</em>.",
+                        "target": "撇号也用于表示某物属于某人。",
+                        "url": ""
+                    },
+                    {
+                        "source": "She will speak when she loves <em>someone</em> with all her heart.",
+                        "target": "当她全心全意爱上某人时，她就会说话。",
+                        "url": ""
+                    },
+                    {
+                        "source": "What are you supposed to do when you meet <em>someone</em> for the first time?",
+                        "target": "你第一次见到某人时应该做什么？",
+                        "url": ""
+                    },
+                    {
+                        "source": "In your country, what are you supposed to do when you meet <em>someone</em> for the first time?",
+                        "target": "在你的国家，当你第一次见到某人时，你应该做什么？",
+                        "url": ""
+                    }
+                ],
+                "baike": {
+                    "showMore": true,
+                    "list": [
+                        {
+                            "lemmaTitle": "Someone",
+                            "link": "https://baike.sogou.com/v64823777.htm?ch=sogou.fanyi",
+                            "abstract": "Someone（英 [ˈsʌmwʌn]，美 [ˈsʌmwʌn]），英语单词，作代词为某人；有人；重要的人。例句为Laura, someone is ringing the doorbell.（Laura，有人在按门铃。）",
+                            "wapPic": "",
+                            "pcPic": ""
+                        },
+                        {
+                            "lemmaTitle": "Someone",
+                            "link": "https://baike.sogou.com/v64823780.htm?ch=sogou.fanyi",
+                            "abstract": "　　英文单词释义1代词pron. 某人,有人；2名词n.重要人物,有名气的人。Someone是孙燕姿自己作词作曲的歌曲，开始写给郑秀文，歌名是知道的请告诉我，后来由孙燕姿自己演唱并收录进专辑《Start 自选集》。",
+                            "wapPic": "",
+                            "pcPic": ""
+                        }
+                    ]
+                }
+            },
+            "book": {
+                "yingyinNormal": [
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/ddeda38701415f391059f60a14ca0ada_53507.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/b8d484772a7a323aa5183aabe87448d0_9214.mp3",
+                        "isLavafox": true,
+                        "en": "I think <em>someone</em> owes me an apology.",
+                        "zh": "某人貌似该给我磕头认错哦。",
+                        "videoNameZh": "《生活大爆炸 第八季》",
+                        "videoNameEn": "《The Big Bang Theory Season 8》",
+                        "url": "http://bisentence_movie.sogou.com/4bbf5debcf84a13e53903f2ab165f3b8_b95d262214c1b9ab2d50ea0de74351d455d9dd00"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/79cf900ee00a1a06b4169225ae5cd9e5_3961.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/73c7f9aeccb460d8bac86e0aa27418f2_54118.mp3",
+                        "isLavafox": true,
+                        "en": "She made me baby-proof the whole hotel. <em>Someone</em>'s over-protective.",
+                        "zh": "她让我把整个酒店都做防护了，某人过分保护了。",
+                        "videoNameZh": "《精灵旅社2》",
+                        "videoNameEn": "《Hotel Transylvania 2》",
+                        "url": "http://bisentence_movie.sogou.com/12f8888823f00f01f879cf02962c79b6_7a4114cddc0faed772021bb4b4929d3503a285c4"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/65861602801590fdaf378b1d1c997a40_10433.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/9c8b0e789a11d894cf7a17ffed025a90_11339.mp3",
+                        "isLavafox": true,
+                        "en": "Okay, Name of <em>someone</em> in room. Chandler. Come on, seriously.",
+                        "zh": "好，“说出房里某人的名字”。钱德。拜托，正经一点。",
+                        "videoNameZh": "《老友记 第五季》",
+                        "videoNameEn": "《Friends Season 5》",
+                        "url": "http://bisentence_movie.sogou.com/6ca2746b72184196c059e8e9e1c38f8b_b8391e8c3c61d0ddcfb487bf2f0f5a87d5f68d75"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/ddeda38701415f391059f60a14ca0ada_53507.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/68eb4a31ecb2160c54590696f46ea766_47086.mp3",
+                        "isLavafox": true,
+                        "en": "Apparently <em>someone</em> was being awfully flirty while not wearing their engagement ring, causing another <em>someone</em> to show up here thinking the first <em>someone</em> might be available.",
+                        "zh": "貌似某人没有戴订婚戒，而且整天跟人眉来眼去，所以招惹了那人来到这里，因为他以为某人还单身。",
+                        "videoNameZh": "《生活大爆炸 第八季》",
+                        "videoNameEn": "《The Big Bang Theory Season 8》",
+                        "url": "http://bisentence_movie.sogou.com/705e6c3055856a5329f8270620fd16e3_bd9719af575f789fdeb1dd21b2f626022710fcae"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/35a31fd01d1fc930cd41c58daa5742c9_47480.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/52c9b749c355f9e054d5fb62fce10801_42572.mp3",
+                        "isLavafox": true,
+                        "en": "Think about the last time you judged <em>someone</em> based on their behavior, especially a time when you really feel like you changed your mind about <em>someone</em>.",
+                        "zh": "想一下你上一次根据他人行为，而评断某人的时候尤其是当你真心觉得，你想改变你对某人印象的时候。",
+                        "videoNameZh": "《TED教育》",
+                        "videoNameEn": "《TED-Ed》",
+                        "url": "http://bisentence_movie.sogou.com/aab34690fc9dde66f9320f6195cd2191_c9b67a531953fd6c8460be54cfd25241aa7ea671"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/3cc7f04bc4e6bde5cc691b286df1a676_37630.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/4bcc2008ce1beea298e4ecb657efb88e_62025.mp3",
+                        "isLavafox": true,
+                        "en": "No, you see, <em>someone</em> was supposed to take them down around New Year's, but obviously <em>someone</em> forgot.",
+                        "zh": "不，某人在新年期间就应该把它拿下，她显然是忘了。",
+                        "videoNameZh": "《老友记第一季》",
+                        "videoNameEn": "《Friends Season 1》",
+                        "url": "http://bisentence_movie.sogou.com/1285f92daf65d8965cb32eeae6df441b_15cc901b3f564fd7bc47b36c91ef2da0bf3e952e"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/ed16ac8524b2f1f0c1489640f8396c3f_47421.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/4da5a35c66fa8583f921604454da3fc1_74839.mp3",
+                        "isLavafox": true,
+                        "en": "Oh, <em>someone</em>'s got a lot of fancy new lab equipment. I know.",
+                        "zh": "某人这里多了好多新的酷炫设备啊。对啊。",
+                        "videoNameZh": "《生活大爆炸 第十一季》",
+                        "videoNameEn": "《The Big Bang Theory Season 11》",
+                        "url": "http://bisentence_movie.sogou.com/599893b88bbbcd3762231b24dafd1383_f87ffef45a5f80f021390e773d49ca2358de40f0"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/ddeda38701415f391059f60a14ca0ada_53507.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/493b717d3b380e3437a9c88e4d168316_3768.mp3",
+                        "isLavafox": true,
+                        "en": "Oh, God. Don't make it so hard on her. Look, the first <em>someone</em> is the deceitful you.",
+                        "zh": "别说得这么复杂，某人指的是不忠的你。",
+                        "videoNameZh": "《生活大爆炸 第八季》",
+                        "videoNameEn": "《The Big Bang Theory Season 8》",
+                        "url": "http://bisentence_movie.sogou.com/bec98fe5e580bc1270b3851d60b09691_476d8e04ef6d9dce56545026b1a2c5a4ffb6c05b"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/886b76b0c552c22c57062be63cf27261_37722.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/1079a42ed701b090caf8f7a16b2c70d3_5598.mp3",
+                        "isLavafox": true,
+                        "en": "<em>Someone</em> up there likes me. But people down here are pissed.",
+                        "zh": "那上头的某人还真喜欢我，但是下面的一些人都气死了。",
+                        "videoNameZh": "《老友记 第九季》",
+                        "videoNameEn": "《Friends Season 9》",
+                        "url": "http://bisentence_movie.sogou.com/d2beee09a68b15abf372b834c129da15_5e533d87d8c132e18345273f545291e1f4e53407"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/3bccca9abe5ab96bd7f3eaed6bd40cf2_52899.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/7f039e358e51996bf586dc2d149435b5_3027.mp3",
+                        "isLavafox": true,
+                        "en": "Oh my God. Oh, you say <em>someone</em>'s name enough, they turn around.",
+                        "zh": "我的天啊。只要一直念某人的名字，那个人就会转过身来。",
+                        "videoNameZh": "《老友记 第七季》",
+                        "videoNameEn": "《Friends Season 7》",
+                        "url": "http://bisentence_movie.sogou.com/4087a5e59612b4270657bb230d9a7262_ea7346cf7576d8a8b06e81162db1c56d6dfbd802"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/65861602801590fdaf378b1d1c997a40_10433.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/cd7d5283d939952ce9555d2e82c850cf_10323.mp3",
+                        "isLavafox": true,
+                        "en": "You walked around all night in the city by yourself? He hooked up. He hooked up with <em>someone</em>.",
+                        "zh": "你整夜一个人在外面乱晃？他做了，他跟某人做了。",
+                        "videoNameZh": "《老友记 第五季》",
+                        "videoNameEn": "《Friends Season 5》",
+                        "url": "http://bisentence_movie.sogou.com/e356690c018ab059a333ec7660f7e45c_063b10ab6283b41c5a074192b33a485209353281"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/35a31fd01d1fc930cd41c58daa5742c9_47480.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/8f6afb9c13fb47ffc9802a7b1e17a03b_63026.mp3",
+                        "isLavafox": true,
+                        "en": "On one hand, learning very negative, highly immoral information about <em>someone</em> typically has a stronger impact than learning very positive, highly moral information.",
+                        "zh": "一方面，知道关于某人非常负面、非常不道德的信息，基本上会有更强的影响，相对于得知某人有非常正面、道德的信息。",
+                        "videoNameZh": "《TED教育》",
+                        "videoNameEn": "《TED-Ed》",
+                        "url": "http://bisentence_movie.sogou.com/eaaa8e7e4b870cacdfd8f2625c53fa84_84060cd029b8deb5f52646ac22b4043fe777b3d2"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/3cc7f04bc4e6bde5cc691b286df1a676_37630.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/db3fd062fa220476c0242278b856bde5_15784.mp3",
+                        "isLavafox": true,
+                        "en": "Well, <em>someone</em> was supposed to write, \"Rach, take down the lights\" and put it on the refrigerator.",
+                        "zh": "某人应该写个字条“瑞秋, 拿下圣诞灯”然后贴在冰…",
+                        "videoNameZh": "《老友记第一季》",
+                        "videoNameEn": "《Friends Season 1》",
+                        "url": "http://bisentence_movie.sogou.com/eef95d95b7cdaebd9113bba86aa0814f_66a2ac145f19807e137e7b5cbccc89ecfef2ce96"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/ef2251c62fc1b53f995cf777893bc2ff_45162.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/ebdc50e9a67c9f611a9ca3f5ee8c6869_29913.mp3",
+                        "isLavafox": true,
+                        "en": "Finish your thought. A part of <em>someone</em>'s murder. Jesus. I wanna believe you, Francis.",
+                        "zh": "说完吧。某人的谋杀。天啊。我想要相信你 Francis。",
+                        "videoNameZh": "《纸牌屋 第二季》",
+                        "videoNameEn": "《House of Cards Season 2》",
+                        "url": "http://bisentence_movie.sogou.com/af86908dab57f480cdaaf61f1043572c_e0a0073f493a213e4117dc86ce89feefdad05cf9"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/21d26cfef0cd26f0813072491b08dd5a_57364.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/8c14ebe0e766fd6251e7db43cd4a0d95_35026.mp3",
+                        "isLavafox": true,
+                        "en": "Precisely, I didn't do anything. Now does <em>someone</em> feel like checking her emotional math?",
+                        "zh": "对啊，我什么都没干啊，某人是不是该仔细想想自己在说啥啊？",
+                        "videoNameZh": "《生活大爆炸 第六季》",
+                        "videoNameEn": "《The Big Bang Theory Season 6》",
+                        "url": "http://bisentence_movie.sogou.com/e55f3912a1a49d69dcf88a9ef58fbb9f_bdcb075de73f9148f654f5eaaec6553018f57f5c"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/886b76b0c552c22c57062be63cf27261_37722.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/b9dcb74bf4818005288fa396c996baa6_21631.mp3",
+                        "isLavafox": true,
+                        "en": "Oh, you guys are so lucky you're here with people. I'd love to share this with <em>someone</em>.",
+                        "zh": "喔，你们真幸运，有人陪你们到这里。我真想跟某人分享这一切。",
+                        "videoNameZh": "《老友记 第九季》",
+                        "videoNameEn": "《Friends Season 9》",
+                        "url": "http://bisentence_movie.sogou.com/249cc570e8d42e58d3bd11344d547384_000121f196714c94b3bffaa7edd450de3087978d"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/f7d7167294560b5a445295985c93469c_14515.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/73f52d7be2a5da44d220c30f3b4d305c_44528.mp3",
+                        "isLavafox": true,
+                        "en": "But you said you were working with me. <em>Someone</em>'s got two dates to the nerd prom.",
+                        "zh": "但你答应我要跟我一起做我们的项目。某人邀了两妞去参加宅男舞会呢。",
+                        "videoNameZh": "《生活大爆炸 第十季》",
+                        "videoNameEn": "《The Big Bang Theory Season 10》",
+                        "url": "http://bisentence_movie.sogou.com/babefea4592ac5edcdf7e245b85e6e75_92ff8a8116dccbcb3c02786dd94966dc9260c399"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/dde03d29cdf9f1eb3170279dd5ad8ff2_46072.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/a5901e035107d9cc489bd8368d212e42_2235.mp3",
+                        "isLavafox": true,
+                        "en": "Break time's over. Get your work done. Looks like <em>someone</em> has an issue with anger franagement.",
+                        "zh": "休息时间结束了，去完成工作。看来某人的愤怒\"朋理\"有些问题啊。",
+                        "videoNameZh": "《摩登家庭 第六季》",
+                        "videoNameEn": "《Modern Family Season 6》",
+                        "url": "http://bisentence_movie.sogou.com/c7acbf721709015f5470bef21454b900_b296f9afbc2124ce8e07ab60aba065c3620af599"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/ee318beaabea53079a9d1c2783f6396b_8824.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/63623f2e14eff6fbf7e922534cc8d105_38695.mp3",
+                        "isLavafox": true,
+                        "en": "It was unclear what she was, at least to <em>someone</em>. This was a test. We were difficult to spot then.",
+                        "zh": "不清楚她想干什么，至少对于某人来说。这算是个测试。我们很难查清他们的身份。",
+                        "videoNameZh": "《银翼杀手》",
+                        "videoNameEn": "《Blade Runner 2049》",
+                        "url": "http://bisentence_movie.sogou.com/ca927ecb87e405115389f6ad55a38140_5dc303037c2550cac268931617c1590f70e22b7b"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/65861602801590fdaf378b1d1c997a40_10433.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/12565042441ba3567d9ed5ccd4cf873a_62670.mp3",
+                        "isLavafox": true,
+                        "en": "I didn't. Even when I found out, all right, well, let's just say I found something about <em>someone</em> and let's just say she's gonna keep it.",
+                        "zh": "没错，即使我发现…总之我发现了某人的某件事，但是我不会说出来。",
+                        "videoNameZh": "《老友记 第五季》",
+                        "videoNameEn": "《Friends Season 5》",
+                        "url": "http://bisentence_movie.sogou.com/5246bbb159df49a2a8569bf26eb654c5_e2f33751386343d1aa6ee8d21deddd1f3c7ea8c7"
+                    }
+                ]
+            },
+            "pic": "",
+            "voice": {
+                "phonetic": [
+                    {
+                        "text": "ˈsʌmwʌn",
+                        "type": "uk",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/1913_someone_uk.mp3"
+                    },
+                    {
+                        "text": "ˈsʌmwʌn",
+                        "type": "usa",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/1913_someone_usa.mp3"
+                    }
+                ]
+            },
+            "dictType": "oxford_buchong",
+            "CET6": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 43,
+                        "pos": "n",
+                        "chinese": "某人; 重要人物",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "someone",
+                "word_level_phrase_info": [
+                    {
+                        "brief_definition": "割伤；打伤；超车后从近处抢道",
+                        "phrase": "cut someone up",
+                        "pos": "vphr"
+                    },
+                    {
+                        "brief_definition": "给...穿上",
+                        "phrase": "dress someone in",
+                        "pos": "phr"
+                    },
+                    {
+                        "brief_definition": "对...冷淡；同...疏远",
+                        "phrase": "keep someone at a distance",
+                        "pos": "phr"
+                    }
+                ],
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2016.6-2023.6年8年间全六级试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight>考纲释义</highlight>\n精选实考、考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2016-2023年51套试卷，包括阅读、听力、翻译等所有题型。\n\n<highlight>真题例句</highlight>\n精选2016-2023年8年间全六级试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 5,
+                "word_family": {
+                    "derivative_info_list": [
+                        {
+                            "derivative_info_list": [],
+                            "word": "someday",
+                            "mean": "adv. 有朝一日；有一天"
+                        },
+                        {
+                            "derivative_info_list": [],
+                            "word": "someone",
+                            "mean": "pron. 某人；有人；重要的人；有权力的人"
+                        },
+                        {
+                            "derivative_info_list": [],
+                            "word": "sometimes",
+                            "mean": "adv. 有时候"
+                        },
+                        {
+                            "derivative_info_list": [],
+                            "word": "something",
+                            "mean": "pron. 某物；某事；若干；什么；差不多"
+                        },
+                        {
+                            "derivative_info_list": [],
+                            "word": "somehow",
+                            "mean": "adv. 以某种方式；用某种方法；不知什么原因"
+                        },
+                        {
+                            "derivative_info_list": [],
+                            "word": "sometime",
+                            "mean": "adv. 某个时候；从前；一度"
+                        },
+                        {
+                            "derivative_info_list": [],
+                            "word": "somebody",
+                            "mean": "pron. 某人；有人；重要人物；当权人物"
+                        }
+                    ],
+                    "word": "some",
+                    "mean": "det. 若干；一些；某个；大约；大量的；可观的；至少有一点；了不起的；很不错的；一点也不"
+                },
+                "total_exam_freq": 43,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "某人; 重要人物",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "They credit their success to having <highlight>someone</highlight> in their life who believes in them.",
+                                    "month": 12,
+                                    "source": "CET6",
+                                    "coll": "",
+                                    "sentence_trans": "他们把自己的成功归功于生活中有人相信他们。",
+                                    "year": 2021,
+                                    "type": "听力",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "And why would <highlight>someone</highlight> continue to believe a false or inaccurate idea anyway?",
+                                    "month": 12,
+                                    "source": "CET6",
+                                    "coll": "",
+                                    "sentence_trans": "而且为什么会有人继续相信一个错误或不准确的想法呢？",
+                                    "year": 2021,
+                                    "type": "阅读理解B",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Convincing <highlight>someone</highlight> to change their mind is really the process of convincing them to change their tribe.",
+                                    "month": 12,
+                                    "source": "CET6",
+                                    "coll": "",
+                                    "sentence_trans": "说服别人改变主意其实就是说服他们改变自己的部落。",
+                                    "year": 2021,
+                                    "type": "阅读理解B",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "word_affix": {
+                    "word": "someone",
+                    "sub_affix_info_list": [
+                        {
+                            "affix": "some",
+                            "affix_mean": "det. 若干"
+                        },
+                        {
+                            "affix": "one",
+                            "affix_mean": "num. 一"
+                        }
+                    ],
+                    "word_mean": "pron. 某人"
+                }
+            },
+            "CET4": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 37,
+                        "pos": "n",
+                        "chinese": "某人; 重要人物",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "someone",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2016.6-2023.6年8年间全四级试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight>考纲释义</highlight>\n精选实考、考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2016-2023年51套试卷，包括阅读、听力、翻译等所有题型。\n\n<highlight>真题例句</highlight>\n精选2016-2023年8年间试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 5,
+                "total_exam_freq": 37,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "某人; 重要人物",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "After all, without counting, how can <highlight>someone</highlight> tell whether there are, say, seven or eight coconuts in a tree?",
+                                    "month": 6,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "毕竟，不去数的话，怎么会有人分辨出树上有七个还是八个椰子？",
+                                    "year": 2021,
+                                    "type": "阅读理解B",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "A man in Halifax, Canada, wanted to find out if people were thankful for <highlight>someone</highlight> holding the door open for them.",
+                                    "month": 12,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "加拿大哈利法克斯的一名男子想知道人们是否感谢他们开门的人。",
+                                    "year": 2020,
+                                    "type": "听力",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "I nearly tripped over <highlight>someone</highlight>'s computer electrical lead the other day in my local café.",
+                                    "month": 7,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "前几天在我当地的咖啡馆里，我差点被别人的电脑电线绊倒。",
+                                    "year": 2020,
+                                    "type": "听力",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "word_affix": {
+                    "word": "someone",
+                    "sub_affix_info_list": [
+                        {
+                            "affix": "some",
+                            "affix_mean": "det. 若干"
+                        },
+                        {
+                            "affix": "one",
+                            "affix_mean": "num. 一"
+                        }
+                    ],
+                    "word_mean": "pron. 某人"
+                }
+            },
+            "gaokao": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 21,
+                        "pos": "n",
+                        "chinese": "某人; 重要人物",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "someone",
+                "total_exam_freq": 21,
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2015-2022年8年间全国卷和自主命题省市高考卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2015-2022年全国卷高考试卷，包括阅读、完形、单选、填空、听力、改错、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选各省市考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2015-2022年8年间全国卷和自主命题省市高考卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 5,
+                "word_family": {
+                    "derivative_info_list": [
+                        {
+                            "derivative_info_list": [],
+                            "word": "someone",
+                            "mean": "pron. 某人；有人；重要的人；有权力的人"
+                        },
+                        {
+                            "derivative_info_list": [],
+                            "word": "sometimes",
+                            "mean": "adv. 有时候"
+                        },
+                        {
+                            "derivative_info_list": [],
+                            "word": "something",
+                            "mean": "pron. 某物；某事；若干；什么；差不多"
+                        },
+                        {
+                            "derivative_info_list": [],
+                            "word": "somehow",
+                            "mean": "adv. 以某种方式；用某种方法；不知什么原因"
+                        },
+                        {
+                            "derivative_info_list": [],
+                            "word": "sometime",
+                            "mean": "adv. 某个时候；从前；一度"
+                        },
+                        {
+                            "derivative_info_list": [],
+                            "word": "somebody",
+                            "mean": "pron. 某人；有人；重要人物；当权人物"
+                        }
+                    ],
+                    "word": "some",
+                    "mean": "det. 若干；一些；某个；大约；大量的；可观的；至少有一点；了不起的；很不错的；一点也不"
+                },
+                "word_level_phrase_info": [
+                    {
+                        "brief_definition": "给某人某物",
+                        "phrase": "give something to someone",
+                        "pos": "phr."
+                    },
+                    {
+                        "brief_definition": "给某人某物",
+                        "phrase": "give someone something",
+                        "pos": "phr."
+                    }
+                ],
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "某人; 重要人物",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "When you need to talk to <highlight>someone</highlight>, don't do it in your own office.",
+                                    "month": -1,
+                                    "source": "全国卷2",
+                                    "coll": "",
+                                    "sentence_trans": "当你需要和别人谈话时，不要在自己的办公室里进行。",
+                                    "year": 2017,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Just last year, I was conducting a workshop when <highlight>someone</highlight> knocked at the classroom door.",
+                                    "month": -1,
+                                    "source": "全国卷2",
+                                    "coll": "",
+                                    "sentence_trans": "就在去年，我正在班里组织研讨会，突然有人敲教室门。",
+                                    "year": 2017,
+                                    "type": "完形填空",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "I'm looking for <highlight>someone</highlight> to take it while I'm away.",
+                                    "month": -1,
+                                    "source": "全国卷3",
+                                    "coll": "",
+                                    "sentence_trans": "我想找个人在我外出时拿着它。",
+                                    "year": 2016,
+                                    "type": "听力",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "word_affix": {
+                    "word": "someone",
+                    "sub_affix_info_list": [
+                        {
+                            "affix": "some",
+                            "affix_mean": "det. 若干"
+                        },
+                        {
+                            "affix": "one",
+                            "affix_mean": "num. 一"
+                        }
+                    ],
+                    "word_mean": "pron. 某人"
+                }
+            },
+            "zhongkao": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 227,
+                        "pos": "pron",
+                        "chinese": "某人; 有人",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "someone",
+                "word_level_phrase_info": [
+                    {
+                        "brief_definition": "步某人后尘；走某人走过的路；继承事业",
+                        "phrase": "follow in someone's footsteps",
+                        "pos": ""
+                    }
+                ],
+                "direction_info": {
+                    "ranges": 4,
+                    "description": "数据源自2018-2021年4年间全国各省市中考试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2018-2021年全国重点省市中考试卷，包括听力、阅读、完形、单选、填空、改错、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选各省市考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2018-2021年4年间全国各省市中考试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 5,
+                "word_family": {
+                    "derivative_info_list": [
+                        {
+                            "derivative_info_list": [],
+                            "word": "someday",
+                            "mean": "adv. 有朝一日；有一天"
+                        },
+                        {
+                            "derivative_info_list": [],
+                            "word": "someone",
+                            "mean": "pron. 某人；有人；重要的人；有权力的人"
+                        },
+                        {
+                            "derivative_info_list": [],
+                            "word": "sometimes",
+                            "mean": "adv. 有时候"
+                        },
+                        {
+                            "derivative_info_list": [],
+                            "word": "something",
+                            "mean": "pron. 某物；某事；若干；什么；差不多"
+                        },
+                        {
+                            "derivative_info_list": [],
+                            "word": "somehow",
+                            "mean": "adv. 以某种方式；用某种方法；不知什么原因"
+                        },
+                        {
+                            "derivative_info_list": [],
+                            "word": "sometime",
+                            "mean": "adv. 某个时候；从前；一度"
+                        },
+                        {
+                            "derivative_info_list": [],
+                            "word": "somebody",
+                            "mean": "pron. 某人；有人；重要人物；当权人物"
+                        }
+                    ],
+                    "word": "some",
+                    "mean": "det. 若干；一些；某个；大约；大量的；可观的；至少有一点；了不起的；很不错的；一点也不"
+                },
+                "total_exam_freq": 227,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "某人; 有人",
+                            "pos": "pron",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "Be sure you are doing it for yourself, not for <highlight>someone</highlight> else.",
+                                    "month": -1,
+                                    "source": "德州市卷",
+                                    "coll": "",
+                                    "sentence_trans": "确保你这样做是为了自己，而不是为了某人。",
+                                    "year": 2021,
+                                    "type": "阅读表达",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Before you ask <highlight>someone</highlight> for help, find out whether he is the right person for your problem.",
+                                    "month": -1,
+                                    "source": "河南省卷",
+                                    "coll": "",
+                                    "sentence_trans": "在你向某人寻求帮助之前，先弄清楚他是否是解决你问题的合适人选。",
+                                    "year": 2019,
+                                    "type": "单项选择",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "It's easy to tell <highlight>someone</highlight> good news, but what about bad news?",
+                                    "month": -1,
+                                    "source": "吉林卷",
+                                    "coll": "",
+                                    "sentence_trans": "告诉某人好消息很容易，但坏消息呢？",
+                                    "year": 2019,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "word_affix": {
+                    "sub_affix_info_list": [
+                        {
+                            "affix": "some",
+                            "affix_mean": "det. 若干"
+                        },
+                        {
+                            "affix": "one",
+                            "affix_mean": "num. 一"
+                        }
+                    ],
+                    "word": "someone",
+                    "word_mean": "pron. 某人"
+                }
+            },
+            "sentencesData": {
+                "status": 1,
+                "info": "notZh2En",
+                "data": {}
+            },
+            "isAutoMatch": false,
+            "Zh2En": false
+        },
+        "query": "someone",
+        "result": "有人",
+        "tabSelect": "detail",
+        "dictionaryType": "oxford_buchong",
+        "notFound_show": false,
+        "phoneticShow": "",
+        "globalShowTranslateRecord": "",
+        "pronPrefer": {
+            "type": "usa_1",
+            "speaker": "male",
+            "speed": "standard"
+        },
+        "ServerRecord": "",
+        "ServerUIGS": {
+            "version": "new",
+            "type": "all",
+            "stype": "success",
+            "terminal": "web",
+            "fr": "default",
+            "direction": "etoz",
+            "from": "en",
+            "to": "zh-CHS",
+            "len": 7,
+            "qtype": "text",
+            "qctype": "qc_1",
+            "dict_cover": 1,
+            "detail": 1,
+            "wordCardCover": 1,
+            "wordCardEn": 1,
+            "wordCardCh": 0,
+            "wordCardMinor": 0,
+            "wordCardNetmean": 0,
+            "wordDeform": 0,
+            "keyword": 0,
+            "bilingual": 1,
+            "simple": 0,
+            "levelList": 1,
+            "synonym": 0,
+            "antonym": 0,
+            "conjugate": 0,
+            "rootaffix": 1,
+            "baike_sogou": 1,
+            "baike_wiki": 0,
+            "wordDifference": 0,
+            "word_phrase": 1,
+            "secondQuery": 0,
+            "dict_oxford": 0,
+            "dict_newcentury": 0,
+            "zhongkaotab": 1,
+            "gaokaotab": 1,
+            "CET4tab": 1,
+            "CET6tab": 1,
+            "kaoyantab": 0,
+            "network_tab": 0,
+            "yinying_tab": 1,
+            "tuozhan_tab": 0,
+            "one_pic": 0,
+            "more_pic": 0,
+            "no_pic": 0,
+            "uuid": "68e5c5f8-3ec4-4a2d-894b-834528a0faa5",
+            "from_type": 0,
+            "t_trans_ssr": 184
+        },
+        "ServerModelUIGS": {
+            "terminal": "web",
+            "type": "trans_model",
+            "pbtype": "pv",
+            "model_general": 1,
+            "model_medical": 1,
+            "model_finance": 1
+        },
+        "ServerSgtkn": "64F169199A59379E9592BC2EA10E45E495E8F98F6755293E",
+        "suggShow": false,
+        "suggestion": "",
+        "suggDirection": "",
+        "usualTop": "",
+        "baseDict": "",
+        "wordCardClick": false,
+        "isFrInput": false,
+        "kanaTips": {
+            "show": false,
+            "left": "",
+            "top": "",
+            "type": "",
+            "arrowLeft": ""
+        },
+        "currSentenceIndex": -1,
+        "prefixStrObj": {
+            "prefixStr": "",
+            "oriPrefixStr": ""
+        },
+        "selectTransBox": {
+            "show": false,
+            "right": 0,
+            "top": 0,
+            "paraphraseInfo": {
+                "word": "",
+                "from": "",
+                "to": "",
+                "area": ""
+            }
+        },
+        "sentenceLoading": false,
+        "newSentenceInfo": {
+            "sentence": "",
+            "candidateIndex": 0
+        },
+        "moreTipInfo": {
+            "opacity": 0,
+            "zIndex": -1
+        },
+        "paraphraseShowInfo": {
+            "card": 0,
+            "query": "",
+            "card_dict": 0
+        },
+        "selectType": "",
+        "wordPos": 0,
+        "candidateWord": "",
+        "syntaxVisible": false,
+        "syntaxStatus": 0
+    },
+    "language": {
+        "from": "auto",
+        "to": "zh-CHS",
+        "detect": "en",
+        "model": "general",
+        "detectShow": false,
+        "langMap": {
+            "current": ""
+        },
+        "zh2en": false,
+        "fromItemList": [
+            {
+                "lang": "auto",
+                "text": "自动检测",
+                "play": false
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "ko",
+                "text": "韩语",
+                "play": true,
+                "abbr": "韩"
+            },
+            {
+                "lang": "vi",
+                "text": "越南语",
+                "play": true,
+                "abbr": "越"
+            },
+            {
+                "lang": "fr",
+                "text": "法语",
+                "play": true,
+                "abbr": "法"
+            }
+        ],
+        "toItemList": [
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "es",
+                "text": "西班牙语",
+                "play": true,
+                "abbr": "西"
+            },
+            {
+                "lang": "ru",
+                "text": "俄语",
+                "play": true,
+                "abbr": "俄"
+            },
+            {
+                "lang": "fr",
+                "text": "法语",
+                "play": true,
+                "abbr": "法"
+            }
+        ]
+    },
+    "voice": {
+        "from": {
+            "lang": "en",
+            "type": "from",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22someone%22%2C%22spokenDialect%22%3A%22en%22%2C%22rate%22%3A%220.8%22%7D",
+            "list": [
+                {
+                    "type": "uk_0",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "ˈsʌmwʌn",
+                    "abbr": "英",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/1913_someone_uk.mp3"
+                },
+                {
+                    "type": "usa_1",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "ˈsʌmwʌn",
+                    "abbr": "美",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/1913_someone_usa.mp3"
+                }
+            ],
+            "stype": "phonetic",
+            "phoneticShow": [
+                {
+                    "text": "ˈsʌmwʌn",
+                    "type": "uk",
+                    "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/1913_someone_uk.mp3"
+                }
+            ]
+        },
+        "to": {
+            "lang": "zh",
+            "type": "to",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22%E6%9C%89%E4%BA%BA%22%2C%22spokenDialect%22%3A%22zh-CHS%22%2C%22rate%22%3A%220.8%22%7D",
+            "stype": "normal"
+        }
+    }
+}

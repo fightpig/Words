@@ -1,0 +1,983 @@
+{
+    "route": {
+        "name": "text",
+        "path": "/text",
+        "hash": "",
+        "query": {
+            "keyword": "dad",
+            "transfrom": "auto",
+            "transto": "zh-CHS",
+            "model": "general",
+            "errcode": "s10"
+        },
+        "params": {},
+        "fullPath": "/text?keyword=dad&transfrom=auto&transto=zh-CHS&model=general&errcode=s10",
+        "meta": {
+            "mtype": [
+                "textTranslate",
+                "language",
+                "voice"
+            ]
+        },
+        "from": {
+            "name": null,
+            "path": "/",
+            "hash": "",
+            "query": {},
+            "params": {},
+            "fullPath": "/",
+            "meta": {}
+        }
+    },
+    "common": {
+        "CONFIG": {
+            "wuid": 1733632815846,
+            "loginInfo": {},
+            "isIE": 0,
+            "isHitSsrSwitch": true,
+            "isHitWritebookSwitch": false,
+            "isHitAmsSwitch": true,
+            "promotionList": "{\n    \"pc_bottom\":{\n        \"imgsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\",\n        \"qcsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\"\n    },\n    \"pc_middle\":[\n        {\n            \"src\":\"//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c\",\n            \"bgColor\":\"#ffffff\",\n            \"link\":\"\"\n        }\n    ],\n    \"pc_survey\":{\n        \"icon\":\"//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750\",\n        \"link\":\"https://wj.qq.com/s2/8193148/806d/\"\n    }\n}",
+            "bannerData": [],
+            "isHitAsideSurvey": false,
+            "secretCode": 109984457,
+            "uuid": "2738a384-43fd-453f-8e0b-394e41e35790",
+            "referer": "",
+            "approveToken": "64EB77E4D90B6ACCC8C1E07210EF1E90C8B2AB236755232F",
+            "loadTime": 1733632815848,
+            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0",
+            "fcp": "138.197.122.177",
+            "temporaryId": "",
+            "fileId": ""
+        },
+        "hotWords": [],
+        "isFromCollect": false,
+        "psdModify": {
+            "currentStep": 1,
+            "scode": "",
+            "username": ""
+        },
+        "loginStatus": true,
+        "feedBackModule": false,
+        "showPromotionPopup": {
+            "show": false,
+            "type": ""
+        },
+        "showPromotionPCDownload": false,
+        "showShareBomb": false,
+        "shareData": null,
+        "showAppDownLoad": false,
+        "showLoginDialog": false,
+        "showLoading": {
+            "show": false
+        },
+        "toast": {
+            "show": false,
+            "text": "",
+            "loading": false
+        },
+        "modelToast": {
+            "show": false,
+            "text": ""
+        },
+        "selectionGlobalShow": true,
+        "selectionInfo": {
+            "left": 0,
+            "top": 0,
+            "show": false,
+            "from": "",
+            "to": "",
+            "val": "",
+            "area": ""
+        },
+        "showConfirmDialog": false,
+        "promotionList": {
+            "pc_bottom": {
+                "imgsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png",
+                "qcsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png"
+            },
+            "pc_middle": [
+                {
+                    "src": "//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c",
+                    "bgColor": "#ffffff",
+                    "link": ""
+                }
+            ],
+            "pc_survey": {
+                "icon": "//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750",
+                "link": "https://wj.qq.com/s2/8193148/806d/"
+            }
+        },
+        "transTypeTxt": "text",
+        "fixedTabStatus": 0,
+        "bodyTop": 0,
+        "ifHideUserOperation": false
+    },
+    "textTranslate": {
+        "prevTransQuery": "",
+        "translateData": {
+            "translate": {
+                "zly": "zly",
+                "errorCode": "0",
+                "qc_type": "1",
+                "index": "content0",
+                "from": "en",
+                "source": "sogou",
+                "text": "dad",
+                "to": "zh-CHS",
+                "id": "2738a384-43fd-453f-8e0b-394e41e35790",
+                "dit": "爸爸",
+                "orig_text": "dad",
+                "md5": ""
+            },
+            "detect": {
+                "zly": "zly",
+                "detect": "en",
+                "errorCode": "0",
+                "language": "英语",
+                "id": "851a62c0-b51e-11ef-966c-9b6d8fe7ad8a",
+                "text": "dad"
+            },
+            "sgtkn": "64EB77E6D90B6ACCC8C1E07210EF1E90C8B2AB236755232F",
+            "wordCard": {
+                "title": "dad",
+                "show": true,
+                "usualDict": [
+                    {
+                        "values": [
+                            "爸爸；爹地；老爸；爹爹"
+                        ],
+                        "pos": "n."
+                    },
+                    {
+                        "values": [
+                            "老天（用作委婉的诅咒上帝）"
+                        ],
+                        "pos": "int."
+                    }
+                ],
+                "secondQuery": "",
+                "exchange": {
+                    "word_pl": [
+                        "dads"
+                    ]
+                },
+                "levelList": [
+                    "小学",
+                    "初中",
+                    "高中",
+                    "六级"
+                ]
+            },
+            "detail": {
+                "synonym": [
+                    {
+                        "word_list": [
+                            "father",
+                            "daddy",
+                            "da",
+                            "pa",
+                            "papa"
+                        ],
+                        "pos": "n.",
+                        "mean": "爸爸；爹爹"
+                    }
+                ],
+                "wordRootInfo": {
+                    "word_info_list": [
+                        {
+                            "word": "daddy",
+                            "pos_mean_info_list": [
+                                {
+                                    "pos": "n.",
+                                    "mean": "爸爸"
+                                }
+                            ]
+                        }
+                    ],
+                    "root_word": "dad"
+                },
+                "bilingual": [
+                    {
+                        "source": "These are your mum or <em>dad</em>'s mum and <em>dad</em>.",
+                        "target": "这些是你妈妈或爸爸的父母。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Her son is my <em>dad</em>.",
+                        "target": "她的儿子是我爸爸。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Is <em>Dad</em> going to call?",
+                        "target": "爸爸要打电话吗？",
+                        "url": ""
+                    },
+                    {
+                        "source": "Is <em>Dad</em> going to go too?",
+                        "target": "爸爸也要去吗？",
+                        "url": ""
+                    },
+                    {
+                        "source": "<em>Dad</em> didn't stop the car.",
+                        "target": "爸爸没有停车。",
+                        "url": ""
+                    },
+                    {
+                        "source": "I lost the game, <em>Dad</em>.",
+                        "target": "我输了比赛，爸爸。",
+                        "url": ""
+                    },
+                    {
+                        "source": "This is a photo of <em>Dad</em>.",
+                        "target": "这是爸爸的照片。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Sam, this is my <em>dad</em>.",
+                        "target": "山姆，这是我的爸爸。",
+                        "url": ""
+                    },
+                    {
+                        "source": "<em>Dad</em> is not feeling well.",
+                        "target": "爸爸感觉不舒服。",
+                        "url": ""
+                    },
+                    {
+                        "source": "His <em>dad</em> has got a boat!",
+                        "target": "他的爸爸有一艘船！",
+                        "url": ""
+                    }
+                ],
+                "baike": {
+                    "showMore": false,
+                    "list": [
+                        {
+                            "lemmaTitle": "DAD",
+                            "link": "https://baike.sogou.com/v53610674.htm?ch=sogou.fanyi",
+                            "abstract": "GARSON是日本新进的另类天皇级改装品牌，该公司成立在1990年7月，短短21年的改装生涯里，不断大胆地推陈出新，独树一格。GARSON属下有间分公司Garson Accessories Automobile和DAD Collection。.",
+                            "wapPic": "//img01.sogoucdn.com/v2/thumb/retype_exclude_gif/ext/auto/q/80/crop/xy/ai/w/140/h/140/resize/w/140?appid=201005&sign=dd210b63148ccfc9bdd96b7666781e43&url=https%3A%2F%2Fpic.baike.soso.com%2Fugc%2Fbaikepic2%2F0%2F20240509094459-371247636_jpeg_467_459_20340.jpg%2F0",
+                            "pcPic": "//img02.sogoucdn.com/v2/thumb/retype_exclude_gif/ext/auto/q/80/crop/xy/ai/w/140/h/140/resize/w/140?appid=201005&sign=dd210b63148ccfc9bdd96b7666781e43&url=https%3A%2F%2Fpic.baike.soso.com%2Fugc%2Fbaikepic2%2F0%2F20240509094459-371247636_jpeg_467_459_20340.jpg%2F0"
+                        },
+                        {
+                            "lemmaTitle": "DAD",
+                            "link": "https://baike.sogou.com/v166844586.htm?ch=sogou.fanyi",
+                            "abstract": "DAD又名PDAD，是photo-diode-array-detector的简写， 即图像二极管阵列检测器，属于紫外检测器的一种，用于高效液相色谱，气相的成分检测。",
+                            "wapPic": "//img01.sogoucdn.com/v2/thumb/retype_exclude_gif/ext/auto/q/80/crop/xy/ai/w/140/h/140/resize/w/140?appid=201005&sign=005361165d7896d67ad4c7abb24547ce&url=http%3A%2F%2Fpic.baike.soso.com%2Fugc%2Fbaikepic2%2F18933%2F20180130132127-1719093955_jpeg_1280_980_115835.jpg%2F0",
+                            "pcPic": "//img01.sogoucdn.com/v2/thumb/retype_exclude_gif/ext/auto/q/80/crop/xy/ai/w/140/h/140/resize/w/140?appid=201005&sign=005361165d7896d67ad4c7abb24547ce&url=http%3A%2F%2Fpic.baike.soso.com%2Fugc%2Fbaikepic2%2F18933%2F20180130132127-1719093955_jpeg_1280_980_115835.jpg%2F0"
+                        }
+                    ]
+                }
+            },
+            "book": {
+                "yingyinNormal": [
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/aa7a748a86497e02e2b0a5098f3017b8_12619.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/ca4d8ed20b077dd825381b44812a78a7_70456.mp3",
+                        "isLavafox": true,
+                        "en": "Funny, <em>dad</em>. <em>Dad</em>? Let's go.",
+                        "zh": "很搞笑，爸爸，爸爸？我们走吧。",
+                        "videoNameZh": "《女孩成长记 第一季》",
+                        "videoNameEn": "《Girl Meets World Season 1》",
+                        "url": "http://bisentence_movie.sogou.com/6f313ca9236ad96bf7de755d892e263b_b558d6fe30aba5e330d2570870a9544f195d5c8a"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/fb38dfa5ed1adc3bc9fd0f6e8fdbfbba_22028.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/faa4db2c2a184dc15d42c49ead52bb09_65512.mp3",
+                        "isLavafox": true,
+                        "en": "<em>Dad</em>. <em>Dad</em>. I got out. I'm okay.",
+                        "zh": "爸爸，爸爸，我出来了，我没事。",
+                        "videoNameZh": "《末日崩塌》",
+                        "videoNameEn": "《San Andreas》",
+                        "url": "http://bisentence_movie.sogou.com/b268a8a533eb00ae7f8c92c5fade1915_2959f0d86b572191ed05f708d2e2956611cc96f6"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/2f39b847e851235c7d0660e2f362566f_8474.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/0c288185d515870398e8e3b81f48b1ac_63188.mp3",
+                        "isLavafox": true,
+                        "en": "My <em>dad</em> says it's not safe. Nemo! No! <em>Dad</em>?",
+                        "zh": "我爸爸说那不安全。尼莫！不！爸爸?",
+                        "videoNameZh": "《海底总动员》",
+                        "videoNameEn": "《Finding Nemo》",
+                        "url": "http://bisentence_movie.sogou.com/d1ef8cc2114325962208ae97cbe76b8d_931e763a1a119a4ca651d899ddf0c5b801747c4d"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/d851ec1e1a57dbae4a1b14fffebef931_37005.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/23907d75ee270cf99fa3fd498df4e1b1_10108.mp3",
+                        "isLavafox": true,
+                        "en": "I had a pretty cool <em>dad</em>.",
+                        "zh": "我有个很酷炫的爸爸。",
+                        "videoNameZh": "《银河护卫队2》",
+                        "videoNameEn": "《Guardians of the Galaxy 2》",
+                        "url": "http://bisentence_movie.sogou.com/86037aa9f609c488002fc61b47e09363_ba1bc082fbef48399dda0f091168e1796d3a35a5"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/aa7a748a86497e02e2b0a5098f3017b8_12619.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/38a1d7d65107f0ae77f1d625aded2db2_72113.mp3",
+                        "isLavafox": true,
+                        "en": "My <em>dad</em> has another family.",
+                        "zh": "我爸爸另外组建了一个家庭。",
+                        "videoNameZh": "《女孩成长记 第一季》",
+                        "videoNameEn": "《Girl Meets World Season 1》",
+                        "url": "http://bisentence_movie.sogou.com/22b07e171e23ed6339c3571f1549a473_a0dc069d491b03afbeb18bb2ea0d7a70b7c493ad"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/aa7a748a86497e02e2b0a5098f3017b8_12619.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/b2f370e95fff3e9077e7549ebdb2a8cd_76326.mp3",
+                        "isLavafox": true,
+                        "en": "Tell her that's not true, <em>dad</em>.",
+                        "zh": "跟她说不是那样的，爸爸。",
+                        "videoNameZh": "《女孩成长记 第一季》",
+                        "videoNameEn": "《Girl Meets World Season 1》",
+                        "url": "http://bisentence_movie.sogou.com/62827b8713b3baf0bd0a1ac29392b54c_c78613c7ae2d51744812c01a26ca352efb34084e"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/3cc7f04bc4e6bde5cc691b286df1a676_37630.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/38a5a037b5511c905cc4145cbdba8c34_51941.mp3",
+                        "isLavafox": true,
+                        "en": "Do you think <em>Dad</em> ever cheated on Mom?",
+                        "zh": "你认为爸爸会骗人吗？",
+                        "videoNameZh": "《老友记第一季》",
+                        "videoNameEn": "《Friends Season 1》",
+                        "url": "http://bisentence_movie.sogou.com/941a55662b0ca560eaa6d7aa921051ae_5d876dbb25988d4e6b7f0e2f1515a8dca21b6a00"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/69e52acd9e09b6a2ed378507a165e971_14638.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/9553d0e962b797aaec2a488442824c81_43242.mp3",
+                        "isLavafox": true,
+                        "en": "Hey, <em>dad</em>? I'm kinda busy. What's up?",
+                        "zh": "爸爸？我有点忙，怎么了？",
+                        "videoNameZh": "《绯闻女孩 第一季》",
+                        "videoNameEn": "《Gossip Girl Season 1》",
+                        "url": "http://bisentence_movie.sogou.com/956c8ffb9a3d8d3bd0f7c5f61374762a_c999e63dcb694ba05149f5609272663d75893de5"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/fecf61d3082c906bb0c80d4539f3c4c8_5742.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/ab8a7d97e96a4942ca43e762f262575b_53390.mp3",
+                        "isLavafox": true,
+                        "en": "'Cause nobody messes with your <em>dad</em>.",
+                        "zh": "因为没有人有胆子敢惹你爸爸。",
+                        "videoNameZh": "《狮子王》",
+                        "videoNameEn": "《The Lion King》",
+                        "url": "http://bisentence_movie.sogou.com/202540485d04ceef4e05ab070773c2d4_1042ea90719f9052b5509d6f4d3e61a5bf97601b"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/82b4636112184859779afa48d26f2aac_11190.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/250f23fd5c522321677ad1f4105ab81a_7657.mp3",
+                        "isLavafox": true,
+                        "en": "<em>Dad</em>, It's huge!it has six bedrooms!",
+                        "zh": "爸爸，这里好大，有六个卧室呢。",
+                        "videoNameZh": "《里约大冒险2》",
+                        "videoNameEn": "《RIO 2》",
+                        "url": "http://bisentence_movie.sogou.com/2c2404c50ce75ff8fa31cb2e0d44e026_87e674bd90beed33fd9a0401aa22e0dc2f700a77"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/f9cf90b2f80fc9b4d2968cd441a42c77_36232.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/20a39f6c177e45c859acd9567521ce18_17125.mp3",
+                        "isLavafox": true,
+                        "en": "<em>Dad</em>, detention was my fault, not hers.",
+                        "zh": "爸爸，留校是我的错，不是她。",
+                        "videoNameZh": "《歌舞青春》",
+                        "videoNameEn": "《High School Musical》",
+                        "url": "http://bisentence_movie.sogou.com/f41892089bc6a5a982061231e5c2d14c_e3225c91d8e934d37de3ab1053e210bdc0f5661e"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/f0ed3bd1897036484d259b1dfb2cebc8_22838.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/f90c3bfd32c400f40f09b1f400ab62ca_36379.mp3",
+                        "isLavafox": true,
+                        "en": "<em>Dad</em>, it's fine, I can finish the dusting.",
+                        "zh": "爸爸，没关系了，我可以做扫灰。",
+                        "videoNameZh": "《少年时代》",
+                        "videoNameEn": "《Boyhood》",
+                        "url": "http://bisentence_movie.sogou.com/63c778e0c89213219c3a4b879d2d72e1_af7cfc95994c46f708a8127a5acfc2c58dce6c2d"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/3cc7f04bc4e6bde5cc691b286df1a676_37630.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/1c87ad5275f5f1ea0fcc740537f79173_4694.mp3",
+                        "isLavafox": true,
+                        "en": "Cows, <em>Dad</em>? She knows how much I love cows.",
+                        "zh": "奶牛，爸爸？她知道我有多喜欢奶牛。",
+                        "videoNameZh": "《老友记第一季》",
+                        "videoNameEn": "《Friends Season 1》",
+                        "url": "http://bisentence_movie.sogou.com/240ed6d42669f6492226f8878e951534_8dbd891023d8e267aa15dd9e64c0345cf089f06c"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/f0ed3bd1897036484d259b1dfb2cebc8_22838.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/0b1364d3a4593482eb33ced7e2ce060e_20276.mp3",
+                        "isLavafox": true,
+                        "en": "No, <em>Dad</em>. Amy's really responsible. Mmm-hmm.",
+                        "zh": "不，爸爸，艾米很有责任心的。好吧。",
+                        "videoNameZh": "《少年时代》",
+                        "videoNameEn": "《Boyhood》",
+                        "url": "http://bisentence_movie.sogou.com/34ab2bca1e41f806e6d4f902fabbee14_2c86745131521286b0cb0c4c9310cd1c51ee2483"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/f9cf90b2f80fc9b4d2968cd441a42c77_36232.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/6891c574c4d3530833e8fb2ca68174db_64394.mp3",
+                        "isLavafox": true,
+                        "en": "<em>Dad</em>, she's not a problem. She's just a girl.",
+                        "zh": "爸爸，不是她的问题，她只是个女孩。",
+                        "videoNameZh": "《歌舞青春》",
+                        "videoNameEn": "《High School Musical》",
+                        "url": "http://bisentence_movie.sogou.com/74e83fb02dce3f7aa9a6e40a6d4fb517_2c55a017d7a9be5ef536593a36192728d51f178e"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/791389553cedc2dca8e4f0bcddd956ec_6163.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/4e0f8165b27b78879c58817b6403840e_3304.mp3",
+                        "isLavafox": true,
+                        "en": "Time to put the camera away, April. Aw, <em>Dad</em>!",
+                        "zh": "把录影机关了，艾波。喔，不，爸爸！",
+                        "videoNameZh": "《忍者神龟：变种时代》",
+                        "videoNameEn": "《Teenage Mutant Ninja Turtles》",
+                        "url": "http://bisentence_movie.sogou.com/ab9341abf190e41df544de46752f074b_4a1d561f423a80d9d5b9a2f57b01907d9b59d64d"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/aa7a748a86497e02e2b0a5098f3017b8_12619.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/594aaf9ad7380c589692eb1cc5600420_72984.mp3",
+                        "isLavafox": true,
+                        "en": "How do we do that, <em>dad</em>? We weren't there.",
+                        "zh": "怎么可能啊，爸爸？我们那时候还没出生呢。",
+                        "videoNameZh": "《女孩成长记 第一季》",
+                        "videoNameEn": "《Girl Meets World Season 1》",
+                        "url": "http://bisentence_movie.sogou.com/7f473a4bbeaa4da3c783d5d46496df53_03328f7edf1ba51d5052d87b5638c548fbe1bdb0"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/95bf83fa9c39ec4f55b8511dc0c4ed29_55630.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/e5f9e4b67feb2798846c9e667deba683_43685.mp3",
+                        "isLavafox": true,
+                        "en": "There's something you didn't know about your <em>dad</em>.",
+                        "zh": "有些关于你爸爸的事情你还不知道。",
+                        "videoNameZh": "《老友记 第十季》",
+                        "videoNameEn": "《Friends Season 10》",
+                        "url": "http://bisentence_movie.sogou.com/8d4aa95126ccffb7cb9f4f0d32733820_67c5cad0efedff76397b29f6f6fe52d7f48bcb43"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/5779bc3ee996a4c3adbca63904f7db92_42866.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/2cf04f6c8cc03031cad16a036cfec66d_49530.mp3",
+                        "isLavafox": true,
+                        "en": "Actually, David, <em>Dad</em> has something he has to tell you.",
+                        "zh": "大卫，实际上爸爸有话要和你说。",
+                        "videoNameZh": "《成长教育》",
+                        "videoNameEn": "《An Education》",
+                        "url": "http://bisentence_movie.sogou.com/ceb438086c08579ac00459c42e3c698d_9126ba1d8a40c6b48b9cdfd640291865a07f6948"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/fb38dfa5ed1adc3bc9fd0f6e8fdbfbba_22028.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/40e404fd06dc3971ac2b8136aba61be1_50734.mp3",
+                        "isLavafox": true,
+                        "en": "Okay. Wait, mom. Mom. How are you and <em>dad</em> together?",
+                        "zh": "好的，等下，妈妈，你和爸爸怎么在一起？",
+                        "videoNameZh": "《末日崩塌》",
+                        "videoNameEn": "《San Andreas》",
+                        "url": "http://bisentence_movie.sogou.com/4153575177b4a2b4ffc4bdc7c79a8970_2129bb6d092a7b6ea032414da75a7d0aeffdf6c9"
+                    }
+                ]
+            },
+            "pic": "",
+            "voice": {
+                "phonetic": [
+                    {
+                        "text": "dæd",
+                        "type": "uk",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/3839_dad_uk.mp3"
+                    },
+                    {
+                        "text": "dæd",
+                        "type": "usa",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/3839_dad_usa.mp3"
+                    }
+                ]
+            },
+            "dictType": "oxford_buchong",
+            "CET6": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 4,
+                        "pos": "n",
+                        "chinese": "爸爸",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "dad",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2016.6-2023.6年8年间全六级试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight>考纲释义</highlight>\n精选实考、考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2016-2023年51套试卷，包括阅读、听力、翻译等所有题型。\n\n<highlight>真题例句</highlight>\n精选2016-2023年8年间全六级试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 1,
+                "variousspelling": {
+                    "various_spelling": [
+                        "daddy"
+                    ]
+                },
+                "total_exam_freq": 4,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "爸爸",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "Her mom is a doctor and her <highlight>dad</highlight> is a lawyer.",
+                                    "month": 12,
+                                    "source": "CET6",
+                                    "coll": "",
+                                    "sentence_trans": "她的妈妈是一名医生，她的爸爸是一名律师。",
+                                    "year": 2018,
+                                    "type": "听力",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "They speak with Mom or <highlight>Dad</highlight> when they have a problem.",
+                                    "month": 6,
+                                    "source": "CET6",
+                                    "coll": "",
+                                    "sentence_trans": "当他们遇到问题时，他们会与妈妈或爸爸交谈。",
+                                    "year": 2016,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Today's teenagers admire their parents and welcome parental guidance, though not Mom and <highlight>Dad</highlight>'s advice on matters of personal taste.",
+                                    "month": 6,
+                                    "source": "CET6",
+                                    "coll": "",
+                                    "sentence_trans": "今天的青少年钦佩他们的父母，并欢迎父母的指导——尽管不欢迎妈妈和爸爸在个人品味问题上的建议。",
+                                    "year": 2016,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "exchange_info": {
+                    "word_pl": [
+                        "dads"
+                    ]
+                }
+            },
+            "gaokao": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 3,
+                        "pos": "n",
+                        "chinese": "爸爸",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "dad",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2015-2022年8年间全国卷和自主命题省市高考卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2015-2022年全国卷高考试卷，包括阅读、完形、单选、填空、听力、改错、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选各省市考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2015-2022年8年间全国卷和自主命题省市高考卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 1,
+                "variousspelling": {
+                    "various_spelling": [
+                        "daddy"
+                    ]
+                },
+                "word_family": {
+                    "derivative_info_list": [
+                        {
+                            "derivative_info_list": [],
+                            "word": "daddy",
+                            "mean": "n. 爹；爸爸；最老者；最好者；最大者；最优秀者；最成功者"
+                        }
+                    ],
+                    "word": "dad",
+                    "mean": "n. 爸爸"
+                },
+                "total_exam_freq": 3,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "爸爸",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "My <highlight>dad</highlight>'s words made me realize that my earnings might not be mine to do with as I wished.",
+                                    "month": -1,
+                                    "source": "浙江卷",
+                                    "coll": "",
+                                    "sentence_trans": "父亲的话让我意识到，我的收入可能不是我想要的。",
+                                    "year": 2021,
+                                    "type": "读后续写",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Grandma's rose garden and <highlight>Dad</highlight>'s vegetable garden might be good or bad, but that's not what's important.",
+                                    "month": -1,
+                                    "source": "全国卷2",
+                                    "coll": "",
+                                    "sentence_trans": "奶奶的玫瑰园和爸爸的菜园可能打理地好也可能不好，但那不是重要的。",
+                                    "year": 2016,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "<highlight>Dad</highlight> and I were terribly worried.",
+                                    "month": -1,
+                                    "source": "全国卷2",
+                                    "coll": "",
+                                    "sentence_trans": "我和爸爸非常担心。",
+                                    "year": 2015,
+                                    "type": "改错",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "exchange_info": {
+                    "word_pl": [
+                        "dads"
+                    ]
+                }
+            },
+            "zhongkao": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 160,
+                        "pos": "n",
+                        "chinese": "父亲; 爸爸",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "dad",
+                "direction_info": {
+                    "ranges": 4,
+                    "description": "数据源自2018-2021年4年间全国各省市中考试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2018-2021年全国重点省市中考试卷，包括听力、阅读、完形、单选、填空、改错、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选各省市考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2018-2021年4年间全国各省市中考试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 5,
+                "word_family": {
+                    "derivative_info_list": [
+                        {
+                            "derivative_info_list": [],
+                            "word": "daddy",
+                            "mean": "n. 爹；爸爸；最老者；最好者；最大者；最优秀者；最成功者"
+                        }
+                    ],
+                    "word": "dad",
+                    "mean": "n. 爸爸"
+                },
+                "total_exam_freq": 160,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "父亲; 爸爸",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "What did Mary do for her <highlight>dad</highlight> last Father’s Day?",
+                                    "month": -1,
+                                    "source": "陕西省卷",
+                                    "coll": "",
+                                    "sentence_trans": "玛丽在父亲节那天为她的父亲做了什么？",
+                                    "year": 2021,
+                                    "type": "听力",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "One night, Campbell showed his <highlight>dad</highlight> the bear he’d made for him, saying it would help him beat the illness.",
+                                    "month": -1,
+                                    "source": "大庆市卷",
+                                    "coll": "",
+                                    "sentence_trans": "一天晚上，坎贝尔给他爸爸看了他为他做的熊，说这会帮助他战胜疾病。",
+                                    "year": 2021,
+                                    "type": "完形填空",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Even Rick was finally able to see the funny side and realized his <highlight>dad</highlight> was very cool after all.",
+                                    "month": -1,
+                                    "source": "武汉市卷",
+                                    "coll": "",
+                                    "sentence_trans": "就连瑞克也终于看到了有趣的一面，并意识到他的父亲毕竟很酷。",
+                                    "year": 2021,
+                                    "type": "完形填空",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "word_usage": [
+                    {
+                        "usage": "dad和daddy多用于口语中，在书面语中多用father。"
+                    }
+                ]
+            },
+            "sentencesData": {
+                "status": 1,
+                "info": "notZh2En",
+                "data": {}
+            },
+            "isAutoMatch": false,
+            "Zh2En": false
+        },
+        "query": "dad",
+        "result": "爸爸",
+        "tabSelect": "detail",
+        "dictionaryType": "oxford_buchong",
+        "notFound_show": false,
+        "phoneticShow": "",
+        "globalShowTranslateRecord": "",
+        "pronPrefer": {
+            "type": "usa_1",
+            "speaker": "male",
+            "speed": "standard"
+        },
+        "ServerRecord": "",
+        "ServerUIGS": {
+            "version": "new",
+            "type": "all",
+            "stype": "success",
+            "terminal": "web",
+            "fr": "default",
+            "direction": "etoz",
+            "from": "en",
+            "to": "zh-CHS",
+            "len": 3,
+            "qtype": "text",
+            "qctype": "qc_1",
+            "dict_cover": 1,
+            "detail": 1,
+            "wordCardCover": 1,
+            "wordCardEn": 1,
+            "wordCardCh": 0,
+            "wordCardMinor": 0,
+            "wordCardNetmean": 0,
+            "wordDeform": 1,
+            "keyword": 0,
+            "bilingual": 1,
+            "simple": 0,
+            "levelList": 1,
+            "synonym": 1,
+            "antonym": 0,
+            "conjugate": 1,
+            "rootaffix": 0,
+            "baike_sogou": 1,
+            "baike_wiki": 0,
+            "wordDifference": 0,
+            "word_phrase": 0,
+            "secondQuery": 0,
+            "dict_oxford": 0,
+            "dict_newcentury": 0,
+            "zhongkaotab": 1,
+            "gaokaotab": 1,
+            "CET4tab": 0,
+            "CET6tab": 1,
+            "kaoyantab": 0,
+            "network_tab": 0,
+            "yinying_tab": 1,
+            "tuozhan_tab": 0,
+            "one_pic": 0,
+            "more_pic": 0,
+            "no_pic": 0,
+            "uuid": "2738a384-43fd-453f-8e0b-394e41e35790",
+            "from_type": 0,
+            "t_trans_ssr": 151
+        },
+        "ServerModelUIGS": {
+            "terminal": "web",
+            "type": "trans_model",
+            "pbtype": "pv",
+            "model_general": 1,
+            "model_medical": 1,
+            "model_finance": 1
+        },
+        "ServerSgtkn": "64EB77E6D90B6ACCC8C1E07210EF1E90C8B2AB236755232F",
+        "suggShow": false,
+        "suggestion": "",
+        "suggDirection": "",
+        "usualTop": "",
+        "baseDict": "",
+        "wordCardClick": false,
+        "isFrInput": false,
+        "kanaTips": {
+            "show": false,
+            "left": "",
+            "top": "",
+            "type": "",
+            "arrowLeft": ""
+        },
+        "currSentenceIndex": -1,
+        "prefixStrObj": {
+            "prefixStr": "",
+            "oriPrefixStr": ""
+        },
+        "selectTransBox": {
+            "show": false,
+            "right": 0,
+            "top": 0,
+            "paraphraseInfo": {
+                "word": "",
+                "from": "",
+                "to": "",
+                "area": ""
+            }
+        },
+        "sentenceLoading": false,
+        "newSentenceInfo": {
+            "sentence": "",
+            "candidateIndex": 0
+        },
+        "moreTipInfo": {
+            "opacity": 0,
+            "zIndex": -1
+        },
+        "paraphraseShowInfo": {
+            "card": 0,
+            "query": "",
+            "card_dict": 0
+        },
+        "selectType": "",
+        "wordPos": 0,
+        "candidateWord": "",
+        "syntaxVisible": false,
+        "syntaxStatus": 0
+    },
+    "language": {
+        "from": "auto",
+        "to": "zh-CHS",
+        "detect": "en",
+        "model": "general",
+        "detectShow": false,
+        "langMap": {
+            "current": ""
+        },
+        "zh2en": false,
+        "fromItemList": [
+            {
+                "lang": "auto",
+                "text": "自动检测",
+                "play": false
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "ko",
+                "text": "韩语",
+                "play": true,
+                "abbr": "韩"
+            },
+            {
+                "lang": "fr",
+                "text": "法语",
+                "play": true,
+                "abbr": "法"
+            },
+            {
+                "lang": "ru",
+                "text": "俄语",
+                "play": true,
+                "abbr": "俄"
+            }
+        ],
+        "toItemList": [
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "fr",
+                "text": "法语",
+                "play": true,
+                "abbr": "法"
+            },
+            {
+                "lang": "ko",
+                "text": "韩语",
+                "play": true,
+                "abbr": "韩"
+            },
+            {
+                "lang": "vi",
+                "text": "越南语",
+                "play": true,
+                "abbr": "越"
+            }
+        ]
+    },
+    "voice": {
+        "from": {
+            "lang": "en",
+            "type": "from",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22dad%22%2C%22spokenDialect%22%3A%22en%22%2C%22rate%22%3A%220.8%22%7D",
+            "list": [
+                {
+                    "type": "uk_0",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "dæd",
+                    "abbr": "英",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/3839_dad_uk.mp3"
+                },
+                {
+                    "type": "usa_1",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "dæd",
+                    "abbr": "美",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/3839_dad_usa.mp3"
+                }
+            ],
+            "stype": "phonetic",
+            "phoneticShow": [
+                {
+                    "text": "dæd",
+                    "type": "uk",
+                    "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/3839_dad_uk.mp3"
+                }
+            ]
+        },
+        "to": {
+            "lang": "zh",
+            "type": "to",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22%E7%88%B8%E7%88%B8%22%2C%22spokenDialect%22%3A%22zh-CHS%22%2C%22rate%22%3A%220.8%22%7D",
+            "stype": "normal"
+        }
+    }
+}

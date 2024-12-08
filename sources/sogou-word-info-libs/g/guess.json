@@ -1,0 +1,1406 @@
+{
+    "route": {
+        "name": "text",
+        "path": "/text",
+        "hash": "",
+        "query": {
+            "keyword": "guess",
+            "transfrom": "auto",
+            "transto": "zh-CHS",
+            "model": "general",
+            "errcode": "s10"
+        },
+        "params": {},
+        "fullPath": "/text?keyword=guess&transfrom=auto&transto=zh-CHS&model=general&errcode=s10",
+        "meta": {
+            "mtype": [
+                "textTranslate",
+                "language",
+                "voice"
+            ]
+        },
+        "from": {
+            "name": null,
+            "path": "/",
+            "hash": "",
+            "query": {},
+            "params": {},
+            "fullPath": "/",
+            "meta": {}
+        }
+    },
+    "common": {
+        "CONFIG": {
+            "wuid": 1733633344712,
+            "loginInfo": {},
+            "isIE": 0,
+            "isHitSsrSwitch": true,
+            "isHitWritebookSwitch": false,
+            "isHitAmsSwitch": true,
+            "promotionList": "{\n    \"pc_bottom\":{\n        \"imgsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\",\n        \"qcsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\"\n    },\n    \"pc_middle\":[\n        {\n            \"src\":\"//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c\",\n            \"bgColor\":\"#ffffff\",\n            \"link\":\"\"\n        }\n    ],\n    \"pc_survey\":{\n        \"icon\":\"//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750\",\n        \"link\":\"https://wj.qq.com/s2/8193148/806d/\"\n    }\n}",
+            "bannerData": [],
+            "isHitAsideSurvey": false,
+            "secretCode": 109984457,
+            "uuid": "306d81c1-de24-49e3-88ec-9659596dbb95",
+            "referer": "",
+            "approveToken": "64ED312076B2DD757E7956C488D1F07E7FCF242167552540",
+            "loadTime": 1733633344714,
+            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0",
+            "fcp": "138.197.122.177",
+            "temporaryId": "",
+            "fileId": ""
+        },
+        "hotWords": [],
+        "isFromCollect": false,
+        "psdModify": {
+            "currentStep": 1,
+            "scode": "",
+            "username": ""
+        },
+        "loginStatus": true,
+        "feedBackModule": false,
+        "showPromotionPopup": {
+            "show": false,
+            "type": ""
+        },
+        "showPromotionPCDownload": false,
+        "showShareBomb": false,
+        "shareData": null,
+        "showAppDownLoad": false,
+        "showLoginDialog": false,
+        "showLoading": {
+            "show": false
+        },
+        "toast": {
+            "show": false,
+            "text": "",
+            "loading": false
+        },
+        "modelToast": {
+            "show": false,
+            "text": ""
+        },
+        "selectionGlobalShow": true,
+        "selectionInfo": {
+            "left": 0,
+            "top": 0,
+            "show": false,
+            "from": "",
+            "to": "",
+            "val": "",
+            "area": ""
+        },
+        "showConfirmDialog": false,
+        "promotionList": {
+            "pc_bottom": {
+                "imgsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png",
+                "qcsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png"
+            },
+            "pc_middle": [
+                {
+                    "src": "//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c",
+                    "bgColor": "#ffffff",
+                    "link": ""
+                }
+            ],
+            "pc_survey": {
+                "icon": "//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750",
+                "link": "https://wj.qq.com/s2/8193148/806d/"
+            }
+        },
+        "transTypeTxt": "text",
+        "fixedTabStatus": 0,
+        "bodyTop": 0,
+        "ifHideUserOperation": false
+    },
+    "textTranslate": {
+        "prevTransQuery": "",
+        "translateData": {
+            "translate": {
+                "zly": "zly",
+                "errorCode": "0",
+                "qc_type": "1",
+                "index": "content0",
+                "from": "en",
+                "source": "sogou",
+                "text": "guess",
+                "to": "zh-CHS",
+                "id": "306d81c1-de24-49e3-88ec-9659596dbb95",
+                "dit": "猜测",
+                "orig_text": "guess",
+                "md5": ""
+            },
+            "detect": {
+                "zly": "zly",
+                "detect": "en",
+                "errorCode": "0",
+                "language": "英语",
+                "id": "c053dd70-b51f-11ef-ac3a-2d3c4e6d143d",
+                "text": "guess"
+            },
+            "sgtkn": "64ED312176B2DD757E7956C488D1F07E7FCF242167552540",
+            "wordCard": {
+                "title": "guess",
+                "show": true,
+                "usualDict": [
+                    {
+                        "values": [
+                            "猜测；推测；估计；揣摩；臆断；猜中；猜对；假设；设想；认为；以为；料想"
+                        ],
+                        "pos": "v."
+                    },
+                    {
+                        "values": [
+                            "推断；猜测；猜想；臆测；估计；揣摩；预测"
+                        ],
+                        "pos": "n."
+                    }
+                ],
+                "secondQuery": "",
+                "exchange": {
+                    "word_third": [
+                        "guesses"
+                    ],
+                    "word_ing": [
+                        "guessing"
+                    ],
+                    "word_done": [
+                        "guessed"
+                    ],
+                    "word_pl": [
+                        "guesses"
+                    ],
+                    "word_past": [
+                        "guessed"
+                    ]
+                },
+                "levelList": [
+                    "小学",
+                    "初中",
+                    "高中",
+                    "四级",
+                    "六级",
+                    "考研"
+                ]
+            },
+            "detail": {
+                "synonym": [
+                    {
+                        "word_list": [
+                            "expect",
+                            "count",
+                            "find",
+                            "feel",
+                            "make"
+                        ],
+                        "pos": "vt.",
+                        "mean": "猜测；认为；推测；猜中"
+                    },
+                    {
+                        "word_list": [
+                            "speculate"
+                        ],
+                        "pos": "vi.",
+                        "mean": "猜；推测；猜中"
+                    },
+                    {
+                        "word_list": [
+                            "speculation",
+                            "theory",
+                            "projection"
+                        ],
+                        "pos": "n.",
+                        "mean": "猜测；推测"
+                    }
+                ],
+                "wordRootInfo": {
+                    "word_info_list": [
+                        {
+                            "word": "guesswork",
+                            "pos_mean_info_list": [
+                                {
+                                    "pos": "n.",
+                                    "mean": "猜测；臆测；凭猜测所作之工作"
+                                }
+                            ]
+                        },
+                        {
+                            "word": "guesser",
+                            "pos_mean_info_list": [
+                                {
+                                    "pos": "n.",
+                                    "mean": "推测者；猜测者"
+                                }
+                            ]
+                        },
+                        {
+                            "word": "guesstimate",
+                            "pos_mean_info_list": [
+                                {
+                                    "pos": "n.",
+                                    "mean": "瞎猜；依推测的估计"
+                                },
+                                {
+                                    "pos": "vt.",
+                                    "mean": "瞎猜；估计"
+                                }
+                            ]
+                        },
+                        {
+                            "word": "guestimate",
+                            "pos_mean_info_list": [
+                                {
+                                    "pos": "n.",
+                                    "mean": "推测"
+                                },
+                                {
+                                    "pos": "vt.",
+                                    "mean": "推测"
+                                }
+                            ]
+                        }
+                    ],
+                    "root_word": "guess"
+                },
+                "word_difference_info": [
+                    {
+                        "common_mean": "假设；猜想；推测",
+                        "word_list": [
+                            "presume",
+                            " suppose",
+                            " guess",
+                            " postulate",
+                            " assume"
+                        ],
+                        "word_mean_info__list": [
+                            {
+                                "difference": "侧重以过去经验或根据现实的某些感觉把某事认定为是事实。",
+                                "word": "presume"
+                            },
+                            {
+                                "difference": "常用词，意义较广泛，指缺乏确切事实，根据一些现象进行的推测，也可指为论证而提出合乎逻辑推理的某种假定，有时仅表示自己的意见。",
+                                "word": "suppose"
+                            },
+                            {
+                                "difference": "常用词，指毫无根据仅凭个人主观臆断或碰运气的猜测。",
+                                "word": "guess"
+                            },
+                            {
+                                "difference": "指为证实一个理论的正确性而进行的假设。",
+                                "word": "postulate"
+                            },
+                            {
+                                "difference": "指有很少或完全无根据的武断推测或不合逻辑的推理。",
+                                "word": "assume"
+                            }
+                        ]
+                    }
+                ],
+                "word_group": [
+                    {
+                        "brief_definition": "很难确定；谁都拿不准",
+                        "phrase": "anybody's guess",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "我和你一样不知道, 我和你一样心中无数",
+                        "phrase": "your guess is as good as mine",
+                        "pos": "idm"
+                    },
+                    {
+                        "brief_definition": "根据知识所作的猜测",
+                        "phrase": "educated guess",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "很难确定；谁都拿不准",
+                        "phrase": "anyone's guess",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "我猜；我猜测；我猜想",
+                        "phrase": "I guess",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "猜怎样；猜怎么着",
+                        "phrase": "guess what",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "无把握的猜测",
+                        "phrase": "hazard a guess",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "猜得对",
+                        "phrase": "good guess",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "大胆的猜",
+                        "phrase": "wild guess",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "侥幸的猜测",
+                        "phrase": "lucky guess",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "猜对了；猜测正确",
+                        "phrase": "guess correctly",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "猜错了；猜的不对",
+                        "phrase": "guess wrong",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "敏锐的猜想",
+                        "phrase": "shrewd guess",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "猜不出来",
+                        "phrase": "unable to guess",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "猜测意义",
+                        "phrase": "guess meaning",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "作出猜测",
+                        "phrase": "make guess",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "猜测结果",
+                        "phrase": "guess outcome",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "计算精确的猜测；计算精确的假想",
+                        "phrase": "well-calculated guess",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "做错, 犯错",
+                        "phrase": "miss your guess",
+                        "pos": ""
+                    }
+                ],
+                "bilingual": [
+                    {
+                        "source": "I <em>guess</em> I take after my father.",
+                        "target": "我想我是像我父亲。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Well, I <em>guess</em> in most Western countries we shake hands.",
+                        "target": "我想在大多数西方国家我们握手。",
+                        "url": ""
+                    },
+                    {
+                        "source": "I <em>guess</em> I could, but I don't want to surprise him.",
+                        "target": "我想我可以，但我不想让他惊讶。",
+                        "url": ""
+                    },
+                    {
+                        "source": "I <em>guess</em> this was a good beginning to my new school life.",
+                        "target": "我想这是我新学校生活的一个好开始。",
+                        "url": ""
+                    },
+                    {
+                        "source": "I <em>guess</em> next time you should ask what you're supposed to wear.",
+                        "target": "我想下次你应该问问该穿什么。",
+                        "url": ""
+                    },
+                    {
+                        "source": "I <em>guess</em> this is the answer.",
+                        "target": "我想这就是答案。",
+                        "url": ""
+                    },
+                    {
+                        "source": "I <em>guess</em> she already knows.",
+                        "target": "我想她已经知道了。",
+                        "url": ""
+                    },
+                    {
+                        "source": "I <em>guess</em> he won't come today.",
+                        "target": "我想他今天不会来了。",
+                        "url": ""
+                    },
+                    {
+                        "source": "I <em>guess</em> we should leave early.",
+                        "target": "我想我们应该早点出发。",
+                        "url": ""
+                    },
+                    {
+                        "source": "I can only <em>guess</em> what he is thinking.",
+                        "target": "我只能猜测他在想什么。",
+                        "url": ""
+                    }
+                ],
+                "baike": {
+                    "showMore": false,
+                    "list": [
+                        {
+                            "lemmaTitle": "GUESS",
+                            "link": "https://baike.sogou.com/v218465.htm?ch=sogou.fanyi",
+                            "abstract": "GUESS是美国知名的时装公司，由Marciano四兄弟成立于1981年，总部位于洛杉矶。 它最初是从牛仔起家，慢慢发展成世界顶尖的时尚集团，产品包括时装、鞋履、钟表、精品配饰、手袋、眼镜、香水、行李箱等。该公司于1996年08月08日在美国纽约上市。",
+                            "wapPic": "//img02.sogoucdn.com/v2/thumb/retype_exclude_gif/ext/auto/q/80/crop/xy/ai/w/140/h/140/resize/w/140?appid=201005&sign=fe3601b6be7404711e9b25b35e0335f2&url=https%3A%2F%2Fpic.baike.soso.com%2Fugc%2Fbaikepic2%2F0%2F20240429093653-814673682_jpeg_1921_1921_740329.jpg%2F0",
+                            "pcPic": "//img01.sogoucdn.com/v2/thumb/retype_exclude_gif/ext/auto/q/80/crop/xy/ai/w/140/h/140/resize/w/140?appid=201005&sign=fe3601b6be7404711e9b25b35e0335f2&url=https%3A%2F%2Fpic.baike.soso.com%2Fugc%2Fbaikepic2%2F0%2F20240429093653-814673682_jpeg_1921_1921_740329.jpg%2F0"
+                        },
+                        {
+                            "lemmaTitle": "GUESS",
+                            "link": "https://baike.sogou.com/v101559548.htm?ch=sogou.fanyi",
+                            "abstract": "GUESS是Sequel AG旗下品牌，Sequel AG是一家瑞士公司，总部位于瑞士楚格州，在英国、巴黎、香港、多伦多以及美国康涅狄格州的诺瓦克设立了分支机构。Sequel AG是瑞士钟表工业联合会的成员之一。Sequel AG与GUESS 手表签署了为期15年的许可协议，获得了该品牌的全球独家分销权。Sequel AG在世界上100多个国家通过60个分销商和20,000个零售点，来分销GUESS手表的产品。",
+                            "wapPic": "//img03.sogoucdn.com/v2/thumb/retype_exclude_gif/ext/auto/q/80/crop/xy/ai/w/140/h/140/resize/w/140?appid=201005&sign=1d838a74b0a1a0083e89a8dcfc01e7e0&url=https%3A%2F%2Fpic.baike.soso.com%2Fugc%2Fbaikepic2%2F0%2F20240429071505-2084933456_jpeg_645_465_14594.jpg%2F0",
+                            "pcPic": "//img03.sogoucdn.com/v2/thumb/retype_exclude_gif/ext/auto/q/80/crop/xy/ai/w/140/h/140/resize/w/140?appid=201005&sign=1d838a74b0a1a0083e89a8dcfc01e7e0&url=https%3A%2F%2Fpic.baike.soso.com%2Fugc%2Fbaikepic2%2F0%2F20240429071505-2084933456_jpeg_645_465_14594.jpg%2F0"
+                        }
+                    ]
+                }
+            },
+            "book": {
+                "yingyinNormal": [
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/90d695a9e78539f7e946c7586f56f1f7_47628.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/295a3caeee0cebb493dcf8bf6fa59245_29270.mp3",
+                        "isLavafox": true,
+                        "en": "Well, I <em>guess</em> I'd better go.",
+                        "zh": "我想我得走了。",
+                        "videoNameZh": "《阿凡达》",
+                        "videoNameEn": "《Avatar》",
+                        "url": "http://bisentence_movie.sogou.com/d173b5c51802bcf06af86e61e2568e93_c98f516301ea7a2fdd522a6eb151e67a9f603bc0"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/1a0871c791ff910d9034a539e70accc7_35582.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/2c9ed247bc4894dd3ad7f08464392b60_46883.mp3",
+                        "isLavafox": true,
+                        "en": "That was gonna be my second <em>guess</em>.",
+                        "zh": "我正想这样猜说。",
+                        "videoNameZh": "《冰川时代2》",
+                        "videoNameEn": "《Ice Age: The Meltdown》",
+                        "url": "http://bisentence_movie.sogou.com/b41437ecf6f2b819713807924d3c3b95_5c2c765321596e014320ed9db2175705a0f8cfe4"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/790daa8f93a1187ab951e0ec819d8f48_46441.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/f0cedfdecc52922d7f9aeeebe2892aee_8525.mp3",
+                        "isLavafox": true,
+                        "en": "Well, Krabs, I <em>guess</em> you've won.",
+                        "zh": "好吧，蟹老板，我想你赢了。",
+                        "videoNameZh": "《海绵宝宝历险记：海绵出水》",
+                        "videoNameEn": "《The SpongeBob Movie: Sponge Out of Water》",
+                        "url": "http://bisentence_movie.sogou.com/b01280546fef1d692266447967dc74b0_432f07a1300c0fd42bc9e390281f45faddb4946c"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/a501422482fd89e64251ebd1c480bc0a_8623.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/3b77a6278aef19f6da4c57f899ef8122_43493.mp3",
+                        "isLavafox": true,
+                        "en": "I <em>guess</em> we all make stupid mistakes.",
+                        "zh": "我想我们都在犯傻。",
+                        "videoNameZh": "《欲望都市2》",
+                        "videoNameEn": "《Sex and the City 2》",
+                        "url": "http://bisentence_movie.sogou.com/94822f32111e3be982412c3e7b5345c3_e9afcba9b77458a24ab284f36cb73a1dd8c65e45"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/95bf83fa9c39ec4f55b8511dc0c4ed29_55630.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/7867da21a5140ca847c31c974dfbb6dd_7834.mp3",
+                        "isLavafox": true,
+                        "en": "I <em>guess</em> it's here, because I got tenure!",
+                        "zh": "我想是因为我得到了续约。",
+                        "videoNameZh": "《老友记 第十季》",
+                        "videoNameEn": "《Friends Season 10》",
+                        "url": "http://bisentence_movie.sogou.com/70f621625b0707ebc2bcc3f6b6b38507_c8fdb0067ef2baf06b00fc264a4239f141ceacfb"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/886b76b0c552c22c57062be63cf27261_37722.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/569651ba6c0042d1f9e9ac42d723f1c8_23212.mp3",
+                        "isLavafox": true,
+                        "en": "There's nobody here, Joe. I <em>guess</em> not.",
+                        "zh": "里面没有人，乔伊。我想也没有。",
+                        "videoNameZh": "《老友记 第九季》",
+                        "videoNameEn": "《Friends Season 9》",
+                        "url": "http://bisentence_movie.sogou.com/78c7b37432878c47068a10c1cdf37f7b_d2193cf354ba053f031b44df2fb699ddcc140bd5"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/886b76b0c552c22c57062be63cf27261_37722.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/2d3673dd25f9c32d5e7c9c8935a824fb_50084.mp3",
+                        "isLavafox": true,
+                        "en": "There he goes. Your fiance. I <em>guess</em> so.",
+                        "zh": "他走了，你的未婚夫。我想是啊。",
+                        "videoNameZh": "《老友记 第九季》",
+                        "videoNameEn": "《Friends Season 9》",
+                        "url": "http://bisentence_movie.sogou.com/779b127fb31df7656ce095af7f97cafb_62b2c164d5b6b3ff06ca95a143479adb70dcbe59"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/90d695a9e78539f7e946c7586f56f1f7_47628.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/3a7bb3ad3cf686c9fe7da1143e8e7954_1090.mp3",
+                        "isLavafox": true,
+                        "en": "Well, I <em>guess</em> this is my last video log.",
+                        "zh": "我想这是我最后的视频日志了。",
+                        "videoNameZh": "《阿凡达》",
+                        "videoNameEn": "《Avatar》",
+                        "url": "http://bisentence_movie.sogou.com/992727b799d657b9b1eeaefeb83b96e3_c3630afe3282d8efb77ce70928c40e3692a41b18"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/801dfe77494721a1ea27b2da97ba5878_52038.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/2cc5a9dd43c0d1afa84e6336988627df_52157.mp3",
+                        "isLavafox": true,
+                        "en": "I <em>guess</em>, just start back from the beginning.",
+                        "zh": "我想我们要从头开始了。",
+                        "videoNameZh": "《白日梦想家》",
+                        "videoNameEn": "《The Secret Life of Walter Mitty》",
+                        "url": "http://bisentence_movie.sogou.com/3a206865d9fa50db4e6194847189fa9b_f03d9b4e5a343de68f38b138e6e26748d92e33bb"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/7527e2a9ec38f59ad126037938e4289c_52101.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/60e36932e11bc1001a543444a4a09a22_37874.mp3",
+                        "isLavafox": true,
+                        "en": "Okay, I <em>guess</em> you can close the door now.",
+                        "zh": "好吧，我想你可以把门关上了。",
+                        "videoNameZh": "《老友记 第八季》",
+                        "videoNameEn": "《Friends Season 8》",
+                        "url": "http://bisentence_movie.sogou.com/980065d1039248c16f676894a323c08c_d7870bdfa4b7923321711fc818b9b9ee0deb39b0"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/90d695a9e78539f7e946c7586f56f1f7_47628.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/4ef028bf9f9c0a2db0590c375ab9829d_45764.mp3",
+                        "isLavafox": true,
+                        "en": "I <em>guess</em> they thought I could protect them.",
+                        "zh": "我想他们是觉得我能保护他们。",
+                        "videoNameZh": "《阿凡达》",
+                        "videoNameEn": "《Avatar》",
+                        "url": "http://bisentence_movie.sogou.com/6569eeb92f39f9eadf12e8d5cb437f01_6cb3337c9696cc03ba8d65a41bb23a5f1eb26e6b"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/886b76b0c552c22c57062be63cf27261_37722.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/a5e19da3ee022372a8bfbcd350de8c49_40419.mp3",
+                        "isLavafox": true,
+                        "en": "So I <em>guess</em> we should make it official, huh?",
+                        "zh": "那么我想我们应该要正式点，对吧？",
+                        "videoNameZh": "《老友记 第九季》",
+                        "videoNameEn": "《Friends Season 9》",
+                        "url": "http://bisentence_movie.sogou.com/f0baa165642c4203407a9001b0863c94_0dd31372d71005e9486a3cbb94a9dbbab1e13ab0"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/f012eb5fd120cc2d5b68f18e3d0e7c8c_67362.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/0146c570e376e954bda97ae34295bbf3_42729.mp3",
+                        "isLavafox": true,
+                        "en": "Okay. I <em>guess</em> it's something. It's something.",
+                        "zh": "好吧，我想这还挺不错的。是挺不错的。",
+                        "videoNameZh": "《傲骨贤妻 第五季》",
+                        "videoNameEn": "《The Good Wife Season 5》",
+                        "url": "http://bisentence_movie.sogou.com/90eae078fc1b4ed5c2b6c12ca6f63f3c_13b31a4406a937c139d70758f8d2e3c3f7473245"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/5bb981942caf87340ead3bfbb6c619e6_40098.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/366683fd68edf9b68f6a4a487216a530_56416.mp3",
+                        "isLavafox": true,
+                        "en": "I <em>guess</em> you're right, Plankton. I am just a kid.",
+                        "zh": "我想你是对的，普兰克。我只是个孩子。",
+                        "videoNameZh": "《海绵宝宝历险记》",
+                        "videoNameEn": "《The SpongeBob SquarePants Movie》",
+                        "url": "http://bisentence_movie.sogou.com/c379003f35e4b5ebaaa6f6a74b8200f5_2b88fe25049f50f66137817ac15595eb99ed45e9"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/790daa8f93a1187ab951e0ec819d8f48_46441.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/1c090a362a069eeab0fc8e0f8c00c4eb_6381.mp3",
+                        "isLavafox": true,
+                        "en": "Well, Plankton, I <em>guess</em> we failed to accomplish our goals.",
+                        "zh": "好吧，痞老板，我想我们是失败了。",
+                        "videoNameZh": "《海绵宝宝历险记：海绵出水》",
+                        "videoNameEn": "《The SpongeBob Movie: Sponge Out of Water》",
+                        "url": "http://bisentence_movie.sogou.com/6daac98b621da5295040df60ab950eeb_a779b8460da70c1def83f7da7aeae282b420360a"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/3cc7f04bc4e6bde5cc691b286df1a676_37630.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/42fe1200a966956c3f91409afcac41bb_7527.mp3",
+                        "isLavafox": true,
+                        "en": "Well, I <em>guess</em> that's why they call it psychology, sir.",
+                        "zh": "我想这就是为什么被称为“心理学”了，先生。",
+                        "videoNameZh": "《老友记第一季》",
+                        "videoNameEn": "《Friends Season 1》",
+                        "url": "http://bisentence_movie.sogou.com/2d39536a853cf9bf2d14367a6c302d90_06982f5961bdf4f320fc6c1629657f28511c537e"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/7eb0bec9540cbb2c5939554caf885c99_49670.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/7a82095cb35c1cf9a568d25ceb2cb5ab_36380.mp3",
+                        "isLavafox": true,
+                        "en": "I hadn't thought of that. I <em>guess</em> we're done here.",
+                        "zh": "我没想到哦，训练完毕。",
+                        "videoNameZh": "《生活大爆炸 第二季》",
+                        "videoNameEn": "《The Big Bang Theory Season 2》",
+                        "url": "http://bisentence_movie.sogou.com/ad859cef722d0fefdaafe7ee4094d358_af2edf2cf885930a8dd65b53c1d8d9e377c76eff"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/7527e2a9ec38f59ad126037938e4289c_52101.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/aec3bbe1729bf6b5e4b7b5593ba342b2_46073.mp3",
+                        "isLavafox": true,
+                        "en": "Well, I <em>guess</em> we have some time to kill. Yeah, <em>guess</em> so. Whew. Check these out.",
+                        "zh": "我猜我们得想办法消磨时间。没错，你看。",
+                        "videoNameZh": "《老友记 第八季》",
+                        "videoNameEn": "《Friends Season 8》",
+                        "url": "http://bisentence_movie.sogou.com/3317b20fc15a6e27a69fb13cb25b22cd_e4eb45e2f60959308b22387527b834f58e2940eb"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/649fb0da5e02febcad57f332efe07876_46469.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/44d071095a1f2f0ec2c3e484c76248b5_52743.mp3",
+                        "isLavafox": true,
+                        "en": "Well I <em>guess</em> I gotta start saving up for Ross's birthday, so I <em>guess</em> I'll just stay home and eat dust bunnies.",
+                        "zh": "我想我要开始为罗斯的生日存钱了，我想我将在家里吃肮脏邦尼兔。",
+                        "videoNameZh": "《老友记 第二季》",
+                        "videoNameEn": "《Friends Season 2》",
+                        "url": "http://bisentence_movie.sogou.com/42d5723b1a815b6bc73a6114d471cb66_216747385612b40ab3e1ba24b9e6abd7b19d393c"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/334ae739c2d3bef71ab483cd142c3ad8_18137.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/24ca4bc13e96ee8e2700b809d7d40660_41384.mp3",
+                        "isLavafox": true,
+                        "en": "Well, then I <em>guess</em> we both did what we had to.",
+                        "zh": "我想我们都做了必须做的事。",
+                        "videoNameZh": "《纸牌屋 第五季》",
+                        "videoNameEn": "《House of Cards Season 5》",
+                        "url": "http://bisentence_movie.sogou.com/69aeaf816b3631f53fa403aad196e520_7c3cbfcb4f0deaaf1663cc8111c6da4496335159"
+                    }
+                ]
+            },
+            "pic": "",
+            "voice": {
+                "phonetic": [
+                    {
+                        "text": "ɡes",
+                        "type": "uk",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/4425_guess_uk.mp3"
+                    },
+                    {
+                        "text": "ɡes",
+                        "type": "usa",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/4425_guess_usa.mp3"
+                    }
+                ]
+            },
+            "dictType": "oxford_buchong",
+            "kaoyan": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 2,
+                        "pos": "v/n",
+                        "chinese": "猜测; 推测",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "guess",
+                "word_level_phrase_info": [
+                    {
+                        "brief_definition": "很难确定；谁都拿不准",
+                        "phrase": "anybody's guess",
+                        "pos": "phr"
+                    }
+                ],
+                "direction_info": {
+                    "ranges": 12,
+                    "description": "数据源自2012-2023年12年间全国考研试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2012-2023年全国考研英语一和考研英语二共24套考研试卷，包括阅读、完型填空、翻译、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选全国考研考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2012-2023年12年间全国考研英语一和考研英语二试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 1,
+                "total_exam_freq": 2,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "form an opinion or give an answer about from little or no information",
+                            "zh": "猜测; 推测",
+                            "pos": "v/n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "Whether this research translates elsewhere is anybody's <highlight>guess</highlight>.",
+                                    "month": -1,
+                                    "source": "英语一",
+                                    "coll": "",
+                                    "sentence_trans": "这个研究结果是否适用于其他地方谁也说不准。",
+                                    "year": 2021,
+                                    "type": "阅读理解A",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "If you are unfamiliar with words or idioms, you <highlight>guess</highlight> at their meaning, using clues presented in the context.",
+                                    "month": -1,
+                                    "source": "英语一",
+                                    "coll": "",
+                                    "sentence_trans": "如果你不熟悉单词或习语，你可以根据上下文中出现的线索猜测它们的意思。",
+                                    "year": 2015,
+                                    "type": "阅读理解B",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            "CET6": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 12,
+                        "pos": "v/n",
+                        "chinese": "猜测",
+                        "sense_tier_ratio": 85.71
+                    },
+                    {
+                        "sense_tier": 2,
+                        "pos": "phr",
+                        "chinese": "(I guess)我想; 我认为",
+                        "sense_tier_ratio": 14.29
+                    }
+                ],
+                "word": "guess",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2016.6-2023.6年8年间全六级试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight>考纲释义</highlight>\n精选实考、考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2016-2023年51套试卷，包括阅读、听力、翻译等所有题型。\n\n<highlight>真题例句</highlight>\n精选2016-2023年8年间全六级试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 3,
+                "total_exam_freq": 14,
+                "sense": {
+                    "sense_num": 2,
+                    "sense_info_list": [
+                        {
+                            "en": "form an opinion or give an answer about from little or no information",
+                            "zh": "猜测",
+                            "pos": "v/n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "And let me <highlight>guess</highlight>.",
+                                    "month": 6,
+                                    "source": "CET6",
+                                    "coll": "",
+                                    "sentence_trans": "让我猜猜。",
+                                    "year": 2021,
+                                    "type": "听力",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "At 1,020 feet, almost precisely the depth predicted by Higgins' wild <highlight>guess</highlight>, the well roared and suddenly ejected mud out of the ground.",
+                                    "month": 6,
+                                    "source": "CET6",
+                                    "coll": "",
+                                    "sentence_trans": "在1020英尺处，几乎正是希金斯的疯狂猜测所预测的深度，该井咆哮着突然将泥浆喷出地面。",
+                                    "year": 2021,
+                                    "type": "听力",
+                                    "day": -1
+                                }
+                            ]
+                        },
+                        {
+                            "en": "used when you believe something is true or likely but are not certain",
+                            "zh": "(I guess)我想; 我认为",
+                            "pos": "phr",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "So people will be willing to help them, I <highlight>guess</highlight>.",
+                                    "month": 12,
+                                    "source": "CET6",
+                                    "coll": "",
+                                    "sentence_trans": "所以我想人们会乐意帮助他们。",
+                                    "year": 2021,
+                                    "type": "听力",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Yes, I need to note when I'm worrying about inconsequential things, I <highlight>guess</highlight>.",
+                                    "month": 6,
+                                    "source": "CET6",
+                                    "coll": "",
+                                    "sentence_trans": "是的，我想，当我担心无关紧要的事情时，我需要注意。",
+                                    "year": 2021,
+                                    "type": "听力",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "word_usage": [
+                    {
+                        "usage": "口语中可以用I guess来代替I think。"
+                    },
+                    {
+                        "usage": "guess意思是“认为”“想”时，一般不用于进行体。表示“猜”时，可用于进行体。\n示例：(1) I guess that we are leaving now.\n我想我们该走了。\n(2) They were guessing riddles when I came in.\n我进去时他们正在猜谜语。"
+                    }
+                ],
+                "disambiguation": [
+                    {
+                        "disambiguation_list": [
+                            {
+                                "word": "assume",
+                                "sense_disambiguation": "指有很少或完全无根据的武断推测或不合逻辑的推理。"
+                            },
+                            {
+                                "word": "assumption",
+                                "sense_disambiguation": "侧重主观推测或主观设想。"
+                            },
+                            {
+                                "word": "guess",
+                                "sense_disambiguation": "常用词, 指毫无根据仅凭个人主观臆断或碰运气的猜测。"
+                            },
+                            {
+                                "word": "hypothesis",
+                                "sense_disambiguation": "书面用词, 指有待作进一步检验或证实的假设。"
+                            }
+                        ],
+                        "sense_group": "假设"
+                    }
+                ],
+                "exchange_info": {
+                    "word_third": [
+                        "guesses"
+                    ],
+                    "word_ing": [
+                        "guessing"
+                    ],
+                    "word_done": [
+                        "guessed"
+                    ],
+                    "word_pl": [
+                        "guesses"
+                    ],
+                    "word_past": [
+                        "guessed"
+                    ]
+                }
+            },
+            "CET4": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 11,
+                        "pos": "v/n",
+                        "chinese": "猜测",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "guess",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2016.6-2023.6年8年间全四级试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight>考纲释义</highlight>\n精选实考、考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2016-2023年51套试卷，包括阅读、听力、翻译等所有题型。\n\n<highlight>真题例句</highlight>\n精选2016-2023年8年间试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 3,
+                "total_exam_freq": 11,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "form an opinion or give an answer about from little or no information",
+                            "zh": "猜测",
+                            "pos": "v/n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "I <highlight>guess</highlight> with fewer places to inhabit, they concentrate in greater numbers in few areas.",
+                                    "month": 12,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "我猜，由于可居住的地方越来越少，它们就会集中在少数几个地区。",
+                                    "year": 2021,
+                                    "type": "听力",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Well, if you trust him, then, I <highlight>guess</highlight> it should be OK.",
+                                    "month": 6,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "嗯，如果你信任他，那么，我猜应该没问题。",
+                                    "year": 2021,
+                                    "type": "听力",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "But I asked my father if he texted messages, and <highlight>guess</highlight> what he said?",
+                                    "month": 6,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "但是我问我爸爸有没有发短信，你猜他说了什么？",
+                                    "year": 2016,
+                                    "type": "听力",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "word_usage": [
+                    {
+                        "usage": "guess意思是“认为”“想”时，一般不用于进行体。表示“猜”时，可用于进行体。\n示例：(1) I guess that we are leaving now.\n我想我们该走了。\n(2) They were guessing riddles when I came in.\n我进去时他们正在猜谜语。"
+                    },
+                    {
+                        "usage": "口语中可以用I guess来代替I think。"
+                    }
+                ],
+                "disambiguation": [
+                    {
+                        "disambiguation_list": [
+                            {
+                                "word": "assume",
+                                "sense_disambiguation": "指有很少或完全无根据的武断推测或不合逻辑的推理。"
+                            },
+                            {
+                                "word": "assumption",
+                                "sense_disambiguation": "侧重主观推测或主观设想。"
+                            },
+                            {
+                                "word": "guess",
+                                "sense_disambiguation": "常用词，指毫无根据仅凭个人主观臆断或碰运气的猜测。"
+                            },
+                            {
+                                "word": "hypothesis",
+                                "sense_disambiguation": "书面用词，指有待作进一步检验或证实的假设。"
+                            }
+                        ],
+                        "sense_group": "假设"
+                    }
+                ],
+                "exchange_info": {
+                    "word_third": [
+                        "guesses"
+                    ],
+                    "word_ing": [
+                        "guessing"
+                    ],
+                    "word_done": [
+                        "guessed"
+                    ],
+                    "word_pl": [
+                        "guesses"
+                    ],
+                    "word_past": [
+                        "guessed"
+                    ]
+                }
+            },
+            "gaokao": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 11,
+                        "pos": "v/n",
+                        "chinese": "猜测; 推测",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "guess",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2015-2022年8年间全国卷和自主命题省市高考卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2015-2022年全国卷高考试卷，包括阅读、完形、单选、填空、听力、改错、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选各省市考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2015-2022年8年间全国卷和自主命题省市高考卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 3,
+                "total_exam_freq": 11,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "猜测; 推测",
+                            "pos": "v/n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "Pack a bag, cut a cake, <highlight>guess</highlight> which juice container holds the most liquid, and much more.",
+                                    "month": -1,
+                                    "source": "新高考II卷",
+                                    "coll": "",
+                                    "sentence_trans": "打包，切蛋糕，猜测哪个果汁容器装的液体最多，等等。",
+                                    "year": 2021,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "They enjoy <highlight>guessing</highlight> callers' identity.",
+                                    "month": -1,
+                                    "source": "全国乙卷",
+                                    "coll": "",
+                                    "sentence_trans": "他们喜欢猜测来电者的身份。",
+                                    "year": 2021,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "I <highlight>guess</highlight> I just need a good sleep.",
+                                    "month": -1,
+                                    "source": "全国卷2",
+                                    "coll": "",
+                                    "sentence_trans": "我想我只是需要好好睡一觉。",
+                                    "year": 2015,
+                                    "type": "听力",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "word_usage": [
+                    {
+                        "usage": "guess作动词用时，可以跟名词或代词：\nNo one can guess the cause of the accident.\n无人能猜出事故的原因。"
+                    },
+                    {
+                        "usage": "可以跟从句：\nI really can't guess what you are thinking about.\n我真猜不出你在想什么。"
+                    },
+                    {
+                        "usage": "可以不跟宾语：\nNone of you have guessed right.\n你们谁也没有猜对。"
+                    }
+                ]
+            },
+            "zhongkao": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 48,
+                        "pos": "v/n",
+                        "chinese": "猜测",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "guess",
+                "direction_info": {
+                    "ranges": 4,
+                    "description": "数据源自2018-2021年4年间全国各省市中考试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2018-2021年全国重点省市中考试卷，包括听力、阅读、完形、单选、填空、改错、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选各省市考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2018-2021年4年间全国各省市中考试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 5,
+                "total_exam_freq": 48,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "form an opinion or give an answer about from little or no information",
+                            "zh": "猜测",
+                            "pos": "v/n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "Let the other team members <highlight>guess</highlight> which is the lie.",
+                                    "month": -1,
+                                    "source": "广东省卷",
+                                    "coll": "",
+                                    "sentence_trans": "让其他团队成员猜猜哪个是谎言。",
+                                    "year": 2020,
+                                    "type": "短文填空",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "We should create situations to <highlight>guess</highlight> its meaning.",
+                                    "month": -1,
+                                    "source": "陕西省卷",
+                                    "coll": "",
+                                    "sentence_trans": "我们应该创造条件来猜测它的意思。",
+                                    "year": 2020,
+                                    "type": "短文填空",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "As you can <highlight>guess</highlight>, my life was difficult for a while after I arrived.",
+                                    "month": -1,
+                                    "source": "深圳市卷",
+                                    "coll": "",
+                                    "sentence_trans": "你可以猜到，在我来到这里之后的一段时间里，我的生活很艰难。",
+                                    "year": 2019,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "word_usage": [
+                    {
+                        "usage": "口语中可以用I guess来代替I think。"
+                    },
+                    {
+                        "usage": "guess意思是“认为”“想”时，一般不用于进行体。表示“猜”时，可用于进行体。\n示例：(1) I guess that we are leaving now.\n我想我们该走了。\n(2) They were guessing riddles when I came in.\n我进去时他们正在猜谜语。"
+                    }
+                ],
+                "disambiguation": [
+                    {
+                        "disambiguation_list": [
+                            {
+                                "word": "suppose",
+                                "sense_disambiguation": "指在某一前提条件下或根据已有知识、信息等进行推测，有时用于表达意见。"
+                            },
+                            {
+                                "word": "guess",
+                                "sense_disambiguation": "常用词，指毫无根据仅凭个人主观臆断或碰运气的猜测。"
+                            }
+                        ],
+                        "sense_group": "猜想，推测"
+                    }
+                ]
+            },
+            "sentencesData": {
+                "status": 1,
+                "info": "notZh2En",
+                "data": {}
+            },
+            "isAutoMatch": false,
+            "Zh2En": false
+        },
+        "query": "guess",
+        "result": "猜测",
+        "tabSelect": "detail",
+        "dictionaryType": "oxford_buchong",
+        "notFound_show": false,
+        "phoneticShow": "",
+        "globalShowTranslateRecord": "",
+        "pronPrefer": {
+            "type": "usa_1",
+            "speaker": "male",
+            "speed": "standard"
+        },
+        "ServerRecord": "",
+        "ServerUIGS": {
+            "version": "new",
+            "type": "all",
+            "stype": "success",
+            "terminal": "web",
+            "fr": "default",
+            "direction": "etoz",
+            "from": "en",
+            "to": "zh-CHS",
+            "len": 5,
+            "qtype": "text",
+            "qctype": "qc_1",
+            "dict_cover": 1,
+            "detail": 1,
+            "wordCardCover": 1,
+            "wordCardEn": 1,
+            "wordCardCh": 0,
+            "wordCardMinor": 0,
+            "wordCardNetmean": 0,
+            "wordDeform": 1,
+            "keyword": 0,
+            "bilingual": 1,
+            "simple": 0,
+            "levelList": 1,
+            "synonym": 1,
+            "antonym": 0,
+            "conjugate": 1,
+            "rootaffix": 0,
+            "baike_sogou": 1,
+            "baike_wiki": 0,
+            "wordDifference": 1,
+            "word_phrase": 1,
+            "secondQuery": 0,
+            "dict_oxford": 0,
+            "dict_newcentury": 0,
+            "zhongkaotab": 1,
+            "gaokaotab": 1,
+            "CET4tab": 1,
+            "CET6tab": 1,
+            "kaoyantab": 1,
+            "network_tab": 0,
+            "yinying_tab": 1,
+            "tuozhan_tab": 0,
+            "one_pic": 0,
+            "more_pic": 0,
+            "no_pic": 0,
+            "uuid": "306d81c1-de24-49e3-88ec-9659596dbb95",
+            "from_type": 0,
+            "t_trans_ssr": 143
+        },
+        "ServerModelUIGS": {
+            "terminal": "web",
+            "type": "trans_model",
+            "pbtype": "pv",
+            "model_general": 1,
+            "model_medical": 1,
+            "model_finance": 1
+        },
+        "ServerSgtkn": "64ED312176B2DD757E7956C488D1F07E7FCF242167552540",
+        "suggShow": false,
+        "suggestion": "",
+        "suggDirection": "",
+        "usualTop": "",
+        "baseDict": "",
+        "wordCardClick": false,
+        "isFrInput": false,
+        "kanaTips": {
+            "show": false,
+            "left": "",
+            "top": "",
+            "type": "",
+            "arrowLeft": ""
+        },
+        "currSentenceIndex": -1,
+        "prefixStrObj": {
+            "prefixStr": "",
+            "oriPrefixStr": ""
+        },
+        "selectTransBox": {
+            "show": false,
+            "right": 0,
+            "top": 0,
+            "paraphraseInfo": {
+                "word": "",
+                "from": "",
+                "to": "",
+                "area": ""
+            }
+        },
+        "sentenceLoading": false,
+        "newSentenceInfo": {
+            "sentence": "",
+            "candidateIndex": 0
+        },
+        "moreTipInfo": {
+            "opacity": 0,
+            "zIndex": -1
+        },
+        "paraphraseShowInfo": {
+            "card": 0,
+            "query": "",
+            "card_dict": 0
+        },
+        "selectType": "",
+        "wordPos": 0,
+        "candidateWord": "",
+        "syntaxVisible": false,
+        "syntaxStatus": 0
+    },
+    "language": {
+        "from": "auto",
+        "to": "zh-CHS",
+        "detect": "en",
+        "model": "general",
+        "detectShow": false,
+        "langMap": {
+            "current": ""
+        },
+        "zh2en": false,
+        "fromItemList": [
+            {
+                "lang": "auto",
+                "text": "自动检测",
+                "play": false
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "ko",
+                "text": "韩语",
+                "play": true,
+                "abbr": "韩"
+            },
+            {
+                "lang": "fr",
+                "text": "法语",
+                "play": true,
+                "abbr": "法"
+            },
+            {
+                "lang": "ru",
+                "text": "俄语",
+                "play": true,
+                "abbr": "俄"
+            }
+        ],
+        "toItemList": [
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "ko",
+                "text": "韩语",
+                "play": true,
+                "abbr": "韩"
+            },
+            {
+                "lang": "vi",
+                "text": "越南语",
+                "play": true,
+                "abbr": "越"
+            },
+            {
+                "lang": "fr",
+                "text": "法语",
+                "play": true,
+                "abbr": "法"
+            }
+        ]
+    },
+    "voice": {
+        "from": {
+            "lang": "en",
+            "type": "from",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22guess%22%2C%22spokenDialect%22%3A%22en%22%2C%22rate%22%3A%220.8%22%7D",
+            "list": [
+                {
+                    "type": "uk_0",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "ɡes",
+                    "abbr": "英",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/4425_guess_uk.mp3"
+                },
+                {
+                    "type": "usa_1",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "ɡes",
+                    "abbr": "美",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/4425_guess_usa.mp3"
+                }
+            ],
+            "stype": "phonetic",
+            "phoneticShow": [
+                {
+                    "text": "ɡes",
+                    "type": "uk",
+                    "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/4425_guess_uk.mp3"
+                }
+            ]
+        },
+        "to": {
+            "lang": "zh",
+            "type": "to",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22%E7%8C%9C%E6%B5%8B%22%2C%22spokenDialect%22%3A%22zh-CHS%22%2C%22rate%22%3A%220.8%22%7D",
+            "stype": "normal"
+        }
+    }
+}

@@ -1,0 +1,2094 @@
+{
+    "route": {
+        "name": "text",
+        "path": "/text",
+        "hash": "",
+        "query": {
+            "keyword": "all",
+            "transfrom": "auto",
+            "transto": "zh-CHS",
+            "model": "general",
+            "errcode": "s10"
+        },
+        "params": {},
+        "fullPath": "/text?keyword=all&transfrom=auto&transto=zh-CHS&model=general&errcode=s10",
+        "meta": {
+            "mtype": [
+                "textTranslate",
+                "language",
+                "voice"
+            ]
+        },
+        "from": {
+            "name": null,
+            "path": "/",
+            "hash": "",
+            "query": {},
+            "params": {},
+            "fullPath": "/",
+            "meta": {}
+        }
+    },
+    "common": {
+        "CONFIG": {
+            "wuid": 1733632272889,
+            "loginInfo": {},
+            "isIE": 0,
+            "isHitSsrSwitch": true,
+            "isHitWritebookSwitch": false,
+            "isHitAmsSwitch": true,
+            "promotionList": "{\n    \"pc_bottom\":{\n        \"imgsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\",\n        \"qcsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\"\n    },\n    \"pc_middle\":[\n        {\n            \"src\":\"//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c\",\n            \"bgColor\":\"#ffffff\",\n            \"link\":\"\"\n        }\n    ],\n    \"pc_survey\":{\n        \"icon\":\"//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750\",\n        \"link\":\"https://wj.qq.com/s2/8193148/806d/\"\n    }\n}",
+            "bannerData": [],
+            "isHitAsideSurvey": false,
+            "secretCode": 109984457,
+            "uuid": "ae90ceb6-d7a8-473e-8158-7ee20fce525b",
+            "referer": "",
+            "approveToken": "64E9BA086DA9C76F64624CDED2AE91CC65E0E01A67552110",
+            "loadTime": 1733632272891,
+            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0",
+            "fcp": "138.197.122.177",
+            "temporaryId": "",
+            "fileId": ""
+        },
+        "hotWords": [],
+        "isFromCollect": false,
+        "psdModify": {
+            "currentStep": 1,
+            "scode": "",
+            "username": ""
+        },
+        "loginStatus": true,
+        "feedBackModule": false,
+        "showPromotionPopup": {
+            "show": false,
+            "type": ""
+        },
+        "showPromotionPCDownload": false,
+        "showShareBomb": false,
+        "shareData": null,
+        "showAppDownLoad": false,
+        "showLoginDialog": false,
+        "showLoading": {
+            "show": false
+        },
+        "toast": {
+            "show": false,
+            "text": "",
+            "loading": false
+        },
+        "modelToast": {
+            "show": false,
+            "text": ""
+        },
+        "selectionGlobalShow": true,
+        "selectionInfo": {
+            "left": 0,
+            "top": 0,
+            "show": false,
+            "from": "",
+            "to": "",
+            "val": "",
+            "area": ""
+        },
+        "showConfirmDialog": false,
+        "promotionList": {
+            "pc_bottom": {
+                "imgsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png",
+                "qcsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png"
+            },
+            "pc_middle": [
+                {
+                    "src": "//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c",
+                    "bgColor": "#ffffff",
+                    "link": ""
+                }
+            ],
+            "pc_survey": {
+                "icon": "//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750",
+                "link": "https://wj.qq.com/s2/8193148/806d/"
+            }
+        },
+        "transTypeTxt": "text",
+        "fixedTabStatus": 0,
+        "bodyTop": 0,
+        "ifHideUserOperation": false
+    },
+    "textTranslate": {
+        "prevTransQuery": "",
+        "translateData": {
+            "translate": {
+                "zly": "zly",
+                "errorCode": "0",
+                "qc_type": "1",
+                "index": "content0",
+                "from": "en",
+                "source": "sogou",
+                "text": "all",
+                "to": "zh-CHS",
+                "id": "ae90ceb6-d7a8-473e-8158-7ee20fce525b",
+                "dit": "全部",
+                "orig_text": "all",
+                "md5": ""
+            },
+            "detect": {
+                "zly": "zly",
+                "detect": "en",
+                "errorCode": "0",
+                "language": "英语",
+                "id": "41796ad0-b51d-11ef-8e30-317a1dc9fafe",
+                "text": "all"
+            },
+            "sgtkn": "64E9BA0A6DA9C76F64624CDED2AE91CC65E0E01A67552110",
+            "wordCard": {
+                "title": "all",
+                "show": true,
+                "usualDict": [
+                    {
+                        "values": [
+                            "所有；所有人；所有物；全部；一切；全体；整体；全数"
+                        ],
+                        "pos": "pron."
+                    },
+                    {
+                        "values": [
+                            "所有的；全部的；一切的；整个的；全体的；无论何种的；任何可能的；（某一体征）显著突出的"
+                        ],
+                        "pos": "adj."
+                    },
+                    {
+                        "values": [
+                            "完全地；全部地；全然；整个地；无一例外地；一直；始终；同样地（指程度或数量）；相同地（指比分或得分）"
+                        ],
+                        "pos": "adv."
+                    },
+                    {
+                        "values": [
+                            "全部；一切；全体"
+                        ],
+                        "pos": "n."
+                    }
+                ],
+                "secondQuery": "",
+                "exchange": {},
+                "levelList": [
+                    "小学",
+                    "初中",
+                    "高中",
+                    "四级",
+                    "六级",
+                    "考研",
+                    "雅思"
+                ]
+            },
+            "detail": {
+                "synonym": [
+                    {
+                        "word_list": [
+                            "entire",
+                            "overall",
+                            "total"
+                        ],
+                        "pos": "adj.",
+                        "mean": "全部的"
+                    },
+                    {
+                        "word_list": [
+                            "utterly",
+                            "sheerly"
+                        ],
+                        "pos": "adv.",
+                        "mean": "全然地；越发"
+                    },
+                    {
+                        "word_list": [
+                            "full",
+                            "entirety",
+                            "allness"
+                        ],
+                        "pos": "n.",
+                        "mean": "全部"
+                    }
+                ],
+                "antonym": [
+                    {
+                        "word_list": [
+                            "some",
+                            "partly"
+                        ],
+                        "pos": "",
+                        "mean": ""
+                    }
+                ],
+                "word_difference_info": [
+                    {
+                        "common_mean": "完整的；全部的；整个的",
+                        "word_list": [
+                            "total",
+                            " entire",
+                            " gross",
+                            " full",
+                            " complete",
+                            " whole",
+                            " all"
+                        ],
+                        "word_mean_info__list": [
+                            {
+                                "difference": "与complete用法相近，但强调总量。",
+                                "word": "total"
+                            },
+                            {
+                                "difference": "除了有whole的意思外，还强调既不能加一个也不减少一个的含义。",
+                                "word": "entire"
+                            },
+                            {
+                                "difference": "侧重指未打折扣，未除去成本或皮重等与净重、净数相对。",
+                                "word": "gross"
+                            },
+                            {
+                                "difference": "侧重指内容，含有能包括所有的充足内容的意味。",
+                                "word": "full"
+                            },
+                            {
+                                "difference": "强调事物在内容、程度、或数量方面已完整，已达标准。",
+                                "word": "complete"
+                            },
+                            {
+                                "difference": "比entire更普通，强调每个组成部分都包括在内，无一漏掉或舍去。",
+                                "word": "whole"
+                            },
+                            {
+                                "difference": "有时可与whole, entire和total换用。",
+                                "word": "all"
+                            }
+                        ]
+                    }
+                ],
+                "word_group": [
+                    {
+                        "brief_definition": "全世界",
+                        "phrase": "all over the world",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "首先, 最重要的是",
+                        "phrase": "first of all",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "最重要的是, 首先；除…之外",
+                        "phrase": "above all",
+                        "pos": "phr."
+                    },
+                    {
+                        "brief_definition": "突然, 忽然；一起, 同时",
+                        "phrase": "all at once",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "一直, 始终",
+                        "phrase": "all the time",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "突然；猛地",
+                        "phrase": "all of a sudden",
+                        "pos": "phr."
+                    },
+                    {
+                        "brief_definition": "毕竟, 终究",
+                        "phrase": "after all",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "全年, 一年到头",
+                        "phrase": "all year round",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "整夜；通宵；整宿",
+                        "phrase": "all night long",
+                        "pos": "phr."
+                    },
+                    {
+                        "brief_definition": "满意的, 良好的；对, 是的；好吧",
+                        "phrase": "all right",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "一定, 无论如何",
+                        "phrase": "by all means",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "众所周知；正如我们所知",
+                        "phrase": "as we all know",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "到处, 处处",
+                        "phrase": "all over",
+                        "pos": "idm"
+                    },
+                    {
+                        "brief_definition": "一直；始终",
+                        "phrase": "all along",
+                        "pos": "idm"
+                    },
+                    {
+                        "brief_definition": "四面八方",
+                        "phrase": "in all sides",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "各个年龄；老少皆有；各个年龄段",
+                        "phrase": "of all ages",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "遍及；遍布各地；四散蔓延",
+                        "phrase": "spread all over",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "糟糕的是；最糟糕；最恶劣",
+                        "phrase": "worst of all",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "总而言之",
+                        "phrase": "all in all",
+                        "pos": "coll"
+                    },
+                    {
+                        "brief_definition": "(回答道谢的客套语)不用谢, 哪儿的话；一点也不",
+                        "phrase": "not at all",
+                        "pos": "idm"
+                    }
+                ],
+                "bilingual": [
+                    {
+                        "source": "She ate <em>all</em> the cookies.",
+                        "target": "她吃了全部的饼干。",
+                        "url": ""
+                    },
+                    {
+                        "source": "He gave <em>all</em> his money to charity.",
+                        "target": "他把全部的钱都捐给了慈善机构。",
+                        "url": ""
+                    },
+                    {
+                        "source": "<em>All</em> my heart, <em>all</em> the joy ooh baby, baby please.",
+                        "target": "我整个的心，全部的快乐哦宝贝，（让）宝贝喜欢。",
+                        "url": "www.yingyuzhijia.com"
+                    },
+                    {
+                        "source": "<em>All</em> that i am is worth a dime",
+                        "target": "我全部的财产也就是一个一毛钱硬币",
+                        "url": "wk.baidu.com"
+                    },
+                    {
+                        "source": "We must charge <em>all</em> the meals.",
+                        "target": "我们收取全部的膳食费用。",
+                        "url": "blog.sina.com.cn"
+                    },
+                    {
+                        "source": "Know ye, O man, that <em>all</em> exists.",
+                        "target": "知道呀，哦人类，全部的存在。",
+                        "url": "www.bdpsclub.org"
+                    },
+                    {
+                        "source": "Murphy's book has <em>all</em> the figures.",
+                        "target": "墨菲的书上有全部的数据。",
+                        "url": "dict.youdao.com"
+                    },
+                    {
+                        "source": "The still sow eats up <em>all</em> the draff.",
+                        "target": "不声不响的猪吃光全部的饲料.",
+                        "url": "weibo.com"
+                    },
+                    {
+                        "source": "One day <em>all</em> 10 suns came out at once.",
+                        "target": "一天全部的10个太阳一次出现了。",
+                        "url": "dict.youdao.com"
+                    },
+                    {
+                        "source": "To you, sweetheart, with <em>all</em> my love.",
+                        "target": "我把全部的爱都献给你, 心上的人儿.",
+                        "url": "dict.youdao.com"
+                    }
+                ],
+                "baike": {
+                    "showMore": false,
+                    "list": [
+                        {
+                            "lemmaTitle": "all",
+                            "link": "https://baike.sogou.com/v782149.htm?ch=sogou.fanyi",
+                            "abstract": "all，英文单词，作形容词、代词或副词，翻译为所有的、一切、全部等等。",
+                            "wapPic": "",
+                            "pcPic": ""
+                        },
+                        {
+                            "lemmaTitle": "all",
+                            "link": "https://baike.sogou.com/v213857319.htm?ch=sogou.fanyi",
+                            "abstract": "all是一个医学用语，是急性淋巴细胞白血病的代号。",
+                            "wapPic": "//img03.sogoucdn.com/v2/thumb/retype_exclude_gif/ext/auto/q/80/crop/xy/ai/w/140/h/140/resize/w/140?appid=201005&sign=1f154ccaae325c3d2c2dcf2546bd601e&url=https%3A%2F%2Fpic.baike.soso.com%2Fugc%2Fbaikepic2%2F2447%2F20220615103548-1498184057_png_558_369_299924.jpg%2F0",
+                            "pcPic": "//img03.sogoucdn.com/v2/thumb/retype_exclude_gif/ext/auto/q/80/crop/xy/ai/w/140/h/140/resize/w/140?appid=201005&sign=1f154ccaae325c3d2c2dcf2546bd601e&url=https%3A%2F%2Fpic.baike.soso.com%2Fugc%2Fbaikepic2%2F2447%2F20220615103548-1498184057_png_558_369_299924.jpg%2F0"
+                        }
+                    ]
+                }
+            },
+            "book": {
+                "yingyinNormal": [
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/14b4db1d01990f1eebbc67159676e6fd_60172.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/6cd83ad157e17a5808085f4ca3684625_15950.mp3",
+                        "isLavafox": true,
+                        "en": "It's the maze. <em>All</em> of it.",
+                        "zh": "这是迷宫，全部的。",
+                        "videoNameZh": "《移动迷宫》",
+                        "videoNameEn": "《The Maze Runner》",
+                        "url": "http://bisentence_movie.sogou.com/13a4b6706e812ba04862fad33ebef748_73ff3cd3637eef500aeaa946d7d957f5665ef496"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/eb018cf49e3f89f3bef3ea53525e6ccf_56032.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/9ca89eeecde576f4c9818e1b1cac77e2_13034.mp3",
+                        "isLavafox": true,
+                        "en": "Quick question. Do you mean just Instagram, or <em>all</em> my social...? <em>All</em> of them! Okay, deal.",
+                        "zh": "问一下。你是单指照片分享网，还是所有社交网...？全部的！好，说定了。",
+                        "videoNameZh": "《生活大爆炸 第十二季》",
+                        "videoNameEn": "《The Big Bang Theory Season 12》",
+                        "url": "http://bisentence_movie.sogou.com/03d782087092a36089987bbccfe105e7_bc93dd2d23a2729a3df2d89d86aff809fb370534"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/886b76b0c552c22c57062be63cf27261_37722.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/c839db444b23e816ac53ec5430851248_47425.mp3",
+                        "isLavafox": true,
+                        "en": "I know! We should pool <em>all</em> our money and buy the Knicks!",
+                        "zh": "我知道了！我们该把全部的钱凑起来，买下尼克队！",
+                        "videoNameZh": "《老友记 第九季》",
+                        "videoNameEn": "《Friends Season 9》",
+                        "url": "http://bisentence_movie.sogou.com/11aeaafd36adaaf59263713e43896226_c079533617f746a76519fad3b6c34288fd7ce55d"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/8f914d68a5719517c29ee4735d44fec0_63512.png",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/56a3deeaf7a879d405d13c0858941f63_70010.mp3",
+                        "isLavafox": true,
+                        "en": "<em>All</em> of them? <em>All</em> of them.",
+                        "zh": "整个吗？整个。",
+                        "videoNameZh": "《疯狂外星人》",
+                        "videoNameEn": "《Home》",
+                        "url": "http://bisentence_movie.sogou.com/493ab24a3c0519623a377110eaf8c972_f57403ba664ca663780f519dac0427d8046904ce"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/f5f16d3165593ebdb6d6ae8299e72880_33413.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/3f41e5c089f9d592f661f8079c7097d7_21746.mp3",
+                        "isLavafox": true,
+                        "en": "<em>All</em> the time? <em>All</em> the time.",
+                        "zh": "很多事？可多了。",
+                        "videoNameZh": "《老友记 第六季》",
+                        "videoNameEn": "《Friends Season 6》",
+                        "url": "http://bisentence_movie.sogou.com/51df08a74fbdf1ab4ba47a7e7488b12c_eb755978eb4cba9d9ea09b251e24d65fbc268d27"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/cc6a483c42fe75c06f21bb86096c4218_21245.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/c74b772a7dd40ea5afd3aa8723652eea_48884.mp3",
+                        "isLavafox": true,
+                        "en": "<em>All</em> right, get in. <em>All</em> right.",
+                        "zh": "好吧，上车吧。好的。",
+                        "videoNameZh": "《当幸福来敲门》",
+                        "videoNameEn": "《The Pursuit of Happyness》",
+                        "url": "http://bisentence_movie.sogou.com/abe11494442faaf7922e78e40074488e_da1960f0dde75800ef531ad16923c99b2080b90c"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/b27a0ff79100dfea4af89238f0bf1176_48419.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/b364dd70dc579b0492542e6364934f5a_58188.mp3",
+                        "isLavafox": true,
+                        "en": "Would you hit it! <em>All</em> right. <em>All</em> right.",
+                        "zh": "还不出手。好的，好的。",
+                        "videoNameZh": "《功夫熊猫》",
+                        "videoNameEn": "《Kung Fu Panda》",
+                        "url": "http://bisentence_movie.sogou.com/e94f1c310481daab82cc91e1326af03a_581df7cb3117416679ddb1c1c8755cf0edb8abc9"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/65861602801590fdaf378b1d1c997a40_10433.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/261f432131686d1c7a05ff25d780da76_8810.mp3",
+                        "isLavafox": true,
+                        "en": "Central Park? Yeah. <em>All</em> of us. <em>All</em> day.",
+                        "zh": "中央公园？对，大家一起，去个一整天。",
+                        "videoNameZh": "《老友记 第五季》",
+                        "videoNameEn": "《Friends Season 5》",
+                        "url": "http://bisentence_movie.sogou.com/45e9173c8548c08f69bcfd754e150553_91fc57f1ecc7ce8a06f930949391bb138a0537ef"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/bc809734180889bd06c4d5bc2c8ecd0d_28512.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/1df3e0a4b00ec2d2aa9ca4f6e6371860_53295.mp3",
+                        "isLavafox": true,
+                        "en": "<em>All</em> of us in here, we've <em>all</em> been exposed.",
+                        "zh": "我们都在这里，我们都暴露在病菌之下了。",
+                        "videoNameZh": "《行尸走肉 第四季》",
+                        "videoNameEn": "《The Walking Dead S4》",
+                        "url": "http://bisentence_movie.sogou.com/80fbfd98a91f6e61ab87e93bb7d447df_bf639954cf0ea2477d1feacf3b2745850210a757"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/658cb5af1f2c25ef894d7429bd1ba9af_103.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/ce14645323d5d651d214a11cfc765487_60899.mp3",
+                        "isLavafox": true,
+                        "en": "Aren't we <em>all</em> in grave danger <em>all</em> the time?",
+                        "zh": "我们不是随时都有极大的危险吗？",
+                        "videoNameZh": "《疑犯追踪 第四季》",
+                        "videoNameEn": "《Person of Interest Season 4》",
+                        "url": "http://bisentence_movie.sogou.com/15879c481deacb97bc8fa31ec196f136_633a9ecb499d0660d0deb47d16c2c7f411ab28c5"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/1a903f0039362b0ab8a048b9ba9c9d66_30399.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/de9448ef03f91519e728efa47424ca4a_27788.mp3",
+                        "isLavafox": true,
+                        "en": "Oh, my God. It's <em>all</em> right. It's <em>all</em> right.",
+                        "zh": "喔，天哪。没事的。",
+                        "videoNameZh": "《木星上行》",
+                        "videoNameEn": "《Jupiter Ascending》",
+                        "url": "http://bisentence_movie.sogou.com/5bf177df616cbdb18305ab8e5b51182b_65e7cdcfd44a1b7f82826fe30ae2dc789e773c69"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/3cc7f04bc4e6bde5cc691b286df1a676_37630.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/1afb5ccc95d2b5f740032d339a133264_31731.mp3",
+                        "isLavafox": true,
+                        "en": "That's <em>all</em> you wanted to ask me? That's <em>all</em>.",
+                        "zh": "这就是你想问我的事？对，就这样。",
+                        "videoNameZh": "《老友记第一季》",
+                        "videoNameEn": "《Friends Season 1》",
+                        "url": "http://bisentence_movie.sogou.com/44a99b2b81074e6acb146731badf2a75_a30ebb8b0350dd13afca3ae29cbd79a883ecda5d"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/8199bd85552f0e821d70b6963e25250e_36444.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/446c2babffe663506ab52e86813fe164_53418.mp3",
+                        "isLavafox": true,
+                        "en": "I see <em>all</em> and know <em>all</em>. What are your names?",
+                        "zh": "我无所不见，无所不知，你们叫什么？",
+                        "videoNameZh": "《愤怒的小鸟》",
+                        "videoNameEn": "《Angry Birds》",
+                        "url": "http://bisentence_movie.sogou.com/ae051a2ba80c44faea57a718a3e1d363_be0cede83fee5ee1c06ba29e0754a9a0be593424"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/0ce5a45f0c4dc6ea7a59b6540f05828e_40864.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/fc92dbb99f37035706ab5eb471c97c67_29912.mp3",
+                        "isLavafox": true,
+                        "en": "<em>All</em> right. It's <em>all</em> right. Come and sit down.",
+                        "zh": "好吧好吧，好吧。一切都很好，过来坐下。",
+                        "videoNameZh": "《模仿游戏》",
+                        "videoNameEn": "《The Imitation Game》",
+                        "url": "http://bisentence_movie.sogou.com/0efeeba3a77060e39ff16d13c218d7da_15a4e5fdcc3be6ae2dc9af4e7fff3f44a6286ddb"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/2ef89c1c4fc884751021cf0e308a88e8_44843.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/a2e25a8d0ee915552b99d9e8a6c3e779_26330.mp3",
+                        "isLavafox": true,
+                        "en": "We <em>all</em> think that at first. We are <em>all</em> wrong.",
+                        "zh": "我们一开始都这么以为。但我们都错了。",
+                        "videoNameZh": "《复仇者联盟3：无限战争》",
+                        "videoNameEn": "《Avengers: Infinity War》",
+                        "url": "http://bisentence_movie.sogou.com/29f87034969772a38b8825291101b402_e51707b08377cbb29fb1bf3862be7a28d67d6d31"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/0ce3ba1d09aadca7b93fbf3633e423d4_26694.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/475204cda91c76a5aef7b9bc5dc39f9b_19684.mp3",
+                        "isLavafox": true,
+                        "en": "Attention! <em>All</em> right. <em>All</em> right. Everybody sit.",
+                        "zh": "全体都有好了！好了，都坐下。",
+                        "videoNameZh": "《疯狂动物城》",
+                        "videoNameEn": "《Zootopia》",
+                        "url": "http://bisentence_movie.sogou.com/1c1d96acb8a18fb12231385ea64eeb29_4f9ff2c46985672a86225e2486c5e5d39029584f"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/31f6231322d43401815661ceeacf3a87_49136.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/131529e4d7287f09eb8c68b81b52091a_20030.mp3",
+                        "isLavafox": true,
+                        "en": "It'll be <em>all</em> right now. You'll be <em>all</em> right now.",
+                        "zh": "没事了。没事了。",
+                        "videoNameZh": "《泰坦尼克号》",
+                        "videoNameEn": "《Titanic》",
+                        "url": "http://bisentence_movie.sogou.com/8da2e0236601b335c3197900b3df0884_07a549193b69b1ddd4a7aca16ab9cb37b4578d5e"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/345831827db23c6dca86447206da99f3_25724.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/4d3933c9c3d410f68ddec1e69e1fba0e_26751.mp3",
+                        "isLavafox": true,
+                        "en": "Yeah, you're <em>all</em> the same. Detention, <em>all</em> of you!",
+                        "zh": "是啊，你们都一样。你们全体留堂！",
+                        "videoNameZh": "《女孩成长记 第二季》",
+                        "videoNameEn": "《Girl Meets World Season 2》",
+                        "url": "http://bisentence_movie.sogou.com/ce458692b6e45b4a9aee1b96370e99eb_312397453f5f4dd505777264c0e6834fe0501c07"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/3cc7f04bc4e6bde5cc691b286df1a676_37630.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/4108cebfd79d2763d0b93f7aabd0fe28_1697.mp3",
+                        "isLavafox": true,
+                        "en": "<em>All</em> right. <em>All</em> right. Just keep him away from me.",
+                        "zh": "好，叫他离我远点就是了。",
+                        "videoNameZh": "《老友记第一季》",
+                        "videoNameEn": "《Friends Season 1》",
+                        "url": "http://bisentence_movie.sogou.com/07fbb2dd8e70df3e97692b305e35360d_9b9d7e80f8bc5b8784c0004b246e69683d719f08"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/8a5b25dfe5e482fce849895959f35aba_1648.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/d9f7ed08290f3b9fdd762b07477cea3b_52058.mp3",
+                        "isLavafox": true,
+                        "en": "Ooh, Phoebe, you look great. <em>All</em> right <em>all</em> ready.",
+                        "zh": "菲比，你看起来好美好啦。早知道了。",
+                        "videoNameZh": "《老友记 第三季》",
+                        "videoNameEn": "《Friends Season 3》",
+                        "url": "http://bisentence_movie.sogou.com/80846b7a495ddd63ded0c926021535ba_088edf663e7b0898c3270ac85cd5de1f20f42b32"
+                    }
+                ]
+            },
+            "pic": "",
+            "voice": {
+                "phonetic": [
+                    {
+                        "text": "ɔːl",
+                        "type": "uk",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/34_all_uk.mp3"
+                    },
+                    {
+                        "text": "ɔːl",
+                        "type": "usa",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/34_all_usa.mp3"
+                    }
+                ]
+            },
+            "dictType": "oxford_buchong",
+            "kaoyan": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 143,
+                        "pos": "pron/det",
+                        "chinese": "全部; 一切; 所有",
+                        "sense_tier_ratio": 87.73
+                    },
+                    {
+                        "sense_tier": 4,
+                        "pos": "adv",
+                        "chinese": "(用于强调)完全",
+                        "sense_tier_ratio": 2.45
+                    },
+                    {
+                        "sense_tier": 3,
+                        "pos": "phr",
+                        "chinese": "(after all)毕竟",
+                        "sense_tier_ratio": 1.84
+                    },
+                    {
+                        "sense_tier": 3,
+                        "pos": "phr",
+                        "chinese": "(not at all)一点也不",
+                        "sense_tier_ratio": 1.84
+                    },
+                    {
+                        "sense_tier": 3,
+                        "pos": "phr",
+                        "chinese": "(all the more)更加; 愈",
+                        "sense_tier_ratio": 1.84
+                    },
+                    {
+                        "sense_tier": 3,
+                        "pos": "phr",
+                        "chinese": "(all along)一直",
+                        "sense_tier_ratio": 1.84
+                    },
+                    {
+                        "sense_tier": 3,
+                        "pos": "phr",
+                        "chinese": "(all of a sudden)突然",
+                        "sense_tier_ratio": 1.84
+                    },
+                    {
+                        "sense_tier": 1,
+                        "pos": "phr",
+                        "chinese": "(above all)首要的是; 尤其",
+                        "sense_tier_ratio": 0.61
+                    },
+                    {
+                        "sense_tier": 0,
+                        "pos": "pron/det",
+                        "chinese": "(用于强调)只; 唯一",
+                        "sense_tier_ratio": 0
+                    }
+                ],
+                "word": "all",
+                "total_exam_freq": 163,
+                "direction_info": {
+                    "ranges": 12,
+                    "description": "数据源自2012-2023年12年间全国考研试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2012-2023年全国考研英语一和考研英语二共24套考研试卷，包括阅读、完型填空、翻译、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选全国考研考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2012-2023年12年间全国考研英语一和考研英语二试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 5,
+                "word_level_phrase_info": [
+                    {
+                        "brief_definition": "全世界",
+                        "phrase": "all over the world",
+                        "pos": "phr"
+                    },
+                    {
+                        "brief_definition": "首先；最重要的是",
+                        "phrase": "above all",
+                        "pos": "phr"
+                    },
+                    {
+                        "brief_definition": "毕竟；终究",
+                        "phrase": "after all",
+                        "pos": "phr"
+                    },
+                    {
+                        "brief_definition": "突然；猛地",
+                        "phrase": "all of a sudden",
+                        "pos": "phr"
+                    },
+                    {
+                        "brief_definition": "一直；始终",
+                        "phrase": "all along",
+                        "pos": "phr"
+                    },
+                    {
+                        "brief_definition": "一点也不",
+                        "phrase": "not at all",
+                        "pos": "phr"
+                    },
+                    {
+                        "brief_definition": "一直",
+                        "phrase": "at all times",
+                        "pos": "phr"
+                    },
+                    {
+                        "brief_definition": "据说；根据各种流传的说法",
+                        "phrase": "by all accounts",
+                        "pos": "phr"
+                    },
+                    {
+                        "brief_definition": "更加；愈",
+                        "phrase": "all the more",
+                        "pos": "phr"
+                    },
+                    {
+                        "brief_definition": "不惜一切代价；不计代价",
+                        "phrase": "at all cost",
+                        "pos": "phr"
+                    },
+                    {
+                        "brief_definition": "一点儿也不；根本不",
+                        "phrase": "not ... at all",
+                        "pos": "phr"
+                    }
+                ],
+                "sense": {
+                    "sense_num": 9,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "全部; 一切; 所有",
+                            "pos": "pron/det",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "Certainly, it's incredibly hard to maintain patience at <highlight>all</highlight> times with your children.",
+                                    "month": -1,
+                                    "source": "英语二",
+                                    "coll": "",
+                                    "sentence_trans": "当然，你很难在任何时候都对你的孩子保持耐心。",
+                                    "year": 2020,
+                                    "type": "完型填空",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "This is a skill that will help them <highlight>all</highlight> throughout life.",
+                                    "month": -1,
+                                    "source": "英语二",
+                                    "coll": "",
+                                    "sentence_trans": "这是一项终生受益的技能。",
+                                    "year": 2020,
+                                    "type": "完型填空",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "When education becomes one-size-fits-<highlight>all</highlight>, it risks overlooking a nation's diversity of gifts.",
+                                    "month": -1,
+                                    "source": "英语二",
+                                    "coll": "",
+                                    "sentence_trans": "当教育变得一刀切时，它就有忽视一个国家天赋多样性的风险。",
+                                    "year": 2018,
+                                    "type": "阅读理解A",
+                                    "day": -1
+                                }
+                            ]
+                        },
+                        {
+                            "en": "",
+                            "zh": "(用于强调)完全",
+                            "pos": "adv",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "The recognition given to him for his work were <highlight>all</highlight> bound up with the class politics of the army at the time.",
+                                    "month": -1,
+                                    "source": "英语一",
+                                    "coll": "",
+                                    "sentence_trans": "对他工作的认可都与当时军队的阶级政治有关。",
+                                    "year": 2022,
+                                    "type": "翻译",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "It is <highlight>all</highlight> very well train operators trumpeting the improvements they are making to the network.",
+                                    "month": -1,
+                                    "source": "英语一",
+                                    "coll": "",
+                                    "sentence_trans": "铁路运营商大肆宣扬他们正在改善铁路网络，这是很好的。",
+                                    "year": 2021,
+                                    "type": "阅读理解A",
+                                    "day": -1
+                                }
+                            ]
+                        },
+                        {
+                            "en": "",
+                            "zh": "(after all)毕竟",
+                            "pos": "phr",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "After <highlight>all</highlight>, other countries, such as Australia and Britain, have started liberalizing their legal professions.",
+                                    "month": -1,
+                                    "source": "英语一",
+                                    "coll": "",
+                                    "sentence_trans": "毕竟，其他国家，如澳大利亚和英国，已经开始将他们的法律职业自由化。",
+                                    "year": 2014,
+                                    "type": "阅读理解A",
+                                    "day": -1
+                                }
+                            ]
+                        },
+                        {
+                            "en": "",
+                            "zh": "(not at all)一点也不",
+                            "pos": "phr",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "I knew that no one could imagine me in the fashion industry at <highlight>all</highlight>!",
+                                    "month": -1,
+                                    "source": "英语二",
+                                    "coll": "",
+                                    "sentence_trans": "我知道根本没有人会想象我能进入时尚行业！",
+                                    "year": 2017,
+                                    "type": "翻译",
+                                    "day": -1
+                                }
+                            ]
+                        },
+                        {
+                            "en": "",
+                            "zh": "(all the more)更加; 愈",
+                            "pos": "phr",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "These made him <highlight>all</highlight> the more determined to succeed.",
+                                    "month": -1,
+                                    "source": "英语二",
+                                    "coll": "",
+                                    "sentence_trans": "这些都让他更加坚定了成功的决心。",
+                                    "year": 2019,
+                                    "type": "翻译",
+                                    "day": -1
+                                }
+                            ]
+                        },
+                        {
+                            "en": "",
+                            "zh": "(all along)一直",
+                            "pos": "phr",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "One oft-debated cure for this labor shortage remains as implausible as it's been <highlight>all</highlight> along.",
+                                    "month": -1,
+                                    "source": "英语二",
+                                    "coll": "",
+                                    "sentence_trans": "一直以来，人们争论不休的解决劳动力短缺问题的方法都是难以置信的。",
+                                    "year": 2019,
+                                    "type": "阅读理解A",
+                                    "day": -1
+                                }
+                            ]
+                        },
+                        {
+                            "en": "",
+                            "zh": "(all of a sudden)突然",
+                            "pos": "phr",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "When you start conversation from there and then move outwards, you'll find <highlight>all</highlight> of a sudden that the conversation becomes a lot easier.",
+                                    "month": -1,
+                                    "source": "英语二",
+                                    "coll": "",
+                                    "sentence_trans": "当你从共同点开启对话，然后向外拓展，你会突然发现对话变得容易多了。",
+                                    "year": 2018,
+                                    "type": "阅读理解B",
+                                    "day": -1
+                                }
+                            ]
+                        },
+                        {
+                            "en": "",
+                            "zh": "(above all)首要的是; 尤其",
+                            "pos": "phr",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "If you are a writer, that means—above <highlight>all</highlight>—writing.",
+                                    "month": -1,
+                                    "source": "英语二",
+                                    "coll": "",
+                                    "sentence_trans": "如果你是一名作家，这意味着——最重要的是——写作。",
+                                    "year": 2022,
+                                    "type": "完型填空",
+                                    "day": -1
+                                }
+                            ]
+                        },
+                        {
+                            "synonyms": "",
+                            "en": "",
+                            "zh": "(用于强调)只; 唯一",
+                            "pos": "pron/det",
+                            "antonyms": ""
+                        }
+                    ]
+                },
+                "word_usage": [
+                    {
+                        "usage": "all可以与复数名词与不可数名词连用，表示“所有、全部、一切”之义，名词前可用the、this、that、my、her、his等。与单数名词连用，表示某事在某段时间内持续发生，指“全部的，整个的”\n例：He's worked hard all year. 他一年到头都在辛勤劳动。"
+                    }
+                ]
+            },
+            "CET6": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 20,
+                        "pos": "adj/adv",
+                        "chinese": "全部; 全体",
+                        "sense_tier_ratio": 90.91
+                    },
+                    {
+                        "sense_tier": 2,
+                        "pos": "phr",
+                        "chinese": "(not/no at all)一点也不",
+                        "sense_tier_ratio": 9.09
+                    },
+                    {
+                        "sense_tier": 0,
+                        "pos": "adv",
+                        "chinese": "十分; 非常",
+                        "sense_tier_ratio": 0
+                    }
+                ],
+                "word": "all",
+                "word_level_phrase_info": [
+                    {
+                        "brief_definition": "首先；最重要的是",
+                        "phrase": "first of all",
+                        "pos": "phr"
+                    },
+                    {
+                        "brief_definition": "尽管",
+                        "phrase": "after all",
+                        "pos": "phr"
+                    },
+                    {
+                        "brief_definition": "总而言之",
+                        "phrase": "all in all",
+                        "pos": "phr"
+                    },
+                    {
+                        "brief_definition": "不惜一切代价；在所不惜",
+                        "phrase": "at all costs",
+                        "pos": "phr"
+                    },
+                    {
+                        "brief_definition": "根本；究竟",
+                        "phrase": "at all",
+                        "pos": "phr"
+                    }
+                ],
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2016.6-2023.6年8年间全六级试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight>考纲释义</highlight>\n精选实考、考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2016-2023年51套试卷，包括阅读、听力、翻译等所有题型。\n\n<highlight>真题例句</highlight>\n精选2016-2023年8年间全六级试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 5,
+                "total_exam_freq": 22,
+                "sense": {
+                    "sense_num": 3,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "全部; 全体",
+                            "pos": "adj/adv",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "<highlight>All</highlight> too often, people give up at the first hurdle.",
+                                    "month": 12,
+                                    "source": "CET6",
+                                    "coll": "",
+                                    "sentence_trans": "很多时候，人们在第一个障碍就放弃了。",
+                                    "year": 2021,
+                                    "type": "听力",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "And <highlight>all</highlight> my essays are in there, and I need to hand them in before we break for the Christmas holidays.",
+                                    "month": 12,
+                                    "source": "CET6",
+                                    "coll": "",
+                                    "sentence_trans": "我所有的论文都在里面，我得在圣诞节放假前交上去。",
+                                    "year": 2021,
+                                    "type": "听力",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "If you were in a management or leadership position, when discussing your current role, never take <highlight>all</highlight> the credit for accomplishments or achievements.",
+                                    "month": 12,
+                                    "source": "CET6",
+                                    "coll": "",
+                                    "sentence_trans": "如果你处于管理或领导的位置，当讨论你目前的角色时，千万不要把所有的功劳或成就都归于自己。",
+                                    "year": 2021,
+                                    "type": "听力",
+                                    "day": -1
+                                }
+                            ]
+                        },
+                        {
+                            "en": "",
+                            "zh": "(not/no at all)一点也不",
+                            "pos": "phr",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "As the saying goes, it is better not to believe in books at <highlight>all</highlight>, rather than to believe in them implicitly.",
+                                    "month": 12,
+                                    "source": "CET6",
+                                    "coll": "",
+                                    "sentence_trans": "俗话说，与其对书半信半疑，不如完全不相信书。",
+                                    "year": 2021,
+                                    "type": "写作",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Those who take after-school music, those who do after-school sports, and those with no structured after-school program at <highlight>all</highlight>.",
+                                    "month": 12,
+                                    "source": "CET6",
+                                    "coll": "",
+                                    "sentence_trans": "那些参加课外音乐活动的，参加课外体育活动的，还有完全没有课外活动的人。",
+                                    "year": 2021,
+                                    "type": "阅读理解B",
+                                    "day": -1
+                                }
+                            ]
+                        },
+                        {
+                            "synonyms": "",
+                            "en": "",
+                            "zh": "十分; 非常",
+                            "pos": "adv",
+                            "antonyms": ""
+                        }
+                    ]
+                },
+                "word_usage": [
+                    {
+                        "usage": "all用作代词时意为“全部（人/事）”，表示人时，后接动词需用复数形式；表示事态、总量或抽象概念时，后接动词需用单数形式。\n示例：All were silent.\n大家都沉默了。\nAll was silent.\n万籁俱寂。"
+                    },
+                    {
+                        "usage": "在人称代词之前只能用all of，不能用all，且人称代词要用宾格。\n示例：我们大家都很开心。\n误 All us were happy.\n误 All we were happy.\n正 All of us were happy."
+                    },
+                    {
+                        "usage": "用all时指三个及以上的人或物（包括一群人），指两个人或物时，用both。\n示例：John, Henry and Robert all came.\nJohn and Henry both came."
+                    }
+                ],
+                "disambiguation": [
+                    {
+                        "disambiguation_list": [
+                            {
+                                "word": "all",
+                                "sense_disambiguation": "普通用词, 通常用于修饰单数或复数可数名词、不可数名词、物质名词、表示地点的专有名词, 放在冠词、指示代词、物主代词等之前, 而 whole 放在这些词之后。有时可与 whole, entire 和 total 换用。"
+                            },
+                            {
+                                "word": "complete",
+                                "sense_disambiguation": "强调事物在内容、程度、或数量方面已完整, 已达标准。"
+                            },
+                            {
+                                "word": "entire",
+                                "sense_disambiguation": "较正式用词, 只作定语, 一般只用于修饰单数名词(包括集合名词), 强调团体、时间段、数量等的整体, 含不能有所削减或增添之意, 用于修饰某一具体事物时常可与 whole 互换。"
+                            },
+                            {
+                                "word": "full",
+                                "sense_disambiguation": "侧重指内容, 含有能包括所有的充足内容的意味。"
+                            },
+                            {
+                                "word": "gross",
+                                "sense_disambiguation": "侧重指未打折扣, 未除去成本或皮重等与净重、净数相对。"
+                            }
+                        ],
+                        "sense_group": "完整的"
+                    }
+                ]
+            },
+            "gaokao": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 80,
+                        "pos": "det",
+                        "chinese": "全部的; 整个的",
+                        "sense_tier_ratio": 43.72
+                    },
+                    {
+                        "sense_tier": 55,
+                        "pos": "pron",
+                        "chinese": "全体; 全部",
+                        "sense_tier_ratio": 30.05
+                    },
+                    {
+                        "sense_tier": 48,
+                        "pos": "adv",
+                        "chinese": "全部地; 完全; 都",
+                        "sense_tier_ratio": 26.23
+                    },
+                    {
+                        "sense_tier": 0,
+                        "pos": "det",
+                        "chinese": "所有的; 一切的",
+                        "sense_tier_ratio": 0
+                    },
+                    {
+                        "sense_tier": 0,
+                        "pos": "det",
+                        "chinese": "极度; 尽量",
+                        "sense_tier_ratio": 0
+                    },
+                    {
+                        "sense_tier": 0,
+                        "pos": "det",
+                        "chinese": "唯一; 全是; 仅仅",
+                        "sense_tier_ratio": 0
+                    }
+                ],
+                "word": "all",
+                "total_exam_freq": 183,
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2015-2022年8年间全国卷和自主命题省市高考卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2015-2022年全国卷高考试卷，包括阅读、完形、单选、填空、听力、改错、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选各省市考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2015-2022年8年间全国卷和自主命题省市高考卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 5,
+                "word_level_phrase_info": [
+                    {
+                        "brief_definition": "全世界",
+                        "phrase": "all over the world",
+                        "pos": "phr."
+                    },
+                    {
+                        "brief_definition": "首先；最重要的是",
+                        "phrase": "first of all",
+                        "pos": "phr."
+                    },
+                    {
+                        "brief_definition": "最重要的是；首先；除…之外",
+                        "phrase": "above all",
+                        "pos": "phr."
+                    },
+                    {
+                        "brief_definition": "毕竟；终究",
+                        "phrase": "after all",
+                        "pos": "phr."
+                    },
+                    {
+                        "brief_definition": "突然；忽然；一起；同时",
+                        "phrase": "all at once",
+                        "pos": "phr."
+                    },
+                    {
+                        "brief_definition": "突然；猛地",
+                        "phrase": "all of a sudden",
+                        "pos": "phr."
+                    },
+                    {
+                        "brief_definition": "一直；始终",
+                        "phrase": "all the time",
+                        "pos": "phr."
+                    },
+                    {
+                        "brief_definition": "整夜",
+                        "phrase": "all night long",
+                        "pos": "phr."
+                    },
+                    {
+                        "brief_definition": "一年到头",
+                        "phrase": "all year round",
+                        "pos": "phr."
+                    },
+                    {
+                        "brief_definition": "满意的；良好的；对；是的；好吧",
+                        "phrase": "all right",
+                        "pos": "phr."
+                    },
+                    {
+                        "brief_definition": "一定；无论如何",
+                        "phrase": "by all means",
+                        "pos": "phr."
+                    },
+                    {
+                        "brief_definition": "终日地",
+                        "phrase": "all day long",
+                        "pos": "phr."
+                    },
+                    {
+                        "brief_definition": "(告别用语或书信结语)祝一切顺利；万事如意",
+                        "phrase": "all the best",
+                        "pos": "phr."
+                    },
+                    {
+                        "brief_definition": "最好地；最好的是；最妙的是",
+                        "phrase": "best of all",
+                        "pos": "phr."
+                    },
+                    {
+                        "brief_definition": "大部分都；大多数都",
+                        "phrase": "most of all",
+                        "pos": "phr."
+                    },
+                    {
+                        "brief_definition": "除...之外都；几乎；差不多",
+                        "phrase": "all but",
+                        "pos": "phr."
+                    },
+                    {
+                        "brief_definition": "总共；共计",
+                        "phrase": "in all",
+                        "pos": "idm."
+                    }
+                ],
+                "sense": {
+                    "sense_num": 6,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "全部的; 整个的",
+                            "pos": "det",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "But like <highlight>all</highlight> performances, there are moments when things go wrong.",
+                                    "month": -1,
+                                    "source": "新高考Ⅰ卷",
+                                    "coll": "",
+                                    "sentence_trans": "但就像所有的表演一样，终归会有出错的时候。",
+                                    "year": 2021,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "It took us about 3 hours to go <highlight>all</highlight> the way around the Xi'an City Wall.",
+                                    "month": -1,
+                                    "source": "全国甲卷",
+                                    "coll": "",
+                                    "sentence_trans": "我们花了大约3个小时走完西安城墙。",
+                                    "year": 2021,
+                                    "type": "语法填空",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Tyson left for college, so I had to start at a new school <highlight>all</highlight> by myself.",
+                                    "month": -1,
+                                    "source": "天津卷",
+                                    "coll": "",
+                                    "sentence_trans": "泰森去上大学了，所以我只能一个人去新学校。",
+                                    "year": 2020,
+                                    "type": "阅读表达",
+                                    "day": -1
+                                }
+                            ]
+                        },
+                        {
+                            "en": "",
+                            "zh": "全体; 全部",
+                            "pos": "pron",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "<highlight>All</highlight> we have to do is to finish the last bit of work.",
+                                    "month": -1,
+                                    "source": "天津卷",
+                                    "coll": "",
+                                    "sentence_trans": "我们所要做的就是完成最后一点工作。",
+                                    "year": 2021,
+                                    "type": "单项选择",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "<highlight>All</highlight> across the country, recovery centers have begun building Healing Gardens.",
+                                    "month": -1,
+                                    "source": "全国卷1",
+                                    "coll": "",
+                                    "sentence_trans": "全国各地的康复中心已经开始建造康复花园。",
+                                    "year": 2019,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "But above <highlight>all</highlight>, we want to spend some time with you and your family.",
+                                    "month": -1,
+                                    "source": "全国卷2",
+                                    "coll": "",
+                                    "sentence_trans": "但最重要的是，我们想花点时间陪你和你的家人。",
+                                    "year": 2017,
+                                    "type": "听力",
+                                    "day": -1
+                                }
+                            ]
+                        },
+                        {
+                            "en": "",
+                            "zh": "全部地; 完全; 都",
+                            "pos": "adv",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "As I told my parents at dinner that first night, it was <highlight>all</highlight> a little more high-pressure than I'd expected .",
+                                    "month": -1,
+                                    "source": "新高考Ⅰ卷",
+                                    "coll": "",
+                                    "sentence_trans": "就像我在第一天晚餐时告诉父母的那样，这一切的压力比我预想的要大一些。",
+                                    "year": 2021,
+                                    "type": "完形填空",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "We <highlight>all</highlight> want to hope things will turn out fine.",
+                                    "month": -1,
+                                    "source": "北京卷",
+                                    "coll": "",
+                                    "sentence_trans": "我们都希望事情会好转。",
+                                    "year": 2021,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Those are <highlight>all</highlight> bad for you, but you can have porridge, bread, and orange juice.",
+                                    "month": -1,
+                                    "source": "全国乙卷",
+                                    "coll": "",
+                                    "sentence_trans": "这些对你都不好，但你可以喝粥、吃面包、喝橙汁。",
+                                    "year": 2021,
+                                    "type": "听力",
+                                    "day": -1
+                                }
+                            ]
+                        },
+                        {
+                            "synonyms": "",
+                            "en": "",
+                            "zh": "所有的; 一切的",
+                            "pos": "det",
+                            "antonyms": ""
+                        },
+                        {
+                            "synonyms": "",
+                            "en": "",
+                            "zh": "极度; 尽量",
+                            "pos": "det",
+                            "antonyms": ""
+                        },
+                        {
+                            "synonyms": "",
+                            "en": "",
+                            "zh": "唯一; 全是; 仅仅",
+                            "pos": "det",
+                            "antonyms": ""
+                        }
+                    ]
+                },
+                "word_usage": [
+                    {
+                        "usage": "复数名词前加the表示特定的事物，不加 the 则表示泛指：\nAll the dogs have long ears.\n那些狗的耳朵都很长。\nAll dogs have keen ears.\n所有狗的耳朵都很灵敏。"
+                    }
+                ]
+            },
+            "zhongkao": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 1199,
+                        "pos": "pron/det",
+                        "chinese": "全部; 一切",
+                        "sense_tier_ratio": 79.99
+                    },
+                    {
+                        "sense_tier": 145,
+                        "pos": "adv",
+                        "chinese": "(用于强调)完全; 遍及; 一直",
+                        "sense_tier_ratio": 9.67
+                    },
+                    {
+                        "sense_tier": 91,
+                        "pos": "pron",
+                        "chinese": "(not at all)一点也不",
+                        "sense_tier_ratio": 6.07
+                    },
+                    {
+                        "sense_tier": 32,
+                        "pos": "excl",
+                        "chinese": "(all right)好的",
+                        "sense_tier_ratio": 2.13
+                    },
+                    {
+                        "sense_tier": 32,
+                        "pos": "adv",
+                        "chinese": "(all at once/all of a sudden)突然",
+                        "sense_tier_ratio": 2.13
+                    }
+                ],
+                "word": "all",
+                "total_exam_freq": 1499,
+                "direction_info": {
+                    "ranges": 4,
+                    "description": "数据源自2018-2021年4年间全国各省市中考试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2018-2021年全国重点省市中考试卷，包括听力、阅读、完形、单选、填空、改错、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选各省市考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2018-2021年4年间全国各省市中考试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 5,
+                "word_level_phrase_info": [
+                    {
+                        "brief_definition": "首先；最重要的是",
+                        "phrase": "first of all",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "最重要的是；首先；除…之外",
+                        "phrase": "above all",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "突然；忽然；一起；同时",
+                        "phrase": "all at once",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "毕竟；终究",
+                        "phrase": "after all",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "突然；猛地",
+                        "phrase": "all of a sudden",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "一直；始终",
+                        "phrase": "all the time",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "整夜；通宵；整宿",
+                        "phrase": "all night long",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "全年；一年到头",
+                        "phrase": "all year round",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "满意的；良好的；对；是的；好吧",
+                        "phrase": "all right",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "众所周知；正如我们所知",
+                        "phrase": "as we all know",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "一直；始终",
+                        "phrase": "all along",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "到处；遍及；全部完结",
+                        "phrase": "all over",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "四面八方",
+                        "phrase": "in all sides",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "各个年龄；老少皆有；各个年龄段",
+                        "phrase": "of all ages",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "遍及；遍布各地；四散蔓延",
+                        "phrase": "spread all over",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "糟糕的是；最糟糕；最恶劣",
+                        "phrase": "worst of all",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "彻底；完全；各方面；为（或由）每个人",
+                        "phrase": "all around",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "总而言之",
+                        "phrase": "all in all",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "(回答道谢的客套语)不用谢；哪儿的话；一点也不",
+                        "phrase": "not at all",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "独自；独自一人；单独",
+                        "phrase": "all alone",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "整天；终日",
+                        "phrase": "all day",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "各类；各种；各式",
+                        "phrase": "all kinds of",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "多达；足足",
+                        "phrase": "all of",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "我们全体；我们所有人；我们都",
+                        "phrase": "all of us",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "...的各个方面",
+                        "phrase": "all sides of",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "自古以来；有史以来；从未有过",
+                        "phrase": "all time",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "几乎所有；几乎全部；几乎一切",
+                        "phrase": "almost all",
+                        "pos": ""
+                    }
+                ],
+                "sense": {
+                    "sense_num": 5,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "全部; 一切",
+                            "pos": "pron/det",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "More than one-third of <highlight>all</highlight> food created in the U.S. is wasted.",
+                                    "month": -1,
+                                    "source": "潍坊市卷",
+                                    "coll": "",
+                                    "sentence_trans": "超过三分之一在美国生产的食物被浪费了。",
+                                    "year": 2020,
+                                    "type": "完形填空",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "First of <highlight>all</highlight>, you should always keep in mind what you hope to complete by the end of it.",
+                                    "month": -1,
+                                    "source": "山西省卷",
+                                    "coll": "",
+                                    "sentence_trans": "首先，你应该始终牢记那些你希望在它结束时完成的事情。",
+                                    "year": 2020,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Every school day, we use schoolbags to carry <highlight>all</highlight> of our things to school.",
+                                    "month": -1,
+                                    "source": "云南省卷",
+                                    "coll": "",
+                                    "sentence_trans": "每天上学，我们都用书包把所有的东西带到学校。",
+                                    "year": 2018,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                }
+                            ]
+                        },
+                        {
+                            "en": "",
+                            "zh": "(用于强调)完全; 遍及; 一直",
+                            "pos": "adv",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "This is perhaps why volunteers <highlight>all</highlight> around the world keep doing what they do - their work is \"priceless\".",
+                                    "month": -1,
+                                    "source": "连云港市卷",
+                                    "coll": "",
+                                    "sentence_trans": "这也许就是为什么全世界的志愿者都在坚持做他们该做的事情——他们的工作是“无价的”。",
+                                    "year": 2020,
+                                    "type": "完形填空",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Maybe I can't finish digging <highlight>all</highlight> the way through the earth, but look at what I have found.",
+                                    "month": -1,
+                                    "source": "山西省卷",
+                                    "coll": "",
+                                    "sentence_trans": "也许我不能一路挖完整个地面，但看看我发现了什么。",
+                                    "year": 2020,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "You will be puzzled <highlight>all</highlight> the way through and a little bored from time to time.",
+                                    "month": -1,
+                                    "source": "南京市卷",
+                                    "coll": "",
+                                    "sentence_trans": "你会一路都感到困惑，也会时不时觉得有点无聊。",
+                                    "year": 2018,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                }
+                            ]
+                        },
+                        {
+                            "en": "",
+                            "zh": "(not at all)一点也不",
+                            "pos": "pron",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "We don't know each other at <highlight>all</highlight>, but the bright smiles bring us closer.",
+                                    "month": -1,
+                                    "source": "滨州市卷",
+                                    "coll": "",
+                                    "sentence_trans": "我们根本不认识彼此，但灿烂的笑容让我们更亲近。",
+                                    "year": 2021,
+                                    "type": "英汉互译",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "He has been working with them since he was a little boy and he's not afraid at <highlight>all</highlight>.",
+                                    "month": -1,
+                                    "source": "武汉市卷",
+                                    "coll": "",
+                                    "sentence_trans": "他从小就和他们一起工作，一点也不害怕。",
+                                    "year": 2020,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "How could we believe he gave us so much information about an animal that had not been there at <highlight>all</highlight>?",
+                                    "month": -1,
+                                    "source": "包头市卷",
+                                    "coll": "",
+                                    "sentence_trans": "我们怎么能相信他给了我们这么多关于一种根本不存在的动物的信息呢？",
+                                    "year": 2018,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                }
+                            ]
+                        },
+                        {
+                            "en": "",
+                            "zh": "(all right)好的",
+                            "pos": "excl",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "That's <highlight>all</highlight> right.",
+                                    "month": -1,
+                                    "source": "安徽省卷",
+                                    "coll": "",
+                                    "sentence_trans": "没关系。",
+                                    "year": 2019,
+                                    "type": "任务型阅读",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "<highlight>All</highlight> right. See you!",
+                                    "month": -1,
+                                    "source": "新疆卷",
+                                    "coll": "",
+                                    "sentence_trans": "好的。再见！",
+                                    "year": 2019,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                }
+                            ]
+                        },
+                        {
+                            "en": "",
+                            "zh": "(all at once/all of a sudden)突然",
+                            "pos": "adv",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "<highlight>All</highlight> at once he pulled his horse to stop．",
+                                    "month": -1,
+                                    "source": "南京市卷",
+                                    "coll": "",
+                                    "sentence_trans": "他突然拉着马停下来。",
+                                    "year": 2019,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "The earthquake happened <highlight>all</highlight> of a sudden, but luckily no one was injured in the village.",
+                                    "month": -1,
+                                    "source": "贵阳市卷",
+                                    "coll": "",
+                                    "sentence_trans": "地震突然发生了，但幸运的是村里没有人受伤。",
+                                    "year": 2018,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "word_usage": [
+                    {
+                        "usage": "all用作代词时意为“全部（人/事）”，表示人时，后接动词需用复数形式；表示事态、总量或抽象概念时，后接动词需用单数形式。\n示例：All were silent.\n大家都沉默了。\nAll was silent.\n万籁俱寂。"
+                    },
+                    {
+                        "usage": "在人称代词之前只能用all of，不能用all，且人称代词要用宾格。\n示例：我们大家都很开心。\n误 All us were happy.\n误 All we were happy.\n正 All of us were happy."
+                    },
+                    {
+                        "usage": "用all时指三个及以上的人或物（包括一群人），指两个人或物时，用both。\n示例：John, Henry and Robert all came.\nJohn and Henry both came."
+                    }
+                ],
+                "disambiguation": [
+                    {
+                        "disambiguation_list": [
+                            {
+                                "word": "both",
+                                "sense_disambiguation": "意为“两者都” both... and...意为“...和...（两者）都”。"
+                            },
+                            {
+                                "word": "either",
+                                "sense_disambiguation": "意为“两者中任何一个”。either...or...意为“或者…或者……；要么……要么……”。"
+                            },
+                            {
+                                "word": "neither",
+                                "sense_disambiguation": "意为“两者都不”，是both的反义词。neither... nor...意为“既不...也不...”。"
+                            },
+                            {
+                                "word": "all",
+                                "sense_disambiguation": "表示“三者或三者以上的人或物都”。"
+                            },
+                            {
+                                "word": "none",
+                                "sense_disambiguation": "表示“三者或三者以上的人或物都不”，是all的反义词。"
+                            }
+                        ],
+                        "sense_group": "都"
+                    }
+                ]
+            },
+            "sentencesData": {
+                "status": 1,
+                "info": "notZh2En",
+                "data": {}
+            },
+            "isAutoMatch": false,
+            "Zh2En": false
+        },
+        "query": "all",
+        "result": "全部",
+        "tabSelect": "detail",
+        "dictionaryType": "oxford_buchong",
+        "notFound_show": false,
+        "phoneticShow": "",
+        "globalShowTranslateRecord": "",
+        "pronPrefer": {
+            "type": "usa_1",
+            "speaker": "male",
+            "speed": "standard"
+        },
+        "ServerRecord": "",
+        "ServerUIGS": {
+            "version": "new",
+            "type": "all",
+            "stype": "success",
+            "terminal": "web",
+            "fr": "default",
+            "direction": "etoz",
+            "from": "en",
+            "to": "zh-CHS",
+            "len": 3,
+            "qtype": "text",
+            "qctype": "qc_1",
+            "dict_cover": 1,
+            "detail": 1,
+            "wordCardCover": 1,
+            "wordCardEn": 1,
+            "wordCardCh": 0,
+            "wordCardMinor": 0,
+            "wordCardNetmean": 0,
+            "wordDeform": 0,
+            "keyword": 0,
+            "bilingual": 1,
+            "simple": 0,
+            "levelList": 1,
+            "synonym": 1,
+            "antonym": 1,
+            "conjugate": 0,
+            "rootaffix": 0,
+            "baike_sogou": 1,
+            "baike_wiki": 0,
+            "wordDifference": 1,
+            "word_phrase": 1,
+            "secondQuery": 0,
+            "dict_oxford": 0,
+            "dict_newcentury": 0,
+            "zhongkaotab": 1,
+            "gaokaotab": 1,
+            "CET4tab": 0,
+            "CET6tab": 1,
+            "kaoyantab": 1,
+            "network_tab": 0,
+            "yinying_tab": 1,
+            "tuozhan_tab": 0,
+            "one_pic": 0,
+            "more_pic": 0,
+            "no_pic": 0,
+            "uuid": "ae90ceb6-d7a8-473e-8158-7ee20fce525b",
+            "from_type": 0,
+            "t_trans_ssr": 223
+        },
+        "ServerModelUIGS": {
+            "terminal": "web",
+            "type": "trans_model",
+            "pbtype": "pv",
+            "model_general": 1,
+            "model_medical": 1,
+            "model_finance": 1
+        },
+        "ServerSgtkn": "64E9BA0A6DA9C76F64624CDED2AE91CC65E0E01A67552110",
+        "suggShow": false,
+        "suggestion": "",
+        "suggDirection": "",
+        "usualTop": "",
+        "baseDict": "",
+        "wordCardClick": false,
+        "isFrInput": false,
+        "kanaTips": {
+            "show": false,
+            "left": "",
+            "top": "",
+            "type": "",
+            "arrowLeft": ""
+        },
+        "currSentenceIndex": -1,
+        "prefixStrObj": {
+            "prefixStr": "",
+            "oriPrefixStr": ""
+        },
+        "selectTransBox": {
+            "show": false,
+            "right": 0,
+            "top": 0,
+            "paraphraseInfo": {
+                "word": "",
+                "from": "",
+                "to": "",
+                "area": ""
+            }
+        },
+        "sentenceLoading": false,
+        "newSentenceInfo": {
+            "sentence": "",
+            "candidateIndex": 0
+        },
+        "moreTipInfo": {
+            "opacity": 0,
+            "zIndex": -1
+        },
+        "paraphraseShowInfo": {
+            "card": 0,
+            "query": "",
+            "card_dict": 0
+        },
+        "selectType": "",
+        "wordPos": 0,
+        "candidateWord": "",
+        "syntaxVisible": false,
+        "syntaxStatus": 0
+    },
+    "language": {
+        "from": "auto",
+        "to": "zh-CHS",
+        "detect": "en",
+        "model": "general",
+        "detectShow": false,
+        "langMap": {
+            "current": ""
+        },
+        "zh2en": false,
+        "fromItemList": [
+            {
+                "lang": "auto",
+                "text": "自动检测",
+                "play": false
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "fr",
+                "text": "法语",
+                "play": true,
+                "abbr": "法"
+            },
+            {
+                "lang": "ko",
+                "text": "韩语",
+                "play": true,
+                "abbr": "韩"
+            },
+            {
+                "lang": "th",
+                "text": "泰语",
+                "play": true,
+                "abbr": "泰"
+            }
+        ],
+        "toItemList": [
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "fr",
+                "text": "法语",
+                "play": true,
+                "abbr": "法"
+            },
+            {
+                "lang": "ko",
+                "text": "韩语",
+                "play": true,
+                "abbr": "韩"
+            },
+            {
+                "lang": "vi",
+                "text": "越南语",
+                "play": true,
+                "abbr": "越"
+            }
+        ]
+    },
+    "voice": {
+        "from": {
+            "lang": "en",
+            "type": "from",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22all%22%2C%22spokenDialect%22%3A%22en%22%2C%22rate%22%3A%220.8%22%7D",
+            "list": [
+                {
+                    "type": "uk_0",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "ɔːl",
+                    "abbr": "英",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/34_all_uk.mp3"
+                },
+                {
+                    "type": "usa_1",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "ɔːl",
+                    "abbr": "美",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/34_all_usa.mp3"
+                }
+            ],
+            "stype": "phonetic",
+            "phoneticShow": [
+                {
+                    "text": "ɔːl",
+                    "type": "uk",
+                    "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/34_all_uk.mp3"
+                }
+            ]
+        },
+        "to": {
+            "lang": "zh",
+            "type": "to",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22%E5%85%A8%E9%83%A8%22%2C%22spokenDialect%22%3A%22zh-CHS%22%2C%22rate%22%3A%220.8%22%7D",
+            "stype": "normal"
+        }
+    }
+}

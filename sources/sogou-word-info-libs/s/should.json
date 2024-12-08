@@ -1,0 +1,1191 @@
+{
+    "route": {
+        "name": "text",
+        "path": "/text",
+        "hash": "",
+        "query": {
+            "keyword": "should",
+            "transfrom": "auto",
+            "transto": "zh-CHS",
+            "model": "general",
+            "errcode": "s10"
+        },
+        "params": {},
+        "fullPath": "/text?keyword=should&transfrom=auto&transto=zh-CHS&model=general&errcode=s10",
+        "meta": {
+            "mtype": [
+                "textTranslate",
+                "language",
+                "voice"
+            ]
+        },
+        "from": {
+            "name": null,
+            "path": "/",
+            "hash": "",
+            "query": {},
+            "params": {},
+            "fullPath": "/",
+            "meta": {}
+        }
+    },
+    "common": {
+        "CONFIG": {
+            "wuid": 1733634330242,
+            "loginInfo": {},
+            "isIE": 0,
+            "isHitSsrSwitch": true,
+            "isHitWritebookSwitch": false,
+            "isHitAmsSwitch": true,
+            "promotionList": "{\n    \"pc_bottom\":{\n        \"imgsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\",\n        \"qcsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\"\n    },\n    \"pc_middle\":[\n        {\n            \"src\":\"//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c\",\n            \"bgColor\":\"#ffffff\",\n            \"link\":\"\"\n        }\n    ],\n    \"pc_survey\":{\n        \"icon\":\"//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750\",\n        \"link\":\"https://wj.qq.com/s2/8193148/806d/\"\n    }\n}",
+            "bannerData": [],
+            "isHitAsideSurvey": false,
+            "secretCode": 109984457,
+            "uuid": "71b6dec7-be73-4a84-b2ce-6d36629c0cdf",
+            "referer": "",
+            "approveToken": "64F13FDA8148268F8382AB38B1EF1BCB840FF40F6755291A",
+            "loadTime": 1733634330244,
+            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0",
+            "fcp": "31.223.184.69",
+            "temporaryId": "",
+            "fileId": ""
+        },
+        "hotWords": [],
+        "isFromCollect": false,
+        "psdModify": {
+            "currentStep": 1,
+            "scode": "",
+            "username": ""
+        },
+        "loginStatus": true,
+        "feedBackModule": false,
+        "showPromotionPopup": {
+            "show": false,
+            "type": ""
+        },
+        "showPromotionPCDownload": false,
+        "showShareBomb": false,
+        "shareData": null,
+        "showAppDownLoad": false,
+        "showLoginDialog": false,
+        "showLoading": {
+            "show": false
+        },
+        "toast": {
+            "show": false,
+            "text": "",
+            "loading": false
+        },
+        "modelToast": {
+            "show": false,
+            "text": ""
+        },
+        "selectionGlobalShow": true,
+        "selectionInfo": {
+            "left": 0,
+            "top": 0,
+            "show": false,
+            "from": "",
+            "to": "",
+            "val": "",
+            "area": ""
+        },
+        "showConfirmDialog": false,
+        "promotionList": {
+            "pc_bottom": {
+                "imgsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png",
+                "qcsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png"
+            },
+            "pc_middle": [
+                {
+                    "src": "//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c",
+                    "bgColor": "#ffffff",
+                    "link": ""
+                }
+            ],
+            "pc_survey": {
+                "icon": "//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750",
+                "link": "https://wj.qq.com/s2/8193148/806d/"
+            }
+        },
+        "transTypeTxt": "text",
+        "fixedTabStatus": 0,
+        "bodyTop": 0,
+        "ifHideUserOperation": false
+    },
+    "textTranslate": {
+        "prevTransQuery": "",
+        "translateData": {
+            "translate": {
+                "zly": "zly",
+                "errorCode": "0",
+                "qc_type": "1",
+                "index": "content0",
+                "from": "en",
+                "source": "sogou",
+                "text": "should",
+                "to": "zh-CHS",
+                "id": "71b6dec7-be73-4a84-b2ce-6d36629c0cdf",
+                "dit": "应该",
+                "orig_text": "should",
+                "md5": ""
+            },
+            "detect": {
+                "zly": "zly",
+                "detect": "en",
+                "errorCode": "0",
+                "language": "英语",
+                "id": "0bbff620-b522-11ef-8acb-a3974c24e531",
+                "text": "should"
+            },
+            "sgtkn": "64F13FDD8148268F8382AB38B1EF1BCB840FF40F6755291A",
+            "wordCard": {
+                "title": "should",
+                "show": true,
+                "usualDict": [
+                    {
+                        "values": [
+                            "应该；应当；（表建议）该；可以；（表预期）应该会；（表与预期相反）本应；（与I或we连用代替would，表示虚拟结果）就将；（表拒绝、恼怒或惊奇）竟会；竟然会；（表可能）假如；万一"
+                        ],
+                        "pos": "modal v."
+                    }
+                ],
+                "secondQuery": "",
+                "exchange": {
+                    "word_proto": [
+                        "shall"
+                    ]
+                },
+                "levelList": [
+                    "小学",
+                    "初中",
+                    "高中",
+                    "四级",
+                    "六级",
+                    "考研"
+                ]
+            },
+            "detail": {
+                "synonym": [
+                    {
+                        "word_list": [
+                            "ought",
+                            "may",
+                            "would"
+                        ],
+                        "pos": "aux.",
+                        "mean": "应该；就；可能；将要"
+                    }
+                ],
+                "word_difference_info": [
+                    {
+                        "common_mean": "应该；应当",
+                        "word_list": [
+                            "ought to",
+                            " should"
+                        ],
+                        "word_mean_info__list": [
+                            {
+                                "difference": "侧重反映客观情况，多在涉及法律、道义、责任、义务或原则时使用。",
+                                "word": "ought to"
+                            },
+                            {
+                                "difference": "侧重自己的主观看法，语气比ought to稍弱一些。",
+                                "word": "should"
+                            }
+                        ]
+                    }
+                ],
+                "word_group": [
+                    {
+                        "brief_definition": "本该做某事",
+                        "phrase": "should have done sth.",
+                        "pos": "phr."
+                    },
+                    {
+                        "brief_definition": "那你真的走大运了；但愿你福星高照",
+                        "phrase": "should be so lucky",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "可谓；似乎在说",
+                        "phrase": "as who should say",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "淫乱的；乱交的；道德品质有问题的",
+                        "phrase": "no better than one should",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "竟然会",
+                        "phrase": "who should - but",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "我应该会这么说吧",
+                        "phrase": "I should coco",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "竟然会",
+                        "phrase": "what should - but",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "我应该会这么说吧",
+                        "phrase": "I should cocoa",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "应该是；应是；应当是",
+                        "phrase": "should be",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "不应；不应该；不应当",
+                        "phrase": "should not",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "你应该；你应当",
+                        "phrase": "you should",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "应该有",
+                        "phrase": "should have",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "我应；我应当；我应该",
+                        "phrase": "should I",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "我想说；应该说；我应该说",
+                        "phrase": "I should say",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "应该做",
+                        "phrase": "should have done",
+                        "pos": ""
+                    }
+                ],
+                "bilingual": [
+                    {
+                        "source": "He <em>should</em> cut his hair.",
+                        "target": "他应该剪头发。",
+                        "url": ""
+                    },
+                    {
+                        "source": "<em>Should</em> I go by bus?",
+                        "target": "我应该坐公交车去吗？",
+                        "url": ""
+                    },
+                    {
+                        "source": "You <em>should</em> see a doctor.",
+                        "target": "你应该去看医生。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Sure, that <em>should</em> be OK.",
+                        "target": "当然，应该没问题。",
+                        "url": ""
+                    },
+                    {
+                        "source": "You <em>should</em> bring an umbrella.",
+                        "target": "你应该带把伞。",
+                        "url": ""
+                    },
+                    {
+                        "source": "He <em>should</em> be back by now.",
+                        "target": "他现在应该回来了。",
+                        "url": ""
+                    },
+                    {
+                        "source": "You <em>should</em> get a hobby.",
+                        "target": "你应该培养一个爱好。",
+                        "url": ""
+                    },
+                    {
+                        "source": "You <em>should</em> take more exercise.",
+                        "target": "你应该多锻炼。",
+                        "url": ""
+                    },
+                    {
+                        "source": "You <em>should</em> take a deep breath.",
+                        "target": "你应该深呼吸。",
+                        "url": ""
+                    },
+                    {
+                        "source": "You <em>should</em> do more exercise.",
+                        "target": "你应该多做运动。",
+                        "url": ""
+                    }
+                ],
+                "baike": {
+                    "showMore": false,
+                    "list": [
+                        {
+                            "lemmaTitle": "should",
+                            "link": "https://baike.sogou.com/v99618911.htm?ch=sogou.fanyi",
+                            "abstract": "should，英语单词，可作助动词，翻译为应该，将会，本当等等。",
+                            "wapPic": "",
+                            "pcPic": ""
+                        }
+                    ]
+                }
+            },
+            "book": {
+                "yingyinNormal": [
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/f5f16d3165593ebdb6d6ae8299e72880_33413.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/7e0fb8e7e36562c8a0091b706844508d_24388.mp3",
+                        "isLavafox": true,
+                        "en": "Oh no. Stay. Stay. Because you <em>should</em> you <em>should</em> stay.",
+                        "zh": "留下来，你应该留下来。",
+                        "videoNameZh": "《老友记 第六季》",
+                        "videoNameEn": "《Friends Season 6》",
+                        "url": "http://bisentence_movie.sogou.com/c5ec1de1b64ff1ef296bfe948f451acb_2320580a755357ac9d136c20a3721fd5d2ac522e"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/21d26cfef0cd26f0813072491b08dd5a_57364.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/cc66b647f6dfa68b2b4958a563cf66ab_7502.mp3",
+                        "isLavafox": true,
+                        "en": "Well, what <em>should</em> I do?",
+                        "zh": "那我应该怎么做？",
+                        "videoNameZh": "《生活大爆炸 第六季》",
+                        "videoNameEn": "《The Big Bang Theory Season 6》",
+                        "url": "http://bisentence_movie.sogou.com/2156f93a40bd55c492faabe2a0a6f224_555fb98ebdb3270582904865f6da7ab3a06b3021"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/1a903f0039362b0ab8a048b9ba9c9d66_30399.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/95df722a3fdcafa7fa99cb667063d2ce_45987.mp3",
+                        "isLavafox": true,
+                        "en": "You <em>should</em> have stayed dead.",
+                        "zh": "你真不应该回来。",
+                        "videoNameZh": "《木星上行》",
+                        "videoNameEn": "《Jupiter Ascending》",
+                        "url": "http://bisentence_movie.sogou.com/1060d52ec366e181ba326cbe55f58a9d_1c587aa4c202297216d9535d3769620a12397d33"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/b630caafa2606557856da7a333933a5d_54182.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/c497f166397bfefcc524f91cec432dfe_9723.mp3",
+                        "isLavafox": true,
+                        "en": "I think we <em>should</em> talk now.",
+                        "zh": "我觉得我们应该谈谈。",
+                        "videoNameZh": "《生活大爆炸 第三季》",
+                        "videoNameEn": "《The Big Bang Theory Season 3》",
+                        "url": "http://bisentence_movie.sogou.com/53d27400192eda8ee816f7e2f12fe9b9_ee45728455c5d4e5bdee0262cce6a1e3acb664c3"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/1a0871c791ff910d9034a539e70accc7_35582.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/33bc3a19033a682e00ba7a06e6f43802_18525.mp3",
+                        "isLavafox": true,
+                        "en": "Maybe you <em>should</em> run away more.",
+                        "zh": "你应该试着多逃跑。",
+                        "videoNameZh": "《冰川时代2》",
+                        "videoNameEn": "《Ice Age: The Meltdown》",
+                        "url": "http://bisentence_movie.sogou.com/b2b445294e05da982e0a0f92a3f1da10_c470a99d1bff46043407f72c3d0e868c53ec0442"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/3bccca9abe5ab96bd7f3eaed6bd40cf2_52899.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/0d80e0185d5f7b03459814fe94bb5174_76147.mp3",
+                        "isLavafox": true,
+                        "en": "Well, you <em>should</em> be embarrassed.",
+                        "zh": "你是应该觉得尴尬。",
+                        "videoNameZh": "《老友记 第七季》",
+                        "videoNameEn": "《Friends Season 7》",
+                        "url": "http://bisentence_movie.sogou.com/0d6423cc267b82f18e49211c8c2284bc_6faf7aebbf0bfbc81d2f238960cb88e36510b150"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/991d80b61a77e9ae8d7ee03b96027489_52229.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/e9bed4f8b92be914b1403460344c7d9b_38724.mp3",
+                        "isLavafox": true,
+                        "en": "Then you <em>should</em>'ve saved Peeta.",
+                        "zh": "那你就应该救了皮塔。",
+                        "videoNameZh": "《饥饿游戏3：嘲笑鸟(上)》",
+                        "videoNameEn": "《The Hunger Games: Mockingjay - Part 1》",
+                        "url": "http://bisentence_movie.sogou.com/b17406d3336a7889815c9c99e37dc1f3_0a61598f5af1cff94810ad2963825fa96d63bfd2"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/c147f8d54a969778fef4aa74fdb25c24_34800.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/2876158d30903776331ff249cb6c6bb3_49849.mp3",
+                        "isLavafox": true,
+                        "en": "You <em>should</em> talk to your husband.",
+                        "zh": "你应该跟你丈夫谈谈。",
+                        "videoNameZh": "《纸牌屋 第四季》",
+                        "videoNameEn": "《House of Cards Season 4》",
+                        "url": "http://bisentence_movie.sogou.com/dc762abac575ffa09c3c9ed03ad62d41_19d6a863764c700a6c9260aab0571298d8f93ef2"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/6a0f1af500949aabdf79e8935d4a7230_22265.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/cbd667606f1ee85452c66826a92593af_13913.mp3",
+                        "isLavafox": true,
+                        "en": "Okay, okay, okay <em>should</em> I be scared?",
+                        "zh": "我应该被吓到吗？",
+                        "videoNameZh": "《老友记 第四季》",
+                        "videoNameEn": "《Friends Season 4》",
+                        "url": "http://bisentence_movie.sogou.com/2c93458906ef9d7c828f09f49b1cff21_1f988c15bcbacd73ab235ef82c599382cbc64538"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/7527e2a9ec38f59ad126037938e4289c_52101.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/724f3cbfde15ca8d7f0a5f878fdb4cd3_38534.mp3",
+                        "isLavafox": true,
+                        "en": "<em>Should</em> I leave this open for you too?",
+                        "zh": "我应该让门开着吗？",
+                        "videoNameZh": "《老友记 第八季》",
+                        "videoNameEn": "《Friends Season 8》",
+                        "url": "http://bisentence_movie.sogou.com/fb179e2dd3161bf5404977c445426b61_9f94154252142f660e5d44d1f91666e64419f617"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/cafa3f43ebf863b5c142943f6dd97c73_58944.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/a8b4c3a02046b64a232f603e0bc9c0eb_45936.mp3",
+                        "isLavafox": true,
+                        "en": "I just thought you <em>should</em> know.",
+                        "zh": "我只是觉得应该让你们知道。",
+                        "videoNameZh": "《爆裂鼓手》",
+                        "videoNameEn": "《Whiplash》",
+                        "url": "http://bisentence_movie.sogou.com/a69f1233b4a4c60367f91a01715c4ab1_a2b615945225e8aca36a5cb8e7c60322bf99457b"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/7527e2a9ec38f59ad126037938e4289c_52101.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/bea586dbccc22c8171e3de0586619bf3_35631.mp3",
+                        "isLavafox": true,
+                        "en": "Maybe you two <em>should</em> live together.",
+                        "zh": "你们两个应该住在一起。",
+                        "videoNameZh": "《老友记 第八季》",
+                        "videoNameEn": "《Friends Season 8》",
+                        "url": "http://bisentence_movie.sogou.com/699c2100f66f2ebad795beb047570dbf_fe4edb4cb4a1f2ca0fc40443ce0531c4adbaa839"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/ce4704185ed874d2da0aa0211b7c5d4d_3508.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/852fbb87cf6eb12d723c5fa340a1d920_75893.mp3",
+                        "isLavafox": true,
+                        "en": "You <em>should</em> think about getting hitched.",
+                        "zh": "你也应该考虑结婚。",
+                        "videoNameZh": "《纸牌屋 第三季》",
+                        "videoNameEn": "《House of Cards Season 3》",
+                        "url": "http://bisentence_movie.sogou.com/1af124cc128da440035cb82bb6236815_1c0933e60ab6cfb186d475e34b993424872b6db0"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/425544bae47ffe8e83f25dddca9d2256_54408.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/4917a564035104a82572ffd7a454b706_25453.mp3",
+                        "isLavafox": true,
+                        "en": "Maybe you <em>should</em> look out your window.",
+                        "zh": "也许你应该看看窗外。",
+                        "videoNameZh": "《伦敦陷落》",
+                        "videoNameEn": "《London Has Fallen》",
+                        "url": "http://bisentence_movie.sogou.com/fa08b1c9e42b5af09900ccde2ce41a88_b6df16df0536ab7ed3ad16bef776e33766b5a847"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/14b4db1d01990f1eebbc67159676e6fd_60172.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/8a7809b162ad7e6af2595c727e207385_19970.mp3",
+                        "isLavafox": true,
+                        "en": "I think you <em>should</em> worry about it now.",
+                        "zh": "我觉得应该先弄清楚。",
+                        "videoNameZh": "《移动迷宫》",
+                        "videoNameEn": "《The Maze Runner》",
+                        "url": "http://bisentence_movie.sogou.com/d4e3ea1676ff74ed9cabd18be0d23b24_77923168a2fd95aa200fdf0cf9eaa761cadc84e6"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/55f99b4ef7d3c537807d0574227c87bd_13386.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/a6e795483e4eb0a47c40d4878604c1fb_33649.mp3",
+                        "isLavafox": true,
+                        "en": "You <em>should</em>'ve got paid up front, Banner.",
+                        "zh": "我应该先收她的钱。",
+                        "videoNameZh": "《复仇者联盟》",
+                        "videoNameEn": "《The Avengers》",
+                        "url": "http://bisentence_movie.sogou.com/3203f68617b126d0f5ddff0d9e7fe09c_38e80fb1837c625312c4ada9181f898f5b59450f"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/7527e2a9ec38f59ad126037938e4289c_52101.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/2f81a027618ca9b4411a385c07ad0d23_51161.mp3",
+                        "isLavafox": true,
+                        "en": "Ross, a child <em>should</em> have a family.",
+                        "zh": "罗斯，孩子应该要有家庭。",
+                        "videoNameZh": "《老友记 第八季》",
+                        "videoNameEn": "《Friends Season 8》",
+                        "url": "http://bisentence_movie.sogou.com/5da014131088ca726e32e25081556c0a_15df802ff9eb0e3e2deb6eb9e69efdafe838b92b"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/21d26cfef0cd26f0813072491b08dd5a_57364.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/6dbbe8fa94fa5349438350978d4e3b32_31622.mp3",
+                        "isLavafox": true,
+                        "en": "We <em>should</em> figure out where he goes.",
+                        "zh": "我们应该查查他到底上哪了。",
+                        "videoNameZh": "《生活大爆炸 第六季》",
+                        "videoNameEn": "《The Big Bang Theory Season 6》",
+                        "url": "http://bisentence_movie.sogou.com/b6c70a4524f17477d756dca575cf5cb3_b2f44a9b9f2236a70d4242ce871587860c543d53"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/3bccca9abe5ab96bd7f3eaed6bd40cf2_52899.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/7d02a8876a6377d65bdea3f83e57727d_14864.mp3",
+                        "isLavafox": true,
+                        "en": "Oh. You <em>should</em> have one of us do it.",
+                        "zh": "应该让我们其中一人来证婚。",
+                        "videoNameZh": "《老友记 第七季》",
+                        "videoNameEn": "《Friends Season 7》",
+                        "url": "http://bisentence_movie.sogou.com/339cc1aecd46fe4e88669b75e733dc8e_22685e3d6a4895ce51b43891814fae8ce49b99e3"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/ebb0b0408bf12dc64801723d985508e9_40124.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/9d878273b96c424bcc8a35b2ef7be20f_11986.mp3",
+                        "isLavafox": true,
+                        "en": "Maybe progress <em>should</em> lose for once.",
+                        "zh": "或许这种进化应该输一回了。",
+                        "videoNameZh": "《侏罗纪世界》",
+                        "videoNameEn": "《Jurassic World》",
+                        "url": "http://bisentence_movie.sogou.com/f1d160b4d766102258fa1ac91e5f2a77_9738b143b30e55d43c6bd29260257777de1b5617"
+                    }
+                ]
+            },
+            "pic": "",
+            "voice": {
+                "phonetic": [
+                    {
+                        "text": "ʃʊd , ʃəd",
+                        "type": "uk",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/49_should_uk.mp3"
+                    },
+                    {
+                        "text": "ʃʊd , ʃəd",
+                        "type": "usa",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/49_should_usa.mp3"
+                    }
+                ]
+            },
+            "dictType": "oxford_buchong",
+            "kaoyan": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 119,
+                        "pos": "v",
+                        "chinese": "将会",
+                        "sense_tier_ratio": 60.41
+                    },
+                    {
+                        "sense_tier": 60,
+                        "pos": "v",
+                        "chinese": "(表示预期或可能性)应该会; 可能",
+                        "sense_tier_ratio": 30.46
+                    },
+                    {
+                        "sense_tier": 18,
+                        "pos": "v",
+                        "chinese": "应该; 应当",
+                        "sense_tier_ratio": 9.14
+                    }
+                ],
+                "word": "should",
+                "word_level_phrase_info": [
+                    {
+                        "brief_definition": "本该做某事",
+                        "phrase": "should have done sth.",
+                        "pos": "phr"
+                    }
+                ],
+                "direction_info": {
+                    "ranges": 12,
+                    "description": "数据源自2012-2023年12年间全国考研试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2012-2023年全国考研英语一和考研英语二共24套考研试卷，包括阅读、完型填空、翻译、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选全国考研考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2012-2023年12年间全国考研英语一和考研英语二试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 5,
+                "total_exam_freq": 197,
+                "sense": {
+                    "sense_num": 3,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "将会",
+                            "pos": "v",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "So, if you head downhill, and follow any H2O you find, you <highlight>should</highlight> eventually see signs of people.",
+                                    "month": -1,
+                                    "source": "英语一",
+                                    "coll": "",
+                                    "sentence_trans": "所以，如果你下山，顺着你找到的水，你最终会看到有人的迹象。",
+                                    "year": 2019,
+                                    "type": "完型填空",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "That <highlight>should</highlight> create more collaborative endeavors and help to develop projects aimed directly at solving global problems.",
+                                    "month": -1,
+                                    "source": "英语一",
+                                    "coll": "",
+                                    "sentence_trans": "这将会激发更多的合作努力，并有助于开发直接旨在解决全球性问题的项目。",
+                                    "year": 2013,
+                                    "type": "阅读理解B",
+                                    "day": -1
+                                }
+                            ]
+                        },
+                        {
+                            "en": "",
+                            "zh": "(表示预期或可能性)应该会; 可能",
+                            "pos": "v",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "For a generation, the collective doctrine has been that the sorting mechanism of society <highlight>should</highlight> be profit.",
+                                    "month": -1,
+                                    "source": "英语一",
+                                    "coll": "",
+                                    "sentence_trans": "对于这代人来说，共同接受的信条一直是社会的分类机制应为利益。",
+                                    "year": 2015,
+                                    "type": "阅读理解A",
+                                    "day": -1
+                                }
+                            ]
+                        },
+                        {
+                            "en": "",
+                            "zh": "应该; 应当",
+                            "pos": "v",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "There's just one thing you <highlight>should</highlight> try to keep at least some time for, in addition to your writing—and that's reading.",
+                                    "month": -1,
+                                    "source": "英语二",
+                                    "coll": "",
+                                    "sentence_trans": "除了写作之外，你应该至少留出一些时间来做一件事——那就是阅读。",
+                                    "year": 2022,
+                                    "type": "完型填空",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "He suggested that preretirees <highlight>should</highlight> speak with a financial adviser to set long-term financial goals.",
+                                    "month": -1,
+                                    "source": "英语二",
+                                    "coll": "",
+                                    "sentence_trans": "他建议退休人员应咨询财务顾问以设定长期的财务目标。",
+                                    "year": 2022,
+                                    "type": "阅读理解A",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Zoos <highlight>should</highlight> have been closed down as they prioritize money making over animals' wellbeing.",
+                                    "month": -1,
+                                    "source": "英语一",
+                                    "coll": "",
+                                    "sentence_trans": "动物园应该关闭，因为它们优先考虑赚钱而不是动物的福祉。",
+                                    "year": 2022,
+                                    "type": "阅读理解B",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            "CET6": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 282,
+                        "pos": "v",
+                        "chinese": "应该; 应当",
+                        "sense_tier_ratio": 99.65
+                    },
+                    {
+                        "sense_tier": 1,
+                        "pos": "v",
+                        "chinese": "将",
+                        "sense_tier_ratio": 0.35
+                    }
+                ],
+                "word": "should",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2016.6-2023.6年8年间全六级试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight>考纲释义</highlight>\n精选实考、考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2016-2023年51套试卷，包括阅读、听力、翻译等所有题型。\n\n<highlight>真题例句</highlight>\n精选2016-2023年8年间全六级试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 5,
+                "total_exam_freq": 283,
+                "sense": {
+                    "sense_num": 2,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "应该; 应当",
+                            "pos": "v",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "You <highlight>should</highlight> write at least 150 words but no more than 200 words.",
+                                    "month": 12,
+                                    "source": "CET6",
+                                    "coll": "",
+                                    "sentence_trans": "你应该写至少150个词汇但不超过200字。",
+                                    "year": 2020,
+                                    "type": "写作",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Students <highlight>should</highlight> develop the key skills before they start a project.",
+                                    "month": 12,
+                                    "source": "CET6",
+                                    "coll": "",
+                                    "sentence_trans": "学生们应该在一个项目启动之前培养关键技能。",
+                                    "year": 2020,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Whether they <highlight>should</highlight> bet on the traditional players who run those stores now is another matter.",
+                                    "month": 6,
+                                    "source": "CET6",
+                                    "coll": "",
+                                    "sentence_trans": "他们是否应该押注于现在经营这些商店的传统玩家，则是另一回事。",
+                                    "year": 2019,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                }
+                            ]
+                        },
+                        {
+                            "en": "",
+                            "zh": "将",
+                            "pos": "v",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "Maybe you <highlight>should</highlight> change your mind on this one too.",
+                                    "month": 12,
+                                    "source": "CET6",
+                                    "coll": "",
+                                    "sentence_trans": "也许你也应该改变主意。",
+                                    "year": 2021,
+                                    "type": "阅读理解B",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "word_usage": [
+                    {
+                        "usage": "should是情态动词，意为“应该”，可以用来表示建议、劝告、命令等，跟can，may，must等情态动词一样，后直接跟动词原形，没有人称和数的变化。\n示例：他应该吃更多的蔬菜。\n误 He should eats more vegetables.\n正 He should eat more vegetables."
+                    },
+                    {
+                        "usage": "should还可以用来表示具有一定根据的推测，意为“可能”“应该”，但没有must表示推测时的语气强。\n示例：It should be a nice day tomorrow.\n明天应该是个好天气。"
+                    }
+                ]
+            },
+            "gaokao": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 86,
+                        "pos": "v",
+                        "chinese": "将; 会; 应该",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "should",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2015-2022年8年间全国卷和自主命题省市高考卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2015-2022年全国卷高考试卷，包括阅读、完形、单选、填空、听力、改错、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选各省市考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2015-2022年8年间全国卷和自主命题省市高考卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 5,
+                "total_exam_freq": 86,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "将; 会; 应该",
+                            "pos": "v",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "Children <highlight>should</highlight> learn a second language.",
+                                    "month": -1,
+                                    "source": "全国甲卷",
+                                    "coll": "",
+                                    "sentence_trans": "孩子们应该学习第二语言。",
+                                    "year": 2021,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "You <highlight>should</highlight> listen to experts.",
+                                    "month": -1,
+                                    "source": "新高考Ⅰ卷",
+                                    "coll": "",
+                                    "sentence_trans": "你应该听取专家的意见。",
+                                    "year": 2021,
+                                    "type": "听力",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "We <highlight>should</highlight> live in harmony with nature.",
+                                    "month": -1,
+                                    "source": "北京卷",
+                                    "coll": "",
+                                    "sentence_trans": "我们应该与自然和谐相处。",
+                                    "year": 2021,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "word_usage": [
+                    {
+                        "usage": "用于过去将来时态，表示从过去某一时间来看将要发生的事，主要用于第一人称：\nWe hoped that we should be able to visit the Summer Palace.\n我们希望我们能参观颐和园。"
+                    },
+                    {
+                        "usage": "作情态动词，用于各人称，表示“应该”：\nShe was at a loss what she should do.\n她不知该怎么办好。"
+                    },
+                    {
+                        "usage": "与动词的完成式连用，表示本应该做而事实上却没有做：\nYou should have returned the book earlier.\n你本应该早一些还书的。"
+                    },
+                    {
+                        "usage": "表示对现在情况、将来情况或过去情况的推测：\nShe should be watering the flowers now.\n她现在应该在浇花。"
+                    },
+                    {
+                        "usage": "用在虚拟语气中：\nI suggest that we (should) set off immediately.\n我建议我们立即动身。"
+                    }
+                ]
+            },
+            "zhongkao": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 819,
+                        "pos": "v",
+                        "chinese": "应该; 应当",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "should",
+                "direction_info": {
+                    "ranges": 4,
+                    "description": "数据源自2018-2021年4年间全国各省市中考试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2018-2021年全国重点省市中考试卷，包括听力、阅读、完形、单选、填空、改错、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选各省市考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2018-2021年4年间全国各省市中考试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 5,
+                "total_exam_freq": 819,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "应该; 应当",
+                            "pos": "v",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "When we do something difficult in our life, we <highlight>should</highlight> learn from the rabbit.",
+                                    "month": -1,
+                                    "source": "锦州市卷",
+                                    "coll": "",
+                                    "sentence_trans": "当我们在生活中做一些困难的事情时，我们应该向兔子学习。",
+                                    "year": 2020,
+                                    "type": "阅读表达",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Firstly, we <highlight>should</highlight> think about the health care experience as a whole.",
+                                    "month": -1,
+                                    "source": "北京市卷",
+                                    "coll": "",
+                                    "sentence_trans": "首先，我们应该从整体上考虑医疗保健体验。",
+                                    "year": 2020,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "But they <highlight>should</highlight> save their writing in time on the computer because it may stop working suddenly.",
+                                    "month": -1,
+                                    "source": "河北省卷",
+                                    "coll": "",
+                                    "sentence_trans": "他们应该把他们写的东西及时保存在电脑上，因为它可能会突然停止工作。",
+                                    "year": 2020,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "word_usage": [
+                    {
+                        "usage": "should是情态动词，意为“应该”，可以用来表示建议、劝告、命令等，跟can，may，must等情态动词一样，后直接跟动词原形，没有人称和数的变化。\n示例：他应该吃更多的蔬菜。\n误 He should eats more vegetables.\n正 He should eat more vegetables."
+                    },
+                    {
+                        "usage": "should还可以用来表示具有一定根据的推测，意为“可能”“应该”，但没有must表示推测时的语气强。\n示例：It should be a nice day tomorrow.\n明天应该是个好天气。"
+                    }
+                ]
+            },
+            "sentencesData": {
+                "status": 1,
+                "info": "notZh2En",
+                "data": {}
+            },
+            "isAutoMatch": false,
+            "Zh2En": false
+        },
+        "query": "should",
+        "result": "应该",
+        "tabSelect": "detail",
+        "dictionaryType": "oxford_buchong",
+        "notFound_show": false,
+        "phoneticShow": "",
+        "globalShowTranslateRecord": "",
+        "pronPrefer": {
+            "type": "usa_1",
+            "speaker": "male",
+            "speed": "standard"
+        },
+        "ServerRecord": "",
+        "ServerUIGS": {
+            "version": "new",
+            "type": "all",
+            "stype": "success",
+            "terminal": "web",
+            "fr": "default",
+            "direction": "etoz",
+            "from": "en",
+            "to": "zh-CHS",
+            "len": 6,
+            "qtype": "text",
+            "qctype": "qc_1",
+            "dict_cover": 1,
+            "detail": 1,
+            "wordCardCover": 1,
+            "wordCardEn": 1,
+            "wordCardCh": 0,
+            "wordCardMinor": 0,
+            "wordCardNetmean": 0,
+            "wordDeform": 1,
+            "keyword": 0,
+            "bilingual": 1,
+            "simple": 0,
+            "levelList": 1,
+            "synonym": 1,
+            "antonym": 0,
+            "conjugate": 0,
+            "rootaffix": 0,
+            "baike_sogou": 1,
+            "baike_wiki": 0,
+            "wordDifference": 1,
+            "word_phrase": 1,
+            "secondQuery": 0,
+            "dict_oxford": 0,
+            "dict_newcentury": 0,
+            "zhongkaotab": 1,
+            "gaokaotab": 1,
+            "CET4tab": 0,
+            "CET6tab": 1,
+            "kaoyantab": 1,
+            "network_tab": 0,
+            "yinying_tab": 1,
+            "tuozhan_tab": 0,
+            "one_pic": 0,
+            "more_pic": 0,
+            "no_pic": 0,
+            "uuid": "71b6dec7-be73-4a84-b2ce-6d36629c0cdf",
+            "from_type": 0,
+            "t_trans_ssr": 154
+        },
+        "ServerModelUIGS": {
+            "terminal": "web",
+            "type": "trans_model",
+            "pbtype": "pv",
+            "model_general": 1,
+            "model_medical": 1,
+            "model_finance": 1
+        },
+        "ServerSgtkn": "64F13FDD8148268F8382AB38B1EF1BCB840FF40F6755291A",
+        "suggShow": false,
+        "suggestion": "",
+        "suggDirection": "",
+        "usualTop": "",
+        "baseDict": "",
+        "wordCardClick": false,
+        "isFrInput": false,
+        "kanaTips": {
+            "show": false,
+            "left": "",
+            "top": "",
+            "type": "",
+            "arrowLeft": ""
+        },
+        "currSentenceIndex": -1,
+        "prefixStrObj": {
+            "prefixStr": "",
+            "oriPrefixStr": ""
+        },
+        "selectTransBox": {
+            "show": false,
+            "right": 0,
+            "top": 0,
+            "paraphraseInfo": {
+                "word": "",
+                "from": "",
+                "to": "",
+                "area": ""
+            }
+        },
+        "sentenceLoading": false,
+        "newSentenceInfo": {
+            "sentence": "",
+            "candidateIndex": 0
+        },
+        "moreTipInfo": {
+            "opacity": 0,
+            "zIndex": -1
+        },
+        "paraphraseShowInfo": {
+            "card": 0,
+            "query": "",
+            "card_dict": 0
+        },
+        "selectType": "",
+        "wordPos": 0,
+        "candidateWord": "",
+        "syntaxVisible": false,
+        "syntaxStatus": 0
+    },
+    "language": {
+        "from": "auto",
+        "to": "zh-CHS",
+        "detect": "en",
+        "model": "general",
+        "detectShow": false,
+        "langMap": {
+            "current": ""
+        },
+        "zh2en": false,
+        "fromItemList": [
+            {
+                "lang": "auto",
+                "text": "自动检测",
+                "play": false
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "th",
+                "text": "泰语",
+                "play": true,
+                "abbr": "泰"
+            },
+            {
+                "lang": "ru",
+                "text": "俄语",
+                "play": true,
+                "abbr": "俄"
+            },
+            {
+                "lang": "fr",
+                "text": "法语",
+                "play": true,
+                "abbr": "法"
+            }
+        ],
+        "toItemList": [
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "ru",
+                "text": "俄语",
+                "play": true,
+                "abbr": "俄"
+            },
+            {
+                "lang": "vi",
+                "text": "越南语",
+                "play": true,
+                "abbr": "越"
+            },
+            {
+                "lang": "fr",
+                "text": "法语",
+                "play": true,
+                "abbr": "法"
+            }
+        ]
+    },
+    "voice": {
+        "from": {
+            "lang": "en",
+            "type": "from",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22should%22%2C%22spokenDialect%22%3A%22en%22%2C%22rate%22%3A%220.8%22%7D",
+            "list": [
+                {
+                    "type": "uk_0",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "ʃʊd , ʃəd",
+                    "abbr": "英",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/49_should_uk.mp3"
+                },
+                {
+                    "type": "usa_1",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "ʃʊd , ʃəd",
+                    "abbr": "美",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/49_should_usa.mp3"
+                }
+            ],
+            "stype": "phonetic",
+            "phoneticShow": [
+                {
+                    "text": "ʃʊd , ʃəd",
+                    "type": "uk",
+                    "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/49_should_uk.mp3"
+                }
+            ]
+        },
+        "to": {
+            "lang": "zh",
+            "type": "to",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22%E5%BA%94%E8%AF%A5%22%2C%22spokenDialect%22%3A%22zh-CHS%22%2C%22rate%22%3A%220.8%22%7D",
+            "stype": "normal"
+        }
+    }
+}

@@ -1,0 +1,3243 @@
+{
+    "route": {
+        "name": "text",
+        "path": "/text",
+        "hash": "",
+        "query": {
+            "keyword": "business",
+            "transfrom": "auto",
+            "transto": "zh-CHS",
+            "model": "general",
+            "errcode": "s10"
+        },
+        "params": {},
+        "fullPath": "/text?keyword=business&transfrom=auto&transto=zh-CHS&model=general&errcode=s10",
+        "meta": {
+            "mtype": [
+                "textTranslate",
+                "language",
+                "voice"
+            ]
+        },
+        "from": {
+            "name": null,
+            "path": "/",
+            "hash": "",
+            "query": {},
+            "params": {},
+            "fullPath": "/",
+            "meta": {}
+        }
+    },
+    "common": {
+        "CONFIG": {
+            "wuid": 1733632565525,
+            "loginInfo": {},
+            "isIE": 0,
+            "isHitSsrSwitch": true,
+            "isHitWritebookSwitch": false,
+            "isHitAmsSwitch": true,
+            "promotionList": "{\n    \"pc_bottom\":{\n        \"imgsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\",\n        \"qcsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\"\n    },\n    \"pc_middle\":[\n        {\n            \"src\":\"//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c\",\n            \"bgColor\":\"#ffffff\",\n            \"link\":\"\"\n        }\n    ],\n    \"pc_survey\":{\n        \"icon\":\"//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750\",\n        \"link\":\"https://wj.qq.com/s2/8193148/806d/\"\n    }\n}",
+            "bannerData": [],
+            "isHitAsideSurvey": false,
+            "secretCode": 109984457,
+            "uuid": "08a89247-a7e1-4b05-859e-3ce2150671a4",
+            "referer": "",
+            "approveToken": "64EAAA06A76312A4AFB6871579928D37B08A241267552235",
+            "loadTime": 1733632565527,
+            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0",
+            "fcp": "138.197.122.177",
+            "temporaryId": "",
+            "fileId": ""
+        },
+        "hotWords": [],
+        "isFromCollect": false,
+        "psdModify": {
+            "currentStep": 1,
+            "scode": "",
+            "username": ""
+        },
+        "loginStatus": true,
+        "feedBackModule": false,
+        "showPromotionPopup": {
+            "show": false,
+            "type": ""
+        },
+        "showPromotionPCDownload": false,
+        "showShareBomb": false,
+        "shareData": null,
+        "showAppDownLoad": false,
+        "showLoginDialog": false,
+        "showLoading": {
+            "show": false
+        },
+        "toast": {
+            "show": false,
+            "text": "",
+            "loading": false
+        },
+        "modelToast": {
+            "show": false,
+            "text": ""
+        },
+        "selectionGlobalShow": true,
+        "selectionInfo": {
+            "left": 0,
+            "top": 0,
+            "show": false,
+            "from": "",
+            "to": "",
+            "val": "",
+            "area": ""
+        },
+        "showConfirmDialog": false,
+        "promotionList": {
+            "pc_bottom": {
+                "imgsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png",
+                "qcsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png"
+            },
+            "pc_middle": [
+                {
+                    "src": "//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c",
+                    "bgColor": "#ffffff",
+                    "link": ""
+                }
+            ],
+            "pc_survey": {
+                "icon": "//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750",
+                "link": "https://wj.qq.com/s2/8193148/806d/"
+            }
+        },
+        "transTypeTxt": "text",
+        "fixedTabStatus": 0,
+        "bodyTop": 0,
+        "ifHideUserOperation": false
+    },
+    "textTranslate": {
+        "prevTransQuery": "",
+        "translateData": {
+            "translate": {
+                "zly": "zly",
+                "errorCode": "0",
+                "qc_type": "1",
+                "index": "content0",
+                "from": "en",
+                "source": "sogou",
+                "text": "business",
+                "to": "zh-CHS",
+                "id": "08a89247-a7e1-4b05-859e-3ce2150671a4",
+                "dit": "商业",
+                "orig_text": "business",
+                "md5": ""
+            },
+            "detect": {
+                "zly": "zly",
+                "detect": "en",
+                "errorCode": "0",
+                "language": "英语",
+                "id": "efe5d270-b51d-11ef-8f6a-538b97856d90",
+                "text": "business"
+            },
+            "sgtkn": "64EAAA0AA76312A4AFB6871579928D37B08A241267552235",
+            "wordCard": {
+                "title": "business",
+                "show": true,
+                "usualDict": [
+                    {
+                        "values": [
+                            "商业；商务；生意；买卖；交易；营业额；贸易额；营业状况；企业；商业机构；行业；职业；公事；事情；事务；职责；业务；表演；剧情动作；重要事情；要点；难题；棘手的事；私事；归（某人或某机构）管的事"
+                        ],
+                        "pos": "n."
+                    }
+                ],
+                "secondQuery": "",
+                "exchange": {
+                    "word_pl": [
+                        "businesses"
+                    ]
+                },
+                "levelList": [
+                    "初中",
+                    "高中",
+                    "四级",
+                    "六级",
+                    "考研",
+                    "雅思"
+                ]
+            },
+            "detail": {
+                "synonym": [
+                    {
+                        "word_list": [
+                            "commerce",
+                            "thing",
+                            "trade",
+                            "affair",
+                            "truck"
+                        ],
+                        "pos": "n.",
+                        "mean": "商业；生意；交易；事情"
+                    }
+                ],
+                "affix": {
+                    "word": "business",
+                    "sub_affix_info_list": [
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "忙碌",
+                                    "affix_type": "stem"
+                                }
+                            ],
+                            "affix": "bus(y)",
+                            "affix_mean": "忙碌"
+                        },
+                        {
+                            "affix": "-i-",
+                            "affix_mean": ""
+                        },
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "aggressiveness",
+                                            "mean": "n. 进取精神；进攻性；侵略性"
+                                        },
+                                        {
+                                            "word": "alertness",
+                                            "mean": "n. 机敏；警戒"
+                                        },
+                                        {
+                                            "word": "awareness",
+                                            "mean": "n. 意识；认识；知道；察觉"
+                                        },
+                                        {
+                                            "word": "baldness",
+                                            "mean": "n. 光秃；枯燥；率直；露骨"
+                                        },
+                                        {
+                                            "word": "blackness",
+                                            "mean": "n. 黑色；阴险；黑；阴郁"
+                                        },
+                                        {
+                                            "word": "boldness",
+                                            "mean": "n. 大胆；冒失；显著"
+                                        },
+                                        {
+                                            "word": "brightness",
+                                            "mean": "n. 聪明；明亮；亮度；愉快"
+                                        },
+                                        {
+                                            "word": "consciousness",
+                                            "mean": "n. 知觉；清醒；意识；观念；感觉"
+                                        },
+                                        {
+                                            "word": "darkness",
+                                            "mean": "n. 黑暗；罪恶；邪恶；夜晚；痛苦；神秘；秘密；忧伤；无知；忧郁"
+                                        },
+                                        {
+                                            "word": "effectiveness",
+                                            "mean": "n. 效力；有效性；有效"
+                                        },
+                                        {
+                                            "word": "fairness",
+                                            "mean": "n. 公平；美好；顺利性"
+                                        },
+                                        {
+                                            "word": "fitness",
+                                            "mean": "n. 健康；适合；合格；胜任；环境适度"
+                                        },
+                                        {
+                                            "word": "frankness",
+                                            "mean": "n. 坦白；率直"
+                                        },
+                                        {
+                                            "word": "friendliness",
+                                            "mean": "n. 亲切；友谊；亲密"
+                                        },
+                                        {
+                                            "word": "goodness",
+                                            "mean": "n. 好；仁慈；美德；慷慨；德行；有益（或营养）成分"
+                                        },
+                                        {
+                                            "word": "happiness",
+                                            "mean": "n. 幸福；高兴"
+                                        },
+                                        {
+                                            "word": "illness",
+                                            "mean": "n. 疾病"
+                                        },
+                                        {
+                                            "word": "kindness",
+                                            "mean": "n. 好心；慷慨大方；体贴；善举；善行"
+                                        },
+                                        {
+                                            "word": "laziness",
+                                            "mean": "n. 怠惰；懒惰；懒散；无精打采"
+                                        },
+                                        {
+                                            "word": "likeness",
+                                            "mean": "n. 相似；相像；肖像；照片；画像；外观；外表；外在表现"
+                                        },
+                                        {
+                                            "word": "loneliness",
+                                            "mean": "n. 寂寞；孤独"
+                                        },
+                                        {
+                                            "word": "otherness",
+                                            "mean": "n. 另一；不同；不同物"
+                                        },
+                                        {
+                                            "word": "preparedness",
+                                            "mean": "n. 准备状态；预备状态"
+                                        },
+                                        {
+                                            "word": "readiness",
+                                            "mean": "n. 愿意；乐意；准备就绪状态；迅速；敏捷"
+                                        },
+                                        {
+                                            "word": "richness",
+                                            "mean": "n. 丰富；富裕；肥沃；浓烈"
+                                        },
+                                        {
+                                            "word": "sadness",
+                                            "mean": "n. 悲哀；悲伤；悲痛"
+                                        },
+                                        {
+                                            "word": "self-righteousness",
+                                            "mean": "n. 自以为是；伪善"
+                                        },
+                                        {
+                                            "word": "shyness",
+                                            "mean": "n. 羞怯；胆怯；害臊"
+                                        },
+                                        {
+                                            "word": "tiredness",
+                                            "mean": "n. 疲倦；疲劳"
+                                        },
+                                        {
+                                            "word": "togetherness",
+                                            "mean": "n. 亲密无间；和睦相处；友爱情谊"
+                                        },
+                                        {
+                                            "word": "uneasiness",
+                                            "mean": "n. 局促；不安；不自在；担忧"
+                                        },
+                                        {
+                                            "word": "newness",
+                                            "mean": "n. 崭新；新奇"
+                                        },
+                                        {
+                                            "word": "sleepiness",
+                                            "mean": "n. 想睡；瞌睡；睡意"
+                                        },
+                                        {
+                                            "word": "witness",
+                                            "mean": "n. 目击者；见证人；证据；证言；证词；证人；连署人；通过言语或行动公开承认自己的宗教信仰；证明标志"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "名词后缀, 通常加在形容词后面, 表示\"性质, 状态等\"。",
+                                    "affix_type": "suffix"
+                                }
+                            ],
+                            "affix": "-ness",
+                            "affix_mean": "性质, 状态等"
+                        }
+                    ],
+                    "word_mean": "n. 事业"
+                },
+                "wordRootInfo": {
+                    "word_info_list": [
+                        {
+                            "word": "businessmen",
+                            "pos_mean_info_list": [
+                                {
+                                    "pos": "n.",
+                                    "mean": "生意人"
+                                }
+                            ]
+                        }
+                    ],
+                    "root_word": "business"
+                },
+                "word_difference_info": [
+                    {
+                        "common_mean": "贸易；交易",
+                        "word_list": [
+                            "deal",
+                            " trade",
+                            " bargain",
+                            " commerce",
+                            " business"
+                        ],
+                        "word_mean_info__list": [
+                            {
+                                "difference": "口语用词，指买卖双方经过交涉达成协议成交。",
+                                "word": "deal"
+                            },
+                            {
+                                "difference": "普通用词，含义广。既可指某种具体的商业又可指广泛的贸易。",
+                                "word": "trade"
+                            },
+                            {
+                                "difference": "多指买卖双方通过谈判、协商就商品质量、数量、价格等项达成协议所成的生意。",
+                                "word": "bargain"
+                            },
+                            {
+                                "difference": "多指大规模的买卖或易货关系。",
+                                "word": "commerce"
+                            },
+                            {
+                                "difference": "指包括售货、购货、换货在内的综合商业活动，方式可以是批发或零售。",
+                                "word": "business"
+                            }
+                        ]
+                    },
+                    {
+                        "common_mean": "事情",
+                        "word_list": [
+                            "affair",
+                            " matter",
+                            " concern",
+                            " business",
+                            " thing"
+                        ],
+                        "word_mean_info__list": [
+                            {
+                                "difference": "含义较广，侧重指已发生或必须去做的任何事情或事务。复数形式多指重大或较复杂的事务。",
+                                "word": "affair"
+                            },
+                            {
+                                "difference": "普通用词，着重指一件考虑中的或需要处理的事。",
+                                "word": "matter"
+                            },
+                            {
+                                "difference": "往往强调与个人或团体利害有直接或重大关系的事。",
+                                "word": "concern"
+                            },
+                            {
+                                "difference": "通常指较重要或较难而又必须承担的事情，也可指商事。",
+                                "word": "business"
+                            },
+                            {
+                                "difference": "用作“事情”解时，词义较笼统、含糊，多用于指不很具体的事。",
+                                "word": "thing"
+                            }
+                        ]
+                    }
+                ],
+                "word_group": [
+                    {
+                        "brief_definition": "开创事业",
+                        "phrase": "start one's business",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "与...做生意",
+                        "phrase": "do business with",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "不关某人的事",
+                        "phrase": "none of one's business",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "商界领袖；商业领袖",
+                        "phrase": "business leader",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "商业伙伴；业务伙伴；生意伙伴",
+                        "phrase": "business partner",
+                        "pos": "phr."
+                    },
+                    {
+                        "brief_definition": "名片",
+                        "phrase": "business card",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "大宗业务；大生意",
+                        "phrase": "big business",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "上班时间；办公时间",
+                        "phrase": "business hours",
+                        "pos": "pl-n."
+                    },
+                    {
+                        "brief_definition": "商人",
+                        "phrase": "business person",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "出差；因公",
+                        "phrase": "on business",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "营业时间；商务时间；商业时间",
+                        "phrase": "business time",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "出差；商务旅行",
+                        "phrase": "business trip",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "经营业务；经营生意；做生意",
+                        "phrase": "run business",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "创业；开办一家公司",
+                        "phrase": "start a business",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "开业",
+                        "phrase": "start business",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "工商管理",
+                        "phrase": "business administration",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "商业模式；经营模式；业务模式",
+                        "phrase": "business model",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "业务扩张；营业扩充；[经] 经济高涨",
+                        "phrase": "business expansion",
+                        "pos": "phr."
+                    },
+                    {
+                        "brief_definition": "赚钱的生意；赚钱的业务；盈利的商业",
+                        "phrase": "lucrative business",
+                        "pos": "phr."
+                    },
+                    {
+                        "brief_definition": "营业执照；业务许可；经营许可证",
+                        "phrase": "business license",
+                        "pos": ""
+                    }
+                ],
+                "bilingual": [
+                    {
+                        "source": "I hope to get a <em>business</em> degree and become a manager.",
+                        "target": "我希望获得商业学位并成为经理。",
+                        "url": ""
+                    },
+                    {
+                        "source": "He returned to Britain in 1931, where he worked in <em>business</em>.",
+                        "target": "他于1931年回到英国，在那里从事商业工作。",
+                        "url": ""
+                    },
+                    {
+                        "source": "One Christmas Eve, Scrooge sees the ghost of Jacob Marley, his dead <em>business</em> partner.",
+                        "target": "一个圣诞夜，斯克鲁奇看到了他的已故商业伙伴雅各布·马利的幽灵。",
+                        "url": ""
+                    },
+                    {
+                        "source": "We need a <em>business</em> partner to expand our <em>business</em>.",
+                        "target": "我们需要一个商业伙伴来扩展业务。",
+                        "url": ""
+                    },
+                    {
+                        "source": "He prefers using com domains for his <em>business</em> ventures.",
+                        "target": "他更喜欢为他的商业项目使用商业域名。",
+                        "url": ""
+                    },
+                    {
+                        "source": "You need to have a <em>business</em> eye.",
+                        "target": "你需要有商业眼光。",
+                        "url": ""
+                    },
+                    {
+                        "source": "We need a new <em>business</em> model.",
+                        "target": "我们需要一个新的商业模式。",
+                        "url": ""
+                    },
+                    {
+                        "source": "They are longtime <em>business</em> partners.",
+                        "target": "他们是长期的商业伙伴。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Her <em>business</em> savvy is very strong.",
+                        "target": "她的商业理解能力非常强。",
+                        "url": ""
+                    },
+                    {
+                        "source": "He decided to study <em>business</em> management.",
+                        "target": "他决定学习商业管理。",
+                        "url": ""
+                    }
+                ],
+                "baike": {
+                    "showMore": false,
+                    "list": [
+                        {
+                            "lemmaTitle": "business",
+                            "link": "https://baike.sogou.com/v8286295.htm?ch=sogou.fanyi",
+                            "abstract": "business，英文单词，作名词，翻译为商业、交易、生意、事务、职业、行业等。",
+                            "wapPic": "",
+                            "pcPic": ""
+                        }
+                    ]
+                }
+            },
+            "book": {
+                "yingyinNormal": [
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/39380c9cb7945d6b553956b18f3b7391_25805.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/388df5f7fc60f4271bbe82484f362548_68467.mp3",
+                        "isLavafox": true,
+                        "en": "You will hear some details from our <em>business</em> later.",
+                        "zh": "稍等，您将听到我们公司商业上经营的细节。",
+                        "videoNameZh": "《阿里巴巴赴美路演宣传片》",
+                        "videoNameEn": "《Alibaba Road Show Promo》",
+                        "url": "http://bisentence_movie.sogou.com/cfa18b85a87582230a99f9232c1536ba_36baeb3be8a8a0613408b95b86eb166c5ce1dc20"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/8199bd85552f0e821d70b6963e25250e_36444.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/8f1916a9129bc6197c00be2d7686041d_8582.mp3",
+                        "isLavafox": true,
+                        "en": "I'm busy, too. I have a <em>business</em> offer deal that is...",
+                        "zh": "我也有事，我有...商业上的项目，买卖，大买卖。",
+                        "videoNameZh": "《愤怒的小鸟》",
+                        "videoNameEn": "《Angry Birds》",
+                        "url": "http://bisentence_movie.sogou.com/e4fbdccaaa0f6319469604ec72d6ac50_022e6d567fb1a60aaef9ff6d4963c6f27b8aebdb"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/ab18255ca7e77ff7cadaab56e4d92197_48116.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/5fb36a04e08e5d3d06f1009fe3337caf_74657.mp3",
+                        "isLavafox": true,
+                        "en": "We are not getting a <em>business</em> loan! You tricked me into coming to the city.",
+                        "zh": "我们不许借商业贷款，你把我骗来市里。",
+                        "videoNameZh": "《破产姐妹 第四季》",
+                        "videoNameEn": "《2 Broke Girls Season 4》",
+                        "url": "http://bisentence_movie.sogou.com/45efe8b88f3abf2d0b5a01a323ce046b_e4f4edd357b965219db47f4b9ebb257a3658fdf6"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/8199bd85552f0e821d70b6963e25250e_36444.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/46ee63c0c0c95a7fe930644676ecd53a_34571.mp3",
+                        "isLavafox": true,
+                        "en": "But what about your \"class reunion\" where everybody brings a \"<em>business</em> offer\"?",
+                        "zh": "那你那个需要带着商业项目参加的豪华同学聚会怎么办？",
+                        "videoNameZh": "《愤怒的小鸟》",
+                        "videoNameEn": "《Angry Birds》",
+                        "url": "http://bisentence_movie.sogou.com/91f5d109d358631bef85da89a9d71d6e_144de3ad9a2e474899dc766dcdc178fd0388c4b6"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/518d6eb780b430dcde6515e4a6ae5a6c_43073.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/ff1147ae88caa8fe1ef0874b69b68d2b_38513.mp3",
+                        "isLavafox": true,
+                        "en": "Really? Sexism in <em>business</em>? So what did you do for work, Ben, before you retired?",
+                        "zh": "是吗？商业中的性别歧视吗？所以你退休之前是做什么工作的？",
+                        "videoNameZh": "《实习生》",
+                        "videoNameEn": "《The Intern》",
+                        "url": "http://bisentence_movie.sogou.com/990c5f2671f73c5aa1975f020ba13a53_6222ac31c835e02c5c547f060873ad325b818681"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/ab18255ca7e77ff7cadaab56e4d92197_48116.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/9bef2b5cb0b747b1cd06deb4cfd14307_71099.mp3",
+                        "isLavafox": true,
+                        "en": "Yeah, we'll just go in and while we're in here, well, I don't know, ask for a <em>business</em> loan.",
+                        "zh": "我们就转一圈，不过既然都来了，要不就问问商业贷款吧。",
+                        "videoNameZh": "《破产姐妹 第四季》",
+                        "videoNameEn": "《2 Broke Girls Season 4》",
+                        "url": "http://bisentence_movie.sogou.com/31972074bed25528e413d098169190a4_05a61c7407ce87277a9c9e527a5be417d60e898e"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/ab18255ca7e77ff7cadaab56e4d92197_48116.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/3ee4364c04659227e4e39fe44c5f35e9_8993.mp3",
+                        "isLavafox": true,
+                        "en": "Why, because of this totally out-of-the-blue order we got to do cupcakes for this <em>business</em> seminar?",
+                        "zh": "为什么，是因为我们突然接到这商业座谈会的小蛋糕订单吗？",
+                        "videoNameZh": "《破产姐妹 第四季》",
+                        "videoNameEn": "《2 Broke Girls Season 4》",
+                        "url": "http://bisentence_movie.sogou.com/aeb3c0ea47f337a4f127853feed83608_04b02d2f4572962454c6e7b71a17fd67a2f74bb0"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/0a13ccf38dbac0df5a5c6a86f5d3355c_59759.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/24bdc043d15e21cc8718804b8c9b03b2_64284.mp3",
+                        "isLavafox": true,
+                        "en": "Being invited to give a <em>business</em> speech at this club hit me even more egregious because you couldn't claim that it was only social <em>business</em> that was done there.",
+                        "zh": "被邀请到这家俱乐部做商业演讲就更让人不爽了因为这根本就不是单纯的社交活动场所。",
+                        "videoNameZh": "《Facebook COO谢丽尔·桑德伯格哈佛演讲》",
+                        "videoNameEn": "《Sheryl Speech at Harvard》",
+                        "url": "http://bisentence_movie.sogou.com/7667a148d8a3535b72eeb8c730940fd1_786d4a975df3fa052e38814e90e2100bbb648291"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/bedafc9cbd9ff62be49e08cf3cb8efa0_35632.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/11fd74fe3343a6fc9ac3adaebaefff90_26999.mp3",
+                        "isLavafox": true,
+                        "en": "From Hong Kong Island's central <em>business</em> district, take the half hour bus ride to the tranquil beaches of Shek O.",
+                        "zh": "由香港岛的中心商业区，乘坐巴士到清静的石澳海滩只需半小时。",
+                        "videoNameZh": "《10大名城旅游攻略》",
+                        "videoNameEn": "《10 Cities Vacation Travel Guide》",
+                        "url": "http://bisentence_movie.sogou.com/0fe0fbf5ae8327d36b4575f247a2f9b1_932af8f7b13239da83621f83c32c23b303a7c74c"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/ab18255ca7e77ff7cadaab56e4d92197_48116.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/4c38a5598642237f37bcf8a7e63d2851_71196.mp3",
+                        "isLavafox": true,
+                        "en": "And also 'cause they're Jewish. I'm the one with the <em>business</em> degree, and you have to trust me on this.",
+                        "zh": "而且也因为他们都是犹太人。我才是有商业学位的人，这事你得相信我。",
+                        "videoNameZh": "《破产姐妹 第四季》",
+                        "videoNameEn": "《2 Broke Girls Season 4》",
+                        "url": "http://bisentence_movie.sogou.com/1092a43669826f19819cf5d32049d731_307e976bb00f709ec6b9991e0ec66efe2e6b4326"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/bedafc9cbd9ff62be49e08cf3cb8efa0_35632.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/8f7d5a6b87e59649c157036470dce68d_29900.mp3",
+                        "isLavafox": true,
+                        "en": "Explore the malls and futuristic architecture of Hong Kong's main <em>business</em> district, Central.",
+                        "zh": "在香港的主要商业区中环，您可以游走各大大小小的商场和富有未来感的建筑物。",
+                        "videoNameZh": "《10大名城旅游攻略》",
+                        "videoNameEn": "《10 Cities Vacation Travel Guide》",
+                        "url": "http://bisentence_movie.sogou.com/29d9a98c3e1cb608847bd3915e7f04e1_a2668027d0c73391172e3a26d14cab5b7362f423"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/ab18255ca7e77ff7cadaab56e4d92197_48116.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/ad5665bd0f3abb81a7c44e777be396cf_16059.mp3",
+                        "isLavafox": true,
+                        "en": "Whoever threw that is not afraid to really go for it, and that will go a long way toward success in <em>business</em>.",
+                        "zh": "扔球过来的那个人从心所愿，放胆去做能在商业道路上获得更长远的成功。",
+                        "videoNameZh": "《破产姐妹 第四季》",
+                        "videoNameEn": "《2 Broke Girls Season 4》",
+                        "url": "http://bisentence_movie.sogou.com/afce674a4e8dcc3a25abd5220a59b414_7069ebad2a8cad19ac2f266c829ec03c2a9a5c6d"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/ef2251c62fc1b53f995cf777893bc2ff_45162.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/bd9d48d69d1b865f2614293d80bb438b_34962.mp3",
+                        "isLavafox": true,
+                        "en": "Raymond's not a politician. He relies on our political expertise as much as we rely on his <em>business</em> acumen.",
+                        "zh": "Raymond不是政客。他依赖我们的政治意见，正如我们依靠他的商业头脑。",
+                        "videoNameZh": "《纸牌屋 第二季》",
+                        "videoNameEn": "《House of Cards Season 2》",
+                        "url": "http://bisentence_movie.sogou.com/c82f499f667457ea1b256c6366f68d0b_5f4240d1d30ad03a2cd7d94dc0e477f47f598b58"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/5784af55ab08e203ecc1fde609fc5bb5_17166.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/d83a5cfd56e84e2322bff0417eac265a_32852.mp3",
+                        "isLavafox": true,
+                        "en": "And then one day she cornered the man who was installing the telephone here and that's how I got my first job in <em>business</em>.",
+                        "zh": "然后有一天，她堵住来这里装电话的人，我就是那样得到了第一份商业工作。",
+                        "videoNameZh": "《唐顿庄园 第六季》",
+                        "videoNameEn": "《Downton Abbey Season 6》",
+                        "url": "http://bisentence_movie.sogou.com/229744fdd57c923605672ef3c317a9f3_53a2682c25029913469b05d197f376f7b505d784"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/ab18255ca7e77ff7cadaab56e4d92197_48116.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/a72ac5bae063264b69003fb0ae602696_72738.mp3",
+                        "isLavafox": true,
+                        "en": "You know what? You're right. You're the <em>business</em> genius. What do I know? Let's go get that loan. Thank you!",
+                        "zh": "其实呢，你说得有道理，你才是商业天才，我懂个屁啊，咱们进去贷款吧。谢谢支持！",
+                        "videoNameZh": "《破产姐妹 第四季》",
+                        "videoNameEn": "《2 Broke Girls Season 4》",
+                        "url": "http://bisentence_movie.sogou.com/9fe961fac1ff47186a9a53bac38d75d0_716ac24f8bd2ff099e0eadfdd3ac69161db8ca4c"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/bedafc9cbd9ff62be49e08cf3cb8efa0_35632.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/fba1946addb54c158f73f72decd3d28b_30920.mp3",
+                        "isLavafox": true,
+                        "en": "This modern <em>business</em> district, filled with light and art, is testimony that Paris is designed for living, even when at work.",
+                        "zh": "这个现代化的商业区充满了光明与艺术气息，证明巴黎人即使在工作中也不忘享受生活。",
+                        "videoNameZh": "《10大名城旅游攻略》",
+                        "videoNameEn": "《10 Cities Vacation Travel Guide》",
+                        "url": "http://bisentence_movie.sogou.com/6449a77c0ae968a7bb20e820faf7a680_e51db082f97b4e0dc099c2b0cee7f3f5535f1818"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/ab18255ca7e77ff7cadaab56e4d92197_48116.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/6c016e8b650f445e6dae18800f3a9226_52414.mp3",
+                        "isLavafox": true,
+                        "en": "This is a <em>business</em> intervention. It's not an intervention. Max, your behavior lately has affected me in the following ways.",
+                        "zh": "原来这是商业批斗会啊。这不是批斗会好吗，麦克斯，你最近的行为由以下几种方式影响了我。",
+                        "videoNameZh": "《破产姐妹 第四季》",
+                        "videoNameEn": "《2 Broke Girls Season 4》",
+                        "url": "http://bisentence_movie.sogou.com/dcd5f07e2dfa9d407cdb61f5e23243b5_5c41a095bf13d8425c4ff88348f6282dd33aa806"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/658cb5af1f2c25ef894d7429bd1ba9af_103.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/77e115d3c0e305c32d6cd470cd0bac8a_40657.mp3",
+                        "isLavafox": true,
+                        "en": "It appears Decima Technology has been dismantled as a viable <em>business</em> entity, which makes me wonder, who exactly is getting the NSA feeds?",
+                        "zh": "似乎德西玛科技已经解散不再是商业实体了，这让我很想知道，国安局的监控信号到底发给谁了？",
+                        "videoNameZh": "《疑犯追踪 第四季》",
+                        "videoNameEn": "《Person of Interest Season 4》",
+                        "url": "http://bisentence_movie.sogou.com/20cdb67e10904054493c2f86f404d1d9_f568a28b44a49b145fa4e0d0b8ba5bd4fb1ccb27"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/0a13ccf38dbac0df5a5c6a86f5d3355c_59759.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/e80005693180f15b714b35a009ad2f05_52634.mp3",
+                        "isLavafox": true,
+                        "en": "Just a few months ago this year, a very well respected and well-known <em>business</em> executives in Silicon Valley, invited me to give a speech to his club on social media.",
+                        "zh": "今年，就在几个月前，硅谷一位很受尊敬的知名商业经理人邀请我到他的社交媒体俱乐部发表演讲。",
+                        "videoNameZh": "《Facebook COO谢丽尔·桑德伯格哈佛演讲》",
+                        "videoNameEn": "《Sheryl Speech at Harvard》",
+                        "url": "http://bisentence_movie.sogou.com/4ec2d85b535b92cb872cb0f16db744e3_83eaa404ae9b1d866ca86771b3a1004c3d5f4ac8"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/b73d6e20976b7ffe4e651b29ea5ddefc_31309.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/8846c4c5fc9966c76fead16b1005a3d9_20949.mp3",
+                        "isLavafox": true,
+                        "en": "I just need one page. Which page can we use? News, sports, fashion. Not the fashion page. OK, I'll use the <em>business</em> page.",
+                        "zh": "我只需要一张纸。哪页是我们不要的？新闻版，体育版，噢对了，时尚版。不要用我的时尚版。好吧，那我们就用商业版。",
+                        "videoNameZh": "《粉红猪小妹 第二季》",
+                        "videoNameEn": "《Peppa Pig Season 2》",
+                        "url": "http://bisentence_movie.sogou.com/404339c1d313921926144a3f6c7543e8_3e2a4e4cc6d86aabf49dcd08823da0e192750bfd"
+                    }
+                ]
+            },
+            "pic": "",
+            "voice": {
+                "phonetic": [
+                    {
+                        "text": "ˈbɪznəs",
+                        "type": "uk",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/234_business_uk.mp3"
+                    },
+                    {
+                        "text": "ˈbɪznəs",
+                        "type": "usa",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/234_business_usa.mp3"
+                    }
+                ]
+            },
+            "dictType": "oxford_buchong",
+            "kaoyan": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 32,
+                        "pos": "n",
+                        "chinese": "商业; 交易; 行业",
+                        "sense_tier_ratio": 45.07
+                    },
+                    {
+                        "sense_tier": 31,
+                        "pos": "n",
+                        "chinese": "企业; 商铺",
+                        "sense_tier_ratio": 43.66
+                    },
+                    {
+                        "sense_tier": 6,
+                        "pos": "n",
+                        "chinese": "职责; 工作",
+                        "sense_tier_ratio": 8.45
+                    },
+                    {
+                        "sense_tier": 2,
+                        "pos": "n",
+                        "chinese": "事情; 情况",
+                        "sense_tier_ratio": 2.82
+                    }
+                ],
+                "word": "business",
+                "word_level_phrase_info": [
+                    {
+                        "brief_definition": "营业执照；业务许可；经营许可证",
+                        "phrase": "business license",
+                        "pos": "phr"
+                    },
+                    {
+                        "brief_definition": "国际商务；国际业务；国际贸易",
+                        "phrase": "international business",
+                        "pos": "phr"
+                    },
+                    {
+                        "brief_definition": "私营商业；私人业务；私营企业",
+                        "phrase": "private business",
+                        "pos": "phr"
+                    }
+                ],
+                "direction_info": {
+                    "ranges": 12,
+                    "description": "数据源自2012-2023年12年间全国考研试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2012-2023年全国考研英语一和考研英语二共24套考研试卷，包括阅读、完型填空、翻译、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选全国考研考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2012-2023年12年间全国考研英语一和考研英语二试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 5,
+                "word_family": {
+                    "derivative_info_list": [
+                        {
+                            "derivative_info_list": [],
+                            "word": "businessmen",
+                            "mean": "n. 生意人；（businessman的复数）"
+                        },
+                        {
+                            "derivative_info_list": [],
+                            "word": "businessman",
+                            "mean": "n. 商人"
+                        }
+                    ],
+                    "word": "business",
+                    "mean": "n. 事业；职业；行业；交易；生意；商业；系列事件；表演；受欢迎的人；难题"
+                },
+                "total_exam_freq": 71,
+                "sense": {
+                    "sense_num": 4,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "商业; 交易; 行业",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "A Harvard <highlight>Business</highlight> School study found that observers consistently rated those who were upfront about themselves more highly.",
+                                    "month": -1,
+                                    "source": "英语二",
+                                    "coll": "",
+                                    "sentence_trans": "哈佛商学院的一项研究发现，观察人士对那些坦率直言的人的评价始终更高。",
+                                    "year": 2020,
+                                    "type": "阅读理解B",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Retail trade groups praised the ruling, saying it levels the playing field for local and online <highlight>businesses</highlight>.",
+                                    "month": -1,
+                                    "source": "英语一",
+                                    "coll": "",
+                                    "sentence_trans": "零售贸易团体赞扬了这项裁决，称它为本地和在线交易提供了公平的竞争环境。",
+                                    "year": 2019,
+                                    "type": "阅读理解A",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "This could add value to their <highlight>businesses</highlight> in three ways.",
+                                    "month": -1,
+                                    "source": "英语一",
+                                    "coll": "",
+                                    "sentence_trans": "这可以从三个方面为他们的业务增加价值。",
+                                    "year": 2016,
+                                    "type": "阅读理解A",
+                                    "day": -1
+                                }
+                            ]
+                        },
+                        {
+                            "en": "",
+                            "zh": "企业; 商铺",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "It has irritated private <highlight>business</highlight> owners.",
+                                    "month": -1,
+                                    "source": "英语一",
+                                    "coll": "",
+                                    "sentence_trans": "这激怒了私营企业主。",
+                                    "year": 2020,
+                                    "type": "阅读理解A",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "If this doesn't change, American <highlight>businesses</highlight>, communities, and consumers will be the losers.",
+                                    "month": -1,
+                                    "source": "英语二",
+                                    "coll": "",
+                                    "sentence_trans": "如果这种情况不改变，美国企业、社区和消费者将成为输家。",
+                                    "year": 2019,
+                                    "type": "阅读理解A",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Its negative effects on <highlight>businesses</highlight> are often overlooked.",
+                                    "month": -1,
+                                    "source": "英语一",
+                                    "coll": "",
+                                    "sentence_trans": "它对企业的负面影响经常被忽视。",
+                                    "year": 2016,
+                                    "type": "阅读理解A",
+                                    "day": -1
+                                }
+                            ]
+                        },
+                        {
+                            "en": "",
+                            "zh": "职责; 工作",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "Time can be evenly split for reading and <highlight>business</highlight>.",
+                                    "month": -1,
+                                    "source": "英语二",
+                                    "coll": "",
+                                    "sentence_trans": "读书和工作的时间可以平均分配。",
+                                    "year": 2016,
+                                    "type": "阅读理解A",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "All the daily <highlight>business</highlight> has been promptly dealt with.",
+                                    "month": -1,
+                                    "source": "英语二",
+                                    "coll": "",
+                                    "sentence_trans": "所有日常工作都得到了及时处理。",
+                                    "year": 2016,
+                                    "type": "阅读理解A",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "It's a really hard thing to do and it's a tremendous luxury that BuzzFeed doesn't have a legacy <highlight>business</highlight>.",
+                                    "month": -1,
+                                    "source": "英语一",
+                                    "coll": "",
+                                    "sentence_trans": "这真的很难做到，而且BuzzFeed没有遗留工作是一种巨大的奢侈。",
+                                    "year": 2016,
+                                    "type": "阅读理解A",
+                                    "day": -1
+                                }
+                            ]
+                        },
+                        {
+                            "en": "",
+                            "zh": "事情; 情况",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "Trust is a tricky <highlight>business</highlight>.",
+                                    "month": -1,
+                                    "source": "英语一",
+                                    "coll": "",
+                                    "sentence_trans": "信任是一件棘手的事情。",
+                                    "year": 2018,
+                                    "type": "完型填空",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Reading becomes your primary <highlight>business</highlight> of the day.",
+                                    "month": -1,
+                                    "source": "英语二",
+                                    "coll": "",
+                                    "sentence_trans": "阅读成为你一天的主要事情。",
+                                    "year": 2016,
+                                    "type": "阅读理解A",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "word_affix": {
+                    "word": "business",
+                    "sub_affix_info_list": [
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "忙碌",
+                                    "affix_type": "stem"
+                                }
+                            ],
+                            "affix": "bus(y)",
+                            "affix_mean": "忙碌"
+                        },
+                        {
+                            "affix": "-i-",
+                            "affix_mean": ""
+                        },
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "aggressiveness",
+                                            "mean": "n. 进取精神；进攻性；侵略性"
+                                        },
+                                        {
+                                            "word": "alertness",
+                                            "mean": "n. 机敏；警戒"
+                                        },
+                                        {
+                                            "word": "awareness",
+                                            "mean": "n. 意识；认识；知道；察觉"
+                                        },
+                                        {
+                                            "word": "baldness",
+                                            "mean": "n. 光秃；枯燥；率直；露骨"
+                                        },
+                                        {
+                                            "word": "blackness",
+                                            "mean": "n. 黑色；阴险；黑；阴郁"
+                                        },
+                                        {
+                                            "word": "boldness",
+                                            "mean": "n. 大胆；冒失；显著"
+                                        },
+                                        {
+                                            "word": "brightness",
+                                            "mean": "n. 聪明；明亮；亮度；愉快"
+                                        },
+                                        {
+                                            "word": "consciousness",
+                                            "mean": "n. 知觉；清醒；意识；观念；感觉"
+                                        },
+                                        {
+                                            "word": "darkness",
+                                            "mean": "n. 黑暗；罪恶；邪恶；夜晚；痛苦；神秘；秘密；忧伤；无知；忧郁"
+                                        },
+                                        {
+                                            "word": "effectiveness",
+                                            "mean": "n. 效力；有效性；有效"
+                                        },
+                                        {
+                                            "word": "fairness",
+                                            "mean": "n. 公平；美好；顺利性"
+                                        },
+                                        {
+                                            "word": "fitness",
+                                            "mean": "n. 健康；适合；合格；胜任；环境适度"
+                                        },
+                                        {
+                                            "word": "frankness",
+                                            "mean": "n. 坦白；率直"
+                                        },
+                                        {
+                                            "word": "friendliness",
+                                            "mean": "n. 亲切；友谊；亲密"
+                                        },
+                                        {
+                                            "word": "goodness",
+                                            "mean": "n. 好；仁慈；美德；慷慨；德行；有益（或营养）成分"
+                                        },
+                                        {
+                                            "word": "happiness",
+                                            "mean": "n. 幸福；高兴"
+                                        },
+                                        {
+                                            "word": "illness",
+                                            "mean": "n. 疾病"
+                                        },
+                                        {
+                                            "word": "kindness",
+                                            "mean": "n. 好心；慷慨大方；体贴；善举；善行"
+                                        },
+                                        {
+                                            "word": "laziness",
+                                            "mean": "n. 怠惰；懒惰；懒散；无精打采"
+                                        },
+                                        {
+                                            "word": "likeness",
+                                            "mean": "n. 相似；相像；肖像；照片；画像；外观；外表；外在表现"
+                                        },
+                                        {
+                                            "word": "loneliness",
+                                            "mean": "n. 寂寞；孤独"
+                                        },
+                                        {
+                                            "word": "otherness",
+                                            "mean": "n. 另一；不同；不同物"
+                                        },
+                                        {
+                                            "word": "preparedness",
+                                            "mean": "n. 准备状态；预备状态"
+                                        },
+                                        {
+                                            "word": "readiness",
+                                            "mean": "n. 愿意；乐意；准备就绪状态；迅速；敏捷"
+                                        },
+                                        {
+                                            "word": "richness",
+                                            "mean": "n. 丰富；富裕；肥沃；浓烈"
+                                        },
+                                        {
+                                            "word": "sadness",
+                                            "mean": "n. 悲哀；悲伤；悲痛"
+                                        },
+                                        {
+                                            "word": "self-righteousness",
+                                            "mean": "n. 自以为是；伪善"
+                                        },
+                                        {
+                                            "word": "shyness",
+                                            "mean": "n. 羞怯；胆怯；害臊"
+                                        },
+                                        {
+                                            "word": "tiredness",
+                                            "mean": "n. 疲倦；疲劳"
+                                        },
+                                        {
+                                            "word": "togetherness",
+                                            "mean": "n. 亲密无间；和睦相处；友爱情谊"
+                                        },
+                                        {
+                                            "word": "uneasiness",
+                                            "mean": "n. 局促；不安；不自在；担忧"
+                                        },
+                                        {
+                                            "word": "newness",
+                                            "mean": "n. 崭新；新奇"
+                                        },
+                                        {
+                                            "word": "sleepiness",
+                                            "mean": "n. 想睡；瞌睡；睡意"
+                                        },
+                                        {
+                                            "word": "witness",
+                                            "mean": "n. 目击者；见证人；证据；证言；证词；证人；连署人；通过言语或行动公开承认自己的宗教信仰；证明标志"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "名词后缀, 通常加在形容词后面, 表示\"性质, 状态等\"。",
+                                    "affix_type": "suffix"
+                                }
+                            ],
+                            "affix": "-ness",
+                            "affix_mean": "性质, 状态等"
+                        }
+                    ],
+                    "word_mean": "n. 事业"
+                },
+                "word_usage": [
+                    {
+                        "usage": "表示“事情”时：\nbusiness指需要完成或讨论的重要事务，也指归某人管的事或某人持有某种看法的事情。\nconcern指关系到某人切身利益、引起其关注或担忧的重要事情。\nmatter通常指关乎利益、命运等的紧要事务，必须予以考虑或解决。\nthing词义最为广泛，可指任何事实、事件、情况、行为等。"
+                    }
+                ]
+            },
+            "CET6": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 42,
+                        "pos": "n",
+                        "chinese": "商业",
+                        "sense_tier_ratio": 37.84
+                    },
+                    {
+                        "sense_tier": 38,
+                        "pos": "n",
+                        "chinese": "生意; 事务",
+                        "sense_tier_ratio": 34.23
+                    },
+                    {
+                        "sense_tier": 30,
+                        "pos": "n",
+                        "chinese": "企业; 公司",
+                        "sense_tier_ratio": 27.03
+                    },
+                    {
+                        "sense_tier": 1,
+                        "pos": "n",
+                        "chinese": "职责; 本分",
+                        "sense_tier_ratio": 0.9
+                    }
+                ],
+                "word": "business",
+                "word_level_phrase_info": [
+                    {
+                        "brief_definition": "商业伙伴；业务伙伴；生意伙伴",
+                        "phrase": "business partner",
+                        "pos": "phr"
+                    },
+                    {
+                        "brief_definition": "业务扩张；营业扩充；[经]经济高涨",
+                        "phrase": "business expansion",
+                        "pos": "phr"
+                    },
+                    {
+                        "brief_definition": "赚钱的生意；赚钱的业务；盈利的商业",
+                        "phrase": "lucrative business",
+                        "pos": "phr"
+                    }
+                ],
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2016.6-2023.6年8年间全六级试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight>考纲释义</highlight>\n精选实考、考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2016-2023年51套试卷，包括阅读、听力、翻译等所有题型。\n\n<highlight>真题例句</highlight>\n精选2016-2023年8年间全六级试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 5,
+                "word_family": {
+                    "derivative_info_list": [
+                        {
+                            "derivative_info_list": [],
+                            "word": "businessman",
+                            "mean": "n. 商人"
+                        }
+                    ],
+                    "word": "business",
+                    "mean": "n. 事业；职业；行业；交易；生意；商业；系列事件；表演；受欢迎的人；难题"
+                },
+                "total_exam_freq": 111,
+                "sense": {
+                    "sense_num": 4,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "商业",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "I couldn't stay there any longer, their <highlight>business</highlight> practices threw me off the roof.",
+                                    "month": 12,
+                                    "source": "CET6",
+                                    "coll": "",
+                                    "sentence_trans": "我不能再呆在那里了，他们的商业行为把我从屋顶上扔了下来。",
+                                    "year": 2021,
+                                    "type": "阅读理解B",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "American families and prominent <highlight>business</highlight> leaders are aware that there's a big problem with automation.",
+                                    "month": 12,
+                                    "source": "CET6",
+                                    "coll": "",
+                                    "sentence_trans": "美国家庭和杰出的商业领袖都意识到自动化存在一个大问题。",
+                                    "year": 2021,
+                                    "type": "阅读理解C",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Data on management expenses at the college system and in other state departments will be part of a \"<highlight>business</highlight> justification\".",
+                                    "month": 6,
+                                    "source": "CET6",
+                                    "coll": "",
+                                    "sentence_trans": "大学系统和其他州立部门的管理费用数据将成为“商业理由”的一部分。",
+                                    "year": 2017,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                }
+                            ]
+                        },
+                        {
+                            "en": "",
+                            "zh": "生意; 事务",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "It's just one of a growing number of <highlight>businesses</highlight> committed to slowly changing the way America farms.",
+                                    "month": 12,
+                                    "source": "CET6",
+                                    "coll": "",
+                                    "sentence_trans": "它只是致力于缓慢改变美国农场的越来越多的业务之一。",
+                                    "year": 2019,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Young people might not otherwise be able to afford to break into the <highlight>business</highlight>.",
+                                    "month": 12,
+                                    "source": "CET6",
+                                    "coll": "",
+                                    "sentence_trans": "年轻人可能无法负担得起开展业务。",
+                                    "year": 2019,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Kristin Die hl is a associate professor of marketing at the University of Southern California Marshall School of <highlight>Business</highlight>.",
+                                    "month": 6,
+                                    "source": "CET6",
+                                    "coll": "",
+                                    "sentence_trans": "Kristin Diehl 是一位南加州大学马歇尔商学院营销学副教授。",
+                                    "year": 2018,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                }
+                            ]
+                        },
+                        {
+                            "en": "",
+                            "zh": "企业; 公司",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "Both individuals and <highlight>businesses</highlight> post regularly to engage and interact with people from around the world.",
+                                    "month": 12,
+                                    "source": "CET6",
+                                    "coll": "",
+                                    "sentence_trans": "个人和企业都定期发布帖子，与来自世界各地的人进行互动。",
+                                    "year": 2021,
+                                    "type": "阅读理解C",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Some <highlight>businesses</highlight> have begun to realize it may not be effective to let consumers take full responsibility for recycling.",
+                                    "month": 6,
+                                    "source": "CET6",
+                                    "coll": "",
+                                    "sentence_trans": "一些企业已经意识到把回收利用以减少浪费的希望全都寄托在消费者身上并非有效之举。",
+                                    "year": 2019,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "The remaining 20 percent of the Palau seas will be reserved for local fishing by individuals and small-scale commercial fishing <highlight>businesses</highlight> with limited exports.",
+                                    "month": 12,
+                                    "source": "CET6",
+                                    "coll": "",
+                                    "sentence_trans": "帕劳（Palau）海剩余的20％的面积将留给私人和出口有限的小型商业捕鱼企业在当地捕鱼。",
+                                    "year": 2017,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                }
+                            ]
+                        },
+                        {
+                            "synonyms": "",
+                            "en": "",
+                            "zh": "职责; 本分",
+                            "pos": "n",
+                            "antonyms": ""
+                        }
+                    ]
+                },
+                "word_affix": {
+                    "word": "business",
+                    "sub_affix_info_list": [
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "忙碌",
+                                    "affix_type": "stem"
+                                }
+                            ],
+                            "affix": "bus(y)",
+                            "affix_mean": "忙碌"
+                        },
+                        {
+                            "affix": "-i-",
+                            "affix_mean": ""
+                        },
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "aggressiveness",
+                                            "mean": "n. 进取精神；进攻性；侵略性"
+                                        },
+                                        {
+                                            "word": "alertness",
+                                            "mean": "n. 机敏；警戒"
+                                        },
+                                        {
+                                            "word": "awareness",
+                                            "mean": "n. 意识；认识；知道；察觉"
+                                        },
+                                        {
+                                            "word": "baldness",
+                                            "mean": "n. 光秃；枯燥；率直；露骨"
+                                        },
+                                        {
+                                            "word": "blackness",
+                                            "mean": "n. 黑色；阴险；黑；阴郁"
+                                        },
+                                        {
+                                            "word": "boldness",
+                                            "mean": "n. 大胆；冒失；显著"
+                                        },
+                                        {
+                                            "word": "brightness",
+                                            "mean": "n. 聪明；明亮；亮度；愉快"
+                                        },
+                                        {
+                                            "word": "consciousness",
+                                            "mean": "n. 知觉；清醒；意识；观念；感觉"
+                                        },
+                                        {
+                                            "word": "darkness",
+                                            "mean": "n. 黑暗；罪恶；邪恶；夜晚；痛苦；神秘；秘密；忧伤；无知；忧郁"
+                                        },
+                                        {
+                                            "word": "effectiveness",
+                                            "mean": "n. 效力；有效性；有效"
+                                        },
+                                        {
+                                            "word": "fairness",
+                                            "mean": "n. 公平；美好；顺利性"
+                                        },
+                                        {
+                                            "word": "fitness",
+                                            "mean": "n. 健康；适合；合格；胜任；环境适度"
+                                        },
+                                        {
+                                            "word": "frankness",
+                                            "mean": "n. 坦白；率直"
+                                        },
+                                        {
+                                            "word": "friendliness",
+                                            "mean": "n. 亲切；友谊；亲密"
+                                        },
+                                        {
+                                            "word": "goodness",
+                                            "mean": "n. 好；仁慈；美德；慷慨；德行；有益（或营养）成分"
+                                        },
+                                        {
+                                            "word": "happiness",
+                                            "mean": "n. 幸福；高兴"
+                                        },
+                                        {
+                                            "word": "illness",
+                                            "mean": "n. 疾病"
+                                        },
+                                        {
+                                            "word": "kindness",
+                                            "mean": "n. 好心；慷慨大方；体贴；善举；善行"
+                                        },
+                                        {
+                                            "word": "laziness",
+                                            "mean": "n. 怠惰；懒惰；懒散；无精打采"
+                                        },
+                                        {
+                                            "word": "likeness",
+                                            "mean": "n. 相似；相像；肖像；照片；画像；外观；外表；外在表现"
+                                        },
+                                        {
+                                            "word": "loneliness",
+                                            "mean": "n. 寂寞；孤独"
+                                        },
+                                        {
+                                            "word": "otherness",
+                                            "mean": "n. 另一；不同；不同物"
+                                        },
+                                        {
+                                            "word": "preparedness",
+                                            "mean": "n. 准备状态；预备状态"
+                                        },
+                                        {
+                                            "word": "readiness",
+                                            "mean": "n. 愿意；乐意；准备就绪状态；迅速；敏捷"
+                                        },
+                                        {
+                                            "word": "richness",
+                                            "mean": "n. 丰富；富裕；肥沃；浓烈"
+                                        },
+                                        {
+                                            "word": "sadness",
+                                            "mean": "n. 悲哀；悲伤；悲痛"
+                                        },
+                                        {
+                                            "word": "self-righteousness",
+                                            "mean": "n. 自以为是；伪善"
+                                        },
+                                        {
+                                            "word": "shyness",
+                                            "mean": "n. 羞怯；胆怯；害臊"
+                                        },
+                                        {
+                                            "word": "tiredness",
+                                            "mean": "n. 疲倦；疲劳"
+                                        },
+                                        {
+                                            "word": "togetherness",
+                                            "mean": "n. 亲密无间；和睦相处；友爱情谊"
+                                        },
+                                        {
+                                            "word": "uneasiness",
+                                            "mean": "n. 局促；不安；不自在；担忧"
+                                        },
+                                        {
+                                            "word": "newness",
+                                            "mean": "n. 崭新；新奇"
+                                        },
+                                        {
+                                            "word": "sleepiness",
+                                            "mean": "n. 想睡；瞌睡；睡意"
+                                        },
+                                        {
+                                            "word": "witness",
+                                            "mean": "n. 目击者；见证人；证据；证言；证词；证人；连署人；通过言语或行动公开承认自己的宗教信仰；证明标志"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "名词后缀, 通常加在形容词后面, 表示\"性质, 状态等\"。",
+                                    "affix_type": "suffix"
+                                }
+                            ],
+                            "affix": "-ness",
+                            "affix_mean": "性质, 状态等"
+                        }
+                    ],
+                    "word_mean": "n. 事业"
+                },
+                "word_usage": [
+                    {
+                        "usage": "business由busy和ness组合而成，等同于busy的抽象名词。"
+                    },
+                    {
+                        "usage": "business基本义指某人为谋利的“日常工作”或“职业”，引申可表示“职责/事务”。\ngo to business 上班\nnone of one's business 不关某人的事"
+                    },
+                    {
+                        "usage": "business现在多指不可数名词“商业/生意/贸易”，引申为可数名词“商店/商行”。\ngo into business 从商\nin business 经商"
+                    },
+                    {
+                        "usage": "on business指“因事或因公出差”，也可说on a little business “因一件小事”，但不可说on a business。"
+                    }
+                ],
+                "disambiguation": [
+                    {
+                        "disambiguation_list": [
+                            {
+                                "word": "affair",
+                                "sense_disambiguation": "含义较广, 侧重指已发生或必须去做的任何事情或事务。复数形式多指重大或较复杂的事务。"
+                            },
+                            {
+                                "word": "business",
+                                "sense_disambiguation": "通常指较重要或较难而又必须承担的事情, 也可指商事。"
+                            },
+                            {
+                                "word": "concern",
+                                "sense_disambiguation": "往往强调与个人或团体利害有直接或重大关系的事。"
+                            },
+                            {
+                                "word": "matter",
+                                "sense_disambiguation": "普通用词, 着重指一件考虑中的或需要处理的事。"
+                            }
+                        ],
+                        "sense_group": "事情"
+                    }
+                ],
+                "exchange_info": {
+                    "word_pl": [
+                        "businesses"
+                    ]
+                }
+            },
+            "CET4": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 40,
+                        "pos": "n",
+                        "chinese": "生意; 事务",
+                        "sense_tier_ratio": 39.22
+                    },
+                    {
+                        "sense_tier": 32,
+                        "pos": "n",
+                        "chinese": "商业",
+                        "sense_tier_ratio": 31.37
+                    },
+                    {
+                        "sense_tier": 30,
+                        "pos": "n",
+                        "chinese": "企业; 公司",
+                        "sense_tier_ratio": 29.41
+                    },
+                    {
+                        "sense_tier": 0,
+                        "pos": "n",
+                        "chinese": "职责; 本分",
+                        "sense_tier_ratio": 0
+                    }
+                ],
+                "word": "business",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2016.6-2023.6年8年间全四级试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight>考纲释义</highlight>\n精选实考、考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2016-2023年51套试卷，包括阅读、听力、翻译等所有题型。\n\n<highlight>真题例句</highlight>\n精选2016-2023年8年间试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 5,
+                "word_family": {
+                    "derivative_info_list": [
+                        {
+                            "derivative_info_list": [],
+                            "word": "businessman",
+                            "mean": "n. 商人"
+                        }
+                    ],
+                    "word": "business",
+                    "mean": "n. 事业；职业；行业；交易；生意；商业；系列事件；表演；受欢迎的人；难题"
+                },
+                "total_exam_freq": 102,
+                "sense": {
+                    "sense_num": 4,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "生意; 事务",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "This is where they conduct <highlight>business</highlight>, where a sense of community reinforces the culture and values of the gig economy (零工经济) .",
+                                    "month": 6,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "这是他们开展业务的地方，在这里共享意识强化了零工经济的文化和价值观。",
+                                    "year": 2021,
+                                    "type": "阅读理解C",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Critics say the digital access codes represent the same profit-seeking ethos (观念) of the textbook <highlight>business</highlight>, and are even harder for students to opt out of.",
+                                    "month": 6,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "批评家说，数字访问密码代表着与教科书行业相同的营利精神观念，甚至更难让学生选择退出。",
+                                    "year": 2018,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "A company should find ways to innovate not just in products but also in functions, <highlight>business</highlight> models and processes.",
+                                    "month": 6,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "公司不仅应该在产品方面，还应该在功能、商业模式和流程方面找到创新的方法。",
+                                    "year": 2016,
+                                    "type": "听力",
+                                    "day": -1
+                                }
+                            ]
+                        },
+                        {
+                            "en": "",
+                            "zh": "商业",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "Just building a place as an \"international <highlight>business</highlight> district\" doesn't mean it will become one.",
+                                    "month": 12,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "仅仅把一个地方当做“国际商务区”修建并不意味着它真的会成为国际商务区。",
+                                    "year": 2019,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "The government built the bridge directly from the airport to the Songdo International <highlight>Business</highlight> District. And the surface infrastructure was built at the same time as the new airport.",
+                                    "month": 12,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "政府直接在机场和松岛国际商务区之间架起了桥梁。地面基础设施是与新机场同时建立的。",
+                                    "year": 2019,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "The idea, as he has put it, is to offer <highlight>businesses</highlight> \"rapid, long-distance connectivity on a massive scale. \"",
+                                    "month": 12,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "如其所言，这样做的目的是让各商业机构能“大规模地进行高速地远程连接”。",
+                                    "year": 2019,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Young families move here because the schools are great. And that's the problem: Songdo has become a popular Korean city—more popular as a residential area than a <highlight>business</highlight> one.",
+                                    "month": 12,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "年轻家庭搬到这里是因为这里的学校很好。这就是问题所在：松岛已经成为韩国的热门城市——更多的是作为住宅区受到欢迎，而不是作为商业区。",
+                                    "year": 2019,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "For women seeking to climb to the highest levels of either politics or <highlight>business</highlight>, they have to do more than their male counterparts to prove themselves.",
+                                    "month": 6,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "对于要想登上政界或商界最高层的女性来说，她们必须比男性付出更多来证明自己。",
+                                    "year": 2019,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "We've surveyed <highlight>business</highlight> communication consultants and etiquette (礼仪) experts to come up with the following guidelines for effectively using the alternative ways of delivering difficult messages.",
+                                    "month": 12,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "我们从商务沟通顾问和礼仪专家那进行了研究以提出以下参考，以有效使用可选的方法传递困难的消息。",
+                                    "year": 2018,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "The signs do nothing more than identify a restaurant, theater, or other <highlight>business</highlight>, but do so in the most striking way possible.",
+                                    "month": 6,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "这些霓虹灯牌的作用无非是标识一家餐厅、剧院、或是其他商铺，但它却以最引人注目的方式发挥着自己的作用。",
+                                    "year": 2018,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                }
+                            ]
+                        },
+                        {
+                            "en": "",
+                            "zh": "企业; 公司",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "This is a family <highlight>business</highlight> started by my grandfather in 1950.",
+                                    "month": 12,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "这是我祖父于1950年创办的家族企业。",
+                                    "year": 2020,
+                                    "type": "听力",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "While 53% believe men will continue to hold more top executive positions in <highlight>business</highlight> in the future, 44% say it's only a matter of time before as many women are in top executive positions as men.",
+                                    "month": 6,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "虽然53%的人认为未来男性将继续在企业中担任更多的高层管理职位，但44%的人表示，女性与男性高管数量齐平只是时间问题。",
+                                    "year": 2019,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Changing building codes, evolving tastes, and the high cost of maintaining those wonderful old signs have <highlight>businesses</highlight> embracing LEDs, which are energy efficient, but still carry great cost.",
+                                    "month": 6,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "不断变化的建筑规范、人们越来越高的品味、再加上维护这些色彩缤纷但又老旧的标牌的高昂成本都促使企业开始接受LED灯，虽然LED灯节省能源，但成本依然很高。",
+                                    "year": 2018,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                }
+                            ]
+                        },
+                        {
+                            "synonyms": "",
+                            "en": "",
+                            "zh": "职责; 本分",
+                            "pos": "n",
+                            "antonyms": ""
+                        }
+                    ]
+                },
+                "word_affix": {
+                    "word": "business",
+                    "sub_affix_info_list": [
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "忙碌",
+                                    "affix_type": "stem"
+                                }
+                            ],
+                            "affix": "bus(y)",
+                            "affix_mean": "忙碌"
+                        },
+                        {
+                            "affix": "-i-",
+                            "affix_mean": ""
+                        },
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "aggressiveness",
+                                            "mean": "n. 进取精神；进攻性；侵略性"
+                                        },
+                                        {
+                                            "word": "alertness",
+                                            "mean": "n. 机敏；警戒"
+                                        },
+                                        {
+                                            "word": "awareness",
+                                            "mean": "n. 意识；认识；知道；察觉"
+                                        },
+                                        {
+                                            "word": "baldness",
+                                            "mean": "n. 光秃；枯燥；率直；露骨"
+                                        },
+                                        {
+                                            "word": "blackness",
+                                            "mean": "n. 黑色；阴险；黑；阴郁"
+                                        },
+                                        {
+                                            "word": "boldness",
+                                            "mean": "n. 大胆；冒失；显著"
+                                        },
+                                        {
+                                            "word": "brightness",
+                                            "mean": "n. 聪明；明亮；亮度；愉快"
+                                        },
+                                        {
+                                            "word": "consciousness",
+                                            "mean": "n. 知觉；清醒；意识；观念；感觉"
+                                        },
+                                        {
+                                            "word": "darkness",
+                                            "mean": "n. 黑暗；罪恶；邪恶；夜晚；痛苦；神秘；秘密；忧伤；无知；忧郁"
+                                        },
+                                        {
+                                            "word": "effectiveness",
+                                            "mean": "n. 效力；有效性；有效"
+                                        },
+                                        {
+                                            "word": "fairness",
+                                            "mean": "n. 公平；美好；顺利性"
+                                        },
+                                        {
+                                            "word": "fitness",
+                                            "mean": "n. 健康；适合；合格；胜任；环境适度"
+                                        },
+                                        {
+                                            "word": "frankness",
+                                            "mean": "n. 坦白；率直"
+                                        },
+                                        {
+                                            "word": "friendliness",
+                                            "mean": "n. 亲切；友谊；亲密"
+                                        },
+                                        {
+                                            "word": "goodness",
+                                            "mean": "n. 好；仁慈；美德；慷慨；德行；有益（或营养）成分"
+                                        },
+                                        {
+                                            "word": "happiness",
+                                            "mean": "n. 幸福；高兴"
+                                        },
+                                        {
+                                            "word": "illness",
+                                            "mean": "n. 疾病"
+                                        },
+                                        {
+                                            "word": "kindness",
+                                            "mean": "n. 好心；慷慨大方；体贴；善举；善行"
+                                        },
+                                        {
+                                            "word": "laziness",
+                                            "mean": "n. 怠惰；懒惰；懒散；无精打采"
+                                        },
+                                        {
+                                            "word": "likeness",
+                                            "mean": "n. 相似；相像；肖像；照片；画像；外观；外表；外在表现"
+                                        },
+                                        {
+                                            "word": "loneliness",
+                                            "mean": "n. 寂寞；孤独"
+                                        },
+                                        {
+                                            "word": "otherness",
+                                            "mean": "n. 另一；不同；不同物"
+                                        },
+                                        {
+                                            "word": "preparedness",
+                                            "mean": "n. 准备状态；预备状态"
+                                        },
+                                        {
+                                            "word": "readiness",
+                                            "mean": "n. 愿意；乐意；准备就绪状态；迅速；敏捷"
+                                        },
+                                        {
+                                            "word": "richness",
+                                            "mean": "n. 丰富；富裕；肥沃；浓烈"
+                                        },
+                                        {
+                                            "word": "sadness",
+                                            "mean": "n. 悲哀；悲伤；悲痛"
+                                        },
+                                        {
+                                            "word": "self-righteousness",
+                                            "mean": "n. 自以为是；伪善"
+                                        },
+                                        {
+                                            "word": "shyness",
+                                            "mean": "n. 羞怯；胆怯；害臊"
+                                        },
+                                        {
+                                            "word": "tiredness",
+                                            "mean": "n. 疲倦；疲劳"
+                                        },
+                                        {
+                                            "word": "togetherness",
+                                            "mean": "n. 亲密无间；和睦相处；友爱情谊"
+                                        },
+                                        {
+                                            "word": "uneasiness",
+                                            "mean": "n. 局促；不安；不自在；担忧"
+                                        },
+                                        {
+                                            "word": "newness",
+                                            "mean": "n. 崭新；新奇"
+                                        },
+                                        {
+                                            "word": "sleepiness",
+                                            "mean": "n. 想睡；瞌睡；睡意"
+                                        },
+                                        {
+                                            "word": "witness",
+                                            "mean": "n. 目击者；见证人；证据；证言；证词；证人；连署人；通过言语或行动公开承认自己的宗教信仰；证明标志"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "名词后缀, 通常加在形容词后面, 表示\"性质, 状态等\"。",
+                                    "affix_type": "suffix"
+                                }
+                            ],
+                            "affix": "-ness",
+                            "affix_mean": "性质, 状态等"
+                        }
+                    ],
+                    "word_mean": "n. 事业"
+                },
+                "word_usage": [
+                    {
+                        "usage": "business基本义指某人为谋利的“日常工作”或“职业”，引申可表示“职责/事务”。\ngo to business 上班\nnone of one's business 不关某人的事"
+                    },
+                    {
+                        "usage": "business现在多指不可数名词“商业/生意/贸易”，引申为可数名词“商店/商行”。\ngo into business 从商\nin business 经商"
+                    },
+                    {
+                        "usage": "business由busy和ness组合而成，等同于busy的抽象名词。"
+                    },
+                    {
+                        "usage": "on business指“因事或因公出差”，也可说on a little business “因一件小事”，但不可说on a business。"
+                    }
+                ],
+                "disambiguation": [
+                    {
+                        "disambiguation_list": [
+                            {
+                                "word": "affair",
+                                "sense_disambiguation": "含义较广，侧重指已发生或必须去做的任何事情或事务。复数形式多指重大或较复杂的事务。"
+                            },
+                            {
+                                "word": "business",
+                                "sense_disambiguation": "通常指较重要或较难而又必须承担的事情，也可指商事。"
+                            },
+                            {
+                                "word": "concern",
+                                "sense_disambiguation": "往往强调与个人或团体利害有直接或重大关系的事。"
+                            },
+                            {
+                                "word": "matter",
+                                "sense_disambiguation": "普通用词，着重指一件考虑中的或需要处理的事。"
+                            }
+                        ],
+                        "sense_group": "事情"
+                    }
+                ],
+                "exchange_info": {
+                    "word_pl": [
+                        "businesses"
+                    ]
+                }
+            },
+            "gaokao": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 21,
+                        "pos": "n",
+                        "chinese": "生意; 事务",
+                        "sense_tier_ratio": 70
+                    },
+                    {
+                        "sense_tier": 6,
+                        "pos": "n",
+                        "chinese": "商业",
+                        "sense_tier_ratio": 20
+                    },
+                    {
+                        "sense_tier": 2,
+                        "pos": "n",
+                        "chinese": "企业",
+                        "sense_tier_ratio": 6.67
+                    },
+                    {
+                        "sense_tier": 1,
+                        "pos": "n",
+                        "chinese": "职责; 本分",
+                        "sense_tier_ratio": 3.33
+                    }
+                ],
+                "word": "business",
+                "total_exam_freq": 30,
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2015-2022年8年间全国卷和自主命题省市高考卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2015-2022年全国卷高考试卷，包括阅读、完形、单选、填空、听力、改错、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选各省市考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2015-2022年8年间全国卷和自主命题省市高考卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 5,
+                "word_family": {
+                    "derivative_info_list": [
+                        {
+                            "derivative_info_list": [
+                                {
+                                    "derivative_info_list": [],
+                                    "word": "businesswoman",
+                                    "mean": "n. 商人"
+                                }
+                            ],
+                            "word": "businessman",
+                            "mean": "n. 商人"
+                        }
+                    ],
+                    "word": "business",
+                    "mean": "n. 事业；职业；行业；交易；生意；商业；系列事件；表演；受欢迎的人；难题"
+                },
+                "word_level_phrase_info": [
+                    {
+                        "brief_definition": "开创事业",
+                        "phrase": "start one's business",
+                        "pos": "phr."
+                    },
+                    {
+                        "brief_definition": "工商管理",
+                        "phrase": "business administration",
+                        "pos": "phr."
+                    }
+                ],
+                "sense": {
+                    "sense_num": 4,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "生意; 事务",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "Summer Company provides students with hands-on <highlight>business</highlight> training and awards of up to $3, 000 to start and run their own summer <highlight>businesses</highlight>.",
+                                    "month": -1,
+                                    "source": "全国卷1",
+                                    "coll": "",
+                                    "sentence_trans": "夏日公司为学生提供亲身实践的商业培训，并提供高达3000美元的奖金，让他们开始并经营自己的暑期生意。",
+                                    "year": 2019,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Instead of taking care of his <highlight>business</highlight>, John was often off exploring nature.",
+                                    "month": -1,
+                                    "source": "全国卷2",
+                                    "coll": "",
+                                    "sentence_trans": "约翰经常出去探索大自然，而不是打理他的生意。",
+                                    "year": 2019,
+                                    "type": "听力",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "\"Almost every great love story and each big <highlight>business</highlight> deal begins with small talk, \" he explains.",
+                                    "month": -1,
+                                    "source": "全国卷2",
+                                    "coll": "",
+                                    "sentence_trans": "他解释道：“几乎每一段伟大的爱情故事和每一笔大生意都是从闲聊开始的。”",
+                                    "year": 2018,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Instead, he hopes that his <highlight>business</highlight> will grow steadily.",
+                                    "month": -1,
+                                    "source": "全国卷1",
+                                    "coll": "",
+                                    "sentence_trans": "相反，他希望他的生意能稳定发展。",
+                                    "year": 2016,
+                                    "type": "改错",
+                                    "day": -1
+                                }
+                            ]
+                        },
+                        {
+                            "en": "",
+                            "zh": "商业",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "At 21, I landed a job at a big insurance company out of my <highlight>business</highlight> degree.",
+                                    "month": -1,
+                                    "source": "天津卷",
+                                    "coll": "",
+                                    "sentence_trans": "21岁时，我凭借商学学位在一家大型保险公司找到了一份工作。",
+                                    "year": 2021,
+                                    "type": "阅读表达",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "He'll be on a <highlight>business</highlight> trip for a week.",
+                                    "month": -1,
+                                    "source": "全国卷2",
+                                    "coll": "",
+                                    "sentence_trans": "他要出差一星期。",
+                                    "year": 2019,
+                                    "type": "听力",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Luckily, I met a very good teacher who encouraged me to take some math classes, <highlight>business</highlight> classes, and history classes.",
+                                    "month": -1,
+                                    "source": "全国卷1",
+                                    "coll": "",
+                                    "sentence_trans": "幸运的是，我遇到了一位非常好的老师，他鼓励我去上一些数学课、商务课和历史课。",
+                                    "year": 2018,
+                                    "type": "听力",
+                                    "day": -1
+                                }
+                            ]
+                        },
+                        {
+                            "en": "",
+                            "zh": "企业",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "Whenever I heard of <highlight>businesses</highlight> using plastic, I'd send an email.",
+                                    "month": -1,
+                                    "source": "新高考II卷",
+                                    "coll": "",
+                                    "sentence_trans": "每当我听说商家使用塑料，我就发一封电子邮件。",
+                                    "year": 2021,
+                                    "type": "语法填空",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "I wanted to reach <highlight>businesses</highlight> too.",
+                                    "month": -1,
+                                    "source": "新高考II卷",
+                                    "coll": "",
+                                    "sentence_trans": "我也想到企业去。",
+                                    "year": 2021,
+                                    "type": "语法填空",
+                                    "day": -1
+                                }
+                            ]
+                        },
+                        {
+                            "en": "",
+                            "zh": "职责; 本分",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "None of your <highlight>business</highlight>!",
+                                    "month": -1,
+                                    "source": "全国卷2",
+                                    "coll": "",
+                                    "sentence_trans": "不关你的事！",
+                                    "year": 2019,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "word_affix": {
+                    "word": "business",
+                    "sub_affix_info_list": [
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "忙碌",
+                                    "affix_type": "stem"
+                                }
+                            ],
+                            "affix": "bus(y)",
+                            "affix_mean": "忙碌"
+                        },
+                        {
+                            "affix": "-i-",
+                            "affix_mean": ""
+                        },
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "aggressiveness",
+                                            "mean": "n. 进取精神；进攻性；侵略性"
+                                        },
+                                        {
+                                            "word": "alertness",
+                                            "mean": "n. 机敏；警戒"
+                                        },
+                                        {
+                                            "word": "awareness",
+                                            "mean": "n. 意识；认识；知道；察觉"
+                                        },
+                                        {
+                                            "word": "baldness",
+                                            "mean": "n. 光秃；枯燥；率直；露骨"
+                                        },
+                                        {
+                                            "word": "blackness",
+                                            "mean": "n. 黑色；阴险；黑；阴郁"
+                                        },
+                                        {
+                                            "word": "boldness",
+                                            "mean": "n. 大胆；冒失；显著"
+                                        },
+                                        {
+                                            "word": "brightness",
+                                            "mean": "n. 聪明；明亮；亮度；愉快"
+                                        },
+                                        {
+                                            "word": "consciousness",
+                                            "mean": "n. 知觉；清醒；意识；观念；感觉"
+                                        },
+                                        {
+                                            "word": "darkness",
+                                            "mean": "n. 黑暗；罪恶；邪恶；夜晚；痛苦；神秘；秘密；忧伤；无知；忧郁"
+                                        },
+                                        {
+                                            "word": "effectiveness",
+                                            "mean": "n. 效力；有效性；有效"
+                                        },
+                                        {
+                                            "word": "fairness",
+                                            "mean": "n. 公平；美好；顺利性"
+                                        },
+                                        {
+                                            "word": "fitness",
+                                            "mean": "n. 健康；适合；合格；胜任；环境适度"
+                                        },
+                                        {
+                                            "word": "frankness",
+                                            "mean": "n. 坦白；率直"
+                                        },
+                                        {
+                                            "word": "friendliness",
+                                            "mean": "n. 亲切；友谊；亲密"
+                                        },
+                                        {
+                                            "word": "goodness",
+                                            "mean": "n. 好；仁慈；美德；慷慨；德行；有益（或营养）成分"
+                                        },
+                                        {
+                                            "word": "happiness",
+                                            "mean": "n. 幸福；高兴"
+                                        },
+                                        {
+                                            "word": "illness",
+                                            "mean": "n. 疾病"
+                                        },
+                                        {
+                                            "word": "kindness",
+                                            "mean": "n. 好心；慷慨大方；体贴；善举；善行"
+                                        },
+                                        {
+                                            "word": "laziness",
+                                            "mean": "n. 怠惰；懒惰；懒散；无精打采"
+                                        },
+                                        {
+                                            "word": "likeness",
+                                            "mean": "n. 相似；相像；肖像；照片；画像；外观；外表；外在表现"
+                                        },
+                                        {
+                                            "word": "loneliness",
+                                            "mean": "n. 寂寞；孤独"
+                                        },
+                                        {
+                                            "word": "otherness",
+                                            "mean": "n. 另一；不同；不同物"
+                                        },
+                                        {
+                                            "word": "preparedness",
+                                            "mean": "n. 准备状态；预备状态"
+                                        },
+                                        {
+                                            "word": "readiness",
+                                            "mean": "n. 愿意；乐意；准备就绪状态；迅速；敏捷"
+                                        },
+                                        {
+                                            "word": "richness",
+                                            "mean": "n. 丰富；富裕；肥沃；浓烈"
+                                        },
+                                        {
+                                            "word": "sadness",
+                                            "mean": "n. 悲哀；悲伤；悲痛"
+                                        },
+                                        {
+                                            "word": "self-righteousness",
+                                            "mean": "n. 自以为是；伪善"
+                                        },
+                                        {
+                                            "word": "shyness",
+                                            "mean": "n. 羞怯；胆怯；害臊"
+                                        },
+                                        {
+                                            "word": "tiredness",
+                                            "mean": "n. 疲倦；疲劳"
+                                        },
+                                        {
+                                            "word": "togetherness",
+                                            "mean": "n. 亲密无间；和睦相处；友爱情谊"
+                                        },
+                                        {
+                                            "word": "uneasiness",
+                                            "mean": "n. 局促；不安；不自在；担忧"
+                                        },
+                                        {
+                                            "word": "newness",
+                                            "mean": "n. 崭新；新奇"
+                                        },
+                                        {
+                                            "word": "sleepiness",
+                                            "mean": "n. 想睡；瞌睡；睡意"
+                                        },
+                                        {
+                                            "word": "witness",
+                                            "mean": "n. 目击者；见证人；证据；证言；证词；证人；连署人；通过言语或行动公开承认自己的宗教信仰；证明标志"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "名词后缀, 通常加在形容词后面, 表示\"性质, 状态等\"。",
+                                    "affix_type": "suffix"
+                                }
+                            ],
+                            "affix": "-ness",
+                            "affix_mean": "性质, 状态等"
+                        }
+                    ],
+                    "word_mean": "n. 事业"
+                },
+                "disambiguation": [
+                    {
+                        "disambiguation_list": [
+                            {
+                                "word": "affair",
+                                "sense_disambiguation": "含义较广，侧重指已发生或必须去做的任何事情或事务。复数形式多指重大或较复杂的事务。"
+                            },
+                            {
+                                "word": "business",
+                                "sense_disambiguation": "通常指较重要或较难而又必须承担的事情，也可指商事。"
+                            },
+                            {
+                                "word": "concern",
+                                "sense_disambiguation": "往往强调与个人或团体利害有直接或重大关系的事。"
+                            },
+                            {
+                                "word": "matter",
+                                "sense_disambiguation": "普通用词，着重指一件考虑中的或需要处理的事。"
+                            }
+                        ],
+                        "sense_group": "事情"
+                    }
+                ],
+                "exchange_info": {
+                    "word_pl": [
+                        "businesses"
+                    ]
+                }
+            },
+            "zhongkao": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 63,
+                        "pos": "n",
+                        "chinese": "商业; 生意",
+                        "sense_tier_ratio": 58.88
+                    },
+                    {
+                        "sense_tier": 29,
+                        "pos": "n",
+                        "chinese": "企业; 公司",
+                        "sense_tier_ratio": 27.1
+                    },
+                    {
+                        "sense_tier": 10,
+                        "pos": "n",
+                        "chinese": "职业; 事业; 行业",
+                        "sense_tier_ratio": 9.35
+                    },
+                    {
+                        "sense_tier": 4,
+                        "pos": "n",
+                        "chinese": "商务; 公事",
+                        "sense_tier_ratio": 3.74
+                    },
+                    {
+                        "sense_tier": 1,
+                        "pos": "n",
+                        "chinese": "责任; 职责",
+                        "sense_tier_ratio": 0.93
+                    }
+                ],
+                "word": "business",
+                "total_exam_freq": 107,
+                "direction_info": {
+                    "ranges": 4,
+                    "description": "数据源自2018-2021年4年间全国各省市中考试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2018-2021年全国重点省市中考试卷，包括听力、阅读、完形、单选、填空、改错、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选各省市考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2018-2021年4年间全国各省市中考试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 5,
+                "word_family": {
+                    "derivative_info_list": [
+                        {
+                            "derivative_info_list": [],
+                            "word": "businessmen",
+                            "mean": "n. 生意人；（businessman的复数）"
+                        },
+                        {
+                            "derivative_info_list": [],
+                            "word": "businessman",
+                            "mean": "n. 商人"
+                        }
+                    ],
+                    "word": "business",
+                    "mean": "n. 事业；职业；行业；交易；生意；商业；系列事件；表演；受欢迎的人；难题"
+                },
+                "word_level_phrase_info": [
+                    {
+                        "brief_definition": "开创事业",
+                        "phrase": "start one's business",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "与...做生意",
+                        "phrase": "do business with",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "不关某人的事",
+                        "phrase": "none of one's business",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "商界领袖；商业领袖",
+                        "phrase": "business leader",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "大宗业务；大生意",
+                        "phrase": "big business",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "名片",
+                        "phrase": "business card",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "上班时间；办公时间",
+                        "phrase": "business hours",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "商人",
+                        "phrase": "business person",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "营业时间；商务时间；商业时间",
+                        "phrase": "business time",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "出差；商务旅行",
+                        "phrase": "business trip",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "出差；因公",
+                        "phrase": "on business",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "经营业务；经营生意；做生意",
+                        "phrase": "run business",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "创业；开办一家公司",
+                        "phrase": "start a business",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "开业",
+                        "phrase": "start business",
+                        "pos": ""
+                    }
+                ],
+                "sense": {
+                    "sense_num": 5,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "商业; 生意",
+                            "pos": "n",
+                            "synonyms": "trade,dealing",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "She says that she'll have to close the restaurant unless <highlight>business</highlight> improves.",
+                                    "month": -1,
+                                    "source": "包头市卷",
+                                    "coll": "",
+                                    "sentence_trans": "她说除非生意好转，否则她将不得不关闭这家餐馆。",
+                                    "year": 2020,
+                                    "type": "单项选择",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "More people are speaking Chinese than English, and the need for <highlight>business</highlight> people who know Chinese is skyrocketing．",
+                                    "month": -1,
+                                    "source": "上海市卷",
+                                    "coll": "",
+                                    "sentence_trans": "说中文的人比说英语的人多，对懂中文的商务人士的需求也在激增。",
+                                    "year": 2020,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Although <highlight>business</highlight> was slow at first, it soon got better.",
+                                    "month": -1,
+                                    "source": "天津市卷",
+                                    "coll": "",
+                                    "sentence_trans": "虽然一开始生意不景气，但很快就好转了。",
+                                    "year": 2018,
+                                    "type": "完形填空",
+                                    "day": -1
+                                }
+                            ]
+                        },
+                        {
+                            "en": "",
+                            "zh": "企业; 公司",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "And sometimes we take career risks, such as leaving a job or starting a <highlight>business</highlight>.",
+                                    "month": -1,
+                                    "source": "江西省卷",
+                                    "coll": "",
+                                    "sentence_trans": "有时我们会冒职业风险，比如离职或创业。",
+                                    "year": 2020,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "I've had to close down my <highlight>business</highlight> now and I don't know what I'm going to do for money.",
+                                    "month": -1,
+                                    "source": "武汉市卷",
+                                    "coll": "",
+                                    "sentence_trans": "我现在不得不关闭我的公司，我不知道要做什么来赚钱。",
+                                    "year": 2019,
+                                    "type": "完形填空",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "People began depending on them more and more to run <highlight>businesses</highlight>, markets and so on.",
+                                    "month": -1,
+                                    "source": "天津市卷",
+                                    "coll": "",
+                                    "sentence_trans": "人们开始越来越依赖他们来经营企业、市场等。",
+                                    "year": 2018,
+                                    "type": "综合填空",
+                                    "day": -1
+                                }
+                            ]
+                        },
+                        {
+                            "en": "",
+                            "zh": "职业; 事业; 行业",
+                            "pos": "n",
+                            "synonyms": "job,post",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "He has gone out of the town on <highlight>business</highlight>.",
+                                    "month": -1,
+                                    "source": "安徽省卷",
+                                    "coll": "",
+                                    "sentence_trans": "他已经出城出差了。",
+                                    "year": 2020,
+                                    "type": "补全对话",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Soon enough, people asked her to make clothes, and it turned into a full-time <highlight>business</highlight>.",
+                                    "month": -1,
+                                    "source": "河南省卷",
+                                    "coll": "",
+                                    "sentence_trans": "很快，人们请她做衣服，这就变成了一个全职的事业。",
+                                    "year": 2020,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Now, a similar technology, known as facial detection (探测), is entering a new field: the <highlight>business</highlight> of advertising (广告).",
+                                    "month": -1,
+                                    "source": "重庆市B卷",
+                                    "coll": "",
+                                    "sentence_trans": "如今，一种被称为人脸检测的类似技术正在进入一个新的领域——广告行业。",
+                                    "year": 2020,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                }
+                            ]
+                        },
+                        {
+                            "en": "",
+                            "zh": "商务; 公事",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "My parents have been away on <highlight>business</highlight>, so I cook by myself.",
+                                    "month": -1,
+                                    "source": "贺州市卷",
+                                    "coll": "",
+                                    "sentence_trans": "我父母出差了，所以我自己做饭。",
+                                    "year": 2021,
+                                    "type": "补全对话",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Where did Tim go on <highlight>business</highlight>?",
+                                    "month": -1,
+                                    "source": "通辽市卷",
+                                    "coll": "",
+                                    "sentence_trans": "蒂姆去哪里出差了？",
+                                    "year": 2021,
+                                    "type": "听力",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Then Mother came in and said, \"Father's been called away—on <highlight>business</highlight>.\"",
+                                    "month": -1,
+                                    "source": "扬州市卷",
+                                    "coll": "",
+                                    "sentence_trans": "然后妈妈进来说:“爸爸被叫走去出差。”",
+                                    "year": 2021,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                }
+                            ]
+                        },
+                        {
+                            "en": "",
+                            "zh": "责任; 职责",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "It's none of your <highlight>business</highlight>.",
+                                    "month": -1,
+                                    "source": "云南省卷",
+                                    "coll": "",
+                                    "sentence_trans": "不关你的事。",
+                                    "year": 2021,
+                                    "type": "单项填空",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "word_affix": {
+                    "sub_affix_info_list": [
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "忙碌",
+                                    "affix_type": "stem"
+                                }
+                            ],
+                            "affix": "bus(y)",
+                            "affix_mean": "忙碌"
+                        },
+                        {
+                            "affix": "-i-",
+                            "affix_mean": ""
+                        },
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [
+                                        {
+                                            "word": "aggressiveness",
+                                            "mean": "n. 进取精神；进攻性；侵略性"
+                                        },
+                                        {
+                                            "word": "alertness",
+                                            "mean": "n. 机敏；警戒"
+                                        },
+                                        {
+                                            "word": "awareness",
+                                            "mean": "n. 意识；认识；知道；察觉"
+                                        },
+                                        {
+                                            "word": "baldness",
+                                            "mean": "n. 光秃；枯燥；率直；露骨"
+                                        },
+                                        {
+                                            "word": "blackness",
+                                            "mean": "n. 黑色；阴险；黑；阴郁"
+                                        },
+                                        {
+                                            "word": "boldness",
+                                            "mean": "n. 大胆；冒失；显著"
+                                        },
+                                        {
+                                            "word": "brightness",
+                                            "mean": "n. 聪明；明亮；亮度；愉快"
+                                        },
+                                        {
+                                            "word": "consciousness",
+                                            "mean": "n. 知觉；清醒；意识；观念；感觉"
+                                        },
+                                        {
+                                            "word": "darkness",
+                                            "mean": "n. 黑暗；罪恶；邪恶；夜晚；痛苦；神秘；秘密；忧伤；无知；忧郁"
+                                        },
+                                        {
+                                            "word": "effectiveness",
+                                            "mean": "n. 效力；有效性；有效"
+                                        },
+                                        {
+                                            "word": "fairness",
+                                            "mean": "n. 公平；美好；顺利性"
+                                        },
+                                        {
+                                            "word": "fitness",
+                                            "mean": "n. 健康；适合；合格；胜任；环境适度"
+                                        },
+                                        {
+                                            "word": "frankness",
+                                            "mean": "n. 坦白；率直"
+                                        },
+                                        {
+                                            "word": "friendliness",
+                                            "mean": "n. 亲切；友谊；亲密"
+                                        },
+                                        {
+                                            "word": "goodness",
+                                            "mean": "n. 好；仁慈；美德；慷慨；德行；有益（或营养）成分"
+                                        },
+                                        {
+                                            "word": "happiness",
+                                            "mean": "n. 幸福；高兴"
+                                        },
+                                        {
+                                            "word": "illness",
+                                            "mean": "n. 疾病"
+                                        },
+                                        {
+                                            "word": "kindness",
+                                            "mean": "n. 好心；慷慨大方；体贴；善举；善行"
+                                        },
+                                        {
+                                            "word": "laziness",
+                                            "mean": "n. 怠惰；懒惰；懒散；无精打采"
+                                        },
+                                        {
+                                            "word": "likeness",
+                                            "mean": "n. 相似；相像；肖像；照片；画像；外观；外表；外在表现"
+                                        },
+                                        {
+                                            "word": "loneliness",
+                                            "mean": "n. 寂寞；孤独"
+                                        },
+                                        {
+                                            "word": "otherness",
+                                            "mean": "n. 另一；不同；不同物"
+                                        },
+                                        {
+                                            "word": "preparedness",
+                                            "mean": "n. 准备状态；预备状态"
+                                        },
+                                        {
+                                            "word": "readiness",
+                                            "mean": "n. 愿意；乐意；准备就绪状态；迅速；敏捷"
+                                        },
+                                        {
+                                            "word": "richness",
+                                            "mean": "n. 丰富；富裕；肥沃；浓烈"
+                                        },
+                                        {
+                                            "word": "sadness",
+                                            "mean": "n. 悲哀；悲伤；悲痛"
+                                        },
+                                        {
+                                            "word": "self-righteousness",
+                                            "mean": "n. 自以为是；伪善"
+                                        },
+                                        {
+                                            "word": "shyness",
+                                            "mean": "n. 羞怯；胆怯；害臊"
+                                        },
+                                        {
+                                            "word": "tiredness",
+                                            "mean": "n. 疲倦；疲劳"
+                                        },
+                                        {
+                                            "word": "togetherness",
+                                            "mean": "n. 亲密无间；和睦相处；友爱情谊"
+                                        },
+                                        {
+                                            "word": "uneasiness",
+                                            "mean": "n. 局促；不安；不自在；担忧"
+                                        },
+                                        {
+                                            "word": "newness",
+                                            "mean": "n. 崭新；新奇"
+                                        },
+                                        {
+                                            "word": "sleepiness",
+                                            "mean": "n. 想睡；瞌睡；睡意"
+                                        },
+                                        {
+                                            "word": "witness",
+                                            "mean": "n. 目击者；见证人；证据；证言；证词；证人；连署人；通过言语或行动公开承认自己的宗教信仰；证明标志"
+                                        }
+                                    ],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "名词后缀, 通常加在形容词后面, 表示\"性质, 状态等\"。",
+                                    "affix_type": "suffix"
+                                }
+                            ],
+                            "affix": "-ness",
+                            "affix_mean": "性质, 状态等"
+                        }
+                    ],
+                    "word": "business",
+                    "word_mean": "n. 事业"
+                },
+                "word_usage": [
+                    {
+                        "usage": "business由busy和ness组合而成，等同于busy的抽象名词。"
+                    },
+                    {
+                        "usage": "business基本义指某人为谋利的“日常工作”或“职业”，引申可表示“职责/事务”。\ngo to business 上班\nnone of one's business 不关某人的事"
+                    },
+                    {
+                        "usage": "business现在多指不可数名词“商业/生意/贸易”，引申为可数名词“商店/商行”。\ngo into business 从商\nin business 经商"
+                    },
+                    {
+                        "usage": "on business指“因事或因公出差”，也可说on a little business “因一件小事”，但不可说on a business。"
+                    }
+                ],
+                "disambiguation": [
+                    {
+                        "disambiguation_list": [
+                            {
+                                "word": "business",
+                                "sense_disambiguation": "指需要完成或讨论的重要事务，也指归某人管的事或某人持有某种看法的事情，也可指商事。"
+                            },
+                            {
+                                "word": "matter",
+                                "sense_disambiguation": "通常指关乎利益、命运等的紧要事务，需要考虑或处理的事。"
+                            },
+                            {
+                                "word": "thing",
+                                "sense_disambiguation": "普通用词，词义最为广泛，可指任何事实、事件、情况、行为等。"
+                            }
+                        ],
+                        "sense_group": "事情"
+                    },
+                    {
+                        "disambiguation_list": [
+                            {
+                                "word": "business",
+                                "sense_disambiguation": "指包括售货、购货、换货在内的综合商业活动，方式可以是批发或零售。"
+                            },
+                            {
+                                "word": "trade",
+                                "sense_disambiguation": "普通用词，含义广。既可指某种具体的商业又可指广泛的贸易。"
+                            },
+                            {
+                                "word": "deal",
+                                "sense_disambiguation": "口语用词，指买卖双方经过交涉达成协议成交。"
+                            }
+                        ],
+                        "sense_group": "贸易，交易"
+                    }
+                ]
+            },
+            "sentencesData": {
+                "status": 1,
+                "info": "notZh2En",
+                "data": {}
+            },
+            "isAutoMatch": false,
+            "Zh2En": false
+        },
+        "query": "business",
+        "result": "商业",
+        "tabSelect": "detail",
+        "dictionaryType": "oxford_buchong",
+        "notFound_show": false,
+        "phoneticShow": "",
+        "globalShowTranslateRecord": "",
+        "pronPrefer": {
+            "type": "usa_1",
+            "speaker": "male",
+            "speed": "standard"
+        },
+        "ServerRecord": "",
+        "ServerUIGS": {
+            "version": "new",
+            "type": "all",
+            "stype": "success",
+            "terminal": "web",
+            "fr": "default",
+            "direction": "etoz",
+            "from": "en",
+            "to": "zh-CHS",
+            "len": 8,
+            "qtype": "text",
+            "qctype": "qc_1",
+            "dict_cover": 1,
+            "detail": 1,
+            "wordCardCover": 1,
+            "wordCardEn": 1,
+            "wordCardCh": 0,
+            "wordCardMinor": 0,
+            "wordCardNetmean": 0,
+            "wordDeform": 1,
+            "keyword": 0,
+            "bilingual": 1,
+            "simple": 0,
+            "levelList": 1,
+            "synonym": 1,
+            "antonym": 0,
+            "conjugate": 1,
+            "rootaffix": 1,
+            "baike_sogou": 1,
+            "baike_wiki": 0,
+            "wordDifference": 1,
+            "word_phrase": 1,
+            "secondQuery": 0,
+            "dict_oxford": 0,
+            "dict_newcentury": 0,
+            "zhongkaotab": 1,
+            "gaokaotab": 1,
+            "CET4tab": 1,
+            "CET6tab": 1,
+            "kaoyantab": 1,
+            "network_tab": 0,
+            "yinying_tab": 1,
+            "tuozhan_tab": 0,
+            "one_pic": 0,
+            "more_pic": 0,
+            "no_pic": 0,
+            "uuid": "08a89247-a7e1-4b05-859e-3ce2150671a4",
+            "from_type": 0,
+            "t_trans_ssr": 191
+        },
+        "ServerModelUIGS": {
+            "terminal": "web",
+            "type": "trans_model",
+            "pbtype": "pv",
+            "model_general": 1,
+            "model_medical": 1,
+            "model_finance": 1
+        },
+        "ServerSgtkn": "64EAAA0AA76312A4AFB6871579928D37B08A241267552235",
+        "suggShow": false,
+        "suggestion": "",
+        "suggDirection": "",
+        "usualTop": "",
+        "baseDict": "",
+        "wordCardClick": false,
+        "isFrInput": false,
+        "kanaTips": {
+            "show": false,
+            "left": "",
+            "top": "",
+            "type": "",
+            "arrowLeft": ""
+        },
+        "currSentenceIndex": -1,
+        "prefixStrObj": {
+            "prefixStr": "",
+            "oriPrefixStr": ""
+        },
+        "selectTransBox": {
+            "show": false,
+            "right": 0,
+            "top": 0,
+            "paraphraseInfo": {
+                "word": "",
+                "from": "",
+                "to": "",
+                "area": ""
+            }
+        },
+        "sentenceLoading": false,
+        "newSentenceInfo": {
+            "sentence": "",
+            "candidateIndex": 0
+        },
+        "moreTipInfo": {
+            "opacity": 0,
+            "zIndex": -1
+        },
+        "paraphraseShowInfo": {
+            "card": 0,
+            "query": "",
+            "card_dict": 0
+        },
+        "selectType": "",
+        "wordPos": 0,
+        "candidateWord": "",
+        "syntaxVisible": false,
+        "syntaxStatus": 0
+    },
+    "language": {
+        "from": "auto",
+        "to": "zh-CHS",
+        "detect": "en",
+        "model": "general",
+        "detectShow": false,
+        "langMap": {
+            "current": ""
+        },
+        "zh2en": false,
+        "fromItemList": [
+            {
+                "lang": "auto",
+                "text": "自动检测",
+                "play": false
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "ru",
+                "text": "俄语",
+                "play": true,
+                "abbr": "俄"
+            },
+            {
+                "lang": "th",
+                "text": "泰语",
+                "play": true,
+                "abbr": "泰"
+            },
+            {
+                "lang": "vi",
+                "text": "越南语",
+                "play": true,
+                "abbr": "越"
+            }
+        ],
+        "toItemList": [
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "ru",
+                "text": "俄语",
+                "play": true,
+                "abbr": "俄"
+            },
+            {
+                "lang": "vi",
+                "text": "越南语",
+                "play": true,
+                "abbr": "越"
+            },
+            {
+                "lang": "de",
+                "text": "德语",
+                "play": true,
+                "abbr": "德"
+            }
+        ]
+    },
+    "voice": {
+        "from": {
+            "lang": "en",
+            "type": "from",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22business%22%2C%22spokenDialect%22%3A%22en%22%2C%22rate%22%3A%220.8%22%7D",
+            "list": [
+                {
+                    "type": "uk_0",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "ˈbɪznəs",
+                    "abbr": "英",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/234_business_uk.mp3"
+                },
+                {
+                    "type": "usa_1",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "ˈbɪznəs",
+                    "abbr": "美",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/234_business_usa.mp3"
+                }
+            ],
+            "stype": "phonetic",
+            "phoneticShow": [
+                {
+                    "text": "ˈbɪznəs",
+                    "type": "uk",
+                    "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/234_business_uk.mp3"
+                }
+            ]
+        },
+        "to": {
+            "lang": "zh",
+            "type": "to",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22%E5%95%86%E4%B8%9A%22%2C%22spokenDialect%22%3A%22zh-CHS%22%2C%22rate%22%3A%220.8%22%7D",
+            "stype": "normal"
+        }
+    }
+}

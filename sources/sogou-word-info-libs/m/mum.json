@@ -1,0 +1,934 @@
+{
+    "route": {
+        "name": "text",
+        "path": "/text",
+        "hash": "",
+        "query": {
+            "keyword": "mum",
+            "transfrom": "auto",
+            "transto": "zh-CHS",
+            "model": "general",
+            "errcode": "s10"
+        },
+        "params": {},
+        "fullPath": "/text?keyword=mum&transfrom=auto&transto=zh-CHS&model=general&errcode=s10",
+        "meta": {
+            "mtype": [
+                "textTranslate",
+                "language",
+                "voice"
+            ]
+        },
+        "from": {
+            "name": null,
+            "path": "/",
+            "hash": "",
+            "query": {},
+            "params": {},
+            "fullPath": "/",
+            "meta": {}
+        }
+    },
+    "common": {
+        "CONFIG": {
+            "wuid": 1733634027047,
+            "loginInfo": {},
+            "isIE": 0,
+            "isHitSsrSwitch": true,
+            "isHitWritebookSwitch": false,
+            "isHitAmsSwitch": true,
+            "promotionList": "{\n    \"pc_bottom\":{\n        \"imgsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\",\n        \"qcsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\"\n    },\n    \"pc_middle\":[\n        {\n            \"src\":\"//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c\",\n            \"bgColor\":\"#ffffff\",\n            \"link\":\"\"\n        }\n    ],\n    \"pc_survey\":{\n        \"icon\":\"//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750\",\n        \"link\":\"https://wj.qq.com/s2/8193148/806d/\"\n    }\n}",
+            "bannerData": [],
+            "isHitAsideSurvey": false,
+            "secretCode": 109984457,
+            "uuid": "64319a53-1848-4952-8464-ab9c60aeb3b5",
+            "referer": "",
+            "approveToken": "64F00844B6761BB1BABF92019AE0FECABAFB5B56675527EB",
+            "loadTime": 1733634027048,
+            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0",
+            "fcp": "31.223.184.69",
+            "temporaryId": "",
+            "fileId": ""
+        },
+        "hotWords": [],
+        "isFromCollect": false,
+        "psdModify": {
+            "currentStep": 1,
+            "scode": "",
+            "username": ""
+        },
+        "loginStatus": true,
+        "feedBackModule": false,
+        "showPromotionPopup": {
+            "show": false,
+            "type": ""
+        },
+        "showPromotionPCDownload": false,
+        "showShareBomb": false,
+        "shareData": null,
+        "showAppDownLoad": false,
+        "showLoginDialog": false,
+        "showLoading": {
+            "show": false
+        },
+        "toast": {
+            "show": false,
+            "text": "",
+            "loading": false
+        },
+        "modelToast": {
+            "show": false,
+            "text": ""
+        },
+        "selectionGlobalShow": true,
+        "selectionInfo": {
+            "left": 0,
+            "top": 0,
+            "show": false,
+            "from": "",
+            "to": "",
+            "val": "",
+            "area": ""
+        },
+        "showConfirmDialog": false,
+        "promotionList": {
+            "pc_bottom": {
+                "imgsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png",
+                "qcsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png"
+            },
+            "pc_middle": [
+                {
+                    "src": "//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c",
+                    "bgColor": "#ffffff",
+                    "link": ""
+                }
+            ],
+            "pc_survey": {
+                "icon": "//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750",
+                "link": "https://wj.qq.com/s2/8193148/806d/"
+            }
+        },
+        "transTypeTxt": "text",
+        "fixedTabStatus": 0,
+        "bodyTop": 0,
+        "ifHideUserOperation": false
+    },
+    "textTranslate": {
+        "prevTransQuery": "",
+        "translateData": {
+            "translate": {
+                "zly": "zly",
+                "errorCode": "0",
+                "qc_type": "1",
+                "index": "content0",
+                "from": "en",
+                "source": "sogou",
+                "text": "mum",
+                "to": "zh-CHS",
+                "id": "64319a53-1848-4952-8464-ab9c60aeb3b5",
+                "dit": "妈妈",
+                "orig_text": "mum",
+                "md5": ""
+            },
+            "detect": {
+                "zly": "zly",
+                "detect": "en",
+                "errorCode": "0",
+                "language": "英语",
+                "id": "5708afb0-b521-11ef-8e24-eb3c8f98460a",
+                "text": "mum"
+            },
+            "sgtkn": "64F00845B6761BB1BABF92019AE0FECABAFB5B56675527EB",
+            "wordCard": {
+                "title": "mum",
+                "show": true,
+                "usualDict": [
+                    {
+                        "values": [
+                            "母亲；妈妈；<口>菊花；秋菊；马姆酒（17-18世纪英国的一种烈性啤酒）；默默无言；沉默；缄默；保持沉默"
+                        ],
+                        "pos": "n."
+                    },
+                    {
+                        "values": [
+                            "沉默寡言的；缄默的；保持秘密的；不发一言的；守口如瓶的"
+                        ],
+                        "pos": "adj."
+                    },
+                    {
+                        "values": [
+                            "保持沉默；不发声；秘而不宣；扮演（在传统假面哑剧中）；表演（在英格兰民俗剧中）；化装演出哑剧"
+                        ],
+                        "pos": "v."
+                    }
+                ],
+                "secondQuery": "",
+                "exchange": {
+                    "word_pl": [
+                        "mums"
+                    ]
+                },
+                "levelList": [
+                    "小学",
+                    "初中",
+                    "六级"
+                ]
+            },
+            "detail": {
+                "synonym": [
+                    {
+                        "word_list": [
+                            "silent",
+                            "wordless"
+                        ],
+                        "pos": "adj.",
+                        "mean": "沉默的"
+                    },
+                    {
+                        "word_list": [
+                            "mom",
+                            "silence",
+                            "mama",
+                            "mummy"
+                        ],
+                        "pos": "n.",
+                        "mean": "妈妈；沉默；菊花"
+                    },
+                    {
+                        "word_list": [
+                            "mumm"
+                        ],
+                        "pos": "vi.",
+                        "mean": "演哑剧"
+                    }
+                ],
+                "wordRootInfo": {
+                    "word_info_list": [
+                        {
+                            "word": "mummy",
+                            "pos_mean_info_list": [
+                                {
+                                    "pos": "n.",
+                                    "mean": "妈妈；木乃伊；干瘪的人"
+                                }
+                            ]
+                        },
+                        {
+                            "word": "mummer",
+                            "pos_mean_info_list": [
+                                {
+                                    "pos": "n.",
+                                    "mean": "哑剧演员；伶人"
+                                },
+                                {
+                                    "pos": "vi.",
+                                    "mean": "参加化装演出"
+                                }
+                            ]
+                        },
+                        {
+                            "word": "mummery",
+                            "pos_mean_info_list": [
+                                {
+                                    "pos": "n.",
+                                    "mean": "虚礼，哑剧；哑剧演员的表演"
+                                }
+                            ]
+                        }
+                    ],
+                    "root_word": "mum"
+                },
+                "word_group": [
+                    {
+                        "brief_definition": "缄口不言, 保持沉默",
+                        "phrase": "keep mum",
+                        "pos": "idm"
+                    }
+                ],
+                "bilingual": [
+                    {
+                        "source": "These are your <em>mum</em> or dad's <em>mum</em> and dad.",
+                        "target": "这些是你妈妈或爸爸的父母。",
+                        "url": ""
+                    },
+                    {
+                        "source": "It didn't have a <em>mum</em>.",
+                        "target": "它没有妈妈。",
+                        "url": ""
+                    },
+                    {
+                        "source": "My <em>mum</em> is an actress.",
+                        "target": "我妈妈是演员。",
+                        "url": ""
+                    },
+                    {
+                        "source": "<em>Mum</em> is making a cake.",
+                        "target": "妈妈在做蛋糕。",
+                        "url": ""
+                    },
+                    {
+                        "source": "<em>Mum</em>. What do I say?",
+                        "target": "妈妈，我该说什么？",
+                        "url": ""
+                    },
+                    {
+                        "source": "<em>Mum</em> was at the museum.",
+                        "target": "妈妈在博物馆。",
+                        "url": ""
+                    },
+                    {
+                        "source": "<em>Mum</em> is a busy bee.",
+                        "target": "妈妈是一只忙碌的蜜蜂。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Next to him is my <em>mum</em>.",
+                        "target": "他旁边是我妈妈。",
+                        "url": ""
+                    },
+                    {
+                        "source": "<em>Mum</em>, what time is it?",
+                        "target": "妈妈，现在几点了？",
+                        "url": ""
+                    },
+                    {
+                        "source": "<em>Mum</em>'s in the living room.",
+                        "target": "妈妈在客厅里。",
+                        "url": ""
+                    }
+                ],
+                "baike": {
+                    "showMore": true,
+                    "list": [
+                        {
+                            "lemmaTitle": "mum",
+                            "link": "https://baike.sogou.com/v101259326.htm?ch=sogou.fanyi",
+                            "abstract": "MUM是支来自冰岛的电子迷幻乐队，继承了冰岛一贯的空灵风格，玄妙的电子配乐和歌者呓语似的咛唱，直接穿透心脏，进入灵魂的深处。",
+                            "wapPic": "//img04.sogoucdn.com/v2/thumb/retype_exclude_gif/ext/auto/q/80/crop/xy/ai/w/140/h/140/resize/w/140?appid=201005&sign=57faeecf3afe929e051fbf1fdbb9c7ca&url=https%3A%2F%2Fpic.baike.soso.com%2Fugc%2Fbaikepic2%2F24511%2F20220512162839-468637836_jpeg_548_568_49896.jpg%2F0",
+                            "pcPic": "//img04.sogoucdn.com/v2/thumb/retype_exclude_gif/ext/auto/q/80/crop/xy/ai/w/140/h/140/resize/w/140?appid=201005&sign=57faeecf3afe929e051fbf1fdbb9c7ca&url=https%3A%2F%2Fpic.baike.soso.com%2Fugc%2Fbaikepic2%2F24511%2F20220512162839-468637836_jpeg_548_568_49896.jpg%2F0"
+                        },
+                        {
+                            "lemmaTitle": "múm",
+                            "link": "https://baike.sogou.com/v209469.htm?ch=sogou.fanyi",
+                            "abstract": "Múm，来自冰岛，由四个中产阶级家庭的孩子组成，他们和其他同龄人一样有自己的烦恼，一样普通。他们有着平常的名字，就像其他人一样。他们温和平淡的努力驱除束缚着冰岛乐团的某种神话。相对奇特的地方也只是乐队成员中的两个女孩儿是一对双胞胎。唯一值得注意的是Múm做出的都是真诚美妙的音乐！",
+                            "wapPic": "//img04.sogoucdn.com/v2/thumb/retype_exclude_gif/ext/auto/q/80/crop/xy/ai/w/140/h/140/resize/w/140?appid=201005&sign=48aa84e9ddd8d98debd85fe4f26e71f1&url=https%3A%2F%2Fpic.baike.soso.com%2Fugc%2Fbaikepic2%2F6697%2F20220420192037-1645187341_jpeg_500_390_27457.jpg%2F800",
+                            "pcPic": "//img04.sogoucdn.com/v2/thumb/retype_exclude_gif/ext/auto/q/80/crop/xy/ai/w/140/h/140/resize/w/140?appid=201005&sign=48aa84e9ddd8d98debd85fe4f26e71f1&url=https%3A%2F%2Fpic.baike.soso.com%2Fugc%2Fbaikepic2%2F6697%2F20220420192037-1645187341_jpeg_500_390_27457.jpg%2F800"
+                        }
+                    ]
+                }
+            },
+            "book": {
+                "yingyinNormal": [
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/a58ed194f1b80b4b3a378a48a1ea9e4b_23523.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/ff80bf70bf355ea8d4ab9cf38811234f_32719.mp3",
+                        "isLavafox": true,
+                        "en": "But, <em>Mum</em>, I don't want to lose you again.",
+                        "zh": "但是妈妈，我不想再一次失去你。",
+                        "videoNameZh": "《小飞侠：幻梦启航》",
+                        "videoNameEn": "《Pan》",
+                        "url": "http://bisentence_movie.sogou.com/23b75c40b2e5d310fcdd0425e91b3b77_66be894f4271bfafa42e6e7e9cb466e50373d76e"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/f16459596df3710a106bb1d872f3557d_7212.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/77ab88e9b603d4e032f4de0d0dd9acae_20020.mp3",
+                        "isLavafox": true,
+                        "en": "<em>Mum</em> fancies him.",
+                        "zh": "妈妈最迷他了。",
+                        "videoNameZh": "《哈利波特与密室》",
+                        "videoNameEn": "《Harry Potter and the Chamber of Secrets》",
+                        "url": "http://bisentence_movie.sogou.com/ed028318330811a3cceedf9b3f529f40_107011ef22ebdadf8c08273ad09bbd43097163dc"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/a58ed194f1b80b4b3a378a48a1ea9e4b_23523.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/e4730615770736da5a4bfc13f57cf57a_61200.mp3",
+                        "isLavafox": true,
+                        "en": "<em>Mum</em> tries to protect the kingdom by giving son the key. I kill <em>Mum</em>, but fail to kill the son.",
+                        "zh": "她为了保护这个国家把钥匙给了她儿子，我杀了妈妈，但是没杀死孩子。",
+                        "videoNameZh": "《小飞侠：幻梦启航》",
+                        "videoNameEn": "《Pan》",
+                        "url": "http://bisentence_movie.sogou.com/dc60d8adfe9805ec11545b7817fc6220_0180972cdfd55913403900cde06e3ee0ec345c2a"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/a3f6ca8d0ebaa5b0956976d643673427_52102.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/35610fa2fe5faccd268317c771005d84_49520.mp3",
+                        "isLavafox": true,
+                        "en": "Madame Gazelle? Yes, Candy. My <em>Mum</em> can count to ten. Wow.",
+                        "zh": "羚羊夫人？怎么了，坎迪？我妈妈可以数到十呢。哇！",
+                        "videoNameZh": "《小猪佩奇 第三季》",
+                        "videoNameEn": "《Peppa Pig Season 3》",
+                        "url": "http://bisentence_movie.sogou.com/8dd75658cda6299063109380606046c7_0f10a267619271de23111d51808d344a21a367c5"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/f16459596df3710a106bb1d872f3557d_7212.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/2e6b8f1d0dc62ec8fe75bd4214f3cf7f_65336.mp3",
+                        "isLavafox": true,
+                        "en": "They were starving him, <em>Mum</em>. There were bars on his window.",
+                        "zh": "他们让哈利饿肚子，妈妈。还把他的窗户封起来。",
+                        "videoNameZh": "《哈利波特与密室》",
+                        "videoNameEn": "《Harry Potter and the Chamber of Secrets》",
+                        "url": "http://bisentence_movie.sogou.com/9d2027d71e144f69367acf87b899c0e3_2cdaaf84161993ce1ca77582021faba0f05fe1d2"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/9c83d7152fb0df988f6a1de8ac273775_53611.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/9f92a86e86920fe117e7ef6644895a2a_17514.mp3",
+                        "isLavafox": true,
+                        "en": "Harry, didn't you wonder where your <em>mum</em> and dad learned it all?",
+                        "zh": "不知道？你就没想过你爸爸妈妈是在哪学的？",
+                        "videoNameZh": "《哈利·波特与魔法石》",
+                        "videoNameEn": "《Harry Potter and the Sorcerers Stone》",
+                        "url": "http://bisentence_movie.sogou.com/774c386471e40b902cc5e58365a2690a_eb67e618a3e2a08f941a523cf3a623826d2a06fc"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/a9a5203295dada5468548a45bdbbe245_26977.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/65640153135c08623294f86078342caa_18490.mp3",
+                        "isLavafox": true,
+                        "en": "When I cook it I'm reminded of the stories my <em>mum</em> told as she cooked them.",
+                        "zh": "我做这道菜时就会想起妈妈做时讲起的故事。",
+                        "videoNameZh": "《中餐速成》",
+                        "videoNameEn": "《Chinese Food Made Easy》",
+                        "url": "http://bisentence_movie.sogou.com/b1e82f31ec3a0cf73f72ba617c008168_5b102e953951e7dadb17797279d29c71e73b72f7"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/a58ed194f1b80b4b3a378a48a1ea9e4b_23523.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/7b764002557d1d0de40223f8f8018315_48234.mp3",
+                        "isLavafox": true,
+                        "en": "Peter. <em>Mum</em>? You found me. I have your eyes. You have my heart.",
+                        "zh": "彼得。妈妈？你找到我了。我的眼睛和你的很像。你的心和我也很像。",
+                        "videoNameZh": "《小飞侠：幻梦启航》",
+                        "videoNameEn": "《Pan》",
+                        "url": "http://bisentence_movie.sogou.com/02eceda08ceae204719a5c0bb9408404_6b60580d1f77fdf677860520d3ba57cf22df3e7f"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/1167ff4bf34a28278ef14f548d950d99_29137.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/3f470071393253d051e381ed3d9b8f5e_9766.mp3",
+                        "isLavafox": true,
+                        "en": "Because my <em>mum</em> went mental. Banging on about losing me as well as dad.",
+                        "zh": "因为我妈妈她疯了，她总是说我会像我爸爸那样丢下她。",
+                        "videoNameZh": "《王牌特工：特工学院》",
+                        "videoNameEn": "《Kingsman: The Secret Service》",
+                        "url": "http://bisentence_movie.sogou.com/901b3e02d8a37a52d3569190bbc0dfd0_d9f88d74b156f6a5879d1c2f546130c6fd955205"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/76bbb5077d72c8151a344d25acde0385_12870.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/c56887a7693396a26228ad244e6e12f9_1757.mp3",
+                        "isLavafox": true,
+                        "en": "Don't laugh at your <em>mum</em>. I'm telling you, I can't even go to humid countries cos of my hair.",
+                        "zh": "不要嘲笑你妈妈。我是说我不能去太潮湿的国家，会毁了发型的。",
+                        "videoNameZh": "《大卫·贝克汉姆：探索未知之境》",
+                        "videoNameEn": "《David Beckham: Into the Unknown》",
+                        "url": "http://bisentence_movie.sogou.com/f46ecaff0d0ab6c63869af99bead36c8_455fd8729cea8d0b4a6e2ef2b5f648e36b9ae31e"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/a9a5203295dada5468548a45bdbbe245_26977.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/a82f1be36abd6dfdfe846ab699e3bc67_60619.mp3",
+                        "isLavafox": true,
+                        "en": "And then an even bigger shock. My <em>mum</em>'s arranged two more surprise guests all the way from Shanghai.",
+                        "zh": "更大的惊喜袭来，我妈妈还安排了两位神秘嘉宾大老远从上海飞来。",
+                        "videoNameZh": "《中餐速成》",
+                        "videoNameEn": "《Chinese Food Made Easy》",
+                        "url": "http://bisentence_movie.sogou.com/fd165de6ffaec680f2bf4405d461f603_dca415badab84b206171c7a5568511c5d1a81546"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/a58ed194f1b80b4b3a378a48a1ea9e4b_23523.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/a4c5a631017239ea8a9ebedeb0afcbcb_57588.mp3",
+                        "isLavafox": true,
+                        "en": "In turn, son fails to protect the kingdom by giving me the key. <em>Mum</em> would be very disappointed. Wouldn't she?",
+                        "zh": "所以，儿子为了保护这个国家就需要把钥匙给我，妈妈可是会很失望的，不是吗？",
+                        "videoNameZh": "《小飞侠：幻梦启航》",
+                        "videoNameEn": "《Pan》",
+                        "url": "http://bisentence_movie.sogou.com/3dd078871197b379d865cc0639193a67_56b5b91c52a5ee9dc0d866ba23c8e6b7ec128dcf"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/a58ed194f1b80b4b3a378a48a1ea9e4b_23523.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/dd756e2ee775a7143ae6247a59d082e5_15694.mp3",
+                        "isLavafox": true,
+                        "en": "I love you, <em>Mum</em>. So much. I don't know how you can miss someone you've never met, but I've missed you every day.",
+                        "zh": "我很爱你，妈妈。我不知道怎么可以关心一个从没见过的人，但是我每天都很想你。",
+                        "videoNameZh": "《小飞侠：幻梦启航》",
+                        "videoNameEn": "《Pan》",
+                        "url": "http://bisentence_movie.sogou.com/b431e5ad007bd4d5820890dbd6a99309_925455ffbd91ef60fa254fdb0f83ac74d8080eba"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/8ebc69621c845dba3ee412feb5096db1_6534.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/9e4fcce486e93f2866a191e97f50a538_60357.mp3",
+                        "isLavafox": true,
+                        "en": "This is great. So, Thanksgiving in New York. It's gonna be great. The Big Apple. I hope your <em>mum</em> likes me. Toby…",
+                        "zh": "真好吃。在纽约过感恩节肯定很棒，那可是“大苹果”。希望你妈妈会喜欢我。托比…",
+                        "videoNameZh": "《我们这一天 第一季》",
+                        "videoNameEn": "《This Is Us Season 1》",
+                        "url": "http://bisentence_movie.sogou.com/62a08ec052532b8f82f97ca2292788b7_d5b742c60796528ab2a97946102f78091f8a2f6c"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/a58ed194f1b80b4b3a378a48a1ea9e4b_23523.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/48f2773dc5ed4a506ef651b342063943_8686.mp3",
+                        "isLavafox": true,
+                        "en": "Well, Blackbeard thinks the prophecy is about me, which means my <em>mum</em> is from here, which means the natives might know where she is.",
+                        "zh": "黑胡子觉得预言说的是我，那就意味着我妈妈也从这里来，野人会知道她在哪里。",
+                        "videoNameZh": "《小飞侠：幻梦启航》",
+                        "videoNameEn": "《Pan》",
+                        "url": "http://bisentence_movie.sogou.com/2fd8583e51fd60cf53153de89f7a4149_8c331479e4909f79d6e1ea79b856239ab89b01b4"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/a9a5203295dada5468548a45bdbbe245_26977.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/dcb042aeab8f05a98d35aae516ffae81_41525.mp3",
+                        "isLavafox": true,
+                        "en": "Earlier than expected, the first surprise guests arrive and what a huge surprise it is, for me! It's my <em>Mum</em> and Dad! Oh my God!",
+                        "zh": "第一批神秘嘉宾比预期到达得更早，对我来说，是个巨大的惊喜！他们是我妈妈和爸爸！天哪！",
+                        "videoNameZh": "《中餐速成》",
+                        "videoNameEn": "《Chinese Food Made Easy》",
+                        "url": "http://bisentence_movie.sogou.com/d142f757d8b449e68709ba4a93552389_7ddd49a434b98a4707d27167068b120cf52b3c2f"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/83bcab8039fa5140ba0e29ca21fce0eb_17113.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/480a128ff001cb748aaa0f0688d76a56_45449.mp3",
+                        "isLavafox": true,
+                        "en": "When I was little, my <em>mum</em> got me a pair of glittery wellies, and I refused to take them off.",
+                        "zh": "小时候我妈给我买过一双亮闪闪的雨鞋，我都不愿意把它们脱下来。",
+                        "videoNameZh": "《遇见你之前》",
+                        "videoNameEn": "《Me before you》",
+                        "url": "http://bisentence_movie.sogou.com/fb8ca85fbe830a27be063c825665ef19_59f6f411d76686d6a08e83e49128a8ac30cb431b"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/1167ff4bf34a28278ef14f548d950d99_29137.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/a0314c7051b2c7d14038d72db174ffd2_3608.mp3",
+                        "isLavafox": true,
+                        "en": "After you nicked his car, Dean says you're a free guy, and I don't give a shit what your <em>mum</em> says.",
+                        "zh": "你偷了他的车那一刻起，迪恩说他不会罩你了，我才不管你妈怎样给你求情。",
+                        "videoNameZh": "《王牌特工：特工学院》",
+                        "videoNameEn": "《Kingsman: The Secret Service》",
+                        "url": "http://bisentence_movie.sogou.com/c8995bfc822ed80c3a7f13ec327dca36_ebaf9feae471a930e3bce94a3aeebe721351f13e"
+                    }
+                ]
+            },
+            "pic": "",
+            "voice": {
+                "phonetic": [
+                    {
+                        "text": "mʌm",
+                        "type": "uk",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/8780_mum_uk.mp3"
+                    },
+                    {
+                        "text": "mʌm",
+                        "type": "usa",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/8780_mum_usa.mp3"
+                    }
+                ]
+            },
+            "dictType": "oxford_buchong",
+            "CET6": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 1,
+                        "pos": "n",
+                        "chinese": "妈妈",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "mum",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2016.6-2023.6年8年间全六级试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight>考纲释义</highlight>\n精选实考、考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2016-2023年51套试卷，包括阅读、听力、翻译等所有题型。\n\n<highlight>真题例句</highlight>\n精选2016-2023年8年间全六级试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 1,
+                "total_exam_freq": 1,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "妈妈",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "It is possible that their sleep patterns could also be causing the sleep disruptions for <highlight>mums</highlight>.",
+                                    "month": 6,
+                                    "source": "CET6",
+                                    "coll": "",
+                                    "sentence_trans": "他们的睡眠模式也可能导致母亲的睡眠中断。",
+                                    "year": 2016,
+                                    "type": "听力",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "exchange_info": {
+                    "word_pl": [
+                        "mums"
+                    ]
+                }
+            },
+            "gaokao": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 2,
+                        "pos": "n",
+                        "chinese": "妈妈",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "mum",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2015-2022年8年间全国卷和自主命题省市高考卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2015-2022年全国卷高考试卷，包括阅读、完形、单选、填空、听力、改错、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选各省市考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2015-2022年8年间全国卷和自主命题省市高考卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 1,
+                "total_exam_freq": 2,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "妈妈",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "Her mother, Solio, is a first-time <highlight>mum</highlight> and she is doing a fantastic job.",
+                                    "month": -1,
+                                    "source": "全国甲卷",
+                                    "coll": "",
+                                    "sentence_trans": "她的母亲Solio是第一次当妈妈，她做得非常好。",
+                                    "year": 2021,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "exchange_info": {
+                    "word_pl": [
+                        "mums"
+                    ]
+                }
+            },
+            "zhongkao": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 124,
+                        "pos": "n",
+                        "chinese": "妈妈",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "mum",
+                "direction_info": {
+                    "ranges": 4,
+                    "description": "数据源自2018-2021年4年间全国各省市中考试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2018-2021年全国重点省市中考试卷，包括听力、阅读、完形、单选、填空、改错、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选各省市考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2018-2021年4年间全国各省市中考试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 5,
+                "total_exam_freq": 124,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "妈妈",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "The next afternoon <highlight>Mum</highlight> took me back to the school playground.",
+                                    "month": -1,
+                                    "source": "维吾尔自治区卷",
+                                    "coll": "",
+                                    "sentence_trans": "第二天下午，妈妈带我回到学校操场。",
+                                    "year": 2021,
+                                    "type": "判断正误",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "My <highlight>mum</highlight> looked at me when it was our turn to say our final goodbye to Grandpa.",
+                                    "month": -1,
+                                    "source": "广元市卷",
+                                    "coll": "",
+                                    "sentence_trans": "当妈妈看着我时，轮到我们向爷爷最后告别了。",
+                                    "year": 2021,
+                                    "type": "完形填空",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Why did the potatoes cooked by the writer's <highlight>mum</highlight> taste like bacon?",
+                                    "month": -1,
+                                    "source": "深圳市卷",
+                                    "coll": "",
+                                    "sentence_trans": "为什么作家妈妈煮的土豆尝起来像培根?",
+                                    "year": 2021,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            "sentencesData": {
+                "status": 1,
+                "info": "notZh2En",
+                "data": {}
+            },
+            "isAutoMatch": false,
+            "Zh2En": false
+        },
+        "query": "mum",
+        "result": "妈妈",
+        "tabSelect": "detail",
+        "dictionaryType": "oxford_buchong",
+        "notFound_show": false,
+        "phoneticShow": "",
+        "globalShowTranslateRecord": "",
+        "pronPrefer": {
+            "type": "usa_1",
+            "speaker": "male",
+            "speed": "standard"
+        },
+        "ServerRecord": "",
+        "ServerUIGS": {
+            "version": "new",
+            "type": "all",
+            "stype": "success",
+            "terminal": "web",
+            "fr": "default",
+            "direction": "etoz",
+            "from": "en",
+            "to": "zh-CHS",
+            "len": 3,
+            "qtype": "text",
+            "qctype": "qc_1",
+            "dict_cover": 1,
+            "detail": 1,
+            "wordCardCover": 1,
+            "wordCardEn": 1,
+            "wordCardCh": 0,
+            "wordCardMinor": 0,
+            "wordCardNetmean": 0,
+            "wordDeform": 1,
+            "keyword": 0,
+            "bilingual": 1,
+            "simple": 0,
+            "levelList": 1,
+            "synonym": 1,
+            "antonym": 0,
+            "conjugate": 1,
+            "rootaffix": 0,
+            "baike_sogou": 1,
+            "baike_wiki": 0,
+            "wordDifference": 0,
+            "word_phrase": 1,
+            "secondQuery": 0,
+            "dict_oxford": 0,
+            "dict_newcentury": 0,
+            "zhongkaotab": 1,
+            "gaokaotab": 1,
+            "CET4tab": 0,
+            "CET6tab": 1,
+            "kaoyantab": 0,
+            "network_tab": 0,
+            "yinying_tab": 1,
+            "tuozhan_tab": 0,
+            "one_pic": 0,
+            "more_pic": 0,
+            "no_pic": 0,
+            "uuid": "64319a53-1848-4952-8464-ab9c60aeb3b5",
+            "from_type": 0,
+            "t_trans_ssr": 147
+        },
+        "ServerModelUIGS": {
+            "terminal": "web",
+            "type": "trans_model",
+            "pbtype": "pv",
+            "model_general": 1,
+            "model_medical": 1,
+            "model_finance": 1
+        },
+        "ServerSgtkn": "64F00845B6761BB1BABF92019AE0FECABAFB5B56675527EB",
+        "suggShow": false,
+        "suggestion": "",
+        "suggDirection": "",
+        "usualTop": "",
+        "baseDict": "",
+        "wordCardClick": false,
+        "isFrInput": false,
+        "kanaTips": {
+            "show": false,
+            "left": "",
+            "top": "",
+            "type": "",
+            "arrowLeft": ""
+        },
+        "currSentenceIndex": -1,
+        "prefixStrObj": {
+            "prefixStr": "",
+            "oriPrefixStr": ""
+        },
+        "selectTransBox": {
+            "show": false,
+            "right": 0,
+            "top": 0,
+            "paraphraseInfo": {
+                "word": "",
+                "from": "",
+                "to": "",
+                "area": ""
+            }
+        },
+        "sentenceLoading": false,
+        "newSentenceInfo": {
+            "sentence": "",
+            "candidateIndex": 0
+        },
+        "moreTipInfo": {
+            "opacity": 0,
+            "zIndex": -1
+        },
+        "paraphraseShowInfo": {
+            "card": 0,
+            "query": "",
+            "card_dict": 0
+        },
+        "selectType": "",
+        "wordPos": 0,
+        "candidateWord": "",
+        "syntaxVisible": false,
+        "syntaxStatus": 0
+    },
+    "language": {
+        "from": "auto",
+        "to": "zh-CHS",
+        "detect": "en",
+        "model": "general",
+        "detectShow": false,
+        "langMap": {
+            "current": ""
+        },
+        "zh2en": false,
+        "fromItemList": [
+            {
+                "lang": "auto",
+                "text": "自动检测",
+                "play": false
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "fr",
+                "text": "法语",
+                "play": true,
+                "abbr": "法"
+            },
+            {
+                "lang": "th",
+                "text": "泰语",
+                "play": true,
+                "abbr": "泰"
+            },
+            {
+                "lang": "es",
+                "text": "西班牙语",
+                "play": true,
+                "abbr": "西"
+            }
+        ],
+        "toItemList": [
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "vi",
+                "text": "越南语",
+                "play": true,
+                "abbr": "越"
+            },
+            {
+                "lang": "ru",
+                "text": "俄语",
+                "play": true,
+                "abbr": "俄"
+            },
+            {
+                "lang": "fr",
+                "text": "法语",
+                "play": true,
+                "abbr": "法"
+            }
+        ]
+    },
+    "voice": {
+        "from": {
+            "lang": "en",
+            "type": "from",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22mum%22%2C%22spokenDialect%22%3A%22en%22%2C%22rate%22%3A%220.8%22%7D",
+            "list": [
+                {
+                    "type": "uk_0",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "mʌm",
+                    "abbr": "英",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/8780_mum_uk.mp3"
+                },
+                {
+                    "type": "usa_1",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "mʌm",
+                    "abbr": "美",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/8780_mum_usa.mp3"
+                }
+            ],
+            "stype": "phonetic",
+            "phoneticShow": [
+                {
+                    "text": "mʌm",
+                    "type": "uk",
+                    "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/8780_mum_uk.mp3"
+                }
+            ]
+        },
+        "to": {
+            "lang": "zh",
+            "type": "to",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22%E5%A6%88%E5%A6%88%22%2C%22spokenDialect%22%3A%22zh-CHS%22%2C%22rate%22%3A%220.8%22%7D",
+            "stype": "normal"
+        }
+    }
+}

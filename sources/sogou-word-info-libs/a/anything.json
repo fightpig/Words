@@ -1,0 +1,1369 @@
+{
+    "route": {
+        "name": "text",
+        "path": "/text",
+        "hash": "",
+        "query": {
+            "keyword": "anything",
+            "transfrom": "auto",
+            "transto": "zh-CHS",
+            "model": "general",
+            "errcode": "s10"
+        },
+        "params": {},
+        "fullPath": "/text?keyword=anything&transfrom=auto&transto=zh-CHS&model=general&errcode=s10",
+        "meta": {
+            "mtype": [
+                "textTranslate",
+                "language",
+                "voice"
+            ]
+        },
+        "from": {
+            "name": null,
+            "path": "/",
+            "hash": "",
+            "query": {},
+            "params": {},
+            "fullPath": "/",
+            "meta": {}
+        }
+    },
+    "common": {
+        "CONFIG": {
+            "wuid": 1733632308562,
+            "loginInfo": {},
+            "isIE": 0,
+            "isHitSsrSwitch": true,
+            "isHitWritebookSwitch": false,
+            "isHitAmsSwitch": true,
+            "promotionList": "{\n    \"pc_bottom\":{\n        \"imgsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\",\n        \"qcsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\"\n    },\n    \"pc_middle\":[\n        {\n            \"src\":\"//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c\",\n            \"bgColor\":\"#ffffff\",\n            \"link\":\"\"\n        }\n    ],\n    \"pc_survey\":{\n        \"icon\":\"//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750\",\n        \"link\":\"https://wj.qq.com/s2/8193148/806d/\"\n    }\n}",
+            "bannerData": [],
+            "isHitAsideSurvey": false,
+            "secretCode": 109984457,
+            "uuid": "ff5a27b1-2c05-4f85-8695-89c836785d21",
+            "referer": "",
+            "approveToken": "64E9D74767A5CA63696E41D3D085203869C64B5E67552134",
+            "loadTime": 1733632308564,
+            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0",
+            "fcp": "138.197.122.177",
+            "temporaryId": "",
+            "fileId": ""
+        },
+        "hotWords": [],
+        "isFromCollect": false,
+        "psdModify": {
+            "currentStep": 1,
+            "scode": "",
+            "username": ""
+        },
+        "loginStatus": true,
+        "feedBackModule": false,
+        "showPromotionPopup": {
+            "show": false,
+            "type": ""
+        },
+        "showPromotionPCDownload": false,
+        "showShareBomb": false,
+        "shareData": null,
+        "showAppDownLoad": false,
+        "showLoginDialog": false,
+        "showLoading": {
+            "show": false
+        },
+        "toast": {
+            "show": false,
+            "text": "",
+            "loading": false
+        },
+        "modelToast": {
+            "show": false,
+            "text": ""
+        },
+        "selectionGlobalShow": true,
+        "selectionInfo": {
+            "left": 0,
+            "top": 0,
+            "show": false,
+            "from": "",
+            "to": "",
+            "val": "",
+            "area": ""
+        },
+        "showConfirmDialog": false,
+        "promotionList": {
+            "pc_bottom": {
+                "imgsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png",
+                "qcsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png"
+            },
+            "pc_middle": [
+                {
+                    "src": "//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c",
+                    "bgColor": "#ffffff",
+                    "link": ""
+                }
+            ],
+            "pc_survey": {
+                "icon": "//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750",
+                "link": "https://wj.qq.com/s2/8193148/806d/"
+            }
+        },
+        "transTypeTxt": "text",
+        "fixedTabStatus": 0,
+        "bodyTop": 0,
+        "ifHideUserOperation": false
+    },
+    "textTranslate": {
+        "prevTransQuery": "",
+        "translateData": {
+            "translate": {
+                "zly": "zly",
+                "errorCode": "0",
+                "qc_type": "1",
+                "index": "content0",
+                "from": "en",
+                "source": "sogou",
+                "text": "anything",
+                "to": "zh-CHS",
+                "id": "ff5a27b1-2c05-4f85-8695-89c836785d21",
+                "dit": "任何事",
+                "orig_text": "anything",
+                "md5": ""
+            },
+            "detect": {
+                "zly": "zly",
+                "detect": "en",
+                "errorCode": "0",
+                "language": "英语",
+                "id": "56bcfd80-b51d-11ef-858e-7b2d0466e84e",
+                "text": "anything"
+            },
+            "sgtkn": "64E9D74A67A5CA63696E41D3D085203869C64B5E67552134",
+            "wordCard": {
+                "title": "anything",
+                "show": true,
+                "usualDict": [
+                    {
+                        "values": [
+                            "（用于含有否定意义的陈述句中）任何事物；任何东西；任何一件事；任何一样东西；（用于加强语气）无论什么；随便什么事情；（用于疑问句和条件句中）某事物；（接后置修饰语）任何…的事物；…的东西；…的事情；（限定范围内的）任何一点"
+                        ],
+                        "pos": "pron."
+                    }
+                ],
+                "secondQuery": "",
+                "exchange": {},
+                "levelList": [
+                    "小学",
+                    "初中",
+                    "高中",
+                    "四级",
+                    "六级",
+                    "考研"
+                ]
+            },
+            "detail": {
+                "affix": {
+                    "word": "anything",
+                    "sub_affix_info_list": [
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "任何",
+                                    "affix_type": "stem"
+                                }
+                            ],
+                            "affix": "any",
+                            "affix_mean": "任何"
+                        },
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "事情",
+                                    "affix_type": "stem"
+                                }
+                            ],
+                            "affix": "thing",
+                            "affix_mean": "事情"
+                        }
+                    ],
+                    "word_mean": "pron. 任何事物 (用于含有否定意义的陈述句中)"
+                },
+                "wordRootInfo": {
+                    "word_info_list": [
+                        {
+                            "word": "any",
+                            "pos_mean_info_list": [
+                                {
+                                    "pos": "adj.",
+                                    "mean": "任何的；所有的；丝毫"
+                                },
+                                {
+                                    "pos": "adv.",
+                                    "mean": "稍微；少许"
+                                },
+                                {
+                                    "pos": "pron.",
+                                    "mean": "任何；任何一个；若干"
+                                }
+                            ]
+                        },
+                        {
+                            "word": "anywhere",
+                            "pos_mean_info_list": [
+                                {
+                                    "pos": "adv.",
+                                    "mean": "在任何地方；无论何处"
+                                },
+                                {
+                                    "pos": "n.",
+                                    "mean": "任何地方"
+                                }
+                            ]
+                        },
+                        {
+                            "word": "anyplace",
+                            "pos_mean_info_list": [
+                                {
+                                    "pos": "adv.",
+                                    "mean": "任何地方"
+                                }
+                            ]
+                        }
+                    ],
+                    "root_word": "any"
+                },
+                "word_group": [
+                    {
+                        "brief_definition": "万事皆可能；凡事皆为可能",
+                        "phrase": "anything is possible",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "一点也不, 远非",
+                        "phrase": "anything but",
+                        "pos": "phr"
+                    },
+                    {
+                        "brief_definition": "别的东西；别的什么；别的事情",
+                        "phrase": "anything else",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "(表达看法, 或用在否定句之后表示反面意见才对)",
+                        "phrase": "if anything",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "任何类似",
+                        "phrase": "anything like",
+                        "pos": "phr"
+                    },
+                    {
+                        "brief_definition": "什么都行, 怎样都可以",
+                        "phrase": "anything goes",
+                        "pos": "idm"
+                    },
+                    {
+                        "brief_definition": "之类的",
+                        "phrase": "or anything",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "十分；非常；在很大程度上",
+                        "phrase": "like anything",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "我（或他等）随便什么都想试一试",
+                        "phrase": "will try anything once",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "尽力不被打扰",
+                        "phrase": "do anything for a quiet life",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "极端…的",
+                        "phrase": "- as anything",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "〈非正式〉极端…的",
+                        "phrase": "as - as anything",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "胜过任何东西；最重要的是",
+                        "phrase": "more than anything",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "什么也没有；没任何事物；没有东西",
+                        "phrase": "not anything",
+                        "pos": ""
+                    }
+                ],
+                "bilingual": [
+                    {
+                        "source": "You can't do <em>anything</em> with old tickets!",
+                        "target": "你不能用旧票做任何事情！",
+                        "url": ""
+                    },
+                    {
+                        "source": "It made me feel like I could achieve <em>anything</em>.",
+                        "target": "这让我觉得我可以实现任何事情。",
+                        "url": ""
+                    },
+                    {
+                        "source": "The soundtrack is recorded before <em>anything</em> else is done.",
+                        "target": "配乐在其他任何事情之前录制。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Rush, rush, rush to get <em>anything</em> done before the sun goes down!",
+                        "target": "匆忙，匆忙，匆忙在太阳下山前完成任何事情！",
+                        "url": ""
+                    },
+                    {
+                        "source": "You can ask me <em>anything</em>.",
+                        "target": "你可以问我任何事情。",
+                        "url": ""
+                    },
+                    {
+                        "source": "I am not afraid of <em>anything</em>.",
+                        "target": "我不怕任何事情。",
+                        "url": ""
+                    },
+                    {
+                        "source": "We rarely agree on <em>anything</em>.",
+                        "target": "我们很少在任何事情上意见一致。",
+                        "url": ""
+                    },
+                    {
+                        "source": "I can't find <em>anything</em> to eat.",
+                        "target": "我找不到任何事来吃。",
+                        "url": ""
+                    },
+                    {
+                        "source": "I don't want to do <em>anything</em> today.",
+                        "target": "我今天不想做任何事。",
+                        "url": ""
+                    },
+                    {
+                        "source": "He never complains about <em>anything</em>.",
+                        "target": "他从来不抱怨任何事情。",
+                        "url": ""
+                    }
+                ],
+                "baike": {
+                    "showMore": true,
+                    "list": [
+                        {
+                            "lemmaTitle": "anything",
+                            "link": "https://baike.sogou.com/v39150116.htm?ch=sogou.fanyi",
+                            "abstract": "anything，英文单词，作代词、名词、副词，翻译为任何东西、重要的事情、在任何程度上等。",
+                            "wapPic": "",
+                            "pcPic": ""
+                        },
+                        {
+                            "lemmaTitle": "aNYthing",
+                            "link": "https://baike.sogou.com/v131971938.htm?ch=sogou.fanyi",
+                            "abstract": "《Anything.feat User and Pharrell》是Jay-Z与User和Pharrell共同演唱的一首歌曲，收录于专辑《Kingdom Come》中。 我们常说的Anything是Jay-Z独唱的一首歌曲，很多资料声称这是一首收自《Kingdom Come( Jay-Z 专辑)》的一首歌，其实这两首都叫Anything但是并不是同一首歌。这首尽管是Jay-Z独唱的歌，但是却被收进了饶舌歌手Beanie Sigel的专辑《The Truth (Beanie Sigel 专辑)》。",
+                            "wapPic": "",
+                            "pcPic": ""
+                        }
+                    ]
+                }
+            },
+            "book": {
+                "yingyinNormal": [
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/1209b6b6bc67a9c6481daae06e559a92_30463.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/1354aefd15eeef5fddc4692855f0565f_2999.mp3",
+                        "isLavafox": true,
+                        "en": "God can forgive us for <em>anything</em>. Really? <em>Anything</em>?",
+                        "zh": "上帝会宽恕我们一切。真滴？任何事？",
+                        "videoNameZh": "《绝望主妇 第八季》",
+                        "videoNameEn": "《Desperate Housewives Season 8》",
+                        "url": "http://bisentence_movie.sogou.com/35acabda0137a92021685f94bfe3d85e_4a6ef0ff00854bab7c37f5c2e985de96d2d96773"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/d67496d18ec93ce1f31c004316546728_12072.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/665e2d6e21aa59a5ae0d86e3e153010b_46100.mp3",
+                        "isLavafox": true,
+                        "en": "So Jack, <em>anything</em> you recognize, buddy, Jack, <em>anything</em>?",
+                        "zh": "杰克，还能记起点什么，任何事？",
+                        "videoNameZh": "《房间》",
+                        "videoNameEn": "《Room》",
+                        "url": "http://bisentence_movie.sogou.com/23c92148ee64f727935d46189c35896c_25931ff17657d66d1d4b97416734a9ba3b99dc90"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/81f2adfbe55184698d34da8bed6fc7ae_37120.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/f1c6a1751eaebab1974427cfd41361a3_40176.mp3",
+                        "isLavafox": true,
+                        "en": "You can do <em>anything</em>, go anywhere.",
+                        "zh": "你可以做任何事，去任何地方。",
+                        "videoNameZh": "《头号玩家》",
+                        "videoNameEn": "《Ready Player One》",
+                        "url": "http://bisentence_movie.sogou.com/186124c4ef29f20bcc91999a3e41606b_e3c00144663dec0992abc6046bdddda72fb829c1"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/3cc7f04bc4e6bde5cc691b286df1a676_37630.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/ba8eaa7e028651271e0e64b3813cfde9_15806.mp3",
+                        "isLavafox": true,
+                        "en": "Anyone want me to appraise <em>anything</em>?",
+                        "zh": "有人要我评价任何事物吗？",
+                        "videoNameZh": "《老友记第一季》",
+                        "videoNameEn": "《Friends Season 1》",
+                        "url": "http://bisentence_movie.sogou.com/46e725e69cfdff9f8094c8f78064a142_1e09af388618418ec1849c622036114b3e42eb97"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/791389553cedc2dca8e4f0bcddd956ec_6163.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/08466c104809152be5dca185a3f921bb_61234.mp3",
+                        "isLavafox": true,
+                        "en": "Sacks will do <em>anything</em> for his master.",
+                        "zh": "萨克斯为了他的师父，会做任何事情。",
+                        "videoNameZh": "《忍者神龟：变种时代》",
+                        "videoNameEn": "《Teenage Mutant Ninja Turtles》",
+                        "url": "http://bisentence_movie.sogou.com/67972fbed0203c9a49ef6db8e51cb1e7_473ce4c7e1c483449e0b6914cb30e6c84c90a1fd"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/345831827db23c6dca86447206da99f3_25724.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/819f6824dff08a2132240e94b6e3b3c3_6482.mp3",
+                        "isLavafox": true,
+                        "en": "I'll go. I'll do <em>anything</em> with anybody.",
+                        "zh": "我去。我愿意和任何人一起做任何事。",
+                        "videoNameZh": "《女孩成长记 第二季》",
+                        "videoNameEn": "《Girl Meets World Season 2》",
+                        "url": "http://bisentence_movie.sogou.com/fe049d32a8bc421db83af3828b4bbdc3_d36e451c7eb666eda65f2b9eaec9f9a34a45201f"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/69e52acd9e09b6a2ed378507a165e971_14638.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/666508b58f817ca92173e1296e9ebfd1_35244.mp3",
+                        "isLavafox": true,
+                        "en": "You can tell us <em>anything</em>. We don't judge.",
+                        "zh": "你可以告诉我们任何事，我们不会指责你的。",
+                        "videoNameZh": "《绯闻女孩 第一季》",
+                        "videoNameEn": "《Gossip Girl Season 1》",
+                        "url": "http://bisentence_movie.sogou.com/8033a7af2eef9ed6312fc1ea0442add8_b213e398628fa5806d3b640a33efc8474142d0c6"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/69e52acd9e09b6a2ed378507a165e971_14638.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/7e0d7a86b775e40a251a8fac7308404b_28758.mp3",
+                        "isLavafox": true,
+                        "en": "I'm your sister. We're us. You can tell me <em>anything</em>.",
+                        "zh": "我是你姐姐，我们是一家人，你可以告诉我任何事。",
+                        "videoNameZh": "《绯闻女孩 第一季》",
+                        "videoNameEn": "《Gossip Girl Season 1》",
+                        "url": "http://bisentence_movie.sogou.com/be4996cc6bafb1bebeedba94f34c49fd_9714b4e3543850758934c624f97de7e30e91ea42"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/a48089dad073bd0c84b6ebd39315eb20_4749.jpeg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/d36a93473f1fde12c633b57548c3a386_48714.mp3",
+                        "isLavafox": true,
+                        "en": "I believe in you, Elsa. More than anyone or <em>anything</em>.",
+                        "zh": "我信任你，艾莎，胜于任何人任何事。",
+                        "videoNameZh": "《冰雪奇缘2》",
+                        "videoNameEn": "《Frozen 2》",
+                        "url": "http://bisentence_movie.sogou.com/bd3b56f9b9d8f2f17989e72f6c9f54c9_d21d486c04669d97e75c43e7f2a137f02b483fb5"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/82b4636112184859779afa48d26f2aac_11190.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/e9b25860ea8883dcb186ac8131e32c7f_37708.mp3",
+                        "isLavafox": true,
+                        "en": "Blu, let me tell you something. If <em>anything</em>, and I mean <em>anything</em>, ever happens to you. I'll take care of your family.",
+                        "zh": "嘿，布鲁，我告诉你。如果你出了任何事，我是指任何事，我会帮忙照顾好你的家人。",
+                        "videoNameZh": "《里约大冒险2》",
+                        "videoNameEn": "《RIO 2》",
+                        "url": "http://bisentence_movie.sogou.com/4d1eeb6213d9cc9cdbce00781e07c4a0_7ef82fac1249a24ede46113fb6db43feaeaadc63"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/95bf83fa9c39ec4f55b8511dc0c4ed29_55630.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/973dbe2fb92dfbb28a22485d1dd8e039_26927.mp3",
+                        "isLavafox": true,
+                        "en": "And I would do <em>anything</em> to have you back in my life.",
+                        "zh": "只要你回到我身边，我可以做任何事。",
+                        "videoNameZh": "《老友记 第十季》",
+                        "videoNameEn": "《Friends Season 10》",
+                        "url": "http://bisentence_movie.sogou.com/6217e6f041a3dde785e2ed2c24b64f55_97c16331989aca44acb21323095f7887b4c47e0e"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/334ae739c2d3bef71ab483cd142c3ad8_18137.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/1206b6ea77c6ce367f6788a6c89fc354_69869.mp3",
+                        "isLavafox": true,
+                        "en": "For you, and for any dear to you, I would do <em>anything</em>.",
+                        "zh": "为你们，和你们关爱的人，我愿做任何事。",
+                        "videoNameZh": "《纸牌屋 第五季》",
+                        "videoNameEn": "《House of Cards Season 5》",
+                        "url": "http://bisentence_movie.sogou.com/53c0fd87fbe0629c8998323f31e23ff8_4a44a382124abb3f57994c27426cf589e0d87690"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/345831827db23c6dca86447206da99f3_25724.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/3e7d6b2cc9335e6af64f9f2ceb717906_48932.mp3",
+                        "isLavafox": true,
+                        "en": "Yeah. You're right. I don't pay attention to <em>anything</em> you do.",
+                        "zh": "是啊，你说得对。我对你所做的任何事都毫不留心，",
+                        "videoNameZh": "《女孩成长记 第二季》",
+                        "videoNameEn": "《Girl Meets World Season 2》",
+                        "url": "http://bisentence_movie.sogou.com/df99b36dcc52d7df1b2a22a40ca7c3ed_4f7f6dedd3e414670291180cb06cd0981eff786c"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/aa7a748a86497e02e2b0a5098f3017b8_12619.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/1306c65fb5af202e16642b8fe291a6ca_49430.mp3",
+                        "isLavafox": true,
+                        "en": "What do you not do? <em>Anything</em> else. I believe we have communicated.",
+                        "zh": "不应该做什么？除此之外的任何事。我觉得我们已经达成共识了。",
+                        "videoNameZh": "《女孩成长记 第一季》",
+                        "videoNameEn": "《Girl Meets World Season 1》",
+                        "url": "http://bisentence_movie.sogou.com/e76f59c6359927b7e3f39b084c9b1f4f_9408bfaba793a366cfab58fe3060ba5da5c03db0"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/345831827db23c6dca86447206da99f3_25724.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/e2ea2d4f53b6334ee40b40e0bf708006_72226.mp3",
+                        "isLavafox": true,
+                        "en": "I need to tell you something. <em>Anything</em>. And I don't want you to react.",
+                        "zh": "我需要告诉你一些事，任何事都行。我不希望你有什么反应.",
+                        "videoNameZh": "《女孩成长记 第二季》",
+                        "videoNameEn": "《Girl Meets World Season 2》",
+                        "url": "http://bisentence_movie.sogou.com/19286d5971fafbdc2b2e4cd610c85d92_123db5e48ff3c331bb3cef155e5f9ae514243f94"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/89af515bc1904b2f30182572c2d73a41_25401.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/50d6bf8344af3490f38d3da45936de46_21747.mp3",
+                        "isLavafox": true,
+                        "en": "Which you didn't feel obliged to share. I'm not obliged to do <em>anything</em>.",
+                        "zh": "你觉得没义务分享给我。我没有义务做任何事。",
+                        "videoNameZh": "《美国队长2》",
+                        "videoNameEn": "《Captain America: The Winter Soldier》",
+                        "url": "http://bisentence_movie.sogou.com/3fcbe60e1c44b15e4fdc634fdad08c61_f00fcda968ef518c3ae432ea6677387110013bc1"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/f012eb5fd120cc2d5b68f18e3d0e7c8c_67362.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/d2e2bac8cb4b6149cea2a6ee64f446e7_75860.mp3",
+                        "isLavafox": true,
+                        "en": "Bowling ball and bowling ball. They're the same. It doesn't mean <em>anything</em>.",
+                        "zh": "保龄球和保龄球，它们是一样的。这不能说明任何事。",
+                        "videoNameZh": "《傲骨贤妻 第五季》",
+                        "videoNameEn": "《The Good Wife Season 5》",
+                        "url": "http://bisentence_movie.sogou.com/081442c7b1725f56d7a8d61e411adc4e_a5b09df137dd356ed2965c916bb5c494fcc61546"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/368277e4523e7b27b12887e16057df56_64015.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/7a98458ec5da6aa458beaf951357f884_22930.mp3",
+                        "isLavafox": true,
+                        "en": "I suppose you'll need some help. I'm sure Teddy would do <em>anything</em> for you.",
+                        "zh": "我认为你需要一些帮助，我相信泰迪愿意为你做任何事。",
+                        "videoNameZh": "《西部世界 第一季》",
+                        "videoNameEn": "《Westworld Season 1》",
+                        "url": "http://bisentence_movie.sogou.com/71a76b84d03f40bdd9c7a817d7720f32_25633f5e0be423c99beed20bf08e61f7fe7a5914"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/2ab82841fbb948a4b86d0b597b1f1b6e_62826.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/17b35b780e40aef76b5933a405d81698_50878.mp3",
+                        "isLavafox": true,
+                        "en": "And my mom does the most. For never giving up. On <em>anything</em>. Especially, me.",
+                        "zh": "特别是我妈妈。因为她从不放弃任何事情，特别是我。",
+                        "videoNameZh": "《奇迹男孩》",
+                        "videoNameEn": "《Wonder》",
+                        "url": "http://bisentence_movie.sogou.com/ac6b832dab56ec0bebaa1b67986c3186_9715707043fb6a9667f6f2f0cf9c365ab0f8eaa9"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/658cb5af1f2c25ef894d7429bd1ba9af_103.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/dc2211cdb8627c9f6147db21b3008817_49347.mp3",
+                        "isLavafox": true,
+                        "en": "You foolish woman. You don't understand. You're not in control of <em>anything</em>.",
+                        "zh": "你这愚蠢的女人，你根本不明白，你完全掌控不了任何事。",
+                        "videoNameZh": "《疑犯追踪 第四季》",
+                        "videoNameEn": "《Person of Interest Season 4》",
+                        "url": "http://bisentence_movie.sogou.com/0d266ee5979e96ed6c26f1192e17dea3_239391380e6b0f283f9c104c8bbfb212024c2a4d"
+                    }
+                ]
+            },
+            "pic": "",
+            "voice": {
+                "phonetic": [
+                    {
+                        "text": "ˈeniθɪŋ",
+                        "type": "uk",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/1768_anything_uk.mp3"
+                    },
+                    {
+                        "text": "ˈeniθɪŋ",
+                        "type": "usa",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/1768_anything_usa.mp3"
+                    }
+                ]
+            },
+            "dictType": "oxford_buchong",
+            "kaoyan": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 7,
+                        "pos": "n",
+                        "chinese": "任何东西/事情",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "anything",
+                "direction_info": {
+                    "ranges": 12,
+                    "description": "数据源自2012-2023年12年间全国考研试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2012-2023年全国考研英语一和考研英语二共24套考研试卷，包括阅读、完型填空、翻译、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选全国考研考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2012-2023年12年间全国考研英语一和考研英语二试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 2,
+                "total_exam_freq": 7,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "任何东西/事情",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "If you yell, \"Yes,\" and I yell, \"No,\" neither of us learns <highlight>anything</highlight>.",
+                                    "month": -1,
+                                    "source": "英语一",
+                                    "coll": "",
+                                    "sentence_trans": "如果你喊“是”，我喊“不是”，我们俩都学不到任何东西。",
+                                    "year": 2019,
+                                    "type": "阅读理解B",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "\"We don't make <highlight>anything</highlight> anymore,\" he told Fox News, while defending his own made-in-Mexico clothing line.",
+                                    "month": -1,
+                                    "source": "英语二",
+                                    "coll": "",
+                                    "sentence_trans": "“我们不再生产任何东西了，”他对福克斯新闻说，同时为自己在墨西哥制造的服装品牌辩护。",
+                                    "year": 2017,
+                                    "type": "阅读理解B",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Dickens had a reporter's eye for transcribing the life around him, especially <highlight>anything</highlight> comic or odd.",
+                                    "month": -1,
+                                    "source": "英语一",
+                                    "coll": "",
+                                    "sentence_trans": "狄更斯以记者的眼光记录他周围的生活，尤其是任何滑稽或奇怪的事情。",
+                                    "year": 2017,
+                                    "type": "阅读理解B",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "word_affix": {
+                    "word": "anything",
+                    "sub_affix_info_list": [
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "任何",
+                                    "affix_type": "stem"
+                                }
+                            ],
+                            "affix": "any",
+                            "affix_mean": "任何"
+                        },
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "事情",
+                                    "affix_type": "stem"
+                                }
+                            ],
+                            "affix": "thing",
+                            "affix_mean": "事情"
+                        }
+                    ],
+                    "word_mean": "pron. 任何事物 (用于含有否定意义的陈述句中)"
+                },
+                "word_usage": [
+                    {
+                        "usage": "anything主要用于疑问句、否定句或条件从句中代替something，意为“任何东西；任何事情绝对不”。例：\nHe didn't say anything.\n他啥也没说。"
+                    },
+                    {
+                        "usage": "anything也可用于肯定句，表示“无论什么东西；随便什么事情”。例：\nI want something to eat, anything will do.\n我想吃点东西，随便什么都行。"
+                    },
+                    {
+                        "usage": "anything是复合不定代词，形容词修饰其时被形容词修饰时，形容词必须放在其后。例：\nI don't have anything suitable to wear for the party. \n我没有适合在聚会上穿的衣服。"
+                    }
+                ]
+            },
+            "CET6": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 16,
+                        "pos": "n",
+                        "chinese": "任何东西",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "anything",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2016.6-2023.6年8年间全六级试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight>考纲释义</highlight>\n精选实考、考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2016-2023年51套试卷，包括阅读、听力、翻译等所有题型。\n\n<highlight>真题例句</highlight>\n精选2016-2023年8年间全六级试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 4,
+                "total_exam_freq": 16,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "synonyms": "",
+                            "en": "",
+                            "zh": "任何东西",
+                            "pos": "n",
+                            "antonyms": ""
+                        }
+                    ]
+                },
+                "word_affix": {
+                    "word": "anything",
+                    "sub_affix_info_list": [
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "任何",
+                                    "affix_type": "stem"
+                                }
+                            ],
+                            "affix": "any",
+                            "affix_mean": "任何"
+                        },
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "事情",
+                                    "affix_type": "stem"
+                                }
+                            ],
+                            "affix": "thing",
+                            "affix_mean": "事情"
+                        }
+                    ],
+                    "word_mean": "pron. 任何事物 (用于含有否定意义的陈述句中)"
+                }
+            },
+            "CET4": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 30,
+                        "pos": "n",
+                        "chinese": "任何东西",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "anything",
+                "word_level_phrase_info": [
+                    {
+                        "brief_definition": "(表达看法；或用在否定句之后表示反面意见才对)",
+                        "phrase": "if anything",
+                        "pos": "idm"
+                    }
+                ],
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2016.6-2023.6年8年间全四级试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight>考纲释义</highlight>\n精选实考、考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2016-2023年51套试卷，包括阅读、听力、翻译等所有题型。\n\n<highlight>真题例句</highlight>\n精选2016-2023年8年间试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 5,
+                "total_exam_freq": 30,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "任何东西",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "Wild pigs will eat almost <highlight>anything</highlight> containing calories.",
+                                    "month": 6,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "野猪几乎会吃任何含有热量的东西。",
+                                    "year": 2021,
+                                    "type": "听力",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "If you can't trust <highlight>anything</highlight>, life becomes intolerable.",
+                                    "month": 12,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "如果你什么都不相信，生活就会变得无法忍受。",
+                                    "year": 2020,
+                                    "type": "阅读理解A",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Yes, we haven't noticed <highlight>anything</highlight> else wrong or missing.",
+                                    "month": 9,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "是的，我们没有发现任何其他错误或遗漏。",
+                                    "year": 2020,
+                                    "type": "听力",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "word_affix": {
+                    "word": "anything",
+                    "sub_affix_info_list": [
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "任何",
+                                    "affix_type": "stem"
+                                }
+                            ],
+                            "affix": "any",
+                            "affix_mean": "任何"
+                        },
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "事情",
+                                    "affix_type": "stem"
+                                }
+                            ],
+                            "affix": "thing",
+                            "affix_mean": "事情"
+                        }
+                    ],
+                    "word_mean": "pron. 任何事物 (用于含有否定意义的陈述句中)"
+                }
+            },
+            "gaokao": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 20,
+                        "pos": "n",
+                        "chinese": "任何东西",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "anything",
+                "word_level_phrase_info": [
+                    {
+                        "brief_definition": "根本不；绝不",
+                        "phrase": "anything but",
+                        "pos": "phr."
+                    },
+                    {
+                        "brief_definition": "别的东西；别的什么；别的事情",
+                        "phrase": "anything else",
+                        "pos": "phr."
+                    }
+                ],
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2015-2022年8年间全国卷和自主命题省市高考卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2015-2022年全国卷高考试卷，包括阅读、完形、单选、填空、听力、改错、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选各省市考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2015-2022年8年间全国卷和自主命题省市高考卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 4,
+                "total_exam_freq": 20,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "任何东西",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "I could not understand the news on television or movies or <highlight>anything</highlight> like this.",
+                                    "month": -1,
+                                    "source": "全国卷1",
+                                    "coll": "",
+                                    "sentence_trans": "我看不懂电视新闻、电影或任何诸如此类的事物。",
+                                    "year": 2018,
+                                    "type": "听力",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "What I saw was completely unlike <highlight>anything</highlight> I had experienced in the past.",
+                                    "month": -1,
+                                    "source": "全国卷1",
+                                    "coll": "",
+                                    "sentence_trans": "我所看到的与我过去所经历的完全不同。",
+                                    "year": 2017,
+                                    "type": "完形填空",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Will there be <highlight>anything</highlight> else?",
+                                    "month": -1,
+                                    "source": "全国卷1",
+                                    "coll": "",
+                                    "sentence_trans": "还有别的什么吗？",
+                                    "year": 2016,
+                                    "type": "听力",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "word_affix": {
+                    "word": "anything",
+                    "sub_affix_info_list": [
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "任何",
+                                    "affix_type": "stem"
+                                }
+                            ],
+                            "affix": "any",
+                            "affix_mean": "任何"
+                        },
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "事情",
+                                    "affix_type": "stem"
+                                }
+                            ],
+                            "affix": "thing",
+                            "affix_mean": "事情"
+                        }
+                    ],
+                    "word_mean": "pron. 任何事物 (用于含有否定意义的陈述句中)"
+                }
+            },
+            "zhongkao": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 179,
+                        "pos": "pron",
+                        "chinese": "任何事物; 任何东西",
+                        "sense_tier_ratio": 98.35
+                    },
+                    {
+                        "sense_tier": 3,
+                        "pos": "pron",
+                        "chinese": "随便哪个东西",
+                        "sense_tier_ratio": 1.65
+                    }
+                ],
+                "word": "anything",
+                "word_level_phrase_info": [
+                    {
+                        "brief_definition": "万事皆可能；凡事皆为可能",
+                        "phrase": "anything is possible",
+                        "pos": ""
+                    }
+                ],
+                "direction_info": {
+                    "ranges": 4,
+                    "description": "数据源自2018-2021年4年间全国各省市中考试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2018-2021年全国重点省市中考试卷，包括听力、阅读、完形、单选、填空、改错、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选各省市考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2018-2021年4年间全国各省市中考试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 5,
+                "total_exam_freq": 182,
+                "sense": {
+                    "sense_num": 2,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "任何事物; 任何东西",
+                            "pos": "pron",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "He was too sad to say <highlight>anything</highlight> when he heard the bad news.",
+                                    "month": -1,
+                                    "source": "营口市卷",
+                                    "coll": "",
+                                    "sentence_trans": "当他听到这个坏消息时，难过得说不出话来。",
+                                    "year": 2021,
+                                    "type": "单项选择",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Flying around, he could do <highlight>anything</highlight> he wanted.",
+                                    "month": -1,
+                                    "source": "锦州市卷",
+                                    "coll": "",
+                                    "sentence_trans": "飞来飞去，他可以做任何他想做的事。",
+                                    "year": 2021,
+                                    "type": "短文填空",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "I just hid behind my textbook and never said <highlight>anything</highlight>.",
+                                    "month": -1,
+                                    "source": "甘肃省兰州卷",
+                                    "coll": "",
+                                    "sentence_trans": "我只是躲在课本后面，没说任何事。",
+                                    "year": 2018,
+                                    "type": "完形填空",
+                                    "day": -1
+                                }
+                            ]
+                        },
+                        {
+                            "en": "",
+                            "zh": "随便哪个东西",
+                            "pos": "pron",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "I eat <highlight>anything</highlight>.",
+                                    "month": -1,
+                                    "source": "苏州卷",
+                                    "coll": "",
+                                    "sentence_trans": "我什么都吃。",
+                                    "year": 2019,
+                                    "type": "单项填空",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "word_affix": {
+                    "sub_affix_info_list": [
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "任何",
+                                    "affix_type": "stem"
+                                }
+                            ],
+                            "affix": "any",
+                            "affix_mean": "任何"
+                        },
+                        {
+                            "affix_sense_info": [
+                                {
+                                    "sample": [],
+                                    "derivatives": "",
+                                    "affix_sense_chinese": "事情",
+                                    "affix_type": "stem"
+                                }
+                            ],
+                            "affix": "thing",
+                            "affix_mean": "事情"
+                        }
+                    ],
+                    "word": "anything",
+                    "word_mean": "pron. 任何事物 (用于含有否定意义的陈述句中)"
+                },
+                "word_usage": [
+                    {
+                        "usage": "形容词修饰复合不定代词something, anything, nothing, everything时，形容词耍位于复合不定代词之后。\n如：Think of something interesting and special to write about.\n想一些有趣并且特别的事情来写。"
+                    }
+                ],
+                "disambiguation": [
+                    {
+                        "disambiguation_list": [
+                            {
+                                "word": "something",
+                                "sense_disambiguation": "表示“某事；某物”，通常用在肯定句中；something还可以用在表示邀请、请求或期待得到肯定回答的疑问句中。"
+                            },
+                            {
+                                "word": "anything",
+                                "sense_disambiguation": "表示“某事；某物”，通常用在否定句或疑问句中；还可以表示“任何事；任何东西”，此时可以用在肯定句中。"
+                            }
+                        ],
+                        "sense_group": "某事；某物"
+                    }
+                ]
+            },
+            "sentencesData": {
+                "status": 1,
+                "info": "notZh2En",
+                "data": {}
+            },
+            "isAutoMatch": false,
+            "Zh2En": false
+        },
+        "query": "anything",
+        "result": "任何事",
+        "tabSelect": "detail",
+        "dictionaryType": "oxford_buchong",
+        "notFound_show": false,
+        "phoneticShow": "",
+        "globalShowTranslateRecord": "",
+        "pronPrefer": {
+            "type": "usa_1",
+            "speaker": "male",
+            "speed": "standard"
+        },
+        "ServerRecord": "",
+        "ServerUIGS": {
+            "version": "new",
+            "type": "all",
+            "stype": "success",
+            "terminal": "web",
+            "fr": "default",
+            "direction": "etoz",
+            "from": "en",
+            "to": "zh-CHS",
+            "len": 8,
+            "qtype": "text",
+            "qctype": "qc_1",
+            "dict_cover": 1,
+            "detail": 1,
+            "wordCardCover": 1,
+            "wordCardEn": 1,
+            "wordCardCh": 0,
+            "wordCardMinor": 0,
+            "wordCardNetmean": 0,
+            "wordDeform": 0,
+            "keyword": 0,
+            "bilingual": 1,
+            "simple": 0,
+            "levelList": 1,
+            "synonym": 0,
+            "antonym": 0,
+            "conjugate": 1,
+            "rootaffix": 1,
+            "baike_sogou": 1,
+            "baike_wiki": 0,
+            "wordDifference": 0,
+            "word_phrase": 1,
+            "secondQuery": 0,
+            "dict_oxford": 0,
+            "dict_newcentury": 0,
+            "zhongkaotab": 1,
+            "gaokaotab": 1,
+            "CET4tab": 1,
+            "CET6tab": 1,
+            "kaoyantab": 1,
+            "network_tab": 0,
+            "yinying_tab": 1,
+            "tuozhan_tab": 0,
+            "one_pic": 0,
+            "more_pic": 0,
+            "no_pic": 0,
+            "uuid": "ff5a27b1-2c05-4f85-8695-89c836785d21",
+            "from_type": 0,
+            "t_trans_ssr": 178
+        },
+        "ServerModelUIGS": {
+            "terminal": "web",
+            "type": "trans_model",
+            "pbtype": "pv",
+            "model_general": 1,
+            "model_medical": 1,
+            "model_finance": 1
+        },
+        "ServerSgtkn": "64E9D74A67A5CA63696E41D3D085203869C64B5E67552134",
+        "suggShow": false,
+        "suggestion": "",
+        "suggDirection": "",
+        "usualTop": "",
+        "baseDict": "",
+        "wordCardClick": false,
+        "isFrInput": false,
+        "kanaTips": {
+            "show": false,
+            "left": "",
+            "top": "",
+            "type": "",
+            "arrowLeft": ""
+        },
+        "currSentenceIndex": -1,
+        "prefixStrObj": {
+            "prefixStr": "",
+            "oriPrefixStr": ""
+        },
+        "selectTransBox": {
+            "show": false,
+            "right": 0,
+            "top": 0,
+            "paraphraseInfo": {
+                "word": "",
+                "from": "",
+                "to": "",
+                "area": ""
+            }
+        },
+        "sentenceLoading": false,
+        "newSentenceInfo": {
+            "sentence": "",
+            "candidateIndex": 0
+        },
+        "moreTipInfo": {
+            "opacity": 0,
+            "zIndex": -1
+        },
+        "paraphraseShowInfo": {
+            "card": 0,
+            "query": "",
+            "card_dict": 0
+        },
+        "selectType": "",
+        "wordPos": 0,
+        "candidateWord": "",
+        "syntaxVisible": false,
+        "syntaxStatus": 0
+    },
+    "language": {
+        "from": "auto",
+        "to": "zh-CHS",
+        "detect": "en",
+        "model": "general",
+        "detectShow": false,
+        "langMap": {
+            "current": ""
+        },
+        "zh2en": false,
+        "fromItemList": [
+            {
+                "lang": "auto",
+                "text": "自动检测",
+                "play": false
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "ko",
+                "text": "韩语",
+                "play": true,
+                "abbr": "韩"
+            },
+            {
+                "lang": "ru",
+                "text": "俄语",
+                "play": true,
+                "abbr": "俄"
+            },
+            {
+                "lang": "th",
+                "text": "泰语",
+                "play": true,
+                "abbr": "泰"
+            }
+        ],
+        "toItemList": [
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "vi",
+                "text": "越南语",
+                "play": true,
+                "abbr": "越"
+            },
+            {
+                "lang": "ko",
+                "text": "韩语",
+                "play": true,
+                "abbr": "韩"
+            },
+            {
+                "lang": "fr",
+                "text": "法语",
+                "play": true,
+                "abbr": "法"
+            }
+        ]
+    },
+    "voice": {
+        "from": {
+            "lang": "en",
+            "type": "from",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22anything%22%2C%22spokenDialect%22%3A%22en%22%2C%22rate%22%3A%220.8%22%7D",
+            "list": [
+                {
+                    "type": "uk_0",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "ˈeniθɪŋ",
+                    "abbr": "英",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/1768_anything_uk.mp3"
+                },
+                {
+                    "type": "usa_1",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "ˈeniθɪŋ",
+                    "abbr": "美",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/1768_anything_usa.mp3"
+                }
+            ],
+            "stype": "phonetic",
+            "phoneticShow": [
+                {
+                    "text": "ˈeniθɪŋ",
+                    "type": "uk",
+                    "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/1768_anything_uk.mp3"
+                }
+            ]
+        },
+        "to": {
+            "lang": "zh",
+            "type": "to",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22%E4%BB%BB%E4%BD%95%E4%BA%8B%22%2C%22spokenDialect%22%3A%22zh-CHS%22%2C%22rate%22%3A%220.8%22%7D",
+            "stype": "normal"
+        }
+    }
+}

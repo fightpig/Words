@@ -1,0 +1,966 @@
+{
+    "route": {
+        "name": "text",
+        "path": "/text",
+        "hash": "",
+        "query": {
+            "keyword": "also",
+            "transfrom": "auto",
+            "transto": "zh-CHS",
+            "model": "general",
+            "errcode": "s10"
+        },
+        "params": {},
+        "fullPath": "/text?keyword=also&transfrom=auto&transto=zh-CHS&model=general&errcode=s10",
+        "meta": {
+            "mtype": [
+                "textTranslate",
+                "language",
+                "voice"
+            ]
+        },
+        "from": {
+            "name": null,
+            "path": "/",
+            "hash": "",
+            "query": {},
+            "params": {},
+            "fullPath": "/",
+            "meta": {}
+        }
+    },
+    "common": {
+        "CONFIG": {
+            "wuid": 1733632275628,
+            "loginInfo": {},
+            "isIE": 0,
+            "isHitSsrSwitch": true,
+            "isHitWritebookSwitch": false,
+            "isHitAmsSwitch": true,
+            "promotionList": "{\n    \"pc_bottom\":{\n        \"imgsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\",\n        \"qcsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\"\n    },\n    \"pc_middle\":[\n        {\n            \"src\":\"//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c\",\n            \"bgColor\":\"#ffffff\",\n            \"link\":\"\"\n        }\n    ],\n    \"pc_survey\":{\n        \"icon\":\"//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750\",\n        \"link\":\"https://wj.qq.com/s2/8193148/806d/\"\n    }\n}",
+            "bannerData": [],
+            "isHitAsideSurvey": false,
+            "secretCode": 109984457,
+            "uuid": "60850812-8805-4309-aba2-d883a55a951c",
+            "referer": "",
+            "approveToken": "64E9BC725195F8525A5C71E0EDACE2A25A962D5867552113",
+            "loadTime": 1733632275630,
+            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0",
+            "fcp": "138.197.122.177",
+            "temporaryId": "",
+            "fileId": ""
+        },
+        "hotWords": [],
+        "isFromCollect": false,
+        "psdModify": {
+            "currentStep": 1,
+            "scode": "",
+            "username": ""
+        },
+        "loginStatus": true,
+        "feedBackModule": false,
+        "showPromotionPopup": {
+            "show": false,
+            "type": ""
+        },
+        "showPromotionPCDownload": false,
+        "showShareBomb": false,
+        "shareData": null,
+        "showAppDownLoad": false,
+        "showLoginDialog": false,
+        "showLoading": {
+            "show": false
+        },
+        "toast": {
+            "show": false,
+            "text": "",
+            "loading": false
+        },
+        "modelToast": {
+            "show": false,
+            "text": ""
+        },
+        "selectionGlobalShow": true,
+        "selectionInfo": {
+            "left": 0,
+            "top": 0,
+            "show": false,
+            "from": "",
+            "to": "",
+            "val": "",
+            "area": ""
+        },
+        "showConfirmDialog": false,
+        "promotionList": {
+            "pc_bottom": {
+                "imgsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png",
+                "qcsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png"
+            },
+            "pc_middle": [
+                {
+                    "src": "//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c",
+                    "bgColor": "#ffffff",
+                    "link": ""
+                }
+            ],
+            "pc_survey": {
+                "icon": "//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750",
+                "link": "https://wj.qq.com/s2/8193148/806d/"
+            }
+        },
+        "transTypeTxt": "text",
+        "fixedTabStatus": 0,
+        "bodyTop": 0,
+        "ifHideUserOperation": false
+    },
+    "textTranslate": {
+        "prevTransQuery": "",
+        "translateData": {
+            "translate": {
+                "zly": "zly",
+                "errorCode": "0",
+                "qc_type": "1",
+                "index": "content0",
+                "from": "en",
+                "source": "sogou",
+                "text": "also",
+                "to": "zh-CHS",
+                "id": "60850812-8805-4309-aba2-d883a55a951c",
+                "dit": "也",
+                "orig_text": "also",
+                "md5": ""
+            },
+            "detect": {
+                "zly": "zly",
+                "detect": "en",
+                "errorCode": "0",
+                "language": "英语",
+                "id": "431ba920-b51d-11ef-8f6a-538b97856d90",
+                "text": "also"
+            },
+            "sgtkn": "64E9BC775195F8525A5C71E0EDACE2A25A962D5867552113",
+            "wordCard": {
+                "title": "also",
+                "show": true,
+                "usualDict": [
+                    {
+                        "values": [
+                            "也；还；同样；此外；而且；再者；另外；加之；除此之外"
+                        ],
+                        "pos": "adv."
+                    },
+                    {
+                        "values": [
+                            "另外；又"
+                        ],
+                        "pos": "conj."
+                    }
+                ],
+                "secondQuery": "",
+                "exchange": {},
+                "levelList": [
+                    "小学",
+                    "初中",
+                    "高中",
+                    "四级",
+                    "考研"
+                ]
+            },
+            "detail": {
+                "synonym": [
+                    {
+                        "word_list": [
+                            "moreover",
+                            "too",
+                            "besides",
+                            "either",
+                            "likewise"
+                        ],
+                        "pos": "adv.",
+                        "mean": "也；而且；同样"
+                    }
+                ],
+                "word_difference_info": [
+                    {
+                        "common_mean": "也",
+                        "word_list": [
+                            "either",
+                            " likewise",
+                            " as well",
+                            " also",
+                            " too"
+                        ],
+                        "word_mean_info__list": [
+                            {
+                                "difference": "用于否定句，放在句末，之前加逗号。",
+                                "word": "either"
+                            },
+                            {
+                                "difference": "是书面语用词。",
+                                "word": "likewise"
+                            },
+                            {
+                                "difference": "一般不用否定句，通常放在句末，强调时可放在句中。",
+                                "word": "as well"
+                            },
+                            {
+                                "difference": "比too正式一些，语气较重，只用于肯定句，一般紧靠动词。",
+                                "word": "also"
+                            },
+                            {
+                                "difference": "语气较轻，多用于口语，在肯定句中使用，通常位于句末。",
+                                "word": "too"
+                            }
+                        ]
+                    }
+                ],
+                "word_group": [
+                    {
+                        "brief_definition": "不仅...并且...",
+                        "phrase": "not only ... but also ...",
+                        "pos": "idm."
+                    },
+                    {
+                        "brief_definition": "而且；而且还；但同时也",
+                        "phrase": "but also",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "相关属性；请参见；另见",
+                        "phrase": "see also",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "不仅 A 而且 B",
+                        "phrase": "not only A but also B",
+                        "pos": ""
+                    }
+                ],
+                "bilingual": [
+                    {
+                        "source": "I <em>also</em> write in my diary.",
+                        "target": "我也写日记。",
+                        "url": ""
+                    },
+                    {
+                        "source": "They're <em>also</em> kind of shy.",
+                        "target": "它们也有点害羞。",
+                        "url": ""
+                    },
+                    {
+                        "source": "We can <em>also</em> take a train.",
+                        "target": "我们也可以坐火车。",
+                        "url": ""
+                    },
+                    {
+                        "source": "I <em>also</em> like playing tennis.",
+                        "target": "我也喜欢打网球。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Salma was <em>also</em> reading a book.",
+                        "target": "萨尔玛也在看书。",
+                        "url": ""
+                    },
+                    {
+                        "source": "They <em>also</em> talk to each other.",
+                        "target": "它们也会互相交流。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Can I <em>also</em> be his pen pal?",
+                        "target": "我也可以做他的笔友吗？",
+                        "url": ""
+                    },
+                    {
+                        "source": "I <em>also</em> have a healthy diet.",
+                        "target": "我也有一个健康的饮食。",
+                        "url": ""
+                    },
+                    {
+                        "source": "\"I will <em>also</em> control mine.\"",
+                        "target": "“我也会控制我的孩子。”",
+                        "url": ""
+                    },
+                    {
+                        "source": "The yard was <em>also</em> a little bit messy.",
+                        "target": "院子也有点乱。",
+                        "url": ""
+                    }
+                ],
+                "baike": {
+                    "showMore": false,
+                    "list": [
+                        {
+                            "lemmaTitle": "Also",
+                            "link": "https://baike.sogou.com/v5705287.htm?ch=sogou.fanyi",
+                            "abstract": "Also，英语单词，副词、连词、名词，作副词时意为“也；而且；同样” ；作连词时意为“并且；另外”，作名词时意为“人名；（罗）阿尔索”。",
+                            "wapPic": "",
+                            "pcPic": ""
+                        }
+                    ]
+                }
+            },
+            "book": {
+                "yingyinNormal": [
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/90d695a9e78539f7e946c7586f56f1f7_47628.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/138722c9e2a4e8aa46c28f5b45764028_42868.mp3",
+                        "isLavafox": true,
+                        "en": "But this woman must <em>also</em> choose me.",
+                        "zh": "但她也得选择我。",
+                        "videoNameZh": "《阿凡达》",
+                        "videoNameEn": "《Avatar》",
+                        "url": "http://bisentence_movie.sogou.com/7f2998c85975f55d02c4468a184770a7_c77250b92f46a3adcd047081266936c82f32dee3"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/1a903f0039362b0ab8a048b9ba9c9d66_30399.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/49afdff63cd1e9a8ec7e9ef24ba8bbb4_52280.mp3",
+                        "isLavafox": true,
+                        "en": "Mother was <em>also</em> a terrible liar.",
+                        "zh": "我母亲也一样不擅长说谎。",
+                        "videoNameZh": "《木星上行》",
+                        "videoNameEn": "《Jupiter Ascending》",
+                        "url": "http://bisentence_movie.sogou.com/ad1845772e0d7283742c4547c6aa2787_8798288b3b9bd95b78afe1d9aa57860bff69fb3f"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/345831827db23c6dca86447206da99f3_25724.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/cb35be381f125eacaa7e826dbb576a4d_1040.mp3",
+                        "isLavafox": true,
+                        "en": "Nothing, I am <em>also</em> uncomfortable.",
+                        "zh": "没什么，我也觉得很不自在。",
+                        "videoNameZh": "《女孩成长记 第二季》",
+                        "videoNameEn": "《Girl Meets World Season 2》",
+                        "url": "http://bisentence_movie.sogou.com/07c7456b2e4b0212c2e8dab3e269f9b9_716b8fbee7062f8dc96c57c21fffa6265cf11207"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/35a31fd01d1fc930cd41c58daa5742c9_47480.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/02d1b7d7895f25f20d14cd420c12e0a5_32229.mp3",
+                        "isLavafox": true,
+                        "en": "Our ears <em>also</em> determine attraction.",
+                        "zh": "我们的耳朵也能决定吸引力。",
+                        "videoNameZh": "《TED教育》",
+                        "videoNameEn": "《TED-Ed》",
+                        "url": "http://bisentence_movie.sogou.com/688857abd572b7cd57ed55fa57b9c565_66ca0ac40d0f3897c64157b3e5ed82e0c9d2605c"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/bb1aa62556923fccd02df9cb65d887ce_58358.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/5f9e710b3b799094e23e8cbbfefd23fc_58102.mp3",
+                        "isLavafox": true,
+                        "en": "And I've <em>also</em> got wholemeal flour as well.",
+                        "zh": "我也准备了全麦的面粉。",
+                        "videoNameZh": "《保罗教你做面包》",
+                        "videoNameEn": "《Baul Hollywoods Bread》",
+                        "url": "http://bisentence_movie.sogou.com/ddce0b60b855bdfc8477e45b18c02941_3238238858b4307c44490fd64a37a939734365a4"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/47650e924c1da36531b1a1e48bb9219d_7103.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/7aef4d40a4469034092dfa1f3bcd8df5_56660.mp3",
+                        "isLavafox": true,
+                        "en": "The rankings will <em>also</em> determine who gets cut.",
+                        "zh": "排名也会决定谁会被淘汰。",
+                        "videoNameZh": "《分歧者：异类觉醒》",
+                        "videoNameEn": "《Divergent》",
+                        "url": "http://bisentence_movie.sogou.com/3d9a853edb5b6fb2a0c72807c8779ab9_e519537b8820073cc9f69f9b067e7e92827164c7"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/1fd5136b25b0bb93bc3475b8feb28bf6_63175.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/2807c11bdf007a07936af182110ed592_22775.mp3",
+                        "isLavafox": true,
+                        "en": "Shenzhen <em>also</em> suffers high levels of pollution.",
+                        "zh": "深圳也受着严重污染的戕害。",
+                        "videoNameZh": "《鸟瞰中国》",
+                        "videoNameEn": "《China from Above》",
+                        "url": "http://bisentence_movie.sogou.com/82fad9c1b33429cc8e98378f03ddda07_c6340290c5118bd5908e242c50994aaaff075247"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/35a31fd01d1fc930cd41c58daa5742c9_47480.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/0ca0dab3a9524e92ea639cdc9443085e_27251.mp3",
+                        "isLavafox": true,
+                        "en": "But what affects humans <em>also</em> affects machines.",
+                        "zh": "言而，影响人类的也会影响机器。",
+                        "videoNameZh": "《TED教育》",
+                        "videoNameEn": "《TED-Ed》",
+                        "url": "http://bisentence_movie.sogou.com/d94ecfd75386b71004a1090ddacb9596_a9e1046326271cae83ff549a5230790b92480553"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/f0ed3bd1897036484d259b1dfb2cebc8_22838.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/16771336726067b3f7bfcd3329c596e4_15389.mp3",
+                        "isLavafox": true,
+                        "en": "It's <em>also</em> more money. How's that sound? Good.",
+                        "zh": "当然拿的钱也更多，听起来不错吧？很好。",
+                        "videoNameZh": "《少年时代》",
+                        "videoNameEn": "《Boyhood》",
+                        "url": "http://bisentence_movie.sogou.com/fbcb952be11b4b801a15cd70c56dfc83_841642cb51ffc96c538c7b2bae8a7d0a3ccd7d16"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/178d946ef640c7de6e0f6c8df29d5810_67890.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/8a67309ac6efea1f1bf5b7ff1540c017_31735.mp3",
+                        "isLavafox": true,
+                        "en": "He was <em>also</em> implicated in Kennedy assassination.",
+                        "zh": "他们也涉及到肯尼迪总统的刺杀案中来。",
+                        "videoNameZh": "《X战警：逆转未来》",
+                        "videoNameEn": "《X-Men: Days of Future Past》",
+                        "url": "http://bisentence_movie.sogou.com/3811e97b10fc6bd0f9e96564b0ef5d11_6f1f308240062cdd4109c380d2137db60e0dc686"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/659ebdbad5fdd9f9876f9f9ae88da0ad_60299.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/603362b3083f344b82b59b582c316406_48081.mp3",
+                        "isLavafox": true,
+                        "en": "I know. But you're <em>also</em> not the only interested party.",
+                        "zh": "我知道，但也并不是就你对这个感兴趣。",
+                        "videoNameZh": "《乔布斯》",
+                        "videoNameEn": "《Jobs》",
+                        "url": "http://bisentence_movie.sogou.com/32012a6e87fb99c96c8bc5967881f66e_45bd93b3738cd1cd35d8a0948d1fc7543650a753"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/8b3da16ecbe350aacc1a7e4a01d210bc_49869.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/13d4e25dd37fe53dc3c3b4a84ab1338a_25863.mp3",
+                        "isLavafox": true,
+                        "en": "It'll <em>also</em> help improve her initial impression of you.",
+                        "zh": "这同时也能改善你在她心目中的最初印象。",
+                        "videoNameZh": "《生活大爆炸 第四季》",
+                        "videoNameEn": "《The Big Bang Theory Season 4》",
+                        "url": "http://bisentence_movie.sogou.com/3b512c4f45b96e25c2c4d85ab38d63b6_e25aa9773a4b664dfc42b8e128c9fd1f815e095e"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/1209b6b6bc67a9c6481daae06e559a92_30463.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/3af3f8248419e2c973fb7d96fc5bcb00_28172.mp3",
+                        "isLavafox": true,
+                        "en": "Like Carlos, Susan Delfino was <em>also</em> feeling disconnected.",
+                        "zh": "跟卡洛斯一样，苏珊·德尔非诺也感觉孤立无援。",
+                        "videoNameZh": "《绝望主妇 第八季》",
+                        "videoNameEn": "《Desperate Housewives Season 8》",
+                        "url": "http://bisentence_movie.sogou.com/cf582c3271880696be7c887e8e96bb1b_3c5ac8e3d52c69d711b011aba173ed0be6bac463"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/3bccca9abe5ab96bd7f3eaed6bd40cf2_52899.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/82a93db17e8ca5b786db5acd52c94552_49321.mp3",
+                        "isLavafox": true,
+                        "en": "Because Armadillos <em>also</em> wandered in the desert?",
+                        "zh": "因为犰狳也在沙漠里晃荡？（犹太人逃出埃及后曾在沙漠中挣扎多年才回到故土）",
+                        "videoNameZh": "《老友记 第七季》",
+                        "videoNameEn": "《Friends Season 7》",
+                        "url": "http://bisentence_movie.sogou.com/98af94da593881f768f6352df47c6f23_66b44cf24738866a250d7b7c13373ad20068308d"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/46b4115557598e1ee93285923c5dd556_29528.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/9dd5147a599d73840426d129c8c64185_25779.mp3",
+                        "isLavafox": true,
+                        "en": "The festivity and the ritual around basketball <em>also</em> quite interesting.",
+                        "zh": "与篮球相关的庆典和仪式也非常有趣。",
+                        "videoNameZh": "《怪诞行为学》",
+                        "videoNameEn": "《Predictably Irrational》",
+                        "url": "http://bisentence_movie.sogou.com/7f574c49f97e926709075894ad680f0e_0be66456df4f10303259b3b9bd29877bac5356db"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/8005d54b57fe04f26a670220f9323bc7_59749.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/66d869386e8654886136ae43670d7372_4142.mp3",
+                        "isLavafox": true,
+                        "en": "This is a lie. Yes. It is <em>also</em> a kindness.",
+                        "zh": "这是谎话。是的。这也是仁慈。",
+                        "videoNameZh": "《神探夏洛克 第四季》",
+                        "videoNameEn": "《Sherlock Season 4》",
+                        "url": "http://bisentence_movie.sogou.com/ee0c61af5d78e7b4c0e4dc66337a9c75_1b57798d7302d6ff7cd8a59172515ef481ebabeb"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/3702b1723a78bf8946165e8448c07c6e_37479.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/f63209033e0b454ec66a6378f21bea6a_23789.mp3",
+                        "isLavafox": true,
+                        "en": "He's <em>also</em> an executive producer on the film.",
+                        "zh": "他也是本片的执行制片。",
+                        "videoNameZh": "《《星际穿越》中的科学》",
+                        "videoNameEn": "《The Science of Interstellar》",
+                        "url": "http://bisentence_movie.sogou.com/3595d7e27af41c68d860c239bd5957ec_d0f0bd7c4dba03fb656c9c3e757abf13ea144d6f"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/65861602801590fdaf378b1d1c997a40_10433.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/4b54044fdaa31ff50a79fd6ff9815ba3_6119.mp3",
+                        "isLavafox": true,
+                        "en": "<em>Also</em>, Vogue called. And they were wondering if they...",
+                        "zh": "时尚杂志也想知道…",
+                        "videoNameZh": "《老友记 第五季》",
+                        "videoNameEn": "《Friends Season 5》",
+                        "url": "http://bisentence_movie.sogou.com/b1fb33ef707d3676a5360c84df315a23_ff3bbf0a5bf11ba818cacaa66505ba72c4ecf2cd"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/a9a5203295dada5468548a45bdbbe245_26977.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/3b268898beb6ba6fc934165709ed07ff_31131.mp3",
+                        "isLavafox": true,
+                        "en": "Dry chillies are <em>also</em> an important ingredient in Chinese cooking.",
+                        "zh": "干辣椒也是中国菜中的重要调料。",
+                        "videoNameZh": "《中餐速成》",
+                        "videoNameEn": "《Chinese Food Made Easy》",
+                        "url": "http://bisentence_movie.sogou.com/35f04cb3c28d2d7c6fec3b8ee5f3ba42_c34314c2028033619029cdb22990ad75d7ed9bbe"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/1d8503c6505ca4d4e748562e7e5b81df_3730.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/6cfca27cfa71e6613a4ed2a3e068ede1_51036.mp3",
+                        "isLavafox": true,
+                        "en": "But they are <em>also</em> brave and kind and loyal to a fault.",
+                        "zh": "但是他们也非常勇敢，和善，并且过分忠诚。",
+                        "videoNameZh": "《霍比特人3：五军之战》",
+                        "videoNameEn": "《The Hobbit: The Battle of the Five Armies》",
+                        "url": "http://bisentence_movie.sogou.com/6cdb918742b1b6d2c3687aa66f0b5fd5_72835b69292e95b360d60a51de160aee6cfdb886"
+                    }
+                ]
+            },
+            "pic": "",
+            "voice": {
+                "phonetic": [
+                    {
+                        "text": "ˈɔːlsəʊ",
+                        "type": "uk",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/36_also_uk.mp3"
+                    },
+                    {
+                        "text": "ˈɔːlsoʊ",
+                        "type": "usa",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/36_also_usa.mp3"
+                    }
+                ]
+            },
+            "dictType": "oxford_buchong",
+            "gaokao": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 87,
+                        "pos": "adv",
+                        "chinese": "也",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "also",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2015-2022年8年间全国卷和自主命题省市高考卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2015-2022年全国卷高考试卷，包括阅读、完形、单选、填空、听力、改错、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选各省市考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2015-2022年8年间全国卷和自主命题省市高考卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 5,
+                "total_exam_freq": 87,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "也",
+                            "pos": "adv",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "You can <highlight>also</highlight> search for difficult-to-pronounce words and names and make a list of them.",
+                                    "month": -1,
+                                    "source": "新高考Ⅰ卷",
+                                    "coll": "",
+                                    "sentence_trans": "你也可以搜索难发音的单词和名字，并把它们列出来。",
+                                    "year": 2021,
+                                    "type": "听力",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "By the way, do you <highlight>also</highlight> need me to drive you home tomorrow afternoon?",
+                                    "month": -1,
+                                    "source": "新高考Ⅰ卷",
+                                    "coll": "",
+                                    "sentence_trans": "顺便问一下，你明天下午还需要我开车送你回家吗？",
+                                    "year": 2021,
+                                    "type": "听力",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "There's <highlight>also</highlight> an area on the rooftop for hanging out with other travelers during the summer.",
+                                    "month": -1,
+                                    "source": "新高考Ⅰ卷",
+                                    "coll": "",
+                                    "sentence_trans": "在夏天，屋顶上还有一个供其他游客休闲的区域。",
+                                    "year": 2021,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "disambiguation": [
+                    {
+                        "disambiguation_list": [
+                            {
+                                "word": "also",
+                                "sense_disambiguation": "一般放在实义动词之前或be动词、情态动词、 助动词之后。"
+                            },
+                            {
+                                "word": "either",
+                                "sense_disambiguation": "通常置于句末，可用逗号隔开，也可不用。"
+                            },
+                            {
+                                "word": "too",
+                                "sense_disambiguation": "通常置于句末。"
+                            }
+                        ],
+                        "sense_group": "也"
+                    }
+                ]
+            },
+            "zhongkao": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 869,
+                        "pos": "adv",
+                        "chinese": "也; 还; 此外",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "also",
+                "word_level_phrase_info": [
+                    {
+                        "brief_definition": "不仅...并且...",
+                        "phrase": "not only ... but also ...",
+                        "pos": "idm."
+                    }
+                ],
+                "direction_info": {
+                    "ranges": 4,
+                    "description": "数据源自2018-2021年4年间全国各省市中考试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2018-2021年全国重点省市中考试卷，包括听力、阅读、完形、单选、填空、改错、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选各省市考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2018-2021年4年间全国各省市中考试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 5,
+                "total_exam_freq": 869,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "也; 还; 此外",
+                            "pos": "adv",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "It's <highlight>also</highlight> one of my favorite books.",
+                                    "month": -1,
+                                    "source": "天水市卷",
+                                    "coll": "",
+                                    "sentence_trans": "这也是我最喜欢的书之一。",
+                                    "year": 2021,
+                                    "type": "口语交际",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "She can <highlight>also</highlight> help patients with their speaking and their memory.",
+                                    "month": -1,
+                                    "source": "安顺市卷",
+                                    "coll": "",
+                                    "sentence_trans": "她还可以帮助病人说话和记忆。",
+                                    "year": 2021,
+                                    "type": "选句填空",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Snakes are <highlight>also</highlight> very clean and quiet and they seldom trouble humans.",
+                                    "month": -1,
+                                    "source": "武汉卷",
+                                    "coll": "",
+                                    "sentence_trans": "蛇也非常干净和安静，它们很少打扰人类。",
+                                    "year": 2020,
+                                    "type": "完形填空",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "word_usage": [
+                    {
+                        "usage": "当not only...but also..连接两个并列的主语时，谓语动词要与离它最近的主语保持一致，即要遵循“就近原则”。\n如：Shakespeare was not only a writer but also an actor. \n莎士比亚不仅是一名作家，而且是一名演员。"
+                    }
+                ],
+                "disambiguation": [
+                    {
+                        "disambiguation_list": [
+                            {
+                                "word": "too",
+                                "sense_disambiguation": "常用于口语中，语气较轻，通常用于肯定句的句末，too之前通常用逗号和前句分开。"
+                            },
+                            {
+                                "word": "also",
+                                "sense_disambiguation": "比too和as well正式，一般也不用于否定句，它在句中的位置通常是紧靠动词，即放在行为动词之前，情态动词、助动词或be动词之后。"
+                            },
+                            {
+                                "word": "either",
+                                "sense_disambiguation": "通常只用于否定句，且要放在句末"
+                            },
+                            {
+                                "word": "as well",
+                                "sense_disambiguation": "多用在口语中，位于肯定句句末，其前不必加逗号。"
+                            }
+                        ],
+                        "sense_group": "也"
+                    }
+                ]
+            },
+            "sentencesData": {
+                "status": 1,
+                "info": "notZh2En",
+                "data": {}
+            },
+            "isAutoMatch": false,
+            "Zh2En": false
+        },
+        "query": "also",
+        "result": "也",
+        "tabSelect": "detail",
+        "dictionaryType": "oxford_buchong",
+        "notFound_show": false,
+        "phoneticShow": "",
+        "globalShowTranslateRecord": "",
+        "pronPrefer": {
+            "type": "usa_1",
+            "speaker": "male",
+            "speed": "standard"
+        },
+        "ServerRecord": "",
+        "ServerUIGS": {
+            "version": "new",
+            "type": "all",
+            "stype": "success",
+            "terminal": "web",
+            "fr": "default",
+            "direction": "etoz",
+            "from": "en",
+            "to": "zh-CHS",
+            "len": 4,
+            "qtype": "text",
+            "qctype": "qc_1",
+            "dict_cover": 1,
+            "detail": 1,
+            "wordCardCover": 1,
+            "wordCardEn": 1,
+            "wordCardCh": 0,
+            "wordCardMinor": 0,
+            "wordCardNetmean": 0,
+            "wordDeform": 0,
+            "keyword": 0,
+            "bilingual": 1,
+            "simple": 0,
+            "levelList": 1,
+            "synonym": 1,
+            "antonym": 0,
+            "conjugate": 0,
+            "rootaffix": 0,
+            "baike_sogou": 1,
+            "baike_wiki": 0,
+            "wordDifference": 1,
+            "word_phrase": 1,
+            "secondQuery": 0,
+            "dict_oxford": 0,
+            "dict_newcentury": 0,
+            "zhongkaotab": 1,
+            "gaokaotab": 1,
+            "CET4tab": 0,
+            "CET6tab": 0,
+            "kaoyantab": 0,
+            "network_tab": 0,
+            "yinying_tab": 1,
+            "tuozhan_tab": 0,
+            "one_pic": 0,
+            "more_pic": 0,
+            "no_pic": 0,
+            "uuid": "60850812-8805-4309-aba2-d883a55a951c",
+            "from_type": 0,
+            "t_trans_ssr": 167
+        },
+        "ServerModelUIGS": {
+            "terminal": "web",
+            "type": "trans_model",
+            "pbtype": "pv",
+            "model_general": 1,
+            "model_medical": 1,
+            "model_finance": 1
+        },
+        "ServerSgtkn": "64E9BC775195F8525A5C71E0EDACE2A25A962D5867552113",
+        "suggShow": false,
+        "suggestion": "",
+        "suggDirection": "",
+        "usualTop": "",
+        "baseDict": "",
+        "wordCardClick": false,
+        "isFrInput": false,
+        "kanaTips": {
+            "show": false,
+            "left": "",
+            "top": "",
+            "type": "",
+            "arrowLeft": ""
+        },
+        "currSentenceIndex": -1,
+        "prefixStrObj": {
+            "prefixStr": "",
+            "oriPrefixStr": ""
+        },
+        "selectTransBox": {
+            "show": false,
+            "right": 0,
+            "top": 0,
+            "paraphraseInfo": {
+                "word": "",
+                "from": "",
+                "to": "",
+                "area": ""
+            }
+        },
+        "sentenceLoading": false,
+        "newSentenceInfo": {
+            "sentence": "",
+            "candidateIndex": 0
+        },
+        "moreTipInfo": {
+            "opacity": 0,
+            "zIndex": -1
+        },
+        "paraphraseShowInfo": {
+            "card": 0,
+            "query": "",
+            "card_dict": 0
+        },
+        "selectType": "",
+        "wordPos": 0,
+        "candidateWord": "",
+        "syntaxVisible": false,
+        "syntaxStatus": 0
+    },
+    "language": {
+        "from": "auto",
+        "to": "zh-CHS",
+        "detect": "en",
+        "model": "general",
+        "detectShow": false,
+        "langMap": {
+            "current": ""
+        },
+        "zh2en": false,
+        "fromItemList": [
+            {
+                "lang": "auto",
+                "text": "自动检测",
+                "play": false
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "th",
+                "text": "泰语",
+                "play": true,
+                "abbr": "泰"
+            },
+            {
+                "lang": "ru",
+                "text": "俄语",
+                "play": true,
+                "abbr": "俄"
+            },
+            {
+                "lang": "vi",
+                "text": "越南语",
+                "play": true,
+                "abbr": "越"
+            }
+        ],
+        "toItemList": [
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "ko",
+                "text": "韩语",
+                "play": true,
+                "abbr": "韩"
+            },
+            {
+                "lang": "fr",
+                "text": "法语",
+                "play": true,
+                "abbr": "法"
+            },
+            {
+                "lang": "ru",
+                "text": "俄语",
+                "play": true,
+                "abbr": "俄"
+            }
+        ]
+    },
+    "voice": {
+        "from": {
+            "lang": "en",
+            "type": "from",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22also%22%2C%22spokenDialect%22%3A%22en%22%2C%22rate%22%3A%220.8%22%7D",
+            "list": [
+                {
+                    "type": "uk_0",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "ˈɔːlsəʊ",
+                    "abbr": "英",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/36_also_uk.mp3"
+                },
+                {
+                    "type": "usa_1",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "ˈɔːlsoʊ",
+                    "abbr": "美",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/36_also_usa.mp3"
+                }
+            ],
+            "stype": "phonetic",
+            "phoneticShow": [
+                {
+                    "text": "ˈɔːlsəʊ",
+                    "type": "uk",
+                    "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/36_also_uk.mp3"
+                },
+                {
+                    "text": "ˈɔːlsoʊ",
+                    "type": "usa",
+                    "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/36_also_usa.mp3"
+                }
+            ]
+        },
+        "to": {
+            "lang": "zh",
+            "type": "to",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22%E4%B9%9F%22%2C%22spokenDialect%22%3A%22zh-CHS%22%2C%22rate%22%3A%220.8%22%7D",
+            "stype": "normal"
+        }
+    }
+}
