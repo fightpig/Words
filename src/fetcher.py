@@ -342,11 +342,14 @@ def test_oxford_5000():
 
 def test_sogou():
     cn = 0
-    pool = Pool(50)
-    for line in read_file("../sources/word-book/oxford3000/words-3000.txt"):
+
+    # for line in read_file("../sources/word-book/oxford3000/words-3000.txt"):
+    for line in read_file(
+        "D:\Words\sources\word-audio-libs\oxford5000\words-5000-excluded-3000"
+    ):
         if line.strip().startswith("#"):
             continue
-        word = line.strip()
+        word = line.strip().split(" ")[0]
         if len(word) == 0:
             continue
         cn += 1
@@ -354,11 +357,8 @@ def test_sogou():
             word,
             to_my_word=True,
             save_json_path=f"../sources/sogou-word-info-libs/{word[0]}/{word}.json",
-            # override=True,
         )
-        ic(cn)
-    pool.close()
-    pool.join()
+        ic(cn, my_word)
 
 
 def test_bing():
