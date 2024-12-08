@@ -1,0 +1,823 @@
+{
+    "route": {
+        "name": "text",
+        "path": "/text",
+        "hash": "",
+        "query": {
+            "keyword": "courtesy",
+            "transfrom": "auto",
+            "transto": "zh-CHS",
+            "model": "general",
+            "errcode": "s10"
+        },
+        "params": {},
+        "fullPath": "/text?keyword=courtesy&transfrom=auto&transto=zh-CHS&model=general&errcode=s10",
+        "meta": {
+            "mtype": [
+                "textTranslate",
+                "language",
+                "voice"
+            ]
+        },
+        "from": {
+            "name": null,
+            "path": "/",
+            "hash": "",
+            "query": {},
+            "params": {},
+            "fullPath": "/",
+            "meta": {}
+        }
+    },
+    "common": {
+        "CONFIG": {
+            "wuid": 1733663994629,
+            "loginInfo": {},
+            "isIE": 0,
+            "isHitSsrSwitch": true,
+            "isHitWritebookSwitch": false,
+            "isHitAmsSwitch": true,
+            "promotionList": "{\n    \"pc_bottom\":{\n        \"imgsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\",\n        \"qcsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\"\n    },\n    \"pc_middle\":[\n        {\n            \"src\":\"//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c\",\n            \"bgColor\":\"#ffffff\",\n            \"link\":\"\"\n        }\n    ],\n    \"pc_survey\":{\n        \"icon\":\"//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750\",\n        \"link\":\"https://wj.qq.com/s2/8193148/806d/\"\n    }\n}",
+            "bannerData": [],
+            "isHitAsideSurvey": false,
+            "secretCode": 109984457,
+            "uuid": "4320d85e-ecc2-42c8-95cc-09ef38bb8cf7",
+            "referer": "",
+            "approveToken": "65B5E3953DF19F353E3B16FF27B275B53E2F9A6767559CFA",
+            "loadTime": 1733663994631,
+            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0",
+            "fcp": "159.65.124.238",
+            "temporaryId": "",
+            "fileId": ""
+        },
+        "hotWords": [],
+        "isFromCollect": false,
+        "psdModify": {
+            "currentStep": 1,
+            "scode": "",
+            "username": ""
+        },
+        "loginStatus": true,
+        "feedBackModule": false,
+        "showPromotionPopup": {
+            "show": false,
+            "type": ""
+        },
+        "showPromotionPCDownload": false,
+        "showShareBomb": false,
+        "shareData": null,
+        "showAppDownLoad": false,
+        "showLoginDialog": false,
+        "showLoading": {
+            "show": false
+        },
+        "toast": {
+            "show": false,
+            "text": "",
+            "loading": false
+        },
+        "modelToast": {
+            "show": false,
+            "text": ""
+        },
+        "selectionGlobalShow": true,
+        "selectionInfo": {
+            "left": 0,
+            "top": 0,
+            "show": false,
+            "from": "",
+            "to": "",
+            "val": "",
+            "area": ""
+        },
+        "showConfirmDialog": false,
+        "promotionList": {
+            "pc_bottom": {
+                "imgsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png",
+                "qcsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png"
+            },
+            "pc_middle": [
+                {
+                    "src": "//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c",
+                    "bgColor": "#ffffff",
+                    "link": ""
+                }
+            ],
+            "pc_survey": {
+                "icon": "//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750",
+                "link": "https://wj.qq.com/s2/8193148/806d/"
+            }
+        },
+        "transTypeTxt": "text",
+        "fixedTabStatus": 0,
+        "bodyTop": 0,
+        "ifHideUserOperation": false
+    },
+    "textTranslate": {
+        "prevTransQuery": "",
+        "translateData": {
+            "translate": {
+                "zly": "zly",
+                "errorCode": "0",
+                "qc_type": "1",
+                "index": "content0",
+                "from": "en",
+                "source": "sogou",
+                "text": "courtesy",
+                "to": "zh-CHS",
+                "id": "4320d85e-ecc2-42c8-95cc-09ef38bb8cf7",
+                "dit": "礼貌",
+                "orig_text": "courtesy",
+                "md5": ""
+            },
+            "detect": {
+                "zly": "zly",
+                "detect": "en",
+                "errorCode": "0",
+                "language": "英语",
+                "id": "1d1af6a0-b567-11ef-91d8-27cf42f39609",
+                "text": "courtesy"
+            },
+            "sgtkn": "65B5E39E3DF19F353E3B16FF27B275B53E2F9A6767559CFA",
+            "wordCard": {
+                "title": "courtesy",
+                "show": true,
+                "usualDict": [
+                    {
+                        "values": [
+                            "礼貌；谦恭；殷勤；客气；恭敬；彬彬有礼"
+                        ],
+                        "pos": "n."
+                    },
+                    {
+                        "values": [
+                            "免费乘坐的；免费使用的；礼节性的"
+                        ],
+                        "pos": "adj."
+                    }
+                ],
+                "secondQuery": "",
+                "exchange": {
+                    "word_pl": [
+                        "courtesies"
+                    ]
+                },
+                "levelList": [
+                    "高中",
+                    "六级",
+                    "考研",
+                    "考博",
+                    "雅思"
+                ]
+            },
+            "detail": {
+                "synonym": [
+                    {
+                        "word_list": [
+                            "grace",
+                            "kindness"
+                        ],
+                        "pos": "n.",
+                        "mean": "礼貌；好意；恩惠"
+                    },
+                    {
+                        "word_list": [
+                            "red-carpet",
+                            "complaisant"
+                        ],
+                        "pos": "adj.",
+                        "mean": "殷勤的；被承认的；出于礼节的"
+                    }
+                ],
+                "antonym": [
+                    {
+                        "word_list": [
+                            "discourtesy"
+                        ],
+                        "pos": "",
+                        "mean": ""
+                    }
+                ],
+                "wordRootInfo": {
+                    "word_info_list": [
+                        {
+                            "word": "courteous",
+                            "pos_mean_info_list": [
+                                {
+                                    "pos": "adj.",
+                                    "mean": "有礼貌的；谦恭的"
+                                }
+                            ]
+                        },
+                        {
+                            "word": "courtly",
+                            "pos_mean_info_list": [
+                                {
+                                    "pos": "adj.",
+                                    "mean": "尊严而有礼貌的；奉承的；有宫廷气派的，威严的"
+                                }
+                            ]
+                        },
+                        {
+                            "word": "courteously",
+                            "pos_mean_info_list": [
+                                {
+                                    "pos": "adv.",
+                                    "mean": "有礼貌地；亲切地"
+                                }
+                            ]
+                        },
+                        {
+                            "word": "court",
+                            "pos_mean_info_list": [
+                                {
+                                    "pos": "n.",
+                                    "mean": "法院；球场；朝廷；奉承"
+                                },
+                                {
+                                    "pos": "vi.",
+                                    "mean": "求爱"
+                                },
+                                {
+                                    "pos": "vt.",
+                                    "mean": "招致（失败、危险等）；向…献殷勤；设法获得"
+                                }
+                            ]
+                        }
+                    ],
+                    "root_word": "court"
+                },
+                "word_group": [
+                    {
+                        "brief_definition": "由…提供；蒙…允许；由于；因为；作为…的结果",
+                        "phrase": "courtesy of",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "出于好意；出于礼貌",
+                        "phrase": "by courtesy",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "由…提供；蒙…允许；作为…的结果；因为；由于",
+                        "phrase": "by courtesy of",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "礼节性尊称；爵号",
+                        "phrase": "courtesy title",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "门控车室照明灯",
+                        "phrase": "courtesy light",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "普通的礼节；共同礼节",
+                        "phrase": "common courtesy",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "礼节性拜访",
+                        "phrase": "courtesy call",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "礼节性访问",
+                        "phrase": "courtesy visit",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "免费电话",
+                        "phrase": "courtesy phone",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "尊称；礼貌的称呼",
+                        "phrase": "courtesy titles",
+                        "pos": ""
+                    }
+                ],
+                "bilingual": [
+                    {
+                        "source": "She accepted the gift with <em>courtesy</em> and gratitude.",
+                        "target": "她带着礼貌和感激接受了礼物。",
+                        "url": ""
+                    },
+                    {
+                        "source": "His <em>courtesy</em> towards guests made him a popular host.",
+                        "target": "他对客人的礼貌使他成为受欢迎的主人。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Please extend the same <em>courtesy</em> to our new colleagues.",
+                        "target": "请对我们的新同事也表现出同样的礼貌。",
+                        "url": ""
+                    },
+                    {
+                        "source": "She showed great <em>courtesy</em> by holding the door open for others.",
+                        "target": "她通过为他人开门表现出了极大的礼貌。",
+                        "url": ""
+                    },
+                    {
+                        "source": "A little <em>courtesy</em> goes a long way in making a good impression.",
+                        "target": "一点点礼貌在留下好印象方面大有帮助。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Chivalry is not just about bravery, but also about <em>courtesy</em> and respect.",
+                        "target": "骑士精神不仅仅是关于勇敢，还包括礼貌和尊重。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Virtue and <em>courtesy</em> go hand in hand.",
+                        "target": "美德与礼貌携手并行。 美德便有礼貌。",
+                        "url": "www.xjishu.com"
+                    },
+                    {
+                        "source": "No. 12 is wanting in <em>courtesy</em>.",
+                        "target": "12号队员没有礼貌.",
+                        "url": "mip.xuexila.com"
+                    },
+                    {
+                        "source": "A slow <em>courtesy</em> is a dis<em>courtesy</em>.",
+                        "target": "迟来的礼貌就是失礼。",
+                        "url": "www.englisher.net"
+                    },
+                    {
+                        "source": "Common <em>courtesy</em> isn't so common.",
+                        "target": "平常的礼貌用语却并不那么平常。",
+                        "url": "e.yuwen.net"
+                    }
+                ]
+            },
+            "book": {
+                "yingyinNormal": [
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/0874ab49bec571fad2481e4608394e9f_8544.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/b861ce5a9ef19c3f7d97b55cb2d32994_3815.mp3",
+                        "isLavafox": true,
+                        "en": "You will do him the <em>courtesy</em> of listening to what he has to say.",
+                        "zh": "请礼貌地听他讲。",
+                        "videoNameZh": "《前目的地》",
+                        "videoNameEn": "《Predestination》",
+                        "url": "http://bisentence_movie.sogou.com/ae6568feeb758a152c8c8495cb165052_497cc739bb3a0aefe01aaa88fa17ca811e8a7c7e"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/886b76b0c552c22c57062be63cf27261_37722.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/38aa07e71af1203575d7867ecf1d92dd_46461.mp3",
+                        "isLavafox": true,
+                        "en": "And you are all so late, and you didn't even have the <em>courtesy</em> to call. Well, it's too late now.",
+                        "zh": "你们全部都迟到，而且连打电话告知的礼貌都没有。这已经来不及了。",
+                        "videoNameZh": "《老友记 第九季》",
+                        "videoNameEn": "《Friends Season 9》",
+                        "url": "http://bisentence_movie.sogou.com/8939c22845773101e3debe43b5f37e8d_7faba57ba4374a79ba5c64a49aa6c37cc664322d"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/886b76b0c552c22c57062be63cf27261_37722.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/5e8ff84c481be6b97f39c6c7d4d5afe1_69039.mp3",
+                        "isLavafox": true,
+                        "en": "So don't tell me this kissing this guy from work is a onetime thing. Okay? Because you've been out there in bars and on balconies for over a month now. And you don't even have the <em>courtesy</em> to tell me.",
+                        "zh": "所以别跟我说，你亲这个男同事只是一次而已，因为你又在酒吧，又在阳台上，已经一个多月了，而你根本就没有礼貌性地告诉我。",
+                        "videoNameZh": "《老友记 第九季》",
+                        "videoNameEn": "《Friends Season 9》",
+                        "url": "http://bisentence_movie.sogou.com/3c0ce102ea24eb6216427ba15376c5ec_7926053375a682d4cb3661bd757d3e4003c64e16"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/34d2d19c723ad11a5a6dcd6da67c9085_43190.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/37adc022d8781e1f844f077bf62a5540_57357.mp3",
+                        "isLavafox": true,
+                        "en": "And who are we to warrant any <em>courtesy</em>? Don't be difficult, Granny.",
+                        "zh": "就为了我们，何必讲礼数呢？别太刁难了，奶奶。",
+                        "videoNameZh": "《唐顿庄园 第四季》",
+                        "videoNameEn": "《Downton Abbey Season 4》",
+                        "url": "http://bisentence_movie.sogou.com/ccfacd538a398f69c1cd7cdf50b6e7a5_f15d69e19118a07cf209eee3f3b1c0a66a603cc2"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/b630caafa2606557856da7a333933a5d_54182.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/8e77a9612f9fcdb0804d5b5abee38317_21072.mp3",
+                        "isLavafox": true,
+                        "en": "I can see that. I was providing you with an alternative. A <em>courtesy</em> I was never offered in similar circumstances.",
+                        "zh": "我看得出来，只是给你另外一个选择而已，而且是之前从未在类似情况下提供过的恩惠。",
+                        "videoNameZh": "《生活大爆炸 第三季》",
+                        "videoNameEn": "《The Big Bang Theory Season 3》",
+                        "url": "http://bisentence_movie.sogou.com/98079f2b1f97043e3a4eabce52067b4e_9cca57b47a402146ae0b9c6b946a823d853b079b"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/368277e4523e7b27b12887e16057df56_64015.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/bc8461558d84b6334f7c32ee94b94371_26026.mp3",
+                        "isLavafox": true,
+                        "en": "All righty. Some non-affect hesitation. Little cognitive D. And a fuck load of aggression, <em>courtesy</em> of those morons in narrative.",
+                        "zh": "我来看看，有一些不影响运行的口吃，有点认知失调，存在大量的攻击性，用来应对故事线里那些白痴。",
+                        "videoNameZh": "《西部世界 第一季》",
+                        "videoNameEn": "《Westworld Season 1》",
+                        "url": "http://bisentence_movie.sogou.com/7545d27308a51bdb4874af1dbc98b3af_2c57dd9226ca45f806bf829e4f323a303627dcff"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/8005d54b57fe04f26a670220f9323bc7_59749.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/7476e4c3473653fb9b82ecb7fc4d6f05_3733.mp3",
+                        "isLavafox": true,
+                        "en": "Well, allowing for the entirely pointless <em>courtesy</em> of headroom, I'd say this coffin is intended for someone of about five foot four. Makes it more likely to be a woman.",
+                        "zh": "算上完全没用的礼节性头上空间，这具棺材应该是 为1.64米左右的人准备的。那就更可能是名女性。",
+                        "videoNameZh": "《神探夏洛克 第四季》",
+                        "videoNameEn": "《Sherlock Season 4》",
+                        "url": "http://bisentence_movie.sogou.com/df4ffcad89dfe30f82a260979f21682d_90986f28aaec5c1f8841d0867eb354ef43de3250"
+                    }
+                ]
+            },
+            "pic": "",
+            "voice": {
+                "phonetic": [
+                    {
+                        "text": "ˈkɜːtəsi",
+                        "type": "uk",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/11831_courtesy_uk.mp3"
+                    },
+                    {
+                        "text": "ˈkɜːrtəsi",
+                        "type": "usa",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/11831_courtesy_usa.mp3"
+                    }
+                ]
+            },
+            "dictType": "oxford_buchong",
+            "kaoyan": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 0,
+                        "pos": "n",
+                        "chinese": "有礼的举止",
+                        "sense_tier_ratio": 0
+                    },
+                    {
+                        "sense_tier": 0,
+                        "pos": "n",
+                        "chinese": "好意; 恩惠",
+                        "sense_tier_ratio": 0
+                    }
+                ],
+                "word": "courtesy",
+                "direction_info": {
+                    "ranges": 12,
+                    "description": "数据源自2012-2023年12年间全国考研试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2012-2023年全国考研英语一和考研英语二共24套考研试卷，包括阅读、完型填空、翻译、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选全国考研考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2012-2023年12年间全国考研英语一和考研英语二试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 1,
+                "word_family": {
+                    "derivative_info_list": [
+                        {
+                            "derivative_info_list": [],
+                            "word": "courtesy",
+                            "mean": "n. 礼貌；有礼貌；谦恭；谦恭有礼的言语；免费的；屈膝礼"
+                        },
+                        {
+                            "derivative_info_list": [],
+                            "word": "courtship",
+                            "mean": "n. 求爱期；求婚期；求爱；求婚；奉承；取悦；求偶"
+                        }
+                    ],
+                    "word": "court",
+                    "mean": "n. 全体法官；法院；法庭；审判庭；球场；朝臣；侍臣；董事；理事；宫廷"
+                },
+                "total_exam_freq": 0,
+                "sense": {
+                    "sense_num": 2,
+                    "sense_info_list": [
+                        {
+                            "synonyms": "",
+                            "en": "",
+                            "zh": "有礼的举止",
+                            "pos": "n",
+                            "antonyms": ""
+                        },
+                        {
+                            "synonyms": "",
+                            "en": "",
+                            "zh": "好意; 恩惠",
+                            "pos": "n",
+                            "antonyms": ""
+                        }
+                    ]
+                }
+            },
+            "CET6": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 0,
+                        "pos": "n",
+                        "chinese": "谦恭有礼",
+                        "sense_tier_ratio": 0
+                    },
+                    {
+                        "sense_tier": 0,
+                        "pos": "n",
+                        "chinese": "有礼貌的举止(或言辞)",
+                        "sense_tier_ratio": 0
+                    }
+                ],
+                "word": "courtesy",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2016.6-2023.6年8年间全六级试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight>考纲释义</highlight>\n精选实考、考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2016-2023年51套试卷，包括阅读、听力、翻译等所有题型。\n\n<highlight>真题例句</highlight>\n精选2016-2023年8年间全六级试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 1,
+                "word_family": {
+                    "derivative_info_list": [
+                        {
+                            "derivative_info_list": [],
+                            "word": "courtesy",
+                            "mean": "n. 礼貌；有礼貌；谦恭；谦恭有礼的言语；免费的；屈膝礼"
+                        }
+                    ],
+                    "word": "court",
+                    "mean": "n. 全体法官；法院；法庭；审判庭；球场；朝臣；侍臣；董事；理事；宫廷"
+                },
+                "total_exam_freq": 0,
+                "sense": {
+                    "sense_num": 2,
+                    "sense_info_list": [
+                        {
+                            "synonyms": "",
+                            "en": "",
+                            "zh": "谦恭有礼",
+                            "pos": "n",
+                            "antonyms": ""
+                        },
+                        {
+                            "synonyms": "",
+                            "en": "",
+                            "zh": "有礼貌的举止(或言辞)",
+                            "pos": "n",
+                            "antonyms": ""
+                        }
+                    ]
+                }
+            },
+            "sentencesData": {
+                "status": 1,
+                "info": "notZh2En",
+                "data": {}
+            },
+            "isAutoMatch": false,
+            "Zh2En": false
+        },
+        "query": "courtesy",
+        "result": "礼貌",
+        "tabSelect": "detail",
+        "dictionaryType": "oxford_buchong",
+        "notFound_show": false,
+        "phoneticShow": "",
+        "globalShowTranslateRecord": "",
+        "pronPrefer": {
+            "type": "usa_1",
+            "speaker": "male",
+            "speed": "standard"
+        },
+        "ServerRecord": "",
+        "ServerUIGS": {
+            "version": "new",
+            "type": "all",
+            "stype": "success",
+            "terminal": "web",
+            "fr": "default",
+            "direction": "etoz",
+            "from": "en",
+            "to": "zh-CHS",
+            "len": 8,
+            "qtype": "text",
+            "qctype": "qc_1",
+            "dict_cover": 1,
+            "detail": 1,
+            "wordCardCover": 1,
+            "wordCardEn": 1,
+            "wordCardCh": 0,
+            "wordCardMinor": 0,
+            "wordCardNetmean": 0,
+            "wordDeform": 1,
+            "keyword": 0,
+            "bilingual": 1,
+            "simple": 0,
+            "levelList": 1,
+            "synonym": 1,
+            "antonym": 1,
+            "conjugate": 1,
+            "rootaffix": 0,
+            "baike_sogou": 0,
+            "baike_wiki": 0,
+            "wordDifference": 0,
+            "word_phrase": 1,
+            "secondQuery": 0,
+            "dict_oxford": 0,
+            "dict_newcentury": 0,
+            "zhongkaotab": 0,
+            "gaokaotab": 0,
+            "CET4tab": 0,
+            "CET6tab": 1,
+            "kaoyantab": 1,
+            "network_tab": 0,
+            "yinying_tab": 1,
+            "tuozhan_tab": 0,
+            "one_pic": 0,
+            "more_pic": 0,
+            "no_pic": 0,
+            "uuid": "4320d85e-ecc2-42c8-95cc-09ef38bb8cf7",
+            "from_type": 0,
+            "t_trans_ssr": 171
+        },
+        "ServerModelUIGS": {
+            "terminal": "web",
+            "type": "trans_model",
+            "pbtype": "pv",
+            "model_general": 1,
+            "model_medical": 1,
+            "model_finance": 1
+        },
+        "ServerSgtkn": "65B5E39E3DF19F353E3B16FF27B275B53E2F9A6767559CFA",
+        "suggShow": false,
+        "suggestion": "",
+        "suggDirection": "",
+        "usualTop": "",
+        "baseDict": "",
+        "wordCardClick": false,
+        "isFrInput": false,
+        "kanaTips": {
+            "show": false,
+            "left": "",
+            "top": "",
+            "type": "",
+            "arrowLeft": ""
+        },
+        "currSentenceIndex": -1,
+        "prefixStrObj": {
+            "prefixStr": "",
+            "oriPrefixStr": ""
+        },
+        "selectTransBox": {
+            "show": false,
+            "right": 0,
+            "top": 0,
+            "paraphraseInfo": {
+                "word": "",
+                "from": "",
+                "to": "",
+                "area": ""
+            }
+        },
+        "sentenceLoading": false,
+        "newSentenceInfo": {
+            "sentence": "",
+            "candidateIndex": 0
+        },
+        "moreTipInfo": {
+            "opacity": 0,
+            "zIndex": -1
+        },
+        "paraphraseShowInfo": {
+            "card": 0,
+            "query": "",
+            "card_dict": 0
+        },
+        "selectType": "",
+        "wordPos": 0,
+        "candidateWord": "",
+        "syntaxVisible": false,
+        "syntaxStatus": 0
+    },
+    "language": {
+        "from": "auto",
+        "to": "zh-CHS",
+        "detect": "en",
+        "model": "general",
+        "detectShow": false,
+        "langMap": {
+            "current": ""
+        },
+        "zh2en": false,
+        "fromItemList": [
+            {
+                "lang": "auto",
+                "text": "自动检测",
+                "play": false
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "ar",
+                "text": "阿拉伯语",
+                "play": true,
+                "dir": "rtl",
+                "abbr": "阿"
+            },
+            {
+                "lang": "fr",
+                "text": "法语",
+                "play": true,
+                "abbr": "法"
+            },
+            {
+                "lang": "ko",
+                "text": "韩语",
+                "play": true,
+                "abbr": "韩"
+            }
+        ],
+        "toItemList": [
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "ko",
+                "text": "韩语",
+                "play": true,
+                "abbr": "韩"
+            },
+            {
+                "lang": "vi",
+                "text": "越南语",
+                "play": true,
+                "abbr": "越"
+            },
+            {
+                "lang": "tr",
+                "text": "土耳其语",
+                "play": false,
+                "abbr": "土"
+            }
+        ]
+    },
+    "voice": {
+        "from": {
+            "lang": "en",
+            "type": "from",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22courtesy%22%2C%22spokenDialect%22%3A%22en%22%2C%22rate%22%3A%220.8%22%7D",
+            "list": [
+                {
+                    "type": "uk_0",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "ˈkɜːtəsi",
+                    "abbr": "英",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/11831_courtesy_uk.mp3"
+                },
+                {
+                    "type": "usa_1",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "ˈkɜːrtəsi",
+                    "abbr": "美",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/11831_courtesy_usa.mp3"
+                }
+            ],
+            "stype": "phonetic",
+            "phoneticShow": [
+                {
+                    "text": "ˈkɜːtəsi",
+                    "type": "uk",
+                    "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/11831_courtesy_uk.mp3"
+                },
+                {
+                    "text": "ˈkɜːrtəsi",
+                    "type": "usa",
+                    "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/11831_courtesy_usa.mp3"
+                }
+            ]
+        },
+        "to": {
+            "lang": "zh",
+            "type": "to",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22%E7%A4%BC%E8%B2%8C%22%2C%22spokenDialect%22%3A%22zh-CHS%22%2C%22rate%22%3A%220.8%22%7D",
+            "stype": "normal"
+        }
+    }
+}

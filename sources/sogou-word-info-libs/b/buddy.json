@@ -1,0 +1,960 @@
+{
+    "route": {
+        "name": "text",
+        "path": "/text",
+        "hash": "",
+        "query": {
+            "keyword": "buddy",
+            "transfrom": "auto",
+            "transto": "zh-CHS",
+            "model": "general",
+            "errcode": "s10"
+        },
+        "params": {},
+        "fullPath": "/text?keyword=buddy&transfrom=auto&transto=zh-CHS&model=general&errcode=s10",
+        "meta": {
+            "mtype": [
+                "textTranslate",
+                "language",
+                "voice"
+            ]
+        },
+        "from": {
+            "name": null,
+            "path": "/",
+            "hash": "",
+            "query": {},
+            "params": {},
+            "fullPath": "/",
+            "meta": {}
+        }
+    },
+    "common": {
+        "CONFIG": {
+            "wuid": 1733663196211,
+            "loginInfo": {},
+            "isIE": 0,
+            "isHitSsrSwitch": true,
+            "isHitWritebookSwitch": false,
+            "isHitAmsSwitch": true,
+            "promotionList": "{\n    \"pc_bottom\":{\n        \"imgsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\",\n        \"qcsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\"\n    },\n    \"pc_middle\":[\n        {\n            \"src\":\"//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c\",\n            \"bgColor\":\"#ffffff\",\n            \"link\":\"\"\n        }\n    ],\n    \"pc_survey\":{\n        \"icon\":\"//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750\",\n        \"link\":\"https://wj.qq.com/s2/8193148/806d/\"\n    }\n}",
+            "bannerData": [],
+            "isHitAsideSurvey": false,
+            "secretCode": 109984457,
+            "uuid": "0dbb6dbb-0dec-4787-8ae6-6b54822e406e",
+            "referer": "",
+            "approveToken": "65AE4DDAA6530294A0A6885E4A58C3F0A0F5AE83675599DC",
+            "loadTime": 1733663196213,
+            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0",
+            "fcp": "159.65.124.238",
+            "temporaryId": "",
+            "fileId": ""
+        },
+        "hotWords": [],
+        "isFromCollect": false,
+        "psdModify": {
+            "currentStep": 1,
+            "scode": "",
+            "username": ""
+        },
+        "loginStatus": true,
+        "feedBackModule": false,
+        "showPromotionPopup": {
+            "show": false,
+            "type": ""
+        },
+        "showPromotionPCDownload": false,
+        "showShareBomb": false,
+        "shareData": null,
+        "showAppDownLoad": false,
+        "showLoginDialog": false,
+        "showLoading": {
+            "show": false
+        },
+        "toast": {
+            "show": false,
+            "text": "",
+            "loading": false
+        },
+        "modelToast": {
+            "show": false,
+            "text": ""
+        },
+        "selectionGlobalShow": true,
+        "selectionInfo": {
+            "left": 0,
+            "top": 0,
+            "show": false,
+            "from": "",
+            "to": "",
+            "val": "",
+            "area": ""
+        },
+        "showConfirmDialog": false,
+        "promotionList": {
+            "pc_bottom": {
+                "imgsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png",
+                "qcsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png"
+            },
+            "pc_middle": [
+                {
+                    "src": "//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c",
+                    "bgColor": "#ffffff",
+                    "link": ""
+                }
+            ],
+            "pc_survey": {
+                "icon": "//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750",
+                "link": "https://wj.qq.com/s2/8193148/806d/"
+            }
+        },
+        "transTypeTxt": "text",
+        "fixedTabStatus": 0,
+        "bodyTop": 0,
+        "ifHideUserOperation": false
+    },
+    "textTranslate": {
+        "prevTransQuery": "",
+        "translateData": {
+            "translate": {
+                "zly": "zly",
+                "errorCode": "0",
+                "qc_type": "1",
+                "index": "content0",
+                "from": "en",
+                "source": "sogou",
+                "text": "buddy",
+                "to": "zh-CHS",
+                "id": "0dbb6dbb-0dec-4787-8ae6-6b54822e406e",
+                "dit": "好朋友",
+                "orig_text": "buddy",
+                "md5": ""
+            },
+            "detect": {
+                "zly": "zly",
+                "detect": "en",
+                "errorCode": "0",
+                "language": "英语",
+                "id": "41360b80-b565-11ef-84da-71f081b4cdac",
+                "text": "buddy"
+            },
+            "sgtkn": "65AE4DE4A6530294A0A6885E4A58C3F0A0F5AE83675599DC",
+            "wordCard": {
+                "title": "buddy",
+                "show": true,
+                "usualDict": [
+                    {
+                        "values": [
+                            "朋友；好友；密友；伙伴；同伴；搭档；同事；战友；同志；兄弟；伙计"
+                        ],
+                        "pos": "n."
+                    },
+                    {
+                        "values": [
+                            "<美>（buddy up）交往；结交；交朋友；做伙伴；做好朋友；友好相处；成为伙伴"
+                        ],
+                        "pos": "v."
+                    }
+                ],
+                "secondQuery": "",
+                "exchange": {
+                    "word_third": [
+                        "buddies"
+                    ],
+                    "word_ing": [
+                        "buddying"
+                    ],
+                    "word_done": [
+                        "buddied"
+                    ],
+                    "word_pl": [
+                        "buddies"
+                    ],
+                    "word_past": [
+                        "buddied"
+                    ]
+                },
+                "levelList": [
+                    "初中",
+                    "四级",
+                    "托福"
+                ]
+            },
+            "detail": {
+                "synonym": [
+                    {
+                        "word_list": [
+                            "partner",
+                            "comrade",
+                            "familiar",
+                            "mates"
+                        ],
+                        "pos": "n.",
+                        "mean": "伙伴，好朋友；密友；小男孩"
+                    },
+                    {
+                        "word_list": [
+                            "make friends"
+                        ],
+                        "pos": "vi.",
+                        "mean": "做好朋友，交朋友"
+                    }
+                ],
+                "word_group": [
+                    {
+                        "brief_definition": "伙伴制；结伴制",
+                        "phrase": "buddy system",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "友情片",
+                        "phrase": "buddy movie",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "好友列表；好友名单",
+                        "phrase": "buddy list",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "大学好友；大学同学",
+                        "phrase": "college buddy",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "伙伴电影；搭档片；难兄难弟式电影",
+                        "phrase": "buddy film",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "外地的好友；异地好友；外地朋友",
+                        "phrase": "out-of-town buddy",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "保龄球友",
+                        "phrase": "bowling buddy",
+                        "pos": ""
+                    }
+                ],
+                "bilingual": [
+                    {
+                        "source": "So, as his <em>buddy</em>, I encourage him.",
+                        "target": "所以，作为他的伙伴，我鼓励他。",
+                        "url": ""
+                    },
+                    {
+                        "source": "In Japanese aibou means \"<em>buddy</em>\".",
+                        "target": "在日语中，\"aibo\"的意思是伙伴。",
+                        "url": ""
+                    },
+                    {
+                        "source": "At the moment, I am a <em>buddy</em> for an eleven-year-old boy called Tom.",
+                        "target": "目前，我是一个叫汤姆的11岁男孩的伙伴。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Bell Canada called their mentoring system a <em>buddy-</em><em>buddy</em> system.",
+                        "target": "加拿大贝尔公司称他们的训导系统是伙伴—伙伴系统。",
+                        "url": "wenku.baidu.com"
+                    },
+                    {
+                        "source": "And she has a new workout <em>buddy</em>.",
+                        "target": "而且她有了个新伙伴。",
+                        "url": "dict.youdao.com"
+                    },
+                    {
+                        "source": "Grow up weekly magazine , beloved <em>buddy</em>!",
+                        "target": "成长周刊，我的伙伴！",
+                        "url": "dict.cn"
+                    },
+                    {
+                        "source": "Hey , woodwind <em>buddy</em> ! come sit next to me.",
+                        "target": "嘿，木管伙伴！做到我旁边来。",
+                        "url": "www.ichacha.net"
+                    },
+                    {
+                        "source": "He must mean his old <em>buddy</em> the bean plant.",
+                        "target": "他肯定在说他的老伙伴——那株豌豆。",
+                        "url": "www.youdao.com"
+                    },
+                    {
+                        "source": "Oscar is really cute, hes my little <em>buddy</em>!",
+                        "target": "奥斯卡真的很机灵，他是我的小伙伴！",
+                        "url": "dict.youdao.com"
+                    },
+                    {
+                        "source": "Step 3: Put together a targeted Career <em>Buddy</em> group.",
+                        "target": "方法3：加入事业伙伴小组。",
+                        "url": "www.hjenglish.com"
+                    }
+                ],
+                "baike": {
+                    "showMore": false,
+                    "list": [
+                        {
+                            "lemmaTitle": "Buddy",
+                            "link": "https://baike.sogou.com/v91872.htm?ch=sogou.fanyi",
+                            "abstract": "来自马来西亚的Buddy组合，是两个平均年龄30岁的阳光男孩，也是继孙燕姿、黄义达之后，金牌音乐制作人李伟菘、李偲菘全力打造的第三代弟子！他们此次携专辑《大明星》进军内地，有特有的大马式风情。",
+                            "wapPic": "//img03.sogoucdn.com/v2/thumb/retype_exclude_gif/ext/auto/q/80/crop/xy/ai/w/140/h/140/resize/w/140?appid=201005&sign=8c45a519203e23b727c606266174045b&url=https%3A%2F%2Fpic.baike.soso.com%2Fugc%2Fbaikepic2%2F14345%2F20220416220821-843366006_png_669_446_393087.jpg%2F0",
+                            "pcPic": "//img04.sogoucdn.com/v2/thumb/retype_exclude_gif/ext/auto/q/80/crop/xy/ai/w/140/h/140/resize/w/140?appid=201005&sign=8c45a519203e23b727c606266174045b&url=https%3A%2F%2Fpic.baike.soso.com%2Fugc%2Fbaikepic2%2F14345%2F20220416220821-843366006_png_669_446_393087.jpg%2F0"
+                        },
+                        {
+                            "lemmaTitle": "Buddy",
+                            "link": "https://baike.sogou.com/v106411626.htm?ch=sogou.fanyi",
+                            "abstract": "Buddy是一款非常炫目的狗狗项圈，内置LED灯可以发出不同颜色的光线，让狗狗成为焦点。它内置了GPS、运动及稳定传感器，可以实现狗狗运动量监测。",
+                            "wapPic": "//img04.sogoucdn.com/v2/thumb/retype_exclude_gif/ext/auto/q/80/crop/xy/ai/w/140/h/140/resize/w/140?appid=201005&sign=44e92bcea937fab4cf3c7144fdb84dff&url=https%3A%2F%2Fpic.baike.soso.com%2Fugc%2Fbaikepic2%2F911%2F20220512215924-555718610_jpeg_403_298_12901.jpg%2F0",
+                            "pcPic": "//img04.sogoucdn.com/v2/thumb/retype_exclude_gif/ext/auto/q/80/crop/xy/ai/w/140/h/140/resize/w/140?appid=201005&sign=44e92bcea937fab4cf3c7144fdb84dff&url=https%3A%2F%2Fpic.baike.soso.com%2Fugc%2Fbaikepic2%2F911%2F20220512215924-555718610_jpeg_403_298_12901.jpg%2F0"
+                        }
+                    ]
+                }
+            },
+            "book": {
+                "yingyinNormal": [
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/f9cf90b2f80fc9b4d2968cd441a42c77_36232.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/16f107cc440932025e2ca73691345001_45557.mp3",
+                        "isLavafox": true,
+                        "en": "Dad, this is Gabriella Montez. Ah, your detention <em>buddy</em>.",
+                        "zh": "爸爸，这是盖比瑞拉.蒙兹，你留校的伙伴。",
+                        "videoNameZh": "《歌舞青春》",
+                        "videoNameEn": "《High School Musical》",
+                        "url": "http://bisentence_movie.sogou.com/11fd216b8bac48ed0b3d3d919f23366d_c90b5cebd768eff7fc764da418ce038b0e67774f"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/ae9d6f2f04858f0af8517ff08116148e_6738.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/096c6187e03bd3c1cf6d92ca34a68690_76254.mp3",
+                        "isLavafox": true,
+                        "en": "Okay, single file, everybody! Choo choo! Everybody find a safety <em>buddy</em>. My safety <em>buddy</em> is Maya.",
+                        "zh": "好了同学们，排成一列，每人找一个安全伙伴，我的安全伙伴是玛雅。",
+                        "videoNameZh": "《女孩成长记 第三季》",
+                        "videoNameEn": "《Girl Meets World Season 3》",
+                        "url": "http://bisentence_movie.sogou.com/4b290aca41ea656520d3f172005ce494_6e3879a0d67d57ce2bc6443de30094198284fdeb"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/aa7a748a86497e02e2b0a5098f3017b8_12619.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/8dbe2e7f7c27f7428c946d4f9c0ad238_44242.mp3",
+                        "isLavafox": true,
+                        "en": "It'd be an honor to run for president. Thank you, Riley. My pleasure, <em>buddy</em>.",
+                        "zh": "我很荣幸参选总统，谢谢你，莱丽。不客气，小伙伴。",
+                        "videoNameZh": "《女孩成长记 第一季》",
+                        "videoNameEn": "《Girl Meets World Season 1》",
+                        "url": "http://bisentence_movie.sogou.com/910dd085bb03676ca5f519c8ee82fefb_4cc723e8faef23169407af6820d061860701f78b"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/8b3da16ecbe350aacc1a7e4a01d210bc_49869.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/561ef74e0b495a590003fe346458d171_51122.mp3",
+                        "isLavafox": true,
+                        "en": "Why does it have to be about anything? Can't a fella ask his <em>buddy</em> to relocate, no questions asked?",
+                        "zh": "为什么就一定要有原因吗？一个人请求他的伙伴搬家就不能毫无疑问地走吗？",
+                        "videoNameZh": "《生活大爆炸 第四季》",
+                        "videoNameEn": "《The Big Bang Theory Season 4》",
+                        "url": "http://bisentence_movie.sogou.com/f7ec68323ff469a8e11cb4ff9a4cf364_07664142b18241f2512c2406a7b02e4e88ad9d27"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/b6871753bac5738b5d523cab5247cac2_31186.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/95f6e12786f645420db04e2a399d7493_24504.mp3",
+                        "isLavafox": true,
+                        "en": "Expelled? Yeah, we really messed up. So, you're leaving? Yeah, <em>buddy</em>. We have to go. Harsh, man.",
+                        "zh": "退学？对，我们真的搞砸了。所以你们要离开了？对，伙伴，我们要走了。好严厉。",
+                        "videoNameZh": "《怪兽大学》",
+                        "videoNameEn": "《Monsters University》",
+                        "url": "http://bisentence_movie.sogou.com/6800490094b05b8bf5a36e0537838352_0d0ab869812ee1c135ecf2ab661d29a04ef45517"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/39e50807a5a1191398262e04787ff184_62485.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/e95e9f880096444bef6f773a4812a97c_30694.mp3",
+                        "isLavafox": true,
+                        "en": "Hello. Oh, hey, <em>buddy</em>. <em>Buddy</em>?",
+                        "zh": "你们好啊。嘿，老弟。老弟。",
+                        "videoNameZh": "《生活大爆炸 第一季》",
+                        "videoNameEn": "《The Big Bang Theory Season 1》",
+                        "url": "http://bisentence_movie.sogou.com/5927bf6528ad12f19bcac2f4d20fec64_17a764a5628847ff584c9e054a685cec4f41eddd"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/aa7a748a86497e02e2b0a5098f3017b8_12619.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/08321ca92681f4f1e7a1584d2cbfecc3_71326.mp3",
+                        "isLavafox": true,
+                        "en": "You got this, <em>buddy</em>. You got this, <em>buddy</em>.",
+                        "zh": "你会明白的，哥们儿。你会明白的，姐们儿。",
+                        "videoNameZh": "《女孩成长记 第一季》",
+                        "videoNameEn": "《Girl Meets World Season 1》",
+                        "url": "http://bisentence_movie.sogou.com/ba3f2b36b077b31ab510907a0ae0af56_63259f1ed3e516c0d048f5cf975e626c76816786"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/6a0f1af500949aabdf79e8935d4a7230_22265.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/308b1b4a02ca4f8f26ba7a8050364945_25398.mp3",
+                        "isLavafox": true,
+                        "en": "Hey <em>buddy</em>. How's it going?",
+                        "zh": "兄弟，你还好吗？",
+                        "videoNameZh": "《老友记 第四季》",
+                        "videoNameEn": "《Friends Season 4》",
+                        "url": "http://bisentence_movie.sogou.com/2e4d3e2b66ed9d24d2dd6d8c2db9bfc4_a40e5f3b1235298c0c7944a5d76621c1f83291ee"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/8a5b25dfe5e482fce849895959f35aba_1648.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/1e1b62127cf98fd689693f1f6a800296_1628.mp3",
+                        "isLavafox": true,
+                        "en": "All right <em>buddy</em>, way to go.",
+                        "zh": "干得好。",
+                        "videoNameZh": "《老友记 第三季》",
+                        "videoNameEn": "《Friends Season 3》",
+                        "url": "http://bisentence_movie.sogou.com/19fff8df278c7195f8d388d4da17a5ba_28ef30ebee65c480617f0f32a815e501dc670172"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/649fb0da5e02febcad57f332efe07876_46469.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/a69c0702e82e8e85e6d57707ec4d2901_44932.mp3",
+                        "isLavafox": true,
+                        "en": "<em>Buddy</em>, my monkey, my monkey.",
+                        "zh": "兄弟，我的猴子呢？",
+                        "videoNameZh": "《老友记 第二季》",
+                        "videoNameEn": "《Friends Season 2》",
+                        "url": "http://bisentence_movie.sogou.com/abeaf52e5405a6ee0f1eda3e0729723f_ea10b13b1b109707b1ae1d3e03a8c641dc94431c"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/801dfe77494721a1ea27b2da97ba5878_52038.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/92924f198caceb06ac69463bf61b9604_3739.mp3",
+                        "isLavafox": true,
+                        "en": "Hey, I'll take this, <em>buddy</em>. Okay.",
+                        "zh": "我帮你处理箱子，朋友。谢了。",
+                        "videoNameZh": "《白日梦想家》",
+                        "videoNameEn": "《The Secret Life of Walter Mitty》",
+                        "url": "http://bisentence_movie.sogou.com/fcb3c833a1dda512b200251851107ee8_f8c6c2c42e7f6c5fc9e3a3774a500f0cbf7e12dc"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/649fb0da5e02febcad57f332efe07876_46469.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/79220b02744f6a82ff33d5798300d01b_34889.mp3",
+                        "isLavafox": true,
+                        "en": "<em>Buddy</em>, my monkey? Oh, yeah, right.",
+                        "zh": "兄弟，我的猴子呢？对了…",
+                        "videoNameZh": "《老友记 第二季》",
+                        "videoNameEn": "《Friends Season 2》",
+                        "url": "http://bisentence_movie.sogou.com/19037fc7c23a07a9f336dd68c697f489_c365167256cb17db7412ebbd552d37fba2420d65"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/a86e6e98cc64448e528c65f2085efa0f_30194.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/7d4db09c57276d0ac9af6d00ed5e9336_73902.mp3",
+                        "isLavafox": true,
+                        "en": "Oh, yes! Nine! Welcome back, <em>buddy</em>.",
+                        "zh": "好的! 九个!欢迎回来，朋友。",
+                        "videoNameZh": "《生活大爆炸 第7季》",
+                        "videoNameEn": "《The Big Bang Theory Season 7》",
+                        "url": "http://bisentence_movie.sogou.com/31cff5d67ef75d04f2d71bc645c2876b_1f207c1cf917431cb7d37400264cbb1e1155f76c"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/29e628c900108a6f7c89f9ad092fffba_60452.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/fbd9b55e2092b56c77c7eee0b5830450_69404.mp3",
+                        "isLavafox": true,
+                        "en": "Hey, <em>buddy</em>. No, no, no, I got time.",
+                        "zh": "嘿，伙计，不，不，我现在有空。",
+                        "videoNameZh": "《重返十七岁》",
+                        "videoNameEn": "《17 Again》",
+                        "url": "http://bisentence_movie.sogou.com/16b80130196211a373f827bb16ad3b02_7959e1a46fd46a6902b562ab34c4a83f69c44ded"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/7527e2a9ec38f59ad126037938e4289c_52101.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/e76e345f5d96f719587788637995ca8d_22422.mp3",
+                        "isLavafox": true,
+                        "en": "You're welcome <em>buddy</em>. Yeah, thanks.",
+                        "zh": "别客气，兄弟。对，谢谢。",
+                        "videoNameZh": "《老友记 第八季》",
+                        "videoNameEn": "《Friends Season 8》",
+                        "url": "http://bisentence_movie.sogou.com/a44062765088aa869fbbaf37fc914b4d_1246f358ca1f42a629d5324d31282a7d02709e0d"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/d67496d18ec93ce1f31c004316546728_12072.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/faeabdc184e675243cf5dfa1b7af3d09_301.mp3",
+                        "isLavafox": true,
+                        "en": "I got it. I got it, <em>buddy</em>. I got it.",
+                        "zh": "我明白了，我明白了，孩子，我懂了。",
+                        "videoNameZh": "《房间》",
+                        "videoNameEn": "《Room》",
+                        "url": "http://bisentence_movie.sogou.com/95a87c4f26e2dbd298653b938e5ca2b8_fc229ba6627408b67da1173646cdd73a12990462"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/21d26cfef0cd26f0813072491b08dd5a_57364.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/a73142f7108d57b704a92d0fb6cf1c53_37171.mp3",
+                        "isLavafox": true,
+                        "en": "Keep going, <em>buddy</em>, you're doing great.",
+                        "zh": "继续吧兄弟，我看好你哦。",
+                        "videoNameZh": "《生活大爆炸 第六季》",
+                        "videoNameEn": "《The Big Bang Theory Season 6》",
+                        "url": "http://bisentence_movie.sogou.com/16758f785a65a8ac76a7a9bc0ac4d7fc_348ef14dc86f9df2c407b84948e5a99ecde8ff44"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/eb018cf49e3f89f3bef3ea53525e6ccf_56032.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/acba83822ffcaa804e6ca4b44c91aac8_5404.mp3",
+                        "isLavafox": true,
+                        "en": "I'm about to be your barf <em>buddy</em> right now.",
+                        "zh": "你现在就快把我说吐了。",
+                        "videoNameZh": "《生活大爆炸 第十二季》",
+                        "videoNameEn": "《The Big Bang Theory Season 12》",
+                        "url": "http://bisentence_movie.sogou.com/5e4fa9c71511ef8215919d57afaa102f_2e5df3185722e0e2cb508031822c87df7c41ac31"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/dfdc97c7eab31e173bc0bccd4824440f_23407.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/aa94026dbc063b0547f268428afa8158_20941.mp3",
+                        "isLavafox": true,
+                        "en": "Hello. Hey, <em>buddy</em>, can we have some privacy?",
+                        "zh": "你们在呀。伙计，你能回避一下吗？",
+                        "videoNameZh": "《生活大爆炸 第九季》",
+                        "videoNameEn": "《The Big Bang Theory Season 9》",
+                        "url": "http://bisentence_movie.sogou.com/4db5caef18b52bb740a58248ba659c25_30d0fd92f10a2e9188eec8ab72963228853c08f1"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/345831827db23c6dca86447206da99f3_25724.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/03e26deb3f4464d91ae6ef0289f88341_15308.mp3",
+                        "isLavafox": true,
+                        "en": "Congratulations, <em>buddy</em>. I'm so proud of you.",
+                        "zh": "恭喜你了，小弟，我为你感到骄傲。",
+                        "videoNameZh": "《女孩成长记 第二季》",
+                        "videoNameEn": "《Girl Meets World Season 2》",
+                        "url": "http://bisentence_movie.sogou.com/292bbb9a83854743e31af032808be443_56fa8ae3efd97b9b41b2d4fde4b08634210e330a"
+                    }
+                ]
+            },
+            "pic": "",
+            "voice": {
+                "phonetic": [
+                    {
+                        "text": "ˈbʌdi",
+                        "type": "uk",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/12152_buddy_uk.mp3"
+                    },
+                    {
+                        "text": "ˈbʌdi",
+                        "type": "usa",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/12152_buddy_usa.mp3"
+                    }
+                ]
+            },
+            "dictType": "oxford_buchong",
+            "CET4": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 4,
+                        "pos": "n",
+                        "chinese": "(Buddy)巴迪",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "buddy",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2016.6-2023.6年8年间全四级试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight>考纲释义</highlight>\n精选实考、考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2016-2023年51套试卷，包括阅读、听力、翻译等所有题型。\n\n<highlight>真题例句</highlight>\n精选2016-2023年8年间试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 1,
+                "total_exam_freq": 4,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "(Buddy)巴迪",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "<highlight>Buddy</highlight> was given a physical checkup when he arrived at Tokyo's International Airport.",
+                                    "month": 12,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "巴迪抵达东京国际机场时接受了身体检查。",
+                                    "year": 2021,
+                                    "type": "听力",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Stranger's dog waiting in <highlight>Buddy</highlight>'s place.",
+                                    "month": 12,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "陌生人的狗在巴迪的地方等着。",
+                                    "year": 2021,
+                                    "type": "听力",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "The dog owner's beloved 10-year-old dog named <highlight>Buddy</highlight> took an unexpected 16-hour flight to Tokyo following a mix-up by the airline.",
+                                    "month": 12,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "由于航空公司搞错了，狗主人心爱的10岁狗狗Buddy乘坐了16个小时的飞机，意外地飞到了东京。",
+                                    "year": 2021,
+                                    "type": "听力",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            "zhongkao": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 13,
+                        "pos": "n",
+                        "chinese": "伙伴; 好朋友",
+                        "sense_tier_ratio": 72.22
+                    },
+                    {
+                        "sense_tier": 5,
+                        "pos": "n",
+                        "chinese": "(Buddy)巴迪",
+                        "sense_tier_ratio": 27.78
+                    }
+                ],
+                "word": "buddy",
+                "direction_info": {
+                    "ranges": 4,
+                    "description": "数据源自2018-2021年4年间全国各省市中考试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2018-2021年全国重点省市中考试卷，包括听力、阅读、完形、单选、填空、改错、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选各省市考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2018-2021年4年间全国各省市中考试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 4,
+                "total_exam_freq": 18,
+                "sense": {
+                    "sense_num": 2,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "伙伴; 好朋友",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "Ally is a <highlight>buddy</highlight> for Clara, a kid with very few language skills.",
+                                    "month": -1,
+                                    "source": "郴州市卷",
+                                    "coll": "",
+                                    "sentence_trans": "阿利是克拉拉的好朋友，克拉拉是一个语言能力很差的孩子。",
+                                    "year": 2021,
+                                    "type": "短文填空",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "At the moment, I am a <highlight>buddy</highlight> for an eleven-year-old boy called Tom.",
+                                    "month": -1,
+                                    "source": "郴州市卷",
+                                    "coll": "",
+                                    "sentence_trans": "目前，我是一个叫汤姆的11岁男孩的伙伴。",
+                                    "year": 2021,
+                                    "type": "短文填空",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "So, as his <highlight>buddy</highlight>, I encourage him.",
+                                    "month": -1,
+                                    "source": "郴州市卷",
+                                    "coll": "",
+                                    "sentence_trans": "所以，作为他的伙伴，我鼓励他。",
+                                    "year": 2021,
+                                    "type": "短文填空",
+                                    "day": -1
+                                }
+                            ]
+                        },
+                        {
+                            "en": "",
+                            "zh": "(Buddy)巴迪",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "I love volunteering for <highlight>Buddy</highlight> Ball because I know I'm doing something meaningful!",
+                                    "month": -1,
+                                    "source": "郴州市卷",
+                                    "coll": "",
+                                    "sentence_trans": "我喜欢为Buddy Ball做志愿者，因为我知道我在做有意义的事情!",
+                                    "year": 2021,
+                                    "type": "短文填空",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "My best friend Ally and I spend a few hours of our time every week as volunteers for <highlight>Buddy</highlight> Ball.",
+                                    "month": -1,
+                                    "source": "郴州市卷",
+                                    "coll": "",
+                                    "sentence_trans": "我最好的朋友阿利和我每周花几个小时做Buddy Ball的志愿者。",
+                                    "year": 2021,
+                                    "type": "短文填空",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "In the film EI, <highlight>Buddy</highlight> is a naive person who grows up with elves.",
+                                    "month": -1,
+                                    "source": "安徽省卷",
+                                    "coll": "",
+                                    "sentence_trans": "在电影《EI》中，巴迪是一个和精灵一起长大的天真的人。",
+                                    "year": 2021,
+                                    "type": "阅读理解",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            "sentencesData": {
+                "status": 1,
+                "info": "notZh2En",
+                "data": {}
+            },
+            "isAutoMatch": false,
+            "Zh2En": false
+        },
+        "query": "buddy",
+        "result": "好朋友",
+        "tabSelect": "detail",
+        "dictionaryType": "oxford_buchong",
+        "notFound_show": false,
+        "phoneticShow": "",
+        "globalShowTranslateRecord": "",
+        "pronPrefer": {
+            "type": "usa_1",
+            "speaker": "male",
+            "speed": "standard"
+        },
+        "ServerRecord": "",
+        "ServerUIGS": {
+            "version": "new",
+            "type": "all",
+            "stype": "success",
+            "terminal": "web",
+            "fr": "default",
+            "direction": "etoz",
+            "from": "en",
+            "to": "zh-CHS",
+            "len": 5,
+            "qtype": "text",
+            "qctype": "qc_1",
+            "dict_cover": 1,
+            "detail": 1,
+            "wordCardCover": 1,
+            "wordCardEn": 1,
+            "wordCardCh": 0,
+            "wordCardMinor": 0,
+            "wordCardNetmean": 0,
+            "wordDeform": 1,
+            "keyword": 0,
+            "bilingual": 1,
+            "simple": 0,
+            "levelList": 1,
+            "synonym": 1,
+            "antonym": 0,
+            "conjugate": 0,
+            "rootaffix": 0,
+            "baike_sogou": 1,
+            "baike_wiki": 0,
+            "wordDifference": 0,
+            "word_phrase": 1,
+            "secondQuery": 0,
+            "dict_oxford": 0,
+            "dict_newcentury": 0,
+            "zhongkaotab": 1,
+            "gaokaotab": 0,
+            "CET4tab": 1,
+            "CET6tab": 0,
+            "kaoyantab": 0,
+            "network_tab": 0,
+            "yinying_tab": 1,
+            "tuozhan_tab": 0,
+            "one_pic": 0,
+            "more_pic": 0,
+            "no_pic": 0,
+            "uuid": "0dbb6dbb-0dec-4787-8ae6-6b54822e406e",
+            "from_type": 0,
+            "t_trans_ssr": 162
+        },
+        "ServerModelUIGS": {
+            "terminal": "web",
+            "type": "trans_model",
+            "pbtype": "pv",
+            "model_general": 1,
+            "model_medical": 1,
+            "model_finance": 1
+        },
+        "ServerSgtkn": "65AE4DE4A6530294A0A6885E4A58C3F0A0F5AE83675599DC",
+        "suggShow": false,
+        "suggestion": "",
+        "suggDirection": "",
+        "usualTop": "",
+        "baseDict": "",
+        "wordCardClick": false,
+        "isFrInput": false,
+        "kanaTips": {
+            "show": false,
+            "left": "",
+            "top": "",
+            "type": "",
+            "arrowLeft": ""
+        },
+        "currSentenceIndex": -1,
+        "prefixStrObj": {
+            "prefixStr": "",
+            "oriPrefixStr": ""
+        },
+        "selectTransBox": {
+            "show": false,
+            "right": 0,
+            "top": 0,
+            "paraphraseInfo": {
+                "word": "",
+                "from": "",
+                "to": "",
+                "area": ""
+            }
+        },
+        "sentenceLoading": false,
+        "newSentenceInfo": {
+            "sentence": "",
+            "candidateIndex": 0
+        },
+        "moreTipInfo": {
+            "opacity": 0,
+            "zIndex": -1
+        },
+        "paraphraseShowInfo": {
+            "card": 0,
+            "query": "",
+            "card_dict": 0
+        },
+        "selectType": "",
+        "wordPos": 0,
+        "candidateWord": "",
+        "syntaxVisible": false,
+        "syntaxStatus": 0
+    },
+    "language": {
+        "from": "auto",
+        "to": "zh-CHS",
+        "detect": "en",
+        "model": "general",
+        "detectShow": false,
+        "langMap": {
+            "current": ""
+        },
+        "zh2en": false,
+        "fromItemList": [
+            {
+                "lang": "auto",
+                "text": "自动检测",
+                "play": false
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "ko",
+                "text": "韩语",
+                "play": true,
+                "abbr": "韩"
+            },
+            {
+                "lang": "tr",
+                "text": "土耳其语",
+                "play": false,
+                "abbr": "土"
+            },
+            {
+                "lang": "th",
+                "text": "泰语",
+                "play": true,
+                "abbr": "泰"
+            }
+        ],
+        "toItemList": [
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "ko",
+                "text": "韩语",
+                "play": true,
+                "abbr": "韩"
+            },
+            {
+                "lang": "fr",
+                "text": "法语",
+                "play": true,
+                "abbr": "法"
+            },
+            {
+                "lang": "vi",
+                "text": "越南语",
+                "play": true,
+                "abbr": "越"
+            }
+        ]
+    },
+    "voice": {
+        "from": {
+            "lang": "en",
+            "type": "from",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22buddy%22%2C%22spokenDialect%22%3A%22en%22%2C%22rate%22%3A%220.8%22%7D",
+            "list": [
+                {
+                    "type": "uk_0",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "ˈbʌdi",
+                    "abbr": "英",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/12152_buddy_uk.mp3"
+                },
+                {
+                    "type": "usa_1",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "ˈbʌdi",
+                    "abbr": "美",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/12152_buddy_usa.mp3"
+                }
+            ],
+            "stype": "phonetic",
+            "phoneticShow": [
+                {
+                    "text": "ˈbʌdi",
+                    "type": "uk",
+                    "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/12152_buddy_uk.mp3"
+                }
+            ]
+        },
+        "to": {
+            "lang": "zh",
+            "type": "to",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22%E5%A5%BD%E6%9C%8B%E5%8F%8B%22%2C%22spokenDialect%22%3A%22zh-CHS%22%2C%22rate%22%3A%220.8%22%7D",
+            "stype": "normal"
+        }
+    }
+}

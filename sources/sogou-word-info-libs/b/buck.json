@@ -1,0 +1,984 @@
+{
+    "route": {
+        "name": "text",
+        "path": "/text",
+        "hash": "",
+        "query": {
+            "keyword": "buck",
+            "transfrom": "auto",
+            "transto": "zh-CHS",
+            "model": "general",
+            "errcode": "s10"
+        },
+        "params": {},
+        "fullPath": "/text?keyword=buck&transfrom=auto&transto=zh-CHS&model=general&errcode=s10",
+        "meta": {
+            "mtype": [
+                "textTranslate",
+                "language",
+                "voice"
+            ]
+        },
+        "from": {
+            "name": null,
+            "path": "/",
+            "hash": "",
+            "query": {},
+            "params": {},
+            "fullPath": "/",
+            "meta": {}
+        }
+    },
+    "common": {
+        "CONFIG": {
+            "wuid": 1733663191186,
+            "loginInfo": {},
+            "isIE": 0,
+            "isHitSsrSwitch": true,
+            "isHitWritebookSwitch": false,
+            "isHitAmsSwitch": true,
+            "promotionList": "{\n    \"pc_bottom\":{\n        \"imgsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\",\n        \"qcsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\"\n    },\n    \"pc_middle\":[\n        {\n            \"src\":\"//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c\",\n            \"bgColor\":\"#ffffff\",\n            \"link\":\"\"\n        }\n    ],\n    \"pc_survey\":{\n        \"icon\":\"//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750\",\n        \"link\":\"https://wj.qq.com/s2/8193148/806d/\"\n    }\n}",
+            "bannerData": [],
+            "isHitAsideSurvey": false,
+            "secretCode": 109984457,
+            "uuid": "407a0b30-8105-445d-a110-0d9aacbf24bc",
+            "referer": "",
+            "approveToken": "65AE40928B4E21888285AB43682838D38357B68B675599D7",
+            "loadTime": 1733663191188,
+            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0",
+            "fcp": "159.65.124.238",
+            "temporaryId": "",
+            "fileId": ""
+        },
+        "hotWords": [],
+        "isFromCollect": false,
+        "psdModify": {
+            "currentStep": 1,
+            "scode": "",
+            "username": ""
+        },
+        "loginStatus": true,
+        "feedBackModule": false,
+        "showPromotionPopup": {
+            "show": false,
+            "type": ""
+        },
+        "showPromotionPCDownload": false,
+        "showShareBomb": false,
+        "shareData": null,
+        "showAppDownLoad": false,
+        "showLoginDialog": false,
+        "showLoading": {
+            "show": false
+        },
+        "toast": {
+            "show": false,
+            "text": "",
+            "loading": false
+        },
+        "modelToast": {
+            "show": false,
+            "text": ""
+        },
+        "selectionGlobalShow": true,
+        "selectionInfo": {
+            "left": 0,
+            "top": 0,
+            "show": false,
+            "from": "",
+            "to": "",
+            "val": "",
+            "area": ""
+        },
+        "showConfirmDialog": false,
+        "promotionList": {
+            "pc_bottom": {
+                "imgsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png",
+                "qcsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png"
+            },
+            "pc_middle": [
+                {
+                    "src": "//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c",
+                    "bgColor": "#ffffff",
+                    "link": ""
+                }
+            ],
+            "pc_survey": {
+                "icon": "//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750",
+                "link": "https://wj.qq.com/s2/8193148/806d/"
+            }
+        },
+        "transTypeTxt": "text",
+        "fixedTabStatus": 0,
+        "bodyTop": 0,
+        "ifHideUserOperation": false
+    },
+    "textTranslate": {
+        "prevTransQuery": "",
+        "translateData": {
+            "translate": {
+                "zly": "zly",
+                "errorCode": "0",
+                "qc_type": "1",
+                "index": "content0",
+                "from": "en",
+                "source": "sogou",
+                "text": "buck",
+                "to": "zh-CHS",
+                "id": "407a0b30-8105-445d-a110-0d9aacbf24bc",
+                "dit": "钱",
+                "orig_text": "buck",
+                "md5": ""
+            },
+            "detect": {
+                "zly": "zly",
+                "detect": "en",
+                "errorCode": "0",
+                "language": "英语",
+                "id": "3e374a70-b565-11ef-9970-6d6a78f5c6d0",
+                "text": "buck"
+            },
+            "sgtkn": "65AE409D8B4E21888285AB43682838D38357B68B675599D7",
+            "wordCard": {
+                "title": "buck",
+                "show": true,
+                "usualDict": [
+                    {
+                        "values": [
+                            "<非正式>（美）元；雄鹿；公兔；雄性动物；<非正式>小伙子；男子（尤指黑人或印第安人）；<古>纨绔子弟；花花公子；责任；过失；（打桥牌时的）庄家标志；（Buck）巴克（人名）"
+                        ],
+                        "pos": "n."
+                    },
+                    {
+                        "values": [
+                            "反对；抵制；抵抗；鼓舞；使振作；（马等）尥蹶子；弓背跃起；猛烈颠簸；低着头冲"
+                        ],
+                        "pos": "v."
+                    },
+                    {
+                        "values": [
+                            "龅牙的"
+                        ],
+                        "pos": "adj."
+                    }
+                ],
+                "secondQuery": "",
+                "exchange": {
+                    "word_third": [
+                        "bucks"
+                    ],
+                    "word_ing": [
+                        "bucking"
+                    ],
+                    "word_done": [
+                        "bucked"
+                    ],
+                    "word_pl": [
+                        "bucks"
+                    ],
+                    "word_past": [
+                        "bucked"
+                    ]
+                },
+                "levelList": [
+                    "四级",
+                    "六级",
+                    "考研",
+                    "雅思",
+                    "GRE"
+                ]
+            },
+            "detail": {
+                "synonym": [
+                    {
+                        "word_list": [
+                            "money",
+                            "yuan",
+                            "QIAN",
+                            "pocket",
+                            "sen"
+                        ],
+                        "pos": "n.",
+                        "mean": "钱，元；雄鹿；纨绔子弟；年轻的印第安人或黑人"
+                    }
+                ],
+                "word_group": [
+                    {
+                        "brief_definition": "花钱换得价值",
+                        "phrase": "bang for one's buck",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "振作起来",
+                        "phrase": "buck your ideas up",
+                        "pos": "idm"
+                    },
+                    {
+                        "brief_definition": "推诿责任",
+                        "phrase": "pass the buck",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "紧张而兴奋的心情",
+                        "phrase": "buck fever",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "花钱换得价值",
+                        "phrase": "bang for the buck",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "易得之财",
+                        "phrase": "a quick buck",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "易得之财",
+                        "phrase": "a fast buck",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "责任止于此",
+                        "phrase": "the buck stops here",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "全裸的",
+                        "phrase": "buck naked",
+                        "pos": "adj."
+                    },
+                    {
+                        "brief_definition": "变得更认真；变得更有活力；变得更努力",
+                        "phrase": "buck up one's ideas",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "干酪烤面包加水泡蛋",
+                        "phrase": "buck rarebit",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "责任止于此",
+                        "phrase": "the buck with someone",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "小羚羊；鸬鹚",
+                        "phrase": "blue buck",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "振作起来；打起精神；赶快",
+                        "phrase": "buck up",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "轻易得来的钱；投机所赚的钱",
+                        "phrase": "fast buck",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "鼓舞大笑",
+                        "phrase": "a buck laugh",
+                        "pos": ""
+                    }
+                ],
+                "bilingual": [
+                    {
+                        "source": "I need to save every <em>buck</em> I earn.",
+                        "target": "我需要存下我赚的每一美元。",
+                        "url": ""
+                    },
+                    {
+                        "source": "He made a quick <em>buck</em> by selling his old bike.",
+                        "target": "他通过卖掉旧自行车迅速赚了一美元。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Can you lend me a <em>buck</em> for the vending machine?",
+                        "target": "你能借我一美元买自动售货机的东西吗？",
+                        "url": ""
+                    },
+                    {
+                        "source": "She doesn't have a single <em>buck</em> left in her wallet.",
+                        "target": "她的钱包里一美元都没剩下。",
+                        "url": ""
+                    },
+                    {
+                        "source": "So someone steals <em>Buck</em> and sells him as as a sled dog.",
+                        "target": "所以有人偷走了巴克，把他当作雪橇狗卖了。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Can you lend me a <em>buck</em>?",
+                        "target": "你能借我一美元吗？",
+                        "url": "www.hjenglish.com"
+                    },
+                    {
+                        "source": "Can't you <em>buck</em> up a bit?",
+                        "target": "你能不能加把劲?。",
+                        "url": "www.englisher.net"
+                    },
+                    {
+                        "source": "You can’t <em>buck</em> the system.",
+                        "target": "你无法抗拒整个制度。",
+                        "url": "www.doc88.com"
+                    },
+                    {
+                        "source": "Don't chase the quick <em>buck</em>.",
+                        "target": "不要太看重眼前利益。",
+                        "url": "www.kekenet.com"
+                    },
+                    {
+                        "source": "Time to <em>buck</em> up and WORK HARD!",
+                        "target": "赶快为时间努力的工作！",
+                        "url": "dict.youdao.com"
+                    }
+                ],
+                "baike": {
+                    "showMore": false,
+                    "list": [
+                        {
+                            "lemmaTitle": "BUCK",
+                            "link": "https://baike.sogou.com/v7841030.htm?ch=sogou.fanyi",
+                            "abstract": "BUCK刀是北美制刀业中最出名的，以高品质而闻名。第一把BUCK刀生产于1902年，是年轻的刀匠学徒 Hoyt Buck设计的。通过对钢材的回火处理从而使刀刃能够长久的保持锋利。Hoyt每把刀都是手工刀，他用废旧的锉刀做原材料。在二战期间，他做了很多刀来帮助北美的军队。在战争结束后，他去到圣地亚哥，和他的大儿子AL BUCK在1947年创办了H.H. Buck & Son公司。Hoyt 去世于1949年，他的大儿子Al 接手领导公司度过了又一个关键的一年。",
+                            "wapPic": "//img02.sogoucdn.com/v2/thumb/retype_exclude_gif/ext/auto/q/80/crop/xy/ai/w/140/h/140/resize/w/140?appid=201005&sign=08b80a86b2618732b12d722e5f1ca85a&url=https%3A%2F%2Fpic.baike.soso.com%2Fugc%2Fbaikepic2%2F1078%2F20220422101855-1128172980_jpeg_688_516_47855.jpg%2F0",
+                            "pcPic": "//img02.sogoucdn.com/v2/thumb/retype_exclude_gif/ext/auto/q/80/crop/xy/ai/w/140/h/140/resize/w/140?appid=201005&sign=08b80a86b2618732b12d722e5f1ca85a&url=https%3A%2F%2Fpic.baike.soso.com%2Fugc%2Fbaikepic2%2F1078%2F20220422101855-1128172980_jpeg_688_516_47855.jpg%2F0"
+                        },
+                        {
+                            "lemmaTitle": "猎刀",
+                            "link": "https://baike.sogou.com/v72386018.htm?ch=sogou.fanyi",
+                            "abstract": "猎刀，主要是野外狩猎（干别的也行）时的切割、剥皮等工作，刺的功能也有，但要求不像格斗刀那样严格，而且猎刀可以有各种形状。",
+                            "wapPic": "//img04.sogoucdn.com/v2/thumb/retype_exclude_gif/ext/auto/q/80/crop/xy/ai/w/140/h/140/resize/w/140?appid=201005&sign=5c64797436b3aae5c728f0480f79ad5d&url=https%3A%2F%2Fpic.baike.soso.com%2Fugc%2Fbaikepic2%2F6977%2Fcut-20181104145209-120724028_jpg_492_327_15555.jpg%2F0",
+                            "pcPic": "//img01.sogoucdn.com/v2/thumb/retype_exclude_gif/ext/auto/q/80/crop/xy/ai/w/140/h/140/resize/w/140?appid=201005&sign=5c64797436b3aae5c728f0480f79ad5d&url=https%3A%2F%2Fpic.baike.soso.com%2Fugc%2Fbaikepic2%2F6977%2Fcut-20181104145209-120724028_jpg_492_327_15555.jpg%2F0"
+                        }
+                    ]
+                }
+            },
+            "book": {
+                "yingyinNormal": [
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/490665cd18df7afdfdb0f598300d2a11_15993.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/d5ab6ad594d982a650b84804f0cf32b1_61794.mp3",
+                        "isLavafox": true,
+                        "en": "Zip it, <em>Buck</em> Rogers. You won't talk to Lotso till we say you can...",
+                        "zh": "闭嘴，死太空人，要想和他谈 得先过了我们这关...",
+                        "videoNameZh": "《玩具总动员3》",
+                        "videoNameEn": "《Toy Story 3》",
+                        "url": "http://bisentence_movie.sogou.com/ccdc6cf1b4345608fa263b4d308cb55f_4a935e552cc88bc67478f1fade3f0153275eeb54"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/6a0f1af500949aabdf79e8935d4a7230_22265.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/e94e064b7d7bd88baadae84cb8236f7e_35630.mp3",
+                        "isLavafox": true,
+                        "en": "Aw, man. All right. Ten <em>buck</em>. Fork it over. Cough it up. Pay the piper. Give me it.",
+                        "zh": "讨厌。十块钱，愿赌服输。甘愿点，拿钱来。",
+                        "videoNameZh": "《老友记 第四季》",
+                        "videoNameEn": "《Friends Season 4》",
+                        "url": "http://bisentence_movie.sogou.com/522e834e9ef945a2fa34b7557483c1ac_9dbbbecb63a578e88828b649f53b8ddc405fefba"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/8a5b25dfe5e482fce849895959f35aba_1648.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/be54f4e539a56f75e191387b67111c78_24691.mp3",
+                        "isLavafox": true,
+                        "en": "Hey, Joe, I gotta ask. The girl from the Xerox place <em>buck</em> naked, or a big tub of jam.",
+                        "zh": "乔伊，我得问你影印店的那个女孩，全裸还是你要一大缸果酱？",
+                        "videoNameZh": "《老友记 第三季》",
+                        "videoNameEn": "《Friends Season 3》",
+                        "url": "http://bisentence_movie.sogou.com/883bf30a35e0bf2c35c20ed38a43a9a1_3deb165119c8e4c98f9567ab606b32203dbce624"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/368277e4523e7b27b12887e16057df56_64015.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/87dda3072836406e2f11931751dc6b5d_35746.mp3",
+                        "isLavafox": true,
+                        "en": "Lawrence's donation must be running low. But we're short on time. You need to <em>buck</em> up, Teddy.",
+                        "zh": "劳伦斯\"献\"的血应该不够了，但我们没有时间了，你得振作起来，泰迪。",
+                        "videoNameZh": "《西部世界 第一季》",
+                        "videoNameEn": "《Westworld Season 1》",
+                        "url": "http://bisentence_movie.sogou.com/234aac62b5e49739ce21677987f436cd_9f7f6286de7bcf46dbf0b7e0f80a03d01b0750ae"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/ed16ac8524b2f1f0c1489640f8396c3f_47421.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/8eb1c04239bd6c0fa4300251f42b8d91_41784.mp3",
+                        "isLavafox": true,
+                        "en": "Wow, I admire you, Howard. It would be hard for me to <em>buck</em> traditional gender roles like that.",
+                        "zh": "我敬佩你，霍华德。要我可能就很困难让我这么突破传统性别角色藩篱。",
+                        "videoNameZh": "《生活大爆炸 第十一季》",
+                        "videoNameEn": "《The Big Bang Theory Season 11》",
+                        "url": "http://bisentence_movie.sogou.com/6a04821876c441e7fca1e7a99d8e9b44_c891af7c1033ba5eda661f6c06b4aaf01cfe7093"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/5dc3cf8cad26e071498ca907fcc13dc6_46983.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/9fd63ca6a9ff8994fd7299acd796b45a_45502.mp3",
+                        "isLavafox": true,
+                        "en": "Emily elephant is in charge of breakup store. Roll up, roll up. All sold for a bit of <em>buck</em>s. What a lot of brackens, Emily. <em>Buck</em> You will be busy all day selling it.",
+                        "zh": "大象艾米丽负责商店。瞧一瞧，看一看，只要很少的钱就能买到。好多凤尾草啊，艾米丽。你今天一整天都要忙着卖这些东西了。",
+                        "videoNameZh": "《小猪佩奇 第四季》",
+                        "videoNameEn": "《Peppa Pig Season 4》",
+                        "url": "http://bisentence_movie.sogou.com/408cbd1bfb7870f963ddb594389c3496_543737449122e557b395ed84390764bbb832efb7"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/b630caafa2606557856da7a333933a5d_54182.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/f5b6e4510391b83cc3cd44cedd22280d_58426.mp3",
+                        "isLavafox": true,
+                        "en": "Okay. Please don't take this the wrong way, but I'd rather swim <em>buck</em> naked across the Ganges with a paper cut on my nipple and die a slow, agonizing death from a viral infection than work with you. For me.",
+                        "zh": "好吧，但是可别搞错了，我情愿在乳头上别张纸赤条条地游过恒河，抑或是染上病毒痛苦而挣扎着死掉，也不要和你一起工作。是为我工作。",
+                        "videoNameZh": "《生活大爆炸 第三季》",
+                        "videoNameEn": "《The Big Bang Theory Season 3》",
+                        "url": "http://bisentence_movie.sogou.com/a81409e2f0e6f4cea4169ba4431525e5_f2244455f765295cb1857d60ac1d760e9a151cff"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/cf2616af116b548887696dabfcc2fd97_68323.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/aaa62efb9302fc2c2415ffc99653cdd9_68327.mp3",
+                        "isLavafox": true,
+                        "en": "That's why we proposed a plan to tie federal financial aid to a college's performance, and create a new college scorecard so that students and parents can see which schools provide the biggest bang for your <em>buck</em>.",
+                        "zh": "因此，我们提出了一项计划，将联邦资金援助与高校的运行绩效关联起来，打造一个新的高校评价体系，让学生和家长们能一目了然地知道，哪所大学能为他们省更多的钱。",
+                        "videoNameZh": "《奥巴马每周电视讲话》",
+                        "videoNameEn": "《Your Weekly Address》",
+                        "url": "http://bisentence_movie.sogou.com/e7535566799039e78b0401d10487dd1a_7599bc0f6faa2ab780f57727f690d0dab1408427"
+                    }
+                ]
+            },
+            "pic": "",
+            "voice": {
+                "phonetic": [
+                    {
+                        "text": "bʌk",
+                        "type": "uk",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/11031_buck_uk.mp3"
+                    },
+                    {
+                        "text": "bʌk",
+                        "type": "usa",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/11031_buck_usa.mp3"
+                    }
+                ]
+            },
+            "dictType": "oxford_buchong",
+            "kaoyan": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 1,
+                        "pos": "n",
+                        "chinese": "美元; 澳元",
+                        "sense_tier_ratio": 50
+                    },
+                    {
+                        "sense_tier": 1,
+                        "pos": "v",
+                        "chinese": "反抗; 抵制",
+                        "sense_tier_ratio": 50
+                    },
+                    {
+                        "sense_tier": 0,
+                        "pos": "n",
+                        "chinese": "雄性有角动物",
+                        "sense_tier_ratio": 0
+                    },
+                    {
+                        "sense_tier": 0,
+                        "pos": "n",
+                        "chinese": "男人",
+                        "sense_tier_ratio": 0
+                    }
+                ],
+                "word": "buck",
+                "total_exam_freq": 2,
+                "direction_info": {
+                    "ranges": 12,
+                    "description": "数据源自2012-2023年12年间全国考研试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2012-2023年全国考研英语一和考研英语二共24套考研试卷，包括阅读、完型填空、翻译、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选全国考研考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2012-2023年12年间全国考研英语一和考研英语二试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 1,
+                "word_level_phrase_info": [
+                    {
+                        "brief_definition": "货真价实",
+                        "phrase": "bang for your buck",
+                        "pos": "phr"
+                    }
+                ],
+                "sense": {
+                    "sense_num": 4,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "美元; 澳元",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "This slim volume is packed with tips to help wage slaves as well as lottery winners get the most \"happiness bang for your <highlight>buck</highlight>.\"",
+                                    "month": -1,
+                                    "source": "英语二",
+                                    "coll": "",
+                                    "sentence_trans": "这本薄薄的书里充满了帮助工薪族和彩票中奖者获得最“物有所值的快乐”的小贴士。",
+                                    "year": 2014,
+                                    "type": "阅读理解A",
+                                    "day": -1
+                                }
+                            ]
+                        },
+                        {
+                            "en": "",
+                            "zh": "反抗; 抵制",
+                            "pos": "v",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "More families <highlight>buck</highlight> an older-generation proclivity to leave kids in the dark about real estate decisions.",
+                                    "month": -1,
+                                    "source": "英语二",
+                                    "coll": "",
+                                    "sentence_trans": "越来越多的家庭反对老一辈的倾向，不再让孩子对房地产决策一无所知。",
+                                    "year": 2019,
+                                    "type": "阅读理解B",
+                                    "day": -1
+                                }
+                            ]
+                        },
+                        {
+                            "synonyms": "",
+                            "en": "",
+                            "zh": "雄性有角动物",
+                            "pos": "n",
+                            "antonyms": ""
+                        },
+                        {
+                            "synonyms": "",
+                            "en": "",
+                            "zh": "男人",
+                            "pos": "n",
+                            "antonyms": ""
+                        }
+                    ]
+                }
+            },
+            "CET6": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 3,
+                        "pos": "n",
+                        "chinese": "雄性有角动物",
+                        "sense_tier_ratio": 100
+                    },
+                    {
+                        "sense_tier": 0,
+                        "pos": "n",
+                        "chinese": "男人",
+                        "sense_tier_ratio": 0
+                    }
+                ],
+                "word": "buck",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2016.6-2023.6年8年间全六级试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight>考纲释义</highlight>\n精选实考、考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2016-2023年51套试卷，包括阅读、听力、翻译等所有题型。\n\n<highlight>真题例句</highlight>\n精选2016-2023年8年间全六级试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 1,
+                "total_exam_freq": 3,
+                "sense": {
+                    "sense_num": 2,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "雄性有角动物",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "But the lack of work opportunities in <highlight>Bucks</highlight> County limits how much she can help.",
+                                    "month": 6,
+                                    "source": "CET6",
+                                    "coll": "",
+                                    "sentence_trans": "但是雄鹿郡工作机会的缺乏限制了她能提供的帮助。",
+                                    "year": 2016,
+                                    "type": "听力",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "That's where the <highlight>Bucks</highlight> County Career Link comes in.",
+                                    "month": 6,
+                                    "source": "CET6",
+                                    "coll": "",
+                                    "sentence_trans": "这就是雄鹿郡职业联系会的作用。",
+                                    "year": 2016,
+                                    "type": "听力",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Experts who monitor unemployment statistics here in <highlight>Bucks</highlight> County, Pennsylvania say about 28,000 people are unemployed.",
+                                    "month": 6,
+                                    "source": "CET6",
+                                    "coll": "",
+                                    "sentence_trans": "宾夕法尼亚州雄鹿郡监测失业统计数据的专家表示，大约有28000人处于失业状态。",
+                                    "year": 2016,
+                                    "type": "听力",
+                                    "day": -1
+                                }
+                            ]
+                        },
+                        {
+                            "synonyms": "",
+                            "en": "",
+                            "zh": "男人",
+                            "pos": "n",
+                            "antonyms": ""
+                        }
+                    ]
+                },
+                "exchange_info": {
+                    "word_third": [
+                        "bucks"
+                    ],
+                    "word_ing": [
+                        "bucking"
+                    ],
+                    "word_done": [
+                        "bucked"
+                    ],
+                    "word_pl": [
+                        "bucks"
+                    ],
+                    "word_past": [
+                        "bucked"
+                    ]
+                }
+            },
+            "CET4": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 1,
+                        "pos": "n",
+                        "chinese": "(一)美元; (一)澳元",
+                        "sense_tier_ratio": 100
+                    },
+                    {
+                        "sense_tier": 0,
+                        "pos": "n",
+                        "chinese": "(鹿、兔等)雄性动物",
+                        "sense_tier_ratio": 0
+                    },
+                    {
+                        "sense_tier": 0,
+                        "pos": "vi",
+                        "chinese": "(马等)猛然弓背跃起",
+                        "sense_tier_ratio": 0
+                    }
+                ],
+                "word": "buck",
+                "total_exam_freq": 1,
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2016.6-2023.6年8年间全四级试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight>考纲释义</highlight>\n精选实考、考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2016-2023年51套试卷，包括阅读、听力、翻译等所有题型。\n\n<highlight>真题例句</highlight>\n精选2016-2023年8年间试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 1,
+                "word_level_phrase_info": [
+                    {
+                        "brief_definition": "花钱换得价值",
+                        "phrase": "bang for one's buck",
+                        "pos": "phr"
+                    }
+                ],
+                "sense": {
+                    "sense_num": 3,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "(一)美元; (一)澳元",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "After all, by continuing to pile riches on the narrow winners, the taxpayers are not getting the maximum bang for their <highlight>buck</highlight>.",
+                                    "month": 6,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "毕竟，通过继续将财富堆在险胜者身上，纳税人并没有获得最大的回报。",
+                                    "year": 2021,
+                                    "type": "阅读理解B",
+                                    "day": -1
+                                }
+                            ]
+                        },
+                        {
+                            "synonyms": "",
+                            "en": "",
+                            "zh": "(鹿、兔等)雄性动物",
+                            "pos": "n",
+                            "antonyms": ""
+                        },
+                        {
+                            "synonyms": "",
+                            "en": "",
+                            "zh": "(马等)猛然弓背跃起",
+                            "pos": "vi",
+                            "antonyms": ""
+                        }
+                    ]
+                }
+            },
+            "sentencesData": {
+                "status": 1,
+                "info": "notZh2En",
+                "data": {}
+            },
+            "isAutoMatch": false,
+            "Zh2En": false
+        },
+        "query": "buck",
+        "result": "钱",
+        "tabSelect": "detail",
+        "dictionaryType": "oxford_buchong",
+        "notFound_show": false,
+        "phoneticShow": "",
+        "globalShowTranslateRecord": "",
+        "pronPrefer": {
+            "type": "usa_1",
+            "speaker": "male",
+            "speed": "standard"
+        },
+        "ServerRecord": "",
+        "ServerUIGS": {
+            "version": "new",
+            "type": "all",
+            "stype": "success",
+            "terminal": "web",
+            "fr": "default",
+            "direction": "etoz",
+            "from": "en",
+            "to": "zh-CHS",
+            "len": 4,
+            "qtype": "text",
+            "qctype": "qc_1",
+            "dict_cover": 1,
+            "detail": 1,
+            "wordCardCover": 1,
+            "wordCardEn": 1,
+            "wordCardCh": 0,
+            "wordCardMinor": 0,
+            "wordCardNetmean": 0,
+            "wordDeform": 1,
+            "keyword": 0,
+            "bilingual": 1,
+            "simple": 0,
+            "levelList": 1,
+            "synonym": 1,
+            "antonym": 0,
+            "conjugate": 0,
+            "rootaffix": 0,
+            "baike_sogou": 1,
+            "baike_wiki": 0,
+            "wordDifference": 0,
+            "word_phrase": 1,
+            "secondQuery": 0,
+            "dict_oxford": 0,
+            "dict_newcentury": 0,
+            "zhongkaotab": 0,
+            "gaokaotab": 0,
+            "CET4tab": 1,
+            "CET6tab": 1,
+            "kaoyantab": 1,
+            "network_tab": 0,
+            "yinying_tab": 1,
+            "tuozhan_tab": 0,
+            "one_pic": 0,
+            "more_pic": 0,
+            "no_pic": 0,
+            "uuid": "407a0b30-8105-445d-a110-0d9aacbf24bc",
+            "from_type": 0,
+            "t_trans_ssr": 176
+        },
+        "ServerModelUIGS": {
+            "terminal": "web",
+            "type": "trans_model",
+            "pbtype": "pv",
+            "model_general": 1,
+            "model_medical": 1,
+            "model_finance": 1
+        },
+        "ServerSgtkn": "65AE409D8B4E21888285AB43682838D38357B68B675599D7",
+        "suggShow": false,
+        "suggestion": "",
+        "suggDirection": "",
+        "usualTop": "",
+        "baseDict": "",
+        "wordCardClick": false,
+        "isFrInput": false,
+        "kanaTips": {
+            "show": false,
+            "left": "",
+            "top": "",
+            "type": "",
+            "arrowLeft": ""
+        },
+        "currSentenceIndex": -1,
+        "prefixStrObj": {
+            "prefixStr": "",
+            "oriPrefixStr": ""
+        },
+        "selectTransBox": {
+            "show": false,
+            "right": 0,
+            "top": 0,
+            "paraphraseInfo": {
+                "word": "",
+                "from": "",
+                "to": "",
+                "area": ""
+            }
+        },
+        "sentenceLoading": false,
+        "newSentenceInfo": {
+            "sentence": "",
+            "candidateIndex": 0
+        },
+        "moreTipInfo": {
+            "opacity": 0,
+            "zIndex": -1
+        },
+        "paraphraseShowInfo": {
+            "card": 0,
+            "query": "",
+            "card_dict": 0
+        },
+        "selectType": "",
+        "wordPos": 0,
+        "candidateWord": "",
+        "syntaxVisible": false,
+        "syntaxStatus": 0
+    },
+    "language": {
+        "from": "auto",
+        "to": "zh-CHS",
+        "detect": "en",
+        "model": "general",
+        "detectShow": false,
+        "langMap": {
+            "current": ""
+        },
+        "zh2en": false,
+        "fromItemList": [
+            {
+                "lang": "auto",
+                "text": "自动检测",
+                "play": false
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "cs",
+                "text": "捷克语",
+                "play": true,
+                "abbr": "捷克"
+            },
+            {
+                "lang": "fr",
+                "text": "法语",
+                "play": true,
+                "abbr": "法"
+            },
+            {
+                "lang": "vi",
+                "text": "越南语",
+                "play": true,
+                "abbr": "越"
+            }
+        ],
+        "toItemList": [
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "ko",
+                "text": "韩语",
+                "play": true,
+                "abbr": "韩"
+            },
+            {
+                "lang": "vi",
+                "text": "越南语",
+                "play": true,
+                "abbr": "越"
+            },
+            {
+                "lang": "tr",
+                "text": "土耳其语",
+                "play": false,
+                "abbr": "土"
+            }
+        ]
+    },
+    "voice": {
+        "from": {
+            "lang": "en",
+            "type": "from",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22buck%22%2C%22spokenDialect%22%3A%22en%22%2C%22rate%22%3A%220.8%22%7D",
+            "list": [
+                {
+                    "type": "uk_0",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "bʌk",
+                    "abbr": "英",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/11031_buck_uk.mp3"
+                },
+                {
+                    "type": "usa_1",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "bʌk",
+                    "abbr": "美",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/11031_buck_usa.mp3"
+                }
+            ],
+            "stype": "phonetic",
+            "phoneticShow": [
+                {
+                    "text": "bʌk",
+                    "type": "uk",
+                    "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/11031_buck_uk.mp3"
+                }
+            ]
+        },
+        "to": {
+            "lang": "zh",
+            "type": "to",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22%E9%92%B1%22%2C%22spokenDialect%22%3A%22zh-CHS%22%2C%22rate%22%3A%220.8%22%7D",
+            "stype": "normal"
+        }
+    }
+}

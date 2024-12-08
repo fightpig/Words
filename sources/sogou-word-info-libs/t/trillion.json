@@ -1,0 +1,725 @@
+{
+    "route": {
+        "name": "text",
+        "path": "/text",
+        "hash": "",
+        "query": {
+            "keyword": "trillion",
+            "transfrom": "auto",
+            "transto": "zh-CHS",
+            "model": "general",
+            "errcode": "s10"
+        },
+        "params": {},
+        "fullPath": "/text?keyword=trillion&transfrom=auto&transto=zh-CHS&model=general&errcode=s10",
+        "meta": {
+            "mtype": [
+                "textTranslate",
+                "language",
+                "voice"
+            ]
+        },
+        "from": {
+            "name": null,
+            "path": "/",
+            "hash": "",
+            "query": {},
+            "params": {},
+            "fullPath": "/",
+            "meta": {}
+        }
+    },
+    "common": {
+        "CONFIG": {
+            "wuid": 1733662299380,
+            "loginInfo": {},
+            "isIE": 0,
+            "isHitSsrSwitch": true,
+            "isHitWritebookSwitch": false,
+            "isHitAmsSwitch": true,
+            "promotionList": "{\n    \"pc_bottom\":{\n        \"imgsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\",\n        \"qcsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\"\n    },\n    \"pc_middle\":[\n        {\n            \"src\":\"//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c\",\n            \"bgColor\":\"#ffffff\",\n            \"link\":\"\"\n        }\n    ],\n    \"pc_survey\":{\n        \"icon\":\"//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750\",\n        \"link\":\"https://wj.qq.com/s2/8193148/806d/\"\n    }\n}",
+            "bannerData": [],
+            "isHitAsideSurvey": false,
+            "secretCode": 109984457,
+            "uuid": "2ea86926-5cfa-48a6-8b45-d66cff5efc45",
+            "referer": "",
+            "approveToken": "65A58438479EF05952547B92E6D1876B539A83126755965B",
+            "loadTime": 1733662299382,
+            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0",
+            "fcp": "159.65.124.238",
+            "temporaryId": "",
+            "fileId": ""
+        },
+        "hotWords": [],
+        "isFromCollect": false,
+        "psdModify": {
+            "currentStep": 1,
+            "scode": "",
+            "username": ""
+        },
+        "loginStatus": true,
+        "feedBackModule": false,
+        "showPromotionPopup": {
+            "show": false,
+            "type": ""
+        },
+        "showPromotionPCDownload": false,
+        "showShareBomb": false,
+        "shareData": null,
+        "showAppDownLoad": false,
+        "showLoginDialog": false,
+        "showLoading": {
+            "show": false
+        },
+        "toast": {
+            "show": false,
+            "text": "",
+            "loading": false
+        },
+        "modelToast": {
+            "show": false,
+            "text": ""
+        },
+        "selectionGlobalShow": true,
+        "selectionInfo": {
+            "left": 0,
+            "top": 0,
+            "show": false,
+            "from": "",
+            "to": "",
+            "val": "",
+            "area": ""
+        },
+        "showConfirmDialog": false,
+        "promotionList": {
+            "pc_bottom": {
+                "imgsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png",
+                "qcsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png"
+            },
+            "pc_middle": [
+                {
+                    "src": "//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c",
+                    "bgColor": "#ffffff",
+                    "link": ""
+                }
+            ],
+            "pc_survey": {
+                "icon": "//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750",
+                "link": "https://wj.qq.com/s2/8193148/806d/"
+            }
+        },
+        "transTypeTxt": "text",
+        "fixedTabStatus": 0,
+        "bodyTop": 0,
+        "ifHideUserOperation": false
+    },
+    "textTranslate": {
+        "prevTransQuery": "",
+        "translateData": {
+            "translate": {
+                "zly": "zly",
+                "errorCode": "0",
+                "qc_type": "1",
+                "index": "content0",
+                "from": "en",
+                "source": "sogou",
+                "text": "trillion",
+                "to": "zh-CHS",
+                "id": "2ea86926-5cfa-48a6-8b45-d66cff5efc45",
+                "dit": "万亿",
+                "orig_text": "trillion",
+                "md5": ""
+            },
+            "detect": {
+                "zly": "zly",
+                "detect": "en",
+                "errorCode": "0",
+                "language": "英语",
+                "id": "2aa85780-b563-11ef-a1f2-05a828350f80",
+                "text": "trillion"
+            },
+            "sgtkn": "65A5843D479EF05952547B92E6D1876B539A83126755965B",
+            "wordCard": {
+                "title": "trillion",
+                "show": true,
+                "usualDict": [
+                    {
+                        "values": [
+                            "一万亿；万亿；兆；一兆"
+                        ],
+                        "pos": "num."
+                    },
+                    {
+                        "values": [
+                            "<美、法>兆（10的12次方）；<英>万亿（10的18次方）；巨额；海量；大量；无数"
+                        ],
+                        "pos": "n."
+                    },
+                    {
+                        "values": [
+                            "<美、法>万亿的；兆的；极其庞大的；数不清的"
+                        ],
+                        "pos": "adj."
+                    }
+                ],
+                "secondQuery": "",
+                "exchange": {
+                    "word_pl": [
+                        "trillions"
+                    ]
+                },
+                "levelList": [
+                    "四级",
+                    "六级",
+                    "考研"
+                ]
+            },
+            "detail": {
+                "bilingual": [
+                    {
+                        "source": "The national debt has reached one <em>trillion</em> dollars.",
+                        "target": "国债已经达到了万亿美元。",
+                        "url": ""
+                    },
+                    {
+                        "source": "The universe contains more than a <em>trillion</em> stars.",
+                        "target": "宇宙中包含超过万亿颗星星。",
+                        "url": ""
+                    },
+                    {
+                        "source": "The global economy is worth over <em>trillion</em> dollars.",
+                        "target": "全球经济价值超过万亿美元。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Scientists estimate there are <em>trillion</em> cells in the human body.",
+                        "target": "科学家估计人体内有万亿个细胞。",
+                        "url": ""
+                    },
+                    {
+                        "source": "The company aims to achieve a market value of one <em>trillion</em> dollars.",
+                        "target": "该公司目标是实现万亿美元的市值。",
+                        "url": ""
+                    },
+                    {
+                        "source": "These catastrophic events caused more than $1.5 <em>trillion</em> in economic losses.",
+                        "target": "这些灾难性事件造成了超过1.5万亿美元的经济损失。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Some experts predict the revenue from this tax will be over $ 4 <em>trillion</em> per decade.",
+                        "target": "一些专家预测，这项税收每十年的收入将超过4万亿美元。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Now it totaled $4 <em>trillion</em>.",
+                        "target": "现在国债总额为4万亿美元。",
+                        "url": "dict.youdao.com"
+                    },
+                    {
+                        "source": "Water molecules outnumber you a thousand <em>trillion</em> <em>trillion</em> to one.",
+                        "target": "水分子的数量级是你的千万亿万亿倍。",
+                        "url": "www.kekenet.com"
+                    },
+                    {
+                        "source": "A year later it was 100 <em>Trillion</em>.",
+                        "target": "一年以后它变成了100万亿。",
+                        "url": "dict.youdao.com"
+                    }
+                ]
+            },
+            "book": {
+                "yingyinNormal": [
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/ae9d6f2f04858f0af8517ff08116148e_6738.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/109733512f1b99bc526c7bb03f679c50_73531.mp3",
+                        "isLavafox": true,
+                        "en": "One billion <em>trillion</em>? Well, that's just amazing. I thought it was less.",
+                        "zh": "十万亿亿？太让人吃惊了。我以为没那么多。",
+                        "videoNameZh": "《女孩成长记 第三季》",
+                        "videoNameEn": "《Girl Meets World Season 3》",
+                        "url": "http://bisentence_movie.sogou.com/4d79a715f842fa0132185a9e4d16412b_d929cd53a8072f080e26030bc7ea8e1883e263e7"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/35a31fd01d1fc930cd41c58daa5742c9_47480.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/6059e03926e371165787359ffe8fd163_64716.mp3",
+                        "isLavafox": true,
+                        "en": "That's a whole lot of cells. Scientists think there are about 37 <em>trillion</em> of them.",
+                        "zh": "人体内有很多细胞。科学家们认为人体内有37万亿个细胞。",
+                        "videoNameZh": "《TED教育》",
+                        "videoNameEn": "《TED-Ed》",
+                        "url": "http://bisentence_movie.sogou.com/044f986ca4e4085c1ffdb29f65e088ef_df7b0ef03b73999e0392ce4374c49193c78cda2a"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/ae9d6f2f04858f0af8517ff08116148e_6738.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/7f8186897a6537dfc3c0c7c86b8b8bfd_73335.mp3",
+                        "isLavafox": true,
+                        "en": "Hey, guys, did you know that astronomers calculate that there are one billion <em>trillion</em> stars in the observable universe?",
+                        "zh": "嘿，诸位，你们知道天文学家计算出在可观测宇宙中有十万亿亿颗星星吗？",
+                        "videoNameZh": "《女孩成长记 第三季》",
+                        "videoNameEn": "《Girl Meets World Season 3》",
+                        "url": "http://bisentence_movie.sogou.com/c70a3afe853a55417fbc9b26faef3b2d_b55108d16d98ecfa709a43c9e5f1abb407c3d4d3"
+                    },
+                    {
+                        "picUrl": "http://pic02.sogoucdn.com/s3/a/201051/ae9d6f2f04858f0af8517ff08116148e_6738.jpg",
+                        "audioUrl": "http://pic02.sogoucdn.com/s3/a/201051/9f6628194d4339a8a57993a0cb2fb224_74207.mp3",
+                        "isLavafox": true,
+                        "en": "A billion <em>trillion</em> stars? You could give them all Riley names is what you could do. I'll get you started. Twinkly, Sparkly, Twinkly. There's three.",
+                        "zh": "十万亿亿颗星星？你可以给它们都起一个莱丽名。我先帮你起几个。闪闪，烁烁，闪闪，这就三个了。",
+                        "videoNameZh": "《女孩成长记 第三季》",
+                        "videoNameEn": "《Girl Meets World Season 3》",
+                        "url": "http://bisentence_movie.sogou.com/e2d34a51e1a2bc4ebd2f3883af4adcf1_b950429cb215b6abc4acf68075554ea48521d039"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/aa7a748a86497e02e2b0a5098f3017b8_12619.jpg",
+                        "audioUrl": "http://pic01.sogoucdn.com/s3/a/201051/92c7dccc49e2a472141bd9054ab62c11_59219.mp3",
+                        "isLavafox": true,
+                        "en": "Yes, but I don't expect you to be able to change a <em>trillion</em> years of evolution in five seconds.",
+                        "zh": "对，但是我不指望你们把几亿年的进化特征在五秒内改头换面。",
+                        "videoNameZh": "《女孩成长记 第一季》",
+                        "videoNameEn": "《Girl Meets World Season 1》",
+                        "url": "http://bisentence_movie.sogou.com/fc2a30e79470c44ce682ef89f4fd0b14_c5cbcdc13e0e7018e9cb8707876c5526cf8f393c"
+                    },
+                    {
+                        "picUrl": "http://pic03.sogoucdn.com/s3/a/201051/81f2adfbe55184698d34da8bed6fc7ae_37120.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/f16e826d880db41e57a5c9babfa2f3bf_40363.mp3",
+                        "isLavafox": true,
+                        "en": "The first person to find the egg, I've hidden somewhere inside the OASIS will inherit my stock in Gregarious Games, currently valued in excess of half a million do... Half a <em>trillion</em> dollars' worth, and total control of the OASIS itself.",
+                        "zh": "第一个找到，我藏在绿洲里彩蛋的玩家可以继承我在社交游戏公司里的所有股权，目前大概市值超过五十万... 应该是五千亿美元，同时将获得绿洲的绝对控股权。",
+                        "videoNameZh": "《头号玩家》",
+                        "videoNameEn": "《Ready Player One》",
+                        "url": "http://bisentence_movie.sogou.com/7fa87665ea8d041abae36ddcd63c56ce_f3cfa6541fea6b7735f13c8aa5f417c456ec3c76"
+                    }
+                ]
+            },
+            "pic": "",
+            "voice": {
+                "phonetic": [
+                    {
+                        "text": "ˈtrɪljən",
+                        "type": "uk",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/7512_trillion_uk.mp3"
+                    },
+                    {
+                        "text": "ˈtrɪljən",
+                        "type": "usa",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/7512_trillion_usa.mp3"
+                    }
+                ]
+            },
+            "dictType": "oxford_buchong",
+            "kaoyan": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 2,
+                        "pos": "n",
+                        "chinese": "一万亿",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "trillion",
+                "direction_info": {
+                    "ranges": 12,
+                    "description": "数据源自2012-2023年12年间全国考研试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2012-2023年全国考研英语一和考研英语二共24套考研试卷，包括阅读、完型填空、翻译、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选全国考研考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2012-2023年12年间全国考研英语一和考研英语二试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 1,
+                "total_exam_freq": 2,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "一万亿",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "Given their combined market value of more than $5.5 <highlight>trillion</highlight>, rifling through such small deals—many of them much less prominent than Wunderlist and Sunrise—might seem beside the point.",
+                                    "month": -1,
+                                    "source": "英语二",
+                                    "coll": "",
+                                    "sentence_trans": "鉴于它们的总市值超过5.5万亿美元，匆忙审查这些小额收购（其中许多远没有“奇妙清单”、“日出”的收购引人注目）似乎有些避重就轻的味道。",
+                                    "year": 2021,
+                                    "type": "阅读理解A",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "College loan balances in the U.S. now stand at a record $1.5 <highlight>trillion</highlight>, according to the Federal Reserve.",
+                                    "month": -1,
+                                    "source": "英语二",
+                                    "coll": "",
+                                    "sentence_trans": "根据美联储的数据，美国大学贷款余额如今达到创纪录的1.5万亿美元。",
+                                    "year": 2020,
+                                    "type": "阅读理解A",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            "CET6": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 3,
+                        "pos": "n",
+                        "chinese": "一万亿",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "trillion",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2016.6-2023.6年8年间全六级试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight>考纲释义</highlight>\n精选实考、考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2016-2023年51套试卷，包括阅读、听力、翻译等所有题型。\n\n<highlight>真题例句</highlight>\n精选2016-2023年8年间全六级试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 1,
+                "total_exam_freq": 3,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "一万亿",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "Some experts predict the revenue from this tax will be over $ 4 <highlight>trillion</highlight> per decade.",
+                                    "month": 12,
+                                    "source": "CET6",
+                                    "coll": "",
+                                    "sentence_trans": "一些专家预测，这项税收每十年的收入将超过4万亿美元。",
+                                    "year": 2020,
+                                    "type": "阅读理解A",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "Given that there's now over $1.3 <highlight>trillion</highlight> in student loans on the books, it's pretty clear that many students are far from sensible.",
+                                    "month": 6,
+                                    "source": "CET6",
+                                    "coll": "",
+                                    "sentence_trans": "考虑到现在账面上有超过1.3万亿美元的学生贷款项目，很明显许多学生并不明智。",
+                                    "year": 2018,
+                                    "type": "阅读理解C",
+                                    "day": -1
+                                },
+                                {
+                                    "sentence": "These catastrophic events caused more than $1.5 <highlight>trillion</highlight> in economic losses.",
+                                    "month": 6,
+                                    "source": "CET6",
+                                    "coll": "",
+                                    "sentence_trans": "这些灾难性事件造成了超过1.5万亿美元的经济损失。",
+                                    "year": 2016,
+                                    "type": "听力",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            "CET4": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 1,
+                        "pos": "n",
+                        "chinese": "一万亿",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "trillion",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2016.6-2023.6年8年间全四级试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight>考纲释义</highlight>\n精选实考、考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2016-2023年51套试卷，包括阅读、听力、翻译等所有题型。\n\n<highlight>真题例句</highlight>\n精选2016-2023年8年间试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 1,
+                "total_exam_freq": 1,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "一万亿",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "Air pollution costs the global economy more than $5 <highlight>trillion</highlight> annually in welfare costs, with the most serious damage occurring in the developing world.",
+                                    "month": 12,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "空气污染每年给全球经济造成超过5万亿美元的福利损失，其中最严重的损害发生在发展中国家。",
+                                    "year": 2018,
+                                    "type": "阅读理解A",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            "sentencesData": {
+                "status": 1,
+                "info": "notZh2En",
+                "data": {}
+            },
+            "isAutoMatch": false,
+            "Zh2En": false
+        },
+        "query": "trillion",
+        "result": "万亿",
+        "tabSelect": "detail",
+        "dictionaryType": "oxford_buchong",
+        "notFound_show": false,
+        "phoneticShow": "",
+        "globalShowTranslateRecord": "",
+        "pronPrefer": {
+            "type": "usa_1",
+            "speaker": "male",
+            "speed": "standard"
+        },
+        "ServerRecord": "",
+        "ServerUIGS": {
+            "version": "new",
+            "type": "all",
+            "stype": "success",
+            "terminal": "web",
+            "fr": "default",
+            "direction": "etoz",
+            "from": "en",
+            "to": "zh-CHS",
+            "len": 8,
+            "qtype": "text",
+            "qctype": "qc_1",
+            "dict_cover": 1,
+            "detail": 1,
+            "wordCardCover": 1,
+            "wordCardEn": 1,
+            "wordCardCh": 0,
+            "wordCardMinor": 0,
+            "wordCardNetmean": 0,
+            "wordDeform": 1,
+            "keyword": 0,
+            "bilingual": 1,
+            "simple": 0,
+            "levelList": 1,
+            "synonym": 0,
+            "antonym": 0,
+            "conjugate": 0,
+            "rootaffix": 0,
+            "baike_sogou": 0,
+            "baike_wiki": 0,
+            "wordDifference": 0,
+            "word_phrase": 0,
+            "secondQuery": 0,
+            "dict_oxford": 0,
+            "dict_newcentury": 0,
+            "zhongkaotab": 0,
+            "gaokaotab": 0,
+            "CET4tab": 1,
+            "CET6tab": 1,
+            "kaoyantab": 1,
+            "network_tab": 0,
+            "yinying_tab": 1,
+            "tuozhan_tab": 0,
+            "one_pic": 0,
+            "more_pic": 0,
+            "no_pic": 0,
+            "uuid": "2ea86926-5cfa-48a6-8b45-d66cff5efc45",
+            "from_type": 0,
+            "t_trans_ssr": 122
+        },
+        "ServerModelUIGS": {
+            "terminal": "web",
+            "type": "trans_model",
+            "pbtype": "pv",
+            "model_general": 1,
+            "model_medical": 1,
+            "model_finance": 1
+        },
+        "ServerSgtkn": "65A5843D479EF05952547B92E6D1876B539A83126755965B",
+        "suggShow": false,
+        "suggestion": "",
+        "suggDirection": "",
+        "usualTop": "",
+        "baseDict": "",
+        "wordCardClick": false,
+        "isFrInput": false,
+        "kanaTips": {
+            "show": false,
+            "left": "",
+            "top": "",
+            "type": "",
+            "arrowLeft": ""
+        },
+        "currSentenceIndex": -1,
+        "prefixStrObj": {
+            "prefixStr": "",
+            "oriPrefixStr": ""
+        },
+        "selectTransBox": {
+            "show": false,
+            "right": 0,
+            "top": 0,
+            "paraphraseInfo": {
+                "word": "",
+                "from": "",
+                "to": "",
+                "area": ""
+            }
+        },
+        "sentenceLoading": false,
+        "newSentenceInfo": {
+            "sentence": "",
+            "candidateIndex": 0
+        },
+        "moreTipInfo": {
+            "opacity": 0,
+            "zIndex": -1
+        },
+        "paraphraseShowInfo": {
+            "card": 0,
+            "query": "",
+            "card_dict": 0
+        },
+        "selectType": "",
+        "wordPos": 0,
+        "candidateWord": "",
+        "syntaxVisible": false,
+        "syntaxStatus": 0
+    },
+    "language": {
+        "from": "auto",
+        "to": "zh-CHS",
+        "detect": "en",
+        "model": "general",
+        "detectShow": false,
+        "langMap": {
+            "current": ""
+        },
+        "zh2en": false,
+        "fromItemList": [
+            {
+                "lang": "auto",
+                "text": "自动检测",
+                "play": false
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "fr",
+                "text": "法语",
+                "play": true,
+                "abbr": "法"
+            },
+            {
+                "lang": "ko",
+                "text": "韩语",
+                "play": true,
+                "abbr": "韩"
+            },
+            {
+                "lang": "tr",
+                "text": "土耳其语",
+                "play": false,
+                "abbr": "土"
+            }
+        ],
+        "toItemList": [
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "vi",
+                "text": "越南语",
+                "play": true,
+                "abbr": "越"
+            },
+            {
+                "lang": "tr",
+                "text": "土耳其语",
+                "play": false,
+                "abbr": "土"
+            },
+            {
+                "lang": "ko",
+                "text": "韩语",
+                "play": true,
+                "abbr": "韩"
+            }
+        ]
+    },
+    "voice": {
+        "from": {
+            "lang": "en",
+            "type": "from",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22trillion%22%2C%22spokenDialect%22%3A%22en%22%2C%22rate%22%3A%220.8%22%7D",
+            "list": [
+                {
+                    "type": "uk_0",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "ˈtrɪljən",
+                    "abbr": "英",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/7512_trillion_uk.mp3"
+                },
+                {
+                    "type": "usa_1",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "ˈtrɪljən",
+                    "abbr": "美",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/7512_trillion_usa.mp3"
+                }
+            ],
+            "stype": "phonetic",
+            "phoneticShow": [
+                {
+                    "text": "ˈtrɪljən",
+                    "type": "uk",
+                    "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/7512_trillion_uk.mp3"
+                }
+            ]
+        },
+        "to": {
+            "lang": "zh",
+            "type": "to",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22%E4%B8%87%E4%BA%BF%22%2C%22spokenDialect%22%3A%22zh-CHS%22%2C%22rate%22%3A%220.8%22%7D",
+            "stype": "normal"
+        }
+    }
+}

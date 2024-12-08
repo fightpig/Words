@@ -1,0 +1,890 @@
+{
+    "route": {
+        "name": "text",
+        "path": "/text",
+        "hash": "",
+        "query": {
+            "keyword": "copyright",
+            "transfrom": "auto",
+            "transto": "zh-CHS",
+            "model": "general",
+            "errcode": "s10"
+        },
+        "params": {},
+        "fullPath": "/text?keyword=copyright&transfrom=auto&transto=zh-CHS&model=general&errcode=s10",
+        "meta": {
+            "mtype": [
+                "textTranslate",
+                "language",
+                "voice"
+            ]
+        },
+        "from": {
+            "name": null,
+            "path": "/",
+            "hash": "",
+            "query": {},
+            "params": {},
+            "fullPath": "/",
+            "meta": {}
+        }
+    },
+    "common": {
+        "CONFIG": {
+            "wuid": 1733663904393,
+            "loginInfo": {},
+            "isIE": 0,
+            "isHitSsrSwitch": true,
+            "isHitWritebookSwitch": false,
+            "isHitAmsSwitch": true,
+            "promotionList": "{\n    \"pc_bottom\":{\n        \"imgsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\",\n        \"qcsrc\":\"//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png\"\n    },\n    \"pc_middle\":[\n        {\n            \"src\":\"//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c\",\n            \"bgColor\":\"#ffffff\",\n            \"link\":\"\"\n        }\n    ],\n    \"pc_survey\":{\n        \"icon\":\"//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750\",\n        \"link\":\"https://wj.qq.com/s2/8193148/806d/\"\n    }\n}",
+            "bannerData": [],
+            "isHitAsideSurvey": false,
+            "secretCode": 109984457,
+            "uuid": "6acb0e2f-323f-4d55-9245-9464eba89689",
+            "referer": "",
+            "approveToken": "65B513CE24E588222A2C01E83C0449692A672D5C67559CA0",
+            "loadTime": 1733663904395,
+            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0",
+            "fcp": "159.65.124.238",
+            "temporaryId": "",
+            "fileId": ""
+        },
+        "hotWords": [],
+        "isFromCollect": false,
+        "psdModify": {
+            "currentStep": 1,
+            "scode": "",
+            "username": ""
+        },
+        "loginStatus": true,
+        "feedBackModule": false,
+        "showPromotionPopup": {
+            "show": false,
+            "type": ""
+        },
+        "showPromotionPCDownload": false,
+        "showShareBomb": false,
+        "shareData": null,
+        "showAppDownLoad": false,
+        "showLoginDialog": false,
+        "showLoading": {
+            "show": false
+        },
+        "toast": {
+            "show": false,
+            "text": "",
+            "loading": false
+        },
+        "modelToast": {
+            "show": false,
+            "text": ""
+        },
+        "selectionGlobalShow": true,
+        "selectionInfo": {
+            "left": 0,
+            "top": 0,
+            "show": false,
+            "from": "",
+            "to": "",
+            "val": "",
+            "area": ""
+        },
+        "showConfirmDialog": false,
+        "promotionList": {
+            "pc_bottom": {
+                "imgsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png",
+                "qcsrc": "//dlweb.sogoucdn.com/translate/ssr/static/img/banner-side03.2eb72c9.png"
+            },
+            "pc_middle": [
+                {
+                    "src": "//img03.sogoucdn.com/app/a/200797/03d38a87-552b-4ffe-a4f2-ea0de8ae156c",
+                    "bgColor": "#ffffff",
+                    "link": ""
+                }
+            ],
+            "pc_survey": {
+                "icon": "//img01.sogoucdn.com/app/a/200797/0faf7ee3-d4e7-40e7-9ec7-46ae062aa750",
+                "link": "https://wj.qq.com/s2/8193148/806d/"
+            }
+        },
+        "transTypeTxt": "text",
+        "fixedTabStatus": 0,
+        "bodyTop": 0,
+        "ifHideUserOperation": false
+    },
+    "textTranslate": {
+        "prevTransQuery": "",
+        "translateData": {
+            "translate": {
+                "zly": "zly",
+                "errorCode": "0",
+                "qc_type": "1",
+                "index": "content0",
+                "from": "en",
+                "source": "sogou",
+                "text": "copyright",
+                "to": "zh-CHS",
+                "id": "6acb0e2f-323f-4d55-9245-9464eba89689",
+                "dit": "版权",
+                "orig_text": "copyright",
+                "md5": ""
+            },
+            "detect": {
+                "zly": "zly",
+                "detect": "en",
+                "errorCode": "0",
+                "language": "英语",
+                "id": "e751e3d0-b566-11ef-bf4a-533c382ccd02",
+                "text": "copyright"
+            },
+            "sgtkn": "65B513D424E588222A2C01E83C0449692A672D5C67559CA0",
+            "wordCard": {
+                "title": "copyright",
+                "show": true,
+                "usualDict": [
+                    {
+                        "values": [
+                            "版权；著作权；知识产权的一种；版权法"
+                        ],
+                        "pos": "n."
+                    },
+                    {
+                        "values": [
+                            "版权所有的；受著作权法保护的；有版权的；版权登记的；受版权保护的；未经准许不得复制的"
+                        ],
+                        "pos": "adj."
+                    },
+                    {
+                        "values": [
+                            "获得…的版权；版权登记"
+                        ],
+                        "pos": "v."
+                    }
+                ],
+                "secondQuery": "",
+                "exchange": {
+                    "word_third": [
+                        "copyrights"
+                    ],
+                    "word_ing": [
+                        "copyrighting"
+                    ],
+                    "word_done": [
+                        "copyrighted"
+                    ],
+                    "word_pl": [
+                        "copyrights"
+                    ],
+                    "word_past": [
+                        "copyrighted"
+                    ]
+                },
+                "levelList": [
+                    "高中",
+                    "四级",
+                    "六级",
+                    "考研",
+                    "考博",
+                    "雅思"
+                ]
+            },
+            "detail": {
+                "synonym": [
+                    {
+                        "word_list": [
+                            "literary property",
+                            "intellectual property"
+                        ],
+                        "pos": "n.",
+                        "mean": "版权，著作权"
+                    }
+                ],
+                "wordRootInfo": {
+                    "word_info_list": [
+                        {
+                            "word": "copyrighted",
+                            "pos_mean_info_list": [
+                                {
+                                    "pos": "adj.",
+                                    "mean": "有版权的；受版权保护的"
+                                }
+                            ]
+                        }
+                    ],
+                    "root_word": "copyright"
+                },
+                "word_group": [
+                    {
+                        "brief_definition": "版本图书馆",
+                        "phrase": "copyright library",
+                        "pos": "n."
+                    },
+                    {
+                        "brief_definition": "版权法",
+                        "phrase": "copyright law",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "著作权人；版权拥有人",
+                        "phrase": "copyright owner",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "版权声明；版权公告；版权通知",
+                        "phrase": "copyright notice",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "违反版权；侵犯版权；版权侵犯",
+                        "phrase": "copyright violation",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "版权所有",
+                        "phrase": "copyright reserved",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "版权律师",
+                        "phrase": "copyright lawyer",
+                        "pos": ""
+                    },
+                    {
+                        "brief_definition": "版权软件",
+                        "phrase": "copyright software",
+                        "pos": ""
+                    }
+                ],
+                "bilingual": [
+                    {
+                        "source": "No part of this work covered by the <em>copyright</em>.",
+                        "target": "本作品的任何部分均受版权保护。",
+                        "url": ""
+                    },
+                    {
+                        "source": "The publisher would like to thank the following sources for permission to reproduce their <em>copyright</em> protected photos.",
+                        "target": "出版商感谢以下来源允许复制其版权保护的照片。",
+                        "url": ""
+                    },
+                    {
+                        "source": "This action infringes the <em>copyright</em> laws.",
+                        "target": "这个行为侵犯了版权法。",
+                        "url": ""
+                    },
+                    {
+                        "source": "She registered the <em>copyright</em> for her new song.",
+                        "target": "她为她的新歌注册了版权。",
+                        "url": ""
+                    },
+                    {
+                        "source": "The author holds the <em>copyright</em> to all his works.",
+                        "target": "作者拥有他所有作品的版权。",
+                        "url": ""
+                    },
+                    {
+                        "source": "The <em>copyright</em> of this book expires in 50 years.",
+                        "target": "这本书的版权在50年后到期。",
+                        "url": ""
+                    },
+                    {
+                        "source": "The company was sued for infringing <em>copyright</em> laws.",
+                        "target": "该公司因侵犯版权法而被起诉。",
+                        "url": ""
+                    },
+                    {
+                        "source": "The artist was fined for infringing <em>copyright</em> laws.",
+                        "target": "该艺术家因侵犯版权法而被罚款。",
+                        "url": ""
+                    },
+                    {
+                        "source": "Movie companies take <em>copyright</em> protection very seriously.",
+                        "target": "电影公司非常重视版权保护。",
+                        "url": ""
+                    },
+                    {
+                        "source": "<em>Copyright</em> protection is very important for creators.",
+                        "target": "版权保护对于创作者来说非常重要。",
+                        "url": ""
+                    }
+                ],
+                "baike": {
+                    "showMore": true,
+                    "list": [
+                        {
+                            "lemmaTitle": "著作权",
+                            "link": "https://baike.sogou.com/v300434.htm?ch=sogou.fanyi",
+                            "abstract": "著作权（英文名：copyright）是有期限的保护著作人知识财产的权利。 著作权分为著作人格权与著作财产权。著作权要保障的是思想的表达形式，而不是保护思想本身。著作权在一定期限经过后，著作财产权即归于失效，而属公有领域，任何人皆可自由利用。",
+                            "wapPic": "//img04.sogoucdn.com/v2/thumb/retype_exclude_gif/ext/auto/q/80/crop/xy/ai/w/140/h/140/resize/w/140?appid=201005&sign=851dfa810ad5d42e083445ad02e741bf&url=https%3A%2F%2Fpic.baike.soso.com%2Fugc%2Fbaikepic2%2F0%2F20231221134914-915945849_jpeg_1180_780_433303.jpg%2F0",
+                            "pcPic": "//img03.sogoucdn.com/v2/thumb/retype_exclude_gif/ext/auto/q/80/crop/xy/ai/w/140/h/140/resize/w/140?appid=201005&sign=851dfa810ad5d42e083445ad02e741bf&url=https%3A%2F%2Fpic.baike.soso.com%2Fugc%2Fbaikepic2%2F0%2F20231221134914-915945849_jpeg_1180_780_433303.jpg%2F0"
+                        },
+                        {
+                            "lemmaTitle": "Copyright",
+                            "link": "https://baike.sogou.com/v156409.htm?ch=sogou.fanyi",
+                            "abstract": "版权即著作权，是指文学、艺术、科学作品的作者对其作品享有的权利（包括财产权、人身权）。版权的取得有两种方式：自动取得和登记取得。在中国，按照著作权法规定，作品完成就自动有版权。 所谓完成，是相对而言的，只要创作的对象已经满足法定的作品构成条件，既可作为作品受到著作权法保护。在学理上，根据性质不同，版权可以分为著作权及邻接权，简单来说，著作权是针对原创相关精神产品的人而言的，而邻接权的概念，是针对表演或者协助传播作品载体的有关产业的参加者而言的，比如表演者、录音录像制品制作者、广播电视台、出版社等等。",
+                            "wapPic": "//img03.sogoucdn.com/v2/thumb/retype_exclude_gif/ext/auto/q/80/crop/xy/ai/w/140/h/140/resize/w/140?appid=201005&sign=31301cf589d2c1f4ebfe00901ecc71e8&url=https%3A%2F%2Fpic.baike.soso.com%2Fugc%2Fbaikepic2%2F8202%2F20220420185608-474203166_jpeg_334_83_3355.jpg%2F0",
+                            "pcPic": "//img03.sogoucdn.com/v2/thumb/retype_exclude_gif/ext/auto/q/80/crop/xy/ai/w/140/h/140/resize/w/140?appid=201005&sign=31301cf589d2c1f4ebfe00901ecc71e8&url=https%3A%2F%2Fpic.baike.soso.com%2Fugc%2Fbaikepic2%2F8202%2F20220420185608-474203166_jpeg_334_83_3355.jpg%2F0"
+                        }
+                    ]
+                }
+            },
+            "book": {
+                "yingyinNormal": [
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/f012eb5fd120cc2d5b68f18e3d0e7c8c_67362.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/b7eb195b667faa39f865c0372f33630c_74199.mp3",
+                        "isLavafox": true,
+                        "en": "We have the derivative <em>copyright</em>. Doesn't give you the right to steal.",
+                        "zh": "我们有衍生版权，但并不代表你们有权利剽窃。",
+                        "videoNameZh": "《傲骨贤妻 第五季》",
+                        "videoNameEn": "《The Good Wife Season 5》",
+                        "url": "http://bisentence_movie.sogou.com/1be457acf1df360a28d927b5058795f4_5149bc669270f9f587f1f7861388e0cff7fc55c1"
+                    },
+                    {
+                        "picUrl": "http://pic01.sogoucdn.com/s3/a/201051/b630caafa2606557856da7a333933a5d_54182.jpg",
+                        "audioUrl": "http://pic03.sogoucdn.com/s3/a/201051/a1f9f6144253699e35a18429be55fd86_8452.mp3",
+                        "isLavafox": true,
+                        "en": "Listen, I was looking at the ring, and it seemed a little weird. No <em>copyright</em> notice on it.",
+                        "zh": "听我说，我仔细观察了魔戒，看上去有点奇怪，上面竟然没有版权声明。",
+                        "videoNameZh": "《生活大爆炸 第三季》",
+                        "videoNameEn": "《The Big Bang Theory Season 3》",
+                        "url": "http://bisentence_movie.sogou.com/af6d5c95d01096c409038488c0328b3b_969fdff707ad30b04a663443cd0a7712f82bfd9c"
+                    },
+                    {
+                        "picUrl": "http://pic04.sogoucdn.com/s3/a/201051/f012eb5fd120cc2d5b68f18e3d0e7c8c_67362.jpg",
+                        "audioUrl": "http://pic04.sogoucdn.com/s3/a/201051/0cb258f586827d7a17da60b043544b2f_19545.mp3",
+                        "isLavafox": true,
+                        "en": "This is a derivative <em>copyright</em> from Rebel Kane granted exclusively to Tiller Television. You'll be getting your five dollars back.",
+                        "zh": "这是里贝尔·凯恩给蒂勒的电视节目独家的衍生版权，你很快会收到那五美金的退款。",
+                        "videoNameZh": "《傲骨贤妻 第五季》",
+                        "videoNameEn": "《The Good Wife Season 5》",
+                        "url": "http://bisentence_movie.sogou.com/9f8982e2d9caaf7d7cfbd136c532c626_7cbfbefb3da687c260fde8a96eef20f25ae016fa"
+                    }
+                ]
+            },
+            "pic": "",
+            "voice": {
+                "phonetic": [
+                    {
+                        "text": "ˈkɒpiraɪt",
+                        "type": "uk",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/4451_copyright_uk.mp3"
+                    },
+                    {
+                        "text": "ˈkɑːpiraɪt",
+                        "type": "usa",
+                        "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/4451_copyright_usa.mp3"
+                    }
+                ]
+            },
+            "dictType": "oxford_buchong",
+            "kaoyan": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 0,
+                        "pos": "n",
+                        "chinese": "版权",
+                        "sense_tier_ratio": 0
+                    },
+                    {
+                        "sense_tier": 0,
+                        "pos": "v",
+                        "chinese": "获得(书等)的版权",
+                        "sense_tier_ratio": 0
+                    }
+                ],
+                "word": "copyright",
+                "direction_info": {
+                    "ranges": 12,
+                    "description": "数据源自2012-2023年12年间全国考研试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2012-2023年全国考研英语一和考研英语二共24套考研试卷，包括阅读、完型填空、翻译、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选全国考研考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2012-2023年12年间全国考研英语一和考研英语二试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 1,
+                "total_exam_freq": 0,
+                "sense": {
+                    "sense_num": 2,
+                    "sense_info_list": [
+                        {
+                            "synonyms": "",
+                            "en": "",
+                            "zh": "版权",
+                            "pos": "n",
+                            "antonyms": ""
+                        },
+                        {
+                            "synonyms": "",
+                            "en": "",
+                            "zh": "获得(书等)的版权",
+                            "pos": "v",
+                            "antonyms": ""
+                        }
+                    ]
+                }
+            },
+            "CET6": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 1,
+                        "pos": "n",
+                        "chinese": "版权",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "copyright",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2016.6-2023.6年8年间全六级试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight>考纲释义</highlight>\n精选实考、考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2016-2023年51套试卷，包括阅读、听力、翻译等所有题型。\n\n<highlight>真题例句</highlight>\n精选2016-2023年8年间全六级试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 1,
+                "total_exam_freq": 1,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "版权",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "Nowadays celebrities steal lyrics from each other and struggle with <highlight>copyright</highlight> violation accusations, even though all the work was done by other people.",
+                                    "month": 6,
+                                    "source": "CET6",
+                                    "coll": "",
+                                    "sentence_trans": "如今，名人们互相剽窃歌词，或被指控侵犯版权，即使所有的作品都是别人写的。",
+                                    "year": 2021,
+                                    "type": "阅读理解C",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            "CET4": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 1,
+                        "pos": "n",
+                        "chinese": "版权",
+                        "sense_tier_ratio": 100
+                    }
+                ],
+                "word": "copyright",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2016.6-2023.6年8年间全四级试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight>考纲释义</highlight>\n精选实考、考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2016-2023年51套试卷，包括阅读、听力、翻译等所有题型。\n\n<highlight>真题例句</highlight>\n精选2016-2023年8年间试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 1,
+                "total_exam_freq": 1,
+                "sense": {
+                    "sense_num": 1,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "版权",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "\"Snow White\" is available for everyone to use, but the \"dwarfs\" are still under <highlight>copyright</highlight>.",
+                                    "month": 12,
+                                    "source": "CET4",
+                                    "coll": "",
+                                    "sentence_trans": "《白雪公主》可供所有人使用，但“小矮人”仍受版权保护。",
+                                    "year": 2016,
+                                    "type": "阅读理解B",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            "gaokao": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 0,
+                        "pos": "n",
+                        "chinese": "版权; 著作权",
+                        "sense_tier_ratio": 0
+                    },
+                    {
+                        "sense_tier": 0,
+                        "pos": "v",
+                        "chinese": "获得…的版权",
+                        "sense_tier_ratio": 0
+                    }
+                ],
+                "word": "copyright",
+                "direction_info": {
+                    "ranges": 8,
+                    "description": "数据源自2015-2022年8年间全国卷和自主命题省市高考卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2015-2022年全国卷高考试卷，包括阅读、完形、单选、填空、听力、改错、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选各省市考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2015-2022年8年间全国卷和自主命题省市高考卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 1,
+                "total_exam_freq": 0,
+                "sense": {
+                    "sense_num": 2,
+                    "sense_info_list": [
+                        {
+                            "synonyms": "",
+                            "en": "",
+                            "zh": "版权; 著作权",
+                            "pos": "n",
+                            "antonyms": ""
+                        },
+                        {
+                            "synonyms": "",
+                            "en": "",
+                            "zh": "获得…的版权",
+                            "pos": "v",
+                            "antonyms": ""
+                        }
+                    ]
+                }
+            },
+            "zhongkao": {
+                "exam_freq_info": [
+                    {
+                        "sense_tier": 1,
+                        "pos": "n",
+                        "chinese": "版权; 著作权",
+                        "sense_tier_ratio": 50
+                    },
+                    {
+                        "sense_tier": 1,
+                        "pos": "v",
+                        "chinese": "获得…的版权",
+                        "sense_tier_ratio": 50
+                    }
+                ],
+                "word": "copyright",
+                "direction_info": {
+                    "ranges": 4,
+                    "description": "数据源自2018-2021年4年间全国各省市中考试卷，由搜狗翻译进行大数据分析汇总，数据仅供参考。\n\n<highlight> 考频分布</highlight>\n由搜狗翻译收集历年真题试卷、汇总单词出现的总频次、释义分布。题型选自2018-2021年全国重点省市中考试卷，包括听力、阅读、完形、单选、填空、改错、写作等所有题型。\n\n<highlight> 考纲释义</highlight>\n精选各省市考纲词汇、单词义项，由搜狗大数据与考纲、历年真题进行匹配。\n\n<highlight>真题例句</highlight>\n精选2018-2021年4年间全国各省市中考试卷，由搜狗大数据与搜索内容匹配历年真题例句。\n\n搜狗翻译拥有最终解释权。"
+                },
+                "important_score": 1,
+                "word_family": {
+                    "derivative_info_list": [
+                        {
+                            "derivative_info_list": [],
+                            "word": "copyrighted",
+                            "mean": "vt. 获得…的版权；保护版权；（copyright的过去式和过去分词）"
+                        }
+                    ],
+                    "word": "copyright",
+                    "mean": "n. 版权；享有版权的文学（或艺术、音乐）作品"
+                },
+                "total_exam_freq": 2,
+                "sense": {
+                    "sense_num": 2,
+                    "sense_info_list": [
+                        {
+                            "en": "",
+                            "zh": "版权; 著作权",
+                            "pos": "n",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "When the song was sung every night in a Broadway Musical，Jessica，went to court（法院） over the <highlight>copyright</highlight> problem of the song．",
+                                    "month": -1,
+                                    "source": "南京卷",
+                                    "coll": "",
+                                    "sentence_trans": "当这首歌每晚在百老汇音乐剧中被演唱时，杰西卡因歌曲的版权问题上了法庭。",
+                                    "year": 2019,
+                                    "type": "完型",
+                                    "day": -1
+                                }
+                            ]
+                        },
+                        {
+                            "en": "",
+                            "zh": "获得…的版权",
+                            "pos": "v",
+                            "synonyms": "",
+                            "antonyms": "",
+                            "examination_example": [
+                                {
+                                    "sentence": "The Hill sisters <highlight>copyrighted</highlight>（取得版权） their song on October 16,1893．",
+                                    "month": -1,
+                                    "source": "南京卷",
+                                    "coll": "",
+                                    "sentence_trans": "希尔姐妹于 1893 年 10 月 16 日获得了歌曲版权。",
+                                    "year": 2019,
+                                    "type": "完型",
+                                    "day": -1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            "sentencesData": {
+                "status": 1,
+                "info": "notZh2En",
+                "data": {}
+            },
+            "isAutoMatch": false,
+            "Zh2En": false
+        },
+        "query": "copyright",
+        "result": "版权",
+        "tabSelect": "detail",
+        "dictionaryType": "oxford_buchong",
+        "notFound_show": false,
+        "phoneticShow": "",
+        "globalShowTranslateRecord": "",
+        "pronPrefer": {
+            "type": "usa_1",
+            "speaker": "male",
+            "speed": "standard"
+        },
+        "ServerRecord": "",
+        "ServerUIGS": {
+            "version": "new",
+            "type": "all",
+            "stype": "success",
+            "terminal": "web",
+            "fr": "default",
+            "direction": "etoz",
+            "from": "en",
+            "to": "zh-CHS",
+            "len": 9,
+            "qtype": "text",
+            "qctype": "qc_1",
+            "dict_cover": 1,
+            "detail": 1,
+            "wordCardCover": 1,
+            "wordCardEn": 1,
+            "wordCardCh": 0,
+            "wordCardMinor": 0,
+            "wordCardNetmean": 0,
+            "wordDeform": 1,
+            "keyword": 0,
+            "bilingual": 1,
+            "simple": 0,
+            "levelList": 1,
+            "synonym": 1,
+            "antonym": 0,
+            "conjugate": 1,
+            "rootaffix": 0,
+            "baike_sogou": 1,
+            "baike_wiki": 0,
+            "wordDifference": 0,
+            "word_phrase": 1,
+            "secondQuery": 0,
+            "dict_oxford": 0,
+            "dict_newcentury": 0,
+            "zhongkaotab": 1,
+            "gaokaotab": 1,
+            "CET4tab": 1,
+            "CET6tab": 1,
+            "kaoyantab": 1,
+            "network_tab": 0,
+            "yinying_tab": 1,
+            "tuozhan_tab": 0,
+            "one_pic": 0,
+            "more_pic": 0,
+            "no_pic": 0,
+            "uuid": "6acb0e2f-323f-4d55-9245-9464eba89689",
+            "from_type": 0,
+            "t_trans_ssr": 185
+        },
+        "ServerModelUIGS": {
+            "terminal": "web",
+            "type": "trans_model",
+            "pbtype": "pv",
+            "model_general": 1,
+            "model_medical": 1,
+            "model_finance": 1
+        },
+        "ServerSgtkn": "65B513D424E588222A2C01E83C0449692A672D5C67559CA0",
+        "suggShow": false,
+        "suggestion": "",
+        "suggDirection": "",
+        "usualTop": "",
+        "baseDict": "",
+        "wordCardClick": false,
+        "isFrInput": false,
+        "kanaTips": {
+            "show": false,
+            "left": "",
+            "top": "",
+            "type": "",
+            "arrowLeft": ""
+        },
+        "currSentenceIndex": -1,
+        "prefixStrObj": {
+            "prefixStr": "",
+            "oriPrefixStr": ""
+        },
+        "selectTransBox": {
+            "show": false,
+            "right": 0,
+            "top": 0,
+            "paraphraseInfo": {
+                "word": "",
+                "from": "",
+                "to": "",
+                "area": ""
+            }
+        },
+        "sentenceLoading": false,
+        "newSentenceInfo": {
+            "sentence": "",
+            "candidateIndex": 0
+        },
+        "moreTipInfo": {
+            "opacity": 0,
+            "zIndex": -1
+        },
+        "paraphraseShowInfo": {
+            "card": 0,
+            "query": "",
+            "card_dict": 0
+        },
+        "selectType": "",
+        "wordPos": 0,
+        "candidateWord": "",
+        "syntaxVisible": false,
+        "syntaxStatus": 0
+    },
+    "language": {
+        "from": "auto",
+        "to": "zh-CHS",
+        "detect": "en",
+        "model": "general",
+        "detectShow": false,
+        "langMap": {
+            "current": ""
+        },
+        "zh2en": false,
+        "fromItemList": [
+            {
+                "lang": "auto",
+                "text": "自动检测",
+                "play": false
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "ko",
+                "text": "韩语",
+                "play": true,
+                "abbr": "韩"
+            },
+            {
+                "lang": "fr",
+                "text": "法语",
+                "play": true,
+                "abbr": "法"
+            },
+            {
+                "lang": "th",
+                "text": "泰语",
+                "play": true,
+                "abbr": "泰"
+            }
+        ],
+        "toItemList": [
+            {
+                "lang": "zh-CHS",
+                "text": "中文",
+                "play": true
+            },
+            {
+                "lang": "en",
+                "text": "英语",
+                "play": true
+            },
+            {
+                "lang": "ja",
+                "text": "日语",
+                "play": true
+            },
+            {
+                "lang": "ru",
+                "text": "俄语",
+                "play": true,
+                "abbr": "俄"
+            },
+            {
+                "lang": "ko",
+                "text": "韩语",
+                "play": true,
+                "abbr": "韩"
+            },
+            {
+                "lang": "tr",
+                "text": "土耳其语",
+                "play": false,
+                "abbr": "土"
+            }
+        ]
+    },
+    "voice": {
+        "from": {
+            "lang": "en",
+            "type": "from",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22copyright%22%2C%22spokenDialect%22%3A%22en%22%2C%22rate%22%3A%220.8%22%7D",
+            "list": [
+                {
+                    "type": "uk_0",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "ˈkɒpiraɪt",
+                    "abbr": "英",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/4451_copyright_uk.mp3"
+                },
+                {
+                    "type": "usa_1",
+                    "play": true,
+                    "show": true,
+                    "active": false,
+                    "phonetic": "ˈkɑːpiraɪt",
+                    "abbr": "美",
+                    "src": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/4451_copyright_usa.mp3"
+                }
+            ],
+            "stype": "phonetic",
+            "phoneticShow": [
+                {
+                    "text": "ˈkɒpiraɪt",
+                    "type": "uk",
+                    "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/4451_copyright_uk.mp3"
+                },
+                {
+                    "text": "ˈkɑːpiraɪt",
+                    "type": "usa",
+                    "filename": "http://dlweb.sogoucdn.com/phonetic/sogouvoices/4451_copyright_usa.mp3"
+                }
+            ]
+        },
+        "to": {
+            "lang": "zh",
+            "type": "to",
+            "show": true,
+            "play": true,
+            "src": "/openapi/external/getWebTTS?S-Param=%7B%22text%22%3A%22%E7%89%88%E6%9D%83%22%2C%22spokenDialect%22%3A%22zh-CHS%22%2C%22rate%22%3A%220.8%22%7D",
+            "stype": "normal"
+        }
+    }
+}
